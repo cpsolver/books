@@ -1,0 +1,425 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<title>23 Creative Problem Solving Tips</title>
+
+<style type=text/css>
+html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, code, img, small, strong, dl, dt, dd, ol, ul, li, form, label{margin: 10;padding: 10;border: 0 none;outline: 0 none;vertical-align: baseline;}
+p{font-size: 30px;font-weight: normal;line-height: 200%;text-align: left;margin: 0px 0px 0px 0px;}
+h1{font-family: "Palatino","Georgia","Times",serif;font-weight: 500;line-height: 200%;margin: 5px 0;letter-spacing: 0.0rem; 23px;font-weight: bold;letter-spacing: 1px;margin-top: 25px;margin-bottom: 17px;}
+</style>
+
+</head>
+
+	<body>
+
+    <h1>23 Creative Problem Solving Tips</h1>
+
+    <p>Written by Richard Fobes, author of "The Creative Problem Solver’s Toolbox."</p>
+
+    <p>Copyright 2020, by Solutions Through Innovation, at www.SolutionsCreative.com . All rights are reserved.</p>
+
+
+    <h1>Introduction</h1>
+
+  <p>These creative-problem-solving tips were originally published as a regular column in the American Creativity Association’s <i>Focus</i> newsletter.&nbsp; They were written by Richard Fobes, who is the author of "The Creative Problem Solver’s Toolbox: A Complete Course in the Art of Creating Solutions to Problems of Any Kind," which has been published around the world in ten languages.</p>
+
+
+  <h1>Tip 1: Precede relaxing activities with a few minutes of thinking of possible solutions, even crazy or impractical ones.</h2>
+
+  <p>It’s well known that after thinking about a problem for awhile it can be helpful to take a break by going for a walk, washing dishes, or even sleeping.&nbsp; To increase the chances of your subconscious mind providing you with a solution to your problem during this relaxing activity, spend a few minutes just before it thinking of possible, although impractical, <i>solutions</i>.&nbsp; For example, you might think "Well, although it’s not practical, using helicopters would certainly solve the problem."&nbsp; Or, "It’s a silly idea, but we could put the cat on a leash."&nbsp; Make sure you keep your attention on what can be done in the future; otherwise you’ll find yourself thinking about the past, such as "If only so-and-so hadn’t done such-and-such …."</p>
+
+  <p>Such sample solutions convey to your subconscious mind what you want it to think about while, consciously, you’ll be relaxing.&nbsp; If a solution comes to you while you’re relaxing, it’s likely to be much more practical than your sample solutions.</p>
+
+
+  <h1>Tip 2: Avoid the tendency to associate two things so closely that differences between them are ignored.</h2>
+
+  <p>Consider the problem of widespread technical illiteracy.&nbsp; There’s a tendency to so closely associate science and technology that technology is assumed to be taught in school as a part of teaching science.&nbsp; But science focuses on what has not yet been understood, such as things too small to see (such as chemistry and particle physics), things far away (such as astronomy), and systems too complex to easily understand (such as ecology and biological chemistry).&nbsp; Note that scientists don’t study why FM radio stations sound better than AM stations, nor why a car can sometimes be push-started but not jump-started.&nbsp; That’s because these technical concepts are already known&mdash;by some people.&nbsp; This reveals that teaching technology in school as a subject in it’s own right, not just as a part of science classes, would help reduce technical illiteracy.</p>
+
+  <p>Now consider a problem you want to solve.&nbsp; What things are so closely associated with one another in your mind that failing to separate them is keeping a creative solution hidden?</p>
+
+
+  <h1>Tip 3: Sketch to encourage thinking without words.</h2>
+
+  <p>When something new is created it doesn’t usually have a name.&nbsp; As an example, the pioneering anthropologist Margaret Mead said "When the early letters were written, we did not even have a name for what we were doing, except the general term ‘field work’."&nbsp; To limit yourself to thinking in words is to limit yourself to what has already been conceived and named.</p>
+
+  <p>A useful way to promote thinking without words is to sketch.&nbsp; But, in contrast to sketching as taught in art classes, don’t waste time trying to create pictures that other people can easily recognize.&nbsp; For instance, instead of drawing a realistic person you can draw a circle and write an appropriate word or two inside the circle to indicate, to yourself, who that person is.&nbsp; Likewise, rectangles and crudely outlined objects can be used to represent things such as houses, equipment, and information.&nbsp; Arrows, which can be labeled if necessary, are useful for indicating actions and links.</p>
+
+  <p>It is the process of creating a sketch, not the sketch itself, that is of value.&nbsp; Whether you sketch a situation as it is now or how you would like it to be, creating the sketch forces you to be specific.&nbsp; In turn, being specific leads you to a clearer understanding of the situation and forces you to make important, but easily overlooked, design decisions.</p>
+
+  <p>After you have created a new solution on paper you may discover that what you have created is difficult to translate into words.&nbsp; This is when you will appreciate the value of sketching to take you where words cannot go.</p>
+
+
+  <h1>Tip 4: Consider creating non-object solutions.</h2>
+
+  <p>Our industrial culture heavily emphasizes the financial value of inventing new objects because a newly invented object can be sold without competition (if a patent is obtained and infringers are sued).&nbsp; Because of this orientation, non-object solutions to problems are often overlooked.</p>
+
+  <p>Consider the problem of sealing a shower curtain against the shower wall to keep splashed water inside the shower.&nbsp; One object-oriented solution is to use magnets embedded in the shower curtain to hold the curtain against the shower wall, which is either made of metal or has metal or magnets attached to the wall.&nbsp; In contrast, a non-object solution is to use some water to seal the shower curtain to the shower wall.</p>
+
+  <p>As this example illustrates, non-object solutions can be just as effective as object-oriented solutions.&nbsp; However, it’s often not financially profitable for the creator of a non-object solution to share his or her idea with other people, so non-object solutions often remain unshared.&nbsp; In contrast, a new object is displayed in stores and advertised in magazines and catalogs, so people readily learn about object-oriented solutions.</p>
+
+  <p>Non-object solutions are especially useful in solving problems that involve people.&nbsp; This lesson has been learned repeatedly by inventors who attempted to end war by inventing the ultimate weapon or defense system.</p>
+
+  <p>Now consider a problem you want to solve.&nbsp; Of course you can probably think of a device, gadget, pill, or other object that might solve the problem.&nbsp; But what kind of technique, strategy, convention, process, representation, word, or other non-object might also solve the problem?</p>
+
+
+  <h1>Tip 5: Make use of intuitive judgment.</h2>
+
+  <p>Creative problem solving commonly involves making decisions that defy logical analysis.&nbsp; In such situations intuitive judgment, which is a particular kind of intuition, is a valuable resource.</p>
+
+  <p>Imagine that you were to flip a coin as if you were going to let the outcome determine an important decision.&nbsp; But instead of focusing on the outcome, notice your <i>reaction</i> in the form of "Great!&nbsp; It’s heads!" or "Darn!&nbsp; It’s tails!"&nbsp; Such subtle sensations are similar to the subtle and vague reactions involved in intuitive judgment.</p>
+
+  <p>Instead of flipping a coin to prompt such reactions, imagine each choice as if you had already made that choice.&nbsp; Then, pay attention to your subtle "gut-level" reactions.&nbsp; Finally, compare your negative or positive reactions with one another to determine which option is least objectionable or most promising.&nbsp; (Remember that negative reactions are typically stronger than positive reactions.)</p>
+
+  <p>The reactions involved in intuitive judgments are very similar to feelings (also called emotions) such as anger, fear, and guilt.&nbsp; Therefore, improving your ability to notice and identify feelings helps to distinguish between such feelings and the similar sensations involved in intuitive judgment.</p>
+
+  <p>Initially, don’t depend on your intuitive judgment to actually make decisions.&nbsp; After following your normal decision-making process and seeing the outcome, determine whether you would have been better off following your intuitive judgment.&nbsp; Only begin to cautiously use your newly developed thinking skill when you have learned which kinds of situations and reactions can be depended on.</p>
+
+  <p>Intuitive judgment amounts to accessing portions of your intelligence that you cannot directly access through logical analysis.&nbsp; It is especially useful when creating or evaluating new solutions.</p>
+
+
+  <h1>Tip 6: Consider flexibility, not just standardization.</h2>
+
+  <p>It would be very annoying if battery-powered toys, radios, and clocks each required a unique kind of battery.&nbsp; Fortunately, just a few standardized kinds of batteries, such as the AA, AAA, C, D, and 9-volt kinds, are needed for most of these devices.&nbsp; This is an example of a situation in which standardization offers big advantages.</p>
+
+  <p>But in many situations flexibility, which is the opposite of standardization, can offer worthwhile advantages.</p>
+
+  <p>Real estate developers commonly design large apartment complexes using only one or two standardized apartment layouts.&nbsp; Although this saves money in designing and building the apartments, do the future renters necessarily want to be living next to people who also want the same kind of apartment?&nbsp; This practice of standardization leaves out options such as building an apartment complex that accommodates both families and senior citizens.&nbsp; In this kind of apartment complex, senior citizens could provide daycare services in return for assistance doing what they are physically unable to do.</p>
+
+  <p>Situations that involve people are especially ripe for creative solutions that involve flexibility.&nbsp; For instance, lately businesses have used flexibility to offer greater incentives to their employees without spending additional money.&nbsp; Two such innovations are flexible working hours and "flexible benefits."&nbsp; Flexible hours enable employees to match or complement the schedule of other family members or avoid peak traffic congestion.&nbsp; A flexible benefits program allows each employee to choose how a fixed amount of money is distributed for their healthcare options and retirement-program options.</p>
+
+  <p>Flexibility is not necessarily better than standardization.&nbsp; But flexibility is often neglected because standardization has been a key ingredient in industrialization.</p>
+
+  <p>Now that computer technology has arrived, even manufacturing will increasingly incorporate flexibility.&nbsp; For instance, a long-awaited innovation will be the manufacturing of clothing that fits a particular person’s size and taste.&nbsp; This will be a dramatic contrast to standardized sizes (which, for many people, don’t fit them) and standardized styles (which don’t fit many people’s preferences).</p>
+
+  <p>Standardization is so often useful that its opposite, flexibility (an accommodation of diversity), is commonly overlooked as a useful feature in solutions and innovations.</p>
+
+
+  <h1>Tip 7: If necessary, regard implementing a creative solution as a separate problem with a separate solution.</h2>
+
+  <p>The safety razor was first invented to solve the problem of men cutting themselves while shaving with a bare blade.&nbsp; Yet in spite of their safety advantage, few men bought safety razors.&nbsp; Part of the reluctance was due to the high cost of the handle, which had to be bought before the disposable blades could be used.&nbsp; King Camp Gillette overcame this secondary problem by selling his company’s handles for less than what it cost to manufacture them&mdash;and selling his blades at a high profit.&nbsp; To stop other manufacturers from selling blades to fit his handles, he patented the way the handle and blade attached.&nbsp; This was the key to the sudden increase in popularity of his company’s razors, which rose from 51 razors and 168 blades in 1903 to 90,000 razors and 12,400,000 blades in 1904.</p>
+
+  <p>It’s often not enough that you create a solution to a problem.&nbsp; You also may need to create a way for people to more easily adopt your solution.&nbsp; This applies not only to situations in which customers buy a product, but also applies to business and social situations in which you must convince managers, fellow employees, or friends to embrace a useful approach you’ve created.</p>
+
+  <p>If you find people reluctant to adopt one of your creative solutions, think of the process of implementing your solution as a separate problem needing a separate (and perhaps creative) solution.</p>
+
+
+  <h1>Tip 8: Avoid assuming that all solutions within a general category won’t work just because the possible solutions you can think of within the category won’t work.</h2>
+
+  <p>Suppose you were observing a discussion about improving the quality of education and someone said "Let’s move some college-level subjects into elementary school."&nbsp; A likely response would be "No way!&nbsp; Young kids aren’t ready to learn about subjects like algebra, calculus, physics, and English literature."&nbsp; Then suppose the first person said "How about the basic concepts of surveying and mapping?&nbsp; They could be taught in elementary school."&nbsp; A critic would probably reply "Surveying?&nbsp; Don’t be silly.&nbsp; Kids in elementary school haven’t yet learned about trigonometry or even multiplying and dividing decimal numbers.&nbsp; They could never learn surveying."</p>
+
+  <p>Yet it turns out that surveying and mapping can be done in a way that doesn’t involve any numbers at all, yet it teaches students about angles and mapping.&nbsp; Very briefly, the process involves just a paper, pencil, a straight-edge (which can be a ruler), and two small flat tables placed at separated locations in, say, a school playground.&nbsp; Sightings are done along the straight-edge to corners of buildings and fences and other special points on the playground.&nbsp; With the straight-edge passing through a point that represents the location of the table on which the paper is currently placed, a line is drawn along the straight-edge for each sighting.&nbsp; One of the sightings from the first table must be to the second table; before doing the sightings from the second table, the paper is aligned so that sighting line points to the first table.&nbsp; The two sighting lines (one drawn at each table) for each object cross where the corner or object is located on the map.&nbsp; Straight lines can be drawn between corners to indicate walls and fences.&nbsp; Additional details can be added to make a map of the playground&mdash;without using any numbers.</p>
+
+  <p>Now that you’re aware of this technique, the seemingly bizarre idea of moving some college-level subjects into elementary school is seen to have at least some merit.</p>
+
+  <p>Notice that when a novel idea is first suggested&mdash;or thought of&mdash;there is a strong tendency to follow this common thinking pattern:</p>
+
+  <p>1.&nbsp; In response to a new general approach to solving a problem, we imagine some specific examples that fit within the general approach.</p>
+
+  <p>2.&nbsp; We recognize that none of the specific examples would work.</p>
+
+  <p>3.&nbsp; We conclude that the general approach won’t work.</p>
+
+  <p>This is one way we often cut ourselves off from, instead of opening ourselves up to, creative new solutions.</p>
+
+  <p>To open your mind to creative solutions, allow for the possibility that a general category of solutions might include a practical solution even though all the specific ideas that first come to mind won’t work.</p>
+
+
+  <h1>Tip 9: To prompt useful insights, look beneath the surface to understand more clearly.</h2>
+
+  <p>This tip was written in 1992 during the 1992 U.S. Presidential election campaign.</p>
+
+<p>We’re in the season of politics, so here’s a political question: Why are there only two political parties in the United States?</p>
+
+  <p>Most people are content to answer this question with something like "There’s no need for more than two" or "That’s just the way it is."&nbsp; But this fails to account for what lies beneath the surface.</p>
+
+  <p>Consider what could have happened if Presidential candidate Ross Perot had stayed in the Presidential race.&nbsp; (Note that he later re-entered the race, but at a reduced popularity.)&nbsp; There’s a good chance that none of the three candidates would have received a majority of electoral votes.&nbsp; If this had happened, the winner would have been chosen by members of the House of Representatives (with each state having one vote).&nbsp; In other words, a failure to reach a majority decision would have resulted in the final decision being turned over to a select group of people.&nbsp; Although this scenario might seem remote, the House of Representatives has resolved non-majority Presidential-election results twice: in 1800 and 1824.</p>
+
+  <p>The prospect of letting a select group of people make the final choice of President is so unappealing that third political parties are avoided.&nbsp; This ensures that there are only two Presidential candidates and, in turn, this ensures that one of them will win a majority of electoral votes.</p>
+
+  <p>Another reason for having only two political parties is that the Presidential voting process is based on electoral votes, not popular votes.&nbsp; Because the winner in each state usually gets all the electoral votes for that state, it’s possible for a Presidential candidate to get more popular votes than his/her opponent and yet lose the election.&nbsp; Such a surprise outcome has occurred twice: in 1876 and 1888.&nbsp; (Update: It happened again in 2000 and 2016.)&nbsp; If there are only two candidates, this is less likely to occur.</p>
+
+  <p>Some foreign countries have more than two political parties.&nbsp; Why?&nbsp; They have different methods of voting.&nbsp; As one example, the method of voting that was set up for West Germany at the end of World War Two was specifically designed to accommodate more than two political parties.&nbsp; (Interestingly, it was partly designed by Americans.)&nbsp; As a result, prior to reunification there were about half a dozen popular political parties.&nbsp; That and other foreign voting methods don’t serve as models of fairness in other respects, but they emphasize that voting methods can set a de-facto limit on the number of political parties, even in the absence of an official limit.</p>
+
+  <p>This example reveals that surprises&mdash;and, therefore, insights&mdash;can emerge when you look beneath the surface to understand a situation more clearly.&nbsp; (It does not imply that there should be more than two political parties.)</p>
+
+  <p>Now, consider a problem you’re facing.&nbsp; Look beneath its surface to reach a clearer understanding of what’s really going on.&nbsp; Some surprises and useful insights are likely to arise.</p>
+
+
+  <h1>Tip 10: Understand the difference between decision-making and creative problem solving.</h2>
+
+  <p>In a group situation, how can making a difficult decision be handled creatively?&nbsp; First, it’s important to understand that, often, the reason a decision is difficult to make is that none of the available options would really solve the problem that you and others are hoping it will solve.&nbsp; After all, if one of the options were really a great solution, the decision would be easier to make.&nbsp; Ironically, it’s when none of the options is clearly a good one that the decision becomes difficult&mdash;and, often, hotly debated.</p>
+
+  <p>In situations where a decision is difficult to make, the ideal creative approach is to create yet another option: one that would effectively solve the problem.&nbsp; However, creating an effective solution usually takes longer than what’s allowed for making the decision.&nbsp; If the decision must be made soon, what can be done?&nbsp; First, if necessary, you can express your preference for the option that seems least offensive&mdash;knowing that the problem won’t be solved soon no matter which option is chosen.</p>
+
+  <p>Then, if solving the problem is important to you, spend time creating a more effective solution.&nbsp; Once you’ve created an effective and appropriate solution, share the idea with other people.&nbsp; If it really does have merit it will be passed on to other people, just as a good joke becomes widely shared.&nbsp; (And if you should hear about a good solution that you can further improve, pass on your refined version of it.)&nbsp; If your solution is truly effective and appropriate, eventually it will find its way into a list of options that decision-makers can choose from.&nbsp; You might not get credit for your creative efforts, but if solving the problem was your goal, you will have helped to reach that goal.</p>
+
+  <p>Creative problem solving is a slow process and therefore conflicts with the need to often make quick decisions.&nbsp; In a group situation, one way to deal with this contrast is to spend time creating solutions to a few problems and to share your solutions with other people.&nbsp; Effective solutions eventually get adopted, although it usually takes much longer than we would like.</p>
+
+
+  <h1>Tip 11: Appreciate humor.</h2>
+
+  <p>Especially at times when you’re confronted by lots of problems, it’s useful to appreciate moments of humor.&nbsp; In addition to providing welcome relief from the heaviness of a situation, humor provides an opportunity to experience the kind of thinking that’s similar to the thinking that occurs at moments of creative insight.&nbsp; To see this similarity, let’s look at a specific creative insight and a specific joke.</p>
+
+  <p>Architects used to regard buildings primarily as collections of walls, floors, and ceilings.&nbsp; This way of thinking makes sense because walls, floors, and ceilings are what people see and what construction workers build.&nbsp; Later, innovations in architecture arose when architects, including Frank Lloyd Wright, realized that buildings also could be regarded as <i>spaces</i> whose boundaries are formed by walls, floors, and ceilings.&nbsp; This way of thinking also makes sense because spaces are what people move around in.&nbsp; This example illustrates that the basis of creative thinking is a shift from a traditional way of thinking to a new and unexpected way of thinking.</p>
+
+  <p>Now, compare that shift in thinking with the shift that occurs in the punch line of the following joke: A drunken man wandered into an alley and slumped down against a building.&nbsp; A few minutes later, a pig came along and sat down beside him.&nbsp; Another few minutes later, a well-dressed man walked by and remarked, "You can judge someone by the company he keeps."&nbsp; With that, the pig got up and left.</p>
+
+  <p>As this joke and the architectural insight illustrate, the basis of both humor and creative thinking is a sudden and unexpected shift in thinking.&nbsp; People who resist shifts in thinking that occur at the end of jokes may also tend to resist shifts in thinking that could lead to useful creative ideas.</p>
+
+  <p>In case you need more reasons to appreciate humor, here are two more:</p>
+
+  <p>The goal of both humor and creative problem solving is the same: to make life more enjoyable.</p>
+
+  <p>Laughter helps to clear the mind, and creative problem solving becomes easier when it’s done with a clear mind.</p>
+
+
+  <h1>Tip 12: Think in concepts by recognizing similarities in what’s different.</h2>
+
+  <p>In addition to thinking in words, quantities, and pictures, it’s useful to think in concepts.&nbsp; To promote conceptual thinking, recognize similarities in what’s different.</p>
+
+  <p>Consider the concept of "positive feedback."&nbsp; In a sound system, if a sound gets into a microphone, is amplified, comes out the speakers, and gets back to the microphone slightly louder than before, then that sound quickly becomes the loud high-pitched squeal called "feedback."&nbsp; Positive feedback also occurs in the economy.&nbsp; When employees get a cost-of-living increase, the employer increases the price of their products or services to cover the increased salaries, that raises the cost of living for employees in other businesses, those employees get a cost-of-living increase, that employer raises prices, and the original employees are faced with a further increase in the cost of living.&nbsp; This similarity between sound systems and the economy reveals that strategies for eliminating feedback in a sound system offer creative ideas for dealing with a problem of high inflation.</p>
+
+  <p>Because the current (March 1993) economic problem is recession, not inflation, let’s look for other similarities between economics and sound systems.</p>
+
+  <p>A sound system requires energy, such as from a wall socket, to make small signals at the microphones become large signals at the speakers.&nbsp; Analogously, in a manufacturing business, capital investment is needed to pay for the resources (such as energy, raw materials, and employees) it takes to create products that consumers want to buy.&nbsp; But there is an important ingredient that’s missing in both of these situations.&nbsp; An audience doesn’t go to a concert to listen to a sound system; they go to hear creative people making music.&nbsp; Just as it takes creative people to make sounds into the microphones of a sound system, it takes creative people to supply manufacturing businesses with ideas for new products.</p>
+
+  <p>In the United States, there are many creative individuals with ideas that businesses could profit from.&nbsp; Unfortunately, the patent system acts as a barrier between those inventors and the businesses who could profit from their ideas.&nbsp; One woman came up with a simple invention and called a well-known manufacturer to see if they would be interested in her invention.&nbsp; They said they would be interested, but only if she got a patent on the idea.&nbsp; Unfortunately, the cost of getting a patent is so high (in spite of reduced rates for individuals) that she could never afford it with what she earns as a professional singer.&nbsp; Another woman got a patent for her invention of an improved baby carrier and licensed her invention to a manufacturer, but she had to mortgage her family’s house to cover the costs.&nbsp; Later, when she told her husband that she felt an idea coming for another invention, he said, "Get it out of your mind!&nbsp; I don’t want to deal with another one!"</p>
+
+  <p>The insight that the patent system blocks financial benefits reveals that one approach to improving the U.S.&nbsp; economy is to provide an affordable alternative to the expensive patent process.&nbsp; One approach would be to offer very low patent fees for ideas that are submitted to be shared, instead of monopolized.&nbsp; Finally individuals would have the opportunity to affordably share their inventive ideas, and businesses would offer useful new products based on those ideas.&nbsp; (Businesses would pay a fee to the U.S. government to use the ideas.&nbsp; To discourage people from submitting unpatentable and already-patented ideas, a refundable deposit would be charged&mdash;and returned if the patent is issued.)</p>
+
+  <p>What would motivate people to submit ideas knowing that they won’t receive money for their ideas?&nbsp; People spend tens of thousands of dollars to earn a college degree that they can list on their résumé.&nbsp; Similarly, many people would be willing to spend, say, two hundred dollars (and risk a reasonable deposit) to get a patent they can add to their résumé.&nbsp; As an added incentive, the patent office could award prizes (perhaps as tax credits) for the best shared inventions.</p>
+
+  <p>Seeing similarities in what’s different can prompt insights that reveal creative solutions to any kind of problem.</p>
+
+
+  <h1>Tip 13: Learn from true experts.</h2>
+
+  <p>When you face a problem that involves what you don’t fully understand, it’s useful to learn from an expert.</p>
+
+  <p>Managers at an automobile manufacturing plant tried to figure out why some of the windshields on one car model often leaked.&nbsp; Unable to solve the problem themselves, the managers hired consultants to help them.&nbsp; The consultants also couldn’t figure out why the windshields leaked, but they did notice that the windshields installed during one of the shifts didn’t leak.&nbsp; They watched the windshields installed during that shift and saw that the windshields were installed differently.&nbsp; When they asked the person in charge why the windshields weren’t installed according to the instructions, he said "If we did it that way, they would leak."</p>
+
+  <p>Instead of choosing an expert primarily based on titles, salaries, attire, and diplomas, it’s wise to judge expertise according to how clearly the person understands the situation you want to improve.</p>
+
+  <p>If you were looking for an expert in losing weight, who would you turn to?&nbsp; Someone who is thin, and has always been that way?&nbsp; Someone who has lots of experience with diets and exercise programs, but is still overweight?&nbsp; Or someone who has successfully lost weight?&nbsp; This example emphasizes that an expert should have experience in making the transition you want to make.&nbsp; It’s not enough that the person has faced the same problem you face.</p>
+
+  <p>When you go to an expert, it’s best not to depend on the expert for advice because that puts you in the role of explaining the details of your situation, leaving little time for learning what the expert can teach you.&nbsp; Instead, it’s better to spend your time seeking a clearer understanding of what you don’t yet clearly understand.&nbsp; The better you understand your situation, the better able you will be to solve the problem you face.</p>
+
+  <p>When seeking an expert to learn from, keep in mind that going to an expert to learn includes going to a library or bookstore to read what an expert has written.</p>
+
+  <p>Suppose public education were to be improved by attracting to the teaching profession college students who would normally choose to pursue high-paying jobs in law, medicine, and business management.&nbsp; Part of such a solution would require paying excellent teachers more than average teachers, and paying average teachers more than mediocre teachers.&nbsp; What experts would you turn to in order to determine the level of excellence of each teacher in a school?&nbsp; An easily overlooked group of experts are the teachers themselves.&nbsp; Nearly any teacher in a school knows which other teachers in the school are excellent and which ones are mediocre.&nbsp; (Of course creating a way to financially reward honesty and cooperation and discourage cliquishness would be an additional component of improving public education through this approach.)</p>
+
+  <p>When trying to create a solution to a problem you face, seek out a true expert who, through spoken words or written material, can lead you to a clearer understanding of what you don’t yet clearly understand.</p>
+
+
+  <h1>Tip 14: Use lists of dimensions to suggest creative possibilities.</h2>
+
+  <p>A popular creativity technique is to look at a list of words that suggest how something can be changed, and then imagining the suggested changes to see if any of the changes provide improvement.&nbsp; A simple example of using this word-oriented prompting technique is the invention (actually the re-invention) of the mini-van.&nbsp; The idea for the mini-van could have been prompted by applying the word <i>smaller</i> to the design of vans.</p>
+
+  <p>This word-prompting technique can be enhanced by recognizing the dimensions that are at the root of such change-oriented words.&nbsp; For example, the words <i>smaller</i>, <i>bigger</i>, <i>larger</i>, <i>enlarge</i>, and <i>miniaturize</i> all refer to increasing or decreasing the dimension of size.&nbsp; As another example, the words <i>heating</i>, <i>cooking</i>, <i>refrigerating</i>, and <i>freezing</i> all suggest changing temperature.&nbsp; This reduction in the number of words that suggest the same number of changes makes it easier to consider more possibilities.</p>
+
+  <p>Using fewer words has the added benefit of focusing attention on physical dimensions that aren’t as well known.&nbsp; For instance, the physical dimension of color saturation is not well known although it accounts for the familiar difference between pink and red.</p>
+
+  <p>Here is a list of just a few physical dimensions that can be used to prompt ideas for physical changes: length, width or horizontal extent, height or vertical extent, thickness, three-dimensional size, weight, density, flatness (versus curvedness), smoothness (versus roughness), flexibility (versus rigidity), brightness, color saturation, temperature, heat capacity, thermal (heat) conductivity, frequency, amplitude, efficiency of effort, sweetness, bitterness, sourness, saltiness, and spiciness.&nbsp; These are dimensions that can be increased or decreased (which is not true of all dimensions).</p>
+
+  <p>Let’s consider an example that shows how an understanding of one of these physical dimensions can lead to a creative solution to a problem.&nbsp; A woman was confronted by the problem that wine brought to a party had not already been chilled.&nbsp; Chilling the bottle of wine in the freezer would take too long.&nbsp; To chill it quickly, she put the wine into a plastic bag, immersed it into a container of ice water, periodically moved the wine and water, and waited a few minutes.&nbsp; Then she put the wine back into the bottle and it was ready to serve.&nbsp; What she recognized was that she needed to increase the thermal conductivity of the material between the wine and a cold environment&mdash;to increase the rate at which heat traveled from the wine to the cold surroundings.&nbsp; Bottle glass has a low thermal conductivity (meaning that it doesn’t allow heat to quickly pass through it).&nbsp; In contrast, a thin plastic bag has a higher thermal conductivity.&nbsp; The water surrounding the ice further increased the rate at which heat flowed from the wine to the ice&mdash;compared to depending on air, which has a much lower thermal conductivity.&nbsp; The wine cooled quickly once it had an easy way for it’s warmth to get to the surrounding ice cubes.&nbsp; The key to thinking of this solution was to consider increasing the physical dimension of thermal conductivity.</p>
+
+  <p>In addition to physical dimensions that can be increased or decreased, there are yet other kinds of dimensions that prompt ideas for possible physical changes.&nbsp; Here are a few examples: add/create, remove/eliminate/destroy, copy, replace/substitute/exchange, move, transpose, and rotate.&nbsp; Many other physical dimensions are also worth considering as possibilities for advantageous changes.&nbsp; More complete lists of physical dimensions, plus ways to recognize non-physical dimensions that appear in social and business situations, appear in the <i>Thinking Dimensionally</i> chapter of my book titled <i>The Creative Problem Solver’s Toolbox</i>.</p>
+
+  <p>Lists of physical dimensions provide a rich source of creative ideas for solving problems that involve physical objects and substances.&nbsp; In addition, such lists increase awareness of important, yet unfamiliar, physical dimensions.</p>
+
+
+  <h1>Tip 15: Solve a problem at its root.</h2>
+
+  <p>When trying to solve a problem, it’s useful to identify the root of the problem.&nbsp; Once the root of the problem is fully understood, creative solutions arise more easily.</p>
+
+  <p>Consider the problem of drug abuse.&nbsp; It might appear that the root of the problem is the availability of illegal drugs.&nbsp; If that were true, cutting off a user’s supply of drugs would solve the problem.&nbsp; But if a person’s supply of illegal drugs were cut off, the person would simply shift to using legal drugs, such as alcohol.&nbsp; If the supply of all mind-altering drugs were cut off, the person’s problem probably would shift to a different kind of inappropriate, obsessive behavior.</p>
+
+  <p>If your idea for solving a problem simply shifts the problem to different symptoms, you haven’t identified the root of the problem.&nbsp; After all, the goal of solving problems is to make the problem disappear, not simply shift it to a different form.</p>
+
+  <p>Continuing with the problem of drug abuse, what is the root of the problem?&nbsp; In a sense it’s the person’s <i>desire</i> to take the drugs.&nbsp; If the person’s desire to take drugs were eliminated, a person could be surrounded by a huge supply of drugs and not take any.</p>
+
+  <p>Until you have identified specific actions that can solve the problem, you have not yet identified the root of a problem.</p>
+
+  <p>In the drug-abuse example, we need to ask: "Why does the person have a desire to take drugs?"&nbsp; Different drug users have different reasons.&nbsp; In some cases, the reason is a desire to escape their awareness of misery.&nbsp; In other cases, a person might lack social skills that are overcome by having something to talk about (drugs), having something to do (take drugs), and providing the camaraderie that comes from having a common enemy (those who fight drug use).&nbsp; Another motivation can come from accepting drug use as an acceptable excuse to get out of doing disliked chores.&nbsp; And, of course, taking drugs fits into the lifestyle of someone who earns a living selling drugs.</p>
+
+  <p>For each of these motivations, ideas for creative solutions to drug abuse easily arise.&nbsp; For example, if the reason is to escape misery, reducing the misery would reduce the motivation to take drugs.&nbsp; If a drug user lacks social skills, the person could be taught social skills (such as interpersonal communication and how to let go of anger non-destructively) that foster healthy relationships.&nbsp; If a drug user sells drugs, the person could be helped to find a more productive profession.&nbsp; In all cases, a drug user could be taught a creative activity or skill such as gardening, playing sports, understanding technical equipment (such as automobiles or electronic devices), singing, playing music, reading interesting books, telling stories, or dancing.&nbsp; Such activities not only provide an alternative use of time and a topic of conversation in social situations, but provide joy to balance misery and work.&nbsp; These are not easy solutions to the problem of drug abuse, but they would reduce the problem (and reduce other problems too).&nbsp; More importantly, these ideas provide examples of actions that become apparent by identifying the root of a problem.</p>
+
+  <p>Creative ideas for solving a problem arise naturally by identifying the root of the problem.&nbsp; However, identifying who to blame for the problem and what caused the problem are not the same as identifying the root of the problem.&nbsp; Finally, remember that you haven’t identified the root of the problem until you have identified specific actions that will lead to improvement.</p>
+
+
+  <h1>Tip 16: Handle a criticism according to what kind it is.</h2>
+
+  <p>Creative ideas are typically criticized, so it’s worthwhile knowing how to handle criticism.&nbsp; The key in doing so is to realize that there are different kinds of criticism and that each kind needs to be handled differently.</p>
+
+  <p>Suppose you were thinking about how to improve the way movies are rated and you came up with the idea of rating movies according to how many years a person would spend in prison if they did everything shown in the movie.&nbsp; You reason that this might be a good idea because it provides a meaningful measurement of how much "badness" a movie shows.</p>
+
+  <p>Upon suggesting this idea to someone, the person criticizes the idea, saying "That idea won’t work because someone assigning jail sentences couldn’t get enough information from the movie.&nbsp; For example, it makes a difference whether the criminal is a first-time offender, but the movie might not reveal that information."&nbsp; This is an example of a valid criticism because the objection points out a valid weakness in the idea.</p>
+
+  <p>The way to handle a valid criticism is to improve the idea to remove the weakness.&nbsp; In this case, the weakness can be overcome by having the years-in-prison (YIP) rating be a range of numbers instead of a single number.&nbsp; For example, a movie might be rated as YIP 17-95, meaning that someone who did everything shown in the movie might spend as few as 17 years in jail, or as many as 95 years in jail, depending on various undetermined circumstances.</p>
+
+  <p>Suppose the next criticism is "Hey, that’s a stupid idea!"&nbsp; In this case, the critic isn’t supplying enough information to indicate whether he or she sees a valid flaw in the idea.&nbsp; In this case, it would be useful to ask "What flaws do you see in the idea?"&nbsp; If the critic is unable to be specific, then you can regard their criticism as offering no useful information.&nbsp; On the other hand, they might reply with "Some movies have so much killing going on that the YIP number would be huge, and therefore meaningless."&nbsp; This becomes a valid criticism, which means you should consider improving the idea.&nbsp; After some thinking, it occurs to you that most large-scale killing occurs in wars, and that wars don’t have prison sentences for killing the enemy.&nbsp; So, a "plus WAR" designation could be added to cover destructive acts done as a part of warfare, and the range of numbers would only cover criminal acts done against people on the same side.&nbsp; (A separate range of numbers could suggest the number and severity of the acts of warfare.)</p>
+
+  <p>Suppose someone responds to your idea saying "I don’t like that rating scheme because it doesn’t let me know if my kids should see the movie.&nbsp; I don’t want them seeing nudity and hearing profanity even though there are no jail sentences for such things in non-public situations."&nbsp; This is an invalid criticism because the critic has mistakenly assumed that the years-in-prison (YIP) rating replaces existing maturity ratings (such as R, PG, G, etc.).&nbsp; In contrast, your idea is that the YIP rating be in addition to, not instead of, existing maturity ratings.</p>
+
+  <p>As this example makes clear, the way to deal with an invalid criticism is to clarify how your idea differs from what the critic is imagining your idea to be.&nbsp; Such misunderstandings can be reduced in the future by improving your explanation of your idea.</p>
+
+  <p>There are other kinds of criticisms besides those mentioned here.&nbsp; But of all the kinds of criticisms, valid criticisms are the most useful&mdash;if you improve your idea to overcome the flaws that are pointed out.</p>
+
+
+  <h1>Tip 17: Don’t discard or devalue an idea just because it can’t be described in just a few words.</h2>
+
+  <p>When someone asks "How can this problem be solved?", the person usually expects a short answer.&nbsp; But creative solutions often can’t be explained in just a few words, or even a few sentences.&nbsp; As a result, non-trivial creative solutions can get neglected, especially in the mass media where sound bites are the norm.</p>
+
+  <p>Back about 500 BC, Greeks wondered "How can we improve government?"&nbsp; No one could have answered "We need democracy" because the word democracy didn’t exist.&nbsp; After the Greeks invented (in 508 BC) the concept that we call democracy, they called it "equality under the law."&nbsp; Only later was the name democracy created.</p>
+
+  <p>As a new idea becomes more familiar to more people, a shorter name is often given to the concept.&nbsp; But when a new idea is first conceived and developed, it usually has no name.</p>
+
+  <p>Suppose someone today asks "How can the quality of education be dramatically improved?"&nbsp; It would be easy to give replies such as "We need school choice" or "We need school vouchers" because the ideas of "school choice" and "school vouchers" are familiar concepts with established names.&nbsp; However, neither approach will provide the dramatic improvements that most people want.&nbsp; In contrast, what it will take to solve the education dilemma probably hasn’t yet been named.</p>
+
+  <p>What will it take to dramatically improve the quality of education?&nbsp; In my opinion, …&nbsp; well, my ideas won’t fit into a single sentence.&nbsp; But here is one key suggestion to illustrate that a new solution can easily fail to fit into a few words: Pay excellent teachers more than above-average teachers, pay above-average teachers more than average teachers, and pay average teachers more than mediocre teachers.&nbsp; This pay scale would convey respect for excellence in teaching (which is now absent because an excellent teacher earns the same as an average teacher who has taught for the same number of years and has taken the same university courses).&nbsp; Such pay for excellence would attract to the teaching profession more of the people who are also capable of becoming respected and well-paid scientists, university professors, lawyers, doctors, business managers, etc.&nbsp; Also, it would more strongly motivate teachers to improve their teaching skills.&nbsp; Better teachers in the classroom result in better education.&nbsp; Who would judge the relative excellence of teachers?&nbsp; The teachers themselves!&nbsp; Each teacher would rank (not grade) the other teachers he/she knows in the school.&nbsp; The principal would also rank the teachers.&nbsp; (There isn’t room here for clarifications as to how ranking would be done.)&nbsp; Students and parents also would contribute their opinions, and those results would indirectly, but not directly, affect pay.&nbsp; How would the influence of cliquishness and personal favoritism be reduced?&nbsp; Teachers who give a low ranking to a teacher who is highly ranked by other teachers would themselves get a lower ranking.&nbsp; Also, the more highly ranked a teacher is, the more weight would be given to how he/she ranks other teachers (because a person with a high level of excellence is better able to recognize excellence in other people).&nbsp; Furthermore, one of the characteristics used in the ranking would be the willingness of an excellent teacher to informally mentor other teachers.&nbsp; Wouldn’t mediocre teachers oppose such a change?&nbsp; Any teacher would have the option of remaining on the tenure system, enabling the tenure system to be phased out instead of suddenly ended.&nbsp; Why is this approach more promising than the "voucher" or "choice" approaches?&nbsp; Competition among schools without the means to improve weak schools does not parallel the free market competition among businesses where employers pay higher salaries to valued employees, pay lower salaries to less-skilled employees, where there is less concern for the number of years of employment, where employees are sometimes demoted, and where poorly performing businesses go bankrupt or are bought and reorganized (including laying off employees who are overpaid).&nbsp; To put it another way, instead of shifting children to the school buildings where the better teachers happen to be, it is wiser to shift those better teachers into the school buildings nearest where the children live.</p>
+
+  <p>Does this lengthy (and incompletely explained) idea have a name?&nbsp; No.&nbsp; It could be called "paying teachers extra for excellence using peer ranking," but that name means nothing to someone who doesn’t already know what the idea is.&nbsp; Thus, it would be difficult to convey this idea in only a sentence or two as a response to the question "How can the quality-of-education problem be solved?"</p>
+
+  <p>When choosing among possible solutions, resist the temptation to favor ideas that have names and to neglect ideas that are difficult to describe.&nbsp; (Also, don’t overcompensate by favoring solutions that require many words to describe.)&nbsp; Instead, judge ideas based on whether they will solve the problem.</p>
+
+
+  <h1>Tip 18: Promote the teaching of creative-problem-solving skills.</h2>
+
+  <p>So far, the teaching of creative-problem-solving skills has been rare.&nbsp; As a step toward reducing this rarity, let’s briefly look at <i>why</i> creative problem solving should be taught, <i>what</i> to teach, and <i>how</i> to teach it.</p>
+
+  <p>Here are three reasons <i>why</i> creative problem solving is a skill worth learning, and therefore worth teaching:</p>
+
+    <p>Reason 1: For real-life problems, solutions must be created.&nbsp; By contrast, school-assigned problems have solutions that already exist&mdash;and that many people already know, or know how to figure out.</li>
+
+    <p>Reason 2: Teaching creativity alone does not teach the skill of refining creative ideas, which is one of the otherwise-neglected parts of creative problem solving.</li>
+
+    <p>Reason 3: People who resist the teaching of creativity in public schools are likely to be more receptive to the teaching of creative-problem-solving skills.</li>
+
+  <p><i>What</i> skills should be taught?&nbsp; The tips presented in other articles in this series of <i>Creative Problem Solving Tips</i> provide a few samples of the kinds of skills that should be taught.&nbsp; For a much more complete set of creative-problem-solving skills, including many that won’t appear here, refer to my book <i>The Creative Problem Solver’s Toolbox</i>.</p>
+
+  <p>Here are two comments about <i>how</i> to teach creative-problem-solving skills:</p>
+
+    <p>Comment 1: Recognize that a teacher of creative problem solving is a <i>facilitator</i> who knows how to apply the skills of creative problem solving to most kinds of problems, but who doesn’t need to know how to solve every problem.&nbsp; By contrast, teachers of subjects such as chemistry, mathematics, and history need to be <i>experts</i> who are able to answer any question about their subject.</li>
+
+    <p>Comment 2: If grading is required, avoid using tests that have right and wrong answers.&nbsp; Such tests steer teaching away from higher-level thinking skills&mdash;such as creative problem solving&mdash;toward lower-level thinking skills&mdash;such as arithmetic, spelling, and memorization&mdash;that can be programmed into computers.&nbsp; As an alternate kind of test, students can be presented with a real-life problem and asked to create lists and diagrams (especially radial outlines, which are explained in my book) that show their thought process as they try to create solutions.&nbsp; Arriving at a single definitive "answer" should not be the goal.</li>
+
+
+  <p>Future generations will benefit greatly from increases in the teaching of creative-problem-solving skills.&nbsp; Fortunately, a few of the elements of creative problem solving are finding their way into elementary, middle-school, and high-school education; a few colleges and universities are beginning to offer courses in creative problem solving; and creative-problem-solving skills seminars are coming out of their infancy.</p>
+
+
+  <h1>Tip 19: Use online conferencing for some group problem-solving sessions.</h2>
+
+  <p>(This tip was written in 1994 before web-based systems were available.)</p>
+
+  <p>A currently popular way to do creative problem solving is to gather people together in a room for a group problem-solving session.&nbsp; Now that email is widely available, such group sessions can be conducted without everyone being in a specific place at a specific time.</p>
+
+  <p>An obvious advantage of online conferencing is that the participants can be in widespread locations such as in different offices within a large corporation.</p>
+
+  <p>A less obvious advantage of online conferencing is that the slowness of a written discussion matches the slow process of creating effective solutions to especially challenging problems.&nbsp; Specifically, there are opportunities to access subconscious thinking while doing activities such as commuting, going for a walk, showering, and washing dishes (as explained in Tip number 1).</p>
+
+  <p>As in face-to-face meetings, creativity can be enhanced by using strategies that reduce judgmental criticism.</p>
+
+  <p>To avoid wasting participant’s time, messages should be limited to the following types (although their type need not be specified):</p>
+
+    <p>Type 1: Suggested solutions, including modifications and combinations of earlier-suggested solutions</li>
+
+    <p>Type 2: Advantages of suggested solutions</li>
+
+    <p>Type 3: Briefly-explained non-obvious disadvantages of suggested solutions</li>
+
+    <p>Type 4: Outlines of possible solutions</li>
+
+    <p>Type 5: Dimensions and matrices, explanations of which won’t fit here</li>
+
+
+  <p>Notice that these categories exclude judgmental criticisms (such as "This is a bad idea"), wishing things were different than they are (such as "If only so-and-so hadn’t done such-and-such"), ego strokes (such as "I was the person who came up with that idea"), and other comments that fail to bring the group closer to solving the problem.&nbsp; (By the way, claiming "ownership" of ideas is additionally unnecessary because the messages can be saved and later analyzed to reveal how a valuable solution emerged.)</p>
+
+  <p>It wasn’t too long ago that we learned how to talk to answering machines.&nbsp; Now, many people are learning how to participate in weeks-long written exchanges with other people they never see or hear.&nbsp; Such conferencing nicely matches some of the needs of creative problem solving.</p>
+
+
+  <h1>Tip 20: Head in the direction of an ideal solution.</h2>
+
+  <p>Creative thinking offers a vast array of possibilities, so it’s useful to have a compass to help navigate toward an effective solution.&nbsp; The technique of heading in the direction of an ideal solution serves as that compass.</p>
+
+  <p>In the early days of personal computers, I had a computer but lacked a printer.&nbsp; The only printer I had access to was a short drive away and it had to stay there.&nbsp; After discovering how awkward it was to transport my computer to the printer, I tried to figure out a better way to print from my computer.&nbsp; I asked myself "What would be ideal?"&nbsp; Ideally, only <i>information</i> needed to be transported.&nbsp; The somewhat traditional approach of sending the information as sounds over the phone lines would work, but had the disadvantage of requiring the assistance of a second person.&nbsp; Thinking idealistically, I imagined putting those sounds into a box and carrying the box of sounds to the printer.&nbsp; At first, this idea seemed foolish.&nbsp; Yet, I quickly realized that I could carry the sounds by using an audio tape recorder.&nbsp; Once I thought of that approach it was straightforward to figure out the details.&nbsp; The idea worked, having originated by imagining what would be ideal.</p>
+
+  <p>The technique of heading in the direction of an ideal solution also works for resolving non-technical problems such as choosing a new career, improving a relationship, handling children, and enhancing a business.</p>
+
+  <p>The trick in using this technique is to not confuse an ideal with a fantasy.&nbsp; An ideal must be within the limits of reality, whereas a fantasy can defy reality.&nbsp; As an example of this difference, the idea of carrying sounds in a box is something that is possible, but the idea of transferring a computer’s output to a printer using mental telepathy is unrealistic.</p>
+
+  <p>In a sense, heading in the direction of an ideal solution is like climbing a mountain to get an unobstructed view of the terrain you want to pass through.&nbsp; Once you see, in the distance, a direction to head in, the job of choosing among many paths becomes less challenging.</p>
+
+
+  <h1>Tip 21: When experimenting, don’t limit yourself to the kinds of experimenting done in science classes and corporate R&amp;D labs.</h2>
+
+  <p>An experiment can be worth doing to gain a clearer understanding that might lead to an insight that, in turn, makes a solution easy to see.&nbsp; But don’t limit your experimenting to the kinds of experiments done in science classes and corporate research and development labs.</p>
+
+  <p>The "science experiments" done in classrooms were truly experiments when they were first done.&nbsp; But by the time they appear in a classroom they have become demonstrations or measurements.</p>
+
+  <p>In a demonstration, there is almost no uncertainty about what the outcome should be.&nbsp; There might be uncertainty in the minds of students and viewers, but not in the mind of the person who creates the "experiment."&nbsp; In contrast, there is uncertainty about the outcome of a true experiment.&nbsp; After all, the whole point of a true experiment is to find out what will happen.</p>
+
+  <p>When a "science experiment" is a measurement project, the uncertainty is about the numbers that will be produced, but there isn’t usually uncertainty as to whether the project will produce numbers.&nbsp; (Of course, there can be additional uncertainty about whether the numbers are correct and what the numbers mean.)</p>
+
+  <p>The experimenting done in research and development labs sometimes involves uncertainty in the outcome, but there’s a limit to the adventurousness of such experimenting.&nbsp; That’s partly because experimental projects are less likely to be funded if they involve too much uncertainty in the results.&nbsp; Also, the best creative people are often not attracted to work for corporations as employees&mdash;because such creative people commonly aren’t willing to conform to case-insensitive rules and the scheduled 2,000 hours per year that corporations normally require.&nbsp; (As a word of caution, it would be a mistake to conclude that rebellious people are typically creative.&nbsp; Ideally, a usefully creative person knows when to conform and when to be adventurous and creative.)</p>
+
+  <p>Although adventurous experimenting can be valuable for arriving at important insights, experimenting should not involve uncertainty about possible damage.&nbsp; As an extreme example taken from history, a number of people died finding out that attaching an engine and propeller to a glider doesn’t work.&nbsp; Safety should be assured in every experiment.</p>
+
+  <p>Some of the best models of experimenting have been the experiments that have produced historic innovations.&nbsp; A prime example is the experimenting done by Wilbur and Orville Wright.&nbsp; They experimented with wing cross-sections ("airfoils") in a wind tunnel, flew gliders as kites to test their ideas about control mechanisms, and did many other adventurous&mdash;yet safe&mdash;experiments to gain a clearer understanding of flight.&nbsp; When they tried their first airplane it worked on the first try&mdash;because they had used safe experimenting to eliminate the many uncertainties involved.</p>
+
+  <p>Perhaps you’ve been assuming that experimenting is just for people working in the areas of science and technology.&nbsp; Yet turning down the thermostat to see if anyone complains is an experiment.&nbsp; And so is trying to cook something completely new.&nbsp; And so is asking someone a new question, such as "In what ways do you love me?"&nbsp; These too are experiments that have unpredictable and (in normal cases) safe outcomes.&nbsp; As the title of this tip says, don’t limit yourself to the kinds of experimenting done in science classes and corporate R&amp;D labs.</p>
+
+
+  <h1>Tip 22: Look for useful concepts in diverse areas.</h2>
+
+  <p>In contrast to the academic tradition of confining your learning to a single specialized area, creative thinking blossoms from learning about many diverse subjects.&nbsp; When choosing what to learn, emphasize learning concepts.</p>
+
+  <p>Many innovations have arisen from an awareness of the way something is accomplished in an area that is very different from the area in which the problem or challenge exists.&nbsp; For example:</p>
+
+    <p>Example 1: Back when paper was made from cloth (such as rags and discarded clothes), René Antoine [accent on second syllable] Ferchault de Reamur ["ea" is roughly a long O sound] noticed that wasps nests had a paper-like composition.&nbsp; From this observation he realized that paper could be made from wood.</li>
+
+    <p>Example 2: An engineer noticed that her husband, when cutting wood at home, increased the speed of the saw blade when it was important for the cut to be smooth.&nbsp; This led to partially solving an engineering problem at work in which integrated-circuit wafers too frequently cracked when they were cut.</li>
+
+
+  <p>When you began learning about a new subject in school, the focus was on facts such as who first discovered what, what year that happened, how to spell the "name" of the discovery or insight, and other bits of historical and word-oriented information.&nbsp; Although such information is useful and important in many ways, an understanding of important concepts is of much greater value in creative thinking.&nbsp; This is because concepts can be applied to otherwise-unrelated areas.</p>
+
+  <p>What is a concept?&nbsp; In this context, a concept is a similarity in what is otherwise different.&nbsp; Here are some examples:</p>
+
+    <p>Example 1: "Positive feedback" occurs in a sound amplification system when a small noise from the speaker gets to a microphone and is amplified to come out of the speaker louder than before.&nbsp; Positive feedback occurs in the economy when an increase in someone’s salary increases the cost of living and other employed people get an increase in salary which eventually leads to another salary increase for the first person.&nbsp; Thus, the concept of positive feedback is very useful in attempting to solve the problem of economic inflation.</li>
+
+    <p>Example 2: The interactions between people talking in a meeting and the communication between computers on a network both involve similar concepts of who talks when, how long they are allowed to talk, and how they indicate a need to talk.&nbsp; Thus, concepts that facilitate good communication in one of these situations can be adapted for use in the other situation.</li>
+
+
+  <p>Pursue an interest in learning about any seemingly unrelated subject, and focus on learning concepts rather than facts.&nbsp; Then, for similar concepts in the area in which you are trying to solve a problem, appreciate any insights that arise.&nbsp; Also, help to promote creative-problem-solving skills in children by teaching them to take an interest in diverse subjects and to see similarities in what is otherwise different.</p>
+
+
+  <h1>Tip 23: Learn the creative-problem-solving skills that can be applied to many different kinds of real-life problems.</h2>
+
+  <p>The most powerful skills of creative problem solving are the ones that can be used to solve many different kinds of problems.</p>
+
+  <p>Suppose someone spends lots of time improving their ability to solve puzzles in which the goal of the puzzle is clearly stated.&nbsp; They would be failing to gain practice in reconsidering goals.</p>
+
+  <p>To appreciate the value of reconsidering goals, suppose you were asked to improve the teacher-to-student ratio in a classroom.&nbsp; It would be natural to focus all your attention on options that increase the number of teachers and/or decrease the number of students.&nbsp; Yet this focus would be uncreative because it excludes options that would accomplish the underlying goal without accomplishing the stated goal.&nbsp; For instance, it excludes the option of having some students help teach other students.</p>
+
+  <p>Most people realize that learning skills for solving only puzzles excludes learning skills that are important for solving real-life problems.&nbsp; But many people fail to realize that learning skills for solving just some kinds of real-life problems&mdash;such as business problems in the areas of inventing, manufacturing, marketing, and management&mdash;excludes learning other very important creative-problem-solving skills.</p>
+
+  <p>Suppose someone just focuses on learning skills that are most appropriate for solving business problems.&nbsp; Such a focus usually excludes learning other important creative-problem-solving skills for these reasons:</p>
+
+    <p>Reason 1: Problem-solving books and classes aimed at managers typically emphasize decision-making skills.&nbsp; This focus is appropriate to the degree that difficult decisions are a common kind of problem that managers face.&nbsp; Unfortunately, skills for creating better solutions are commonly neglected.&nbsp; Ironically, difficult decisions become easier once an effective solution is created and added to the list of options from which decision-makers can choose.</li>
+
+    <p>Reason 2: Books that teach skills for solving business problems typically focus on teaching skills needed by managers to the exclusion of skills needed by production-line and other non-managerial employees.&nbsp; Ironically, many managerial problems disappear when non-managerial employees have creative-problem-solving skills that they can use to solve problems on their own&mdash;without asking for help from overworked managers and creative engineers.&nbsp; In addition, many skills that are omitted from management-oriented books would be useful to managers faced with especially challenging problems.</li>
+
+    <p>Reason 3: When figuring out how to solve a customer’s problem, typically there is a focus on creating a new object that can be sold to the customer.&nbsp; Ironically, many new products can be created by first creating non-objects.&nbsp; For instance, a major breakthrough in computer printing technology was made possible by creating a new language (called "Postscript") for communicating from a computer to a printer.</li>
+
+
+  <p>To develop <i>all</i> the skills of creative problem solving, spend time solving many different kinds of problems.&nbsp; The resulting new skills then can be used to solve problems for which those skills previously might have seemed inappropriate.&nbsp; The diversity of problems can include solving problems in gardening, raising children, improving relationships, dealing with employers, and solving global problems&mdash;in addition to solving the kinds of problems people get paid to solve.</p>
+
+
+    <h1>Closing</h1>
+
+  <p>I hope you found these tips to be useful.&nbsp; If so, I invite you to learn yet more creative-problem-solving skills from my book titled <a href="http://www.solutionscreative.com/cpst.html" class="cssstylelink1"><i>The Creative Problem Solver's Toolbox</i></a>.&nbsp; As the book's subtitle states, it's "a complete course in the art of creating solutions to problems of any kind."</p>
+
+<p>May your creative-problem-solving skills lead you to greater opportunities and joy!</p>
+
+
+</body></html>
