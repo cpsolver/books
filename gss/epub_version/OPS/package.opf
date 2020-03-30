@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid" opf:scheme="ISBN">978-0-9632221-3-8</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>The Goat Spitting Secret</dc:title>
+    <dc:creator id="creator">Richard Fobes</dc:creator>
+    <dc:publisher>Solutions Through Innovation</dc:publisher>
+    <dc:date>2020-01-10</dc:date>
+    <meta name="cover" content="images/cover.jpg"/>
+  </metadata>
+
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="stylesheet" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="images/cover_false.jpg" media-type="image/jpeg"/>
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="coverpage" href="coverpage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_00" href="oehu_00.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_01" href="oehu_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_02" href="oehu_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_03" href="oehu_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_04" href="oehu_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_05" href="oehu_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_06" href="oehu_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_07" href="oehu_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_08" href="oehu_08.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+
+  <spine toc="ncx">
+    <itemref idref="coverpage" />
+    <itemref idref="oehu_00" />
+    <itemref idref="oehu_01" />
+    <itemref idref="oehu_02" />
+    <itemref idref="oehu_03" />
+    <itemref idref="oehu_04" />
+    <itemref idref="oehu_05" />
+    <itemref idref="oehu_06" />
+    <itemref idref="oehu_07" />
+    <itemref idref="oehu_08" />
+  </spine>
+
+  <guide>
+    <reference type="cover" href="coverpage.xhtml"/>
+  </guide>
+
+</package>

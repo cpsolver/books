@@ -1,0 +1,219 @@
+body {
+    font-size:100%;
+    margin-left:2%;
+    margin-right:2%;
+    margin-top:2%;
+    margin-bottom:2%;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+    padding-bottom:0;
+}
+
+img {
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+    padding-bottom:0;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1 {
+    text-indent:0;
+    margin-left:0;
+    margin-right:0;
+    text-align:center;
+    orphans:3;
+    widows:3;
+    page-break-after:avoid;
+}
+
+h2 {
+    text-indent:0;
+    margin-left:0;
+    margin-right:0;
+    text-align:center;
+    orphans:3;
+    widows:3;
+    page-break-after:avoid;
+}
+
+h3 {
+    text-indent:0;
+    margin-left:0;
+    margin-right:0;
+    text-align:left;
+    orphans:3;
+    widows:3;
+    page-break-after:avoid;
+}
+
+h1.classTitle {
+    text-align:center;
+}
+
+h2.classHeadingCentered {
+    text-align:center;
+}
+
+h2.classHeadingBasic {
+    text-align:left;
+    page-break-after:avoid;
+}
+
+p {
+    text-indent:20px;
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:7px;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+    padding-bottom:0;
+    text-align:justify;
+    orphans:3;
+    widows:3;
+}
+
+p.classFirstPara {
+    text-indent:0;
+    font-size:106%;
+}
+
+p.classBasic {
+    text-indent:0;
+    margin-left:0px;
+    font-size:106%;
+}
+
+p.classCentered {
+    text-align:center;
+    font-size:110%;
+}
+
+p.classTocPart {
+    margin-left:0;
+    font-size:122%;
+}
+
+p.classTocChapter {
+    margin-left:30px;
+    font-size:108%;
+}
+
+p.classQuote {
+    text-indent:0;
+    margin-left:20px;
+    margin-right:20px;
+    font-size:112%;
+}
+
+p.classQuoteAuthor {
+    text-indent:0;
+    margin-left:60px;
+    font-size:110%;
+}
+
+p.classPageBreak {
+    page-break-before:always;
+    font-size:5pt;
+}
+
+p.classImage {
+    margin-left:0;
+    margin-right:0;
+    margin-top:10px;
+    margin-bottom:10px;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+    padding-bottom:0;
+	text-align:center;
+    text-indent:0;
+}
+
+div.classCartoon {
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+    padding-bottom:0;
+	text-align:center;
+    page-break-before:always;
+    page-break-after:always;
+}
+
+ul {
+    margin-top:0;
+    margin-bottom:5px;
+}
+
+ol {
+    margin-top:0;
+    margin-bottom:5px;
+}
+
+li {
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:3px;
+    padding-left:0;
+    padding-right:0;
+    padding-top:0;
+    padding-bottom:0;
+    text-align:left;
+    orphans:3;
+    widows:3;
+}
+
+b {
+    font-size:105%;
+}
+
+i {
+    font-size:102%;
+}
+
+.lyric,
+.singer,
+.songtitle{
+    padding-top:2px;
+    padding-bottom:2px;
+    margin-top:2px;
+    margin-bottom:2px;
+}
+
+.songtitle{
+    margin-top:35px;
+}
+
+.singer{
+    margin-top:20px;
+}
+
+.singername{
+    font-size:108%;
+    color:black;
+}
+
+.singermainmale{
+    font-weight: bold;
+    font-size:108%;
+    color:black;
+}
+
+.singermainfemale{
+    font-weight: bold;
+    font-size:108%;
+    color:black;
+}
