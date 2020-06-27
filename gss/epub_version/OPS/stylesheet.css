@@ -10,17 +10,7 @@ body {
     padding-bottom:0;
 }
 
-h1 {
-    text-indent:0;
-    margin-left:0;
-    margin-right:0;
-    text-align:center;
-    orphans:3;
-    widows:3;
-    page-break-after:avoid;
-}
-
-h2 {
+h1, h2, h3, .headsmall {
     text-indent:0;
     margin-left:0;
     margin-right:0;
@@ -31,13 +21,7 @@ h2 {
 }
 
 h3 {
-    text-indent:0;
-    margin-left:0;
-    margin-right:0;
     text-align:left;
-    orphans:3;
-    widows:3;
-    page-break-after:avoid;
 }
 
 p {
@@ -61,6 +45,14 @@ b {
 
 i {
     font-size:102%;
+}
+
+.headmedium {
+    font-size:150%;
+}
+
+.headsmall {
+    font-size:130%;
 }
 
 .lyric,
