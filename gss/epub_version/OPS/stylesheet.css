@@ -68,15 +68,18 @@ i {
 .singermainfemale{
     font-size:108%;
     color:black;
-}
-
-.singermainmale,
-.singermainfemale{
     font-weight: bold;
 }
 
 .highlight{
     background-color:yellow;
+}
+
+.classCentered{
+    text-indent:0;
+    margin-left:0;
+    margin-right:0;
+    text-align:center;
 }
 
 img {
