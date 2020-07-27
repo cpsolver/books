@@ -79,6 +79,10 @@ i {
     font-size:108%;
     color:black;
     font-weight: bold;
+    padding-left:4px;
+    padding-right:4px;
+    margin-left:0;
+    margin-right:2px;
 }
 
 .singer_damien{
