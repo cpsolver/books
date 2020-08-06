@@ -95,30 +95,44 @@ i {
 
 .singer_fiance{
     background-color:rgb(255, 204, 128);
+    padding-left:12px;
+    padding-right:12px;
 }
 
 .singer_vc{
     background-color:rgb(255,215,0);
+    padding-left:12px;
+    padding-right:12px;
 }
 
 .singer_politician{
     background-color:rgb(221,160,221);
+    padding-left:12px;
+    padding-right:12px;
 }
 
 .singer_mathprof{
     background-color:rgb(238,130,238);
+    padding-left:12px;
+    padding-right:12px;
 }
 
 .singer_econhist{
     background-color:rgb(234, 220, 95);
+    padding-left:12px;
+    padding-right:12px;
 }
 
 .singer_minister{
     background-color:rgb(127,255,0);
+    padding-left:12px;
+    padding-right:12px;
 }
 
 .singer_father_of_fiance{
     background-color:rgb(0,255,255);
+    padding-left:12px;
+    padding-right:12px;
 }
 
 .classCentered{
