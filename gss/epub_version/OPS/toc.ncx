@@ -56,6 +56,10 @@
       <navLabel><text>Scene 7: Fight!</text></navLabel>
       <content src="oehu_08.xhtml"/>
     </navPoint>
+    <navPoint id="oehu_09" playOrder="10" class="chapter">
+      <navLabel><text>Acknowledgements</text></navLabel>
+      <content src="oehu_09.xhtml"/>
+    </navPoint>
   </navMap>
 
 </ncx>

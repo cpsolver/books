@@ -25,6 +25,7 @@
     <item id="oehu_06" href="oehu_06.xhtml" media-type="application/xhtml+xml"/>
     <item id="oehu_07" href="oehu_07.xhtml" media-type="application/xhtml+xml"/>
     <item id="oehu_08" href="oehu_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oehu_09" href="oehu_09.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
 
   <spine toc="ncx">
@@ -38,6 +39,7 @@
     <itemref idref="oehu_06" />
     <itemref idref="oehu_07" />
     <itemref idref="oehu_08" />
+    <itemref idref="oehu_09" />
   </spine>
 
   <guide>
