@@ -13,7 +13,7 @@
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="stylesheet" href="stylesheet.css" media-type="text/css"/>
-    <item id="cover" href="images/cover_false.jpg" media-type="image/jpeg"/>
+    <item id="cover_false" href="images/cover_false.jpg" media-type="image/jpeg"/>
     <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
     <item id="coverpage" href="coverpage.xhtml" media-type="application/xhtml+xml"/>
     <item id="oehu_00" href="oehu_00.xhtml" media-type="application/xhtml+xml"/>
