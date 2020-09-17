@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uid">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:identifier id="uid" opf:scheme="ISBN">978-0-9632221-3-8</dc:identifier>
+    <dc:identifier id="uid" opf:scheme="ISBN">9780963222152</dc:identifier>
     <dc:language>en</dc:language>
     <dc:title>The Goat Spitting Secret</dc:title>
     <dc:creator id="creator">Richard Fobes</dc:creator>
