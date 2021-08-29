@@ -45,7 +45,7 @@ My belief is that we can reduce lots of our real-life conflicts in innovative wa
 
 For example, consider the conflict between criminals and us non-criminals. I believe crime can be reduced by adding another rating to movies and computer games. The added rating would indicate how many years a person would spend in prison if they were to do everything shown on the screen.
 
-This years-in-prison rating will communicate to young people that some actions in mature movies are legal and healthy, such as getting naked to take a shower. And they will see that some G-rated family movies will get surprisingly high years-in-prison ratings because many dramas, and even comedies, involve people physically harming other people.
+This years-in-prison rating will communicate to young people that some actions in mature movies are legal and healthy, such as getting naked to take a shower. And young people will see that some G-rated family movies will get surprisingly high years-in-prison ratings because many dramas, and even comedies, involve people physically harming other people.
 
 Now that you know I have odd ways of thinking, allow me to suggest something unusual.
 
@@ -57,11 +57,9 @@ So far, that part makes sense, right?
 
 The part that doesn't make sense is that the leaders of the Republican army and the leaders of the Democratic army are getting their marching orders from the same people.
 
-The people who control both political parties are the people who give the largest amounts of money to politicians. Their contributions are large because many of them gain five to twenty times as much money through a law-enforced monopoly, or through some other favorable business arrangement that's written into the law.
+The people who control both political parties are the people who give the largest amounts of money to politicians. Their contributions are so large because typically they earn five to twenty times as much money in ways that most voters do not like. An especially advantageous arrangement is a law-enforced monopoly.
 
-In other words, the people who control the Republican and Democratic armies are fighting against us, the majority of voters.
-
-One example of this unfair fighting involves sugar.
+One such monopoly involves sugar.
 
 Those of us in the United States pay a much higher price for sugar compared to the price everywhere else in the world. This is because US laws prohibit sugar from being imported from outside the US.
 
@@ -111,19 +109,29 @@ Instead, currently we use single-choice ballots. They force us to express suppor
 
 For example, suppose there are two popular reform-minded candidates and two puppet-like candidates. Money is withdrawn from one of the puppet-like candidates. That concentrates money on the remaining puppet-like candidate. The splitting of votes between the two reform-minded candidates makes it easier for the puppet-like candidate to win. If needed, yet more money can be given to a third reform-minded candidate to increase the vote-splitting effect. The result is that the winner is almost always a puppet of the biggest campaign contributors.
 
-As I mentioned before, money is given to candidates in both parties. The result is that when we vote in a general election we have to hold our nose and mark the lesser of the two evils. The problem-solving leaders we really want to elect cannot even reach the general election.
+That happens because the biggest campaign contributors give money to candidates in the primary elections of both political parties.
 
-The innovation that will correctly identify which candidate is really the most popular is something called "pairwise vote counting."
+So when we vote in general elections we have to hold our nose as we mark the lesser of the two evils.
 
-At this point it would be natural to think: "This sounds essoteric." "We already know how to count votes." "This pairwise thingy sounds like something we've gotten along fine without, so why do we need it now?"
+If instead we had full democracy, the candidates in general elections would be problem-solving leaders instead of special-interest puppets.
+
+Now it becomes clear that we need to be using much better vote-counting methods than what we've seen in any nation.
+
+Specifically we need something called "pairwise vote counting."
+
+At this point it's natural to think: "This sounds essoteric." "We already know how to count votes." "This pairwise thingy sounds like something we've gotten along fine without, so why do we need it now?"
 
 These are the same reactions that greeted the most important innovation in civilization since the times of the Roman Empire.
 
-Back then the innovation was known as Arabic numerals. When those digits zero through nine, plus the multiplication table, arrived in Europe, the reactions were similar.
+Back then the innovation was known as Arabic numerals. These are the digits zero through nine. When those digits, and the multiplication table, arrived in Europe, the reactions were similar. Up until then Italians were using Roman numerals. Those are the ones where three marks indicate the number three, and the letter C indicates one hundred.
 
-The Christian Churches in Europe typically declared Arabic numerals to be a sin to use. Kings outlawed their use. Many people said that they were bad because they were used by Arab-speaking people, and those people were Muslims, and they were the enemy of the Christian religion. Plus they took time to learn to use, so few people bothered learning how to do calculations with them.
+Many Christian churches in Europe declared Arabic numerals to be a sin to use. Part of their bias was because the digits were learned from Arabic-speaking Muslims, who Christians regarded as their enemy.
 
-It took two centuries -- that's 200 years -- for Europeans to begin widely using the digits zero through nine. Specifically the year 999 is when Pope Sylvestor the Second became the pope in Rome, and he had learned them in North Africa, across from Spain. Two centuries later, Leonardo from Pisa, who today we know as Fibonacci, wrote the first European book about Arabic numerals.
+Some kings outlawed the use of Arabic numerals.
+
+And learning the digits zero through nine also requires learning how to use the multiplication table, and ideally memorizing what we call multiplication tables. Even today young people resist learning multiplication and division.
+
+It took two centuries -- that's 200 years -- for Europeans to adopt the digits zero through nine. Specifically the year 999 is when Pope Sylvestor the Second became the pope in Rome, and he had learned them in North Africa, across from Spain. Two centuries later, Leonardo from Pisa, who today we know as Fibonacci, wrote the first European book about Arabic numerals.
 
 Of course it seems like a new method for counting would not be of much use except by scholars. Average people didn't need to understand them. Yet average people greatly benefited from their use.
 
@@ -131,154 +139,30 @@ Back then travel between cities and towns was limited by highway robbers. That m
 
 And back then typically the bigger banks were owned and run by a family in a single city. That's because if they hired people to do bookkeeping the hired workers were likely to embezzle some of the money.
 
-And back then, in Italy, everyone was using Roman numerals for counting. And for addition. And subtraction. But multiplication using Roman numerals was very difficult. And division using Roman numerals was unthinkable.
+Plus, a banking family would make accidental accounting mistakes often enough that putting money into banks required trust that many traders did not have for banks.
 
-When Arabic numerals were adopted by bankers, it became possible to hire one group of accountants to keep track of debits and another group of accountants to keep track of credits. When the debits and credits did not match, an investigation would discover either an embezzler or an accidental mistake.
+During that time Italians used Roman numerals for counting, for addition, and for subtraction. But multiplying two numbers using Roman numerals was very difficult. And dividing one number by another number using Roman numerals was unthinkable.
 
-This innovation, which is called double-entry bookkeeping, made it practical for a bank to grow in size and have branches in multiple cities.
+After bankers adopted Arabic numerals it became possible to hire one group of accountants to keep track of debits and another group of accountants to keep track of credits. When the debits and credits did not match, an investigation would discover either an embezzler or an accidental mistake.
 
-In turn, having branches in multiple cities made it practical for traders to travel between those cities carrying documents from banks instead of valuables. That was the beginning of the end of highway robbery as a profession.
+Keeping track of debits and credits separately is called double-entry bookkeeping. It was twice as much work. Yet it defeated the simplest embezzlement attempts, and eliminated most accounting mistakes. As a result, banks grew in size and trustworthiness. In turn, interactions between banks in different cities became easier. And larger banks could have bank offices in multiple cities.
+
+Larger banks in more places made it practical for traders to travel between cities carrying documents from banks instead of valuables. That was the beginning of the end of highway robbery as a profession.
 
 As trade between cities incrased, prosperity increased. That's because each city didn't need to have a perfect match between consumers and the skilled craftsmen who knew how to make what those consumers needed. Instead a city could specialize in a particular trade and export that product to other cities.
 
 This huge improvement in efficiency and safer trading is what led to the great prosperity that financed the Italian Renaissance. That's when the Medici banking family in Florence and other wealthy patrons paid Leonardo da Vinci and Michelangelo to paint and sculpt. Countless other benefits, including some of the beautiful cathedrals still standing in Europe, became possible because of the great prosperity that arose after the adoption of Arabic numerals.
 
-Today we have an opportunity to adopt the next huge innovation in counting. It too will yield widespread prosperity because it will greatly reduce the influence of money in politics. In turn, we as voters will be able to elect politicians who are no longer paid to protect unfair monopolies, and other anti-consumer legal arrangements.
+Today we have an opportunity to adopt the next huge innovation in counting. It too will yield widespread prosperity.
 
+And it will greatly reduce the influence of money in politics.
 
+Then, we as voters will be able to elect politicians who better represent us, the majority of voters. When that happens, laws that currently protect unfair monopolies will be abandoned as ancient. And many other anti-consumer legal arrangements will be abandoned.
 
-....
-EXTRA PARAGRAPHS:
-
-The concept of "pairwise" is already well-known in the world of team sports. Each team can only play against one other team, one pair of teams at a time. That's what the word pairwise means.
-
-I admit I'm naive. In fact I have a bent nose to remind me. That's from the fist of a sixth-grade bully who said "come and get it" and I thought he really was going to hand back the marble he had stolen from me. I did get back my marble. Even better, I was never bullied by him again.
-
-As a geek with a degree in physics I'd love to explain how pairwise vote counting works. But that's not my goal here. Anyway, you don't need to learn how to do pairwise counting. You just need to learn enough to allow computers to do pairwise counting.
-
-Perhaps some people are thinking that the word "vote" in pairwise vote counting is too political. And that we already have enough conflict in politics.
-
-Yes, politics involves way too much conflict, the way it's done now. Pairwise vote counting would dramatically reduce that conflict. And the resulting cooperation would dramatically increase economic prosperity.
-
-Unlike some other vote-counting methods that are more familiar, pairwise vote counting looks deeply into the preference information that's marked on a ranked-choice ballot. This deep look makes it possible to correctly identify which candidate is really most popular.
-
-How will this simple change lead to economic prosperity?
-
-Inventing  .. the side that can afford better lawyers almost always wins.
-
-For example, when pharmacutical companies overcharge for medications, when health insurance companies overcharge for health insurance, when cable companies overcharge for entertainment, and when phone companies overcharge for cell phone service, the combined effect is dramatically less economic pie for those of us who are consumers of these products and services.
-
-Hopefully you can see a glimmer of the future in which votes have more influence than money in politics. And hopefully you see that when we reach higher levels of democracy then laws can be passed that favor the majority of us who are not wealthy.
-
-This change will be similar to what happened in history shortly before Arabic numerals were adopted in Europe. That was the time of the Black Death. The combination of farm workers dying and farmland becoming available caused the end of serfdom. That's because farm workers could walk down the road to a different farm where the land owner gave them better working conditions, lower taxes, and possibly better housing. Plus, the Medieval Christian church lost credibility because their priests were not able to cure the disease, and their priests died from saying last-rite prayers over the body of the deceased.
-
-We don't yet know all the implications of the current Covid19 pandemic. Yet already it is causing lots of voters to realize that politics as usual is not yielding solutions to school shootings, and climate change.
-
-Having written a how-to book on creative problem solving I can assure you that solutions exist for even the biggest problems we face.
-
-Alas, I can't name those solutions. Those names don't yet exist.
-
-As an example, when I was a teenager, my brother and father asked me why I didn't want a camera. At that time all cameras were film cameras. I said I was waiting for the electronic kind of camera. They had no clue what I was talking about. If I had known in advance that electronic cameras would become known as digital cameras, that would not have made it easier to understand.
-
-When I was a teenager my brother and father asked me why I didn't want to buy a camera. I said "I'm waiting for the electronic kind." They couldn't imagine what I was talking about. If I had known to say "I'm waiting for digital cameras," that would not have helped.
-
-In a similar way, perhaps what I'm calling pairwise vote counting will be named something different in the future. We can't know. We don't yet have time machines that go forward in time. We only have the time machines called history books that take us back in time.
-
-Yet I'm certain that the economic prosperity that followed the adoption of the digits zero through nine is a pattern that will be repeated when we finally adopt better ways to count votes.
+As a consequence there will be widespread economic prosperity. As happened during the 1950s and 1960s both employees and business owners will earn lots more money. With more money in their wallets, consumers will buy more products, and that will further enrich the people who own businesses that provide useful services.
 
 Just as Europeans centuries ago were slow to realize that adopting the digits zero through nine would lead to huge increases in economic prosperity, we, those of us living now, are slow to realize that adopting pairwise vote counting will lead to huge increases in economic prosperity.
 
-We can fly. We can create wonderous communities. We can lead lives that are less like fighting and more like dancing.
-
-We want to build a huge, worldwide community based on cooperation instead of fighting.
-
-Adopting pairwise vote counting for our elections will take us to that dramatically prosperous future.
-
-The wealth to pay for non-essential things like paintings, statues, and music arose because of innovations in banking, which led to bigger and more trustworthy banks.
-
-I'm not growing tired of playing the role of peacekeeper. But I am getting tired of waiting for less fighting. And a window seat.
-
-I want you to imagine our nation as a cooperative community, where fairer voting leads to fairer laws, and fairer laws lead to widespread economic prosperity, and widespread economic prosperity leads to another Renaissance in art, music, dance, movies with lower years-in-prison ratings, and spirited [...].
-
-I've been blessed to get a window seat where I can see the future. We don't need to let immature impulses guide our behavior.
-
-I now get a window seat every time I drive. And I get to see the road ahead. And what I see is that future generations will enjoy widespread economic prosperity, much less warfare, a huge middle class, less economic suffering, fewer lawyers, and incredibly beautiful music.
-
-Our current voting methods in use around the world, including in Europe and Australia and New Zealand, are primitive. All of us, in at least some elections, when we vote, we can only mark a single choice from among a list of choices.
-
-Just two or three decades ago when computers arrived we could have adopted a counting method that would increase the world's economic prosperity as dramatically as Arabic numerals increased Europe's economic prosperity.
-
-And consider that along with more trade and commerce, less fighting results in less money being spent on healing injuries and repairing damage.
-
-Trust is a key part of cooperating. Today we benefit from trust among strangers on the roads between cities. They are less likely to be highway robbers. Lengths of fabric and bulk foods in bags are more likely to be measured fairly. The goods sold by weight, what we now call "per pound," are more likely to be priced at the advertised price per weight.
-
-Currently civilization is still quite primitive. I've glimpsed some future innovations that will take us from current states of homelessness, widespread poverty, mass shootings, foolish wars, and annoying ads.
-
-Consider the nation of Haiti. It's on an island that's shared with the Dominican Republic. Most of the people living in Haiti live in poverty and struggle to survive. The Haitian government is corrupt. Basically everyone has learned to compete. They know from experience that any kindness towards others will be exploited rather than rewarded.
-
-In contrast, here in the United States we cooperate more than many people realize. Yet there is room for improvement.
-
-Big businesses hire both Republicans and Democrats, and they cooperate with each other while on the job, in spite of fighting against each other when it's time to vote in an election.
-
-During working hours Protestants, Catholics, Jews, Muslims, Buddists, and agnostics cooperate with each other. Yet in other parts of the world the members of those religions fight against each other.
-
-It's the cooperation WITHIN a business that brings economic prosperity to that business. Competition BETWEEN businesses is what MOTIVATES people to cooperate within the business.
-
-The reward for successful cooperation within a business is money. Employees earn higher salaries. Executives get rewarded with bigger bonuses. And shareholders earn more profit when they sell their share of the business.
-
-Alas, some people idealize a competitive spirit. They think competition leads to success. It does, in some situations. But only temporarily.
-
-Always the success that comes from selfish competition is limited. It fails to spread. In particular, the number of people who benefit from competition is fewer than the number of people who benefit from cooperation.
-
-Knowing this, wise people keep selfish competitive people from becoming part of their healthy community.
-
-This perspective leads to a related concept. Trust.
-
-Trust is essential. Especially on the social dance floor when dancing improvisationally, which means there are no memorized sequences of moves. There is no time to think. Each partner trusts the quick communication that's going on between them. That communication flows in both directions, even if one person is leading and the other person is following. That's what it takes to reach dance nirvana.
-
-Let's combine these insights about trust, monopolies, cooperation, and competition. With the goal of reaching widespread economic prosperity.
-
-In previous centuries the road to wealth was based on inventions in the fields of transportation and communication. In my lifetime those kinds of inventions gave us affordable long-distance telephone calls, low-maintenance automobiles, affordable travel by jet airplane, color television, digital cameras, computer animation, voicemail, smartphones, tablet computers, ride sharing, social media, websites, and virtually free video meetings.
-
-Being the only legal source of a new highly desirable product is a great way to earn high profits. But such monopolies have become harder to enforce because of how China and Japan and some other nations interpret patent law.
-
-Language barriers provided another way in which trade secrets were kept within a nation. But now we have computer software that translates both spoken and written words almost effortlessly, without the cost of a highly trained translator.
-
-What's left? Inventing better processes.
-
-I remember learning about the Italian Renaissance. And as a fan of Leonardo da Vinci, I knew that the Medici family in Renaissance Italy earned their money from banking. But I failed to understand what was really going on.
-
-Before big banks came along, highway robbery was a popular profession. This meant that traders had to hire armed guards to protect the gold and silver and precious gems they carried to pay for whatever they were buying. This danger of traveling, and especially trading, between cities is what limited the economic prosperity of all cities.
-
-It's easy for us to forget why highway robbery disappeared. It's not because of highway patrol officers. It's because we now have trustworthy banks that allow us to write paper documents that transfer money in ways that highway robbers cannot exploit.
-
-Since the growth of banks happened relatively suddenly in Italy just before the Italian Renaissance, what changed that allowed banks to grow?
-
-An important innovation was to hire one group of accountants to keep track of debits, and hire a different group of accountants to keep track of credits. This method doubled the work of doing calculations, yet it had a big advantage. This "double-entry" bookkeeping method made it easy to detect the moment a solo employee tried to embezzle money. As a result, family-owned banks were able to hire more employees and grow much bigger.
-
-Also this kind of bookkeeping reduced accidental mistakes, which meant that wealthy people were more likely to trust banks to protect their money. That allowed banks to become bigger.
-
-With bigger banks it became possible to finance bigger trade deals. Remember that was when banks financed the building and sailing of big sailing ships, with the notable goal of finding ways to reach China by ship.
-
-Christian churches in Europe also used the bigger banks to fund the building of impressive cathedrals. I recall staring at a few of those cathedral in awe when I toured Europe after graduating from high school.
-
-Yet beneath these banking innovations, there was an even more important innovation.
-
-Up until the middle ages, people had done counting with counting marks. In most cultures three marks were used to indicate the number three. In Italy the letter V indicated the number five, the letter X indicated ten, and the letter C indicated one hundred. You recognize this writing method as Roman numerals.
-
-Imagine trying to divide two numbers using Roman numerals, such as to calculate interest rates. And imagine using Roman numerals to do both the debit calculations and the credit calculations. Accountants wouldn't just rebel. They would wait in long lines to jump off bridges.
-
-That's why money lenders in Medieval Europe, and earlier, avoided doing division. Instead they used fractions. A fraction is just a way to indicate that one number needs to be divided by another number. Ancient Italians didn't know how to convert fractions into a single number. They learned some clever tricks to add and subtract some fractions. And if they were willing to endure a nightmare, they could multiply two numbers. But division using Roman numerals was literally unthinkable.
-
-The Chinese used a better counting method. They put their counting marks inside of a square. That way an empty square represented the number zero.
-
-The people in India partially copied the Chinese way of writing numbers. But they did not copy the Chinese practice of using the abacus to do calculations. Instead, some genius in India developed a way to do multiplication and division using a process that involved writing numbers using the digits zero through nine. And by using multiplication tables.
-
-This was the monumental innovation that began to propel the world's economy to the prosperity we enjoy today.
-
-Europeans named these digits Arabic numerals. That's because Europeans learned them from Muslims, who speak the Arabic language.
-
-By the way, the reason Muslims learn Arabic is to read the Qu'aran[?], which Mohammed wrote in Arabic. Not just coincidentally, the cooperation of learning the same language was an important part of controlling trade along segments of the Silk Road to China. That's yet another example of cooperation bringing economic prosperity.
 
 If you're thinking that this bit of history about the digits zero through nine is essoteric, then you probably struggled when you studied physics. That's because the biggest challenge in physics is understanding division. Not how to do the calculation. Schools teach that. But what does division really mean?
 
@@ -288,42 +172,52 @@ Division is incredibly important in engineering, science, and especially physics
 
 Division also is at the foundation of sending people to the moon, and bringing them back, building big bridges, building ever-better automobiles, building computers and the internet, developing vaccines, calculating interest rates, and countless other miracles of our so-called "modern" age.
 
-It was a thousand years ago that these digits entered Europe. They were being taught in an Islamic university in North Africa just across from Spain. A student there named Gerbert of Aurillac learned how to calculate using these digits. Then in the year 999 he became the Pope in Rome, where he became known as Pope Sylvestor the Second.
-
-Pope Sylvestor could do multiplication and division much faster than the other Romans because he used Arabic numbers, and they were still using Roman numerals.
-
-We would expect that the digits zero through nine would have been welcomed as an obvious improvement. Instead some Medieval Christian Churchs in Italy declared the use of Arabic numerals to be a sin. Some European kings and monarchs declared them illegal to use.
-
-So imagine going back to those days and asking a Roman "Why do you object to using Arabic numerals?" Some Romans would say "We already have words and symbols for counting from zero to ten." Others would be intimidated by the hassle of learning how to use multiplication tables. And some of them basically would say "The Arabic speaking people in Africa and the Middle East are our enemy, so what they like, we don't like."
-
-For these reasons, plus limitations on publishing non-religious books, it took two centuries -- that's 200 years -- until the first European book about Arabic numerals was published. It was written by another Leonardo, this one from Pisa. Today he is known by the name Fibonacci.
-
-We laugh at the foolishness of Romans who dismissed the digits zero through nine for 200 years.
-
-Yet right now we're doing something similar.
-
-Future generations will laugh at our collective foolishness. Especially because the counting method we are failing to adopt has been known since the 1600s. And it's been explained in books that were written in the 1700s. And academic journals have described it many times in the 1900s.
-
-In ancient times, groups of armed fighters learned that the way to win fights is to join with allies and form a bigger army. Whichever army was bigger would win.
-
-So when a smaller army was facing a bigger army, the smaller army sent a messenger with a white flag and an agreement that the smaller army would make some consessions that the bigger army wanted.
-
-Over time this was simplified to counting how many able-bodied men would be on each side of the fight. Whichever side was smaller agreed to make consessions.
-
-This is how voting arose. And this is why women didn't originally get to vote, because they weren't expected to fight.
-
- With this perspective you can recognize that the political fights reported in the news are distractions from this bigger fight between votes and money.
-
- During the time that people lived in nations without factories, they suffered economically. They had to scrape together money to buy our manufactured products. That left them will less money for food, clothes, and other basic necessities.
-
-Probably this name doesn't sound familiar. That's typical for anything new.
 
 Part of the reason you haven't heard about it is that most new knowledge about math comes from academic professors who do research that's funded by their government. But what government is going to fund research about better ways to vote?
 
 This lack of funding to study better vote-counting methods results in very few articles in academic journals. In turn, Wikipedia does not have up-to-date information about this subject because Wikipedia editors reject math information that isn't backed up by academic journal articles.
 
-Instead we as voters should be allowed to mark a ballot to indicate our first choice, our second choice, third choice, and so on. That's easy to learn to do. It's called ranking. It's like prioritizing, which every functioning adult has to learn.
 
- These primitive ballots are what forced us to adopt primary elections. Whichever political party offered two candidates lost against the party that offerred a single candidate.
+....
+EXTRA PARAGRAPHS:
 
-The splitting of votes continues to be a problem, but it's been moved into primary elections where it's less noticeable. That's because the winner is always from the correct party.
+The concept of "pairwise" is already well-known in the world of team sports. Each team can only play against one other team, one pair of teams at a time. That's what the word pairwise means.
+
+Unlike some other vote-counting methods that are more familiar, pairwise vote counting looks deeply into the preference information that's marked on a ranked-choice ballot. This deep look makes it possible to correctly identify which candidate is really most popular.
+
+Inventing  .. the side that can afford better lawyers almost always wins.
+
+For example, when pharmacutical companies overcharge for medications, when health insurance companies overcharge for health insurance, when cable companies overcharge for entertainment, and when phone companies overcharge for cell phone service, the combined effect is dramatically less economic pie for those of us who are consumers of these products and services.
+
+Having written a how-to book on creative problem solving I can assure you that solutions exist for even the biggest problems we face.
+
+Alas, I can't name those solutions. Those names don't yet exist.
+
+As an example, when I was a teenager, my brother and father asked me why I didn't want a camera. At that time all cameras were film cameras. I said I was waiting for the electronic kind of camera. They had no clue what I was talking about. If I had known in advance that electronic cameras would become known as digital cameras, that would not have made it easier to understand.
+
+When I was a teenager my brother and father asked me why I didn't want to buy a camera. I said "I'm waiting for the electronic kind." They couldn't imagine what I was talking about. If I had known to say "I'm waiting for digital cameras," that would not have helped.
+
+Perhaps what I'm calling pairwise vote counting will be named something different in the future. We don't yet have time machines that go forward in time. We only have the time machines called history books that take us back in time.
+
+We can fly. We can create wonderous communities. We can lead lives that are less like fighting and more like dancing.
+
+The wealth to pay for non-essential things like paintings, statues, and music arose because of innovations in banking, which led to bigger and more trustworthy banks.
+
+I've been blessed to get a window seat where I can see the future. We don't need to let immature impulses guide our behavior.
+
+I now get a window seat every time I drive. And I get to see the road ahead. And what I see is that future generations will enjoy widespread economic prosperity, much less warfare, a huge middle class, less economic suffering, fewer lawyers, and incredibly beautiful music.
+
+And consider that along with more trade and commerce, less fighting results in less money being spent on healing injuries and repairing damage.
+
+During working hours Protestants, Catholics, Jews, Muslims, Buddists, and agnostics cooperate with each other. Yet in other parts of the world the members of those religions fight against each other.
+
+It's the cooperation WITHIN a business that brings economic prosperity to that business. Competition BETWEEN businesses is what MOTIVATES people to cooperate within the business.
+
+Alas, some people idealize a competitive spirit. They think competition leads to success. It does, in some situations. But only temporarily.
+
+Language barriers provided another way in which trade secrets were kept within a nation. But now we have computer software that translates both spoken and written words almost effortlessly, without the cost of a highly trained translator.
+
+That's why money lenders in Medieval Europe, and earlier, avoided doing division. Instead they used fractions. A fraction is just a way to indicate that one number needs to be divided by another number. Ancient Italians didn't know how to convert fractions into a single number. They learned some clever tricks to add and subtract some fractions. And if they were willing to endure a nightmare, they could multiply two numbers. But division using Roman numerals was literally unthinkable.
+
+
+Future generations will laugh at our collective foolishness. Especially because the counting method we are failing to adopt has been known since the 1600s. And it's been explained in books that were written in the 1700s. And academic journals have described it many times in the 1900s.
