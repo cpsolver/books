@@ -2,51 +2,53 @@ Script for video for LWV-OR Election-Method Informational Update
 
 My name is Richard Fobes. I'm the author of this how-to book on creative problem solving. I'm proud to say that it has been published around the world in ten languages.
 
-While writing this book I realized that most of the world's biggest problems remain unsolved because we use very primitive vote-counting methods.
+While writing this book I realized that most of the world's biggest problems remain unsolved for so long because we use very primitive vote-counting methods.
 
-So in that book I included a one-paragraph description of a vote-counting method I created that would elect the correct candidate when voters indicate not only a first choice but a second choice, and so on. Later I found out that a man named John Kemeny had created a mathematically equivalent method. His method counts voter opposition, whereas my version counts voter support. To make a long story short, my version is now known as the Condorcet-Kemeny method.
+So in that book I included a one-paragraph description of a vote-counting method I created that would elect the correct candidate. Later I found out that a professor named John Kemeny had created a mathematically equivalent method. His method counts voter opposition, whereas my version counts voter support. To make a long story short, my version is now known as the Condorcet-Kemeny method.
 
 Later, after writing a short book entitled "Hope For The Future," I wrote this book titled "Ending The Hidden Unfairness In U.S. Elections."
 
-When I published this book about twelve years ago there were no names for the different kinds of ballots. Back then, academic articles just named the vote-counting method, such as "plurality," and used verbs to refer to the process of voters marking a ballot. Specifically the words "rank" and "rate" referred to what we now can refer to as marking a ranked-choice ballot or marking a rating ballot.
+When I published this book about twelve years ago there were no names for the different kinds of ballots. Back then, academic articles just named the vote-counting method and used verbs to refer to the process of voters marking a ballot. Specifically the verbs "rank" and "rate" and "vote" were used, and mathematicians knew the difference.
 
-I created the name "single-mark ballot" to refer to what is now called a "single-choice ballot."
+I needed a name for the kind of ballot we use now, so I created the name "single-mark ballot." That name has been adopted in some places, but the name "single-choice ballot" has become more common. A few people prefer the name "choose-one ballot."
 
-The name "ranked-choice ballot" didn't exist, so initially in the printed edition I used the name "order-of-preference ballot." Later I used the name "1-2-3 ballot" in the ebook edition.
+At that time the name "ranked-choice ballot" didn't exist, so in the printed edition I used the name "order-of-preference ballot." Later in the ebook edition I used the name "1-2-3 ballot." Now I use the name ranked-choice ballot.
 
-The important point to realize is that terminology for vote-counting methods is evolving from just naming the vote-counting methods to also giving names to categories that span multiple vote-counting methods.
+The important point to realize is that terminology for vote-counting methods is still evolving. Previously just the vote-counting methods were named. Now names are being given to categories that span multiple vote-counting methods. This simplifies discussing election-method reforms. Instead of needing to remember the characteristics of many dozens of election methods, we can refer to categories, such as which kind of ballot the method uses and the category of vote counting it uses.
 
-Perhaps a useful analogy is to consider that when lumber is fitted together with nails it becomes objects that have names, such as "doghouse" or "shed." But imagine if each piece of lumber, such as a two-by-four or a one-by-eight could not be named.
+As an analogy, consider that when lumber is fitted together with nails it becomes objects that have names, such as "doghouse" or "shed." But imagine if each piece of lumber, such as a two-by-four or a one-by-eight could not be named.
 
-Vote-counting methods have been getting named for many decades, but the components of vote-counting methods are still in the process of getting names.
+This concept of giving names to categories is important because the best combinations of vote-counting components have not yet been used in governmental elections.
 
-This concept is important because building the best election method currently involves fitting together components that are heavily used, yet which have not previously been used in a specific combination that has a name.
+For example, a region within Germany uses a voting method named Zweitmandat, which translates into English as "second mandate." The method is flawed because it does not collect enough information on the ballot. Yet the method includes a component that I described a dozen years ago in my Ending The Hidden Unfairness book. I did not give a name to that component. Only within the last year did I see the component finally has a name. That name translates into English as "best loser."
 
-As an example, a region within Germany uses a voting method named Zweitmandat, which translates into English as "second mandate." The method is flawed because it does not collect enough information on the ballot. Yet the method includes a component that I described a dozen years ago in my Ending The Hidden Unfairness book. I did not give a name to that component. Only within the last year did I see the method given a name. That name translated into English is "best loser."
+A more important component of better vote-counting methods is named "pairwise vote counting."
 
-That component is one part of the system I described in my Ending The Hidden Unfairness book. I named the entire system VoteFair Ranking.
+Alas, this pairwise counting method is easily confused with the category name "Condorcet method." That's because most, but not all, Condorcet methods use pairwise vote counting. Here is a diagram that clarifies that not all Condorcet methods use pairwise counting method, and not all methods that use pairwise vote counting are Condorcet methods.
 
-Another component of VoteFair Ranking is the counting method that is now being called pairwise vote counting.
+As a point of clarification the term Condorcet method refers to any method that always elects the Condorcet winner, if there is one. The Condorcet winner is a candidate who would win every one-on-one match against every other candidate.
 
-Alas, this pairwise counting method is easily confused with the category name "Condorcet method" because most, but not all, Condorcet methods use pairwise vote counting. Yet the counting method is also used by methods that are not Condorcet methods. And there are Condorcet methods that do not use pairwise vote counting. For the benefit of anyone now learning about vote-counting methods, a Condorcet method always elects the Condorcet winner, who is the candidate who would win every one-on-one match against every other candidate.
+Now hopefully you are ready to understand what my favorite election method is. I call it VoteFair Ranking. It has many components. Some of its components have names, but other components don't yet have names.
 
-Now hopefully you understand that when I say my favorite voting method is VoteFair Ranking you will understand that it has many components, some of which have names, and some components don't yet have names.
-
-VoteFair Ranking is described in my book, yet at 340 pages it's too long to read. So I'll try to summarize by listing some of its notable components. Those components are:
+VoteFair Ranking is described in my book, yet at 340 pages it's too long to read. So I'll try to summarize it by listing some of its notable components. Those components are:
 
 * It uses ranked choice ballots.
 * It uses pairwise vote counting.
 * Nearly any way of marking a ranked-choice paper ballot is countable.
-* The Condorcet-Kemeny method is used for single-winner elections and as the basis for other calculations.
-* Each double-sized district elects two legislators using VoteFair representation ranking, which is better than, yet analogous to, the single transferable vote.
-* Slightly larger districts allow some seats to be reserved as statewide seats.
-* As done in many European nations, voters are asked to indicate a favorite political party and the statewide seats are awarded using standard party-based proportional representation.
-* Statewide seats are filled using the "best loser" method.
-* The voting methods used in state legislatures and parliaments also need to be dramatically improved, and I created an interactive website at NegotiationTool dot com that demonstrates what I'm calling VoteFair negotiation ranking.
+* The Condorcet-Kemeny method is used for single-winner elections and as the basis for other calculations. That part I named VoteFair popularity ranking, before I found out about its equivalence to the Condorcet-Kemeny method.
+* The two biggest political parties, which can change over time, use primary elections to nominate two candidates each. This change defeats the money-based tactics that I'll explain soon.
+* Each double-sized district elects two legislators using VoteFair representation ranking. VoteFair representation ranking is better than, yet analogous to, the single transferable vote.
+* Enlarging district sizes a bit further allows some seats to be reserved as statewide seats.
+* Voters are asked to rank the political parties, or at least indicate their favorite party.
+* As done in many European nations, party-based proportional representation calculations are done to identify how many statewide seats each party earns.
+* The candidates who fill the statewide seats are determined using the "best loser" method.
+* The method uses both party-based and party-agnostic kinds of proportional representation.
+* The voting methods used in state legislatures and parliaments also need to be dramatically improved. For this purpose I created an interactive website at NegotiationTool dot com that demonstrates what I'm calling VoteFair negotiation ranking.
+* US presidential elections can use pairwise vote counting. State-by-state differences in weather and voter access can by handled by using electoral votes to scale each state's pairwise vote counts. Those counts are simply added together to create the nationwide pairwise vote count. That reveals which candidate is really most popular.
 
-Of course these changes must be adopted one at a time, not all at once.
+Obviously these changes cannot be adopte all at once. They must be adopted one or two at a time.
 
-The first step I recommend is for any region to adopt the method named Ranked Choice Including Pairwise Elimination, which is abbreviated as RCIPE, pronounced "recipe."
+The first step toward election-method reform that I suggest, is to adopt the election method named Ranked Choice Including Pairwise Elimination, which is abbreviated as RCIPE, pronounced "recipe."
 
 The RCIPE method has these characteristics:
 
@@ -55,17 +57,22 @@ The RCIPE method has these characteristics:
 * In most cases the eliminated candidate is the one who is highest-ranked on the fewest ballots.
 * If the elimination round includes a "pairwise losing candidate" and that candidate is different from the candidate who is highest-ranked on the fewest ballots, then the pairwise losing candidate is eliminated instead.
 * The pairwise losing candidate is the candidate who would lose every one-on-one match against every not-yet-eliminated candidate.
+* Pairwise vote counting is used to identify the pairwise losing candidate.
 * Nearly any way of marking a ranked-choice paper ballot is countable.
 
-Essentially the RCIPE method is the instant-runoff voting method with the addition of a safety net that prevents mistakes such as the one that happened in the 2009 mayoral election in Burlington Vermont using traditional instant-runoff voting.
+Essentially the RCIPE method is the instant-runoff voting method with the addition of a safety net. This safety net prevents mistakes that can occur using traditional instant-runoff voting. The most notable such mistake happened in the 2009 mayoral election in Burlington Vermont.
 
-The RCIPE method uses elimination rounds because countless voters have become familiar with the vote-counting method that has been adopted in a few locations in the United States.
+Countless voters have become familiar with the idea of eliminating candidates one at a time. This approach allows them to verify that the eliminated candidate is indeed the worst candidate among the remaining candidates.
 
-The addition of the safety net overcomes a frequent valid criticism of instant-runoff voting. IRV does not look deeply into the preference information that is collected on ranked-choice ballots.
+Australia has used instant-runoff voting, under the name "the alternative vote," for many decades. This long-term usage in governmental elections gives us evidence that the method does not often yield crazy or unfair results. Yet we can do better. Especially now that computers have became widely available.
 
-Some voters are likely to be suspicious of pairwise vote counting. Especially because they haven't seen it used in governmental elections.
+Yet IRV, which is the abbreviation for instant-runoff voting, has a serious failure. It fails to look deeply into all the preference information that is collected on ranked-choice ballots. The removal of pairwise losing candidates overcomes this weakness.
 
-This brings us to the fact that all vote-counting methods currently used by all governments are flawed. So it's important to understand why.
+Now you are ready to understand another important fact.
+
+All the vote-counting methods currently used by all the governments around the world are flawed.
+
+It's important to understand why.
 
 Ideally voting is supposed to provide a way for citizens to communicate with government to express what the majority of citizens want, and what they don't want. Specifically elections are supposed to provide a feedback loop that works like this:
 
@@ -82,24 +89,30 @@ The reason for this failure is that there are three money-based tactics that are
 
 My Ending The Hidden Unfairness book describes these money-based tactics, but without naming them. Here I'll call them blocking, concentration, and splitting.
 
-A clear example of blocking arose in 2008, after I wrote that book. Many business owners who profit in ways that most voters dislike gave money to political action committees who wanted a Republican president. Their election strategists advised channeling lots of money to Barack Obama for the purpose of blocking Hillary Clinton from reaching the general election. That part of their tactic was successful. However, those experts, and the Republicans who supplied that tactical money, were shocked to discover that their racism was not shared by the majority of voters.
+A clear example of blocking arose in 2008, after I wrote that book. Many business owners who profit in ways that most voters dislike gave money to political action committees devoted to electing a Republican president. The strategists who were hired by those political action committees advised channeling lots of money to Barack Obama for the purpose of blocking Hillary Clinton from reaching the general election. That part of their tactic was successful. However, those experts, and the Republicans who supplied that tactical money, were shocked to discover that their racism was not shared by the majority of voters. That was a clear example of the blocking tactic.
 
-Vote splitting, of course, is when two or more similar candidates are liked by the same voters and those voters split their votes among the similar candidates. If a popular reform-minded candidate doesn't have much of this competition, then money is given to a similar yet less-well-known candidate. If that vote splitting isn't sufficient to make it easy for an anti-reform candidate to win, then money is given to additional similar candidates.
+Vote splitting, of course, occurs when two or more similar candidates are liked by the same voters, and those voters split their votes among the similar candidates. The money tactic is to give campaign contributions to one or more similar candidates to split votes away from the reform-minded candidate. This happens in the primary elections of both political parties. The reason this tactic works is that each voter can only mark the name of one candidate. This tactic can be defeated by adopting ranked-choice ballots and a good vote-counting method.
 
-Concentration is the opposite of splitting. Money is concentrated on a single candidate who is willing to oppose reforms after getting elected. This concentration of money is arranged privately, and often involves withholding campaign contributions from similar anti-reform candidates. With the anti-reform voters concentrating their votes on a single candidate, and vote splitting among the reform-minded candidates, it becomes much easier for the majority of voters to be defeated.
+Concentration is the opposite of splitting. Money is concentrated on a single candidate, specifically someone who is willing to oppose reforms after getting elected. This concentration of money is arranged privately, not publicly. If there is a second candidate who is also willing to oppose reforms, money is withdrawn from one of these two special-interest puppets. The result is a concentration of votes on the one candidate who opposes the reform-minded candidates. This tactic also is very effective in the primary elections of both parties.
+
+So instead of our so-called democracy providing a feedback loop that reduces problems, our current primitive form of democracy creates a feedback loop that rewards business owners who use the money-based tactics called blocking, concentration, and splitting.
+
+Specifically, here's how voting really works:
+
+1: A problem arises, such as an increase in school shootings and mass shootings.
+2: Voters demand laws that will reduce the problem.
+3: Multiple candidates promise to pass those laws, and one candidate in each primary election recieves money from gun and ammunition sellers based on privately promising not to enact those laws.
+4: Elections elect the candidates who oppose what the voters want.
+5: After the election, legislatures fail to have enough support for a new law that would reduce the problem.
+6: The frequency of school shootings and mass shootings remains about the same, and even leads to more shootings in incidents that involve guns that were bought to protect against mass shootings.
+
 
 
 ...
 
-Feedback loop that opposes election-method reform ...
-
-In as sense this method is a hybrid between ...
-
-
-Importantly VoteFair Ranking includes both kinds of proportional representation, party-based and party-agnostic.
-
-The party-agnostic portion is called VoteFair representation ranking.
 
 During the past two decades my website at VoteFair dot org has been calculating VoteFair popularity ranking results.
 
-The beginning chapters explain how our current primitive vote-counting methods are exploited by people who donate large campaign contributions, and the last chapter explains why better vote-counting methods will dramatically increase widespread economic prosperity. In this video I'll summarize the most important of those concepts.
+In as sense this method is a hybrid between ...
+
+The last chapter explains why better vote-counting methods will dramatically increase widespread economic prosperity. In this video I'll summarize the most important of those concepts.
