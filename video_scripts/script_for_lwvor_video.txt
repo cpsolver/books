@@ -174,6 +174,12 @@ Those of us who are math-savvy election-method experts have known that ranked ch
 
 I would gladly support the use of "Minimax with margins" or the "Minimax with winning votes" for use in governmental elections. For this purpose it would virtually always yield the same result as the Condorcet-Kemeny method, which looks into ballot data more deeply than any other method, which is why the method can require huge amounts of computation time when there are more than about twelve candidates.
 
-maybe write more later ...
+In the meantime the RCIPE method is much easier to understand, yet still provides significantly better results than instant-runoff voting.
 
-bring to close ...
+(write more if important clarifications are missing)
+
+It's tempting to think that election reform can wait a bit longer. Yet meaningful election reforms in any single state will inspire election reforms in other states. At that point the United States will demonstrate the big economic advantage of full democracy, and that economic prosperity will inspire other nations to improve their democracies. Then the people living in oppressed nations such as Afganistan, Russia, and China will demand full democracy in their nations.
+
+Remember this is how the Cold War with Russia ended. The people living in Eastern Europe under Russian rule saw the prosperity in Northern America and toppled their corrupt governments to achieve that democracy-based prosperity.
+
+Now it is long past time to adopt full democracy. As I said at the beginning, most of the world's biggest problems have remained unsolved because currently we use very primitive vote-counting methods. Let's move beyond our primitive level of democracy to full democracy. The rewards will be beyond what most people can imagine, just as the people living during Medieval times could not have imagined that adopting Arabic numerals would lead to the end of highway robbery and men walking on the moon.
