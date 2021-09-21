@@ -154,41 +154,51 @@ In other words, the RCIPE method compensates for the failure of instant-runoff v
 
 Looking ahead farther into the future, the method known as the Minimax method would also work well. This election method has three variations, any one of which would be a good choice.
 
-So in one sense the RCIPE method provides a stepping stone to the Minimax, Kemeny, and other better vote-counting methods.
+So in one sense the RCIPE method provides a stepping stone to the Minimax, Kemeny, and other better vote-counting methods, including proportional representation methods.
 
 Now I'm going to shift to a broader perspective.
 
-Although I and other election-method experts talk about the importance of fairness, fairness is not the real issue. The real issue is money.
+When the topic of election-method reform comes up, most people regard the topic as esoteric. Yet voting is one of the civilized methods of fighting that have replaced warfare. In fact voting arose from warfare. When two armies with the same weapons faced each other, both sides counted the number of enemy soldiers, and usually the smaller army agreed to concede some of what it was fighting for.
 
-There will be huge gains in economic prosperity to any state or nation that adopts full democracy. The last chapter of my Ending The Hidden Unfairness book explains this cause-and-effect link in detail. Shortly I'll point out a few reasons for this linkage.
+Now, instead of soldiers fighting with weapons, courtroom lawyers fight with documents, Wall Street traders fight with buy and sell orders, politicians fight with words, and citizens fight with marked ballots. In most of these cases the biggest fights are about money.
 
-Most people regard the link between economic prosperity and vote counting as esoteric. When pairwise vote counting is presented as a better way to count ballots, some people say or think "let's not complicate how we vote" and "we don't know what might go wrong if we change" and "we already know how to count votes" and "if it were such a big advantage it would already have happened" and "I don't want to bother learning something new."
+Yet when election-method reforms are promoted, some people say or think "let's not complicate how we vote" and "we already know how to count votes" and "if it were such a big advantage it would already have happened" and "I don't want to bother learning something new" and "we don't know what might go wrong if we change."
 
-These are similar to the kinds of reactions that greeted Arabic numerals when they first arrived in Europe around the year 999, which is when Pope Sylvestor the Second was elected to become Pope. As a student he had learned how to use Arabic numerals so he could do math calculations incredibly fast compared to other Romans. That's because at that time most Romans were still using Roman numerals. Yet that valuable innovation was resisted for more than a hundred years.
+These are similar to the kinds of reactions that greeted Arabic numerals when they first arrived in Europe around the year 999, which is when Pope Sylvestor the Second was elected to become Pope. As a student he had learned how to use Arabic numerals so he could do math calculations incredibly fast compared to other Romans, who were still using Roman numerals. Back then people reacted with words or thoughts such as "we already know how to count" and "we don't want to bother learning something new" and "that change isn't going to affect much."
 
-The history books I've read tend to neglect the importance of this innovation so I'll point out why there were huge benefits to adopting the digits zero through nine, plus multiplication tables. It provides an historic example of how a simple math concept of counting can dramatically improve daily life for every citizen.
+Yet that simple math concept of digits and multiplication tables dramatically improved daily life for every citizen within a relatively short time. Many history books fail to bundle together the huge benefits, so it's worth putting this seemingly small change into perspective. 
 
-During Medieval times European banking families were not able to hire trustworthy non-family employees to do their accounting. When Arabic numerals arrived it became practical for a bank to hire some accountants who tracked credits and hire other accountants who tracked debits. When the credits and debits did not match, the mistake was tracked to an accidental mistake or an attempt to embezzle. The result was less stealing and fewer accounting errors. This made it worthwhile for merchants and traders to trust the bigger banks, especially the ones in Italy. In turn, merchants and traders were able to carry written documents instead of always carrying gold, silver, coins, and other valuables for payment. These documents put lots of highway robbers out of business. In turn, that made travel between cities safer. In turn, that dramatically increased travel between cities. In turn, increased travel increased the sharing of knowledge between cities. That spread of knowledge led to the Scientific Revolution, which led to the Industrial Revolution, which eventually led to the modern technology we take for granted today.
+During Medieval times European banking families hiring non-family employees to do their accounting led to accounting mistakes and embezzlement. When Arabic numerals arrived it became practical for a bank to hire some accountants who tracked credits and hire other accountants who tracked debits. When the credits and debits did not match, the mistake was tracked to an accidental mistake or an attempt to embezzle. The result was less stealing and fewer accounting errors.
+
+This change, which first happened in Italy, increased the trustworthiness of those bigger banks. In turn, Italian merchants and traders were able to carry written documents instead of always carrying gold, silver, coins, and other valuables for payment. These documents were useless to highway robbers, so highway robbery decreased. In turn, this increased the safety of travel between cities, which increased the sharing of knowledge between cities. This faster spread of knowledge led to the Scientific Revolution, which led to the Industrial Revolution, which eventually led to the modern technology we take for granted today.
 
 Today we are at a similarly huge tipping point. Adopting pairwise vote counting will enable voters to elect the reform-minded politicians we want. In turn, those politicians will reform laws that, in turn, will dramatically increase widespread economic prosperity. And that prosperity increase will be as dramatic as what civilization experienced coming out of Medieval times.
 
-The last chapter of my Ending The Hidden Unfairness book explains some reasons that fairer elections will increase economic prosperity. Here are a few reasons for this link.
+The last chapter of my Ending The Hidden Unfairness book explains some reasons that fairer elections will increase economic prosperity. Here are a few reasons:
 
-* Fairer elections will reduce corrupt laws, which basically steal money from our wallets, which reduces consumer consumption.
+* Fairer elections will reduce corrupt laws that basically steal money from our wallets. In turn, this change will increase consumer consumption of products from other businesses that don't benefit from corrupt laws.
 
-* Business tax rates will increase for businesses that are not difficult to do yet are burdens on the economy, such as the financial institutions on Wall Street.
+* Business tax rates will increase for financial institutions on Wall Street and other businesses that are not difficult to do yet impose high fees that leave consumers with less spending money.
 
-* Business tax rates will decrease for businesses that are challenging to do and attract income from outside the region, such as manufacturing and software development and product-design businesses.
+* Business tax rates will decrease for businesses such as manufacturing and software development and product-design businesses, which attract money from other nations and are challenging for other nations to duplicate.
 
-* Trust in government will increase, which will increase optimism about the future, which will increase consumer confidence, which economists measure because it's known to increase economic prosperity.
+* Trust in government will increase, which will increase compliance with laws that citizens regard as fair, unlike many current laws that are clearly unfair for consumers.
 
-It's tempting to think that election reform can wait a bit longer. Alas, the longer we wait, the more suffering occurs. Not only in the US economy. Countless children, women, and non-wealthy people living outside the US are suffering in worse ways.
+* Optimism about the future will increase, which will boost consumer confidence, which economists measure because it's known to increase economic prosperity.
 
-Recall that the Cold War with Russia ended because their oppressed citizens revolted after seeing evidence of the prosperity in North America. In a similar way, full democracy in the US will lead to widespread economic prosperity that will inspire people living in other nations to demand higher levels of democracy in their nations. This strategy provides a powerful way to defeat the oppression going on in Afganistan, North Korea, Russia, and China.
+There are many other such links between fairer laws and greater economic prosperity. Some others I've described elsewhere. And yet others will become obvious only in hindsight.
 
-As I said at the beginning, most of the world's biggest problems have remained unsolved because currently we use very primitive vote-counting methods. Humans have become much more civilized by fighting in courts instead of on battlefields. But wealthy business owners too easily control election results, and therefore too easily control laws that either directly or indirectly steal money from our wallets.
+Now that you better appreciate the importance of election-method reform, it's tempting to think that there's no big hurry to adopt these reforms.
 
-Let's move beyond our primitive level of partial democracy to full democracy. The widespread economic rewards will be beyond what most people can imagine.
+Alas, the longer we wait, the more suffering occurs. This suffering is not limited to democracies where the most obvious signs of oppression are excessive costs for consumers, and having to work for unethical businesses. There are countless children, women, and non-wealthy people living in non-democracies who are suffering terrible oppression.
+
+Recall that the Cold War with Russia ended because oppressed Eastern Europeans revolted because they saw the economic prosperity in North America and demanded changes in government that would bring that kind of prosperity to their nations. In a similar way, higher levels of democracy and more widespread economic prosperity in the United States will inspire citizens in other nations to demand higher levels of democracy for their governments. I believe that this strategy is what will defeat the oppression going on in Afganistan, North Korea, Russia, and China.
+
+Humans have become much more civilized by fighting in courts instead of on battlefields. Yet we remain less civilized as long as our laws are controlled by politicians who were chosen by wealthy business owners. To make further progress to reach higher levels of civilization we need laws that are written by reform-minded leaders who get elected by votes, not money.
+
+As I said at the beginning, most of the world's biggest problems have remained unsolved because currently we use very primitive vote-counting methods. 
+
+Let's move beyond our primitive level of partial democracy to full democracy. The widespread economic rewards will be beyond what most people living today can imagine.
 
 ..............................
 
