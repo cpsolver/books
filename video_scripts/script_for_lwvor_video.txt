@@ -12,64 +12,69 @@ Later, after writing a short second book, I wrote this third book titled "Ending
 
 When I published this book about twelve years ago there were no names for the different kinds of ballots. Instead, back then, academic journal articles used verbs like "rank" and "rate" and adjectives like "ordinal" and "cardinal," but there were no self-descriptive names for the different kinds of ballots.
 
-In particular there was no name for the kind of ballot we use now. So I created the name "single-mark ballot." That name now appears in Wikipedia and other places. Currently I prefer the name "single-choice ballot."
+Not even for the kind of ballot we use now. So I created the name "single-mark ballot." That name now appears in Wikipedia and other places. Currently I prefer the name "single-choice ballot."
 
-For what we now call a "ranked choice ballot" I used the name "order-of-preference ballot" in the first edition and "1-2-3 ballot" in the second edition.
+Back when I wrote that third book the name "ranked choice ballot" did not exist. So I created the name "order-of-preference ballot" and used that in the first edition. In the second edition I used the name "1-2-3 ballot," which was suggested by another election-reform advocate.
 
-Alas, the terminology for elements of vote-counting methods continues to be limited.
+What's important to understand is that election-method terminology is evolving. There are well-established names for some election methods, especially the ones used in nations around the world. But most of the well-known methods are not well-designed. They are flawed.
 
-We do have names for the election systems currently used in national elections around the world. However, all those named systems are flawed.
+Some elements within those election methods are well-designed, yet the elements lack names.
 
-Yet within those named systems there are elements that are well-designed. The best of those elements can be combined to create great election systems.
-
-For example, consider the voting method named Zweitmandat, which translates into English as "second mandate." It's used in a region of Germany. It's flawed because it does not collect enough information on the ballot. Yet part of the method consists of a useful element that I described a dozen years ago in my Ending The Hidden Unfairness book. I did not give a name to that element. Only within the last year did I see that the element has a name. I don't know the German name, but apparently the English translation is "best loser" or "best near-winner."
+Consider the voting method named Zweitmandat, which translates into English as "second mandate." It's used in a region of Germany. It's flawed because it does not collect enough information on the ballot. Yet part of the method consists of a useful element that I described a dozen years ago in my Ending The Hidden Unfairness book. I did not give a name to that element. Only within the last year did I see that the element has a name. I don't know the German name, but apparently the English translation is "best loser" or "best near-winner."
 
 Also in my book I described how ranked choice ballots can be counted by focusing on one pair of candidates at a time. I did not name that counting method in my book. Now I refer to it as "pairwise vote counting."
 
 Unfortunately pairwise vote counting is easily confused with the category name "Condorcet method." That's because most, but not all, Condorcet methods use pairwise vote counting, and most, but not all, methods that use pairwise vote counting are Condorcet methods. Here's a Venn diagram that shows how these terms are related yet different.
 
-Now you're ready to understand my favorite election method. I designed it, and I call it VoteFair Ranking. It has many elements. Some of its elements have names, yet other elements remain unnamed.
+Now you're ready to understand my favorite election method. I designed it, and I call it VoteFair Ranking. It has many elements. Some of its elements are still beginning to have names.
 
-The details of VoteFair Ranking are explained in my third book. But that book is 340 pages long, which is too long to compete with well-crafted videos. So right now I'll summarize VoteFair Ranking by listing some of its notable elements and categorizations.
+The details of VoteFair Ranking are explained in my third book. But that book is 340 pages long, so it's too long to compete with well-crafted videos. So here I'll summarize VoteFair Ranking by listing some of its notable elements and categorizations.
 
 * It uses ranked choice ballots.
 * It uses pairwise vote counting.
 * If a ranked choice paper ballot is marked in a way that's legible, then it's countable.
 * For single-winner elections it uses what has become known as the Condorcet-Kemeny method.
-* The two biggest political parties, whichever they are, will nominate the second-ranked candidate as their second candidate in the general election. Under current conditions this means there will be two Republicans and two Democrats in each general election. This change defeats the money-based tactics that I'll explain soon. I don't know of any other election method that includes this important characteristic.
-* Yet another element is now named "dual-member" districts. This means that each current district is doubled in size, and each district elects two legislators who together represent the district.
-* The second of these two legislators is elected using VoteFair representation ranking, which ensures the second-seat winner represents the voters who are not well-represented by the first-seat winner.
+* Here's an important element, but it doesn't yet have a name, and I don't know of any other election method that includes this element. The two biggest political parties, whichever they are, will nominate the second-ranked candidate as their second candidate in the general election. Under current conditions this means there will be two Republicans and two Democrats in each general election. Soon I'll explain why this change will reduce the influence of money and increase the influence of votes.
+* Yet another element within VoteFair Ranking is "dual-member" districts. This means that each current district is doubled in size, and the enlarged district elects two legislators, instead of just one legislator.
+* The second of these two legislators is elected using VoteFair representation ranking. This kind of ranking ensures that the second-seat winner represents the voters who are not well-represented by the first-seat winner.
 * VoteFair representation ranking is a party-agnostic method that's similar to the single transferable vote in terms of what it accomplishes.
-* Party-agnostic means it ignores political parties, which is a different kind of proportional representation compared to what I'm about to explain.
+* The term party-agnostic means the method ignores political parties. This party-agnostic kind of proportional representation is different from another kind of proportional representation I'm about to explain.
 * The districts are enlarged a bit further to allow some seats to be reserved as statewide seats.
 * Voters are asked to rank the political parties, or at least indicate their favorite party.
 * As done in many European nations, party-based proportional representation calculations are done to identify how many statewide seats each party earns.
-* The candidates who fill the statewide seats are determined using the "best loser" method.
-* Special considerations are needed for US presidential elections. State-by-state differences in weather and voter access can continue to be balanced using the numbers named electoral votes, although one fewer electoral vote per state would be fairer. Ranked choice ballots need to be used in most states. The resulting pairwise counts in each state will be scaled using the adjusted electoral votes. Then those pairwise counts are simply added across all 50 states. That approach easily and fairly reveals which presidential candidate is really the most popular.
+* The candidates who fill the statewide seats are determined using what is now called the "best loser" method.
+* That explains how VoteFair Ranking elects legislators, mayors, and governors.
+* But US presidential elections require special considerations. State-by-state differences in weather and voter access can continue to be balanced using the numbers named electoral votes, although one fewer electoral vote per state would be fairer. The voters in most states would vote for presidential candidates using ranked choice ballots. Tho ballots in each state will be counted using pairwise vote counting. Those counts will be scaled using the adjusted electoral votes. Then the adjusted pairwise counts are simply added across all 50 states. This approach will easily and fairly reveal which presidential candidate is really the most popular.
 
 That's an extremely brief summary of VoteFair Ranking as I described it in my book.
 
 Later I developed something called VoteFair negotiation ranking. I designed it for use by members of a legislature or parliament or Congress when they vote on proposed laws. I created the interactive website at NegotiationTool dot com to demonstrate how this method works.
 
-While I was developing the VoteFair Ranking system I wrote software to make sure it worked the way I expected, and to work out important details. The latest open-source versions of this software I keep on Github in the CPSolver account.
+When I was developing the VoteFair Ranking system, I wrote and debugged software to make sure that both the method and the software worked the way I expected. The latest open-source versions of this software I now keep available on Github in the CPSolver account.
 
-The first public use of the early VoteFair Ranking software was for a poll among students at a school that was, at that time, named the National College of Natuopathic Medicine. The students wrote ranking numbers next to six spending categories for student-body funds, and my software calculated the popularity of the categories from most popular to least popular. The published results were regarded as meaningful and useful.
+The first public use of the early VoteFair Ranking software was for a poll among students at a school that was, at that time, named the National College of Natuopathic Medicine. The students wrote ranking numbers next to six spending categories for student-body funds. My software calculated the popularity of the categories from most popular to least popular. The published results were regarded as meaningful and useful.
 
 Unlike other methods, the Condorcet-Kemeny method always identifies the popularity of candidates from first-most popular, and second-most popular, and third-most popular, and so on down to least-popular. This characteristic reveals that it really does look deeply into all the preference information on the ballots.
 
 After that first public use I created the vote-counting service that still runs at VoteFair dot org. That software runs automatically, for free, with no signup required. This means I don't follow who uses it. Every few years I take a peek at how it's being used. From those peeks I've seen that it's been used by many hundreds of clubs, school classes, business departments, and other groups of people around the world to elect or rank many kinds of choices.
 
-An early user of that VoteFair service was the San Francisco Bay Area Curling Club. The admin for those elections wrote these words: "Our organization has had several successful elections of club officers in the past few years, including an annual election a couple of weeks ago with the most candidates ever, and all the results have been recognized as very fair." In another message he said the club also used the service to select a new team name.
+An early user of that VoteFair service was the San Francisco Bay Area Curling Club. The admin for those elections wrote these words about using VoteFair Ranking: "Our organization has had several successful elections of club officers in the past few years, including an annual election a couple of weeks ago with the most candidates ever, and all the results have been recognized as very fair." In another message he said the club also used the service to select a new team name.
 
-Starting in the second year of the TV show American Idol, I hosted VoteFair American Idol polls. Each week typically hundreds of American Idol fans ranked the not-yet-eliminated contestants. At its peak there were two thousand unique voters each week. The poll results were viewed by even more people. Testimonials about the results are posted on the VoteFair website.
+Starting in the second year of the TV show American Idol, I hosted VoteFair American Idol polls. Each week typically hundreds of American Idol fans ranked the contestants who had not yet been eliminated. At the poll's peak there were two thousand unique voters each week.
 
-My experience working with all this real-world data provides me with a deep understanding that goes beyond just focusing on mathematical characteristics.
+That experience working with real-world voting data taught me insights about voter turnout, attempts to vote tactically instead of sincerely, how long it takes for voters to learn to rank more than just one or two favorite choices, and much more.
 
-In contrast, many election-method experts who focus on mathematical proofs are realizing that they lack experience using real-world data when they analyze their favorite vote-counting methods.
+Some other American Idol polls had far more voters, but those polls simplistically asked "Who's your favorite?" As a result, a website named Idol Analytics stated that my VoteFair poll results were -- quote -- better than any other single index that I assessed -- unquote.
 
-A significant barrier to getting access to meaningful real-world data is that governments that use instant-runoff voting or the single transferable vote do not publish their election data in a pairwise-vote-counting format. This barrier makes it impossible to compare the best methods with those more primitive vote-counting methods.
+During the third season of American Idol when Jennifer Hudson was eliminated way too early, I explained in my weekly commentary that her premature departure was caused by vote splitting and tactical voting, which can't happen when using ranked choice ballots and pairwise vote counting.
 
-I'm aware that the full VoteFair Ranking system is too advanced to be adopted all at once. Instead it needs to be adopted one or two elements at a time.
+In the past couple of years election-method experts have increased their interest in analyzing real-world voting data. Previously they tended to heavily focus on mathematical proofs about whether it's possible, or impossible, for an election method to yield a result that violates a principle of fairness.
+
+A significant barrier to analyzing real-world election data is that governments that use instant-runoff voting or the single transferable vote do not publish their election data in a pairwise-vote-counting format.
+
+In my VoteFair American Idol polls my software also calcuated instant-runoff voting results and plurality results, and I referred to these differences in my weekly commentary.
+
+Now that you're aware of what the VoteFair Ranking system is, and that it has been used for many purposes by many people, I need to clarify that I'm aware the full VoteFair Ranking system is too advanced to be adopted all at once. Instead it needs to be adopted one or two elements at a time.
 
 The first element that needs to be adopted within a state is to use ranked choice ballots in general elections and count them with a method that's better than instant-runoff voting.
 
@@ -87,15 +92,15 @@ The combined tactics of splitting and concentration in primary elections account
 
 I have not seen any academic journal articles that explain these money-based tactics. Nor have I seen any articles that research how well the various vote-counting methods defeat these tactics.
 
-This isn't surprising. After all, university professors get most of their funding from government sources. And the wealthy business owners who control governments around the world do not knowingly fund that kind of research. The result is a scarcity of academic journal articles about better vote-counting methods that will defeat the money-based tactics.
+This isn't surprising. After all, university professors get most of their funding from government sources. And the wealthy business owners who control governments around the world do not knowingly fund that kind of research. The result is a scarcity of academic journal articles about better vote-counting methods, and almost no research about how they can defeat money-based tactics.
 
-As yet another barrier, this missing topic in academic journal articles causes a similar lack of knowledge on Wikipedia. Remember that vote-counting methods are mathematical and Wikipedia especially requires references to peer-reviewed sources for mathematical articles.
+As yet another barrier, these missing topics in academic journal articles causes a similar lack of knowledge on Wikipedia. Remember that vote-counting methods are mathematical, and Wikipedia especially requires references to peer-reviewed sources for mathematical articles.
 
 To partially compensate for this limitation in Wikipedia coverage, a separate wiki was created at Electowiki dot org. It's written and edited by election-method experts around the world who communicate via email.
 
-The barrier against getting new vote-counting methods into Wikipedia can be, and has been, overcome in cases where money is available. That funding pays for people to promote a method to a regional political party, which makes the method notable, which then qualifies the election method to appear on Wikipedia.
+The barrier against getting new vote-counting methods into Wikipedia can be, and has been, overcome in cases where money is available. That's because funding can pay for people to promote a method to a regional political party. When a political party adopts a previously unused vote-counting method, the method becomes notable. Then it qualifies to appear on Wikipedia.
 
-There are three organizations that have this level of funding for promoting specific methods. The Center for Election Science promotes Approval voting. The Equal Vote Coalition promotes STAR voting. The biggest one is the FairVote organization. That's FairVote, not VoteFair. They promote a specific version of instant-runoff voting, and they promote the method known in academic literature as the single transferable vote.
+In the United States there are three organizations that have this level of funding for promoting specific methods. The Center for Election Science promotes Approval voting. The Equal Vote Coalition promotes STAR voting. The biggest one is the FairVote organization. That's FairVote, not VoteFair. They promote a specific version of instant-runoff voting, and they promote the method known in academic literature as the single transferable vote.
 
 All three of these organizations try to hide the fact that there are yet better ways to count ranked choice ballots.
 
@@ -115,7 +120,9 @@ In fact, most nations use single-choice ballots or ballots that are marked in wa
 
 This brings us to the situation in Australia. They use three different kinds of vote-counting methods. Some of their elections use plurality voting, which is what we use here in the US. Other elections use ranked choice ballots with instant-runoff voting, which they call "the alternative vote." Yet other elections are multi-winner elections that count ranked choice ballots using the method that academic literature refers to as "the single transferable vote." After awhile Australian voters learned that they needed to most often give the highest ranks to the candidates from the two or three biggest political parties. This happened because Australian political parties were unable to shift their identities to fit three different election methods. This example demonstrates that in addition to adopting better ballots it's also essential to count those better ballots in ways that are compatible with other election methods still being used elsewhere in the state or nation.
 
-When the election systems of other nations are examined it's important not to assume that there is fairness just because there are fewer symptoms of unfairness. Specifically, it's not difficult to make the problem of gerrymandered districts disappear. And it's not difficult for political parties to add rules that increase the percentage of female politicians who get elected. Yet that doesn't mean that the members of a parliament better represent the voters. As a more familiar example of this concept, the United States adopted primary elections to solve the obvious vote splitting that was happening in what we now call general elections, but now the vote splitting happens in primary elections where it's less noticed because the winner is always from the correct political party.
+When the election systems of other nations are examined it's important not to assume that there is fairness just because there are fewer symptoms of unfairness. Specifically, it's not difficult to make the problem of gerrymandered districts disappear. And it's not difficult for political parties to add rules that increase the percentage of female politicians who get elected. Yet that doesn't mean that the members of a parliament better represent the voters.
+
+As a more familiar example of this concept, the United States adopted primary elections to solve the obvious vote splitting that was happening in what we now call general elections. But now the vote splitting happens in primary elections where it's more difficult to notice because the winner is always from the correct political party.
 
 As a related point, many reformers want to make it easier for third political parties to get their candidates elected. Yet if that's done without also forcing the Republican party and Democratic party to be controlled by votes instead of money, then full representation of all the voters is not achieved because only a minority of voters in both big parties supply the largest campaign funds.
 
@@ -158,15 +165,15 @@ So in one sense the RCIPE method provides a stepping stone to the Minimax, Kemen
 
 Now I'm going to shift to a broader perspective.
 
-When the topic of election-method reform comes up, most people regard the topic as esoteric. Yet voting is one of the civilized methods of fighting that have replaced warfare. In fact voting arose from warfare. When two armies with the same weapons faced each other, both sides counted the number of enemy soldiers, and usually the smaller army agreed to concede some of what it was fighting for.
+When the topic of election-method reform comes up, most people regard the topic as esoteric. Yet a big reason we have less warfare is that voting has replaced small-scale warfare. In fact voting arose from warfare. When two armies with the same weapons faced each other, both sides counted the number of enemy soldiers. Then the smaller army usually agreed to concede some of what it was fighting for.
 
-Now, instead of soldiers fighting with weapons, courtroom lawyers fight with documents, Wall Street traders fight with buy and sell orders, politicians fight with words, and citizens fight with marked ballots. In most of these cases the biggest fights are about money.
+Now, instead of soldiers fighting with weapons, courtroom lawyers fight with documents, Wall Street traders fight with buy and sell orders, politicians fight with words, and citizens fight with marked ballots. In most of these fights the biggest conflicts are about money.
 
 Yet when election-method reforms are promoted, some people say or think "let's not complicate how we vote" and "we already know how to count votes" and "if it were such a big advantage it would already have happened" and "I don't want to bother learning something new" and "we don't know what might go wrong if we change."
 
-These are similar to the kinds of reactions that greeted Arabic numerals when they first arrived in Europe around the year 999, which is when Pope Sylvestor the Second was elected to become Pope. As a student he had learned how to use Arabic numerals so he could do math calculations incredibly fast compared to other Romans, who were still using Roman numerals. Back then people reacted with words or thoughts such as "we already know how to count" and "we don't want to bother learning something new" and "that change isn't going to affect much."
+These are similar to the kinds of reactions that greeted Arabic numerals when they first arrived in Europe around the year 999, which is when Pope Sylvestor the Second was elected to become Pope. As a student he had learned how to use Arabic numerals so he could do math calculations incredibly fast compared to other Romans, who were still using Roman numerals. Back then people reacted with words or thoughts such as "we already know how to count" and "we don't want to bother learning something new" and "that change isn't going to affect much" and Christian church leaders said "those Arabic numerals come from the enemy of our religion."
 
-Yet that simple math concept of digits and multiplication tables dramatically improved daily life for every citizen within a relatively short time. Many history books fail to bundle together the huge benefits, so it's worth putting this seemingly small change into perspective. 
+Yet that simple math concept of using the digits zero through nine and multiplication tables dramatically improved daily life for every citizen within a relatively short time. Many history books fail to clarify why such huge benefits arose from such a seemingly small change, yet it parallels what's going on now regarding pairwise vote counting.
 
 During Medieval times European banking families hiring non-family employees to do their accounting led to accounting mistakes and embezzlement. When Arabic numerals arrived it became practical for a bank to hire some accountants who tracked credits and hire other accountants who tracked debits. When the credits and debits did not match, the mistake was tracked to an accidental mistake or an attempt to embezzle. The result was less stealing and fewer accounting errors.
 
