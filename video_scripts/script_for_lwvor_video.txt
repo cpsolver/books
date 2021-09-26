@@ -68,25 +68,31 @@ That experience working with real-world voting data taught me many insights such
 
 I'm mentioning these experiences with VoteFair American Idol polls because election-method experts recently have realized the importance of analyzing real-world voting data. During the decades before that, academic research about election methods tended to focus on mathematical proofs about whether or not it was possible for an election method to yield a result that violated one of several fairness characteristics. Soon I'll point out the limitations of that kind of analysis.
 
-Of course there were other American Idol polls. But those approaches basically just asked the question "Who's your favorite?" It turns out that asking voters to rank the singers yields much richer data, which makes it possible to get much more meaningful results. In fact, a website named Idol Analytics stated that my VoteFair poll results were -- quote -- better than any other single index that I assessed -- unquote. For clarification the word "index" includes the innovative tactic of measuring busy signals on the official voting phone lines.
+Of course there were other American Idol polls. But those approaches basically just asked the question "Who's your favorite?" It turns out that asking voters to rank the singers yields much richer data, which makes it possible to get much more meaningful results. In fact, a website named Idol Analytics stated that my VoteFair poll results were -- quote -- better than any other single index that I assessed -- unquote. FYI, the word "index" covered the innovative tactic of measuring busy signals on the official voting phone lines.
 
-A notable event happened during the third season of American Idol. Jennifer Hudson was eliminated way too early. Based on the data from that week's VoteFair poll, I explained in my weekly commentary that her premature departure was caused by vote splitting and tactical voting. These are the same voting weaknesses that haunt governmental elections around the world.
+A big advantage of pairwise vote counting is that anyone can look at the numbers and verify that their favorite was preferred by fewer voters than the winner. This comparison was insightful during the third season of American Idol when Jennifer Hudson was eliminated way too early. As I explained in that week's commentary, her premature departure was caused by vote splitting and tactical voting. These are the same voting weaknesses that undermine the fairness of governmental elections around the world.
 
-My VoteFair American Idol poll software also calcuated the most-popular singer according to instant-runoff voting. And it calculated the plurality winner based on the top-ranked singer on each ballot. These comparisons revealed that instant-runoff voting frequent failed to correctly identify which singer was actually the most popular.
+The VoteFair poll software has access to all the raw ballot data, so for comparison purposes it calculates the most-popular choice according to instant-runoff voting, and plurality voting. The plurality comparison is useful to verify that the people who voted in the VoteFair American Idol polls roughly matched the voters who participated in the higher-traffic polls.
 
-A big advantage of pairwise vote counting is that anyone can look at the numbers and verify that their favorite was preferred by fewer voters than the winner. 
+The instant-runoff voting comparison revealed the frequent failures of that method to correctly identify the most popular choice.
 
-Alas, governments that use ranked choice ballots do not publish pairwise vote counts, which blocks election-method experts from comparing instant-runoff voting with much better vote-counting methods.
+Naturally many people would like to do such comparisons using data from governmental elections that use ranked choice ballots. Alas, that data is not available. The official election data is only available in the format that's used to do instant-runoff voting and the single transferable vote, neither of which involve using pairwise vote counts. Yet the best single-winner methods need access to those pairwise vote counts.
 
-One of the advantages of collecting real-world vote data like I did in my polls is that the data supports the fact that my VoteFair ranking software produced far fairer results compared to instant-runoff voting.
+This is why I've spent time explaining that there is lots of evidence that supports the vote-counting methods I promote. But that evidence cannot yet be duplicated using data from governmental elections. This is one of many barriers that block election-method reform.
 
-Now that you're aware of what the VoteFair Ranking system is, and that it has been used for many purposes by many people, I need to clarify that I'm aware the full VoteFair Ranking system is too advanced to be adopted all at once. Instead it needs to be adopted one or two elements at a time.
+Of course my VoteFair Ranking service is not the only such service. A professor at Cornell University maintains such a service under the name Condorcet Internet Voting Service. That service has handled thirty thousand polls over two decades. These polls include elections of officers in non-governmental organizations. That service allows the poll administrator to choose from several different kinds of Condorcet methods, with the current default being the Condorcet-Minimax method. Recently this single-winner method has been emerging as the most popular single-winner method among election-method experts.
+
+These other ranking services, plus the wide availablity of open-source software, means that better vote-counting methods are getting used widely. It just isn't yet happening in governmental elections.
+
+As a clarification, the Condorcet-Kemeny method is not a viable choice for governmental elections in the near future. That's because it looks so deeply into the ballot preference information that its computation time quickly increases as the number of choices increases. In the method's defense I'll point out that a variation of the method, such as by starting with a quick elimination of the obviously unpopular candidates, would be viable for governmental elections.
+
+Now that I've explained what the VoteFair Ranking system is, and that the key elements of VoteFair Ranking have been used by many people for many polls and small elections, I'll acknowledge that the full VoteFair Ranking system is too advanced to be adopted all at once. Instead it needs to be adopted one or two elements at a time.
 
 The first element that needs to be adopted within a state is to use ranked choice ballots in general elections and count them with a method that's better than instant-runoff voting.
 
 The second element that's needed is for that state's Republican party and Democratic party to each nominate a second candidate who moves on to the general election. This change will defeat the most significant money-based tactics now being used to corrupt election results.
 
-My Ending The Hidden Unfairness book describes these money-based tactics. However in the book I did not name them. Lately I've been calling them blocking, concentration, and splitting.
+My Ending The Hidden Unfairness book describes these money-based tactics. However in that book I did not name them. Lately I've been calling them blocking, concentration, and splitting.
 
 A clear example of the blocking tactic occurred in 2008, after I wrote that book. The election-method experts working for big-business-oriented political action committees steered lots of money to Barack Obama for the purpose of blocking Hillary Clinton from reaching the general election. That part of their tactic was successful. However, the experts and big-business donors were shocked to discover that their racism was not shared by the majority of voters. That was a clear example of the blocking tactic.
 
@@ -94,17 +100,17 @@ Vote splitting, of course, occurs when two or more similar candidates are liked 
 
 The money-based tactic named "concentration" is the inverse of splitting. Money is concentrated on a single candidate who has demonstrated a willingness to oppose the reforms that the majority of voters want. This funding is arranged privately, not publicly. It includes withdrawing money from any additional puppet-like candidates who have less chance of winning.
 
-The combined tactics of splitting and concentration in primary elections accounts for why both of the main candidates in general elections almost never include the reform-minded candidates that most voters would prefer.
+The combined tactics of splitting, concentration, and blocking accounts for why both of the main candidates in general elections almost never include the reform-minded candidates that most voters would prefer.
 
 I have not seen any academic journal articles that explain these money-based tactics. Nor have I seen any articles that research how well the various vote-counting methods defeat these tactics.
 
-This isn't surprising. After all, university professors get most of their funding from government sources. And the wealthy business owners who control governments around the world do not knowingly fund that kind of research. The result is a scarcity of academic journal articles about better vote-counting methods, and almost no research about how they can defeat money-based tactics.
+This isn't surprising. After all, university professors get most of their funding from government sources. The wealthy business owners who control governments around the world do not knowingly fund that kind of research. And tenure is unlikely to be given to a professor who wants to focus on such research. The result is a scarcity of academic journal articles about better vote-counting methods, and almost no research about which methods can best defeat money-based tactics.
 
-As yet another barrier, these missing topics in academic journal articles causes a similar lack of knowledge on Wikipedia. Remember that vote-counting methods are mathematical, and Wikipedia especially requires references to peer-reviewed sources for mathematical articles.
+As yet another barrier, these missing topics in academic journal articles causes a similar lack of knowledge on Wikipedia. Remember that vote-counting methods are mathematical, and Wikipedia editors are very vigilent about requiring references to peer-reviewed sources of information for mathematical articles.
 
-To partially compensate for this limitation in Wikipedia coverage, a separate wiki was created at Electowiki dot org. It's written and edited by election-method experts around the world who communicate via email.
+To partially compensate for this limitation in Wikipedia coverage, a separate wiki is maintained at Electowiki dot org. It's articles are written and edited by election-method experts around the world who communicate via email.
 
-The barrier against getting new vote-counting methods into Wikipedia can be, and has been, overcome in cases where money is available. That's because funding can pay for people to promote a method to a regional political party. When a political party adopts a previously unused vote-counting method, the method becomes notable. Then it qualifies to appear on Wikipedia.
+The barrier against getting new vote-counting methods into Wikipedia can be, and has been, overcome in cases where money is available. That's because funding can pay for people to promote a method to a regional political party, and that makes the method notable, which qualifies it to appear on Wikipedia.
 
 In the United States there are three organizations that have this level of funding for promoting specific methods. The Center for Election Science promotes Approval voting. The Equal Vote Coalition promotes STAR voting. The biggest one is the FairVote organization. That's FairVote, not VoteFair. They promote a specific version of instant-runoff voting, and they promote the method known in academic literature as the single transferable vote.
 
@@ -112,37 +118,43 @@ All three of these organizations try to hide the fact that there are yet better 
 
 Those of us who best understand the mathematics behind vote-counting methods lack the funding to pay for any marketing or networking. This is partly why methods such as the Condorcet-Minimax method and the Condorcet-Kemeny method are not as widely known, even though they yield much fairer results.
 
-I hope you now have a better understanding of why it's difficult to learn about the best vote-counting methods.
-
 There is yet another way in which knowledge about the best vote-counting methods is blocked.
 
-In Canada, the Ontario government created a citizens assembly to study election methods. The professor who taught the citizens about election methods steered them to favor a party list method. When he explained the difference between the methods known as the closed party list and the open party list, he used a slide that pointed out that closed party lists are more common than open party lists. Not surprisingly the citizens chose the closed party list to appear on the ballot initiative that was presented to Ontario voters. I helped some Canadians defeat that ballot initiative.
+In Canada, the Ontario government created a citizens assembly to study election methods. The professor who taught the citizens about election methods steered them to favor a party list method. When he explained the difference between the methods known as the closed party list and the open party list, he used a slide that pointed out that closed party lists are more common than open party lists. The slide also pointed out that the closed version is simpler for voters than the open version. Not surprisingly the citizens chose the closed party list to appear on the ballot initiative that was presented to Ontario voters. I helped some Canadians to defeat that ballot initiative.
 
-Why is the closed party list method so popular? Because it increases the control of party insiders. So of course MPs (that's members of parliament) are given permission to vote in favor of adopting that method. In contrast, when a parliament is presented with the option of adopting the open party list, the party leaders tell their MPs to vote against it. That's because the open version shifts control away from party insiders towards voters.
+Why is the closed party list method so popular? Because it increases the control of party insiders. So of course MPs (that's members of parliament) are given permission to vote in favor of adopting that method. In contrast, when a parliament is presented with the option of adopting the open party list, the party leaders tell their MPs to vote against it. That's because the open version shifts control away from party insiders toward voters.
 
-So it's important to understand that many vote-counting methods get adopted for reasons that are not in the best interests of the voters. This is yet another reason why there is no nation that uses a great election system.
+So it's important to understand that many vote-counting methods get adopted for reasons that are not in the best interests of the voters. This is yet another reason why there is not yet any nation that uses a great election system.
 
 In fact, most nations use single-choice ballots or ballots that are marked in ways similar to Approval ballots. This means that most voters around the world cannot indicate which of their marked choices they like better. In other words, most democracies use the most primitive kinds of ballots.
 
 This brings us to the situation in Australia. They use three different kinds of vote-counting methods. Some of their elections use plurality voting, which is what we use here in the US. Other elections use ranked choice ballots with instant-runoff voting, which they call "the alternative vote." Yet other elections are multi-winner elections that count ranked choice ballots using the method that academic literature refers to as "the single transferable vote." After awhile Australian voters learned that they needed to most often give the highest ranks to the candidates from the two or three biggest political parties. This happened because Australian political parties were unable to shift their identities to fit three different election methods. This example demonstrates that in addition to adopting better ballots it's also essential to count these better ballots in ways that are compatible with other election methods still being used elsewhere in the state or nation.
 
-When the election systems of other nations are examined it's important not to assume that there is fairness just because there are fewer symptoms of unfairness. Specifically, it's not difficult to make the problem of gerrymandered districts disappear. And it's not difficult for political parties to add rules that increase the percentage of female politicians who get elected. Yet that doesn't mean that the members of a parliament better represent the voters.
+When the election systems of other nations are examined it's important not to assume that there is fairness just because there are fewer symptoms of unfairness. Specifically, it's not difficult to make the problem of gerrymandered districts disappear. And it's not difficult for political parties to add rules that increase the percentage of female politicians who get elected. Yet that doesn't mean that the majority of MPs better represent the voters.
 
-As a more familiar example of this concept, the United States adopted primary elections to solve the obvious vote splitting that was happening in what we now call general elections. But now the vote splitting happens in primary elections where it's more difficult to notice because the winner is always from the correct political party.
+As a more familiar example of this concept, the United States adopted primary elections to solve the obvious problem of vote splitting that was happening in what we now call general elections. But now, the vote splitting happens in primary elections, where it's more difficult to notice because the winner is always from the correct political party.
 
-As a related point, many reformers want to make it easier for third political parties to get their candidates elected. Yet if that's done without also forcing the Republican party and Democratic party to be controlled by votes instead of money, then full representation of all the voters is not achieved because only a minority of voters in both big parties supply the largest campaign funds.
+After general elections are reformed to allow more than two candidates, political parties can go back to each party offering more than one candidate. This single change will defeat all three of the money-based tactics, namely blocking, splitting, and concentration.
+
+As a related point, many reformers want to make it easier for third political parties to get their candidates elected. Yet if that's done without also forcing the Republican party and Democratic party to be controlled by votes instead of money, then full representation of all the voters is not achieved.
+
+The best vote-counting methods defeat attempts to use tactical voting. In turn this makes it easier to understand how to mark the ballot. In other words, sincere voting is easier to understand than tactical voting.
+
+The best vote-counting methods require ranking candidates. Some people think that's too difficult so they promote a ballot that involves fewer marks. My experiences with the VoteFair American Idol polls taught me that after someone marks a ranked choice ballot a couple of times they quickly learn how to rank more and more of the choices.
+
+From answering questions about VoteFair Ranking I also learned that if pairwise vote counts are readily available for interested voters to look at, then it becomes easy for interested people to judge whether the results are correct and fair.
 
 Now I'll shift to explaining yet another barrier that blocks better vote-counting methods.
 
-Many election-method experts criticize their non-favorite methods by pointing to fairness criteria that the method "fails." These fairness criteria have names such as monotonicity, no favorite betrayal, and cloneproof. But the word "failure" just indicates that the method has a non-zero failure rate.
+Many election-method experts criticize their non-favorite methods by pointing to fairness criteria that the method "fails." These fairness criteria have names such as monotonicity, no favorite betrayal, and cloneproof. But the word "fails" just means that the method has a non-zero failure rate.
 
-About five years ago I began pointing out the need to MEASURE the failure rates. In other words we need to know HOW OFTEN the method fails each fairness criterion. About a year ago I saw an academic journal article that acknowledges the need for this measurement approach. It calculated failure rates for a few methods, although not for the well-known fairness criteria because they are more challenging to measure.
+About five years ago I began pointing out the need to MEASURE the failure rates. In other words we need to know HOW OFTEN the method fails each fairness criterion. About a year ago I saw an academic journal article that acknowledges the need for this measurement approach. It calculated failure rates for a few methods, although not for the well-known fairness criteria because these are more challenging to measure.
 
 About two years ago I began to write software that measures the failure rates for clone independence and independence of irrelevant alternatives for a variety of methods being considered for use in Oregon. I chose these two fairness criteria because in my opinion they are the easiest to exploit using money-based tactics.
 
 Here's a scatter plot from the calculations. It shows that the method I'll be talking about soon has smaller failure rates than instant-runoff voting and, of course, smaller failure rates than plurality voting. It shows that the Condorcet-Kemeny method has a very favorable balance between these two criteria. The data for STAR voting looks nice but that method would have higher failure rates in real elections because it's much more vulnerable to tactical voting. These calculations only simulate sincere voting.
 
-These measurements are beginning to replace the excessive focus on whether a method has a zero failure rate or a non-zero failure rate for each fairness criterion.
+These kinds of measurements are beginning to replace the excessive focus on whether a method has a zero failure rate or a non-zero failure rate for each fairness criterion.
 
 Keep in mind that many years ago mathematicians proved that it's impossible for any vote-counting method to have zero failure rates for all the criteria. So it's useful to use measurements to determine which methods offer the lowest fairness rates for the most important criteria.
 
@@ -156,10 +168,10 @@ The RCIPE method has these characteristics:
 
 * It uses ranked choice ballots.
 * It eliminates candidates one at a time, in elimination rounds.
-* In most cases the eliminated candidate is the one who is highest-ranked on the fewest ballots.
+* In most cases the eliminated candidate is the one who's highest-ranked on the fewest ballots.
 * If the elimination round includes a "pairwise losing candidate" and that candidate is not the same as the candidate who is highest-ranked on the fewest ballots, then the pairwise losing candidate is eliminated instead.
 * The pairwise losing candidate is the candidate who would lose every one-on-one match against every not-yet-eliminated candidate.
-* Nearly any way of marking a ranked choice paper ballot is countable. This includes marking two or more candidates at the same preference level.
+* Most importantly, nearly any way of marking a ranked choice paper ballot is countable. This includes marking two or more candidates at the same preference level.
 
 Essentially the RCIPE method is the instant-runoff voting method with the addition of a safety net. This safety net prevents serious mistakes such as the one that happened in the 2009 mayoral election in Burlington Vermont.
 
@@ -179,43 +191,45 @@ Yet when election-method reforms are promoted, some people say or think "let's n
 
 These are similar to the kinds of reactions that greeted Arabic numerals when they first arrived in Europe around the year 999, which is when Pope Sylvestor the Second was elected to become Pope. As a student he had learned how to use Arabic numerals so he could do math calculations incredibly fast compared to other Romans, who were still using Roman numerals. Back then people reacted with words or thoughts such as "we already know how to count" and "we don't want to bother learning something new" and "that change isn't going to affect much" and Christian church leaders said "those Arabic numerals come from the enemy of our religion."
 
-Yet that simple math concept of using the digits zero through nine and multiplication tables dramatically improved daily life for every citizen within a relatively short time. Many history books fail to clarify why such huge benefits arose from such a seemingly small change, yet it parallels what's going on now regarding pairwise vote counting.
+Yet that simple math concept of using the digits zero through nine and multiplication tables dramatically improved daily life for most citizens within a relatively short time. I recall that my high school history book glossed over why the effect was so dramatic, so here's a reminder because it parallels what's happening today.
 
-During Medieval times European banking families hiring non-family employees to do their accounting led to accounting mistakes and embezzlement. When Arabic numerals arrived it became practical for a bank to hire some accountants who tracked credits and hire other accountants who tracked debits. When the credits and debits did not match, the mistake was tracked to an accidental mistake or an attempt to embezzle. The result was less stealing and fewer accounting errors.
+During Medieval times European banking families basically couldn't hire non-family employees to do their accounting because that too easily led to embezzlement or accounting mistakes, or both. When Arabic numerals arrived it became practical for a bank to hire some accountants who tracked credits and hire other accountants who tracked debits. That became practical because calculations were done faster than with Roman numerals. When the credits and debits did not match, the mistake was tracked to an accidental mistake or an attempt to embezzle. The result was less stealing and fewer accounting errors.
 
-This change, which first happened in Italy, increased the trustworthiness of those bigger banks. In turn, Italian merchants and traders were able to carry written documents instead of always carrying gold, silver, coins, and other valuables for payment. These documents were useless to highway robbers, so highway robbery decreased. In turn, this increased the safety of travel between cities, which increased the sharing of knowledge between cities. This faster spread of knowledge led to the Scientific Revolution, which led to the Industrial Revolution, which eventually led to the modern technology we take for granted today.
+As a further advantage, it had been impractical to use Roman numerals to multiply or divide, which is needed to accurately calculate interest rates.
+
+This change in banking, which first happened in Italy, increased the trustworthiness of the bigger banks. In turn, Italian merchants and traders were able to carry written documents instead of always carrying gold, silver, coins, and other valuables for payment. These written documents were useless to highway robbers, so highway robbery decreased. In turn, this increased the safety of travel between cities, which increased commerce. And it increased the sharing of knowledge between cities. This faster spread of products and knowledge led to the Scientific Revolution, which led to the Industrial Revolution, which eventually led to the modern technology we take for granted today.
 
 Today we are at a similarly huge tipping point. Adopting pairwise vote counting will enable voters to elect the reform-minded politicians we want. In turn, those politicians will reform laws that, in turn, will dramatically increase widespread economic prosperity. And that prosperity increase will be as dramatic as what civilization experienced coming out of Medieval times.
 
 The last chapter of my Ending The Hidden Unfairness book explains some reasons that fairer elections will increase economic prosperity. Here are a few reasons:
 
-* Trust in government will increase because there will be fewer laws that favor aggressive big businesses who fight against consumers. As examples, tax breaks and legal monopolies allow pharmacutical companies to overcharge for medicines, and allow sugar sold in the United States to be priced higher than the sugar that's sold on the world market, and ....
+* Trust in government will increase because there will be fewer laws that favor aggressive big businesses who fight against consumers. As examples of this corruption, tax breaks and legal monopolies allow pharmacutical companies to overcharge for medicines, allow sugar sold in the United States to be priced higher than the sugar that's sold on the world market, and allow big businesses to pay wages that are lower than what employees would accept if they didn't have to rely on their employer to pay for health insurance.
 
 * Business tax rates will increase for financial institutions on Wall Street and other businesses that are not difficult to do yet impose high fees that leave consumers with less spending money. In contrast, business tax rates will decrease for businesses such as manufacturing and software development and product-design businesses, which attract money from other nations and are challenging for other nations to duplicate. These business tax-rate changes will better match the economics of supply and demand, including the brain drain that motivates too many college students to become lawyers and bankers instead of writers and entrepreneurs.
 
 * Of particular interest to me is that patent laws will change to make it possible for individual inventors to make a living by inventing. This is the unfairness that shifted my path from becoming an inventor to becoming an internationally known creative problem solver, and then to become an advocate for election-method reform.
 
-* In other words, currently there are lots of corrupt laws that basically steal money from our wallets, and that leaves less money for us to buy products from other businesses.
+In other words, currently there are lots of corrupt laws that basically steal money from our wallets, which leaves less money for us to buy products from other businesses.
 
-This pattern of corrupt laws across many industries reveals an interesting irony. The owners of big businesses don't realize that their biggest competitors include the owners of other big businesses in different industries. Each business owner who gives lots of money to politicians to get laws that favor their business is like a person cutting too big of a slice of economic pie. They neglect to notice that there are so many other business owners also cutting too big slices of economic pie for their businesses that consumers have fewer dollars to spend on what their business sells.
+This pattern of corrupt laws across many industries reveals an interesting irony. The owners of big businesses don't realize that their biggest competitors include the owners of other big businesses in different industries. Each business owner who gives lots of money to politicians to get laws that favor their business is like a person cutting too big of a slice of economic pie. They neglect to notice that there are so many other business owners also cutting oversized slices of economic pie for their businesses that consumers have fewer dollars to spend on what their business sells.
 
-Fairer laws would dramatically reduce this cross-industry fighting between big businesses. And just as not fighting with physical weapons has left civilized people with more time and more resources, reducing the political fight between businesses across different industries would lead to widespread economic prosperity.
+Fairer laws would dramatically reduce this cross-industry fighting between big businesses. Remember that not fighting with physical weapons has left civilized people with more time and more resources. In a similar way, when businesses in different industries stop fighting each other for low tax rates and effective monopolies, people will have more money to buy products from more of those businesses, and that will increase widespread economic prosperity.
 
 The economic gains will be as dramatic as the gains that took Europe out of Medieval times. Alas, only in hindsight will it become clear that election-method reform was the tipping point.
 
 Now that you better appreciate the importance of election-method reform, it's tempting to think there's no big hurry to adopt these reforms.
 
-Alas, the longer we wait, the more suffering occurs. Not just the economic kinds of suffering such as excessive costs for consumers, having to work for less-ethical businesses, and ....  And not just the suffering here in the United States. There are countless children, women, and non-wealthy people living in nations such as Afganistan, North Korea, Russia, and China who are suffering terrible oppression.
+Alas, the longer we wait, the more suffering occurs. Not just the economic kinds of suffering such as excessive costs for consumers, having to work for less-ethical businesses, and lawyers wasting their brainpower on destructive activities instead of constructive activities.  And it's not just about the suffering here in the United States. There are countless children, women, and non-wealthy people living in nations such as Afganistan, North Korea, Russia, and China who are suffering terrible oppression.
 
-Recall that the Cold War with Russia ended because oppressed Eastern Europeans revolted against their corrupt governments because they saw that electing leaders through voting was causing dramatic economic prosperity in North America and wherever .... In a similar way, yet higher levels of democracy here in the United States will yield yet higher levels of widespread economic prosperity here in the United States. And that prosperity will inspire citizens in other nations to demand higher levels of democracy for their governments.
+Recall that the Cold War with Russia ended because oppressed Eastern Europeans revolted against their corrupt governments because they saw that electing leaders through voting was causing dramatic economic prosperity in North America and Western Europe. In a similar way, yet higher levels of democracy will yield yet higher levels of widespread economic prosperity wherever meaningful election reforms are adopted. The resulting prosperity will inspire citizens in oppressed nations to demand higher levels of democracy for their governments.
 
-To make this pattern clearer, humans have become much more civilized by fighting in courts using laws and legal documents instead of fighting on battlefields with weapons of destruction. And laws have become less corrupt by using elections to control who makes the laws. But our current primitive voting methods are easy to exploit using the money-based tactics of blocking, concentration, and splitting. Adopting election-method reforms is the tipping point that will further reduce the corruption of the laws that have tamed the behavior of humans.
+The broader pattern is that humans have become much more civilized by fighting in courts using laws and legal documents instead of fighting on battlefields with physical weapons. Yet the laws that get written by money-backed politicians often exploit the majority of voters, who are also consumers, employees, and shareholders.
 
-To make further progress to reach higher levels of civilization we need laws that are written by reform-minded leaders who get elected by votes, not money. Adopting ranked choice ballots and pairwise vote counting will increase a region's economy to dramatically higher levels of prosperity.
+To reach even higher levels of civilization we need laws that are written by reform-minded leaders who get elected by votes, not money. Adopting ranked choice ballots and pairwise vote counting is the tipping point that will increase a region's economy to dramatically higher levels of economic prosperity.
 
 As I said at the beginning, most of the world's biggest problems have remained unsolved because currently we use very primitive vote-counting methods. 
 
-Let's move beyond our primitive level of partial democracy to full democracy. The widespread economic rewards will be beyond what most people living today can imagine.
+So let's move beyond our primitive level of partial democracy to reach full democracy. The widespread economic rewards will be beyond what most people living today can imagine.
 
 ..............................
 
