@@ -2,6 +2,8 @@ Script for video for LWV-OR Election-Method Informational Update
 
 (previously: 5,800 words at 30 words per second equals 3 hours! Now, 4,300 ... 2.4 hours. Now 3,800 ... 2.1 hours. Now 3,764 ... 2.09 hours = 2:10.)
 
+(subtitle: I can't speak faster, but you can increase playback speed.)
+
 My name is Richard Fobes. I'm the author of this how-to book on creative problem solving. I'm proud to say it's been published around the world in TEN LANGUAGES.
 
 While writing this book I realized that most of the world's biggest problems have remained unsolved for so long because we use VERY PRIMITIVE vote-counting methods.
@@ -132,15 +134,21 @@ This is why most democracies around the world use the most primitive kinds of ba
 
 The situation in Australia needs some clarification. I mentioned that they use TWO DIFFERENT vote-counting methods that use ranked choice ballots. They also use PLURALITY voting for some of their elections. However, it's not possible for political parties to shift their IDENTITIES to fit three very different election methods.
 
-Initially Australian voters marked their ranked choice ballots SINCERELY. But after consistently getting odd results, they learned they needed to vote TACTICALLY. So now they most often rank as highest the candidates from the two or three biggest political parties.
+Initially Australian voters marked their ranked choice ballots SINCERELY. But after consistently getting odd results, they learned they needed to vote TACTICALLY. So now they most often rank as highest the candidates from the two or three biggest political parties. This defeats the big advantage claimed for the single transferable vote, namely it makes it easier to elect candidates from smaller political parties.
 
 This example demonstrates that an election-method reform must be compatible with other election methods still being used elsewhere in the nation.
+
+This issue is overlooked by people who promote the idea of using the single transferable vote to elect STATE LEGISLATORS, and having five or more seats per district. That would lead to tactical voting as done in Australia.
+
+As a clarification, I do advocate DUAL-MEMBER DISTRICTS. The single transferable vote would work OK in that case, but there are much better election methods for that two-seat version of PROPORTIONAL REPRESENTATION.
+
+As a final point about the single transferable vote, it WOULD be useful in NON-PARTISAN situations such as electing city councils and boards of directors. However, there are better multi-winner methods that look deeper into the ballot preferences.
 
 Some nations on the surface appear to be using better election methods because gerrymandered districts do not occur, and a higher percentage of female politicians get elected. Yet typically the method just shifts the unfairness in a way that hides symptoms that are easy to recognize.
 
 Here in the United States PRIMARY elections were created to eliminate vote splitting in what we now call general elections. That shifted the vote splitting into PRIMARY elections where it's less noticeable because the winner is always from the correct political party.
 
-Many election-method reformers assume that the Republican and Democratic parties cannot be forced into offering better candidates, so they promote election methods that make it easier for THIRD-PARTY candidates to get elected. Although those reforms would produce more third-party and independent mayors and governors, those reforms would not change who wins the majority of LEGISLATIVE seats.
+Many election-method reformers assume that the Republican and Democratic parties cannot be forced into offering better candidates, so they promote election methods that make it easier for THIRD-PARTY candidates to get elected. Although those reforms would produce more third-party and independent mayors and governors, those reforms would not change who wins the majority of LEGISLATIVE seats. That's important because it's the laws that need to be reformed. The role of mayors, governors, and even U.S. Presidents is to enforce the laws, and that will change automatically when laws become less corrupt.
 
 Here's yet another barrier that blocks better vote-counting methods.
 
@@ -162,39 +170,33 @@ The weakness of instant-runoff voting is that it fails to look deeply into all t
 
 When the RCIPE method is used, each round of elimination looks for the possibility of a [airquotes] "pairwise losing candidate." That's a candidate who would lose every ONE-ON-ONE MATCH against EVERY not-yet-eliminated candidate. If there is such a candidate, they are eliminated, even if a different candidate has the fewest transferred votes, which is all that instant-runoff voting cares about.
 
-The other important difference from traditional instant-runoff voting is that the RCIPE method allows a voter to MARK TWO OR MORE CANDIDATES at the SAME preference level. This characteristic is especially important here in Oregon where everyone votes by mail.
+The other important difference from traditional instant-runoff voting is that the RCIPE method allows a voter to MARK TWO OR MORE CANDIDATES at the SAME preference level. This is especially important in Oregon where everyone votes by mail.
 
-The RCIPE method provides an easy to understand stepping stone to better vote-counting methods such as Minimax and Kemeny. It also pioneers the path to PROPORTIONAL REPRESENTATION methods that are better than the single transferable vote.
-
-I admit that the single transferable vote would be beneficial for electing multiple members to a city council or board of directors, where political parties are not involved. In such situations the benefits are sufficient to overcome its flaw of not looking deep into the voter preferences. Later, better multi-winner methods such as the multi-winner version of VoteFair REPRESENTATION RANKING can be adopted.
-
-However, unlike what many election-reform advocates claim, multi-winner methods are not suitable for legislatures and parliaments beyond the DUAL-MEMBER DISTRICT size. That's because that path leads to the kind of tactical voting that Australian voters have to use.
+In a broader perspective, the RCIPE method provides an easy-to-understand stepping stone to better vote-counting methods such as Minimax and Kemeny.
 
 Now I'm going to shift to a broader perspective.
 
-Political fights between the voters and the biggest campaign contributors are about money. Of course money is correctly identified as extremely important to most people's lives. Yet, ironically, most people regard the topic of election-method reform, and especially pairwise vote counting, as esoteric. Worse, they resist even considering it.
+Many people regard the topic of adopting better vote-counting methods as esoteric. They resist even thinking about this topic.
 
-This resistance is like what happened in Medieval Europe when Arabic numerals first arrived. Remember that's the digits zero through nine plus multiplication tables.
+This resistance is like what happened in Medieval Europe when Arabic numerals first arrived. Remember that Arabic numerals are the digits zero through nine plus multiplication tables.
 
-That historical resistance, and today's resistance to pairwise vote counting, brings up words such as "we already know how to count" and "if it offered such a big advantage it would already have happened" and "I don't want to bother learning something new" and "we don't know what might go wrong if we change."
+That historical resistance, and today's resistance to election-method reform, brings up the same kinds of reactions. Typical reactions are "we already know how to count" and "if it was so great we would already be using it" and "I don't want to bother learning something new" and "we don't know what might go wrong if we change."
 
-History reveals that Arabic numerals were a very important part of what took Europe out of the Medieval ages. Specifically, Italian banking families were able to hire two groups of accountants, a group that tracked CREDITS, and a group that tracked DEBITS. When credits and debits didn't match, an investigation revealed either an accidental mistake that was fixed, or it revealed an attempt to embezzle. As a further advantage, Arabic numerals can be multiplied and divided, which is essential for calculating INTEREST RATES.
+History reveals that Arabic numerals were a very important part of what took Europe out of Medieval times. Specifically, Italian banking families were able to hire two groups of accountants, a group that tracked CREDITS, and a group that tracked DEBITS. When credits and debits didn't match, an investigation revealed either an accidental mistake that was fixed, or it revealed an attempt to embezzle. As a further huge advantage over Roman numerals, Arabic numerals CAN be multiplied and divided, which is essential for calculating INTEREST RATE PAYMENTS.
 
-These advantages led to larger and more trustworthy banks, which enabled Italian merchants and traders to carry written DOCUMENTS instead of always carrying gold, silver, coins, and other valuables for payment. This change decreased highway robbery, which increased the safety of travel between cities, which increased commerce, which increased the spread of products and knowledge, which led to the Scientific Revolution, which led to the Industrial Revolution, and which eventually led to the modern technology we take for granted today.
+These advantages led to larger and more trustworthy banks, which enabled Italian merchants and traders to carry written DOCUMENTS instead of always carrying gold, silver, coins, and other valuables for payment. This change decreased HIGHWAY ROBBERY, which increased the SAFETY OF TRAVEL BETWEEN CITIES, which increased commerce, which increased the spread of products and KNOWLEDGE, which led to the Scientific Revolution, which led to the Industrial Revolution, and which eventually led to the modern technology we take for granted today.
 
-Today we are at a similarly huge tipping point. Currently we have only partial democracy. Nearly everyone can vote, but we use primitive ballots. When we adopt better ballots and better vote-counting methods we will rise to higher levels of democracy. Eventually we will reach full democracy.
+Today we are at a similarly huge tipping point. Currently we have only PARTIAL democracy. Nearly everyone can vote, but we use PRIMITIVE ballots. When we adopt BETTER ballots and BETTER vote-counting methods we will RISE TO HIGHER LEVELS of democracy. Eventually we will reach FULL democracy.
 
-As that shift from partial democracy to full democracy happens, economic prosperity will increase DRAMATICALLY. And that PROSPERITY will reach most voters, in contrast to the prosperity that currently reaches the people who use money to EXPLOIT our primitive vote-counting methods, and the people they hire as employees and contractors.
+As that shift from PARTIAL democracy to FULL democracy happens, economic prosperity will increase DRAMATICALLY. I wish there was time to share with you more of the reasons WHY PROSPERITY will increase. But that's an entire chapter in my book.
 
-The economic gains will be as dramatic as the gains that took Europe out of Medieval times. And on the horizon I can see advances in technology that will dramatically improve daily life in surprising ways. Alas, only in hindsight will it become clear that election-method reform was the tipping point.
+I will say that the BIAS of PATENT LAWS in FAVOR of large corporations is what shifted my path from becoming an INVENTOR to becoming an internationally known creative problem solver. Also I wish there were time to share my glimpses of future inventions and advanced technology that will dramatically improve daily life in surprising ways.
 
-I wish there was time to share with you some of the REASONS why full democracy will DRAMATICALLY INCREASE WIDESPREAD ECONOMIC PROSPERITY, but that's an entire chapter in my book.
+But instead I need to speak up for the countless CHILDREN, WOMEN, and NON-WEALTHY MEN living in Afghanistan, North Korea, Russia, and China who are SUFFERING TERRIBLE OPPRESSION because they live under TYRANNICAL governments. These oppressed people will topple their governments through REVOLUTION when they see the DRAMATIC ECONOMIC PROSPERITY in regions that adopt FULL democracy. Remember that this awareness of distant prosperity is what inspired OPPRESSED Eastern Europeans to REVOLT against the Soviet Union and demand THE RIGHT TO VOTE.
 
-Instead I want to speak up for the countless children, women, and non-wealthy men living in Afghanistan, North Korea, Russia, and China who are suffering terrible oppression because they live under tryannical governments. Those oppressed people will topple their governments through revolution when they see the dramatic economic prosperity in regions that adopt full democracy. Remember that this awareness of distant prosperity is what inspired oppressed Eastern Europeans to revolt against the Soviet Union and demand the right to vote.
+In SUMMARY I'll point out that the first steps toward FULL democracy are to [1] adopt RANKED CHOICE BALLOTS, [2] to COUNT them using PAIRWISE VOTE COUNTING, and [3] to open up GENERAL elections to a SECOND CANDIDATE EACH from the biggest political parties.
 
-The first steps toward full democracy are to [1] adopt RANKED CHOICE BALLOTS, [2] to COUNT them using PAIRWISE VOTE COUNTING, and [3] to open up GENERAL elections to a SECOND CANDIDATE EACH from the biggest political parties.
-
-As I said at the beginning, most of the world's biggest problems have remained unsolved because currently we use very primitive vote-counting methods. Adopting better voting systems will be the tipping point that will lead us to widespread economic rewards beyond the imagination of most people living today.
+As I said at the beginning, most of the world's biggest problems have remained unsolved because currently we use very primitive vote-counting methods. Adopting better voting systems will be the tipping point that will lead us to widespread economic prosperity that few people living today can imagine.
 
 ..............................
 
@@ -249,4 +251,10 @@ The basis of civilization is that now, instead of soldiers fighting with weapons
 * citizens fight with marked ballots,
 
 * and campaign contributors fight against voters using money-based tactics.
+
+ And that PROSPERITY will reach most voters, in contrast to the prosperity that currently reaches the people who use money to EXPLOIT our primitive vote-counting methods, and the people they hire as employees and contractors.
+
+Just as there were many inventions in Europe that fueled those nations to reach the highest levels of economic prosperity just before World War One, I can see on the horizon many advances in technology that will dramatically improve daily life in surprising ways, and the nations that foster those inventions and inventors will experience huge gains in economic prosperity.
+
+Just as the increase in economic prosperity from Medieval times to European dominance would have been difficult to imagine by people living during the Medieval times, only in hindsight will it become clear that election-method reform was the tipping point that leads to dramatic improvements in civilization.
 
