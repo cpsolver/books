@@ -3,6 +3,8 @@ Script for video for LWV-OR Election-Method Informational Update
 
 (subtitle: I can't speak faster, but you can increase playback speed.)
 
+(channel intent, as in Martin Luther King Jr.'s speaking style)
+
 
 My name is Richard Fobes. [show books] I'm the author of this how-to book on creative problem solving. I'm proud to say it's been published around the world in TEN LANGUAGES.
 
@@ -37,7 +39,7 @@ In fact, the best-known election systems in Europe, Australia, and elsewhere hav
 Yet WITHIN these election systems there are ELEMENTS that are well-designed.
 
 
-For example, a region within Germany uses a flawed voting method named Zweitmandat. Yet part of this method includes AN ELEMENT I RECOMMEND [show book] in this book without giving it a name. Recently I learned that the element has a name that translates into English as "best loser."
+For example, a region within Germany uses a flawed voting method named Zweitmandat. Yet part of this method includes AN ELEMENT I RECOMMEND in my book without giving it a name. Recently I learned that the element has a name that translates into English as "best loser."
 
 
 Another element I recommend in my book, without naming it, is what's now called "pairwise vote counting." Unfortunately it's easily confused with the category name "Condorcet method." I've created a Venn diagram that shows how these terms are related, yet different.
@@ -55,7 +57,7 @@ Now you're ready to understand my favorite election system. I designed it, and I
 * It uses PAIRWISE VOTE COUNTING.
 
 
-* It uses the KEMENY METHOD as the underlying SINGLE-WINNER method, although the MINIMAX method, or INSTANT PAIRWISE ELIMINATION, or some other good single-winner method could be substituted.
+* It uses the KEMENY METHOD as the underlying SINGLE-WINNER method, although the MINIMAX method, or the INSTANT PAIRWISE ELIMINATION method, or some other good single-winner method could be substituted.
 
 
 * If a ranked choice PAPER ballot is marked in a way that's legible, then it's countable.
@@ -265,10 +267,10 @@ During each elimination round, the RCIPE method looks for the possibility of a [
 The RCIPE method has one other important difference. Unlike traditional instant-runoff voting, the RCIPE method allows a voter to MARK TWO OR MORE CANDIDATES at the SAME preference level. This is especially important in Oregon where everyone votes by mail.
 
 
-In a broader perspective, the RCIPE method provides an easy-to-understand stepping stone to better vote-counting methods such as MINIMAX, INSTANT PAIRWISE ELIMINATION, and KEMENY.
+In a broader perspective, the RCIPE method provides an easy-to-understand stepping stone to better vote-counting methods such as the MINIMAX method, the INSTANT PAIRWISE ELIMINATION method, and the KEMENY method.
 
 
-Now I'm going to shift to a broader perspective.
+Now I'm going to shift to an even broader perspective.
 
 
 Many people regard the topic of adopting better vote-counting methods as ESOTERIC. And many people DISLIKE even THINKING ABOUT this topic.
@@ -280,31 +282,37 @@ This RESISTANCE is like what happened in Medieval Europe when Arabic numerals fi
 That historical resistance, and today's resistance to election-method reform, bring up similar reactions, such as "we already know how to count" and "if it was so great we would already be using it" and "I don't want to bother learning something new" and "we don't know what might go wrong if we change."
 
 
-History reveals that Arabic numerals were a VERY IMPORTANT PART of what took Europe out of Medieval times. Specifically, Italian banking families were able to HIRE two groups of accountants, a group that tracked CREDITS, and a group that tracked DEBITS. When credits and debits didn't match, an investigation REVEALED either an accidental mistake that was fixed, or it revealed an attempt to embezzle. As a further HUGE ADVANTAGE over Roman numerals, Arabic numerals CAN be multiplied and divided, which is essential for calculating INTEREST RATE PAYMENTS.
+History reveals that Arabic numerals were a VERY IMPORTANT PART of what took Europe out of Medieval times. Specifically, Italian banking families were able to HIRE two groups of accountants, a group that tracked CREDITS, and a separate group that tracked DEBITS. When credits and debits didn't match, an investigation REVEALED either an accidental mistake that was fixed, or it revealed an attempt to embezzle.
+
+
+As a further HUGE ADVANTAGE over Roman numerals, Arabic numerals CAN be multiplied and divided, which is essential for calculating INTEREST RATE PAYMENTS, and the RATES and PROPORTIONS that are so important in science and technology.
 
 
 These advantages led to larger and more trustworthy BANKS that offered more services, which enabled Italian MERCHANTS and TRADERS to carry written DOCUMENTS instead of always carrying gold, silver, coins, and other valuables for payment. This change decreased HIGHWAY ROBBERY, which increased the SAFETY OF TRAVEL BETWEEN CITIES, which increased commerce, which increased the spread of products and KNOWLEDGE, which led to the Scientific Revolution, which led to the Industrial Revolution, and which eventually led to the modern technology we take for granted today.
 
 
-Today we are at a similarly HUGE TIPPING POINT. Currently we have only PARTIAL democracy. Nearly everyone can vote, but we use PRIMITIVE ballots. When we adopt BETTER ballots and BETTER vote-counting methods we will RISE TO HIGHER LEVELS of democracy. Eventually we will reach FULL democracy.
+Today we are at a similarly HUGE TIPPING POINT. Currently we have only PARTIAL democracy. Nearly everyone can vote, but we use PRIMITIVE ballots. When we adopt BETTER ballots and BETTER vote-counting methods we will RISE TO HIGHER LEVELS of democracy. I believe that eventually we will reach FULL democracy.
 
 
 As that shift from PARTIAL democracy to FULL democracy happens, ECONOMIC PROSPERITY will increase DRAMATICALLY.
 
 
-There are many reasons WHY prosperity will increase.
+WHY will prosperity increase?
 
 
-A reason of particular interest to me is that PATENT LAWS currently FAVOR whichever side has more money. If patent laws included a well-designed OPEN PATENT alternative, I would not have shifted my path from becoming an INVENTOR to instead becoming a CREATIVE PROBLEM SOLVER, a WRITER, and a SOFTWARE DEVELOPER.
+The WEALTHY BUSINESS OWNERS who donate campaign funds to get TAX BREAKS and LAWS that favor their business are FIGHTING AGAINST other wealthy business owners doing the same thing. That fighting wastes economic resources and brainpower. The fighting takes place in COURTROOMS, on WALL STREET, during POLITICAL ELECTIONS, and through ADVERTISING. These fights give business owners more ways to legally STEAL money from our WALLETS. Ironically, this leaves us, the CUSTOMERS, EMPLOYEES, and TAXPAYERS, with less money to BUY what those businesses sell.
 
 
-I wish there was time to share the many reasons why FULL democracy will bring widespread prosperity, but that's an entire chapter in my book.
+This is a BAD FEEDBACK LOOP. Recall that the arrival of Arabic numerals in Europe started many GOOD FEEDBACK LOOPS. Governments need to foster good feedback loops. Alas, under current conditions, our primitive vote-counting method is part of a VERY BAD feedback loop.
 
 
-Instead I need to speak up for the countless CHILDREN and WOMEN living in Afghanistan, North Korea, Russia, and China who are SUFFERING TERRIBLE OPPRESSION because they live under TYRANNICAL governments. In these and similar nations the YOUNG NON-WEALTHY MEN who are ALSO OPPRESSED will topple their governments through REVOLUTION when they see that DRAMATIC ECONOMIC PROSPERITY occurs when a nation adopts FULL democracy. Remember that this awareness of distant prosperity is what inspired OPPRESSED Eastern Europeans to REVOLT against the Soviet Union and demand THE RIGHT TO VOTE.
+I wish there was time to more fully explain WHY [comma] FULL democracy will bring WIDESPREAD PROSPERITY, but that's an entire chapter in my book.
+
+
+Instead I need to speak up for the countless CHILDREN and WOMEN living in Afghanistan, Russia, North Korea, and China who are SUFFERING TERRIBLE OPPRESSION because they live under TYRANNICAL governments. In these and similar nations the YOUNG NON-WEALTHY MEN who are ALSO OPPRESSED will topple their governments through REVOLUTION when they see that DRAMATIC ECONOMIC PROSPERITY occurs after a nation adopts FULL democracy. Remember that this awareness of distant prosperity is what inspired OPPRESSED Eastern Europeans to REVOLT against the Soviet Union and demand THE RIGHT TO VOTE.
 
 
 In SUMMARY I'll point out that the first steps toward FULL democracy are to [1] adopt RANKED CHOICE BALLOTS, [2] to COUNT them using PAIRWISE VOTE COUNTING, AND [3] to open up GENERAL elections to a SECOND CANDIDATE EACH from the biggest political parties.
 
 
-As I said at the beginning, most of the WORLD'S BIGGEST PROBLEMS have remained UNSOLVED because currently we use VERY PRIMITIVE VOTE-COUNTING METHODS. Adopting better voting systems will be the TIPPING POINT that DRAMATICALLY advances HUMANITY and CIVILIZATION in ways that few people living today can IMAGINE.
+As I said at the beginning, most of the WORLD'S BIGGEST PROBLEMS have remained UNSOLVED because currently we use VERY PRIMITIVE VOTE-COUNTING METHODS. Adopting better voting systems will be the TIPPING POINT that DRAMATICALLY [comma] ADVANCES [comma] HUMANITY and CIVILIZATION in ways that few people living today can IMAGINE.
