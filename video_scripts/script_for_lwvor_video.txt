@@ -44,7 +44,7 @@ For example, a region within Germany uses a flawed voting method named Zweitmand
 
 Another [~] element I recommend in my book, without naming it, is what's now called [~] "pairwise vote counting." Unfortunately it's easily confused with the category name [~] "Condorcet method." I've created a Venn diagram that shows how these terms are related, yet different.
 
-The important thing to understand about pairwise vote counting is that it keeps track of MORE THAN ONE NUMBER for each candidate. It keeps track of [#] THREE NUMBERS for each PAIR OF CANDIDATES. The third number is how many ballots DO NOT INDICATE which candidate in that pair the voter PREFERS.
+The important thing to understand about pairwise vote counting is that it keeps track of MORE THAN ONE NUMBER for each candidate. Specifically it keeps track of [#] THREE NUMBERS for each PAIR OF CANDIDATES. The third number is how many ballots DO NOT INDICATE which candidate in that pair the voter PREFERS.
 
 
 There's an especially important [~] element that soon I'll refer to using the words [~] "TWO NOMINEES FROM EACH BIG PARTY." This refers to GENERAL ELECTIONS having [#] TWO Republicans and [#] TWO Democrats, plus third-party and independent candidates.
@@ -119,10 +119,7 @@ An early user of that service was the San Francisco Bay Area Curling Club. The a
 Starting in the second year of the TV show American Idol, I hosted WEEKLY VoteFair American Idol polls. At the poll's peak there were TWO THOUSAND American Idol fans voting each week. I gained many insights during the twelve years I hosted these polls.
 
 
-My software SIMULATES the MARKING of OVALS on a PAPER ballot, rather than using a clever COMPUTER-ASSISTED way to rank choices.
-
-
-In the VoteFair American Idol polls, I saw that voters quickly learned to mark these SIMULATED PAPER ballots. Especially after they discovered that [~] TACTICAL VOTING DOES NOT give them any advantage over [~] SINCERE voters.
+Although some OTHER websites require voters to RANK choices using clever COMPUTER-ASSISTED techniques, my website SIMULATES the MARKING of OVALS on a PAPER ballot. Either because of, or in spite of, this SIMPLE interface, voters quickly LEARNED to MARK these SIMULATED PAPER ballots. Especially after they discovered that [~] TACTICAL VOTING DOES NOT give them any advantage over [~] SINCERE voters.
 
 
 A popular attempt to vote [~] TACTICALLY is to mark JUST ONE OR TWO FAVORITES, hoping that will help those favorites. But after a few weeks of seeing the results, and especially after seeing the pairwise vote counts, voters quickly became comfortable ranking more and more contestants.
@@ -134,22 +131,22 @@ I learned that VOTER TURNOUT [~] INCREASES when voters believe their vote can ma
 Yet I also learned that [~] HIGH voter turnout becomes [~] LESS IMPORTANT when voters [~] RANK the contestants instead of just answering the simplistic question [~] "Who's your favorite?" There were other American Idol polls that had much [~] higher voter turnouts, yet a website named [~] Idol Analytics stated that my VoteFair poll results were -- [~] quote -- better than any other single index that I assessed -- unquote.
 
 
-A big advantage of pairwise vote counting is that ANY voter can look at the pairwise numbers and VERIFY that more voters prefer the WINNER compared to the number of voters who prefer that voter's FAVORITE.
+A [~] big advantage of [~] pairwise vote counting is that ANY voter can look at the pairwise numbers and VERIFY that more voters prefer the WINNER compared to the number of voters who prefer that voter's FAVORITE.
 
 
 This pairwise comparison was especially insightful during the third season of American Idol when JENNIFER HUDSON was eliminated way too early. As I explained in that week's commentary, her premature departure was caused by VOTE [~] SPLITTING and [~] TACTICAL VOTING. The vote [~] splitting happened because in that season there were [#] two other amazing singers who ALSO WERE black and female. The [~] tactical voting happened because lots of fans SWITCHED to voting for their SECOND-FAVORITE singer after hearing the emcee announce, in the previous show, that these [#] three singers had received the [~] most votes. Alas, NEWS REPORTS did not mention these IMPORTANT DETAILS. Instead they reported on ACCUSATIONS of RACISM. After that episode the show reduced THAT KIND of [~] tactical voting by ONLY REVEALING which singers were getting the [~] FEWEST votes.
 
 
-People who recognize the flaws in PLURALITY voting naturally want to know [~] "How would governmental election results CHANGE if we switched to a better vote-counting method?" Alas, we don't have access to the needed election data. In Australia and most other places where ranked choice ballots are used in governmental elections, pairwise vote counts are not shared.
+Some people ask the question [~] "How would specific governmental election results CHANGE if we SWITCHED to this other specific vote-counting method?" Alas, we don't have access to the pairwise vote counts. Instead, Australia and most other places where ranked choice ballots are used in governmental elections [,] only share the data in the same format that was used to officially identify the winner.
 
 
-Fortunately my VoteFair website's survey service has access to all the raw ballot data. So it calculates who would win according to instant-runoff voting, which is the single-winner method used in Australia and a few U.S. locations. These comparisons reveal that INSTANT-RUNOFF VOTING often FAILS to correctly identify the most popular choice.
+Fortunately my VoteFair website's survey service has access to all the raw ballot data. So it calculates who would win according to instant-runoff voting, which is the single-winner method used in Australia and a few U.S. locations. These comparisons reveal that INSTANT-RUNOFF VOTING often [~] FAILS to correctly identify the most popular choice.
 
 
 Of course there are OTHER PLACES online that calculate single-winner results. A professor at Cornell University maintains the [~] "Condorcet Internet Voting Service." During two decades of use it has handled THIRTY THOUSAND polls, including some ORGANIZATIONAL ELECTIONS. Its default vote-counting method is the MINIMAX method, which lately has been emerging as the most popular single-winner method among MATH-SAVVY election-method experts.
 
 
-The widespread availability of open-source software for various election methods means that better vote-counting methods are widely used by countless organizations. Alas, that switch isn't yet happening in GOVERNMENTAL elections.
+The widespread availability of open-source software for various election methods means that better vote-counting methods are widely used by COUNTLESS ORGANIZATIONS. Alas, that switch isn't yet happening in GOVERNMENTAL elections.
 
 
 I acknowledge that the FULL Kemeny method is not yet a viable choice for governmental elections, and I know the FULL VoteFair Ranking system is too advanced to be adopted all at once.
@@ -194,7 +191,7 @@ To partially compensate for some of the Wikipedia deficiencies there's a SEPARAT
 In the United States there are [#] three organizations that have enough funding to bypass the need for academic research.
 
 
-The [#] Center for Election Science promotes Approval voting, with hopes of later promoting Score voting.
+The [#] Center for Election Science promotes Approval voting, with hopes of later promoting Score voting and other methods that use rating ballots.
 
 
 The [#] Equal Vote Coalition promotes STAR voting, with hopes that ranked choice ballots will disappear.
@@ -233,15 +230,15 @@ When a government switches to a different vote-counting method, typically the NE
 This is why MOST DEMOCRACIES around the world use the most [~] PRIMITIVE kinds of ballots. They either use [~] SINGLE-CHOICE ballots or what LOOKS LIKE a single-choice ballot but allows the voters to [~] MARK MORE THAN ONE choice. RANKED CHOICE ballots are RARELY offered. When they are offered, typically they're linked to an [~] INFERIOR vote-counting method.
 
 
-The situation in Australia needs some clarification. Recall that they use [#] TWO DIFFERENT methods for counting RANKED CHOICE BALLOTS. These two methods have CONFLICTING GOALS. INSTANT-RUNOFF VOTING favors [#] TWO DOMINANT political parties. In contrast, the SINGLE TRANSFERABLE VOTE favors what we call [#] "THIRD" political parties. As an added complication, there are differences in WHERE and HOW the two COUNTING methods are used. As a further complication, their PARLIAMENT elects their PRIME MINISTER.
+The situation in Australia needs some clarification. Recall that they use [#] TWO DIFFERENT methods for counting RANKED CHOICE BALLOTS. These two methods have CONFLICTING GOALS. Specifically, INSTANT-RUNOFF VOTING favors [#] TWO DOMINANT political parties, whereas the SINGLE TRANSFERABLE VOTE favors what we call [#] "THIRD" political parties. As an added complication, there are differences in WHERE and HOW the two COUNTING methods are used. As a further complication, their PARLIAMENT elects their PRIME MINISTER.
 
-Initially Australian voters marked their ranked choice ballots [~] SINCERELY. But they got [~] UNEXPECTED RESULTS. Eventually they learned they needed to vote [~] TACTICALLY. Now they favor the [#] TWO or THREE BIGGEST political parties. This [~] DEFEATS the point of using the SINGLE TRANSFERABLE VOTE, which is supposed to [~] increase REPRESENTATION for a [~] FULL SPECTRUM of political parties.
+So initially Australian voters marked their ranked choice ballots [~] SINCERELY. But they got [~] UNEXPECTED RESULTS. Eventually they learned they needed to vote [~] TACTICALLY. Now they favor the [#] TWO or THREE BIGGEST political parties. This [~] DEFEATS the point of using the SINGLE TRANSFERABLE VOTE, which is supposed to [~] increase REPRESENTATION for a [~] FULL SPECTRUM of political parties.
 
 
 This example demonstrates that an ELECTION-METHOD REFORM must be [!] COMPATIBLE with other election methods that ARE ALSO USED elsewhere within the nation or state.
 
 
-COMPATIBILITY is overlooked by the people who promote the idea of using the SINGLE TRANSFERABLE VOTE to elect STATE LEGISLATORS here in the U.S. If each district used [#] THREE OR MORE seats per district, that would lead to [~] TACTICAL VOTING as done in Australia.
+COMPATIBILITY is overlooked by the people who promote the idea of using the SINGLE TRANSFERABLE VOTE to elect STATE LEGISLATORS here in the U.S. [,] If each district used [#] THREE OR MORE seats per district, that would lead to [~] TACTICAL VOTING as done in Australia.
 
 
 Recall that I DO advocate DUAL-MEMBER DISTRICTS using SOMETHING LIKE the single transferable vote. But these [#] TWO-SEATS-PER-DISTRICT elections WILL be COMPATIBLE with the current [#] TWO-PARTY system that arises from using PLURALITY voting elsewhere in the U.S.
@@ -349,7 +346,7 @@ In SUMMARY I'll point out that the first steps toward FULL democracy are to [#] 
 Hopefully more and more people will come to understand that most of the WORLD'S BIGGEST PROBLEMS have remained UNSOLVED because currently we use VERY [~] PRIMITIVE VOTE-COUNTING METHODS.
 
 
-I should clarify that [#] NOT EVERY VOTER needs to understand [~] PAIRWISE VOTE COUNTING. Fortunately, for the voters who ARE interested in understanding this kind of counting, it CAN BE DONE using [#] PAPER BALLOTS.
+I should clarify that [~] NOT EVERY VOTER needs to understand [~] PAIRWISE VOTE COUNTING. Fortunately, for the voters who ARE interested in understanding this kind of counting, it CAN BE DONE using [#] PAPER BALLOTS.
 
 
 VOTERS only need to learn [~] HOW TO MARK ranked choice ballots. This is EASY to LEARN [,] IF the vote-counting method DOES NOT reward [~] TACTICAL voting.
