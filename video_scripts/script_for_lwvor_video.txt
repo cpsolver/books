@@ -47,7 +47,7 @@ Another [~] element I recommend in my book, without naming it, is what's now cal
 The important thing to understand about pairwise vote counting is that it keeps track of MORE THAN ONE NUMBER for each candidate. Specifically it keeps track of [#] THREE NUMBERS for each PAIR OF CANDIDATES. The third number is how many ballots DO NOT INDICATE which candidate in that pair the voter PREFERS.
 
 
-There's an especially important [~] element that soon I'll refer to using the words [~] "TWO NOMINEES FROM EACH BIG PARTY." This refers to GENERAL ELECTIONS having [#] TWO Republicans and [#] TWO Democrats, plus third-party and independent candidates.
+In my book there's an especially important [~] element that soon I'll refer to using the words [~] "TWO NOMINEES FROM EACH BIG PARTY." This refers to GENERAL ELECTIONS having [#] TWO Republicans and [#] TWO Democrats, plus third-party and independent candidates.
 
 
 Now you're ready to understand my favorite election system. I designed it, and I named it VoteFair Ranking. Here I'll list its most notable elements and characteristics.
@@ -68,10 +68,10 @@ Now you're ready to understand my favorite election system. I designed it, and I
 * PRIMARY elections will yield [~] "TWO NOMINEES FROM EACH BIG PARTY". The SECOND nominee will be the candidate who WOULD HAVE WON if the winner had NOT been ON the ballot.
 
 
-* It will use [~] "dual-member districts." This means that each DOUBLE-SIZED DISTRICT will elect [#] TWO legislators.
+* VoteFair Ranking uses [~] "dual-member districts." This means that each DOUBLE-SIZED DISTRICT will elect [#] TWO legislators.
 
 
-* The [#] SECOND LEGISLATOR is elected using VoteFair REPRESENTATION RANKING to ensure representation by the voters who are NOT WELL-REPRESENTED by the first-seat winner.
+* The [#] SECOND LEGISLATOR is elected using VoteFair REPRESENTATION RANKING, which ensures representation by the voters who are NOT WELL-REPRESENTED by the first-seat winner.
 
 
 * By the way, this element is a [~] "party-agnostic" method that's similar to the single transferable vote.
@@ -188,7 +188,7 @@ Alas, this missing research also leads to missing articles and information in WI
 To partially compensate for some of the Wikipedia deficiencies there's a SEPARATE wiki at ELECTOWIKI dot org. It's written and edited by MATH-SAVVY election-method-reform experts around the world.
 
 
-In the United States there are [#] three organizations that have enough funding to bypass the need for academic research.
+In the United States there are [#] three organizations that have enough funding to bypass the limitations of academic research.
 
 
 The [#] Center for Election Science promotes Approval voting, with hopes of later promoting Score voting and other methods that use rating ballots.
@@ -230,7 +230,7 @@ When a government switches to a different vote-counting method, typically the NE
 This is why MOST DEMOCRACIES around the world use the most [~] PRIMITIVE kinds of ballots. They either use [~] SINGLE-CHOICE ballots or what LOOKS LIKE a single-choice ballot but allows the voters to [~] MARK MORE THAN ONE choice. RANKED CHOICE ballots are RARELY offered. When they are offered, typically they're linked to an [~] INFERIOR vote-counting method.
 
 
-The situation in Australia needs some clarification. Recall that they use [#] TWO DIFFERENT methods for counting RANKED CHOICE BALLOTS. These two methods have CONFLICTING GOALS. Specifically, INSTANT-RUNOFF VOTING favors [#] TWO DOMINANT political parties, whereas the SINGLE TRANSFERABLE VOTE favors what we call [#] "THIRD" political parties. As an added complication, there are differences in WHERE and HOW the two COUNTING methods are used. As a further complication, their PARLIAMENT elects their PRIME MINISTER.
+The situation in Australia needs some clarification. They use [#] TWO DIFFERENT methods for counting RANKED CHOICE BALLOTS. These two methods have CONFLICTING GOALS. Specifically, INSTANT-RUNOFF VOTING favors [#] TWO DOMINANT political parties, whereas the SINGLE TRANSFERABLE VOTE favors what we call [#] "THIRD" political parties. As an added complication, there are differences in WHERE and HOW the two COUNTING methods are used. As a further complication, their PARLIAMENT elects their PRIME MINISTER.
 
 So initially Australian voters marked their ranked choice ballots [~] SINCERELY. But they got [~] UNEXPECTED RESULTS. Eventually they learned they needed to vote [~] TACTICALLY. Now they favor the [#] TWO or THREE BIGGEST political parties. This [~] DEFEATS the point of using the SINGLE TRANSFERABLE VOTE, which is supposed to [~] increase REPRESENTATION for a [~] FULL SPECTRUM of political parties.
 
