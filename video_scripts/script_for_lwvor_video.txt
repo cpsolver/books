@@ -1,6 +1,7 @@
 Script for video for LWV-OR Election-Method Informational Update
 
-(channel intent, as in Martin Luther King Jr.'s speaking style)
+
+[This version was used to create the video.]
 
 
 [~] Hello! My name is Richard Fobes.
