@@ -1,0 +1,3 @@
+begin-note
+pitch-510
+voice-piano

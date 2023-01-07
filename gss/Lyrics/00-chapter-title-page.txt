@@ -1,0 +1,105 @@
+begin-title
+book-title
+end-title
+
+begin-subtitle
+book-subtitle-with-line-breaks
+end-subtitle
+
+begin-subtitle
+[Draft 2020-October-22]
+end-subtitle
+
+begin-subtitle
+by Richard Fobes
+end-subtitle
+
+begin-centered
+Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
+end-basic-paragraph
+
+begin-subtitle
+Cover artwork by TBD
+end-subtitle
+
+
+page-break
+
+begin-heading
+Legal Stuff
+end-heading
+
+begin-basic-paragraph
+&#169; Copyright 2020 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
+end-basic-paragraph
+
+begin-basic-paragraph
+Also hereby permitted without cost is the performance of this dialog in a theater by volunteer actors organized by a non hyphen-here profit organization on the condition that there are no significant word changes and any and all financial income (after expenses) exclusively goes to that non hyphen-here profit organization.
+sentence-next
+An abridged script is permitted if there are only spoken hyphen-here line removals and full sentence removals and no additions or word substitutions.
+end-basic-paragraph
+
+begin-basic-paragraph
+Published by:
+line-break
+Solutions Through Innovation
+line-break
+PO Box 19003
+line-break
+Portland, OR 97280-0003
+line-break
+www.SolutionsCreative.com
+end-basic-paragraph
+
+begin-basic-paragraph
+The characters in this story are fictional. sentence-next Any resemblance to actual people, other than the author, is entirely coincidental.
+end-basic-paragraph
+
+begin-basic-paragraph
+The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit. sentence-next To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported) sources of information.
+end-basic-paragraph
+
+
+page-break
+
+begin-subtitle
+Numbers
+end-subtitle
+
+begin-basic-paragraph
+First Edition, ePub edition, published 2020.
+end-basic-paragraph
+
+begin-basic-paragraph
+ISBN 9780963222152
+end-basic-paragraph
+
+begin-basic-paragraph
+BISAC DRA000000 (Drama, General), FIC016000 (Fiction, Humorous, General), POL008000 (Political Science, Political Process, Campaigns &#38; Elections)
+end-basic-paragraph
+
+
+page-break
+
+begin-subtitle
+Also by Richard Fobes
+end-subtitle
+
+begin-title
+Ending The Hidden Unfairness In U.S. Elections
+end-title
+
+begin-title
+The Creative Problem Solver's Toolbox
+end-title
+
+
+page-break
+
+begin-extra-credit-heading
+Extra Credit
+end-extra-credit-heading
+
+begin-extra-credit-paragraph
+Richard Fobes line-break by line-break Margaret and George Fobes
+end-extra-credit-paragraph

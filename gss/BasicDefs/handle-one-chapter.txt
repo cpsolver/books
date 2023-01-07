@@ -1,0 +1,6 @@
+ambee copy-text word-to-use-in-handler chapter-number-two-digits amenn
+ambee expand-text template-filename-chapter output-filename-chapter amenn
+ambee delete-file ambee output-filename-chapter amenn amenn
+ambee expand-text title-chapter fenambee chapter-number-two-digits amenn chapter-title amenn
+ambee expand-text template-one-chapter output-chapter amenn
+ambee copy-from-phrase-append-to-file output-chapter ambee output-filename-chapter amenn amenn

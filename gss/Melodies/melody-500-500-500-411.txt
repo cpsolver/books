@@ -1,0 +1,21 @@
+ambee begin-measure amenn
+p-500 x-1
+p-500 x-1
+p-500 x-1
+p-411 x-1
+end-measure
+
+ambee begin-measure amenn
+p-409 x-4
+end-measure
+
+ambee begin-measure amenn
+p-400 x-1
+p-400 x-1
+p-400 x-1
+p-311 x-1
+end-measure
+
+ambee begin-measure amenn
+p-309 x-4
+end-measure

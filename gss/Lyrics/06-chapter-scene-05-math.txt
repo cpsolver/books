@@ -1,0 +1,7524 @@
+begin-title
+Scene 5,
+title-chapter-06
+end-title
+
+ambee put-into-phrase lyric-number 0600000 amenn
+
+combee ************
+begin-comment
+Illustration:
+Classroom, math, with differential equations on whiteboard.
+Damien is on left side, math professor is in middle, Desha is on right side, and they are standing and facing each other.
+Math professor is female, any race (maybe Asian), with wire-rim glasses, wearing skirt that shows knees, and has tight pants underneath skirt, wearing nice blouse, has hair in bun (not hanging down).
+end-comment
+
+begin-comment
+items on tables are:
+tape measure (ideally in decimal inches);
+9 stacks of colored blocks as described verbally;
+balance scale;
+huge chess pieces of queen, knight, bishop;
+end-comment
+************ comenn
+
+ambee sings-desha-firstuse amenn
+Hi professor
+o-o
+name-mathprof no-space .
+o-o
+This is name-damien no-space .
+end-lyric
+
+ambee sings-mathprof-firstuse amenn
+Welcome name-desha
+o-o
+and name-damien no-space .
+o-o
+Let's go into
+o-o
+the classroom
+o-o
+to talk.
+o-o
+By the way,
+o-o
+name-damien no-space ,
+o-o
+do you like
+o-o
+pi?
+end-lyric
+
+ambee sings-damien-firstuse amenn
+In the morning
+o-o
+pie seems so
+o-o
+irrational.
+end-lyric
+
+ambee sings-mathprof amenn
+So you do like math?
+end-lyric
+
+ambee sings-damien amenn
+Already I'm confused.
+end-lyric
+
+ambee sings-desha amenn
+He doesn't know
+o-o
+about those
+o-o
+special meanings
+o-o
+in the
+o-o
+math world.
+o-o
+Just assume
+o-o
+he knows
+o-o
+as much
+o-o
+about math
+o-o
+as Mozart
+o-o
+knew about
+o-o
+...
+o-o
+electronics.
+o-o
+Plus he has
+o-o
+a phobia
+o-o
+about
+o-o
+fractions.
+o-o
+That's
+o-o
+name-damien no-space .
+o-o
+I don't know
+o-o
+if Mozart
+o-o
+had that fear.
+end-lyric
+
+ambee sings-damien amenn
+Classrooms
+o-o
+are scary,
+o-o
+spooky, 'n
+o-o
+terrifyin'.
+o-o
+This one's bringin'
+o-o
+back awful
+o-o
+memories
+o-o
+of bein' teased
+o-o
+for gettin' Cs,
+o-o
+'n Ds,
+o-o
+'specially
+o-o
+in math 'n
+o-o
+history.
+end-lyric
+
+ambee sings-mathprof amenn
+I bet you're smart.
+o-o
+You just didn't
+o-o
+get a good start.
+o-o
+Can you count?
+end-lyric
+
+ambee sings-damien amenn
+One two three four
+o-o
+'n of course there's more.
+end-lyric
+
+ambee sings-mathprof amenn
+Can you go
+o-o
+the other way?
+end-lyric
+
+ambee sings-damien amenn
+Four three two one.
+end-lyric
+
+ambee sings-mathprof amenn
+What comes after
+o-o
+one?
+end-lyric
+
+ambee sings-damien amenn
+Nothin'.
+end-lyric
+
+ambee sings-mathprof amenn
+In a way you're
+o-o
+right.
+end-lyric
+
+ambee sings-damien amenn
+Thanks for
+o-o
+bein' polite
+o-o
+in sayin' I'm wrong.
+end-lyric
+
+ambee sings-mathprof amenn
+What's nothing called
+o-o
+in math?
+end-lyric
+
+ambee sings-damien amenn
+Oh, zero.
+end-lyric
+
+ambee sings-mathprof amenn
+Ah yes, wonderful
+o-o
+magical zero!
+end-lyric
+
+ambee sings-damien amenn
+What's so special
+o-o
+'bout zero?
+end-lyric
+
+ambee sings-mathprof amenn
+Zero as a digit
+o-o
+was not known in
+o-o
+ancient Egypt,
+o-o
+Babylon, Greece,
+o-o
+and Rome.
+o-o
+But in ancient
+o-o
+China they put
+o-o
+their counting marks
+o-o
+inside a square.
+o-o
+So when no marks
+o-o
+are there,
+o-o
+it's an empty
+o-o
+square.
+o-o
+That changed to
+o-o
+a circle as
+o-o
+the idea spread
+o-o
+to India then
+o-o
+Arabic-speaking
+o-o
+universities.
+o-o
+And then a student
+o-o
+took it to Rome
+o-o
+and became pope.
+o-o
+
+combee ************
+Pope Sylvestor II aka Gerbert of Aurillac brought decimal notation and calculation procedures to Europe, and he became pope in year 999.
+************ comenn
+
+He could
+o-o
+calculate
+o-o
+faster than the
+o-o
+Italians who
+o-o
+still used
+o-o
+counting marks,
+o-o
+the ones we call
+o-o
+Roman numerals.
+o-o
+That's how the
+o-o
+digit zero
+o-o
+became part
+o-o
+of the Italian
+o-o
+Renaissance.
+end-lyric
+
+ambee sings-desha amenn
+That's when
+o-o
+Leonardo
+o-o
+painted the
+o-o
+Mona Lisa,
+o-o
+and Michelangelo
+o-o
+carved the
+o-o
+rock hyphen-here hard
+o-o
+anatomy of
+o-o
+David.
+end-lyric
+
+ambee sings-damien amenn
+Lisa and David.
+o-o
+I think I've
+o-o
+heard about
+o-o
+those two.
+end-lyric
+
+ambee sings-mathprof amenn
+With that
+o-o
+digit zero,
+o-o
+sailors made
+o-o
+realistic maps,
+o-o
+and navigated
+o-o
+far out into
+o-o
+the Atlantic.
+o-o
+That avoided
+o-o
+the north hyphen-here bound winds
+o-o
+that block the path
+o-o
+along the south coast
+o-o
+of Africa.
+o-o
+That path,
+o-o
+which bumped
+o-o
+into Brazil,
+o-o
+took them around
+o-o
+the southern tip
+o-o
+of Africa.
+o-o
+With that sea route
+o-o
+Europeans
+o-o
+bypassed the
+o-o
+monopoly that
+o-o
+Arabic-speaking
+o-o
+Muslims had
+o-o
+on the land hyphen-here based
+o-o
+silk road to China.
+end-lyric
+
+ambee sings-desha amenn
+So it was
+o-o
+the digit zero,
+o-o
+not Columbus,
+o-o
+that got us
+o-o
+to North
+o-o
+and South
+o-o
+America?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes, in fact,
+o-o
+the Portuguese
+o-o
+discovered
+o-o
+Brazil before
+o-o
+fourteen ninety two.
+end-lyric
+
+ambee sings-damien amenn
+Ah, so that's why
+o-o
+people in Brazil
+o-o
+speak Portuguese
+o-o
+instead of Spanish.
+end-lyric
+
+ambee sings-desha amenn
+Interesting!
+end-lyric
+
+ambee sings-damien amenn
+OK, zero's
+o-o
+a big hyphen-here deal number.
+end-lyric
+
+ambee sings-mathprof amenn
+The digit zero.
+o-o
+Not just zero.
+o-o
+There have always
+o-o
+been words like
+o-o
+none, empty,
+o-o
+nobody,
+o-o
+ziltch, naked,
+o-o
+hungry, and
+o-o
+moron.
+o-o
+But writing
+o-o
+four zero zero
+o-o
+instead of
+o-o
+C C C C,
+o-o
+that's magic.
+end-lyric
+
+ambee sings-damien amenn
+So the digit zero's
+o-o
+a big deal.
+end-lyric
+
+ambee sings-desha amenn
+Without it
+o-o
+bridges would
+o-o
+be filled with
+o-o
+long lines of
+o-o
+accountants
+o-o
+...
+o-o
+waiting for
+o-o
+their turn to
+o-o
+jump off.
+end-lyric
+
+ambee sings-mathprof amenn
+Without it,
+o-o
+scientists
+o-o
+and engineers
+o-o
+couldn't have put
+o-o
+a man on the moon,
+o-o
+or put rovers
+o-o
+on the
+o-o
+planet Mars,
+o-o
+or photographed
+o-o
+the rings of Saturn
+o-o
+from within
+o-o
+those rings.
+o-o
+And those are just
+o-o
+a few of the things
+o-o
+that make
+o-o
+the digit zero
+o-o
+so incredibly
+o-o
+fantastic.
+end-lyric
+
+ambee sings-damien amenn
+I think my
+o-o
+confusions
+o-o
+'bout zero
+o-o
+are gone.
+o-o
+But how's that
+o-o
+relate to
+o-o
+what happens
+o-o
+in gettin' fair
+o-o
+elections?
+end-lyric
+
+ambee sings-mathprof amenn
+There's something
+o-o
+in math that's
+o-o
+still very new.
+o-o
+It's not yet taught
+o-o
+in public schools.
+o-o
+Yet it can take
+o-o
+civilization,
+o-o
+humanity,
+o-o
+us,
+o-o
+to the next level
+o-o
+where elections
+o-o
+are fair.
+o-o
+But to get there
+o-o
+you need to
+o-o
+appreciate
+o-o
+the power of a
+o-o
+name.
+end-lyric
+
+ambee sings-damien amenn
+OK, what's the name?
+end-lyric
+
+ambee sings-mathprof amenn
+A name without
+o-o
+it's meaning is
+o-o
+useless.
+o-o
+Concepts come first.
+end-lyric
+
+ambee sings-damien amenn
+Every test I took
+o-o
+cared more about
+o-o
+the names than the
+o-o
+concepts.
+end-lyric
+
+ambee sings-desha amenn
+I learned to spell
+o-o
+begin-italics hypotenuse end-italics
+o-o
+before I learned
+o-o
+it had nothing
+o-o
+to do with
+o-o
+hippos.
+end-lyric
+
+ambee sings-mathprof amenn
+That's because names
+o-o
+and dates and such
+o-o
+are easier to test.
+end-lyric
+
+ambee sings-damien amenn
+Isn't that upside
+o-o
+down? Testin'
+o-o
+what's less
+o-o
+important?
+end-lyric
+
+ambee sings-mathprof amenn
+You seem to me
+o-o
+to be quite
+o-o
+intelligent.
+o-o
+So let's
+o-o
+eliminate
+o-o
+your fear of
+o-o
+fractions.
+end-lyric
+
+ambee sings-damien amenn
+Is there a
+o-o
+rattlesnake
+o-o
+cage or
+o-o
+fallin' tree
+o-o
+nearby?
+end-lyric
+
+ambee sings-mathprof amenn
+Ancient
+o-o
+Babylonians
+o-o
+also disliked
+o-o
+fractions.
+o-o
+And so did
+o-o
+the Romans.
+o-o
+It's because
+o-o
+they lacked the
+o-o
+digit zero.
+o-o
+That's no big deal
+o-o
+for addition
+o-o
+and subtraction
+o-o
+and multiplication.
+o-o
+Those are just
+o-o
+shortcuts for
+o-o
+counting up,
+o-o
+counting down,
+o-o
+and a skipping
+o-o
+version of
+o-o
+counting up.
+o-o
+But division,
+o-o
+without the
+o-o
+big hyphen-here deal zero,
+o-o
+that's muddled and
+o-o
+befuddled
+o-o
+confusion.
+o-o
+So leaving
+o-o
+numbers as
+o-o
+fractions,
+o-o
+without doing the
+o-o
+division it
+o-o
+signifies,
+o-o
+that's what they did
+o-o
+until the
+o-o
+digit zero
+o-o
+arrived.
+end-lyric
+
+ambee sings-damien amenn
+Now we've got
+o-o
+zero,
+o-o
+the digit.
+o-o
+Yet I've gotta
+o-o
+use fractions
+o-o
+every day.
+o-o
+It makes me
+o-o
+wacko to
+o-o
+add 'n subtract
+o-o
+those
+o-o
+...
+o-o
+suckers.
+end-lyric
+
+ambee sings-mathprof amenn
+If fractions you
+o-o
+loathe, then this
+o-o
+question I pose.
+o-o
+Why do you use them?
+end-lyric
+
+ambee sings-damien amenn
+It's part of
+o-o
+my job.
+end-lyric
+
+ambee sings-mathprof amenn
+Are you a musician?
+end-lyric
+
+ambee sings-desha amenn
+What's music
+o-o
+got to do with
+o-o
+fractions?
+end-lyric
+
+ambee sings-mathprof amenn
+Musicians
+o-o
+cannot avoid
+o-o
+fractions.
+o-o
+They count
+o-o
+by two, or three,
+o-o
+or four, or six,
+o-o
+or eight.
+o-o
+But not by
+o-o
+five or ten.
+o-o
+Except,
+o-o
+I suspect,
+o-o
+for some
+o-o
+geeky
+o-o
+modern
+o-o
+jazz.
+end-lyric
+
+ambee sings-desha amenn
+Now we know
+o-o
+Mozart wasn't
+o-o
+fraction
+o-o
+phobic.
+end-lyric
+
+ambee sings-damien amenn
+I build custom
+o-o
+staircases.
+o-o
+Tape measures
+o-o
+are marked in
+o-o
+halves, quarters,
+o-o
+eighths, 'n
+o-o
+sixteenths.
+o-o
+Those effin'
+o-o
+fractions.
+o-o
+I'd murder
+o-o
+those suckers
+o-o
+if I knew
+o-o
+where to aim.
+end-lyric
+
+ambee sings-mathprof amenn
+Use decimal numbers.
+o-o
+That's what the whole
+o-o
+world uses, as part of
+o-o
+the metric system.
+o-o
+Except of course
+o-o
+here in the states.
+end-lyric
+
+ambee sings-damien amenn
+I can't use
+o-o
+metric units.
+o-o
+That'd get
+o-o
+me fired.
+o-o
+Inches and feet
+o-o
+are required.
+end-lyric
+
+ambee sings-mathprof amenn
+Decimal
+o-o
+numbers work
+o-o
+with inches too.
+o-o
+Just get a
+o-o
+tape measure with
+o-o
+decimal
+o-o
+markings for
+o-o
+inches!
+end-lyric
+
+ambee sings-damien amenn
+Oh, if only
+o-o
+I could do so.
+o-o
+That'd be great!
+o-o
+I could avoid
+o-o
+the fractions
+o-o
+I hate!
+end-lyric
+
+ambee sings-mathprof amenn
+Here, look at this
+o-o
+tape measure.
+end-lyric
+
+ambee sings-damien amenn
+Ah, it's marked
+o-o
+with ten units
+o-o
+per inch!
+o-o
+When I measure
+o-o
+I could write the
+o-o
+numbers as tenths
+o-o
+or hundredths.
+o-o
+'N it shows
+o-o
+eighths as well.
+o-o
+This is, well,
+o-o
+swell!
+end-lyric
+
+ambee sings-mathprof amenn
+And adding and
+o-o
+subtracting them
+o-o
+is as easy as
+o-o
+dollars and cents.
+end-lyric
+
+ambee sings-desha amenn
+So a fraction
+o-o
+is a
+o-o
+division
+o-o
+problem
+o-o
+unfinished.
+o-o
+It's waiting
+o-o
+to get
+o-o
+diminished
+o-o
+to a single
+o-o
+number.
+end-lyric
+
+ambee sings-damien amenn
+Using this
+o-o
+tape measure
+o-o
+would be a
+o-o
+pleasure.
+o-o
+How do I get
+o-o
+one?
+end-lyric
+
+ambee sings-mathprof amenn
+Use the magic
+o-o
+math word
+o-o
+begin-italics decimal end-italics
+o-o
+when you search for
+o-o
+begin-italics tape measure end-italics no-space .
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+words can be
+o-o
+powerful.
+end-lyric
+
+ambee sings-mathprof amenn
+You learn fast!
+o-o
+Now about your
+o-o
+fear of
+o-o
+fractions.
+o-o
+Ancient Romans,
+o-o
+even though they
+o-o
+fearlessly
+o-o
+conquered most
+o-o
+Mediterranean
+o-o
+waterfront
+o-o
+property,
+o-o
+they too had
+o-o
+that fear.
+o-o
+They liked the
+o-o
+number twelve.
+o-o
+That's why sundials
+o-o
+have twelve marks
+o-o
+for the day.
+end-lyric
+
+ambee sings-desha amenn
+So that's why we have
+o-o
+twenty four hours
+o-o
+per day?
+end-lyric
+
+ambee sings-mathprof amenn
+Indeed.
+o-o
+The number twelve
+o-o
+can be divided
+o-o
+by two and three
+o-o
+and four and six,
+o-o
+and yield a nice
+o-o
+result of
+o-o
+six or four or
+o-o
+three or two.
+end-lyric
+
+ambee sings-damien amenn
+I wondered why
+o-o
+time is measured
+o-o
+in numbers that
+o-o
+aren't in
+o-o
+multiples
+o-o
+of ten.
+end-lyric
+
+ambee sings-mathprof amenn
+Sexagesimal.
+end-lyric
+
+ambee sings-damien amenn
+We're jumpin'
+o-o
+from fractions
+o-o
+to sex?
+end-lyric
+
+ambee sings-desha amenn
+Using fractions
+o-o
+as foreplay
+o-o
+would solve
+o-o
+the world's
+o-o
+overpopulation
+o-o
+problem.
+end-lyric
+
+ambee sings-mathprof amenn
+Sexagesimal
+o-o
+is the name for
+o-o
+using sixty
+o-o
+as a base.
+o-o
+That's what the
+o-o
+ancient
+o-o
+Babylonians
+o-o
+chose.
+o-o
+Sixty divides
+o-o
+without remainders
+o-o
+by two and three and
+o-o
+four and five and six
+o-o
+and ten and twelve
+o-o
+and fifteen and twenty
+o-o
+and thirty.
+o-o
+That's why an hour
+o-o
+has sixty minutes.
+o-o
+And why a minute
+o-o
+has sixty seconds.
+end-lyric
+
+ambee sings-damien amenn
+So we could ditch
+o-o
+fractions?
+o-o
+That's a world
+o-o
+I'd like to see.
+end-lyric
+
+ambee sings-mathprof amenn
+So are fractions
+o-o
+a bit less
+o-o
+scary?
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+my fraction
+o-o
+phobia's
+o-o
+takin'
+o-o
+a siesta.
+o-o
+But sometimes
+o-o
+I get stuck
+o-o
+not knowing when
+o-o
+to do division,
+o-o
+in the right
+o-o
+sequence with
+o-o
+addition 'n
+o-o
+subtraction.
+end-lyric
+
+ambee sings-mathprof amenn
+That's just the trick
+o-o
+of algebra.
+end-lyric
+
+ambee sings-damien amenn
+Oh dear lord
+o-o
+please forget
+o-o
+I said that!
+o-o
+From what I've heard,
+o-o
+algebra's
+o-o
+the fifth horseman
+o-o
+of the apocalypse.
+end-lyric
+
+ambee sings-mathprof amenn
+Albert Einstein,
+o-o
+when he was young,
+o-o
+also had trouble
+o-o
+with algebra.
+end-lyric
+
+ambee sings-desha amenn
+But he was a
+o-o
+genius.
+o-o
+And best known
+o-o
+for E equals
+o-o
+M C squared,
+o-o
+the ultimate
+o-o
+celebrity
+o-o
+math equation.
+end-lyric
+
+ambee sings-mathprof amenn
+He struggled
+o-o
+until his
+o-o
+uncle told him
+o-o
+to think of
+o-o
+algebra as
+o-o
+a whodunnit
+o-o
+mystery.
+o-o
+Where the
+o-o
+identity
+o-o
+of mister X
+o-o
+is unknown, and
+o-o
+the facts are clues,
+o-o
+and the goal is
+o-o
+to figure out
+o-o
+who is mister X?
+end-lyric
+
+ambee sings-desha amenn
+Why didn't my
+o-o
+algebra teacher
+o-o
+teach that trick?
+end-lyric
+
+ambee sings-mathprof amenn
+Because donning
+o-o
+a Sherlock Holmes
+o-o
+cap in class
+o-o
+would get you sent
+o-o
+to the principal's
+o-o
+office.
+o-o
+And writing
+o-o
+begin-italics whodunnit end-italics
+o-o
+on a
+o-o
+standardized
+o-o
+test would
+o-o
+get you sent to
+o-o
+the circus
+o-o
+as a clown.
+end-lyric
+
+ambee sings-damien amenn
+Ah, I think
+o-o
+I'm seein'
+o-o
+your point.
+o-o
+Division
+o-o
+asks the question:
+o-o
+begin-italics What number
+o-o
+needs to be
+o-o
+multiplied
+o-o
+times the number
+o-o
+on the bottom
+o-o
+of a fraction
+o-o
+to get the
+o-o
+number on the
+o-o
+top of the
+o-o
+fraction? end-italics
+o-o
+Is that right?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes!
+o-o
+Excellent!
+o-o
+Now you
+o-o
+understand
+o-o
+some key ideas
+o-o
+of math.
+o-o
+Not enough
+o-o
+for me to
+o-o
+be inclined
+o-o
+to drive over
+o-o
+a bridge you
+o-o
+designed.
+o-o
+There's lots more.
+o-o
+And yet,
+o-o
+so much of it
+o-o
+would make sense
+o-o
+if math history
+o-o
+were taught
+o-o
+with a
+o-o
+focus on
+o-o
+concepts.
+o-o
+It even explains
+o-o
+why we say
+o-o
+fourteen and
+o-o
+thirteen but not
+o-o
+two hyphen-here teen
+o-o
+and one hyphen-here teen.
+end-lyric
+
+ambee sings-desha amenn
+I suppose
+o-o
+this explains
+o-o
+why hotel
+o-o
+elevators
+o-o
+can't count to
+o-o
+thirteen.
+end-lyric
+
+ambee sings-damien amenn
+I sure feel
+o-o
+unlucky
+o-o
+when I'm stuck with
+o-o
+a measurement
+o-o
+of thirteen
+o-o
+instead of
+o-o
+twelve 'n have to
+o-o
+divide it.
+end-lyric
+
+ambee sings-mathprof amenn
+Here's another
+o-o
+useful secret.
+o-o
+Division is
+o-o
+disguised under
+o-o
+other names.
+o-o
+Like ratio,
+o-o
+rate,
+o-o
+proportion,
+o-o
+average,
+o-o
+percentage,
+o-o
+percent, and
+o-o
+the word per.
+o-o
+And of course
+o-o
+fractions.
+end-lyric
+
+ambee sings-damien amenn
+So a fraction's
+o-o
+just a lazy
+o-o
+way to deal with
+o-o
+division?
+end-lyric
+
+ambee sings-mathprof amenn
+You've got it.
+end-lyric
+
+ambee sings-desha amenn
+It sounds like we
+o-o
+need a revolution
+o-o
+in how math is taught.
+end-lyric
+
+ambee sings-damien amenn
+Another revolution?
+o-o
+How many do you want?
+end-lyric
+
+ambee sings-desha amenn
+As many as it takes
+o-o
+to get things
+o-o
+right side up.
+end-lyric
+
+ambee sings-mathprof amenn
+Oh I do wish
+o-o
+there was more time
+o-o
+so we could talk
+o-o
+about beautiful
+o-o
+balanced equations,
+o-o
+and what's behind
+o-o
+calculus, and
+o-o
+why quadratic equations
+o-o
+....
+end-lyric
+
+ambee sings-damien amenn
+Fortunately
+o-o
+we don't have
+o-o
+that much time.
+end-lyric
+
+ambee sings-mathprof amenn
+Of course,
+o-o
+of course!
+o-o
+And anyway,
+o-o
+computers can do
+o-o
+math better than
+o-o
+students.
+end-lyric
+
+ambee sings-desha amenn
+Wait a minute!
+o-o
+Math textbooks
+o-o
+and math professors
+o-o
+are teaching us
+o-o
+thinking skills
+o-o
+that computers
+o-o
+can easily handle?
+o-o
+Why is that?
+end-lyric
+
+ambee sings-mathprof amenn
+Ironic isn't it?
+o-o
+Computers are better
+o-o
+than humans
+o-o
+at spelling,
+o-o
+grammar,
+o-o
+arithmetic,
+o-o
+algebra,
+o-o
+trigonometry,
+o-o
+calculus,
+o-o
+historical facts,
+o-o
+geography,
+o-o
+map reading, and
+o-o
+diplomatically
+o-o
+insulting you
+o-o
+for missing a
+o-o
+right turn.
+o-o
+Yet we try to teach
+o-o
+all that in school.
+end-lyric
+
+ambee sings-damien amenn
+What're computers
+o-o
+not good at doing?
+end-lyric
+
+ambee sings-mathprof amenn
+Inventing,
+o-o
+creating new
+o-o
+solutions to
+o-o
+real hyphen-here life
+o-o
+problems,
+o-o
+writing books
+o-o
+worth reading,
+o-o
+composing
+o-o
+beautiful music,
+o-o
+scripting videos
+o-o
+worth watching,
+o-o
+graphic design,
+o-o
+software development,
+o-o
+extracting meaning
+o-o
+from data,
+o-o
+creative things like that.
+end-lyric
+
+ambee sings-damien amenn
+Would that include
+o-o
+designing
+o-o
+custom staircases?
+end-lyric
+
+ambee sings-mathprof amenn
+Definitely.
+end-lyric
+
+ambee sings-damien amenn
+Those are the skills
+o-o
+that employers
+o-o
+desire.
+o-o
+My boss says
+o-o
+it's hard to hire
+o-o
+workers who
+o-o
+can do much more
+o-o
+than loiter
+o-o
+in the general
+o-o
+vicinity
+o-o
+of a staircase.
+end-lyric
+
+ambee sings-desha amenn
+So schools teach
+o-o
+what computers
+o-o
+can do better?
+o-o
+And schools fail
+o-o
+to teach the skills
+o-o
+that computers
+o-o
+are not good at,
+o-o
+but that
+o-o
+businesses
+o-o
+really want?
+o-o
+Wow!
+o-o
+The academic
+o-o
+world is
+o-o
+upside down!
+end-lyric
+
+ambee sings-mathprof amenn
+Alas,
+o-o
+the
+o-o
+academic
+o-o
+world,
+o-o
+the one based on
+o-o
+standardized tests,
+o-o
+is upside down
+o-o
+for students
+o-o
+and teachers
+o-o
+and employers.
+end-lyric
+
+ambee sings-desha amenn
+No wonder I often
+o-o
+recall so little
+o-o
+of what I learned
+o-o
+in college.
+o-o
+Computers
+o-o
+do it better.
+o-o
+We really ought
+o-o
+to have a
+o-o
+revolution
+o-o
+in how math,
+o-o
+and more,
+o-o
+is taught.
+end-lyric
+
+ambee sings-mathprof amenn
+Computers
+o-o
+lack the ability
+o-o
+to understand
+o-o
+concepts.
+o-o
+Yet too often
+o-o
+that's what's
+o-o
+academia
+o-o
+fails to teach.
+end-lyric
+
+ambee sings-damien amenn
+So schools
+o-o
+deserve a
+o-o
+failing grade!
+o-o
+I love it!
+end-lyric
+
+ambee sings-mathprof amenn
+Definitions,
+o-o
+terminology,
+o-o
+memorization
+o-o
+of facts,
+o-o
+grammar rules,
+o-o
+math rules,
+o-o
+etcetera
+o-o
+are what professors
+o-o
+teach because
+o-o
+textbooks focus
+o-o
+on them.
+o-o
+And standardized
+o-o
+tests test
+o-o
+those things.
+o-o
+But really it's
+o-o
+the concepts
+o-o
+that schools
+o-o
+most need
+o-o
+to teach.
+end-lyric
+
+ambee sings-desha amenn
+So schools are
+o-o
+trying to
+o-o
+begin-italics program end-italics students,
+o-o
+as if we were
+o-o
+computers.
+o-o
+While businesses
+o-o
+are trying to
+o-o
+begin-italics teach end-italics computers
+o-o
+how to think
+o-o
+like humans.
+o-o
+They're both
+o-o
+as stupid as
+o-o
+someone who brings
+o-o
+a kitchen knife
+o-o
+to a gun
+o-o
+battle.
+end-lyric
+
+ambee sings-damien amenn
+That's a dead end.
+o-o
+Now can we switch
+o-o
+to politics
+o-o
+from just
+o-o
+mathematics?
+o-o
+I'm eager
+o-o
+to learn the
+o-o
+math behind
+o-o
+voting.
+end-lyric
+
+ambee sings-mathprof amenn
+Now you're ready.
+o-o
+You won't be scared
+o-o
+when zero
+o-o
+pops up.
+o-o
+And only one
+o-o
+very simple
+o-o
+fraction
+o-o
+is involved.
+o-o
+The one called
+o-o
+half.
+end-lyric
+
+ambee sings-damien amenn
+Hurray!
+o-o
+Even a half wit
+o-o
+like me
+o-o
+can handle
+o-o
+a half.
+end-lyric
+
+ambee sings-desha amenn
+That's one
+o-o
+divided
+o-o
+by two.
+o-o
+That equals
+o-o
+zero point five.
+end-lyric
+
+ambee sings-mathprof amenn
+Or fifty
+o-o
+percent.
+o-o
+Now you're ready!
+o-o
+So let's explore
+o-o
+how votes need to
+o-o
+be counted for
+o-o
+results to be
+o-o
+fair.
+end-lyric
+
+ambee sings-damien amenn
+Finally!
+end-lyric
+
+ambee sings-mathprof amenn
+So how do you think
+o-o
+voting should be done?
+end-lyric
+
+ambee sings-desha amenn
+As you know,
+o-o
+I'm not a
+o-o
+math wiz.
+o-o
+Or even a nerd.
+end-lyric
+
+ambee sings-mathprof amenn
+name-damien no-space ?
+o-o
+What do you
+o-o
+suppose
+o-o
+that would
+o-o
+look like?
+end-lyric
+
+ambee sings-damien amenn
+Uh,
+o-o
+...
+o-o
+I reckon,
+o-o
+...
+o-o
+maybe
+o-o
+...
+o-o
+it might use
+o-o
+...
+o-o
+five stars?
+o-o
+...
+o-o
+Like
+o-o
+Amazon does?
+end-lyric
+
+ambee sings-mathprof amenn
+That's a good start.
+o-o
+And why is that
+o-o
+approach smart?
+end-lyric
+
+ambee sings-damien amenn
+If Amazon used
+o-o
+just one star
+o-o
+for each product,
+o-o
+like on an
+o-o
+'lection ballot,
+o-o
+that wouldn't be
+o-o
+enough info.
+o-o
+So what's needed
+o-o
+in elections
+o-o
+is more
+o-o
+info.
+end-lyric
+
+ambee sings-mathprof amenn
+Excellent!
+o-o
+Yes indeed!
+o-o
+So if stars were
+o-o
+used in elections,
+o-o
+and the highest
+o-o
+count of stars
+o-o
+indicated
+o-o
+the winner,
+o-o
+how could you,
+o-o
+as a voter,
+o-o
+get some extra
+o-o
+influence?
+end-lyric
+
+ambee sings-damien amenn
+I'm feelin'
+o-o
+like a dunce.
+end-lyric
+
+ambee sings-mathprof amenn
+Let's try a
+o-o
+different
+o-o
+scenario.
+o-o
+Let's suppose
+o-o
+you're in the
+o-o
+audience at
+o-o
+a talent contest,
+o-o
+and the emcee
+o-o
+announces that
+o-o
+the loudness
+o-o
+of clapping
+o-o
+will determine
+o-o
+who wins.
+o-o
+How can you get
+o-o
+extra influence?
+end-lyric
+
+ambee sings-damien amenn
+I dunno.
+end-lyric
+
+ambee sings-desha amenn
+Nor do I.
+end-lyric
+
+ambee sings-mathprof amenn
+You could clap
+o-o
+really loud for
+o-o
+your favorites,
+o-o
+and just pretend
+o-o
+to clap for the
+o-o
+others.
+end-lyric
+
+ambee sings-damien amenn
+That'd be
+o-o
+cheating.
+end-lyric
+
+ambee sings-mathprof amenn
+In a talent
+o-o
+contest, maybe,
+o-o
+maybe not.
+o-o
+At theater
+o-o
+events, that's
+o-o
+disrespectful.
+o-o
+But in an
+o-o
+election, with
+o-o
+money on the line,
+o-o
+that's just freedom
+o-o
+of expression.
+o-o
+It's voting,
+o-o
+but with an unfair
+o-o
+kind of vote
+o-o
+counting.
+end-lyric
+
+ambee sings-desha amenn
+Ah, it's fighting!
+o-o
+Done on ballots.
+end-lyric
+
+ambee sings-damien amenn
+So when I rate
+o-o
+things on Amazon
+o-o
+I should only
+o-o
+use one star
+o-o
+or five stars?
+end-lyric
+
+ambee sings-mathprof amenn
+If you do that
+o-o
+on Amazon
+o-o
+you're being a
+o-o
+jerk.
+o-o
+But if that star
+o-o
+rating were used
+o-o
+in elections,
+o-o
+where so much
+o-o
+is at stake,
+o-o
+that tactic
+o-o
+would make
+o-o
+your ballot
+o-o
+have more impact
+o-o
+than ballots
+o-o
+marked
+o-o
+honestly.
+end-lyric
+
+ambee sings-damien amenn
+I'm still following
+o-o
+things to here.
+o-o
+Too bad I can't
+o-o
+celebrate with
+o-o
+a beer.
+end-lyric
+
+ambee sings-mathprof amenn
+Bravo!
+o-o
+You see that
+o-o
+just collecting
+o-o
+more information
+o-o
+isn't enough.
+o-o
+How the information
+o-o
+is counted to
+o-o
+identify a
+o-o
+winner is so
+o-o
+important to
+o-o
+get right.
+end-lyric
+
+ambee sings-damien amenn
+So the five star
+o-o
+method won't work?
+end-lyric
+
+ambee sings-mathprof amenn
+Ah, I should
+o-o
+take a step back.
+o-o
+There are two parts
+o-o
+to any voting method.
+o-o
+There's the ballot
+o-o
+and there's the
+o-o
+counting of those
+o-o
+ballots.
+end-lyric
+
+ambee sings-damien amenn
+What kind'a ballot
+o-o
+do we use
+o-o
+now?
+end-lyric
+
+ambee sings-mathprof amenn
+Almost
+o-o
+every nation in the
+o-o
+world uses what's
+o-o
+now called the
+o-o
+single hyphen-here mark ballot.
+end-lyric
+
+ambee sings-desha amenn
+'Cause we can
+o-o
+only mark a
+o-o
+single choice?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+o-o
+And there's just
+o-o
+one way to count
+o-o
+that kind of ballot.
+o-o
+Which is why
+o-o
+until recently
+o-o
+that ballot didn't
+o-o
+have a name.
+o-o
+The counting method
+o-o
+has different names.
+o-o
+It's the enemy
+o-o
+of fair voting
+o-o
+so it's worth
+o-o
+learning its names.
+o-o
+In the academic
+o-o
+world it's called
+o-o
+begin-italics plurality voting end-italics no-space .
+o-o
+In Canada
+o-o
+and other
+o-o
+British places
+o-o
+it's called
+o-o
+begin-italics first past the post end-italics no-space .
+end-lyric
+
+ambee sings-damien amenn
+What's it called
+o-o
+here in the states?
+end-lyric
+
+ambee sings-mathprof amenn
+It's just called
+o-o
+voting.
+end-lyric
+
+ambee sings-desha amenn
+Ah! With no name
+o-o
+it becomes harder
+o-o
+to fight against!
+o-o
+Imagine protesting
+o-o
+with a sign that says
+o-o
+begin-italics End That Unnamed
+o-o
+Bad Kind Of
+o-o
+Vote Counting end-italics no-space .
+end-lyric
+
+ambee sings-damien amenn
+So that's the
+o-o
+enemy?
+o-o
+Plurality?
+o-o
+And it uses
+o-o
+the
+o-o
+single hyphen-here mark
+o-o
+ballot?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+o-o
+It is to
+o-o
+democracy
+o-o
+what a string
+o-o
+and two old hyphen-here style
+o-o
+tin cans
+o-o
+are to the
+o-o
+telephone.
+end-lyric
+
+ambee sings-damien amenn
+That's so
+o-o
+primitive.
+end-lyric
+
+ambee sings-desha amenn
+So what's the name
+o-o
+of a ballot where
+o-o
+each candidate
+o-o
+can be ranked at
+o-o
+a different level,
+o-o
+like on Amazon?
+end-lyric
+
+ambee sings-mathprof amenn
+That's called a
+o-o
+ranked ballot,
+o-o
+or a score ballot,
+o-o
+depending on
+o-o
+how it's counted.
+end-lyric
+
+ambee sings-damien amenn
+Brain freeze
+o-o
+big time!
+o-o
+Is that difference
+o-o
+really of prime
+o-o
+importance?
+end-lyric
+
+ambee sings-mathprof amenn
+To get the math
+o-o
+right, yes.
+o-o
+But both types
+o-o
+are better than
+o-o
+what we use now.
+end-lyric
+
+ambee sings-desha amenn
+Isn't anything
+o-o
+better than what
+o-o
+we use now?
+end-lyric
+
+ambee sings-mathprof amenn
+Almost anything.
+o-o
+There's one
+o-o
+seductive
+o-o
+exception.
+o-o
+That's using points,
+o-o
+where each voter
+o-o
+is given a limited
+o-o
+number of points
+o-o
+to distribute
+o-o
+among the choices.
+end-lyric
+
+ambee sings-desha amenn
+Is that because
+o-o
+a jerk could give
+o-o
+all his points
+o-o
+to a single
+o-o
+candidate?
+end-lyric
+
+ambee sings-mathprof amenn
+That's one
+o-o
+of its flaws.
+o-o
+If vote counting
+o-o
+methods
+o-o
+competed in
+o-o
+a limbo contest,
+o-o
+the points approach
+o-o
+would win
+o-o
+the limbo
+o-o
+contest,
+o-o
+as the
+o-o
+lowest.
+o-o
+Anything else
+o-o
+is like
+o-o
+pole vaulting
+o-o
+over what we
+o-o
+use now.
+end-lyric
+
+ambee sings-damien amenn
+So using ballots
+o-o
+that are like
+o-o
+Amazon stars ....
+o-o
+Wait a moment.
+o-o
+Does this mean
+o-o
+voting has to be
+o-o
+done electronically?
+end-lyric
+
+ambee sings-desha amenn
+That wouldn't
+o-o
+be fair.
+o-o
+Someone
+o-o
+could get lots
+o-o
+of extra votes
+o-o
+by changing
+o-o
+their name to
+o-o
+Click Here.
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Chuckles end-explain
+end-lyric
+
+ambee sings-mathprof amenn
+begin-explain Chuckles end-explain
+end-lyric
+
+ambee sings-desha amenn
+Plus voting
+o-o
+machines
+o-o
+can be hacked.
+o-o
+But
+o-o
+paper ballots
+o-o
+can't be sacked
+o-o
+...
+o-o
+except in bags.
+o-o
+Lots of people
+o-o
+vote by mail.
+o-o
+That's what my
+o-o
+brother did
+o-o
+when he was
+o-o
+fighting in
+o-o
+the Middle East.
+end-lyric
+
+ambee sings-mathprof amenn
+Paper ballots
+o-o
+with ovals to mark
+o-o
+work just fine.
+o-o
+Of course
+o-o
+columns of ovals
+o-o
+are needed for the
+o-o
+preference levels.
+o-o
+Let's say there's
+o-o
+seven columns.
+o-o
+The columns
+o-o
+would be labelled
+o-o
+begin-italics first choice end-italics no-space ,
+o-o
+begin-italics second choice end-italics no-space ,
+o-o
+begin-italics third choice end-italics no-space ,
+o-o
+and so on up to
+o-o
+begin-italics seventh choice end-italics no-space .
+end-lyric
+
+ambee sings-desha amenn
+What happens
+o-o
+if a joker
+o-o
+or dumbass
+o-o
+marks more than
+o-o
+one oval
+o-o
+for the same
+o-o
+candidate?
+end-lyric
+
+ambee sings-mathprof amenn
+Just count
+o-o
+the highest rank.
+end-lyric
+
+ambee sings-desha amenn
+Suppose a
+o-o
+distracted
+o-o
+voter forgets
+o-o
+to mark
+o-o
+any of a
+o-o
+candidate's
+o-o
+ovals?
+end-lyric
+
+ambee sings-mathprof amenn
+That candidate
+o-o
+is ranked at
+o-o
+the bottom.
+o-o
+In this case
+o-o
+that's the
+o-o
+begin-italics
+seventh choice
+end-italics
+no-space .
+end-lyric
+
+ambee sings-damien amenn
+I think even
+o-o
+I could mark
+o-o
+that kind of
+o-o
+ballot.
+end-lyric
+
+ambee sings-desha amenn
+Anyone who can't
+o-o
+is too stupid
+o-o
+to be voting.
+end-lyric
+
+ambee sings-damien amenn
+You're sayin'
+o-o
+some ways
+o-o
+of counting
+o-o
+those ballots
+o-o
+are better
+o-o
+than others?
+end-lyric
+
+ambee sings-mathprof amenn
+Exactly!
+o-o
+If everyone is
+o-o
+honest, then
+o-o
+simple counting
+o-o
+works fine.
+end-lyric
+
+ambee sings-damien amenn
+Simple counting?
+end-lyric
+
+ambee sings-mathprof amenn
+If there are five columns,
+o-o
+a marked oval
+o-o
+in the begin-italics first choice end-italics column
+o-o
+would be like marking
+o-o
+five Amazon stars,
+o-o
+a mark in the
+o-o
+begin-italics second choice end-italics column
+o-o
+would be like marking
+o-o
+four Amazon stars,
+o-o
+and so on down to
+o-o
+a mark in the
+o-o
+begin-italics fifth choice end-italics column
+o-o
+would be like marking
+o-o
+one Amazon star.
+end-lyric
+
+ambee sings-damien amenn
+That's simple?
+end-lyric
+
+ambee sings-desha amenn
+A computer
+o-o
+would take care of doing
+o-o
+that counting.
+o-o
+You would just mark
+o-o
+the correct column
+o-o
+for each
+o-o
+candidate.
+end-lyric
+
+ambee sings-mathprof amenn
+Even hand counting
+o-o
+the ballots
+o-o
+that way
+o-o
+would be easy.
+o-o
+For simple counting
+o-o
+the candidate
+o-o
+with the highest
+o-o
+such count
+o-o
+would win.
+o-o
+If everyone
+o-o
+is honest,
+o-o
+then that
+o-o
+works fine.
+end-lyric
+
+ambee sings-desha amenn
+Fat chance of that!
+o-o
+Honesty I mean.
+o-o
+It seems to be
+o-o
+getting less and less
+o-o
+fashionable.
+o-o
+Especially
+o-o
+in business
+o-o
+and politics.
+end-lyric
+
+ambee sings-mathprof amenn
+Yes when money
+o-o
+is involved,
+o-o
+as in politics,
+o-o
+then that simple
+o-o
+way of counting
+o-o
+ratings is
+o-o
+vulnerable
+o-o
+to strategic
+o-o
+voters.
+o-o
+They can get
+o-o
+extra
+o-o
+influence
+o-o
+using the
+o-o
+clapping tactic.
+end-lyric
+
+ambee sings-desha amenn
+I'm curious.
+o-o
+What happens
+o-o
+when Amazon
+o-o
+customers
+o-o
+realize they
+o-o
+can get extra
+o-o
+influence by
+o-o
+skipping the
+o-o
+middle ratings?
+end-lyric
+
+ambee sings-mathprof amenn
+Then Amazon
+o-o
+can move the
+o-o
+goalposts.
+o-o
+They can count
+o-o
+differently.
+o-o
+Actually
+o-o
+they already do.
+o-o
+They can get even
+o-o
+more sophisticated
+o-o
+if that's needed.
+end-lyric
+
+ambee sings-damien amenn
+I'm confused.
+o-o
+I understand
+o-o
+how the ballots work.
+o-o
+But I can't
+o-o
+imagine a
+o-o
+way to count votes
+o-o
+that's not like
+o-o
+any of what we've
+o-o
+been discussing.
+o-o
+I thought I was
+o-o
+following,
+o-o
+but now I've
+o-o
+stumbled up
+o-o
+another
+o-o
+dark alley.
+end-lyric
+
+ambee sings-mathprof amenn
+Take a deep breath!
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Takes deep breath. end-explain
+end-lyric
+
+ambee sings-mathprof amenn
+Or two.
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Takes deep breath. end-explain
+end-lyric
+
+ambee sings-mathprof amenn
+And give yourself
+o-o
+an A plus!
+o-o
+You two are
+o-o
+learning more
+o-o
+and faster
+o-o
+than anyone else
+o-o
+I've tried to
+o-o
+explain this to.
+end-lyric
+
+ambee sings-damien amenn
+Really?
+o-o
+Or are you just
+o-o
+tryin' to, well,
+o-o
+I dunno.
+o-o
+This is so
+o-o
+different from
+o-o
+that teacher
+o-o
+who bonked my head
+o-o
+with a book
+o-o
+every time
+o-o
+I made a
+o-o
+mistake.
+end-lyric
+
+ambee sings-desha amenn
+Tell me who did that
+o-o
+and I'll bonk him
+o-o
+in the balls.
+end-lyric
+
+ambee sings-mathprof amenn
+This is different
+o-o
+because you
+o-o
+really care about
+o-o
+this topic.
+o-o
+That's really what
+o-o
+makes the difference
+o-o
+between good and
+o-o
+bad grades.
+end-lyric
+
+ambee sings-damien amenn
+My world is
+o-o
+upside down.
+o-o
+'N money's
+o-o
+on the line.
+end-lyric
+
+ambee sings-desha amenn
+And Congress
+o-o
+is filled with
+o-o
+swine.
+end-lyric
+
+ambee sings-damien amenn
+Let's keep goin'.
+end-lyric
+
+ambee sings-desha amenn
+You said the
+o-o
+five star Amazon
+o-o
+kind of ballot
+o-o
+has two names.
+o-o
+Which name applies
+o-o
+to the kind of
+o-o
+simple counting
+o-o
+we've been talking
+o-o
+about?
+end-lyric
+
+ambee sings-mathprof amenn
+That kind of
+o-o
+ballot is asking
+o-o
+for a score
+o-o
+or a rating.
+o-o
+It's called
+o-o
+a score ballot.
+o-o
+It allows a voter
+o-o
+to indicate
+o-o
+how strongly the
+o-o
+voter feels about
+o-o
+who they like and
+o-o
+dislike.
+o-o
+Like the grades
+o-o
+A through F.
+end-lyric
+
+ambee sings-desha amenn
+Most politicians
+o-o
+deserve an F,
+o-o
+for
+o-o
+...
+o-o
+fails to care
+o-o
+about most
+o-o
+voters.
+end-lyric
+
+ambee sings-damien amenn
+We gotta
+o-o
+grade 'em
+o-o
+on a curve.
+end-lyric
+
+ambee sings-desha amenn
+'N that's why
+o-o
+marking just the
+o-o
+highest and
+o-o
+lowest scores,
+o-o
+is such a
+o-o
+big deal?
+end-lyric
+
+ambee sings-mathprof amenn
+Exactly!
+o-o
+A plus again!
+end-lyric
+
+ambee sings-damien amenn
+So how should we
+o-o
+be countin'
+o-o
+ballots?
+o-o
+For elections.
+o-o
+Where voters
+o-o
+will try
+o-o
+to increase
+o-o
+their influence.
+end-lyric
+
+ambee sings-mathprof amenn
+Before we
+o-o
+move on to what
+o-o
+I think is the
+o-o
+best kind of
+o-o
+vote counting,
+o-o
+here's an
+o-o
+interesting
+o-o
+simple kind of
+o-o
+improvement.
+end-lyric
+
+ambee sings-desha amenn
+What's that?
+end-lyric
+
+ambee sings-mathprof amenn
+Consider the same
+o-o
+kind of ballot
+o-o
+we use now, the
+o-o
+single hyphen-here mark ballot.
+o-o
+But change the
+o-o
+instructions
+o-o
+and allow the voter
+o-o
+to mark more than
+o-o
+just one candidate.
+o-o
+That's called
+o-o
+approval
+o-o
+voting.
+end-lyric
+
+ambee sings-desha amenn
+Ah, because you
+o-o
+either approve
+o-o
+each candidate or
+o-o
+leave their name
+o-o
+unmarked.
+end-lyric
+
+ambee sings-damien amenn
+This sounds like
+o-o
+Facebook,
+o-o
+where people can
+o-o
+upvote
+o-o
+anything and
+o-o
+everything.
+end-lyric
+
+ambee sings-mathprof amenn
+You're getting this!
+end-lyric
+
+ambee sings-desha amenn
+On Reddit
+o-o
+we can upvote
+o-o
+and downvote.
+o-o
+That's more
+o-o
+info.
+o-o
+Is that
+o-o
+better?
+end-lyric
+
+ambee sings-mathprof amenn
+Only if it's
+o-o
+counted as
+o-o
+three ranking
+o-o
+levels.
+end-lyric
+
+ambee sings-damien amenn
+Three?
+end-lyric
+
+ambee sings-mathprof amenn
+Remember zero.
+end-lyric
+
+ambee sings-desha amenn
+Ah, an upvote
+o-o
+is like plus one.
+o-o
+And a downvote
+o-o
+is like minus one.
+o-o
+And neither
+o-o
+up nor down
+o-o
+is like zero.
+end-lyric
+
+ambee sings-mathprof amenn
+If counted right
+o-o
+that could work.
+o-o
+But using
+o-o
+five levels
+o-o
+collects more
+o-o
+information
+o-o
+than three.
+o-o
+And when there are
+o-o
+lots and lots of candidates
+o-o
+then up to about twelve
+o-o
+levels would work.
+end-lyric
+
+ambee sings-desha amenn
+But not
+o-o
+unlucky thirteen.
+end-lyric
+
+ambee sings-damien amenn
+Since you
+o-o
+brought it up,
+o-o
+I'm guessing,
+o-o
+approval voting
+o-o
+might be fair?
+end-lyric
+
+ambee sings-mathprof amenn
+It would work OK in
+o-o
+begin-italics
+primary
+end-italics
+elections
+o-o
+because the winner
+o-o
+would always be from
+o-o
+the correct party.
+end-lyric
+
+ambee sings-desha amenn
+But in general
+o-o
+elections,
+o-o
+the wrong party
+o-o
+must not win.
+o-o
+So there it
+o-o
+would cause
+o-o
+trouble,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+o-o
+We need more
+o-o
+than just one
+o-o
+column of
+o-o
+ballot ovals
+o-o
+to avoid
+o-o
+criticism
+o-o
+of the results.
+end-lyric
+
+ambee sings-damien amenn
+Wait a moment!
+o-o
+Just changing
+o-o
+written
+o-o
+directions
+o-o
+on the ballot
+o-o
+would be
+o-o
+an easy change
+o-o
+to make,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+I'm not
+o-o
+politically
+o-o
+savvy.
+o-o
+That's outside
+o-o
+my expertise.
+o-o
+I just know
+o-o
+the math behind
+o-o
+ballot counting.
+end-lyric
+
+ambee sings-desha amenn
+If we're gonna
+o-o
+fight,
+o-o
+let's get it
+o-o
+right!
+end-lyric
+
+ambee sings-damien amenn
+Then what's the best
+o-o
+way to count
+o-o
+votes?
+end-lyric
+
+ambee sings-mathprof amenn
+You're finally
+o-o
+ready to
+o-o
+learn about 
+o-o
+ranking.
+o-o
+It uses
+o-o
+ranked ballots.
+o-o
+They look the same
+o-o
+as score ballots
+o-o
+with ovals,
+o-o
+but they're counted
+o-o
+differently.
+o-o
+It defeats the tactic
+o-o
+of just marking
+o-o
+the highest levels
+o-o
+and lowest levels.
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Speaks to himself. end-explain
+o-o
+That's ranking.
+end-lyric
+
+ambee sings-mathprof amenn
+How can those marks
+o-o
+be counted
+o-o
+in a way
+o-o
+that holds up
+o-o
+under
+o-o
+scrutiny,
+o-o
+without
+o-o
+mutiny?
+end-lyric
+
+ambee sings-damien amenn
+That's harder than
+o-o
+any jigsaw
+o-o
+puzzle
+o-o
+I've ever
+o-o
+seen.
+end-lyric
+
+ambee sings-mathprof amenn
+Admittedly,
+o-o
+if I asked this
+o-o
+on a test
+o-o
+I might soon
+o-o
+be under
+o-o
+arrest
+o-o
+for cerebral
+o-o
+torment
+o-o
+without written
+o-o
+consent.
+o-o
+But take a guess.
+end-lyric
+
+ambee sings-damien amenn
+Maybe
+o-o
+...
+o-o
+we could start
+o-o
+by looking at
+o-o
+...
+o-o
+just the top
+o-o
+part.
+o-o
+The top hyphen-here most
+o-o
+candidate
+o-o
+on each
+o-o
+ballot.
+o-o
+...
+end-lyric
+
+ambee sings-mathprof amenn
+Side step the fear
+o-o
+and persevere.
+end-lyric
+
+ambee sings-damien amenn
+And the
+o-o
+candidate
+o-o
+who gets the
+o-o
+fewest
+o-o
+top marks
+o-o
+...
+o-o
+gets
+o-o
+tossed aside?
+end-lyric
+
+ambee sings-desha amenn
+Then the ballots
+o-o
+are modified
+o-o
+to hide the
+o-o
+one dismissed.
+o-o
+Then the process
+o-o
+repeats.
+o-o
+Until just one
+o-o
+candidate
+o-o
+remains?
+end-lyric
+
+ambee sings-mathprof amenn
+That counting
+o-o
+method has
+o-o
+many
+o-o
+different names.
+o-o
+Here let's call it
+o-o
+instant runoff
+o-o
+voting.
+o-o
+Among friends,
+o-o
+or when a smartphone
+o-o
+isn't handy,
+o-o
+that method
+o-o
+is dandy.
+o-o
+It works well
+o-o
+enough that it's
+o-o
+been used in real
+o-o
+elections.
+o-o
+In fact it's used
+o-o
+in Maine, and
+o-o
+Australia,
+o-o
+in San Francisco,
+o-o
+and a few
+o-o
+other places.
+end-lyric
+
+ambee sings-damien amenn
+So I didn't
+o-o
+guess right?
+end-lyric
+
+ambee sings-mathprof amenn
+This is hard stuff.
+o-o
+Although
+o-o
+not as hard
+o-o
+as using an
+o-o
+abacus
+o-o
+to calculate
+o-o
+the square root
+o-o
+of your social
+o-o
+security
+o-o
+number.
+o-o
+Yet you deserve
+o-o
+another
+o-o
+A plus.
+o-o
+For the basic
+o-o
+idea of
+o-o
+using something
+o-o
+besides counting
+o-o
+marks and looking
+o-o
+for the biggest
+o-o
+count.
+end-lyric
+
+ambee sings-damien amenn
+Your reactions
+o-o
+are such a
+o-o
+contrast
+o-o
+to what
+o-o
+in the past
+o-o
+would have been
+o-o
+kicks in the
+o-o
+ass.
+end-lyric
+
+ambee sings-mathprof amenn
+Yet this
+o-o
+counting method
+o-o
+is flawed.
+o-o
+Instant
+o-o
+runoff
+o-o
+voting
+o-o
+was used in
+o-o
+the city of
+o-o
+Burlington,
+o-o
+in Vermont,
+o-o
+and it failed.
+o-o
+The candidate
+o-o
+who won
+o-o
+was not
+o-o
+the one
+o-o
+who deserved
+o-o
+to win.
+o-o
+We can do
+o-o
+better.
+o-o
+So which
+o-o
+candidate
+o-o
+should be the
+o-o
+first to be
+o-o
+eliminated?
+end-lyric
+
+ambee sings-damien amenn
+I'm stumpified.
+end-lyric
+
+ambee sings-mathprof amenn
+You've heard of the
+o-o
+electoral college?
+end-lyric
+
+ambee sings-desha amenn
+That's garbage!
+end-lyric
+
+ambee sings-mathprof amenn
+Ah, but one thing
+o-o
+it gets quite right.
+o-o
+The winner
+o-o
+of the
+o-o
+electoral
+o-o
+fight
+o-o
+has to get
+o-o
+more than half
+o-o
+the votes.
+end-lyric
+
+ambee sings-damien amenn
+Here's the fraction.
+o-o
+A half.
+o-o
+Fortunately
+o-o
+my fraction fears
+o-o
+have disappeared,
+o-o
+...
+o-o
+for now.
+end-lyric
+
+ambee sings-desha amenn
+More than half,
+o-o
+that's called a
+o-o
+majority.
+end-lyric
+
+ambee sings-mathprof amenn
+If a
+o-o
+candidate
+o-o
+gets a
+o-o
+majority,
+o-o
+then vote splitting
+o-o
+can't happen.
+o-o
+That's so important
+o-o
+that Roberts
+o-o
+Rules of Order
+o-o
+insist on
+o-o
+majority
+o-o
+support
+o-o
+to declare
+o-o
+a winner.
+end-lyric
+
+ambee sings-desha amenn
+How do those
+o-o
+rules say to
+o-o
+count votes?
+end-lyric
+
+ambee sings-mathprof amenn
+Those rules don't say
+o-o
+how to get a
+o-o
+majority.
+o-o
+Just that it's
+o-o
+necessary.
+o-o
+They do say
+o-o
+to
+begin-italics
+not
+end-italics
+use
+o-o
+what here we're
+o-o
+calling
+o-o
+instant
+o-o
+runoff
+o-o
+voting.
+end-lyric
+
+ambee sings-damien amenn
+So getting more
+o-o
+than half the votes
+o-o
+is a must.
+o-o
+But how can
+o-o
+there always
+o-o
+be a
+o-o
+majority?
+o-o
+Especially
+o-o
+when there are
+o-o
+more than two
+o-o
+candidates?
+end-lyric
+
+ambee sings-mathprof amenn
+Take a guess.
+end-lyric
+
+ambee sings-damien amenn
+This is hard.
+o-o
+Is it time
+o-o
+for recess?
+end-lyric
+
+ambee sings-desha amenn
+Remember that
+o-o
+money is your
+o-o
+reward for
+o-o
+figuring
+o-o
+this out.
+end-lyric
+
+ambee sings-mathprof amenn
+In sports,
+o-o
+how are teams ranked?
+end-lyric
+
+ambee sings-damien amenn
+Aren't teams ranked
+o-o
+based on,
+o-o
+... well, ...
+o-o
+I think they get
+o-o
+points,
+o-o
+or maybe lose points,
+o-o
+from each game.
+end-lyric
+
+ambee sings-mathprof amenn
+How many teams
+o-o
+compete in each game?
+end-lyric
+
+ambee sings-damien amenn
+Just two.
+end-lyric
+
+ambee sings-mathprof amenn
+And what's that called,
+o-o
+two at a time?
+end-lyric
+
+ambee sings-damien amenn
+I dunno.
+end-lyric
+
+ambee sings-desha amenn
+Two at a time,
+o-o
+that's a pair
+o-o
+at a time.
+end-lyric
+
+ambee sings-mathprof amenn
+Pairwise.
+o-o
+That's the name.
+o-o
+So how would
+o-o
+that work?
+end-lyric
+
+ambee sings-damien amenn
+Pairwise, ...
+o-o
+ah, counting?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes,
+o-o
+pairwise counting.
+o-o
+It's a very important
+o-o
+thing.
+o-o
+How would that work?
+end-lyric
+
+ambee sings-damien amenn
+It's counting,
+o-o
+but it's beyond
+o-o
+what my brain
+o-o
+can handle
+o-o
+begin-highlight
+without an assist
+o-o
+from some
+o-o
+Brainiac
+o-o
+Elixer.
+end-highlight
+end-lyric
+
+ambee sings-desha amenn
+If it were
+o-o
+sports teams,
+o-o
+then,
+o-o
+...
+o-o
+well,
+o-o
+a team would be
+o-o
+the worst
+o-o
+loser if
+o-o
+it lost all
+o-o
+its pairwise
+o-o
+matches.
+end-lyric
+
+ambee sings-mathprof amenn
+Excellent!
+o-o
+Keep going.
+end-lyric
+
+ambee sings-desha amenn
+So the loser
+o-o
+of all the
+o-o
+pairwise contests
+o-o
+would get
+o-o
+eliminated.
+end-lyric
+
+ambee sings-damien amenn
+'N then we'd
+o-o
+look for the
+o-o
+next loser,
+o-o
+from the remaining
+o-o
+teams, er,
+o-o
+candidates.
+end-lyric
+
+ambee sings-desha amenn
+And when there's
+o-o
+just one team,
+o-o
+or candidate,
+o-o
+remaining, that
+o-o
+would be the
+o-o
+winner, right?
+end-lyric
+
+ambee sings-mathprof amenn
+Excellent!
+o-o
+That pairwise
+o-o
+elimination
+o-o
+process would work,
+o-o
+up to a point.
+o-o
+A better shortcut
+o-o
+approach is to
+o-o
+look for the
+o-o
+candidate
+o-o
+who wins all
+o-o
+of their pairwise
+o-o
+contests.
+o-o
+The academic
+o-o
+world calls that a
+o-o
+Condorcet
+begin-explain pronounced cone-dor-SAY end-explain
+o-o
+winner.
+end-lyric
+
+ambee sings-desha amenn
+Condorcet,
+o-o
+that sounds stuffy.
+end-lyric
+
+ambee sings-mathprof amenn
+It's named after
+o-o
+a French guy
+o-o
+whose title was the
+o-o
+Marques de
+o-o
+Condorcet.
+o-o
+For a long time
+o-o
+Europeans
+o-o
+thought he was the
+o-o
+first person to
+o-o
+publish a
+o-o
+description
+o-o
+of that method.
+end-lyric
+
+ambee sings-desha amenn
+I can see,
+o-o
+as you say,
+o-o
+the concept
+o-o
+is the key.
+o-o
+Yet on a test,
+o-o
+students would be
+o-o
+asked to recall,
+o-o
+or recognize,
+o-o
+his name.
+o-o
+That's dumb.
+end-lyric
+
+ambee sings-damien amenn
+I think I see.
+o-o
+A Condorcet winner
+o-o
+would get more than
+o-o
+half the votes,
+o-o
+a majority,
+o-o
+without any
+o-o
+vote splitting.
+end-lyric
+
+ambee sings-desha amenn
+If this is
+o-o
+such a great
+o-o
+way to make
+o-o
+selections,
+o-o
+why isn't it used
+o-o
+for elections?
+end-lyric
+
+ambee sings-mathprof amenn
+Because sometimes
+o-o
+there's no
+o-o
+Condorcet
+o-o
+winner.
+o-o
+Using the elimination
+o-o
+approach, it can
+o-o
+reach a point where
+o-o
+none of the candidates
+o-o
+loses all its
+o-o
+pairwise contests.
+end-lyric
+
+ambee sings-desha amenn
+Partial losers.
+o-o
+But no total
+o-o
+losers.
+end-lyric
+
+ambee sings-damien amenn
+Then what?
+o-o
+Count how many
+o-o
+losses?
+o-o
+Or measure
+o-o
+how big the
+o-o
+losses are?
+end-lyric
+
+ambee sings-mathprof amenn
+A plus
+o-o
+for thinking
+o-o
+of those
+o-o
+ideas!
+o-o
+Actually
+o-o
+there are many
+o-o
+ways to resolve
+o-o
+those cases.
+o-o
+Even better,
+o-o
+there are methods
+o-o
+that don't first
+o-o
+look for Condorcet
+o-o
+winners or losers.
+o-o
+Instead they use
+o-o
+the pairwise counts
+o-o
+in ways that
+o-o
+don't need to do
+o-o
+anything
+o-o
+special.
+o-o
+Yet they find the
+o-o
+Condorcet
+o-o
+winner when
+o-o
+one exists.
+end-lyric
+
+ambee sings-damien amenn
+That sounds like
+o-o
+magic.
+end-lyric
+
+ambee sings-mathprof amenn
+It's
+o-o
+beautiful
+o-o
+advanced
+o-o
+mathematics.
+o-o
+After all,
+o-o
+magic is a
+o-o
+word for what
+o-o
+we don't yet
+o-o
+fully
+o-o
+comprehend.
+end-lyric
+
+ambee sings-damien amenn
+Like how
+o-o
+my landlord
+o-o
+calculates my
+o-o
+utility
+o-o
+bill.
+end-lyric
+
+ambee sings-desha amenn
+Is there some
+o-o
+method you like,
+o-o
+that you could
+o-o
+explain,
+o-o
+in a way that
+o-o
+makes that magic
+o-o
+understandable?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+o-o
+But before that
+o-o
+will make sense
+o-o
+I should ask you
+o-o
+how many pairwise
+o-o
+counts are involved
+o-o
+in each pairwise
+o-o
+comparison.
+end-lyric
+
+ambee sings-damien amenn
+I'll guess two.
+o-o
+If the two
+o-o
+candidates are
+o-o
+named Pinoke
+o-o
+and Oscar,
+o-o
+there's the count
+o-o
+for how many voters,
+o-o
+well, support,
+o-o
+uh, Pinoke
+o-o
+over Oscar.
+o-o
+And there's
+o-o
+the other count,
+o-o
+of how many voters
+o-o
+prefer Oscar
+o-o
+over Pinoke.
+end-lyric
+
+ambee sings-mathprof amenn
+And will those two
+o-o
+numbers always
+o-o
+add up to the
+o-o
+total number
+o-o
+of voters?
+end-lyric
+
+ambee sings-damien amenn
+I think so.
+end-lyric
+
+ambee sings-desha amenn
+Ah, but what if
+o-o
+some voters rank
+o-o
+Pinoke and Oscar
+o-o
+as equally
+o-o
+acceptable?
+end-lyric
+
+ambee sings-damien amenn
+Ah, that means
+o-o
+there will be
+o-o
+a third number.
+o-o
+The number of voters
+o-o
+who rank them
+o-o
+as equally
+o-o
+acceptable.
+end-lyric
+
+ambee sings-mathprof amenn
+Excellent!
+o-o
+Yes there are
+o-o
+three numbers
+o-o
+for each pairwise
+o-o
+comparison.
+o-o
+But when summarized,
+o-o
+the third count
+o-o
+can be omitted.
+o-o
+This means the
+o-o
+pairwise numbers
+o-o
+can be put into
+o-o
+a table, a square grid.
+o-o
+And each row
+o-o
+would be labelled
+o-o
+with the name
+o-o
+of a candidate.
+o-o
+And the columns
+o-o
+would be labelled
+o-o
+with the same
+o-o
+names in the same
+o-o
+sequence.
+o-o
+And each cell
+o-o
+would contain
+o-o
+a count.
+end-lyric
+
+ambee sings-desha amenn
+So if the
+o-o
+candidates
+o-o
+are named
+o-o
+Pinoke, Oscar,
+o-o
+Barack, and
+o-o
+Hypatia,
+o-o
+it would be
+o-o
+a four by four
+o-o
+grid, right?
+end-lyric
+
+ambee sings-mathprof amenn
+Indeed.
+o-o
+Now you're ready
+o-o
+to see the magic
+o-o
+of the counting
+o-o
+method I like
+o-o
+best.
+o-o
+It re hyphen-here arranges
+o-o
+the sequence of
+o-o
+candidates,
+o-o
+in the rows
+o-o
+and columns.
+o-o
+The goal is to
+o-o
+re hyphen-here arrange
+o-o
+the sequence
+o-o
+until the biggest
+o-o
+pairwise counts
+o-o
+move into the
+o-o
+upper hyphen-here right
+o-o
+triangular area
+o-o
+of the grid,
+o-o
+and the smallest
+o-o
+pairwise counts
+o-o
+move into the
+o-o
+other half,
+o-o
+the lower hyphen-here left
+o-o
+triangular area.
+o-o
+Then we look at
+o-o
+that sequence.
+o-o
+It indicates
+o-o
+not only who is
+o-o
+most popular,
+o-o
+but who is second
+o-o
+most popular,
+o-o
+who is third most
+o-o
+popular, and
+o-o
+so on down to
+o-o
+who is least
+o-o
+popular.
+end-lyric
+
+ambee sings-desha amenn
+What's that method
+o-o
+called?
+end-lyric
+
+ambee sings-mathprof amenn
+The Condorcet
+o-o
+Kemeny
+o-o
+method.
+end-lyric
+
+ambee sings-damien amenn
+'N is that the
+o-o
+fairest method?
+end-lyric
+
+ambee sings-mathprof amenn
+More research is
+o-o
+needed to
+o-o
+figure out which
+o-o
+method is best.
+end-lyric
+
+ambee sings-damien amenn
+I thought math was
+o-o
+supposed to be
+o-o
+precise.
+o-o
+How can it be
+o-o
+indecisive
+o-o
+too?
+end-lyric
+
+ambee sings-desha amenn
+Maybe that's the
+o-o
+kind of math
+o-o
+your landlord
+o-o
+uses.
+end-lyric
+
+ambee sings-mathprof amenn
+There's a
+o-o
+mathematical
+o-o
+proof that proves
+o-o
+it's not possible
+o-o
+for there to be
+o-o
+a voting method
+o-o
+that has no flaws.
+end-lyric
+
+ambee sings-desha amenn
+So math doesn't
+o-o
+have all the
+o-o
+answers?
+end-lyric
+
+ambee sings-mathprof amenn
+It's complicated.
+end-lyric
+
+ambee sings-desha amenn
+Sounds like life and
+o-o
+relationships.
+end-lyric
+
+ambee sings-mathprof amenn
+There are some
+o-o
+fairness
+o-o
+characteristics,
+o-o
+criteria,
+o-o
+that voting methods
+o-o
+pass or fail.
+o-o
+Math geeks know which
+o-o
+counting methods
+o-o
+can sometimes
+o-o
+fail which criteria.
+o-o
+But there has been
+o-o
+no research
+o-o
+to measure
+o-o
+how begin-italics often end-italics
+o-o
+each method fails,
+o-o
+or rather
+o-o
+passes,
+o-o
+each one.
+end-lyric
+
+ambee sings-damien amenn
+Why hasn't that
+o-o
+research
+o-o
+been done?
+end-lyric
+
+ambee sings-mathprof amenn
+Who would pay for
+o-o
+a search
+o-o
+to find the
+o-o
+best
+o-o
+replacement?
+end-lyric
+
+ambee sings-damien amenn
+Whoever pays
+o-o
+for research
+o-o
+about
+o-o
+dinosaurs.
+end-lyric
+
+ambee sings-desha amenn
+And
+o-o
+research in
+o-o
+mathematics.
+end-lyric
+
+ambee sings-mathprof amenn
+Most of that
+o-o
+funding comes from
+o-o
+the government.
+o-o
+Of course the
+o-o
+people who have
+o-o
+power
+o-o
+don't want to pay
+o-o
+for research
+o-o
+that reveals the
+o-o
+unfairness
+o-o
+that underpins
+o-o
+their power.
+end-lyric
+
+ambee sings-desha amenn
+A black widow
+o-o
+spider's web of
+o-o
+corruption!
+end-lyric
+
+ambee sings-damien amenn
+I think we've
+o-o
+learned what's
+o-o
+needed.
+o-o
+Ranked ballots
+o-o
+and pairwise
+o-o
+counting.
+o-o
+So are we done?
+end-lyric
+
+ambee sings-mathprof amenn
+There's more.
+o-o
+So far we've
+o-o
+been talking
+o-o
+about how to
+o-o
+choose a
+o-o
+mayor,
+o-o
+governor,
+o-o
+or president
+o-o
+with fairness.
+o-o
+That's the first half.
+o-o
+But what happens
+o-o
+when there are
+o-o
+lots of seats
+o-o
+to fill,
+o-o
+like in
+o-o
+Congress?
+end-lyric
+
+ambee sings-damien amenn
+Brain overload!
+end-lyric
+
+ambee sings-mathprof amenn
+Oh right.
+o-o
+Instead, try this.
+o-o
+Imagine a
+o-o
+group of friends
+o-o
+choosing a
+o-o
+second
+o-o
+pizza
+o-o
+topping
+o-o
+for a pizza
+o-o
+they will share.
+o-o
+How would the
+o-o
+second topping
+o-o
+be chosen?
+end-lyric
+
+ambee sings-damien amenn
+Couldn't the
+o-o
+second hyphen-here most
+o-o
+popular
+o-o
+candidate,
+o-o
+er, topping,
+o-o
+be elected,
+o-o
+er,
+o-o
+selected?
+end-lyric
+
+ambee sings-mathprof amenn
+Second hyphen-here most
+o-o
+popular has
+o-o
+more than one
+o-o
+meaning.
+o-o
+So let's try
+o-o
+yet another
+o-o
+metaphor.
+o-o
+Imagine that
+o-o
+five wolves and
+o-o
+four sheep vote
+o-o
+on what to eat
+o-o
+for dinner.
+end-lyric
+
+ambee sings-desha amenn
+Ha! The five wolves
+o-o
+would eat the
+o-o
+four sheep!
+o-o
+And claim it's fair
+o-o
+because it's
+o-o
+democracy!
+end-lyric
+
+ambee sings-damien amenn
+So us
+o-o
+minorities,
+o-o
+like the sheep,
+o-o
+need a way to
+o-o
+fight against a
+o-o
+majority.
+end-lyric
+
+ambee sings-desha amenn
+The Bill of Rights
+o-o
+is nice,
+o-o
+but that's
+o-o
+not enough
+o-o
+to protect us
+o-o
+minorities
+o-o
+from whites.
+end-lyric
+
+ambee sings-mathprof amenn
+As you see,
+o-o
+just getting a
+o-o
+majority
+o-o
+is not a
+o-o
+fully
+o-o
+zoomed out
+o-o
+view.
+end-lyric
+
+ambee sings-damien amenn
+I see somethin'
+o-o
+else too.
+o-o
+If districts
+o-o
+were filled with
+o-o
+wolves 'n sheep,
+o-o
+'n each district
+o-o
+had slightly more
+o-o
+wolves than sheep,
+o-o
+then every
+o-o
+district would
+o-o
+elect a wolf.
+o-o
+Then congress would
+o-o
+be nothin' but wolves.
+end-lyric
+
+ambee sings-desha amenn
+That's not far from
+o-o
+what are now
+o-o
+mostly
+o-o
+white males.
+end-lyric
+
+ambee sings-mathprof amenn
+In Europe,
+o-o
+instead of
+o-o
+wolves and sheep,
+o-o
+they have a
+o-o
+handful of
+o-o
+political parties.
+end-lyric
+
+ambee sings-desha amenn
+Like wolves and sheep
+o-o
+and goats and pigs?
+end-lyric
+
+ambee sings-mathprof amenn
+Sure.
+o-o
+On the ballot
+o-o
+each voter marks their
+o-o
+favorite
+o-o
+political party.
+o-o
+Let's say
+o-o
+lots of voters
+o-o
+mark their
+o-o
+ballot for
+o-o
+the Pirate
+o-o
+party.
+end-lyric
+
+ambee sings-damien amenn
+I'd join that one.
+o-o
+It sounds like
+o-o
+they're against
+o-o
+puppets.
+end-lyric
+
+ambee sings-desha amenn
+Do they slash
+o-o
+puppet strings
+o-o
+with their
+o-o
+swords?
+end-lyric
+
+ambee sings-mathprof amenn
+They don't carry
+o-o
+swords,
+o-o
+or dress like
+o-o
+pirates.
+o-o
+But they do
+o-o
+oppose
+o-o
+what they think is
+o-o
+corruption.
+end-lyric
+
+ambee sings-damien amenn
+Go pirates!
+end-lyric
+
+ambee sings-mathprof amenn
+In some
+o-o
+European
+o-o
+countries,
+o-o
+adjustments
+o-o
+are done to
+o-o
+ensure the
+o-o
+Pirate party,
+o-o
+and every
+o-o
+other party,
+o-o
+gets their fair share
+o-o
+of seats in
+o-o
+parliament.
+end-lyric
+
+ambee sings-damien amenn
+Does that work?
+end-lyric
+
+ambee sings-mathprof amenn
+It hides the
+o-o
+unfairness of
+o-o
+still using
+o-o
+single hyphen-here mark ballots.
+o-o
+Yet there are
+o-o
+lots of people
+o-o
+who like it.
+o-o
+That's because
+o-o
+they can point to
+o-o
+someone in
+o-o
+parliament
+o-o
+and claim their vote
+o-o
+helped elect
+o-o
+that MP,
+o-o
+er,
+o-o
+member of
+o-o
+parliament.
+end-lyric
+
+ambee sings-desha amenn
+From reading
+o-o
+news about
+o-o
+Europe those
+o-o
+governments
+o-o
+have as much
+o-o
+corruption
+o-o
+as us.
+end-lyric
+
+ambee sings-mathprof amenn
+Back to
+o-o
+voting here
+o-o
+in the United States,
+o-o
+suppose each district
+o-o
+filled two seats
+o-o
+in the house of
+o-o
+representatives.
+end-lyric
+
+ambee sings-desha amenn
+That means districts
+o-o
+would be twice the
+o-o
+size of existing
+o-o
+districts, right?
+end-lyric
+
+ambee sings-mathprof amenn
+Very good!
+end-lyric
+
+ambee sings-damien amenn
+OK, half as many
+o-o
+districts,
+o-o
+and two seats
+o-o
+per district.
+o-o
+Sounds slick.
+end-lyric
+
+ambee sings-mathprof amenn
+Of course the
+o-o
+most popular
+o-o
+candidate wins
+o-o
+the first seat.
+end-lyric
+
+ambee sings-desha amenn
+So how's the
+o-o
+second seat filled?
+o-o
+In a way that's fair.
+o-o
+For the sheep,
+o-o
+and goats,
+o-o
+and pigs?
+o-o
+Or maybe I should say,
+o-o
+for women to get
+o-o
+the representation
+o-o
+we deserve.
+end-lyric
+
+ambee sings-mathprof amenn
+Using simple math,
+o-o
+a computer can
+o-o
+calculate which
+o-o
+voters are 
+o-o
+well hyphen-here represented
+o-o
+by the first hyphen-here seat
+o-o
+winner.
+end-lyric
+
+ambee sings-damien amenn
+Since that math
+o-o
+is simple,
+o-o
+I don't need to
+o-o
+hear about it,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+o-o
+The ballots
+o-o
+of those
+o-o
+well hyphen-here represented
+o-o
+voters
+o-o
+would have their
+o-o
+influence
+o-o
+greatly reduced.
+o-o
+Often all the
+o-o
+way to zero.
+o-o
+The remaining
+o-o
+voters still have
+o-o
+full influence
+o-o
+for their ballots.
+o-o
+Pairwise counting
+o-o
+is done again,
+o-o
+and the most
+o-o
+popular
+o-o
+candidate
+o-o
+wins the
+o-o
+second seat.
+o-o
+In this
+o-o
+district.
+end-lyric
+
+ambee sings-desha amenn
+I'm guessing the
+o-o
+effect would be
+o-o
+to elect one
+o-o
+Republican
+o-o
+and one
+o-o
+Democrat.
+end-lyric
+
+ambee sings-mathprof amenn
+Typically yes,
+o-o
+assuming both
+o-o
+parties offer
+o-o
+good candidates.
+end-lyric
+
+ambee sings-damien amenn
+That means
+o-o
+there would be
+o-o
+more than just
+o-o
+one
+o-o
+Republican
+o-o
+'n one
+o-o
+Democrat
+o-o
+in the race?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes because
+o-o
+vote splitting
+o-o
+can't happen.
+o-o
+So we need
+o-o
+to allow
+o-o
+for the
+o-o
+possibility
+o-o
+that one
+o-o
+of the
+o-o
+parties
+o-o
+only offers
+o-o
+disliked
+o-o
+candidates,
+o-o
+while the other
+o-o
+party offers
+o-o
+better
+o-o
+candidates.
+end-lyric
+
+ambee sings-damien amenn
+Ah, if, say,
+o-o
+the Republican
+o-o
+party only
+o-o
+offered puppet
+o-o
+candidates,
+o-o
+like Pinoke
+o-o
+'n Oscar,
+o-o
+'n the Democratic
+o-o
+party offered
+o-o
+anti hyphen-here corruption
+o-o
+candidates,
+o-o
+like Barack
+o-o
+'n Hypatia,
+o-o
+then both winners
+o-o
+could be Democrats?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+end-lyric
+
+ambee sings-damien amenn
+This seems like a
+o-o
+winning
+o-o
+pole vault
+o-o
+over our low
+o-o
+limbo bar,
+o-o
+where we
+o-o
+are now.
+end-lyric
+
+ambee sings-desha amenn
+But if every district
+o-o
+elects one
+o-o
+Republican and
+o-o
+one Democrat,
+o-o
+then Congress
+o-o
+would be tied.
+o-o
+That's cockeyed.
+o-o
+The population
+o-o
+is not
+o-o
+evenly
+o-o
+divided
+o-o
+between the
+o-o
+two parties.
+end-lyric
+
+ambee sings-mathprof amenn
+To fix that
+o-o
+unfair balance,
+o-o
+we make the
+o-o
+districts a little
+o-o
+bigger. And we
+o-o
+reserve a few
+o-o
+extra seats.
+o-o
+Statewide seats.
+o-o
+Then we can do
+o-o
+the party hyphen-here based
+o-o
+adjustment to
+o-o
+figure out which
+o-o
+party deserves to win
+o-o
+each of those
+o-o
+statewide seats.
+end-lyric
+
+ambee sings-damien amenn
+And the party
+o-o
+leaders,
+o-o
+like the
+o-o
+insiders
+o-o
+in the Pirate
+o-o
+Party,
+o-o
+would get to
+o-o
+decide who should
+o-o
+fill those seats?
+o-o
+That seems
+o-o
+not right.
+o-o
+That would be
+o-o
+unfair.
+end-lyric
+
+ambee sings-mathprof amenn
+Lots of
+o-o
+European
+o-o
+nations
+o-o
+do it that way.
+o-o
+Yet you're right.
+o-o
+It's not fair.
+end-lyric
+
+ambee sings-damien amenn
+Why are those
+o-o
+voters so
+o-o
+stupid?
+end-lyric
+
+ambee sings-mathprof amenn
+The people
+o-o
+in power
+o-o
+are the ones who
+o-o
+have to approve
+o-o
+any change.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+I see.
+o-o
+The members of
+o-o
+parliament
+o-o
+only embrace
+o-o
+a change if it's
+o-o
+likely to get
+o-o
+themselves
+o-o
+re hyphen-here elected.
+o-o
+Otherwise it
+o-o
+would be as
+o-o
+unlikely as
+o-o
+turkeys voting
+o-o
+in favor of
+o-o
+Thanksgiving.
+end-lyric
+
+ambee sings-damien amenn
+Another barrier!
+o-o
+Political
+o-o
+turkeys.
+end-lyric
+
+ambee sings-mathprof amenn
+Far fairer is
+o-o
+to look at the
+o-o
+ballots again
+o-o
+to identify
+o-o
+the most popular
+o-o
+of the
+o-o
+un hyphen-here elected candidates.
+o-o
+The most popular
+o-o
+such candidate
+o-o
+from the
+o-o
+correct party
+o-o
+would fill that
+o-o
+party's
+o-o
+extra seat.
+o-o
+Then just repeat
+o-o
+that process
+o-o
+for each next seat.
+end-lyric
+
+ambee sings-desha amenn
+That sounds like
+o-o
+it would rip
+o-o
+control away from
+o-o
+party insiders.
+o-o
+And empower
+o-o
+the voters.
+end-lyric
+
+ambee sings-damien amenn
+That seems much much
+o-o
+fairer than what
+o-o
+we've got now.
+end-lyric
+
+ambee sings-mathprof amenn
+With no
+o-o
+vote splitting,
+o-o
+begin-italics general end-italics
+o-o
+elections
+o-o
+would no
+o-o
+longer be
+o-o
+limited
+o-o
+to just one
+o-o
+candidate
+o-o
+per party.
+end-lyric
+
+ambee sings-desha amenn
+That means
+o-o
+no more blocking,
+o-o
+like how
+o-o
+Hillary
+o-o
+Clinton
+o-o
+got blocked
+o-o
+in two thousand eight.
+o-o
+Right?
+end-lyric
+
+ambee sings-mathprof amenn
+That's right.
+end-lyric
+
+ambee sings-damien amenn
+name-desha
+o-o
+you're bright.
+end-lyric
+
+ambee sings-desha amenn
+It's just counting.
+end-lyric
+
+ambee sings-mathprof amenn
+And that's what the
+o-o
+important parts of
+o-o
+mathematics
+o-o
+are mostly about,
+o-o
+counting.
+end-lyric
+
+ambee sings-damien amenn
+So how can the
+o-o
+ballot handle
+o-o
+lots of candidates?
+end-lyric
+
+ambee sings-mathprof amenn
+A separate
+o-o
+ballot question
+o-o
+can ask voters
+o-o
+to rank the
+o-o
+political parties.
+o-o
+That gives us the
+o-o
+info we need
+o-o
+to calculate
+o-o
+the popularity
+o-o
+of the
+o-o
+parties.
+end-lyric
+
+ambee sings-damien amenn
+Voting for parties?
+o-o
+Is that really
+o-o
+a thing?
+end-lyric
+
+ambee sings-mathprof amenn
+That's what lots of
+o-o
+people in lots
+o-o
+of nations do
+o-o
+on their ballots.
+o-o
+Using that info,
+o-o
+the most popular
+o-o
+parties can be
+o-o
+allowed to have
+o-o
+two or three of
+o-o
+their candidates
+o-o
+in each race.
+end-lyric
+
+ambee sings-damien amenn
+And the least popular
+o-o
+parties get excluded?
+end-lyric
+
+ambee sings-mathprof amenn
+That makes sense to me.
+end-lyric
+
+ambee sings-damien amenn
+And the biggest
+o-o
+third parties
+o-o
+get one candidate
+o-o
+each, right?
+end-lyric
+
+ambee sings-mathprof amenn
+That gives small
+o-o
+parties an
+o-o
+opportunity
+o-o
+to grow.
+o-o
+And even to
+o-o
+overtake
+o-o
+big parties.
+end-lyric
+
+ambee sings-damien amenn
+I don't like names,
+o-o
+but this is
+o-o
+getting
+o-o
+complex.
+o-o
+Is there a name
+o-o
+for all of
+o-o
+this mess?
+end-lyric
+
+ambee sings-mathprof amenn
+It is sort of like
+o-o
+a jigsaw puzzle
+o-o
+with lots of pieces,
+o-o
+and different
+o-o
+pieces would work,
+o-o
+and they have lots
+o-o
+of names.
+o-o
+But the only method
+o-o
+that does all of
+o-o
+what I've described
+o-o
+under a single
+o-o
+name is called
+o-o
+VoteFair Ranking.
+end-lyric
+
+ambee sings-desha amenn
+VoteFair?
+end-lyric
+
+ambee sings-damien amenn
+FairVote?
+end-lyric
+
+ambee sings-mathprof amenn
+VoteFair
+o-o
+is the ranking
+o-o
+method I like.
+o-o
+FairVote is an
+o-o
+organization
+o-o
+that promotes
+o-o
+instant runoff
+o-o
+voting and
+o-o
+something called
+o-o
+the single
+o-o
+transferable
+o-o
+vote.
+o-o
+They call those methods
+o-o
+begin-italics ranked choice end-italics
+o-o
+voting.
+end-lyric
+
+ambee sings-desha amenn
+That's confusing.
+end-lyric
+
+ambee sings-mathprof amenn
+Yes, intentionally.
+end-lyric
+
+ambee sings-damien amenn
+OK, you like
+o-o
+VoteFair something.
+o-o
+Is there a
+o-o
+less hyphen-here specific
+o-o
+name?
+end-lyric
+
+ambee sings-mathprof amenn
+Pairwise
+o-o
+vote counting.
+o-o
+That's the most
+o-o
+important part.
+o-o
+Because pairwise counts
+o-o
+reveal not just support
+o-o
+but opposition.
+end-lyric
+
+ambee sings-damien amenn
+So it's ranked
+o-o
+ballots and
+o-o
+pairwise vote
+o-o
+counting
+o-o
+that you
+o-o
+recommend?
+end-lyric
+
+ambee sings-mathprof amenn
+Plus adjustments
+o-o
+we've discussed that
+o-o
+give fuller
+o-o
+representation.
+end-lyric
+
+ambee sings-desha amenn
+To the sheep
+o-o
+and goats and pigs
+o-o
+defending
+o-o
+themselves against
+o-o
+the wolves.
+end-lyric
+
+ambee sings-damien amenn
+So how hard's it
+o-o
+to do pairwise
+o-o
+counting?
+end-lyric
+
+ambee sings-mathprof amenn
+All the counting
+o-o
+is done by computer,
+o-o
+so a tap on the screen
+o-o
+is all that's needed.
+end-lyric
+
+ambee sings-desha amenn
+So what's the
+o-o
+barrier against
+o-o
+using ranked
+o-o
+ballots and
+o-o
+pairwise counting?
+end-lyric
+
+ambee sings-mathprof amenn
+Up until a few
+o-o
+decades ago, when
+o-o
+computers came along,
+o-o
+doing the math by hand
+o-o
+was the big barrier.
+end-lyric
+
+ambee sings-damien amenn
+But now we have
+o-o
+computers, so
+o-o
+what's stopping us
+o-o
+now?
+end-lyric
+
+ambee sings-mathprof amenn
+Fear.
+o-o
+Especially
+o-o
+a fear of math.
+o-o
+Officially
+o-o
+that's called
+o-o
+mathematical
+o-o
+anxiety.
+o-o
+Lots of people
+o-o
+have it 'cause
+o-o
+most people
+o-o
+don't trust what
+o-o
+they don't
+o-o
+understand.
+end-lyric
+
+ambee sings-damien amenn
+Math
+o-o
+anxiety.
+o-o
+That's what I
+o-o
+was infected
+o-o
+by.
+end-lyric
+
+ambee sings-desha amenn
+Of course
+o-o
+the biggest
+o-o
+campaign
+o-o
+contributors
+o-o
+don't want
+o-o
+anyone
+o-o
+to cut the
+o-o
+puppet strings
+o-o
+they use to
+o-o
+control
+o-o
+politicians.
+o-o
+And their minions,
+o-o
+the insiders
+o-o
+within the two
+o-o
+political
+o-o
+parties,
+o-o
+don't want to
+o-o
+get fired.
+o-o
+Or lose their
+o-o
+perks.
+end-lyric
+
+ambee sings-damien amenn
+Why isn't the
+o-o
+benefit
+o-o
+of greater
+o-o
+fairness
+o-o
+attracting
+o-o
+voters like a
+o-o
+magnet?
+end-lyric
+
+ambee sings-desha amenn
+You are so
+o-o
+na&#239;ve.
+o-o
+Greedy folks
+o-o
+are in control
+o-o
+and they don't want
+o-o
+fairness.
+end-lyric
+
+ambee sings-damien amenn
+Those of us
+o-o
+who are
+o-o
+workin' hard
+o-o
+yet sufferin'
+o-o
+want our fair share
+o-o
+of the
+o-o
+economic
+o-o
+pie.
+end-lyric
+
+ambee sings-desha amenn
+And rich people
+o-o
+want to protect
+o-o
+their too hyphen-here big slice
+o-o
+of economic pie,
+o-o
+probably with
+o-o
+vanilla
+o-o
+ice cream and
+o-o
+three cherries
+o-o
+on top.
+end-lyric
+
+ambee sings-mathprof amenn
+Speaking of that,
+o-o
+here are colored blocks
+o-o
+that represent
+o-o
+nine ballots,
+o-o
+and the colors
+o-o
+represent
+o-o
+ice cream flavors.
+end-lyric
+
+ambee sings-desha amenn
+Pretty colors!
+o-o
+Which flavors?
+end-lyric
+
+ambee sings-mathprof amenn
+Dark brown is
+o-o
+chocolate.
+end-lyric
+
+ambee sings-desha amenn
+Yum!
+end-lyric
+
+ambee sings-mathprof amenn
+Pink is for
+o-o
+strawberry.
+end-lyric
+
+ambee sings-desha amenn
+I'm not a fan
+o-o
+of pink.
+end-lyric
+
+ambee sings-mathprof amenn
+This color represents
+o-o
+mint chocolate
+o-o
+chip.
+end-lyric
+
+ambee sings-desha amenn
+And I presume
+o-o
+the last color
+o-o
+is vanilla.
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+end-lyric
+
+ambee sings-desha amenn
+But you haven't
+o-o
+explained why
+o-o
+you're pointing
+o-o
+out these
+o-o
+colored blocks.
+end-lyric
+
+ambee sings-mathprof amenn
+With these
+o-o
+ballot preferences
+o-o
+the winning flavor
+o-o
+can be mint
+o-o
+chocolate chip,
+o-o
+or strawberry,
+o-o
+or vanilla,
+o-o
+depending on
+o-o
+which counting
+o-o
+method is used.
+end-lyric
+
+ambee sings-damien amenn
+Ah, so the counting
+o-o
+method does
+o-o
+matter!
+end-lyric
+
+ambee sings-mathprof amenn
+Definitely.
+o-o
+And yet,
+o-o
+almost any
+o-o
+method is better
+o-o
+than what we've
+o-o
+got now.
+end-lyric
+
+ambee sings-damien amenn
+So now
+o-o
+do we know
+o-o
+all about voting?
+end-lyric
+
+ambee sings-mathprof amenn
+There's one
+o-o
+more bit.
+o-o
+But you can learn
+o-o
+about it
+o-o
+later,
+o-o
+when you're ready.
+o-o
+It will be
+o-o
+improvements
+o-o
+in how members
+o-o
+of Congress
+o-o
+vote to decide
+o-o
+which bills
+o-o
+should pass
+o-o
+to become
+o-o
+laws.
+o-o
+But getting
+o-o
+that math right
+o-o
+is too advanced
+o-o
+for you now.
+end-lyric
+
+ambee sings-damien amenn
+If elections were fair,
+o-o
+what would change,
+o-o
+politically?
+end-lyric
+
+ambee sings-desha amenn
+Yeah,
+o-o
+especially
+o-o
+for the
+o-o
+unfortunate
+o-o
+poor.
+o-o
+And us college
+o-o
+grads who failed
+o-o
+to get to
+o-o
+the middle
+o-o
+class.
+end-lyric
+
+ambee sings-mathprof amenn
+The answer to that
+o-o
+I don't know.
+o-o
+For that you need
+o-o
+to ask someone
+o-o
+who understands both
+o-o
+economics and
+o-o
+game theory.
+end-lyric
+
+ambee sings-damien amenn
+Game theory?
+end-lyric
+
+ambee sings-desha amenn
+Ah.
+o-o
+Voting's a game!
+o-o
+That makes sense.
+end-lyric
+
+ambee sings-mathprof amenn
+It's an academic field
+o-o
+that studies, well,
+o-o
+it's difficult to
+o-o
+describe.
+o-o
+But it includes
+o-o
+vote counting.
+o-o
+I do know someone
+o-o
+with those credentials.
+o-o
+But he's at a
+o-o
+university
+o-o
+that's a three hyphen-here hour
+o-o
+drive away.
+end-lyric
+
+ambee sings-damien amenn
+Do you think he'd
+o-o
+give us a peek
+o-o
+into that
+o-o
+future?
+end-lyric
+
+ambee sings-mathprof amenn
+I can ask him
+o-o
+by email.
+end-lyric
+
+ambee sings-damien amenn
+That'd be super!
+end-lyric
+
+ambee sings-mathprof amenn
+He studies,
+o-o
+and teaches about,
+o-o
+economic history.
+end-lyric
+
+ambee sings-desha amenn
+The history
+o-o
+of economics?
+o-o
+That sounds like
+o-o
+a waste.
+end-lyric
+
+ambee sings-mathprof amenn
+That's a different
+o-o
+field,
+o-o
+and yes that would
+o-o
+be boring
+o-o
+for the two of you.
+o-o
+What he teaches
+o-o
+is economic
+o-o
+history.
+o-o
+That's the study
+o-o
+of economies
+o-o
+during earlier
+o-o
+times.
+end-lyric
+
+ambee sings-damien amenn
+I hate
+o-o
+history.
+o-o
+As much as
+o-o
+I did
+o-o
+mathematics.
+end-lyric
+
+ambee sings-mathprof amenn
+This professor
+o-o
+can make
+o-o
+history fun.
+end-lyric
+
+ambee sings-damien amenn
+Can that be done?
+o-o
+'N economics,
+o-o
+that's more math.
+end-lyric
+
+ambee sings-mathprof amenn
+You did great with
+o-o
+history in
+o-o
+mathematics.
+o-o
+As for math in
+o-o
+economics,
+o-o
+it's just different
+o-o
+names for money.
+o-o
+Like tax, debt,
+o-o
+interest,
+o-o
+tariffs, and
+o-o
+bribes.
+end-lyric
+
+ambee sings-damien amenn
+I'm a dummy
+o-o
+but I'll
+o-o
+try.
+end-lyric
+
+ambee sings-mathprof amenn
+One more tip.
+o-o
+There's something
+o-o
+called begin-italics mathiness end-italics no-space .
+o-o
+It's a misuse of
+o-o
+mathematics.
+o-o
+Math doesn't lie,
+o-o
+but some liars
+o-o
+use numbers
+o-o
+when they lie.
+end-lyric
+
+ambee sings-damien amenn
+Mathiness
+o-o
+must be what
+o-o
+my landlord's
+o-o
+usin'
+o-o
+on me.
+end-lyric
+
+ambee sings-desha amenn
+I admit I tend
+o-o
+to distrust math
+o-o
+until I do the
+o-o
+counting or
+o-o
+calculations
+o-o
+myself.
+end-lyric
+
+ambee sings-damien amenn
+So, we've
+o-o
+learned that
+o-o
+ranked ballots
+o-o
+and
+o-o
+pairwise vote
+o-o
+counting
+o-o
+is the key
+o-o
+to less corruption
+o-o
+in Washington
+o-o
+DC.
+o-o
+But do we need
+o-o
+to remember
+o-o
+that guy's name?
+o-o
+Condolences,
+o-o
+or something?
+end-lyric
+
+ambee sings-mathprof amenn
+Pairwise vote
+o-o
+counting
+o-o
+includes
+o-o
+Condorcet
+o-o
+methods,
+o-o
+and some
+o-o
+non hyphen-here Condorcet
+o-o
+methods.
+o-o
+So just remember
+o-o
+the concept of
+o-o
+pairwise
+o-o
+vote counting.
+o-o
+And needing more
+o-o
+than half those votes.
+end-lyric
+
+ambee sings-damien amenn
+Half's a fraction
+o-o
+I can recall.
+o-o
+But I don't
+o-o
+understand
+o-o
+why you made a
+o-o
+big deal out of
+o-o
+the digit
+o-o
+zero.
+end-lyric
+
+ambee sings-mathprof amenn
+It took our
+o-o
+ancestors
+o-o
+hundreds of years
+o-o
+to make the leap
+o-o
+from the number
+o-o
+zero
+o-o
+to the digit
+o-o
+zero.
+o-o
+To us,
+o-o
+in hindsight,
+o-o
+that's slow.
+o-o
+In a similar way
+o-o
+folks in the
+o-o
+distant future
+o-o
+will marvel that
+o-o
+it took so long
+o-o
+for us to use
+o-o
+pairwise counting
+o-o
+for counting votes.
+o-o
+Zero as a digit
+o-o
+changed the world
+o-o
+in marvellous ways.
+o-o
+Similarly
+o-o
+pairwise vote counting
+o-o
+will change the world
+o-o
+in marvellous ways.
+end-lyric
+
+ambee sings-damien amenn
+So just like we
+o-o
+don't know what
+o-o
+we've got til
+o-o
+it's gone,
+o-o
+we don't really
+o-o
+know what's missing
+o-o
+until it can be
+o-o
+seen in
+o-o
+hindsight?
+end-lyric
+
+ambee sings-desha amenn
+I was right.
+o-o
+You
+begin-italics are end-italics
+very bright.
+end-lyric
+
+ambee sings-mathprof amenn
+That's a wise
+o-o
+insight.
+end-lyric
+
+ambee sings-damien amenn
+That's just
+o-o
+common sense.
+o-o
+But what you've
+o-o
+taught us
+o-o
+are hidden
+o-o
+secrets.
+o-o
+The ones those
+o-o
+greedy
+o-o
+...
+end-lyric
+
+ambee sings-desha amenn
+Money
+o-o
+worshippers
+o-o
+...
+end-lyric
+
+ambee sings-damien amenn
+...
+o-o
+business owners
+o-o
+...
+o-o
+don't want us
+o-o
+to find out.
+o-o
+We're grateful
+o-o
+you've guided
+o-o
+us through a
+o-o
+dark long cave
+o-o
+to a rich
+o-o
+treasure chest.
+o-o
+We'll share
+o-o
+what we've
+o-o
+learned.
+end-lyric
+
+ambee sings-mathprof amenn
+Remember your
+o-o
+promise,
+o-o
+...
+o-o
+that you won't
+o-o
+reveal where
+o-o
+they came from.
+end-lyric
+
+ambee sings-damien amenn
+OK, but why?
+end-lyric
+
+ambee sings-mathprof amenn
+I've got tenure,
+o-o
+so I'm not likely
+o-o
+to lose my job.
+o-o
+But I can
+o-o
+lose grants for
+o-o
+my research projects.
+end-lyric
+
+ambee sings-damien amenn
+Ah, 'n some of your
+o-o
+funds come from the
+o-o
+government, right?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes. Lots.
+end-lyric
+
+ambee sings-desha amenn
+When we bite the hand
+o-o
+that feeds you
+o-o
+we won't reveal
+o-o
+who took us off
+o-o
+our leashes.
+end-lyric
+
+ambee sings-damien amenn
+We can say we
+o-o
+learned it from
+o-o
+Wikipedia.
+end-lyric
+
+ambee sings-mathprof amenn
+Only bits of it
+o-o
+are in Wikipedia.
+o-o
+That's because
+o-o
+they require
+o-o
+academic
+o-o
+references,
+o-o
+especially
+o-o
+for
+o-o
+mathematical
+o-o
+topics.
+end-lyric
+
+ambee sings-desha amenn
+And I suppose
+o-o
+those references
+o-o
+don't exist because
+o-o
+governments
+o-o
+don't fund such
+o-o
+research.
+end-lyric
+
+ambee sings-damien amenn
+This is all seeming
+o-o
+like a giant
+o-o
+conspiracy,
+o-o
+except that it's
+o-o
+in plain view.
+end-lyric
+
+ambee sings-desha amenn
+It's hidden
+o-o
+behind the
+o-o
+curtain of
+o-o
+mathematics,
+o-o
+under the
+o-o
+unmarked
+o-o
+trap door
+o-o
+of pairwise
+o-o
+vote counting.
+end-lyric
+
+ambee sings-damien amenn
+Fear of math
+o-o
+keeps it well hidden.
+end-lyric
+
+ambee sings-desha amenn
+This makes it
+o-o
+all the more special
+o-o
+that you've taken
+o-o
+the time to explain
+o-o
+this to us.
+end-lyric
+
+ambee sings-damien amenn
+I'm extremely
+o-o
+grateful.
+o-o
+You've given me,
+o-o
+us, more than I
+o-o
+could ever have
+o-o
+hoped for.
+end-lyric
+
+ambee sings-mathprof amenn
+I love these kinds
+o-o
+of conversations.
+o-o
+I wish textbooks
+o-o
+and those dang
+o-o
+standardized
+o-o
+tests would allow
+o-o
+me to teach more
+o-o
+like this,
+o-o
+without as much
+o-o
+notation
+o-o
+and terminology.
+o-o
+The joy of math
+o-o
+is in the concepts.
+o-o
+That's what counts.
+end-lyric
+
+ambee sings-damien amenn
+I think I'm
+o-o
+beginning to see
+o-o
+a begin-italics fraction end-italics of
+o-o
+that joy in
+o-o
+mathematics.
+end-lyric
+
+ambee sings-desha amenn
+Ah, one more thing.
+o-o
+Since pairwise counting
+o-o
+is a few years off,
+o-o
+what can we do
+o-o
+in the next
+o-o
+election
+o-o
+to fight against
+o-o
+vote splitting?
+end-lyric
+
+ambee sings-mathprof amenn
+Tell your friends,
+o-o
+including the
+o-o
+ones online,
+o-o
+that the
+o-o
+single hyphen-here mark
+o-o
+ballot,
+o-o
+what we use now,
+o-o
+is not asking
+o-o
+begin-italics who is your favorite? end-italics
+end-lyric
+
+ambee sings-damien amenn
+Then what's it
+o-o
+asking?
+end-lyric
+
+ambee sings-desha amenn
+Besides
+o-o
+which loser
+o-o
+do you want
+o-o
+to get stuck
+o-o
+with?
+end-lyric
+
+ambee sings-mathprof amenn
+There is no
+o-o
+easy way
+o-o
+to say
+o-o
+what it's
+o-o
+asking.
+o-o
+And there's no way
+o-o
+to mark a
+o-o
+single hyphen-here mark
+o-o
+ballot to say
+o-o
+begin-italics none of the above end-italics no-space .
+o-o
+And choosing
+o-o
+not to vote
+o-o
+does not express
+o-o
+begin-italics none of the above end-italics no-space .
+o-o
+Instead a
+o-o
+voter needs to
+o-o
+hold their nose
+o-o
+and mark a
+o-o
+candidate
+o-o
+who has a chance
+o-o
+of winning.
+o-o
+Otherwise
+o-o
+they weaken
+o-o
+the candidate
+o-o
+they prefer
+o-o
+who does have
+o-o
+a chance of
+o-o
+winning.
+end-lyric
+
+ambee sings-desha amenn
+But that means
+o-o
+never voting
+o-o
+for a
+o-o
+third hyphen-here party
+o-o
+candidate,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+No.
+o-o
+You can vote for
+o-o
+a third hyphen-here party
+o-o
+candidate
+o-o
+if the
+o-o
+candidate
+o-o
+you most despise
+o-o
+will easily
+o-o
+win.
+o-o
+That means
+o-o
+none of the
+o-o
+opposition
+o-o
+candidates
+o-o
+has a chance
+o-o
+of winning,
+o-o
+so then it
+o-o
+makes sense
+o-o
+to mark your
+o-o
+favorite
+o-o
+opposition
+o-o
+candidate,
+o-o
+which can be
+o-o
+from a third
+o-o
+party.
+end-lyric
+
+ambee sings-damien amenn
+So if Trump
+o-o
+would easily
+o-o
+get re hyphen-here elected
+o-o
+in the next
+o-o
+election,
+o-o
+I could vote
+o-o
+for a Green
+o-o
+candidate?
+end-lyric
+
+ambee sings-mathprof amenn
+That's an
+o-o
+important
+o-o
+exception
+o-o
+because in a
+o-o
+presidential
+o-o
+election
+o-o
+the popular
+o-o
+vote still
+o-o
+matters.
+o-o
+Specifically
+o-o
+the gap between
+o-o
+the
+o-o
+Republican
+o-o
+and the
+o-o
+Democrat
+o-o
+is put under
+o-o
+a microscope
+o-o
+to compare
+o-o
+those counts
+o-o
+with the
+o-o
+electoral
+o-o
+vote count.
+end-lyric
+
+ambee sings-damien amenn
+I thought
+o-o
+presidential
+o-o
+elections
+o-o
+were the most
+o-o
+important
+o-o
+to get right.
+end-lyric
+
+ambee sings-mathprof amenn
+The way to
+o-o
+help defeat
+o-o
+vote splitting
+o-o
+is to vote in
+o-o
+begin-italics both end-italics
+primary
+o-o
+begin-italics and end-italics
+general
+o-o
+elections.
+o-o
+And especially
+o-o
+primary
+o-o
+elections
+o-o
+for members
+o-o
+of Congress.
+end-lyric
+
+ambee sings-damien amenn
+What's the best way
+o-o
+to express
+o-o
+begin-italics none of the above end-italics no-space ?
+end-lyric
+
+ambee sings-mathprof amenn
+Promote the
+o-o
+adoption of
+o-o
+ranked ballots
+o-o
+and pairwise
+o-o
+vote counting.
+end-lyric
+
+ambee sings-desha amenn
+So we should
+o-o
+protest!
+o-o
+With signs that say
+o-o
+...
+o-o
+uh,
+o-o
+what should they say?
+end-lyric
+
+ambee sings-mathprof amenn
+That's a foreign
+o-o
+world to me.
+end-lyric
+
+ambee sings-desha amenn
+Maybe,
+o-o
+...
+o-o
+begin-italics
+pairwise vote
+o-o
+counting
+o-o
+cuts puppet strings end-italics no-space ?
+end-lyric
+
+ambee sings-damien amenn
+Well,
+o-o
+we can work out
+o-o
+that later.
+end-lyric
+
+ambee sings-desha amenn
+And we can hope
+o-o
+that Jon
+o-o
+Oliver
+o-o
+tells us
+o-o
+we're stupid
+o-o
+not to have
+o-o
+been using
+o-o
+pairwise
+o-o
+vote counting.
+end-lyric
+
+ambee sings-damien amenn
+name-mathprof no-space ,
+o-o
+you're a true
+o-o
+guru.
+end-lyric
+
+ambee sings-desha amenn
+Thank you!
+o-o
+All of this has
+o-o
+been so
+o-o
+helpful.
+end-lyric
+
+ambee sings-damien amenn
+Yes, thank you!
+o-o
+Especially,
+o-o
+thanks for teaching me
+o-o
+I'm not a third hyphen-here wit loser.
+end-lyric
+
+ambee sings-desha amenn
+With what
+o-o
+we've learned,
+o-o
+I'm ready
+o-o
+to avenge
+o-o
+the deaths
+o-o
+of my mother
+o-o
+and brother,
+o-o
+who were killed
+o-o
+by the corrupt.
+o-o
+Let's go
+o-o
+out to
+o-o
+obstruct
+o-o
+the
+o-o
+political
+o-o
+status quo.
+end-lyric

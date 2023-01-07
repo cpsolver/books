@@ -1,0 +1,5 @@
+<pitch>
+<step>A</step>
+<alter>0</alter>
+<octave>5</octave>
+</pitch>

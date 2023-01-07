@@ -1,0 +1,5 @@
+begin-note
+voice-drum
+<duration>1</duration>
+<type>rest</type>
+end-note

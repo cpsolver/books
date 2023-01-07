@@ -1,0 +1,6 @@
+ambee begin-measure amenn
+begin-note
+<rest \>
+duration-4
+end-note
+end-measure

@@ -1,0 +1,202 @@
+begin-filename song&#45;rock&#45;demand&#45;full&#45;democracy end-filename
+
+begin-songtitle
+Song title:Give us full democracy
+end-songtitle
+
+begin-comment
+written 2018&#45;January&#45;13
+end-comment
+
+begin-lyric
+
+In DC
+o-o
+we don't have
+o-o
+real democracy.
+o-o
+
+Money talks,
+o-o
+congress listens,
+o-o
+the rich get richer,
+o-o
+we're tired of bitchin'.
+o-o
+
+We want
+o-o
+real democracy.
+o-o
+
+Politicians,
+o-o
+both left and right,
+o-o
+they're puppets,
+o-o
+and it's us they fight.
+o-o
+
+We need
+o-o
+real democracy.
+o-o
+
+Primary elections
+o-o
+have awful choices,
+o-o
+those candidates don't
+o-o
+listen to our voices.
+o-o
+
+We demand
+o-o
+real democracy.
+o-o
+
+On primary ballots
+o-o
+we mark a single choice.
+o-o
+That's divide and conquer,
+o-o
+it throttles our voice.
+o-o
+
+We are overdue
+o-o
+for full democracy.
+o-o
+
+Pairwise counting
+o-o
+eliminates vote splitting.
+o-o
+It will give us leaders
+o-o
+who are hard&#45;hitting.
+o-o
+
+Computers can count
+o-o
+and give us
+o-o
+full democracy.
+o-o
+
+We want true reform,
+o-o
+and far less corruption,
+o-o
+not just a little
+o-o
+bit of disruption.
+o-o
+
+We want a future,
+o-o
+not a planetary eruption.
+o-o
+
+Give us ballots
+o-o
+where we can rank,
+o-o
+not just make a
+o-o
+single mark, no thanks.
+o-o
+
+We want our fair share
+o-o
+of economic pie.
+o-o
+You say there's too little?
+o-o
+You know that's a lie.
+o-o
+
+We want
+o-o
+full democracy.
+o-o
+
+We work harder
+o-o
+than those who push papers
+o-o
+at the top of their
+o-o
+tall skyscrapers.
+o-o
+
+We are workers
+o-o
+who get things done,
+o-o
+while rich profit from us
+o-o
+and steal all the fun.
+o-o
+
+We don't want power
+o-o
+over greedy bitches.
+o-o
+We just want to share
+o-o
+in just some of our team's riches.
+o-o
+
+We all benefit from
+o-o
+full democracy.
+o-o
+
+So give us ranking ballots
+o-o
+and give us pairwise counting,
+o-o
+else in economic debt to you
+o-o
+we will keep on drowning.
+o-o
+
+We can't buy your products
+o-o
+if we can't pay food and rent.
+o-o
+The less we get paid,
+o-o
+the smaller profits you're sent.
+o-o
+
+We sure can't buy stock shares
+o-o
+with what we earn from our toil.
+o-o
+Your grandkids won't inherit much
+o-o
+if the world you spoil.
+o-o
+
+Give us what we've earned,
+o-o
+and stop this planet's burn.
+o-o
+
+Give us pairwise counting
+o-o
+and full democracy.
+o-o
+
+Give us ranking ballots
+o-o
+and full democracy.
+
+end-lyric

@@ -1,0 +1,3 @@
+begin-note
+pitch-301
+voice-piano

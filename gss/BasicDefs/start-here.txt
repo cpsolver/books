@@ -1,0 +1,22 @@
+ambee clear-phrase dashrep-path-prefix-for-file-reading amenn
+ambee clear-phrase dashrep-path-prefix-for-file-writing amenn
+ambee put-into-phrase output-filename-libretto  output_libretto.html  amenn
+ambee delete-file ambee output-filename-libretto amenn amenn
+ambee put-into-phrase output-filename-music  output_music.musicxml  amenn
+ambee delete-file ambee output-filename-music amenn amenn
+ambee expand-text start-here-libretto output-libretto amenn
+ambee copy-from-phrase-append-to-file output-libretto ambee output-filename-libretto amenn amenn
+ambee expand-text start-here-music output-music amenn
+ambee copy-from-phrase-append-to-file output-music ambee output-filename-music amenn amenn
+ambee put-into-phrase dashrep-path-prefix-for-file-writing F:\Important\GitHub\Goat_Spitting_Secret\epub\OPS\ amenn
+ambee expand-text 00-chapter-title-page output-chapter-00 amenn
+ambee expand-text 01-chapter-introduction output-chapter-01 amenn
+ambee expand-text 02-chapter-scene-01-opening output-chapter-02 amenn
+ambee expand-text 03-chapter-scene-02-financial output-chapter-03 amenn
+ambee expand-text 04-chapter-scene-03-political output-chapter-04 amenn
+ambee expand-text 05-chapter-scene-04-darkness output-chapter-05 amenn
+ambee expand-text 06-chapter-scene-05-math output-chapter-06 amenn
+ambee expand-text 07-chapter-scene-06-economic output-chapter-07 amenn
+ambee expand-text 08-chapter-scene-07-ending output-chapter-08 amenn
+ambee expand-text 09-chapter-thanks output-chapter-09 amenn
+ambee use-handler-with-each-word-in-phrase handle-one-chapter list-of-chapter-numbers-two-digits amenn

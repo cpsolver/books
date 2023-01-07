@@ -1,0 +1,49 @@
+begin-music-xml
+ambee
+melody-test
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-500-400
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-500-500-407
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-500-500-500-411
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-405-408-410
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-403-306-310-301
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-409-409-406-404
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-309-306-303-304
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-403-402-401-400
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-404-309-400
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-405-309
+amenn ambee
+p-measure-rest
+amenn ambee
+melody-403-402
+amenn
+end-music-xml

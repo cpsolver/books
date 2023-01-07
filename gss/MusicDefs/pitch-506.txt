@@ -1,0 +1,5 @@
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>5</octave>
+</pitch>

@@ -1,0 +1,196 @@
+begin-title
+title-chapter-09
+end-title
+
+ambee put-into-phrase lyric-number 0900000 amenn
+
+
+begin-basic-paragraph
+Cynthia S.,
+Andrew W.,
+Eduard H.,
+George "Vonnegut" (a comedy writing genius),
+Mia Moore (another comedy writing genius),
+Matt Y.,
+[...]
+end-basic-paragraph
+
+begin-basic-paragraph
+Resources:
+RhymeZone.com,
+Rhymer.com,
+TheFreeDictionary.com,
+Dashrep.org
+end-basic-paragraph
+
+begin-basic-paragraph
+Here's a special posthumous thank you to caregiver
+Lottie Klock
+who taught me joy by giving me unconditional love during infancy.
+end-basic-paragraph
+
+
+
+combee ****
+begin-basic-paragraph
+Find and hire voice actors (later singers) at: CastingCall.club ;
+pay $10 per month for a couple of months
+end-basic-paragraph
+
+begin-basic-paragraph
+The music notation will include many cases of 4/4 or 3/4 time
+switching to 2/4 or 1/4 time for just one measure,
+and then switching back to 4/4 or 3/4 time.
+This occurs when there should be just one or two beats of music,
+either silent or marked by a single note -- such as a percussion instrument or single clap --
+when switching from a singer to a different singer.
+end-basic-paragraph
+
+Lots of people don't have time to read, but do have time to listen to audiobooks, so I need to raise some money to pay voice actors to perform the dialog -- and it's all dialog.
+What credibility do I have for being creative?
+I'm the author of a book titled "The Creative Problem Solver's Toolbox" which has been published around the world in 10 languages.
+end-basic-paragraph
+**** comenn
+
+
+page-break
+
+begin-title
+Voice Actor Casting Requirements
+end-title
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_damien"> no-space
+begin-bold abbrev-damien end-bold
+no-space :</span>
+name-damien no-space , young adult male, tenor voice.
+sentence-next
+Slight Puerto Rican accent.
+sentence-next
+In earlier scenes uses slightly lazy pronounciation (such as lookin' instead of looking) on non hyphen-here important words.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_fiance"> no-space
+begin-bold abbrev-fiance end-bold
+no-space :</span>
+name-fiance no-space , young adult female, soprano or alto voice.
+sentence-next
+Speaks as though raised in an upper middle hyphen-here class family.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_vc"> no-space
+begin-bold abbrev-vc end-bold
+no-space :</span>
+name-vc no-space , middle hyphen-here age adult male, baritone voice.
+sentence-next
+Speaks boldly as if wealthy.
+sentence-next
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_politician"> no-space
+begin-bold abbrev-politician end-bold
+no-space :</span>
+name-politician name-politician-last no-space , older adult male, tenor voice.
+sentence-next
+Speaks like an experienced politician.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_desha"> no-space
+begin-bold abbrev-desha end-bold
+no-space :</span>
+name-desha no-space , young adult female, alto voice.
+combee ****
+mixed race, wild hair, face is good hyphen-here looking but not beautiful, good hyphen-here looking body except for a non hyphen-here slim ass/bottom and thighs
+**** comenn
+sentence-next
+U.S. American accent, but voice sounds like racially she is mixed hyphen-here race with some African hyphen-here American ancestry in addition to European ancestry.
+sentence-next
+Speaks strong political opinions.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_mathprof"> no-space
+begin-bold abbrev-mathprof end-bold
+no-space :</span>
+name-mathprof no-space , middle hyphen-here age female, soprano or alto voice.
+sentence-next
+Sounds like a university professor.
+sentence-next
+Clear enunciation is important.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_econhist"> no-space
+begin-bold abbrev-econhist end-bold
+no-space :</span>
+name-econhist no-space , middle hyphen-here age male, tenor voice.
+sentence-next
+Slight Indian accent, as if he is the son of immigrants from India.
+sentence-next
+(At least pronounces "the" as "thee" rather than "thuh".)
+sentence-next
+Sounds like a university professor.
+sentence-next
+Clear enunciation is important.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_minister"> no-space
+begin-bold abbrev-minister end-bold
+no-space :</span>
+name-minister (pronounced like "wit") no-space , middle hyphen-here age male, tenor voice.
+sentence-next
+Voice sounds like he could be the father of name-desha no-space , who is of mixed hyphen-here race with both African hyphen-here American and European ancestry.
+sentence-next
+Sounds like a wise minister or clergyman.
+sentence-next
+Clear enunciation is important.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+<p class="lyric"><span class="singer_father_of_fiance"> no-space
+begin-bold abbrev-father-of-fiance end-bold
+no-space :</span>
+name-father-of-fiance no-space , middle hyphen-here age male, bass or baritone voice.
+sentence-next
+Sounds like a pompous wealthy person.
+snippet-voice-specs
+end-basic-paragraph
+
+begin-basic-paragraph
+begin-bold Voice requirements for all characters: end-bold
+sentence-next
+The voices need to be natural (full hyphen-here throated and conversational), lively (frequent pitch inflections and word hyphen-here specific loudness changes, although never in the middle of a syllable), and smiling (comedic, but not "funny").
+sentence-next
+A good sense of rhythm, either as a singer or dancer, is desired.
+sentence-next
+When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsiously.
+sentence-next
+The voice acting must not be self hyphen-here conscious, and must not involve shouting.
+sentence-next
+A directed session em-dash either a phone call or Zoom call em-dash initially may be needed, or else approval of samples is needed.
+sentence-next
+A professional hyphen-here quality microphone and silent background is essential.
+sentence-next
+Delivery must be high hyphen-here resolution WAV format.
+end-basic-paragraph
+
+begin-basic-paragraph
+non-breaking-space
+end-basic-paragraph
+
+begin-basic-paragraph
+Additional characteristics are revealed in the dialog.
+end-basic-paragraph

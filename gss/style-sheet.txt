@@ -1,0 +1,107 @@
+combee ****
+REMINDER: For ebook, use stylesheet in epub folder
+**** comenn
+
+<style type=text/css>
+
+html,body,div,span,object,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,code,img,small,strong,dl,dt,dd,ol,ul,li,form,label{
+margin:0;
+padding:0;
+border:0 none;
+outline:0 none;
+vertical-align:baseline;
+}
+
+body{
+background-color:hsl(215,85%,92%);
+background:linear-gradient(270deg,hsla(215,90%,75%,1.0) 0%,hsla(215,100%,90%,1.0) 35%,hsla(215,90%,75%,1.0) 100%);
+text-align:center;
+}
+
+p,object,blockquote,pre,address,code,img,small,strong,dl,dt,dd,ol,ul,li,form,label{
+font-family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans-serif;
+font-size:17px;
+font-weight:normal;
+line-height:130%;
+}
+
+p{
+text-align:left;
+padding:0.1vw 20vw 0.1vw 20vw;
+margin:1.7vw 0vw 1.7vw 0vw;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-family:"Palatino","Georgia","Times",serif;
+font-weight:500;
+line-height:120%;
+padding:0.1vw 20vw 0.1vw 20vw;
+margin:1.7vw 0vw 1.7vw 0vw;
+letter-spacing:0.0rem;
+text-align:center;
+}
+
+h1{
+font-size:26px;
+font-weight:bold;
+letter-spacing:1px;
+}
+
+h2{
+font-size:22px;
+}
+
+h3{
+font-size:20px;
+}
+
+h4{
+font-size:18px;
+}
+
+.lyric,
+.singer,
+.action{
+padding-top:2px;
+padding-bottom:2px;
+margin-top:2px;
+margin-bottom:2px;
+}
+
+.singername,
+.singermainmale,
+.singermainfemale{
+    font-size:108%;
+    color:black;
+}
+
+.singermainmale,
+.singermainfemale{
+    font-weight: bold;
+}
+
+<new_line>
+
+
+
+@media only screen and (max-width: 990px){
+
+p{
+font-size:3.5vw;
+text-align:left;
+padding:2vw 5vw 2vw 5vw;
+margin:2vw 5vw 2vw 5vw;
+}
+
+h1{
+font-size:5vw;
+}
+
+h2{
+font-size:4.5vw;
+}
+
+}
+</style>
+
+<new_line>

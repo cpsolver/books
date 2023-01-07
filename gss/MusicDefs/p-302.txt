@@ -1,0 +1,3 @@
+begin-note
+pitch-302
+voice-piano

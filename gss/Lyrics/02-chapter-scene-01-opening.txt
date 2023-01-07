@@ -1,0 +1,1454 @@
+begin-title
+Scene 1,
+title-chapter-02
+end-title
+
+ambee put-into-phrase lyric-number 0200000 amenn
+
+combee ************
+begin-comment Illustration:
+early evening (end of workday),
+small outdoor balcony, with metal railing, part of condominium building,
+higher than first floor,
+small round table with two outdoor chairs facing it,
+another two identical chairs in corners of balcony,
+Damien sitting somewhat slumped forward onto table with arms on table,
+cup of tea or coffee on table in front of him,
+his fiance standing on right side of table and facing him
+and is holding coffee cup.
+Damien is racially mixed with latino or Puerto Rican parent,
+short, NOT handsome in face but healthy body shape,
+wearing jeans and shirt that would be appropriate for a trade such as installing hardwood floors.
+His fiance is somewhat good looking and later will appear with her father who owns a business that earns lots of money, so she should be somewhat nicely dressed but in casual attire, has healthy body shape but not too beautiful in face.
+end-comment
+************ comenn
+
+ambee sings-fiance-firstuse amenn
+name-damien no-space !
+o-o
+Are you thinking
+o-o
+of jumping off?
+end-lyric
+
+ambee sings-damien-firstuse amenn
+begin-explain Always speaks with lazy pronunciation. end-explain
+o-o
+With today's luck
+o-o
+I'd land on
+o-o
+somethin' soft.
+end-lyric
+
+ambee sings-fiance amenn
+Like marshmallows
+o-o
+in a truck bed?
+o-o
+Or slop from a
+o-o
+pig trough?
+end-lyric
+
+ambee sings-damien amenn
+Or my head.
+end-lyric
+
+ambee sings-fiance amenn
+That would put a dent
+o-o
+...
+o-o
+in paying next month's rent.
+o-o
+What's the matter?
+end-lyric
+
+ambee sings-damien amenn
+I'm feelin' sadder
+o-o
+than a limpin'
+o-o
+seagull
+o-o
+in winter
+o-o
+in Seattle.
+end-lyric
+
+ambee sings-fiance amenn
+How'd you get there?
+end-lyric
+
+ambee sings-damien amenn
+Life's so unfair.
+o-o
+My dream's been shattered.
+end-lyric
+
+ambee sings-fiance amenn
+Which dream's been
+o-o
+fractured?
+o-o
+The picket fence
+o-o
+around a front yard
+o-o
+that's big enough
+o-o
+for a Saint
+o-o
+Bernard?
+end-lyric
+
+ambee sings-damien amenn
+That's your dream.
+o-o
+Mine was to enter
+o-o
+the middle class.
+end-lyric
+
+ambee sings-fiance amenn
+Yeah, to gain
+o-o
+that entrance
+o-o
+you've been bustin'
+o-o
+your ass.
+end-lyric
+
+ambee sings-damien amenn
+My butt's busted.
+o-o
+What more does it take?
+end-lyric
+
+ambee sings-fiance amenn
+Maybe a secret handshake?
+o-o
+What's up?
+end-lyric
+
+ambee sings-damien amenn
+Today my boss
+o-o
+popped my bubble.
+end-lyric
+
+ambee sings-fiance amenn
+Is his business
+o-o
+in trouble?
+end-lyric
+
+ambee sings-damien amenn
+Nah,
+o-o
+but he told me
+o-o
+some stuff,
+o-o
+about some
+o-o
+laws that're rough.
+end-lyric
+
+ambee sings-fiance amenn
+The ones
+o-o
+corporations
+o-o
+can avoid?
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+it's got me
+o-o
+annoyed.
+end-lyric
+
+ambee sings-fiance amenn
+Some corporations
+o-o
+are sneakier than
+o-o
+pickpockets,
+o-o
+con artists,
+o-o
+and kids giving
+o-o
+away free
+o-o
+kittens.
+end-lyric
+
+ambee sings-damien amenn
+Us taxpayers
+o-o
+get pushed to
+o-o
+the edge.
+o-o
+Don't they see?
+o-o
+We're lookin' down
+o-o
+into a volcano
+o-o
+of molten lava
+o-o
+called bankruptcy.
+end-lyric
+
+ambee sings-fiance amenn
+You didn't
+o-o
+tell me
+o-o
+we're this close
+o-o
+to the edge.
+o-o
+How can this be?
+end-lyric
+
+ambee sings-damien amenn
+How is it
+o-o
+we who vote
+o-o
+aren't the ones
+o-o
+keepin' afloat?
+o-o
+We're supposed to have
+o-o
+democracy!
+end-lyric
+
+ambee sings-fiance amenn
+Yes we can vote,
+o-o
+but most candidates
+o-o
+are wimpy puppets,
+o-o
+or slimey con artists.
+end-lyric
+
+ambee sings-damien amenn
+Or third hyphen-here party spoilers.
+o-o
+I hate that sulfurous stink
+o-o
+when I have'ta mark
+o-o
+the lesser fink.
+end-lyric
+
+ambee sings-fiance amenn
+Yeah it's a big kink
+o-o
+in democracy.
+end-lyric
+
+ambee sings-damien amenn
+How come laws
+o-o
+favor the
+o-o
+wealthy?
+o-o
+We make a big fuss,
+o-o
+yet the few rich
+o-o
+outvote us.
+end-lyric
+
+ambee sings-fiance amenn
+I wonder what
+o-o
+happens to
+o-o
+our votes.
+o-o
+Are we just
+o-o
+rabbits living
+o-o
+near a den
+o-o
+of coyotes?
+end-lyric
+
+ambee sings-damien amenn
+I'm beginning
+o-o
+to think the
+o-o
+only
+o-o
+prognosis
+o-o
+is
+o-o
+hopelessness.
+end-lyric
+
+ambee sings-fiance amenn
+Maybe it's hypnosis.
+o-o
+Or the political ads
+o-o
+I suppose.
+end-lyric
+
+ambee sings-damien amenn
+We can
+o-o
+see through those.
+o-o
+Somethin's hidden.
+o-o
+There's gotta be
+o-o
+another villian.
+end-lyric
+
+ambee sings-fiance amenn
+A conspiracy?
+o-o
+A dark hyphen-here money
+o-o
+tyranny?
+o-o
+Or a Bermuda pentagon
+o-o
+with two sides missing?
+end-lyric
+
+ambee sings-damien amenn
+I dunno.
+o-o
+But as my
+o-o
+dad would say,
+o-o
+begin-italics Get to the root
+o-o
+of the problem,
+o-o
+that's where the
+o-o
+solution lay. end-italics
+end-lyric
+
+ambee sings-fiance amenn
+My parents,
+o-o
+they said
+o-o
+with a smirk,
+o-o
+begin-italics Suit up,
+o-o
+show up,
+o-o
+pay attention,
+o-o
+and then
+o-o
+pretend to
+o-o
+work work work end-italics no-space .
+end-lyric
+
+ambee sings-damien amenn
+Yeah I'm
+o-o
+willin' to
+o-o
+bust my ass.
+o-o
+But I'll give it
+o-o
+a pass if we're
+o-o
+followin'
+o-o
+the footsteps
+o-o
+of Native
+o-o
+Americans.
+end-lyric
+
+ambee sings-fiance amenn
+On a warpath?
+end-lyric
+
+ambee sings-damien amenn
+Gettin' herded.
+o-o
+Their shamans spoke
+o-o
+begin-explain speaking clearly end-explain
+o-o
+begin-italics White chieftains
+o-o
+are lyin' wolves
+o-o
+who herd us like
+o-o
+buffalo.
+o-o
+From our
+o-o
+grazing lands
+o-o
+to dry deserts
+o-o
+where foods don't grow.
+o-o
+They feed their greed
+o-o
+beyond their need. end-italics
+end-lyric
+
+ambee sings-fiance amenn
+We're bein' herded indeed.
+o-o
+Something's not right.
+end-lyric
+
+ambee sings-damien amenn
+Damn I wanna know
+o-o
+whose hand
+o-o
+I should bite!
+end-lyric
+
+ambee sings-fiance amenn
+Financially,
+o-o
+our life's so
+o-o
+far upside down
+o-o
+from where I
+o-o
+want it to be.
+end-lyric
+
+ambee sings-damien amenn
+I wanna be an
+o-o
+employer,
+o-o
+but I'm just an
+o-o
+employee.
+end-lyric
+
+ambee sings-fiance amenn
+I wanna be a princess.
+o-o
+But do you see a tiara
+o-o
+on my empty head?
+end-lyric
+
+ambee sings-damien amenn
+When dinner's got
+o-o
+veggies 'n meat,
+o-o
+our car's gas gauge
+o-o
+says stay off
+o-o
+the street.
+end-lyric
+
+ambee sings-fiance amenn
+My dental smile
+o-o
+gives us cheer,
+o-o
+but now when
+o-o
+dining out we
+o-o
+can't afford beer.
+o-o
+Our finances
+o-o
+are dreadful.
+end-lyric
+
+ambee sings-damien amenn
+It's
+o-o
+....
+o-o
+What's that word?
+o-o
+Like evil.
+o-o
+Like diablo.
+end-lyric
+
+ambee sings-fiance amenn
+Diabolical?
+end-lyric
+
+ambee sings-damien amenn
+That's it!
+o-o
+It's diabolical!
+o-o
+It's a shakedown.
+o-o
+The wealthy
+o-o
+say that money
+o-o
+trickles down.
+o-o
+Maybe it does,
+o-o
+temporarily,
+o-o
+but not as fast
+o-o
+as it drains
+o-o
+from our wallet
+o-o
+just for the bare
+o-o
+necessities.
+o-o
+They claim that
+o-o
+workin' hard's
+o-o
+a good bet.
+o-o
+And yet,
+o-o
+Las Vegas
+o-o
+has better
+o-o
+odds at
+o-o
+roulette.
+end-lyric
+
+ambee sings-fiance amenn
+Do you want a
+o-o
+chocolate
+o-o
+truffle?
+end-lyric
+
+ambee sings-damien amenn
+Somethin' brown
+o-o
+to get me down?
+o-o
+No thanks.
+end-lyric
+
+ambee sings-fiance amenn
+They're delicious.
+end-lyric
+
+ambee sings-damien amenn
+I'm suspicious.
+o-o
+Somethin's goin' on
+o-o
+behind our backs.
+end-lyric
+
+ambee sings-fiance amenn
+Yes, right in front
+o-o
+of our eyes.
+end-lyric
+
+ambee sings-damien amenn
+Work 'n cash
+o-o
+should come as
+o-o
+a pair, but
+o-o
+one without
+o-o
+the other,
+o-o
+that's not effin' fair!
+end-lyric
+
+ambee sings-fiance amenn
+Yeah, we're indentured
+o-o
+to jerks
+o-o
+and getting only
+o-o
+table hyphen-here scrap
+o-o
+perks.
+end-lyric
+
+ambee sings-damien amenn
+It ain't right.
+o-o
+The boss I've got's
+o-o
+almost a saint.
+o-o
+Yet he says
+o-o
+he's drownin'
+o-o
+in taxes,
+o-o
+'n licenses,
+o-o
+'n insurance,
+o-o
+'n extra fees.
+o-o
+Just keepin'
+o-o
+track of these,
+o-o
+plus postin'
+o-o
+the Spanish
+o-o
+version of the
+o-o
+pregnancy
+o-o
+accomodation
+o-o
+rules for
+o-o
+dogs and cats,
+o-o
+adds another
+o-o
+employee.
+end-lyric
+
+ambee sings-fiance amenn
+That leaves less
+o-o
+money for me.
+o-o
+Your paycheck's like
+o-o
+a balloon with a leak.
+end-lyric
+
+ambee sings-damien amenn
+Times are bleak.
+o-o
+I know how
+o-o
+to invent
+o-o
+but that don't
+o-o
+pay the rent.
+o-o
+Not yet.
+o-o
+'N it won't
+o-o
+if I'm not
+o-o
+able to own
+o-o
+my own
+o-o
+biz.
+end-lyric
+
+ambee sings-fiance amenn
+I get a
+o-o
+distressed feeling
+o-o
+when I see you
+o-o
+leaning over
+o-o
+our balcony
+o-o
+railing.
+o-o
+I fret
+o-o
+'cause I've read that
+o-o
+suicide is
+o-o
+done by guys who
+o-o
+can't yet find
+o-o
+anyone else
+o-o
+to blame.
+o-o
+So who do you
+o-o
+think's rigged the
+o-o
+political
+o-o
+game?
+end-lyric
+
+ambee sings-damien amenn
+I dunno.
+o-o
+Politics's
+o-o
+so complex.
+end-lyric
+
+ambee sings-fiance amenn
+Yeah,
+o-o
+everything
+o-o
+interconnects.
+end-lyric
+
+ambee sings-damien amenn
+Yet surely
+o-o
+somewhere,
+o-o
+maybe sittin'
+o-o
+in a
+o-o
+yoga pose
+o-o
+on a high
+o-o
+mountaintop,
+o-o
+or kneelin'
+o-o
+at an altar
+o-o
+in a gothic
+o-o
+cathedral,
+o-o
+or standin'
+o-o
+behind a
+o-o
+counter askin'
+o-o
+begin-italics Do you want
+o-o
+cheezy
+o-o
+garlic bread
+o-o
+with your pasta? end-italics no-space ,
+o-o
+there's just gotta
+o-o
+be a geek,
+o-o
+or geekette,
+o-o
+who knows the
+o-o
+secret.
+end-lyric
+
+ambee sings-fiance amenn
+Even Google
+o-o
+can't find that
+o-o
+white grain
+o-o
+of truth
+o-o
+in an
+o-o
+albino cat's
+o-o
+litter box.
+end-lyric
+
+ambee sings-damien amenn
+'Specially 'cause
+o-o
+most online search
+o-o
+has kickback
+o-o
+associations
+o-o
+with big
+o-o
+corporations.
+end-lyric
+
+ambee sings-fiance amenn
+Let's just say
+o-o
+you found a
+o-o
+guru who knew.
+o-o
+What'd be
+o-o
+your query,
+o-o
+specifically?
+end-lyric
+
+ambee sings-damien amenn
+How can we
+o-o
+get better
+o-o
+democracy?
+o-o
+...
+o-o
+Wait.
+o-o
+Not that.
+o-o
+Ah yes,
+o-o
+I'd ask
+o-o
+begin-italics What's at the root
+o-o
+of unfairness
+o-o
+...
+o-o
+in politics
+o-o
+'n business? end-italics
+end-lyric
+
+ambee sings-fiance amenn
+Bright professors
+o-o
+teach at our
+o-o
+city's college.
+o-o
+In political
+o-o
+science
+o-o
+they teach about
+o-o
+the electrical,
+o-o
+er,
+o-o
+electoral
+o-o
+college, and
+o-o
+German dating,
+o-o
+er,
+o-o
+gerrymandation,
+o-o
+and such.
+end-lyric
+
+ambee sings-damien amenn
+name-fiance no-space .
+o-o
+You know
+o-o
+I'd rather
+o-o
+walk into a
+o-o
+rattlesnake cage
+o-o
+than turn
+o-o
+another
+o-o
+textbook page.
+o-o
+Those pages
+o-o
+shake my eyes
+o-o
+faster than
+o-o
+the snake's tail.
+o-o
+My brain throbs
+o-o
+as weaselly
+o-o
+words
+o-o
+try to drag me
+o-o
+through dates 'n
+o-o
+definitions,
+o-o
+'n the names
+o-o
+of Thomas
+o-o
+Jefferson's
+o-o
+pets.
+o-o
+'N tests, those
+o-o
+effin' devils,
+o-o
+just rat out
+o-o
+those of us
+o-o
+who didn't read
+o-o
+the textbook.
+end-lyric
+
+ambee sings-fiance amenn
+Now that's a real
+o-o
+conspiracy.
+o-o
+Textbooks and tests
+o-o
+are in bed together,
+o-o
+making baby
+o-o
+test questions.
+end-lyric
+
+ambee sings-damien amenn
+Just bein'
+o-o
+inside a
+o-o
+classroom feels
+o-o
+like I've stepped
+o-o
+into a
+o-o
+boxin' ring,
+o-o
+wearing not
+o-o
+boxing gloves,
+o-o
+but instead
+o-o
+holding
+o-o
+pom poms.
+end-lyric
+
+ambee sings-fiance amenn
+Ah yes,
+o-o
+community
+o-o
+college classes
+o-o
+already
+o-o
+knocked you out
+o-o
+for the count.
+end-lyric
+
+ambee sings-damien amenn
+Does it matter?
+o-o
+History's just
+o-o
+fat with notes
+o-o
+from the past
+o-o
+that's gone.
+end-lyric
+
+ambee sings-fiance amenn
+Just like
+o-o
+an Elvis
+o-o
+museum.
+end-lyric
+
+ambee sings-damien amenn
+One math teacher
+o-o
+told me one day
+o-o
+that a monkey
+o-o
+...
+o-o
+with a bad
+o-o
+word-resume
+o-o
+...
+o-o
+could have done
+o-o
+better than me
+o-o
+on his tests.
+o-o
+'N fractions,
+o-o
+those were
+o-o
+created
+o-o
+by the devil
+o-o
+...
+o-o
+when he was
+o-o
+in a snit!
+end-lyric
+
+ambee sings-fiance amenn
+I have to
+o-o
+admit,
+o-o
+sometimes
+o-o
+I slipped
+o-o
+just a bit
+o-o
+in the
+o-o
+academic
+o-o
+jungle.
+end-lyric
+
+ambee sings-damien amenn
+Anyways,
+o-o
+do
+o-o
+political
+o-o
+scientists
+o-o
+really
+o-o
+understand
+o-o
+how come
+o-o
+politics's
+o-o
+so perverted,
+o-o
+so inverted?
+o-o
+Surely,
+o-o
+if they
+o-o
+saw clearly,
+o-o
+then Congress
+o-o
+would better
+o-o
+the economy.
+o-o
+'N then we
+o-o
+wouldn't be
+o-o
+stuck in this
+o-o
+financial
+o-o
+muck.
+end-lyric
+
+ambee sings-fiance amenn
+Yeah,
+o-o
+political
+o-o
+scientists
+o-o
+do seem
+o-o
+unscientific.
+o-o
+And times seem
+o-o
+horrific.
+o-o
+I suppose
+o-o
+you're right.
+end-lyric
+
+ambee sings-damien amenn
+Who should I fight?
+o-o
+Where's that thing,
+o-o
+the tiltin' place?
+end-lyric
+
+ambee sings-fiance amenn
+The tipping point?
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+how can we,
+o-o
+the majority,
+o-o
+get to where
+o-o
+we can outvote
+o-o
+the endless
+o-o
+dollars of
+o-o
+one percenters?
+end-lyric
+
+ambee sings-fiance amenn
+Father knows
+o-o
+some jet setters
+o-o
+...
+o-o
+from a distance.
+o-o
+I'll ask him
+o-o
+for assistance.
+end-lyric
+
+ambee sings-damien amenn
+I know I'm not
+o-o
+the sharpest
+o-o
+banana
+o-o
+in the fruit
+o-o
+basket.
+o-o
+But if there
+o-o
+should be
+o-o
+a really
+o-o
+sharp banana,
+o-o
+someone maybe
+o-o
+who can tell me,
+o-o
+without pointing
+o-o
+to a big book,
+o-o
+why the world's
+o-o
+so upside down,
+o-o
+then I'll struggle
+o-o
+to learn.
+o-o
+And then
+o-o
+I'll struggle
+o-o
+to turn
+o-o
+things
+o-o
+right
+o-o
+side
+o-o
+up
+o-o
+so I can earn
+o-o
+more dough.
+end-lyric
+
+ambee sings-fiance amenn
+When you find out
+o-o
+who's to blame,
+o-o
+for corruption
+o-o
+in the
+o-o
+governmental
+o-o
+game,
+o-o
+what then?
+end-lyric
+
+ambee sings-damien amenn
+Then I'll shift
+o-o
+from workin' hard
+o-o
+for the masters
+o-o
+we serve
+o-o
+to earning
+o-o
+the money
+o-o
+we deserve.
+end-lyric
+
+ambee sings-fiance amenn
+If you don't
+o-o
+get out of
+o-o
+your slump,
+o-o
+are you gonna
+o-o
+jump?
+end-lyric
+
+ambee sings-damien amenn
+I won't jump.
+o-o
+I'm not a chump.
+o-o
+It might take
+o-o
+awhile,
+o-o
+but I'll jump
+o-o
+back on the
+o-o
+crocodile
+o-o
+'n keep on
+o-o
+ridin'.
+o-o
+'Cause I'm dyin'.
+o-o
+To know
+o-o
+how come things are
+o-o
+upside down.
+end-lyric
+
+ambee sings-fiance amenn
+As long as you're
+o-o
+not dyin'
+o-o
+on me.
+end-lyric
+
+ambee sings-damien amenn
+Some people say
+o-o
+this is just the
+o-o
+way it'll
+o-o
+always be.
+o-o
+But it's not
+o-o
+OK.
+o-o
+It's not fair!
+o-o
+Seats in Congress
+o-o
+should go to
+o-o
+the wise.
+o-o
+Yet sitting
+o-o
+there now are
+o-o
+selfish liars.
+o-o
+We wanna elect
+o-o
+problem hyphen-here solving
+o-o
+leaders,
+o-o
+but what
+o-o
+do we get?
+o-o
+Egotistic
+o-o
+special hyphen-here interest
+o-o
+puppets
+o-o
+...
+o-o
+whose masters
+o-o
+treat us like
+o-o
+light bulbs.
+end-lyric
+
+ambee sings-fiance amenn
+Yeah, screwed.
+end-lyric
+
+ambee sings-damien amenn
+I wanna change
+o-o
+the world 'n turn
+o-o
+it right side up!
+end-lyric
+
+ambee sings-fiance amenn
+The impossible.
+o-o
+That's part of why
+o-o
+I love you so.
+o-o
+You want things
+o-o
+to be fair.
+o-o
+You really care!
+o-o
+But you'll need lots
+o-o
+and lots of luck.
+end-lyric
+
+ambee sings-damien amenn
+Yet with it
+o-o
+I hope to
+o-o
+discover
+o-o
+a way outta
+o-o
+this muck.
+end-lyric
+
+ambee sings-fiance amenn
+Then finally
+o-o
+we can reach
+o-o
+prosperity.
+end-lyric
+
+ambee sings-damien amenn
+'N suffer less
+o-o
+adversity.
+end-lyric
+
+ambee sings-fiance amenn
+I'll ask father
+o-o
+for assistance.
+end-lyric
+
+ambee sings-damien amenn
+'N I, the dunce,
+o-o
+will use my
+o-o
+soft brain.
+o-o
+As a shovel
+o-o
+to dig down deep
+o-o
+into elephant
+o-o
+'n donkey shit!
+o-o
+My sanity
+o-o
+depends on it.
+end-lyric
