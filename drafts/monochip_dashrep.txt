@@ -1,0 +1,294 @@
+monochip-booklet-contents:
+
+heading-begin
+The Revolution that will End Computer Central Processing Units
+heading-end
+
+paragraph-begin
+Smartphones, and computers, waste huge amounts of time and electricity.
+sentence-next
+Why?
+sentence-next
+All the calculations are done in central processing units.
+sentence-next
+As the word italics-begin central italics-end suggests,
+all the numbers being processed have to wait their turn
+getting to and from the central processing unit.
+sentence-next
+Yes there are lots of ways to speed up that transfer of data.
+sentence-next
+Yet that bottleneck is still there.
+paragraph-end
+
+paragraph-begin
+The secret to making mobile devices that run much, much faster,
+with less waste of battery power,
+is to distribute simple processing units throughout
+each and every computer chip.
+sentence-next
+This means each small group of memory locations will have their own
+simple processing unit.
+paragraph-end
+
+paragraph-begin
+It's like ...
+
+paragraph-end
+
+subheading-begin
+Serial Processing Units, not Central Processing Units
+subheading-end
+
+
+subheading-begin
+Each Sixteen Memory Locations Get Their Own Serial Processing Unit
+subheading-end
+
+
+subheading-begin
+Just Sixteen Instructions
+subheading-end
+
+paragraph-begin
+ADD
+SUBTRACT
+MULTIPLY
+COPY
+paragraph-end
+
+
+subheading-begin
+Derived Operations
+subheading-end
+
+paragraph-begin
+INCREMENT = ADD with YES_OR_NO_INPUT_CARRY = yes , YES_OR_NO_FIRST_BIT_CARRY = yes
+XOR = ADD with YES_OR_NO_INPUT_CARRY = yes , YES_OR_NO_FIRST_BIT_CARRY = no
+ZERO = XOR with self
+NOT = XOR with all ones
+ONES_COMPLEMENT = NOT with INCREMENT
+OR = NOT A , NOT B , XOR , NOT result
+paragraph-end
+
+
+subheading-begin
+Compiler Derived Operations
+subheading-end
+
+paragraph-begin
+DIVIDE
+paragraph-end
+
+
+subheading-begin
+Command Bits
+subheading-end
+
+paragraph-begin
+Here's a list of the command bits.
+paragraph-end
+
+paragraph-begin
+YES_OR_NO_EXCLUSIVE_OR
+YES_OR_NO_ADD
+YES_OR_NO_MULT
+YES_OR_NO_INPUT_CARRY
+YES_OR_NO_FIRST_BIT_CARRY
+YES_OR_NO_OUTPUT_CARRY
+YES_OR_NO_ZERO
+YES_OR_NO_ALL_REGISTERS
+paragraph-end
+
+paragraph-begin
+Here's the complete instruction set.
+paragraph-end
+
+paragraph-begin
+Just four bits per instruction type.
+Can be followed with immediate 4 bits, 8 bits, 12 bits, or 16 bits.
+paragraph-end
+
+paragraph-begin
+CLUSTER_SELECT
+CLUSTER_OFFSET
+NEW_COMMAND
+SEND_COMMAND
+WAIT_FOR_RESULT
+JUMP_IF_YES
+paragraph-end
+
+
+subheading-begin
+Variable Length
+subheading-end
+
+paragraph-begin
+8, 16, 32, 64 bits per memory location,
+can have mixed lengths on the same monochip
+paragraph-end
+
+paragraph-begin
+Reminder: For CMOS, favor two 2-input AND gates going into OR gate
+paragraph-end
+
+
+-----
+
+dashrep-endless-loop-counter-limit:
+200000
+-----
+
+heading-begin:
+<h1>
+-----
+
+heading-end:
+</h1>
+-----
+
+subheading-begin:
+<h2>
+-----
+
+subheading-end:
+</h2>
+-----
+
+paragraph-begin:
+<p>
+-----
+
+paragraph-end:
+</p>
+-----
+
+paragraph-next:
+paragraph-end
+paragraph-begin
+-----
+
+sentence-next:
+no-space &nbsp;
+-----
+
+italics-begin:
+<i> no-space
+-----
+
+italics-end:
+no-space </i>
+-----
+
+bold-begin:
+<b> no-space
+-----
+
+bold-end:
+no-space </b>
+-----
+
+bold-italics-begin:
+bold-begin italics-begin
+-----
+
+line-break:
+<br \>
+-----
+
+em-dash:
+&mdash;
+-----
+
+web-page-begin:
+
+<html>
+new-line
+<head>
+new-line
+<title>monochip</title>
+new-line
+<meta name="copyright" content="Copyright 2023 by Richard Fobes at www.SolutionsCreative.com" />
+new-line
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+new-line
+<meta name="description" content="monochip" />
+new-line
+<meta name="author" content="Richard Fobes" />
+new-line
+<meta http-equiv="copyright" content="Richard Fobes 2023" />
+new-line
+<style type="text/css">
+table {
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: collapse;
+	background-color: white;
+}
+table th {
+	border-width: 1px;
+	padding: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: rgb(255, 240, 240);
+	-moz-border-radius: ;
+}
+table td {
+	border-width: 1px;
+	padding: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: rgb(240, 240, 255);
+	-moz-border-radius: ;
+}
+table {
+	margin-left:30px;
+}
+h1 {
+	margin-left:0px;
+}
+h2 {
+	margin-left:0px;
+}
+h3 {
+	margin-left:30px;
+}
+p {
+	margin-left:60px;
+}
+</style>
+</head>
+new-line
+<body>
+<h1 style="margin-left:80px;">The Monochip</h1>
+new-line
+<p>&nbsp;</p>
+new-line
+new-line
+-----
+
+web-page-end:
+
+<p>&nbsp;</p>
+new-line
+<p>&nbsp;</p>
+new-line
+<p style="margin-left:0px;">Copyright 2023 by Richard Fobes at www.SolutionsCreative.com</p>
+new-line
+new-line
+</body>
+new-line
+</html>
+-----
+
+start-here:
+ambee expand-text web-page-begin expanded-web-page-begin amenn
+ambee append-text-no-space expanded-web-page-begin full-contents-final amenn
+ambee expand-text monochip-booklet-contents expanded-monochip-booklet-contents amenn
+ambee append-text-no-space expanded-monochip-booklet-contents full-contents-final amenn
+ambee expand-text web-page-end expanded-web-page-end amenn
+ambee append-text-no-space expanded-web-page-end full-contents-final amenn
+ambee delete-file monochip.html amenn
+ambee copy-from-phrase-append-to-file  full-contents-final  monochip.html amenn
+-----
