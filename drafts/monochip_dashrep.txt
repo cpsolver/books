@@ -49,13 +49,41 @@ subheading-begin
 Just Sixteen Instructions
 subheading-end
 
-paragraph-begin
+list-begin
+COPY_CHECK_ZERO
+list-next
+OR
+list-next
+EXCLUSIVE_OR
+list-next
+INCREMENT
+list-next
+DECREMENT
+list-next
 ADD
+list-next
+ADD_WITH_CARRY
+list-next
 SUBTRACT
+list-next
+SUBTRACT_WITH_BORROW
+list-next
 MULTIPLY
-COPY
+list-end
+
+paragraph-begin
+Not needed because easy alternative:
 paragraph-end
 
+list-begin
+ZERO = A EXCLUSIVE_OR A
+list-next
+ALL_ONES = decrement zero
+list-next
+NOT = EXCLUSIVE_OR with all ones
+list-next
+ONES_COMPLEMENT = NOT with INCREMENT
+list-end
 
 subheading-begin
 Derived Operations
@@ -64,9 +92,6 @@ subheading-end
 paragraph-begin
 INCREMENT = ADD with YES_OR_NO_INPUT_CARRY = yes , YES_OR_NO_FIRST_BIT_CARRY = yes
 XOR = ADD with YES_OR_NO_INPUT_CARRY = yes , YES_OR_NO_FIRST_BIT_CARRY = no
-ZERO = XOR with self
-NOT = XOR with all ones
-ONES_COMPLEMENT = NOT with INCREMENT
 OR = NOT A , NOT B , XOR , NOT result
 paragraph-end
 
@@ -88,16 +113,23 @@ paragraph-begin
 Here's a list of the command bits.
 paragraph-end
 
-paragraph-begin
+list-begin
 YES_OR_NO_EXCLUSIVE_OR
+list-next
 YES_OR_NO_ADD
+list-next
 YES_OR_NO_MULT
+list-next
 YES_OR_NO_INPUT_CARRY
+list-next
 YES_OR_NO_FIRST_BIT_CARRY
+list-next
 YES_OR_NO_OUTPUT_CARRY
+list-next
 YES_OR_NO_ZERO
+list-next
 YES_OR_NO_ALL_REGISTERS
-paragraph-end
+list-end
 
 paragraph-begin
 Here's the complete instruction set.
@@ -108,14 +140,19 @@ Just four bits per instruction type.
 Can be followed with immediate 4 bits, 8 bits, 12 bits, or 16 bits.
 paragraph-end
 
-paragraph-begin
+list-begin
 CLUSTER_SELECT
+list-next
 CLUSTER_OFFSET
+list-next
 NEW_COMMAND
+list-next
 SEND_COMMAND
+list-next
 WAIT_FOR_RESULT
+list-next
 JUMP_IF_YES
-paragraph-end
+list-end
 
 
 subheading-begin
@@ -126,6 +163,19 @@ paragraph-begin
 8, 16, 32, 64 bits per memory location,
 can have mixed lengths on the same monochip
 paragraph-end
+
+
+paragraph-end
+Chip type is capacitor-based "latches" similar to dynamic memory chips.
+sentence-next
+This dramatically reduces transistor count because a latch requires many transistor.
+sentence-next
+In contrast, there are just two transistors between each capacitor.
+sentence-next
+Those transistors "amplify" the capacitor state at the input and charge or discharge the capacitor at the output.
+sentence-next
+(This might slightly complicate the compiler because it becomes responsible for transferring a capacitor's state before it loses its charge, but that's easy to handle because not all the groups of 16 registers are always being used for storage and processing.)
+paragraph-begin
 
 paragraph-begin
 Reminder: For CMOS, favor two 2-input AND gates going into OR gate
