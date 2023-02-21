@@ -69,10 +69,12 @@ list-next
 SUBTRACT_WITH_BORROW
 list-next
 MULTIPLY
+list-next
+DIVIDE
 list-end
 
 paragraph-begin
-Not needed because easy alternative:
+Not needed because relatively easy alternatives are available:
 paragraph-end
 
 list-begin
@@ -83,6 +85,8 @@ list-next
 NOT = EXCLUSIVE_OR with all ones
 list-next
 ONES_COMPLEMENT = NOT with INCREMENT
+list-next
+Floating point calculations = compiler scales and offsets floating-point (and decimal) numbers to become integers that fit between zero and the largest integer
 list-end
 
 subheading-begin
