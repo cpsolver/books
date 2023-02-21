@@ -1,7 +1,0 @@
-"The Years-In-Prison Movie & Game Rating:  The Entertaining Way To Reduce Crime"
-
-YIP rating is the estimated number of years a person would spend in prison if they were to do everything shown on the screen.
-
-Eight graphical categories: 0, <=1, <=10, <=100, <=1000, <=10000, <=100000, >100000
-
-May need separate number for wartime activities and peacetime activities because otherwise a single grenade killing a dozen soldiers would seem to be equivalent to murdering a dozen people.  Yet they differ because the soldiers are trying to kill the person with a grenade.
