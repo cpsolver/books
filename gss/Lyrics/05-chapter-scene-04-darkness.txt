@@ -861,7 +861,7 @@ end-lyric
 ambee sings-desha amenn
 Let's name this one
 o-o
-Ghandi.
+Gandhi.
 o-o
 Yes this
 o-o
@@ -957,13 +957,39 @@ I thought that
 o-o
 was a good thing.
 o-o
-Now I see
+But so far
 o-o
-it's a bribe
+it's been a bribe
 o-o
-that seduces
+to parties on the
 o-o
-liberals
+liberal side.
+o-o
+While conservative
+o-o
+parties
+o-o
+don't take that bait.
+end-lyric
+
+ambee sings-damien amenn
+They get
+o-o
+their bribes
+o-o
+earlier,
+o-o
+before
+o-o
+election
+o-o
+season starts.
+end-lyric
+
+ambee sings-desha amenn
+So liberals
+o-o
+get seduced
 o-o
 into splitting
 o-o
@@ -1339,7 +1365,7 @@ her dog's poop
 o-o
 because begin-italics her end-italics dog
 o-o
-will poke the poop
+will poke its own poop
 o-o
 with his snout.
 o-o
@@ -1973,15 +1999,49 @@ Willie?
 end-lyric
 
 ambee sings-desha amenn
-What's your
+You just need
 o-o
-disability?
+to study.
 o-o
-Did you never
+School's not
 o-o
-learn to read?
+that hard.
+end-lyric
+
+ambee sings-damien amenn
+I have
 o-o
-Do the words
+some kind of
+o-o
+leak
+o-o
+in my brain.
+end-lyric
+
+ambee sings-desha amenn
+Can you read?
+end-lyric
+
+ambee sings-damien amenn
+Only for a bit.
+o-o
+Then my eyes hurt.
+o-o
+The words on a
+o-o
+page are
+o-o
+literally
+o-o
+a pain to
+o-o
+look at.
+end-lyric
+
+ambee sings-desha amenn
+Do the
+o-o
+words in a book
 o-o
 gallop across
 o-o
@@ -1994,40 +2054,16 @@ o-o
 frenzied
 o-o
 stampede?
-o-o
-Do you nod off
-o-o
-on page seven
-o-o
-and knock
-o-o
-...
-o-o
-your hot cocoa
-o-o
-on your
-o-o
-...
-o-o
-lap?
-o-o
-There's gotta be
-o-o
-somethin' more.
 end-lyric
 
 ambee sings-damien amenn
-My eyes hurt.
+Yeah,
 o-o
-The words on a
+how did you
 o-o
-page are
+get into
 o-o
-literally
-o-o
-a pain to
-o-o
-look at.
+my head?
 end-lyric
 
 ambee sings-desha amenn
@@ -2193,11 +2229,19 @@ from what I
 o-o
 can tell.
 o-o
-About why money
+They know money
 o-o
-works so well
+works like
 o-o
-as puppet strings.
+puppet strings.
+o-o
+But they're
+o-o
+clueless about
+o-o
+vote splitting
+o-o
+and blocking tricks.
 o-o
 Can we fight
 o-o
@@ -2205,7 +2249,7 @@ against cluelessness?
 end-lyric
 
 ambee sings-desha amenn
-If it would help to
+If it will help to
 o-o
 carry a banner
 o-o
@@ -2275,9 +2319,15 @@ distant cousin
 o-o
 Dimley
 o-o
-who blogs for them
+who makes
 o-o
-as a job.
+political
+o-o
+attack videos
+o-o
+as part of
+o-o
+his job.
 o-o
 I know that light
 o-o
