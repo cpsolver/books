@@ -200,23 +200,23 @@ end-lyric
 ambee sings-politician amenn
 Of course
 o-o
-you already
+you realize
 o-o
-realize
+we have to
 o-o
-we have to tell
+tell lies
 o-o
-lies
+...
 o-o
 to voters.
 o-o
 If we told
 o-o
-the voters
+the dumb voters
 o-o
 what we tell
 o-o
-our donors,
+our rich donors,
 o-o
 we'd never win
 o-o
@@ -226,23 +226,19 @@ re hyphen-here election.
 end-lyric
 
 ambee sings-damien amenn
-I suppose
+I suspect
 o-o
 your donors
 o-o
-keep better track
+don't forget
 o-o
-of your promises.
+your promises.
 end-lyric
 
 ambee sings-politician amenn
-They certainly
+Indeed they don't.
 o-o
-make more of
-o-o
-a fuss
-o-o
-'cause they hire
+They hire
 o-o
 lobbyists
 o-o
@@ -250,20 +246,28 @@ to keep track
 o-o
 of us.
 o-o
-They make sure
+And they make
 o-o
-the wording
+such a fuss
 o-o
-of each law
+if we vote
 o-o
-complies
+for a bill
 o-o
-with their
+that might drop
 o-o
-bosses'
+their gross income
 o-o
-desires.
+by the price of
 o-o
+one chocolate mousse.
+end-lyric
+
+ambee sings-damien amenn
+That is gross.
+end-lyric
+
+ambee sings-politician amenn
 Yet the biggest
 o-o
 political
@@ -662,11 +666,15 @@ illuminatin'.
 end-lyric
 
 ambee sings-politician amenn
-Of course the
+Of course
+o-o
+lots of wealthy
+o-o
+folks in the
 o-o
 political down
 o-o
-prefers our party,
+prefer our party,
 o-o
 the Republican
 o-o
@@ -674,19 +682,33 @@ party.
 end-lyric
 
 ambee sings-damien amenn
-That I can see.
+Even I can see that.
 end-lyric
 
 ambee sings-politician amenn
-But also the
+Yet many people
+o-o
+in the
 o-o
 political down
 o-o
-has infiltrated
+have infiltrated
 o-o
 the Democratic
 o-o
 party.
+end-lyric
+
+ambee sings-damien amenn
+Voting in both parties?
+o-o
+That's illegal.
+end-lyric
+
+ambee sings-damien amenn
+You're thinking of votes.
+o-o
+I'm talking about money.
 end-lyric
 
 ambee sings-damien amenn
@@ -698,17 +720,17 @@ political
 o-o
 down
 o-o
-donates money
+gives money
 o-o
 to both
+o-o
+left and right
 o-o
 parties?
 o-o
 That's as stupid
 o-o
-as placin'
-o-o
-first hyphen-here place bets
+as placin' bets
 o-o
 on both horses
 o-o
@@ -722,27 +744,33 @@ Ah, here's a
 o-o
 big secret.
 o-o
-They mostly
+They assist
 o-o
-only assist
+horses,
 o-o
-Democratic
+er, candidates,
 o-o
-candidates
+in their
 o-o
-during begin-italics primary end-italics
+disliked
+o-o
+party
+o-o
+only during
+o-o
+begin-italics primary end-italics
 o-o
 elections.
 o-o
 Of course I'm
 o-o
-simplifying
-o-o
-hugely.
+dumbing things down.
 end-lyric
 
 ambee sings-damien amenn
-Ah, I see!
+That fits my brain.
+o-o
+Now I see!
 o-o
 They use money
 o-o
@@ -762,9 +790,9 @@ election
 o-o
 they just embrace
 o-o
-Republican
+their puppet
 o-o
-candidates?
+candidate?
 end-lyric
 
 ambee sings-politician amenn
@@ -772,25 +800,27 @@ Isn't it
 o-o
 brilliant?
 o-o
-Yet subtle.
+Yet seductive.
 o-o
-Like a
+Like the
 o-o
-gleeming hyphen-here smile
+gleeming smile
 o-o
-model in an
+of a fetching lass
 o-o
-auto ad.
+in an auto ad.
 end-lyric
 
 ambee sings-damien amenn
 Now I'm
 o-o
-beginnin' to
+beginnin' to see
 o-o
-see how come we,
+how come we,
 o-o
-er, most voters,
+er,
+o-o
+most voters,
 o-o
 dislike both
 o-o
@@ -808,21 +838,23 @@ disrespect.
 end-lyric
 
 ambee sings-politician amenn
-We
+A lack of
+o-o
+respect
+o-o
+is what we
 o-o
 politicians
 o-o
-expect
+expect.
 o-o
-a lack of
+We know
 o-o
-respect.
+we're stuck
 o-o
-We know we're stuck
+in the middle,
 o-o
-in the middle.
-o-o
-Between voters
+between voters
 o-o
 and our biggest
 o-o
@@ -862,19 +894,61 @@ when ancient
 o-o
 Roman rulers
 o-o
-distracted
+distracted their
 o-o
-plebians with
+plebians
+o-o
+with dramatic
 o-o
 bloody fighting
 o-o
-among slaves in
-o-o
-their immense
+in their colossal
 o-o
 Colosseum.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
 o-o
-Except that
+your point
+o-o
+is sticking.
+o-o
+It's like the
+o-o
+insurection
+o-o
+on January sixth.
+o-o
+The fighters who
+o-o
+attacked Congress
+o-o
+believed they were
+o-o
+defending democracy.
+o-o
+Yet in reality
+o-o
+they were defending
+o-o
+the party of the
+o-o
+wealthy.
+o-o
+They were duped
+o-o
+by the fake fight
+o-o
+between left
+o-o
+and right.
+end-lyric
+
+ambee sings-politician amenn
+That's the picture.
+o-o
+Nowadays,
 o-o
 modern hyphen-here day
 o-o
@@ -882,11 +956,15 @@ plebians
 o-o
 get to vote
 o-o
-which slave,
+which puppet
 o-o
-er, puppet,
+wins the fight
 o-o
-wins the staged fight.
+on the stage
+o-o
+we call
+o-o
+elections.
 end-lyric
 
 ambee sings-damien amenn
@@ -900,7 +978,7 @@ while
 o-o
 celebrities
 o-o
-are on stage?
+perform on stage?
 end-lyric
 
 ambee sings-politician amenn
@@ -940,7 +1018,9 @@ get a legal
 o-o
 monopoly
 o-o
-they cling to it
+they grasp
+o-o
+onto that
 o-o
 like a
 o-o
@@ -948,11 +1028,11 @@ Titanic
 o-o
 passenger
 o-o
-would clutch
+would cling
 o-o
-a chunk of
+to a spare
 o-o
-styrofoam.
+life vest.
 end-lyric
 
 ambee sings-damien amenn
@@ -1110,27 +1190,31 @@ end-lyric
 ambee sings-politician amenn
 Here's another
 o-o
-division tactic.
+diversion tactic.
 o-o
-Money can fund
+Money from the right
 o-o
-extreme liberal
+can fund
 o-o
-agendas.
+extreme agendas
+o-o
+on the left.
 o-o
 Like when the
 o-o
 LGB category
 o-o
-got extended.
+got extended
 o-o
-To include
+to include
 o-o
 queers and
 o-o
 transgenders.
 o-o
-That scares voters
+That scares
+o-o
+lots of voters
 o-o
 to the right.
 end-lyric
@@ -1238,37 +1322,37 @@ end-lyric
 ambee sings-politician amenn
 Subsidies.
 o-o
-Especially
+Specifically
 o-o
-the taxes
+tax money
 o-o
-that pay for
+that pays for
 o-o
-the canals
+canals in Florida
 o-o
-that sustain
+so farmers
 o-o
-Florida farmers
-o-o
-who grow
+can grow
 o-o
 sugarcane.
 o-o
-But the biggest
+They need that for
 o-o
-financial gain
+the bigger
 o-o
-comes from
+financial gains
+o-o
+that come from
 o-o
 converting
 o-o
 sugarcane into
 o-o
-sugar, and that's
+sugar.
 o-o
-what's done by the
+That's what's done
 o-o
-businesses
+by the businesses
 o-o
 those bros own.
 end-lyric
@@ -1546,9 +1630,7 @@ didn't fight.
 o-o
 Of course,
 o-o
-those counting
-o-o
-experts
+those rule makers
 o-o
 never met my
 o-o
@@ -1562,61 +1644,49 @@ begin-explain Chuckles. end-explain
 end-lyric
 
 ambee sings-politician amenn
-That counting was
+So voting
 o-o
-done to figure
+started out
+o-o
+as counting
+o-o
+to figure
 o-o
 out how many
 o-o
 men would be
 o-o
-in each gang.
-o-o
-And then the
-o-o
-smallest gangs
-o-o
-negotiate
-o-o
-and join forces.
-o-o
-Otherwise they
-o-o
-get slaughtered.
+in each army.
 end-lyric
 
 ambee sings-damien amenn
-So the winner's
+And two small armies
 o-o
-the side that
+would lose against
 o-o
-joins the most gangs
-o-o
-into just one
-o-o
-very big
-o-o
-army?
+one bigger army.
 end-lyric
 
 ambee sings-politician amenn
-Yes, and the
+Yes,
 o-o
-remaining gangs
+if the big army
 o-o
-join together
+can fight just one
 o-o
-to form the
+small army
 o-o
-opposition army.
+at a time.
 o-o
-So it comes down
+That's what dividing
 o-o
-to two armies.
+the enemy enables.
 o-o
-And that's where
+That's why Lincoln
 o-o
-size matters.
+said a house divided
+o-o
+cannot stand.
 end-lyric
 
 ambee sings-damien amenn
@@ -1876,13 +1946,15 @@ well who?
 end-lyric
 
 ambee sings-politician amenn
-Third parties are
+In the U.S.,
 o-o
-almost always
+third parties
+o-o
+that get much funding
+o-o
+are almost always
 o-o
 on the left.
-o-o
-At least in the U.S.
 o-o
 Whenever needed
 o-o
@@ -2022,15 +2094,13 @@ the political
 o-o
 down hires critics
 o-o
-to write comments
+who write
+o-o
+biased comments
 o-o
 in forums,
 o-o
-to record
-o-o
-podcasts,
-o-o
-and to tweet
+and who share
 o-o
 photoshopped
 o-o
@@ -2045,8 +2115,14 @@ o-o
 JFK
 o-o
 shot first.
-o-o
-Plus they hire
+end-lyric
+
+ambee sings-damien amenn
+Conspiracies!
+end-lyric
+
+ambee sings-politician amenn
+And they hire
 o-o
 coders to
 o-o
@@ -2061,16 +2137,28 @@ o-o
 the honest
 o-o
 truth.
+end-lyric
+
+ambee sings-damien amenn
+Can't voters
 o-o
-Plus they track
+see through
 o-o
-and target
+that fake smoke
 o-o
-gullible
+and mirrors?
+end-lyric
+
+ambee sings-politician amenn
+They carefully
 o-o
-voters.
+track and target
 o-o
-Especially
+voters who are
+o-o
+gullible.
+o-o
+Such as
 o-o
 the ones who
 o-o
@@ -2342,15 +2430,15 @@ which politician
 o-o
 deserves
 o-o
-the solo spot.
+that party's
 o-o
-In what
+solo spot
 o-o
-we now call
+on the general
 o-o
-the general
+election
 o-o
-election.
+ballot.
 end-lyric
 
 ambee sings-damien amenn
@@ -2367,6 +2455,10 @@ o-o
 never from
 o-o
 the wrong party.
+o-o
+And the winner's
+o-o
+always a puppet.
 end-lyric
 
 ambee sings-politician amenn
@@ -2496,13 +2588,15 @@ we cannot trace
 o-o
 all donations.
 o-o
-But that's
+Yet when we can
 o-o
-a pattern
+track it,
 o-o
-that often
+that donation
 o-o
-happens.
+pattern often
+o-o
+occurs.
 end-lyric
 
 ambee sings-damien amenn
@@ -2616,13 +2710,29 @@ candidates.
 end-lyric
 
 ambee sings-damien amenn
-Ah,
+Now I'm confused again.
 o-o
-it's becomin'
+How can there be
+o-o
+two Republicans
+o-o
+and two
+o-o
+Democrats
+o-o
+on the ballot?
+o-o
+That would cause
+o-o
+vote splitting.
+o-o
+Some things
+o-o
+are becomin'
 o-o
 clear.
 o-o
-So what can make
+But what can make
 o-o
 the evil split
 o-o
@@ -2740,9 +2850,9 @@ of mathematics.
 end-lyric
 
 ambee sings-damien amenn
-Aye,
+Aiee!
 o-o
-mental
+Scholastic
 o-o
 gymnastics!
 o-o
