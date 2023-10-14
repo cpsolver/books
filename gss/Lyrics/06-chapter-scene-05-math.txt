@@ -2290,7 +2290,7 @@ world uses what's
 o-o
 now called the
 o-o
-single hyphen-here mark ballot.
+single hyphen-here choice ballot.
 end-lyric
 
 ambee sings-desha amenn
@@ -2388,7 +2388,7 @@ And it uses
 o-o
 the
 o-o
-single hyphen-here mark
+single hyphen-here choice
 o-o
 ballot?
 end-lyric
@@ -2432,7 +2432,9 @@ like on Amazon?
 end-lyric
 
 ambee sings-mathprof amenn
-That's called a
+Academically
+o-o
+that's called a
 o-o
 ranked ballot,
 o-o
@@ -2651,6 +2653,12 @@ o-o
 and so on up to
 o-o
 begin-italics seventh choice end-italics no-space .
+o-o
+That's called
+o-o
+a ranked choice
+o-o
+ballot.
 end-lyric
 
 ambee sings-desha amenn
@@ -2828,6 +2836,12 @@ o-o
 If everyone
 o-o
 is honest,
+o-o
+and ranks just one
+o-o
+candidate
+o-o
+at each level,
 o-o
 then that
 o-o
@@ -3207,7 +3221,7 @@ kind of ballot
 o-o
 we use now, the
 o-o
-single hyphen-here mark ballot.
+single hyphen-here choice ballot.
 o-o
 But change the
 o-o
@@ -3652,9 +3666,9 @@ elections.
 o-o
 In fact it's used
 o-o
-in Maine, and
+in Maine, Alaska,
 o-o
-Australia,
+and Australia,
 o-o
 in San Francisco,
 o-o
@@ -3752,7 +3766,15 @@ in Vermont,
 o-o
 and it failed.
 o-o
-The candidate
+And it failed again
+o-o
+in Alaska.
+o-o
+In those two
+o-o
+elections
+o-o
+the candidate
 o-o
 who won
 o-o
@@ -3856,7 +3878,11 @@ that Roberts
 o-o
 Rules of Order
 o-o
-insist on
+have always
+o-o
+insisted
+o-o
+on getting
 o-o
 majority
 o-o
@@ -3865,44 +3891,6 @@ o-o
 to declare
 o-o
 a winner.
-end-lyric
-
-ambee sings-desha amenn
-How do those
-o-o
-rules say to
-o-o
-count votes?
-end-lyric
-
-ambee sings-mathprof amenn
-Those rules don't say
-o-o
-how to get a
-o-o
-majority.
-o-o
-Just that it's
-o-o
-necessary.
-o-o
-They do say
-o-o
-to
-begin-italics
-not
-end-italics
-use
-o-o
-what here we're
-o-o
-calling
-o-o
-instant
-o-o
-runoff
-o-o
-voting.
 end-lyric
 
 ambee sings-damien amenn
@@ -4227,21 +4215,17 @@ vote splitting.
 end-lyric
 
 ambee sings-desha amenn
-If this is
+So this is the
 o-o
-such a great
+best way to make
 o-o
-way to make
+selections
 o-o
-selections,
-o-o
-why isn't it used
-o-o
-for elections?
+in elections?
 end-lyric
 
 ambee sings-mathprof amenn
-Because sometimes
+Sometimes
 o-o
 there's no
 o-o
@@ -4645,33 +4629,17 @@ method.
 end-lyric
 
 ambee sings-damien amenn
-'N is that the
+That method
 o-o
-fairest method?
-end-lyric
-
-ambee sings-mathprof amenn
-More research is
+sounds more
 o-o
-needed to
+complicated
 o-o
-figure out which
+than building
 o-o
-method is best.
-end-lyric
-
-ambee sings-damien amenn
-I thought math was
+a staircase
 o-o
-supposed to be
-o-o
-precise.
-o-o
-How can it be
-o-o
-indecisive
-o-o
-too?
+down to hell.
 end-lyric
 
 ambee sings-desha amenn
@@ -4682,6 +4650,42 @@ o-o
 your landlord
 o-o
 uses.
+end-lyric
+
+ambee sings-damien amenn
+Is that the
+o-o
+fairest method?
+end-lyric
+
+ambee sings-mathprof amenn
+The very fairest
+o-o
+vote hyphen-here counting
+o-o
+system would
+o-o
+combine the best
+o-o
+pieces from lots
+o-o
+of different
+o-o
+methods.
+o-o
+But that's too
+o-o
+complex.
+end-lyric
+
+ambee sings-desha amenn
+So math
+o-o
+has the answers,
+o-o
+but they are
+o-o
+well hidden?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -4698,18 +4702,8 @@ o-o
 a voting method
 o-o
 that has no flaws.
-end-lyric
-
-ambee sings-desha amenn
-So math doesn't
 o-o
-have all the
-o-o
-answers?
-end-lyric
-
-ambee sings-mathprof amenn
-It's complicated.
+So it's complicated.
 end-lyric
 
 ambee sings-desha amenn
@@ -4835,7 +4829,7 @@ learned what's
 o-o
 needed.
 o-o
-Ranked ballots
+Ranked hyphen-here choice ballots
 o-o
 and pairwise
 o-o
@@ -4846,7 +4840,19 @@ end-lyric
 
 ambee sings-mathprof amenn
 There's more.
+end-lyric
+
+ambee sings-damien amenn
+I think I hear
 o-o
+some poisonous
+o-o
+snakes
+o-o
+salivating.
+end-lyric
+
+ambee sings-mathprof amenn
 So far we've
 o-o
 been talking
@@ -5055,7 +5061,7 @@ end-lyric
 ambee sings-mathprof amenn
 In Europe,
 o-o
-instead of
+instead of just
 o-o
 wolves and sheep,
 o-o
@@ -5175,7 +5181,7 @@ unfairness of
 o-o
 still using
 o-o
-single hyphen-here mark ballots.
+single hyphen-here choice ballots.
 o-o
 Yet there are
 o-o
@@ -5324,7 +5330,13 @@ end-lyric
 
 ambee sings-mathprof amenn
 Right.
-o-o
+end-lyric
+
+ambee sings-damien amenn
+Sweet!
+end-lyric
+
+ambee sings-mathprof amenn
 The ballots
 o-o
 of those
@@ -5791,7 +5803,13 @@ So how can the
 o-o
 ballot handle
 o-o
-lots of candidates?
+lots of
+o-o
+candidates
+o-o
+from lots
+o-o
+of parties?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -5919,7 +5937,7 @@ of names.
 o-o
 But the only method
 o-o
-that does all of
+that does most of
 o-o
 what I've described
 o-o
@@ -5975,7 +5993,19 @@ That's confusing.
 end-lyric
 
 ambee sings-mathprof amenn
-Yes, intentionally.
+Yes.
+o-o
+That's another
+o-o
+reason why
+o-o
+we don't teach
+o-o
+this stuff,
+o-o
+even in
+o-o
+college courses.
 end-lyric
 
 ambee sings-damien amenn
@@ -6007,7 +6037,9 @@ but opposition.
 end-lyric
 
 ambee sings-damien amenn
-So it's ranked
+So it's
+o-o
+ranked choice
 o-o
 ballots and
 o-o
@@ -6065,7 +6097,7 @@ So what's the
 o-o
 barrier against
 o-o
-using ranked
+using ranked choice
 o-o
 ballots and
 o-o
@@ -6535,21 +6567,25 @@ a waste.
 end-lyric
 
 ambee sings-mathprof amenn
-That's a different
+The history
 o-o
-field,
+of economics
 o-o
-and yes that would
-o-o
-be boring
+would be boring
 o-o
 for the two of you.
 o-o
-What he teaches
+But that's
 o-o
-is economic
+different from 
 o-o
-history.
+economic
+o-o
+history,
+o-o
+which is what
+o-o
+he teaches.
 o-o
 That's the study
 o-o
@@ -6589,9 +6625,11 @@ that's more math.
 end-lyric
 
 ambee sings-mathprof amenn
-You did great with
+You did great
 o-o
-history in
+understanding
+o-o
+some history about
 o-o
 mathematics.
 o-o
@@ -6607,9 +6645,17 @@ Like tax, debt,
 o-o
 interest,
 o-o
-tariffs, and
+subsidies,
 o-o
-bribes.
+and tariffs.
+end-lyric
+
+ambee sings-desha amenn
+And bribes,
+o-o
+and kickbacks,
+o-o
+and [?].
 end-lyric
 
 ambee sings-damien amenn
@@ -6671,7 +6717,7 @@ So, we've
 o-o
 learned that
 o-o
-ranked ballots
+ranked choice ballots
 o-o
 and
 o-o
@@ -7125,7 +7171,7 @@ ones online,
 o-o
 that the
 o-o
-single hyphen-here mark
+single hyphen-here choice
 o-o
 ballot,
 o-o
@@ -7169,7 +7215,7 @@ And there's no way
 o-o
 to mark a
 o-o
-single hyphen-here mark
+single hyphen-here choice
 o-o
 ballot to say
 o-o
@@ -7395,7 +7441,7 @@ Promote the
 o-o
 adoption of
 o-o
-ranked ballots
+ranked choice ballots
 o-o
 and pairwise
 o-o
