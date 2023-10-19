@@ -67,11 +67,17 @@ Already I'm confused.
 end-lyric
 
 ambee sings-desha amenn
+Let's keep it real.
+o-o
 He doesn't know
 o-o
 about those
 o-o
 special meanings
+o-o
+for pi and
+o-o
+irrational
 o-o
 in the
 o-o
@@ -3932,11 +3938,13 @@ end-lyric
 ambee sings-desha amenn
 Remember that
 o-o
-money is your
+business success
 o-o
-reward for
+is your reward
 o-o
-figuring
+for
+o-o
+sorting
 o-o
 this out.
 end-lyric
@@ -4659,33 +4667,37 @@ fairest method?
 end-lyric
 
 ambee sings-mathprof amenn
+Not always.
+o-o
 The very fairest
 o-o
 vote hyphen-here counting
 o-o
-system would
+system would be
 o-o
-combine the best
+even more complex.
+end-lyric
+
+ambee sings-damien amenn
+So math
 o-o
-pieces from lots
+really is
 o-o
-of different
+the stairway
 o-o
-methods.
-o-o
-But that's too
-o-o
-complex.
+to hell.
 end-lyric
 
 ambee sings-desha amenn
-So math
+Do math
 o-o
-has the answers,
+experts
 o-o
-but they are
+even have
 o-o
-well hidden?
+all the
+o-o
+answers?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -4843,16 +4855,24 @@ There's more.
 end-lyric
 
 ambee sings-damien amenn
-I think I hear
+Now math
 o-o
-some poisonous
+is feeling like
 o-o
-snakes
+a boa constrictor
 o-o
-salivating.
+wrapping around
+o-o
+my lungs.
 end-lyric
 
 ambee sings-mathprof amenn
+Take a deep breath.
+o-o
+This will be
+o-o
+easier.
+o-o
 So far we've
 o-o
 been talking
@@ -5935,15 +5955,15 @@ and they have lots
 o-o
 of names.
 o-o
-But the only method
+The method
 o-o
-that does most of
+that reaches farthest
 o-o
-what I've described
+toward what
 o-o
-under a single
+I've described
 o-o
-name is called
+is called
 o-o
 VoteFair Ranking.
 end-lyric
@@ -5959,7 +5979,7 @@ end-lyric
 ambee sings-mathprof amenn
 VoteFair
 o-o
-is the ranking
+is a ranking
 o-o
 method I like.
 o-o
@@ -5968,6 +5988,18 @@ o-o
 organization
 o-o
 that promotes
+o-o
+what they call
+o-o
+begin-italics ranked choice end-italics
+o-o
+voting,
+o-o
+but that name
+o-o
+actually
+o-o
+covers two methods,
 o-o
 instant runoff
 o-o
@@ -5980,26 +6012,26 @@ o-o
 transferable
 o-o
 vote.
-o-o
-They call those methods
-o-o
-begin-italics ranked choice end-italics
-o-o
-voting.
 end-lyric
 
 ambee sings-desha amenn
 That's confusing.
 end-lyric
 
+ambee sings-damien amenn
+It's overwhelming
+o-o
+to me.
+end-lyric
+
 ambee sings-mathprof amenn
 Yes.
 o-o
-That's another
+It's another
 o-o
-reason why
+reason we
 o-o
-we don't teach
+don't teach
 o-o
 this stuff,
 o-o
@@ -6008,7 +6040,7 @@ o-o
 college courses.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 OK, you like
 o-o
 VoteFair something.
@@ -6089,7 +6121,11 @@ is done by computer,
 o-o
 so a tap on the screen
 o-o
-is all that's needed.
+is all you need
+o-o
+in a real
+o-o
+election.
 end-lyric
 
 ambee sings-desha amenn

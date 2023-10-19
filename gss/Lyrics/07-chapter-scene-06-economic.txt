@@ -334,13 +334,15 @@ right.
 end-lyric
 
 ambee sings-desha amenn
-'N the people
+'N we
 o-o
-who get too little
+the people,
 o-o
-would be people
+who get too little,
 o-o
-in the political
+are in the
+o-o
+political
 o-o
 up.
 end-lyric
@@ -404,9 +406,9 @@ we've figured
 o-o
 out.
 o-o
-And the fact that
+And that
 o-o
-the replacement
+replacement
 o-o
 politicians
 o-o
@@ -418,7 +420,9 @@ as much.
 end-lyric
 
 ambee sings-econhist amenn
-Those replacement
+Yes, those
+o-o
+replacement
 o-o
 politicians
 o-o
@@ -1038,33 +1042,71 @@ because people
 o-o
 buy more products,
 o-o
-pay for more
+and pay for more
 o-o
-services,
+services.
+end-lyric
+
+ambee sings-desha amenn
+And eat out more,
 o-o
-eat out, and
+and make more
 o-o
-make babies.
-o-o
+babies.
+end-lyric
+
+ambee sings-econhist amenn
 But when people
 o-o
 are pessimistic
 o-o
 about the future,
 o-o
-they fearfully cling
+they delay
 o-o
-to their money,
+gratification.
+end-lyric
+
+ambee sings-desha amenn
+That means
 o-o
-so there are
+they eat in,
+o-o
+go on cheaper dates,
+o-o
+travel less,
+o-o
+and buy fewer shoes.
+end-lyric
+
+ambee sings-econhist amenn
+Yes, when people
+o-o
+fearfully
+o-o
+cling to the
+o-o
+money in their
+o-o
+bank account
+o-o
+that pulls
+o-o
+down GDP.
+end-lyric
+
+ambee sings-damien amenn
+That makes sense
+o-o
+'cause there are
 o-o
 fewer transfers
 o-o
 of money.
 o-o
-And when
+And I suppose
 o-o
-they postpone
+when they postpone
 o-o
 making babies,
 o-o
@@ -1073,14 +1115,14 @@ o-o
 future
 o-o
 customers.
-o-o
-All that pulls
-o-o
-down GDP.
 end-lyric
 
 ambee sings-desha amenn
-N' you think
+You are bright.
+o-o
+So name-econhist no-space ,
+o-o
+do you think
 o-o
 people will become
 o-o
@@ -1150,7 +1192,9 @@ certificates
 o-o
 of deposit
 o-o
-don't yield much
+haven't been
+o-o
+yielding much
 o-o
 interest.
 end-lyric
@@ -1744,7 +1788,7 @@ get bad grades
 o-o
 on standardized
 o-o
-tests, right?
+tests.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1790,7 +1834,11 @@ loop?
 end-lyric
 
 ambee sings-desha amenn
-That's different.
+That's a different
+o-o
+kind of
+o-o
+feedback loop.
 o-o
 Dog owners
 o-o
@@ -2000,7 +2048,7 @@ economically.
 end-lyric
 
 ambee sings-desha amenn
-Yet why
+So why
 o-o
 does it seem
 o-o
@@ -2426,7 +2474,7 @@ following.
 o-o
 Since interest
 o-o
-rates are low,
+rates are now low,
 o-o
 that means there's
 o-o
@@ -2594,9 +2642,7 @@ to immigrate
 o-o
 into the U.S.
 o-o
-is still high,
-o-o
-right?
+is still high.
 o-o
 So that
 o-o
@@ -2792,7 +2838,9 @@ end-lyric
 ambee sings-desha amenn
 No,
 o-o
-you've got it
+you've got the
+o-o
+cause and effect
 o-o
 backwards
 o-o
@@ -2893,8 +2941,12 @@ o-o
 when costs
 o-o
 go down.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
 o-o
-Costs went down
+costs went down
 o-o
 when those
 o-o
@@ -2904,31 +2956,39 @@ less time
 o-o
 fetching water,
 o-o
-getting sick
+they got sick less
 o-o
-because of not
+because they had
 o-o
-having water
-o-o
-to wash
+water to wash
 o-o
 their hands,
 o-o
-breaking
+and better roads
 o-o
-ox hyphen-here cart wheels
+gave them a
 o-o
-on bad roads,
+better warranty
 o-o
-getting cheated
+on their
+o-o
+ox hyphen-here cart wheels.
+end-lyric
+
+ambee sings-econhist amenn
+And there was
+o-o
+less cheating
 o-o
 by merchants
 o-o
 who used short
 o-o
-yardsticks,
-o-o
-and getting robbed
+yardsticks.
+end-lyric
+
+ambee sings-desha amenn
+Plus less robbery
 o-o
 by bad
 o-o
@@ -4217,7 +4277,7 @@ o-o
 have made.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Stupidity
 o-o
 at the national
@@ -4378,7 +4438,7 @@ status quo.
 end-lyric
 
 ambee sings-desha amenn
-Status quo ...
+Status quo means ...
 end-lyric
 
 ambee sings-damien amenn
@@ -8366,6 +8426,14 @@ o-o
 but bad for
 o-o
 their customers.
+end-lyric
+
+ambee sings-desha amenn
+And bad
+o-o
+for their
+o-o
+employees.
 end-lyric
 
 ambee sings-damien amenn
