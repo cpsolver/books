@@ -3486,7 +3486,11 @@ ranking.
 o-o
 It uses
 o-o
-ranked ballots.
+ranked
+o-o
+choice
+o-o
+ballots.
 o-o
 They look the same
 o-o
@@ -6687,11 +6691,19 @@ and tariffs.
 end-lyric
 
 ambee sings-desha amenn
-And bribes,
+Don't forget
 o-o
-and kickbacks,
+bribes,
 o-o
-and [?].
+kickbacks,
+o-o
+payoffs,
+o-o
+payola,
+o-o
+and ...
+o-o
+campaign contributions.
 end-lyric
 
 ambee sings-damien amenn

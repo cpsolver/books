@@ -224,7 +224,7 @@ increased prosperity.
 o-o
 And that increase
 o-o
-will feed back to
+later feeds back to
 o-o
 the ones who
 o-o
@@ -1079,6 +1079,16 @@ o-o
 and buy fewer shoes.
 end-lyric
 
+ambee sings-damien amenn
+That's fewer
+o-o
+money transfers,
+o-o
+so GDP
+o-o
+goes down.
+end-lyric
+
 ambee sings-econhist amenn
 Yes, when people
 o-o
@@ -1092,18 +1102,16 @@ bank account
 o-o
 that pulls
 o-o
-down GDP.
+down the
+o-o
+economy
+o-o
+as measured by
+o-o
+GDP.
 end-lyric
 
 ambee sings-damien amenn
-That makes sense
-o-o
-'cause there are
-o-o
-fewer transfers
-o-o
-of money.
-o-o
 And I suppose
 o-o
 when they postpone
@@ -2984,7 +2992,9 @@ by merchants
 o-o
 who used short
 o-o
-yardsticks.
+measuring
+o-o
+sticks.
 end-lyric
 
 ambee sings-desha amenn
@@ -2997,6 +3007,8 @@ end-lyric
 
 ambee sings-damien amenn
 Less time wasted.
+o-o
+Less stealing.
 o-o
 Got it.
 end-lyric
@@ -3584,21 +3596,21 @@ societies,
 o-o
 and fraternal
 o-o
-organizations
-o-o
-that even then
-o-o
-did teamwork
-o-o
-building
-o-o
-through
-o-o
-drinking binges.
+organizations.
 end-lyric
 
 ambee sings-desha amenn
 Corruption!
+o-o
+And their version
+o-o
+of teamwork
+o-o
+building
+o-o
+involved
+o-o
+drinking binges.
 end-lyric
 
 ambee sings-econhist amenn
