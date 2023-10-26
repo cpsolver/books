@@ -31,7 +31,7 @@ name-vc no-space .
 end-lyric
 
 ambee sings-damien amenn
-name-father-of-fiance no-space ,
+Mister name-father-of-fiance-last no-space ,
 o-o
 my fiance's father,
 o-o

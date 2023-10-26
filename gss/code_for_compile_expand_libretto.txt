@@ -1,96 +1,3 @@
-list-of-folders-for-generate-collected-dashdef-files:
-F:\Important\GitHub\Goat_Spitting_Secret\
-----
-source-code-copyright-notice:
-Copyright 2020 by Richard Fobes at www.SolutionsCreative.com ALL RIGHTS RESERVED
-----
-style-sheet:
-combee ****
-REMINDER: For ebook, use stylesheet in epub folder
-**** comenn
-<style type=text/css>
-html,body,div,span,object,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,code,img,small,strong,dl,dt,dd,ol,ul,li,form,label{
-margin:0;
-padding:0;
-border:0 none;
-outline:0 none;
-vertical-align:baseline;
-}
-body{
-background-color:hsl(215,85%,92%);
-background:linear-gradient(270deg,hsla(215,90%,75%,1.0) 0%,hsla(215,100%,90%,1.0) 35%,hsla(215,90%,75%,1.0) 100%);
-text-align:center;
-}
-p,object,blockquote,pre,address,code,img,small,strong,dl,dt,dd,ol,ul,li,form,label{
-font-family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans-serif;
-font-size:17px;
-font-weight:normal;
-line-height:130%;
-}
-p{
-text-align:left;
-padding:0.1vw 20vw 0.1vw 20vw;
-margin:1.7vw 0vw 1.7vw 0vw;
-}
-h1,h2,h3,h4,h5,h6{
-font-family:"Palatino","Georgia","Times",serif;
-font-weight:500;
-line-height:120%;
-padding:0.1vw 20vw 0.1vw 20vw;
-margin:1.7vw 0vw 1.7vw 0vw;
-letter-spacing:0.0rem;
-text-align:center;
-}
-h1{
-font-size:26px;
-font-weight:bold;
-letter-spacing:1px;
-}
-h2{
-font-size:22px;
-}
-h3{
-font-size:20px;
-}
-h4{
-font-size:18px;
-}
-.lyric,
-.singer,
-.action{
-padding-top:2px;
-padding-bottom:2px;
-margin-top:2px;
-margin-bottom:2px;
-}
-.singername,
-.singermainmale,
-.singermainfemale{
- font-size:108%;
- color:black;
-}
-.singermainmale,
-.singermainfemale{
- font-weight: bold;
-}
-<new_line>
-@media only screen and (max-width: 990px){
-p{
-font-size:3.5vw;
-text-align:left;
-padding:2vw 5vw 2vw 5vw;
-margin:2vw 5vw 2vw 5vw;
-}
-h1{
-font-size:5vw;
-}
-h2{
-font-size:4.5vw;
-}
-}
-</style>
-<new_line>
-----
 abbrev-damien:
 D
 ----
@@ -133,7 +40,10 @@ begin-bold:
 begin-centered:
 <p class="classCentered"> no-space
 ----
-begin-chapter:
+begin-comment:
+<p class="comment">Comment:
+----
+begin-epub-chapter:
 <?xml version="1.0" encoding="UTF-8"?>
 <new_line>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
@@ -148,9 +58,6 @@ begin-chapter:
 <new_line>
 <body>
 <new_line>
-----
-begin-comment:
-<p class="comment">Comment:
 ----
 begin-explain:
 <span class="explain">[ no-space
@@ -324,13 +231,24 @@ ambee copy-and-replace text-from-file text-from-file character-newline character
 ambee copy-without-extra-spaces text-from-file text-from-file amenn
 ambee copy-text text-from-file ambee get-phrase-name-from-phrase phrase-name amenn amenn
 ----
+handle-generate-epub:
+ambee expand-text 00-chapter-title-page output-chapter-00 amenn
+ambee expand-text 01-chapter-introduction output-chapter-01 amenn
+ambee expand-text 02-chapter-scene-01-opening output-chapter-02 amenn
+ambee expand-text 03-chapter-scene-02-financial output-chapter-03 amenn
+ambee expand-text 04-chapter-scene-03-political output-chapter-04 amenn
+ambee expand-text 05-chapter-scene-04-darkness output-chapter-05 amenn
+ambee expand-text 06-chapter-scene-05-math output-chapter-06 amenn
+ambee expand-text 07-chapter-scene-06-economic output-chapter-07 amenn
+ambee expand-text 08-chapter-scene-07-ending output-chapter-08 amenn
+ambee expand-text 09-chapter-thanks output-chapter-09 amenn
+----
 handle-one-chapter:
 ambee copy-text word-to-use-in-handler chapter-number-two-digits amenn
 ambee expand-text template-filename-chapter output-filename-chapter amenn
-ambee delete-file ambee output-filename-chapter amenn amenn
 ambee expand-text title-chapter fenambee chapter-number-two-digits amenn chapter-title amenn
-ambee expand-text template-one-chapter output-chapter amenn
-ambee copy-from-phrase-append-to-file output-chapter ambee output-filename-chapter amenn amenn
+ambee expand-text template-output-one-chapter output-one-chapter amenn
+ambee copy-from-phrase-append-to-file output-one-chapter ambee output-filename-html amenn amenn
 ----
 list-of-chapter-numbers-two-digits:
 00
@@ -367,8 +285,14 @@ Sanjay;
 Vassif
 comenn
 ----
+name-father-of-fiance-last:
+Hawken
+----
 name-father-of-fiance:
+Mister Hawken
+***
 Grafton
+***
 ----
 name-fiance:
 Katerina
@@ -459,6 +383,9 @@ next-lyric
 ----
 open-quote:
 " no-space
+----
+output-filename-libretto:
+output_libretto.html
 ----
 page-break:
 new-line
@@ -624,38 +551,112 @@ split-syllable:
 no-space character-hyphen
 ----
 start-here:
+ambee put-into-phrase dashrep-endless-loop-counter-limit 999999999999 amenn
 ambee clear-phrase dashrep-path-prefix-for-file-reading amenn
 ambee clear-phrase dashrep-path-prefix-for-file-writing amenn
-ambee put-into-phrase output-filename-libretto  output_libretto.html  amenn
-ambee delete-file ambee output-filename-libretto amenn amenn
-ambee put-into-phrase output-filename-music  output_music.musicxml  amenn
-ambee delete-file ambee output-filename-music amenn amenn
 ambee expand-text start-here-libretto output-libretto amenn
+ambee delete-file ambee output-filename-libretto amenn amenn
 ambee copy-from-phrase-append-to-file output-libretto ambee output-filename-libretto amenn amenn
-ambee expand-text start-here-music output-music amenn
-ambee copy-from-phrase-append-to-file output-music ambee output-filename-music amenn amenn
-ambee put-into-phrase dashrep-path-prefix-for-file-writing F:\Important\GitHub\Goat_Spitting_Secret\epub\OPS\ amenn
-ambee expand-text 00-chapter-title-page output-chapter-00 amenn
-ambee expand-text 01-chapter-introduction output-chapter-01 amenn
-ambee expand-text 02-chapter-scene-01-opening output-chapter-02 amenn
-ambee expand-text 03-chapter-scene-02-financial output-chapter-03 amenn
-ambee expand-text 04-chapter-scene-03-political output-chapter-04 amenn
-ambee expand-text 05-chapter-scene-04-darkness output-chapter-05 amenn
-ambee expand-text 06-chapter-scene-05-math output-chapter-06 amenn
-ambee expand-text 07-chapter-scene-06-economic output-chapter-07 amenn
-ambee expand-text 08-chapter-scene-07-ending output-chapter-08 amenn
-ambee expand-text 09-chapter-thanks output-chapter-09 amenn
-ambee use-handler-with-each-word-in-phrase handle-one-chapter list-of-chapter-numbers-two-digits amenn
 ----
 string-dot-txt:
 .txt
 ----
-template-filename-chapter:
+style-sheet:
+combee ****
+REMINDER: For ebook, use stylesheet in epub folder
+**** comenn
+<style type=text/css>
+html,body,div,span,object,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,code,img,small,strong,dl,dt,dd,ol,ul,li,form,label{
+margin:0;
+padding:0;
+border:0 none;
+outline:0 none;
+vertical-align:baseline;
+}
+body{
+background-color:hsl(215,85%,92%);
+background:linear-gradient(270deg,hsla(215,90%,75%,1.0) 0%,hsla(215,100%,90%,1.0) 35%,hsla(215,90%,75%,1.0) 100%);
+text-align:center;
+}
+p,object,blockquote,pre,address,code,img,small,strong,dl,dt,dd,ol,ul,li,form,label{
+font-family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans-serif;
+font-size:17px;
+font-weight:normal;
+line-height:130%;
+}
+p{
+text-align:left;
+padding:0.1vw 20vw 0.1vw 20vw;
+margin:1.7vw 0vw 1.7vw 0vw;
+}
+h1,h2,h3,h4,h5,h6{
+font-family:"Palatino","Georgia","Times",serif;
+font-weight:500;
+line-height:120%;
+padding:0.1vw 20vw 0.1vw 20vw;
+margin:1.7vw 0vw 1.7vw 0vw;
+letter-spacing:0.0rem;
+text-align:center;
+}
+h1{
+font-size:26px;
+font-weight:bold;
+letter-spacing:1px;
+}
+h2{
+font-size:22px;
+}
+h3{
+font-size:20px;
+}
+h4{
+font-size:18px;
+}
+.lyric,
+.singer,
+.action{
+padding-top:2px;
+padding-bottom:2px;
+margin-top:2px;
+margin-bottom:2px;
+}
+.singername,
+.singermainmale,
+.singermainfemale{
+ font-size:108%;
+ color:black;
+}
+.singermainmale,
+.singermainfemale{
+ font-weight: bold;
+}
+<new_line>
+@media only screen and (max-width: 990px){
+p{
+font-size:3.5vw;
+text-align:left;
+padding:2vw 5vw 2vw 5vw;
+margin:2vw 5vw 2vw 5vw;
+}
+h1{
+font-size:5vw;
+}
+h2{
+font-size:4.5vw;
+}
+}
+</style>
+<new_line>
+----
+unused-template-filename-chapter:
 oehu_ no-space chapter-number-two-digits no-space .xhtml
 ----
-template-one-chapter:
+unused-template-output-filename-html:
+generated_goat_spitting_secret.html
+----
+unused-template-output-one-chapter:
 begin-chapter
-output-chapter fenambee chapter-number-two-digits amenn
+one-chapter-contents
 end-chapter
 ----
 word-fiance:
@@ -678,7 +679,7 @@ begin-subtitle
 book-subtitle-with-line-breaks
 end-subtitle
 begin-subtitle
-[Draft 2020-October-22]
+[Draft 2023-October-16]
 end-subtitle
 begin-subtitle
 by Richard Fobes
@@ -2191,7 +2192,7 @@ o-o
 name-vc no-space .
 end-lyric
 ambee sings-damien amenn
-name-father-of-fiance no-space ,
+Mister name-father-of-fiance-last no-space ,
 o-o
 my fiance's father,
 o-o
@@ -2869,7 +2870,7 @@ I can't afford
 o-o
 that expense.
 o-o
-Thousands
+At thousands
 o-o
 of dollars,
 o-o
@@ -5653,9 +5654,9 @@ of lots of my
 o-o
 money.
 o-o
-He recently
+He's about
 o-o
-retired from
+to retire from
 o-o
 Congress.
 o-o
@@ -6013,23 +6014,23 @@ end-lyric
 ambee sings-politician amenn
 Of course
 o-o
-you already
+you realize
 o-o
-realize
+we have to
 o-o
-we have to tell
+tell lies
 o-o
-lies
+...
 o-o
 to voters.
 o-o
 If we told
 o-o
-the voters
+the dumb voters
 o-o
 what we tell
 o-o
-our donors,
+our rich donors,
 o-o
 we'd never win
 o-o
@@ -6038,22 +6039,18 @@ o-o
 re hyphen-here election.
 end-lyric
 ambee sings-damien amenn
-I suppose
+I suspect
 o-o
 your donors
 o-o
-keep better track
+don't forget
 o-o
-of your promises.
+your promises.
 end-lyric
 ambee sings-politician amenn
-They certainly
+Indeed they don't.
 o-o
-make more of
-o-o
-a fuss
-o-o
-'cause they hire
+They hire
 o-o
 lobbyists
 o-o
@@ -6061,20 +6058,26 @@ to keep track
 o-o
 of us.
 o-o
-They make sure
+And they make
 o-o
-the wording
+such a fuss
 o-o
-of each law
+if we vote
 o-o
-complies
+for a bill
 o-o
-with their
+that might drop
 o-o
-bosses'
+their gross income
 o-o
-desires.
+by the price of
 o-o
+one chocolate mousse.
+end-lyric
+ambee sings-damien amenn
+That is gross.
+end-lyric
+ambee sings-politician amenn
 Yet the biggest
 o-o
 political
@@ -6447,29 +6450,45 @@ o-o
 illuminatin'.
 end-lyric
 ambee sings-politician amenn
-Of course the
+Of course
+o-o
+lots of wealthy
+o-o
+folks in the
 o-o
 political down
 o-o
-prefers our party,
+prefer our party,
 o-o
 the Republican
 o-o
 party.
 end-lyric
 ambee sings-damien amenn
-That I can see.
+Even I can see that.
 end-lyric
 ambee sings-politician amenn
-But also the
+Yet many people
+o-o
+in the
 o-o
 political down
 o-o
-has infiltrated
+have infiltrated
 o-o
 the Democratic
 o-o
 party.
+end-lyric
+ambee sings-damien amenn
+Voting in both parties?
+o-o
+That's illegal.
+end-lyric
+ambee sings-damien amenn
+You're thinking of votes.
+o-o
+I'm talking about money.
 end-lyric
 ambee sings-damien amenn
 Whoa!
@@ -6480,17 +6499,17 @@ political
 o-o
 down
 o-o
-donates money
+gives money
 o-o
 to both
+o-o
+left and right
 o-o
 parties?
 o-o
 That's as stupid
 o-o
-as placin'
-o-o
-first hyphen-here place bets
+as placin' bets
 o-o
 on both horses
 o-o
@@ -6503,26 +6522,32 @@ Ah, here's a
 o-o
 big secret.
 o-o
-They mostly
+They assist
 o-o
-only assist
+horses,
 o-o
-Democratic
+er, candidates,
 o-o
-candidates
+in their
 o-o
-during begin-italics primary end-italics
+disliked
+o-o
+party
+o-o
+only during
+o-o
+begin-italics primary end-italics
 o-o
 elections.
 o-o
 Of course I'm
 o-o
-simplifying
-o-o
-hugely.
+dumbing things down.
 end-lyric
 ambee sings-damien amenn
-Ah, I see!
+That fits my brain.
+o-o
+Now I see!
 o-o
 They use money
 o-o
@@ -6542,33 +6567,35 @@ election
 o-o
 they just embrace
 o-o
-Republican
+their puppet
 o-o
-candidates?
+candidate?
 end-lyric
 ambee sings-politician amenn
 Isn't it
 o-o
 brilliant?
 o-o
-Yet subtle.
+Yet seductive.
 o-o
-Like a
+Like the
 o-o
-gleeming hyphen-here smile
+gleeming smile
 o-o
-model in an
+of a fetching lass
 o-o
-auto ad.
+in an auto ad.
 end-lyric
 ambee sings-damien amenn
 Now I'm
 o-o
-beginnin' to
+beginnin' to see
 o-o
-see how come we,
+how come we,
 o-o
-er, most voters,
+er,
+o-o
+most voters,
 o-o
 dislike both
 o-o
@@ -6585,21 +6612,23 @@ o-o
 disrespect.
 end-lyric
 ambee sings-politician amenn
-We
+A lack of
+o-o
+respect
+o-o
+is what we
 o-o
 politicians
 o-o
-expect
+expect.
 o-o
-a lack of
+We know
 o-o
-respect.
+we're stuck
 o-o
-We know we're stuck
+in the middle,
 o-o
-in the middle.
-o-o
-Between voters
+between voters
 o-o
 and our biggest
 o-o
@@ -6637,19 +6666,59 @@ when ancient
 o-o
 Roman rulers
 o-o
-distracted
+distracted their
 o-o
-plebians with
+plebians
+o-o
+with dramatic
 o-o
 bloody fighting
 o-o
-among slaves in
-o-o
-their immense
+in their colossal
 o-o
 Colosseum.
+end-lyric
+ambee sings-damien amenn
+Ah,
 o-o
-Except that
+your point
+o-o
+is sticking.
+o-o
+It's like the
+o-o
+insurection
+o-o
+on January sixth.
+o-o
+The fighters who
+o-o
+attacked Congress
+o-o
+believed they were
+o-o
+defending democracy.
+o-o
+Yet in reality
+o-o
+they were defending
+o-o
+the party of the
+o-o
+wealthy.
+o-o
+They were duped
+o-o
+by the fake fight
+o-o
+between left
+o-o
+and right.
+end-lyric
+ambee sings-politician amenn
+That's the picture.
+o-o
+Nowadays,
 o-o
 modern hyphen-here day
 o-o
@@ -6657,11 +6726,15 @@ plebians
 o-o
 get to vote
 o-o
-which slave,
+which puppet
 o-o
-er, puppet,
+wins the fight
 o-o
-wins the staged fight.
+on the stage
+o-o
+we call
+o-o
+elections.
 end-lyric
 ambee sings-damien amenn
 So it's like
@@ -6674,7 +6747,7 @@ while
 o-o
 celebrities
 o-o
-are on stage?
+perform on stage?
 end-lyric
 ambee sings-politician amenn
 That's a bit rough.
@@ -6711,7 +6784,9 @@ get a legal
 o-o
 monopoly
 o-o
-they cling to it
+they grasp
+o-o
+onto that
 o-o
 like a
 o-o
@@ -6719,11 +6794,11 @@ Titanic
 o-o
 passenger
 o-o
-would clutch
+would cling
 o-o
-a chunk of
+to a spare
 o-o
-styrofoam.
+life vest.
 end-lyric
 ambee sings-damien amenn
 Wow!
@@ -6875,34 +6950,36 @@ end-lyric
 ambee sings-politician amenn
 Here's another
 o-o
-division tactic.
+diversion tactic.
 o-o
-Money can fund
+Money from the right
 o-o
-extreme liberal
+can fund
 o-o
-agendas.
+extreme agendas
+o-o
+on the left.
 o-o
 Like when the
 o-o
 LGB category
 o-o
-got extended.
+got extended
 o-o
-To include
+to include
 o-o
 queers and
 o-o
 transgenders.
 o-o
-That scares voters
+That scares
+o-o
+lots of voters
 o-o
 to the right.
 end-lyric
 ambee sings-damien amenn
 Yeah,
-o-o
-out of spite
 o-o
 many voters
 o-o
@@ -6926,6 +7003,25 @@ o-o
 political
 o-o
 tactic.
+end-lyric
+ambee sings-damien amenn
+Yeah,
+o-o
+but it's foolish.
+o-o
+Are voters
+o-o
+forgetting
+o-o
+there's just
+o-o
+two sides?
+o-o
+Like the two
+o-o
+paddles in a
+o-o
+ping-pong game?
 end-lyric
 ambee sings-politician amenn
 Here' something else
@@ -6998,37 +7094,37 @@ end-lyric
 ambee sings-politician amenn
 Subsidies.
 o-o
-Especially
+Specifically
 o-o
-the taxes
+tax money
 o-o
-that pay for
+that pays for
 o-o
-the canals
+canals in Florida
 o-o
-that sustain
+so farmers
 o-o
-Florida farmers
-o-o
-who grow
+can grow
 o-o
 sugarcane.
 o-o
-But the biggest
+They need that for
 o-o
-financial gain
+the bigger
 o-o
-comes from
+financial gains
+o-o
+that come from
 o-o
 converting
 o-o
 sugarcane into
 o-o
-sugar, and that's
+sugar.
 o-o
-what's done by the
+That's what's done
 o-o
-businesses
+by the businesses
 o-o
 those bros own.
 end-lyric
@@ -7290,9 +7386,7 @@ didn't fight.
 o-o
 Of course,
 o-o
-those counting
-o-o
-experts
+those rule makers
 o-o
 never met my
 o-o
@@ -7304,59 +7398,47 @@ ambee sings-damien amenn
 begin-explain Chuckles. end-explain
 end-lyric
 ambee sings-politician amenn
-That counting was
+So voting
 o-o
-done to figure
+started out
+o-o
+as counting
+o-o
+to figure
 o-o
 out how many
 o-o
 men would be
 o-o
-in each gang.
-o-o
-And then the
-o-o
-smallest gangs
-o-o
-negotiate
-o-o
-and join forces.
-o-o
-Otherwise they
-o-o
-get slaughtered.
+in each army.
 end-lyric
 ambee sings-damien amenn
-So the winner's
+And two small armies
 o-o
-the side that
+would lose against
 o-o
-joins the most gangs
-o-o
-into just one
-o-o
-very big
-o-o
-army?
+one bigger army.
 end-lyric
 ambee sings-politician amenn
-Yes, and the
+Yes,
 o-o
-remaining gangs
+if the big army
 o-o
-join together
+can fight just one
 o-o
-to form the
+small army
 o-o
-opposition army.
+at a time.
 o-o
-So it comes down
+That's what dividing
 o-o
-to two armies.
+the enemy enables.
 o-o
-And that's where
+That's why Lincoln
 o-o
-size matters.
+said a house divided
+o-o
+cannot stand.
 end-lyric
 ambee sings-damien amenn
 Ah, so long ago
@@ -7600,13 +7682,15 @@ o-o
 well who?
 end-lyric
 ambee sings-politician amenn
-Third parties are
+In the U.S.,
 o-o
-almost always
+third parties
+o-o
+that get much funding
+o-o
+are almost always
 o-o
 on the left.
-o-o
-At least in the U.S.
 o-o
 Whenever needed
 o-o
@@ -7740,15 +7824,13 @@ the political
 o-o
 down hires critics
 o-o
-to write comments
+who write
+o-o
+biased comments
 o-o
 in forums,
 o-o
-to record
-o-o
-podcasts,
-o-o
-and to tweet
+and who share
 o-o
 photoshopped
 o-o
@@ -7763,8 +7845,12 @@ o-o
 JFK
 o-o
 shot first.
-o-o
-Plus they hire
+end-lyric
+ambee sings-damien amenn
+Conspiracies!
+end-lyric
+ambee sings-politician amenn
+And they hire
 o-o
 coders to
 o-o
@@ -7779,16 +7865,26 @@ o-o
 the honest
 o-o
 truth.
+end-lyric
+ambee sings-damien amenn
+Can't voters
 o-o
-Plus they track
+see through
 o-o
-and target
+that fake smoke
 o-o
-gullible
+and mirrors?
+end-lyric
+ambee sings-politician amenn
+They carefully
 o-o
-voters.
+track and target
 o-o
-Especially
+voters who are
+o-o
+gullible.
+o-o
+Such as
 o-o
 the ones who
 o-o
@@ -7846,27 +7942,27 @@ to re hyphen-here post the
 o-o
 clever meme
 o-o
-he created to
+he created
 o-o
-trash Hillary
+to trash
 o-o
-Clinton.
+Joe Biden.
 o-o
-And you should know
+As you know,
 o-o
-attack ads also work.
+attack ads work.
 o-o
-Because lots of
+Lots of voters
 o-o
-voters get swayed
+get swayed
 o-o
 by believing
 o-o
 that expression
 o-o
-begin-italics the enemy of
+begin-italics the enemy
 o-o
-my enemy
+of my enemy
 o-o
 is my friend end-italics no-space .
 end-lyric
@@ -8050,15 +8146,15 @@ which politician
 o-o
 deserves
 o-o
-the solo spot.
+that party's
 o-o
-In what
+solo spot
 o-o
-we now call
+on the general
 o-o
-the general
+election
 o-o
-election.
+ballot.
 end-lyric
 ambee sings-damien amenn
 Ah!
@@ -8074,6 +8170,10 @@ o-o
 never from
 o-o
 the wrong party.
+o-o
+And the winner's
+o-o
+always a puppet.
 end-lyric
 ambee sings-politician amenn
 Indeed!
@@ -8192,13 +8292,15 @@ we cannot trace
 o-o
 all donations.
 o-o
-But that's
+Yet when we can
 o-o
-a pattern
+track it,
 o-o
-that often
+that donation
 o-o
-happens.
+pattern often
+o-o
+occurs.
 end-lyric
 ambee sings-damien amenn
 The
@@ -8307,13 +8409,29 @@ o-o
 candidates.
 end-lyric
 ambee sings-damien amenn
-Ah,
+Now I'm confused again.
 o-o
-it's becomin'
+How can there be
+o-o
+two Republicans
+o-o
+and two
+o-o
+Democrats
+o-o
+on the ballot?
+o-o
+That would cause
+o-o
+vote splitting.
+o-o
+Some things
+o-o
+are becomin'
 o-o
 clear.
 o-o
-So what can make
+But what can make
 o-o
 the evil split
 o-o
@@ -8334,7 +8452,11 @@ Giving them
 o-o
 their own ulcers.
 o-o
-So I retired.
+So I won't be
+o-o
+running for
+o-o
+re-election.
 o-o
 That's why I can
 o-o
@@ -8427,9 +8549,9 @@ o-o
 of mathematics.
 end-lyric
 ambee sings-damien amenn
-Aye,
+Aiee!
 o-o
-mental
+Scholastic
 o-o
 gymnastics!
 o-o
@@ -9417,7 +9539,7 @@ end-lyric
 ambee sings-desha amenn
 Let's name this one
 o-o
-Ghandi.
+Gandhi.
 o-o
 Yes this
 o-o
@@ -9509,13 +9631,37 @@ I thought that
 o-o
 was a good thing.
 o-o
-Now I see
+But so far
 o-o
-it's a bribe
+it's been a bribe
 o-o
-that seduces
+to parties on the
 o-o
-liberals
+liberal side.
+o-o
+While conservative
+o-o
+parties
+o-o
+don't take that bait.
+end-lyric
+ambee sings-damien amenn
+They get
+o-o
+their bribes
+o-o
+earlier,
+o-o
+before
+o-o
+election
+o-o
+season starts.
+end-lyric
+ambee sings-desha amenn
+So liberals
+o-o
+get seduced
 o-o
 into splitting
 o-o
@@ -9839,15 +9985,17 @@ end-lyric
 ambee sings-desha amenn
 Like not picking
 o-o
-up dog poop, 'n
+up dog poop,
 o-o
-not wearing
+'n not wearing
 o-o
 a face mask
 o-o
-during an
+in public
 o-o
-epidemic.
+when you've got
+o-o
+a cough.
 end-lyric
 ambee sings-damien amenn
 You're dancin'
@@ -9869,7 +10017,7 @@ her dog's poop
 o-o
 because begin-italics her end-italics dog
 o-o
-will poke the poop
+will poke its own poop
 o-o
 with his snout.
 o-o
@@ -10453,15 +10601,45 @@ o-o
 Willie?
 end-lyric
 ambee sings-desha amenn
-What's your
+You just need
 o-o
-disability?
+to study.
 o-o
-Did you never
+School's not
 o-o
-learn to read?
+that hard.
+end-lyric
+ambee sings-damien amenn
+I have
 o-o
-Do the words
+some kind of
+o-o
+leak
+o-o
+in my brain.
+end-lyric
+ambee sings-desha amenn
+Can you read?
+end-lyric
+ambee sings-damien amenn
+Only for a bit.
+o-o
+Then my eyes hurt.
+o-o
+The words on a
+o-o
+page are
+o-o
+literally
+o-o
+a pain to
+o-o
+look at.
+end-lyric
+ambee sings-desha amenn
+Do the
+o-o
+words in a book
 o-o
 gallop across
 o-o
@@ -10474,39 +10652,15 @@ o-o
 frenzied
 o-o
 stampede?
-o-o
-Do you nod off
-o-o
-on page seven
-o-o
-and knock
-o-o
-...
-o-o
-your hot cocoa
-o-o
-on your
-o-o
-...
-o-o
-lap?
-o-o
-There's gotta be
-o-o
-somethin' more.
 end-lyric
 ambee sings-damien amenn
-My eyes hurt.
+Yeah,
 o-o
-The words on a
+how did you
 o-o
-page are
+get into
 o-o
-literally
-o-o
-a pain to
-o-o
-look at.
+my head?
 end-lyric
 ambee sings-desha amenn
 Have you tried
@@ -10662,18 +10816,26 @@ from what I
 o-o
 can tell.
 o-o
-About why money
+They know money
 o-o
-works so well
+works like
 o-o
-as puppet strings.
+puppet strings.
+o-o
+But they're
+o-o
+clueless about
+o-o
+vote splitting
+o-o
+and blocking tricks.
 o-o
 Can we fight
 o-o
 against cluelessness?
 end-lyric
 ambee sings-desha amenn
-If it would help to
+If it will help to
 o-o
 carry a banner
 o-o
@@ -10741,9 +10903,15 @@ distant cousin
 o-o
 Dimley
 o-o
-who blogs for them
+who makes
 o-o
-as a job.
+political
+o-o
+attack videos
+o-o
+as part of
+o-o
+his job.
 o-o
 I know that light
 o-o
@@ -10909,11 +11077,17 @@ ambee sings-damien amenn
 Already I'm confused.
 end-lyric
 ambee sings-desha amenn
+Let's keep it real.
+o-o
 He doesn't know
 o-o
 about those
 o-o
 special meanings
+o-o
+for pi and
+o-o
+irrational
 o-o
 in the
 o-o
@@ -13000,7 +13174,7 @@ world uses what's
 o-o
 now called the
 o-o
-single hyphen-here mark ballot.
+single hyphen-here choice ballot.
 end-lyric
 ambee sings-desha amenn
 'Cause we can
@@ -13092,7 +13266,7 @@ And it uses
 o-o
 the
 o-o
-single hyphen-here mark
+single hyphen-here choice
 o-o
 ballot?
 end-lyric
@@ -13132,7 +13306,9 @@ o-o
 like on Amazon?
 end-lyric
 ambee sings-mathprof amenn
-That's called a
+Academically
+o-o
+that's called a
 o-o
 ranked ballot,
 o-o
@@ -13339,6 +13515,12 @@ o-o
 and so on up to
 o-o
 begin-italics seventh choice end-italics no-space .
+o-o
+That's called
+o-o
+a ranked choice
+o-o
+ballot.
 end-lyric
 ambee sings-desha amenn
 What happens
@@ -13503,6 +13685,12 @@ o-o
 If everyone
 o-o
 is honest,
+o-o
+and ranks just one
+o-o
+candidate
+o-o
+at each level,
 o-o
 then that
 o-o
@@ -13856,7 +14044,7 @@ kind of ballot
 o-o
 we use now, the
 o-o
-single hyphen-here mark ballot.
+single hyphen-here choice ballot.
 o-o
 But change the
 o-o
@@ -14096,7 +14284,11 @@ ranking.
 o-o
 It uses
 o-o
-ranked ballots.
+ranked
+o-o
+choice
+o-o
+ballots.
 o-o
 They look the same
 o-o
@@ -14273,9 +14465,9 @@ elections.
 o-o
 In fact it's used
 o-o
-in Maine, and
+in Maine, Alaska,
 o-o
-Australia,
+and Australia,
 o-o
 in San Francisco,
 o-o
@@ -14369,7 +14561,15 @@ in Vermont,
 o-o
 and it failed.
 o-o
-The candidate
+And it failed again
+o-o
+in Alaska.
+o-o
+In those two
+o-o
+elections
+o-o
+the candidate
 o-o
 who won
 o-o
@@ -14466,7 +14666,11 @@ that Roberts
 o-o
 Rules of Order
 o-o
-insist on
+have always
+o-o
+insisted
+o-o
+on getting
 o-o
 majority
 o-o
@@ -14475,42 +14679,6 @@ o-o
 to declare
 o-o
 a winner.
-end-lyric
-ambee sings-desha amenn
-How do those
-o-o
-rules say to
-o-o
-count votes?
-end-lyric
-ambee sings-mathprof amenn
-Those rules don't say
-o-o
-how to get a
-o-o
-majority.
-o-o
-Just that it's
-o-o
-necessary.
-o-o
-They do say
-o-o
-to
-begin-italics
-not
-end-italics
-use
-o-o
-what here we're
-o-o
-calling
-o-o
-instant
-o-o
-runoff
-o-o
-voting.
 end-lyric
 ambee sings-damien amenn
 So getting more
@@ -14548,11 +14716,13 @@ end-lyric
 ambee sings-desha amenn
 Remember that
 o-o
-money is your
+business success
 o-o
-reward for
+is your reward
 o-o
-figuring
+for
+o-o
+sorting
 o-o
 this out.
 end-lyric
@@ -14809,20 +14979,16 @@ o-o
 vote splitting.
 end-lyric
 ambee sings-desha amenn
-If this is
+So this is the
 o-o
-such a great
+best way to make
 o-o
-way to make
+selections
 o-o
-selections,
-o-o
-why isn't it used
-o-o
-for elections?
+in elections?
 end-lyric
 ambee sings-mathprof amenn
-Because sometimes
+Sometimes
 o-o
 there's no
 o-o
@@ -15207,31 +15373,17 @@ o-o
 method.
 end-lyric
 ambee sings-damien amenn
-'N is that the
+That method
 o-o
-fairest method?
-end-lyric
-ambee sings-mathprof amenn
-More research is
+sounds more
 o-o
-needed to
+complicated
 o-o
-figure out which
+than building
 o-o
-method is best.
-end-lyric
-ambee sings-damien amenn
-I thought math was
+a staircase
 o-o
-supposed to be
-o-o
-precise.
-o-o
-How can it be
-o-o
-indecisive
-o-o
-too?
+down to hell.
 end-lyric
 ambee sings-desha amenn
 Maybe that's the
@@ -15241,6 +15393,42 @@ o-o
 your landlord
 o-o
 uses.
+end-lyric
+ambee sings-damien amenn
+Is that the
+o-o
+fairest method?
+end-lyric
+ambee sings-mathprof amenn
+Not always.
+o-o
+The very fairest
+o-o
+vote hyphen-here counting
+o-o
+system would be
+o-o
+even more complex.
+end-lyric
+ambee sings-damien amenn
+So math
+o-o
+really is
+o-o
+the stairway
+o-o
+to hell.
+end-lyric
+ambee sings-desha amenn
+Do math
+o-o
+experts
+o-o
+even have
+o-o
+all the
+o-o
+answers?
 end-lyric
 ambee sings-mathprof amenn
 There's a
@@ -15256,16 +15444,8 @@ o-o
 a voting method
 o-o
 that has no flaws.
-end-lyric
-ambee sings-desha amenn
-So math doesn't
 o-o
-have all the
-o-o
-answers?
-end-lyric
-ambee sings-mathprof amenn
-It's complicated.
+So it's complicated.
 end-lyric
 ambee sings-desha amenn
 Sounds like life and
@@ -15382,7 +15562,7 @@ learned what's
 o-o
 needed.
 o-o
-Ranked ballots
+Ranked hyphen-here choice ballots
 o-o
 and pairwise
 o-o
@@ -15392,6 +15572,24 @@ So are we done?
 end-lyric
 ambee sings-mathprof amenn
 There's more.
+end-lyric
+ambee sings-damien amenn
+Now math
+o-o
+is feeling like
+o-o
+a boa constrictor
+o-o
+wrapping around
+o-o
+my lungs.
+end-lyric
+ambee sings-mathprof amenn
+Take a deep breath.
+o-o
+This will be
+o-o
+easier.
 o-o
 So far we've
 o-o
@@ -15590,7 +15788,7 @@ end-lyric
 ambee sings-mathprof amenn
 In Europe,
 o-o
-instead of
+instead of just
 o-o
 wolves and sheep,
 o-o
@@ -15701,7 +15899,7 @@ unfairness of
 o-o
 still using
 o-o
-single hyphen-here mark ballots.
+single hyphen-here choice ballots.
 o-o
 Yet there are
 o-o
@@ -15840,7 +16038,11 @@ right?
 end-lyric
 ambee sings-mathprof amenn
 Right.
-o-o
+end-lyric
+ambee sings-damien amenn
+Sweet!
+end-lyric
+ambee sings-mathprof amenn
 The ballots
 o-o
 of those
@@ -16282,7 +16484,13 @@ So how can the
 o-o
 ballot handle
 o-o
-lots of candidates?
+lots of
+o-o
+candidates
+o-o
+from lots
+o-o
+of parties?
 end-lyric
 ambee sings-mathprof amenn
 A separate
@@ -16399,15 +16607,15 @@ and they have lots
 o-o
 of names.
 o-o
-But the only method
+The method
 o-o
-that does all of
+that reaches farthest
 o-o
-what I've described
+toward what
 o-o
-under a single
+I've described
 o-o
-name is called
+is called
 o-o
 VoteFair Ranking.
 end-lyric
@@ -16420,7 +16628,7 @@ end-lyric
 ambee sings-mathprof amenn
 VoteFair
 o-o
-is the ranking
+is a ranking
 o-o
 method I like.
 o-o
@@ -16429,6 +16637,18 @@ o-o
 organization
 o-o
 that promotes
+o-o
+what they call
+o-o
+begin-italics ranked choice end-italics
+o-o
+voting,
+o-o
+but that name
+o-o
+actually
+o-o
+covers two methods,
 o-o
 instant runoff
 o-o
@@ -16441,20 +16661,31 @@ o-o
 transferable
 o-o
 vote.
-o-o
-They call those methods
-o-o
-begin-italics ranked choice end-italics
-o-o
-voting.
 end-lyric
 ambee sings-desha amenn
 That's confusing.
 end-lyric
-ambee sings-mathprof amenn
-Yes, intentionally.
-end-lyric
 ambee sings-damien amenn
+It's overwhelming
+o-o
+to me.
+end-lyric
+ambee sings-mathprof amenn
+Yes.
+o-o
+It's another
+o-o
+reason we
+o-o
+don't teach
+o-o
+this stuff,
+o-o
+even in
+o-o
+college courses.
+end-lyric
+ambee sings-desha amenn
 OK, you like
 o-o
 VoteFair something.
@@ -16481,7 +16712,9 @@ o-o
 but opposition.
 end-lyric
 ambee sings-damien amenn
-So it's ranked
+So it's
+o-o
+ranked choice
 o-o
 ballots and
 o-o
@@ -16527,14 +16760,18 @@ is done by computer,
 o-o
 so a tap on the screen
 o-o
-is all that's needed.
+is all you need
+o-o
+in a real
+o-o
+election.
 end-lyric
 ambee sings-desha amenn
 So what's the
 o-o
 barrier against
 o-o
-using ranked
+using ranked choice
 o-o
 ballots and
 o-o
@@ -16968,21 +17205,25 @@ o-o
 a waste.
 end-lyric
 ambee sings-mathprof amenn
-That's a different
+The history
 o-o
-field,
+of economics
 o-o
-and yes that would
-o-o
-be boring
+would be boring
 o-o
 for the two of you.
 o-o
-What he teaches
+But that's
 o-o
-is economic
+different from 
 o-o
-history.
+economic
+o-o
+history,
+o-o
+which is what
+o-o
+he teaches.
 o-o
 That's the study
 o-o
@@ -17018,9 +17259,11 @@ o-o
 that's more math.
 end-lyric
 ambee sings-mathprof amenn
-You did great with
+You did great
 o-o
-history in
+understanding
+o-o
+some history about
 o-o
 mathematics.
 o-o
@@ -17036,9 +17279,24 @@ Like tax, debt,
 o-o
 interest,
 o-o
-tariffs, and
+subsidies,
 o-o
-bribes.
+and tariffs.
+end-lyric
+ambee sings-desha amenn
+Don't forget
+o-o
+bribes,
+o-o
+kickbacks,
+o-o
+payoffs,
+o-o
+payola,
+o-o
+and ...
+o-o
+campaign contributions.
 end-lyric
 ambee sings-damien amenn
 I'm a dummy
@@ -17095,7 +17353,7 @@ So, we've
 o-o
 learned that
 o-o
-ranked ballots
+ranked choice ballots
 o-o
 and
 o-o
@@ -17522,7 +17780,7 @@ ones online,
 o-o
 that the
 o-o
-single hyphen-here mark
+single hyphen-here choice
 o-o
 ballot,
 o-o
@@ -17563,7 +17821,7 @@ And there's no way
 o-o
 to mark a
 o-o
-single hyphen-here mark
+single hyphen-here choice
 o-o
 ballot to say
 o-o
@@ -17781,7 +18039,7 @@ Promote the
 o-o
 adoption of
 o-o
-ranked ballots
+ranked choice ballots
 o-o
 and pairwise
 o-o
@@ -17900,7 +18158,7 @@ o-o
 status quo.
 end-lyric
 ----
-07-chapter-scene-06-economic:
+07-chapter-scene-06-economic-part-1:
 begin-title
 Scene 6,
 title-chapter-07
@@ -18092,7 +18350,9 @@ greatly profit
 o-o
 from existing
 o-o
-conditions will
+conditions might
+o-o
+temporarily
 o-o
 earn less money,
 o-o
@@ -18101,6 +18361,18 @@ o-o
 else will enjoy
 o-o
 increased prosperity.
+o-o
+And that increase
+o-o
+later feeds back to
+o-o
+the ones who
+o-o
+temporarily
+o-o
+lost some of their
+o-o
+income.
 end-lyric
 ambee sings-desha amenn
 What's your
@@ -18192,13 +18464,15 @@ o-o
 right.
 end-lyric
 ambee sings-desha amenn
-'N the people
+'N we
 o-o
-who get too little
+the people,
 o-o
-would be people
+who get too little,
 o-o
-in the political
+are in the
+o-o
+political
 o-o
 up.
 end-lyric
@@ -18260,9 +18534,9 @@ we've figured
 o-o
 out.
 o-o
-And the fact that
+And that
 o-o
-the replacement
+replacement
 o-o
 politicians
 o-o
@@ -18273,7 +18547,9 @@ o-o
 as much.
 end-lyric
 ambee sings-econhist amenn
-Those replacement
+Yes, those
+o-o
+replacement
 o-o
 politicians
 o-o
@@ -18852,33 +19128,73 @@ because people
 o-o
 buy more products,
 o-o
-pay for more
+and pay for more
 o-o
-services,
+services.
+end-lyric
+ambee sings-desha amenn
+And eat out more,
 o-o
-eat out, and
+and make more
 o-o
-make babies.
-o-o
+babies.
+end-lyric
+ambee sings-econhist amenn
 But when people
 o-o
 are pessimistic
 o-o
 about the future,
 o-o
-they fearfully cling
+they delay
 o-o
-to their money,
+gratification.
+end-lyric
+ambee sings-desha amenn
+That means
 o-o
-so there are
+they eat in,
 o-o
-fewer transfers
+go on cheaper dates,
 o-o
-of money.
+travel less,
 o-o
-And when
+and buy fewer shoes.
+end-lyric
+ambee sings-damien amenn
+That's fewer
 o-o
-they postpone
+money transfers,
+o-o
+so GDP
+o-o
+goes down.
+end-lyric
+ambee sings-econhist amenn
+Yes, when people
+o-o
+fearfully
+o-o
+cling to the
+o-o
+money in their
+o-o
+bank account
+o-o
+that pulls
+o-o
+down the
+o-o
+economy
+o-o
+as measured by
+o-o
+GDP.
+end-lyric
+ambee sings-damien amenn
+And I suppose
+o-o
+when they postpone
 o-o
 making babies,
 o-o
@@ -18887,13 +19203,13 @@ o-o
 future
 o-o
 customers.
-o-o
-All that pulls
-o-o
-down GDP.
 end-lyric
 ambee sings-desha amenn
-N' you think
+You are bright.
+o-o
+So name-econhist no-space ,
+o-o
+do you think
 o-o
 people will become
 o-o
@@ -18960,7 +19276,9 @@ certificates
 o-o
 of deposit
 o-o
-don't yield much
+haven't been
+o-o
+yielding much
 o-o
 interest.
 end-lyric
@@ -19525,7 +19843,7 @@ get bad grades
 o-o
 on standardized
 o-o
-tests, right?
+tests.
 end-lyric
 ambee sings-econhist amenn
 Alas, yes.
@@ -19568,7 +19886,11 @@ o-o
 loop?
 end-lyric
 ambee sings-desha amenn
-That's different.
+That's a different
+o-o
+kind of
+o-o
+feedback loop.
 o-o
 Dog owners
 o-o
@@ -19772,7 +20094,7 @@ o-o
 economically.
 end-lyric
 ambee sings-desha amenn
-Yet why
+So why
 o-o
 does it seem
 o-o
@@ -20173,7 +20495,7 @@ following.
 o-o
 Since interest
 o-o
-rates are low,
+rates are now low,
 o-o
 that means there's
 o-o
@@ -20331,9 +20653,7 @@ to immigrate
 o-o
 into the U.S.
 o-o
-is still high,
-o-o
-right?
+is still high.
 o-o
 So that
 o-o
@@ -20516,7 +20836,9 @@ end-lyric
 ambee sings-desha amenn
 No,
 o-o
-you've got it
+you've got the
+o-o
+cause and effect
 o-o
 backwards
 o-o
@@ -20613,8 +20935,11 @@ o-o
 when costs
 o-o
 go down.
+end-lyric
+ambee sings-desha amenn
+Ah,
 o-o
-Costs went down
+costs went down
 o-o
 when those
 o-o
@@ -20624,31 +20949,39 @@ less time
 o-o
 fetching water,
 o-o
-getting sick
+they got sick less
 o-o
-because of not
+because they had
 o-o
-having water
-o-o
-to wash
+water to wash
 o-o
 their hands,
 o-o
-breaking
+and better roads
 o-o
-ox hyphen-here cart wheels
+gave them a
 o-o
-on bad roads,
+better warranty
 o-o
-getting cheated
+on their
+o-o
+ox hyphen-here cart wheels.
+end-lyric
+ambee sings-econhist amenn
+And there was
+o-o
+less cheating
 o-o
 by merchants
 o-o
 who used short
 o-o
-yardsticks,
+measuring
 o-o
-and getting robbed
+sticks.
+end-lyric
+ambee sings-desha amenn
+Plus less robbery
 o-o
 by bad
 o-o
@@ -20656,6 +20989,8 @@ Samaritans.
 end-lyric
 ambee sings-damien amenn
 Less time wasted.
+o-o
+Less stealing.
 o-o
 Got it.
 end-lyric
@@ -21213,20 +21548,20 @@ societies,
 o-o
 and fraternal
 o-o
-organizations
-o-o
-that even then
-o-o
-did teamwork
-o-o
-building
-o-o
-through
-o-o
-drinking binges.
+organizations.
 end-lyric
 ambee sings-desha amenn
 Corruption!
+o-o
+And their version
+o-o
+of teamwork
+o-o
+building
+o-o
+involved
+o-o
+drinking binges.
 end-lyric
 ambee sings-econhist amenn
 Yes,
@@ -21872,7 +22207,7 @@ other nations
 o-o
 have made.
 end-lyric
-ambee sings-desha amenn
+ambee sings-damien amenn
 Stupidity
 o-o
 at the national
@@ -22024,7 +22359,7 @@ o-o
 status quo.
 end-lyric
 ambee sings-desha amenn
-Status quo ...
+Status quo means ...
 end-lyric
 ambee sings-damien amenn
 Means keepin' things
@@ -24278,9 +24613,13 @@ Like law firms,
 o-o
 Wall Street banks,
 o-o
-and insurance
+insurance
 o-o
-companies?
+companies,
+and
+real-estate
+o-o
+developers?
 end-lyric
 ambee sings-econhist amenn
 I'm not saying
@@ -24793,6 +25132,8 @@ and wages
 o-o
 are high.
 end-lyric
+----
+07-chapter-scene-06-economic-part-2:
 ambee sings-desha amenn
 So during
 o-o
@@ -25813,6 +26154,13 @@ o-o
 but bad for
 o-o
 their customers.
+end-lyric
+ambee sings-desha amenn
+And bad
+o-o
+for their
+o-o
+employees.
 end-lyric
 ambee sings-damien amenn
 Ah, this is the
@@ -32884,12 +33232,14 @@ sentence-next
 When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsiously.
 sentence-next
 The voice acting must not be self hyphen-here conscious, and must not involve shouting.
+combee
 sentence-next
 A directed session em-dash either a phone call or Zoom call em-dash initially may be needed, or else approval of samples is needed.
 sentence-next
 A professional hyphen-here quality microphone and silent background is essential.
 sentence-next
 Delivery must be high hyphen-here resolution WAV format.
+comenn
 end-basic-paragraph
 begin-basic-paragraph
 non-breaking-space
@@ -33100,11 +33450,14 @@ begin-html
 00-chapter-title-page
 ambee 01-chapter-introduction amenn
 ambee 02-chapter-scene-01-opening amenn
+combee
 ambee 03-chapter-scene-02-financial amenn
 ambee 04-chapter-scene-03-political amenn
 ambee 05-chapter-scene-04-darkness amenn
+comenn
 ambee 06-chapter-scene-05-math amenn
-ambee 07-chapter-scene-06-economic amenn
+ambee 07-chapter-scene-06-economic-part-1 amenn
+ambee 07-chapter-scene-06-economic-part-2 amenn
 ambee 08-chapter-scene-07-ending amenn
 ambee 09-chapter-thanks amenn
 end-html

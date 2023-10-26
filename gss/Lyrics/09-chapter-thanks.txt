@@ -179,12 +179,16 @@ sentence-next
 When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsiously.
 sentence-next
 The voice acting must not be self hyphen-here conscious, and must not involve shouting.
+
+combee
 sentence-next
 A directed session em-dash either a phone call or Zoom call em-dash initially may be needed, or else approval of samples is needed.
 sentence-next
 A professional hyphen-here quality microphone and silent background is essential.
 sentence-next
 Delivery must be high hyphen-here resolution WAV format.
+comenn
+
 end-basic-paragraph
 
 begin-basic-paragraph

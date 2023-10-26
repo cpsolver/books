@@ -1222,8 +1222,6 @@ end-lyric
 ambee sings-damien amenn
 Yeah,
 o-o
-out of spite
-o-o
 many voters
 o-o
 blindly
@@ -1247,6 +1245,26 @@ o-o
 political
 o-o
 tactic.
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+but it's foolish.
+o-o
+Are voters
+o-o
+forgetting
+o-o
+there's just
+o-o
+two sides?
+o-o
+Like the two
+o-o
+paddles in a
+o-o
+ping-pong game?
 end-lyric
 
 ambee sings-politician amenn

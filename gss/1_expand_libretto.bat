@@ -20,34 +20,27 @@ copy list-of-folders-for-generate-collected-dashdef-files.txt temp_list_of_folde
 
 rem ---------- compile and run ----------
 
-
-rem  TODO:  change this code now that files have been moved
-
-
-exit
-
-
-cd F:\Important\GitHub\Goat_Spitting_Secret\Expand\
+cd F:\Important\GitHub\books\gss\Expand\
 %PerlPath%perl -w F:\Important\GitHub\Dashrep-language\dashrep_compiler_executable.pl < ..\code_for_compile_expand_libretto.txt > output_log_from_dashrep_compiler.txt
 del executable_expand_libretto.pl
 rename output_from_dashrep_compiler.pl executable_expand_libretto.pl
-cd F:\Important\GitHub\Goat_Spitting_Secret\
-%PerlPath%perl F:\Important\GitHub\Goat_Spitting_Secret\Expand\executable_expand_libretto.pl > F:\Important\GitHub\Goat_Spitting_Secret\Expand\output_piped_results_from_dashrep_expand_libretto.txt
+cd F:\Important\GitHub\books\gss\
+%PerlPath%perl F:\Important\GitHub\books\gss\Expand\executable_expand_libretto.pl > F:\Important\GitHub\books\gss\Expand\output_piped_results_from_dashrep_expand_libretto.txt
 
 
 rem ---------- generate the epub version ----------
 
-cd F:\Important\GitHub\Goat_Spitting_Secret\
+cd F:\Important\GitHub\books\gss\
 del GoatSpittingSecret.epub
-"C:\Program Files\7-Zip\7z.exe" a GoatSpittingSecret.epub .\epub\mimetype
-cd F:\Important\GitHub\Goat_Spitting_Secret\epub\
-"C:\Program Files\7-Zip\7z.exe" a F:\Important\GitHub\Goat_Spitting_Secret\GoatSpittingSecret.epub
-cd F:\Important\GitHub\Goat_Spitting_Secret\
+rem "C:\Program Files\7-Zip\7z.exe" a GoatSpittingSecret.epub .\epub\mimetype
+cd F:\Important\GitHub\books\gss\epub\
+rem "C:\Program Files\7-Zip\7z.exe" a F:\Important\GitHub\books\gss\GoatSpittingSecret.epub
+cd F:\Important\GitHub\books\gss\
 
 
 rem ---------- check HTML tags ----------
 
-%PerlPath%perl %PerlPath%CheckHtmlTags.pl < input_check_html_tags.txt > output_check_html_tags.txt
+%PerlPath%perl %PerlPath%CheckHtmlTags.pl < output_libretto.html > output_check_html_tags.txt
 
 
 pause
