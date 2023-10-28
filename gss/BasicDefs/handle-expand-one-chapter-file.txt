@@ -1,0 +1,3 @@
+ambee copy-text word-to-use-in-handler chapter-phrase-name amenn
+ambee expand-text ambee get-phrase-name-from-phrase chapter-phrase-name amenn expanded-chapter amenn
+ambee copy-from-phrase-append-to-file expanded-chapter ambee output-filename-libretto amenn amenn
