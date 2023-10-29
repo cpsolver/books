@@ -279,18 +279,16 @@ is pairwise
 o-o
 vote counting.
 o-o
-You already
+That will end
 o-o
-know that
+the big bad
 o-o
-will fix
+feedback
 o-o
-lots of
-o-o
-bad feedback
-o-o
-loops.
-o-o
+loop.
+end-lyric
+
+ambee sings-damien amenn
 And that will
 o-o
 increase
@@ -299,19 +297,19 @@ economic
 o-o
 prosperity.
 o-o
-Yet I've also
-o-o
-read about
-o-o
-some other
-o-o
-promising
-o-o
-solutions.
+Got it.
 end-lyric
 
-ambee sings-damien amenn
-What are those?
+ambee sings-desha amenn
+What other
+o-o
+solutions
+o-o
+are waiting
+o-o
+for a
+o-o
+revolution?
 end-lyric
 
 ambee sings-econhist amenn
@@ -375,9 +373,17 @@ robotics
 o-o
 controlled by
 o-o
-workers in
+artificial
 o-o
-distant countries,
+intelligence
+o-o
+and remote
+o-o
+workers
+o-o
+in distant
+o-o
+countries,
 o-o
 and a
 o-o
@@ -591,11 +597,182 @@ businesses
 o-o
 in political power.
 o-o
-And they oppose
+end-lyric
+
+ambee sings-desha amenn
+Ah,
 o-o
-solutions
+I think I see.
 o-o
-such as fully
+It's vote
+o-o
+splitting
+o-o
+in general
+o-o
+elections
+o-o
+that causes
+o-o
+political
+o-o
+parties
+o-o
+to only offer
+o-o
+one nominee
+o-o
+in each party.
+o-o
+And having
+o-o
+just one
+o-o
+nominee
+o-o
+per party
+o-o
+allows
+o-o
+the blocking tactic,
+o-o
+like when
+o-o
+Republicans
+o-o
+blocked
+o-o
+Hillary
+o-o
+Clinton
+o-o
+from reaching
+o-o
+the 2008
+o-o
+presidential
+o-o
+election.
+o-o
+And vote
+o-o
+splitting
+o-o
+in primary
+o-o
+elections
+o-o
+allows money
+o-o
+to control
+o-o
+who wins
+o-o
+the party's
+o-o
+nomination.
+o-o
+And it blocks
+o-o
+third parties
+o-o
+from getting
+o-o
+meaningful support.
+end-lyric
+
+ambee sings-damien amenn
+Ah, ...
+o-o
+that's what
+o-o
+allows
+o-o
+corrupt
+o-o
+business owners
+o-o
+to limit
+o-o
+our choice to
+o-o
+one Republican
+o-o
+puppet
+o-o
+and one
+o-o
+one Democratic
+o-o
+puppet
+o-o
+in our
+o-o
+general
+o-o
+elections.
+o-o
+So it's that
+o-o
+feedback loop
+o-o
+that's our
+o-o
+evil
+o-o
+enemy.
+o-o
+And why Congress
+o-o
+has become
+o-o
+a circus
+o-o
+full of clowns.
+end-lyric
+
+ambee sings-econhist amenn
+That sounds like
+o-o
+a good
+o-o
+summary
+o-o
+to me.
+end-lyric
+
+ambee sings-damien amenn
+So what do those
+o-o
+corrupt
+o-o
+business
+o-o
+owners
+o-o
+oppose?
+end-lyric
+
+ambee sings-econhist amenn
+They oppose
+o-o
+innovations
+o-o
+they fear
+o-o
+will reduce
+o-o
+their income.
+o-o
+Such as
+o-o
+owners of
+o-o
+Exxon shares
+o-o
+opposing
+o-o
+fully
 o-o
 synthetic
 o-o
@@ -2103,7 +2280,7 @@ prosperity
 o-o
 so dramatically
 o-o
-that it will change
+it will change
 o-o
 the economy
 o-o
@@ -2545,7 +2722,9 @@ colonies
 o-o
 were fighting for
 o-o
-independence.
+independence
+o-o
+from England.
 o-o
 Now the fights
 o-o

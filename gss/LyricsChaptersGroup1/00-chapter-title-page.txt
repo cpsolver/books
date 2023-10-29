@@ -7,7 +7,7 @@ book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
-[Draft 2023-October-16]
+[Draft 2023-October-28]
 end-subtitle
 
 begin-subtitle
@@ -30,13 +30,13 @@ Legal Stuff
 end-heading
 
 begin-basic-paragraph
-&#169; Copyright 2020 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
+&#169; Copyright 2023 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
 end-basic-paragraph
 
 begin-basic-paragraph
 Also hereby permitted without cost is the performance of this dialog in a theater by volunteer actors organized by a non hyphen-here profit organization on the condition that there are no significant word changes and any and all financial income (after expenses) exclusively goes to that non hyphen-here profit organization.
 sentence-next
-An abridged script is permitted if there are only spoken hyphen-here line removals and full sentence removals and no additions or word substitutions.
+When performed an abridged script is permitted if there are only spoken hyphen-here line removals and full sentence removals and no additions or word substitutions.
 end-basic-paragraph
 
 begin-basic-paragraph

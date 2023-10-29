@@ -939,14 +939,6 @@ o-o
 numbers as tenths
 o-o
 or hundredths.
-o-o
-'N it shows
-o-o
-eighths as well.
-o-o
-This is, well,
-o-o
-swell!
 end-lyric
 
 ambee sings-mathprof amenn
@@ -957,6 +949,18 @@ o-o
 is as easy as
 o-o
 dollars and cents.
+end-lyric
+
+ambee sings-damien amenn
+This will
+o-o
+elevate
+o-o
+my joy when
+o-o
+making
+o-o
+staircases.
 end-lyric
 
 ambee sings-desha amenn
@@ -982,17 +986,11 @@ number.
 end-lyric
 
 ambee sings-damien amenn
-Using this
-o-o
-tape measure
-o-o
-would be a
-o-o
-pleasure.
-o-o
 How do I get
 o-o
-one?
+a tape measure
+o-o
+like this?
 end-lyric
 
 ambee sings-mathprof amenn

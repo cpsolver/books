@@ -1618,7 +1618,7 @@ as fast as
 o-o
 possible.
 o-o
-And a feeback loop
+And a feedback loop
 o-o
 is what makes a
 o-o
@@ -2998,7 +2998,11 @@ sticks.
 end-lyric
 
 ambee sings-desha amenn
-Plus less robbery
+Plus less
+o-o
+highway
+o-o
+robbery
 o-o
 by bad
 o-o
@@ -4002,6 +4006,12 @@ among the
 o-o
 colonies,
 o-o
+without any
+o-o
+non hyphen-here participation
+o-o
+option,
+o-o
 was the opposite
 o-o
 of what
@@ -4114,9 +4124,11 @@ didn't understand
 o-o
 astronomy,
 o-o
-weather, and
+weather,
 o-o
-geometry.
+geometry,
+o-o
+and fractions.
 end-lyric
 
 ambee sings-desha amenn
@@ -4160,21 +4172,37 @@ black death
 o-o
 by praying
 o-o
-for the dying.
+at the bedside
+o-o
+of the dying.
 end-lyric
 
 ambee sings-desha amenn
-And by failing
+And they sold
 o-o
-to cure the sick.
+holy water
 o-o
-They prescribed
+that failed
 o-o
-holy water,
+to cure the sick,
 o-o
-prayers, and
+they extorted
 o-o
-a pilgrimage
+money for
+o-o
+pardoning sins,
+o-o
+and their
+o-o
+version of
+o-o
+a trip to
+o-o
+Disneyland
+o-o
+was a long
+o-o
+pilgrimage
 o-o
 to kneel before
 o-o
@@ -4390,15 +4418,31 @@ escape religious
 o-o
 persecution
 o-o
-from the state hyphen-here run
+from the corrupt
 o-o
-church in
+state hyphen-here run church
 o-o
-England?
+in England?
 end-lyric
 
 ambee sings-econhist amenn
-Right.
+You've got a
+o-o
+great recall
+o-o
+of religion's
+o-o
+history.
+end-lyric
+
+ambee sings-desha amenn
+Religion
+o-o
+is corrupt,
+o-o
+just like
+o-o
+politics.
 end-lyric
 
 ambee sings-damien amenn
@@ -4729,11 +4773,13 @@ Richter Scale
 o-o
 to measure
 o-o
-orgasms,
-o-o
-I mean
-o-o
 earthquakes.
+end-lyric
+
+ambee sings-damien amenn
+Earth's
+o-o
+orgasms.
 end-lyric
 
 ambee sings-damien amenn
@@ -5224,31 +5270,21 @@ o-o
 That undermined
 o-o
 the economy.
-o-o
-After Mao died
-o-o
-the brightest
-o-o
-compliant ones
-o-o
-were allowed back
-o-o
-into science and
-o-o
-business,
-o-o
-and that shift
-o-o
-paid off.
-o-o
-But it didn't
-o-o
-restore all of
-o-o
-what was lost.
 end-lyric
 
 ambee sings-desha amenn
+That's why
+o-o
+Chinese spies
+o-o
+steal secrets
+o-o
+of technology
+o-o
+from us.
+end-lyric
+
+ambee sings-damien amenn
 Since
 o-o
 Europeans

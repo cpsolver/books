@@ -1564,6 +1564,166 @@ o-o
 limitations.
 end-lyric
 
+ambee sings-father-of-fiance amenn
+I've got a
+o-o
+question.
+o-o
+My wife
+o-o
+reminds me
+o-o
+that Jesus
+o-o
+was just
+o-o
+a carpenter,
+o-o
+and I should be
+o-o
+more humble,
+o-o
+like him.
+o-o
+Less boastful.
+o-o
+What can I
+o-o
+say to her
+o-o
+to make her
+o-o
+understand
+o-o
+that pride
+o-o
+naturally
+o-o
+follows
+o-o
+from doing
+o-o
+great things?
+end-lyric
+
+ambee sings-minister amenn
+Jesus
+o-o
+probably
+o-o
+was not a
+o-o
+carpenter.
+o-o
+He grew up in
+o-o
+Nazareth,
+o-o
+where there are
+o-o
+no trees.
+end-lyric
+
+ambee sings-vc amenn
+Jesus Christ!
+o-o
+In church
+o-o
+you refer
+o-o
+to him as a
+o-o
+carpenter.
+end-lyric
+
+ambee sings-minister amenn
+Here in the US
+o-o
+Christians
+o-o
+read the bible
+o-o
+in English.
+o-o
+In the Greek
+o-o
+translation
+o-o
+the word also
+o-o
+could have referred
+o-o
+to a blacksmith,
+o-o
+ship builder,
+o-o
+or stone mason.
+o-o
+Stone mason
+o-o
+makes more sense
+o-o
+to me.
+o-o
+A crew of
+o-o
+thirteen
+o-o
+stone masons,
+o-o
+plus the
+o-o
+women who
+o-o
+traveled
+o-o
+with them,
+o-o
+would have been
+o-o
+welcomed
+o-o
+and well paid
+o-o
+for constucting
+o-o
+stone buildings.
+end-lyric
+
+ambee sings-fiance amenn
+Thanks for
+o-o
+mentioning
+o-o
+his female
+o-o
+followers.
+end-lyric
+
+ambee sings-vc amenn
+About the boasting,
+o-o
+I just learned
+o-o
+it's a sign
+o-o
+of low self esteem.
+end-lyric
+
+ambee sings-desha-firstuse amenn
+You're learning
+o-o
+quickly.
+o-o
+Your love for others
+o-o
+is limited 
+o-o
+by how much you
+o-o
+love yourself.
+end-lyric
+
 ambee sings-desha-firstuse amenn
 begin-explain Door opens and closes. end-explain
 o-o
