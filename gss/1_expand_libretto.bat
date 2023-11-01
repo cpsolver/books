@@ -64,4 +64,9 @@ rem ---------- check HTML tags ----------
 %PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%output_libretto.html > output_check_html_tags.txt
 
 
+rem ---------- copy to VoteFair site ----------
+
+copy %DirExpand%output_libretto.html F:\Important\MySite_VoteFair\VoteFair_html\goat_spitting_secret.html
+
+
 pause

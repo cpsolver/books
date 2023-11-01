@@ -1493,7 +1493,7 @@ end-lyric
 ambee sings-minister amenn
 Pleased to meet you.
 o-o
-begin-explain A moment later there is a click of keys when name-minister types a short text message. end-explain
+begin-explain A bit later there is a click of keys when name-minister types a short text message. end-explain
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -1667,9 +1667,9 @@ read the bible
 o-o
 in English.
 o-o
-In the Greek
+In the older
 o-o
-translation
+Greek translation
 o-o
 the word also
 o-o
@@ -1697,31 +1697,25 @@ plus the
 o-o
 women who
 o-o
-accompanied
+did their cooking
 o-o
-them,
+and laundry,
 o-o
 would have been
 o-o
-welcomed
+welcomed,
 o-o
-and well paid
+and well paid,
 o-o
 for constucting
 o-o
 stone buildings.
-end-lyric
-
-ambee sings-fiance amenn
-Thanks for
 o-o
-mentioning
+Especially
 o-o
-his female
+ones with big
 o-o
-cooks and
-o-o
-laundry washers.
+archways.
 end-lyric
 
 ambee sings-vc amenn
@@ -1736,18 +1730,20 @@ o-o
 of low self esteem.
 end-lyric
 
-ambee sings-desha-firstuse amenn
+ambee sings-minister amenn
 You're learning
 o-o
 quickly.
 o-o
-And self love,
+Self love,
 o-o
 the real kind,
 o-o
-is good
+is essential.
 o-o
-because you can't
+That's because
+o-o
+you can't
 o-o
 love someone else
 o-o
@@ -1779,7 +1775,7 @@ for what I do.
 end-lyric
 
 ambee sings-minister amenn
-There's another
+Here's another
 o-o
 perspective
 o-o
@@ -1805,16 +1801,26 @@ accusee.
 end-lyric
 
 ambee sings-fiance amenn
-She does brag
+Mom does brag
 o-o
-about the size
+that she has
 o-o
-of her
+an entire closet
 o-o
-shoe collection.
+just for her shoes.
 end-lyric
 
 ambee sings-father-of-fiance amenn
+She spends
+o-o
+way too much
+o-o
+of my hard hyphen-here earned
+o-o
+money buying
+o-o
+more and more shoes!
+o-o
 She thinks
 o-o
 the money
@@ -1829,7 +1835,23 @@ This is
 o-o
 interesting.
 o-o
-According
+She criticizes you
+o-o
+for something she does.
+o-o
+And you are
+o-o
+criticizing
+o-o
+her for thinking
+o-o
+money grows
+o-o
+on trees.
+o-o
+So,
+o-o
+according
 o-o
 to what father
 o-o
@@ -1893,15 +1915,31 @@ Other people
 o-o
 are too greedy.
 o-o
-Or too lazy.
-o-o
-I have to
+So I have to
 o-o
 work hard
 o-o
 to earn my
 o-o
 family's share.
+o-o
+I'm not
+o-o
+one of those
+o-o
+lazy 
+o-o
+socialists,
+o-o
+or immigrants,
+o-o
+or homeless
+o-o
+drug users
+o-o
+waiting for
+o-o
+handouts.
 end-lyric
 
 ambee sings-desha-firstuse amenn

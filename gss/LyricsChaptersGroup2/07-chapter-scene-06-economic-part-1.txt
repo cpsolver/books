@@ -3326,7 +3326,7 @@ end-lyric
 ambee sings-desha amenn
 In ancient Rome
 o-o
-a bigger source
+a huge source
 o-o
 of wealth was
 o-o
@@ -3616,6 +3616,8 @@ building
 o-o
 involved
 o-o
+good hyphen-here old hyphen-here boys
+o-o
 drinking binges.
 end-lyric
 
@@ -3662,14 +3664,18 @@ Catholics and
 o-o
 Protestants.
 o-o
-They abandoned
+And they
+o-o
+abandoned
 o-o
 fighting over
 o-o
 language
 o-o
 differences.
-o-o
+end-lyric
+
+ambee sings-desha amenn
 And they stopped
 o-o
 having food fights
@@ -3678,6 +3684,32 @@ about table
 o-o
 etiquette.
 o-o
+And European
+o-o
+governments
+o-o
+now allow women
+o-o
+some seats in
+o-o
+parliament
+o-o
+after seeing
+o-o
+American Rosie
+o-o
+the Riveters
+o-o
+bail them out
+o-o
+of their
+o-o
+foolish world war
+o-o
+two.
+end-lyric
+
+ambee sings-econhist amenn
 Instead they are
 o-o
 copying
