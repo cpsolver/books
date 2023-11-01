@@ -223,6 +223,8 @@ criminals
 o-o
 and lawyers,
 o-o
+...
+o-o
 I mean
 o-o
 sinners.
@@ -819,13 +821,13 @@ we leave behind
 o-o
 the gold stars,
 o-o
-glitzy prizes,
+participation
 o-o
 trophies,
 o-o
-and eventually
+and even
 o-o
-the winning.
+Nobel Prizes.
 o-o
 The skills
 o-o
@@ -837,7 +839,13 @@ long after
 o-o
 the prizes
 o-o
-are lost.
+have been
+o-o
+thown out,
+o-o
+forgotten,
+o-o
+or bombed.
 o-o
 Now the skill
 o-o
@@ -1455,9 +1463,7 @@ area.
 o-o
 There's an awful
 o-o
-nasty woman,
-o-o
-with wild hair,
+nasty woman
 o-o
 who was
 o-o
@@ -1487,7 +1493,7 @@ end-lyric
 ambee sings-minister amenn
 Pleased to meet you.
 o-o
-begin-explain Click of keys as name-minister types text message. end-explain
+begin-explain A moment later there is a click of keys when name-minister types a short text message. end-explain
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -1571,21 +1577,29 @@ question.
 o-o
 My wife
 o-o
-reminds me
+tells me
 o-o
-that Jesus
+my boasting
 o-o
-was just
+would make
 o-o
-a carpenter,
+a peacock
 o-o
-and I should be
+blush.
 o-o
-more humble,
+She says
 o-o
-like him.
+I should be
 o-o
-Less boastful.
+more humble
+o-o
+like Jesus,
+o-o
+who was just
+o-o
+a lowly
+o-o
+carpenter.
 o-o
 What can I
 o-o
@@ -1607,11 +1621,19 @@ great things?
 end-lyric
 
 ambee sings-minister amenn
+To set
+o-o
+the record
+o-o
+straight,
+o-o
 Jesus
 o-o
 probably
 o-o
 was not a
+o-o
+lowly
 o-o
 carpenter.
 o-o
@@ -1661,9 +1683,9 @@ or stone mason.
 o-o
 Stone mason
 o-o
-makes more sense
+makes the most
 o-o
-to me.
+sense to me.
 o-o
 A crew of
 o-o
@@ -1675,9 +1697,9 @@ plus the
 o-o
 women who
 o-o
-traveled
+accompanied
 o-o
-with them,
+them,
 o-o
 would have been
 o-o
@@ -1697,13 +1719,17 @@ mentioning
 o-o
 his female
 o-o
-followers.
+cooks and
+o-o
+laundry washers.
 end-lyric
 
 ambee sings-vc amenn
 About the boasting,
 o-o
-I just learned
+if I understand
+o-o
+rightly,
 o-o
 it's a sign
 o-o
@@ -1715,13 +1741,167 @@ You're learning
 o-o
 quickly.
 o-o
-Your love for others
+And self love,
 o-o
-is limited 
+the real kind,
 o-o
-by how much you
+is good
 o-o
-love yourself.
+because you can't
+o-o
+love someone else
+o-o
+more than you love
+o-o
+yourself.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I don't
+o-o
+suffer from
+o-o
+low self hyphen-here esteem!
+o-o
+I'm proud of what
+o-o
+I accomplish.
+o-o
+The
+o-o
+money I earn
+o-o
+should make it clear
+o-o
+that I'm loved
+o-o
+for what I do.
+end-lyric
+
+ambee sings-minister amenn
+There's another
+o-o
+perspective
+o-o
+that might be useful.
+o-o
+Does your wife
+o-o
+boast?
+o-o
+Typically
+o-o
+a criticism
+o-o
+reveals more
+o-o
+about the
+o-o
+accuser
+o-o
+than the
+o-o
+accusee.
+end-lyric
+
+ambee sings-fiance amenn
+She does brag
+o-o
+about the size
+o-o
+of her
+o-o
+shoe collection.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+She thinks
+o-o
+the money
+o-o
+I earn
+o-o
+grows on trees!
+end-lyric
+
+ambee sings-vc amenn
+This is
+o-o
+interesting.
+o-o
+According
+o-o
+to what father
+o-o
+just said,
+o-o
+you think that
+o-o
+money grows
+o-o
+on trees.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I work hard
+o-o
+to discover
+o-o
+which trees
+o-o
+have fruit
+o-o
+waiting to be
+o-o
+harvested.
+o-o
+And I do
+o-o
+the hard work
+o-o
+of doing that
+o-o
+harvesting.
+end-lyric
+
+ambee sings-minister amenn
+Do you pick
+o-o
+as much as you can?
+o-o
+Or do you leave
+o-o
+some fruit for
+o-o
+the next
+o-o
+hungry person
+o-o
+who comes along?
+end-lyric
+
+ambee sings-father-of-fiance amenn
+My family
+o-o
+needs as
+o-o
+much as I
+o-o
+can harvest.
+o-o
+Other people
+o-o
+are too greedy.
+o-o
+Or too lazy.
+o-o
+I have to
+o-o
+work hard
+o-o
+to earn my
+o-o
+family's share.
 end-lyric
 
 ambee sings-desha-firstuse amenn
@@ -1903,9 +2083,7 @@ begin-explain Click of keys as name-fiance types text message. end-explain
 end-lyric
 
 ambee sings-minister amenn
-name-desha
-o-o
-do you remember
+Do you remember
 o-o
 name-vc no-space ?
 end-lyric
@@ -1933,7 +2111,15 @@ politicians,
 o-o
 and environmental
 o-o
-organizations.
+organizations,
+o-o
+and fighting
+o-o
+against nasty
+o-o
+real estate
+o-o
+developers.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -2017,15 +2203,21 @@ Especially
 o-o
 since religion
 o-o
-seems so, well,
+seems so, ...
+o-o
+well, ...
 o-o
 antiquated.
 end-lyric
 
 ambee sings-minister amenn
-name-desha has some
+I believe
 o-o
-thoughts on this.
+you have
+o-o
+some thoughts
+o-o
+on this.
 end-lyric
 
 ambee sings-desha amenn
@@ -2229,9 +2421,9 @@ Only some of it!
 o-o
 We still serve a
 o-o
-very useful service
+very useful service.
 o-o
-of reminding folks
+We remind folks
 o-o
 to act in ways
 o-o
@@ -3019,7 +3211,7 @@ election.
 o-o
 With that strategy
 o-o
-they figured that
+they figured
 o-o
 a Republican
 o-o
@@ -3328,6 +3520,32 @@ o-o
 Clinton from winning.
 end-lyric
 
+ambee sings-damien amenn
+Unless the second
+o-o
+Republican
+o-o
+nominee
+o-o
+was better
+o-o
+than McCain.
+o-o
+Someone who
+o-o
+recognized
+o-o
+the rampant
+o-o
+corruption
+o-o
+and promised
+o-o
+some big
+o-o
+reforms.
+end-lyric
+
 ambee sings-father-of-fiance amenn
 This is all nonsense!
 end-lyric
@@ -3549,15 +3767,15 @@ pairwise counting
 o-o
 there would have been
 o-o
-at least one more
+a second
 o-o
 Republican and
 o-o
-at least one more
+a second
 o-o
-Democrat to
+Democrat
 o-o
-win against.
+to win against.
 end-lyric
 
 ambee sings-desha amenn
@@ -4065,19 +4283,27 @@ On the contrary!
 o-o
 People from elsewhere
 o-o
-would move here.
+move here.
+o-o
+And they bring
+o-o
+their wealth
+o-o
+into the local
+o-o
+economy.
 end-lyric
 
 ambee sings-desha amenn
-And that would bring
+That brings
 o-o
 money to you,
 o-o
-but would increase
+but it increases
 o-o
 traffic, and
 o-o
-it would increase
+increases
 o-o
 infrastructure
 o-o
@@ -4087,6 +4313,22 @@ already here.
 end-lyric
 
 ambee sings-damien amenn
+And it pushes up
+o-o
+the cost of
+o-o
+housing,
+o-o
+which pushes
+o-o
+more and more
+o-o
+people into
+o-o
+homelessness.
+end-lyric
+
+ambee sings-desha amenn
 Plus your business
 o-o
 requires lots of
@@ -4115,7 +4357,11 @@ The ones that bring
 o-o
 money into the
 o-o
-region from outside
+region from
+o-o
+customers
+o-o
+outside
 o-o
 the region.
 o-o
@@ -4522,6 +4768,14 @@ o-o
 stepped on.
 end-lyric
 
+ambee sings-desha amenn
+And fewer fingers
+o-o
+would get cut
+o-o
+doing food prep.
+end-lyric
+
 ambee sings-vc amenn
 As a
 o-o
@@ -4544,11 +4798,29 @@ o-o
 delivered.
 end-lyric
 
+ambee sings-father-of-fiance amenn
+I admit
+o-o
+a food prep
+o-o
+appliance
+o-o
+would reduce
+o-o
+labor costs
+o-o
+for my favorite
+o-o
+restaurants,
+o-o
+so maybe
+o-o
+that would make
+o-o
+food cost less.
+end-lyric
+
 ambee sings-damien amenn
-That sounds like
-o-o
-a good fit.
-o-o
 Yet another
 o-o
 benefit of
@@ -4701,7 +4973,9 @@ couldn't possibly
 o-o
 be worse than
 o-o
-what we've got now.
+the ancient males
+o-o
+we've been getting.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -5523,7 +5797,7 @@ Palace.
 o-o
 It's on southeast
 o-o
-Assinhole Avenue.
+Ashinhole Avenue.
 end-lyric
 
 ambee sings-vc amenn

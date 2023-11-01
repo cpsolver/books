@@ -5,7 +5,7 @@ end-title
 begin-basic-paragraph
 Young carpenter name-damien flunked out of community college, so he fumbles and struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
 sentence-next
-A wild young woman named name-desha no-space joins his fight.
+A wild young woman named name-desha joins his fight.
 sentence-next
 In secret they meet two wise mentors who reveal the hidden path to flipping the world right hyphen-here side up.
 sentence-next
@@ -30,6 +30,8 @@ sentence-next
 The name of the solution is simple.
 sentence-next
 It's called begin-italics pairwise vote counting end-italics no-space .
+sentence-next
+It will be used in general elections to count ranked choice ballots.
 sentence-next
 What does this mean?
 sentence-next

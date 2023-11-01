@@ -392,7 +392,7 @@ where most
 o-o
 of us are,
 o-o
-get too little
+who get too little
 o-o
 economic
 o-o
@@ -3606,7 +3606,9 @@ end-lyric
 ambee sings-desha amenn
 Corruption!
 o-o
-And their version
+And even
+o-o
+their version
 o-o
 of teamwork
 o-o
@@ -3618,11 +3620,9 @@ drinking binges.
 end-lyric
 
 ambee sings-econhist amenn
-Yes,
+In hindsight
 o-o
-in hindsight,
-o-o
-those barbaric
+those outdated
 o-o
 traditions
 o-o

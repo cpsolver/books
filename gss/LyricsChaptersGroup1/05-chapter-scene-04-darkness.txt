@@ -97,15 +97,13 @@ what's in it.
 end-lyric
 
 ambee sings-desha amenn
-Chocolate chips,
+Dried cherries,
 o-o
-dried cherries,
+chocolate chips,
 o-o
 rolled oats,
 o-o
-stevia,
-o-o
-sugar,
+sugar and stevia,
 o-o
 and ghee,
 o-o
@@ -1749,7 +1747,7 @@ some locks.
 end-lyric
 
 ambee sings-damien amenn
-It's a bigger
+It's a huge
 o-o
 barrier.
 end-lyric

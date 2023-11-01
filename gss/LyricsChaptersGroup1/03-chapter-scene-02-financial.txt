@@ -750,7 +750,7 @@ of dollars,
 o-o
 that cost
 o-o
-is too
+is way too
 o-o
 immense.
 end-lyric
@@ -1466,17 +1466,17 @@ o-o
 o-o
 your bank accounts
 o-o
-can't protect you
+in prison
 o-o
-when you drop
+are as useless
 o-o
-the shared
+as a light saber
 o-o
-bar of soap
+against an
 o-o
-in the prison
+assault
 o-o
-shower.
+weapon.
 end-lyric
 
 ambee sings-damien amenn
@@ -2119,6 +2119,8 @@ ambee sings-vc amenn
 Only costly
 o-o
 printed ads
+o-o
+sent by mail
 o-o
 cover small
 o-o

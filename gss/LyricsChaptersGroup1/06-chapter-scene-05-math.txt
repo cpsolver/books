@@ -2292,9 +2292,11 @@ every nation in the
 o-o
 world uses what's
 o-o
-now called the
+increasingly called
 o-o
-single hyphen-here choice ballot.
+the single hyphen-here choice
+o-o
+ballot.
 end-lyric
 
 ambee sings-desha amenn
@@ -4130,7 +4132,7 @@ process would work,
 o-o
 up to a point.
 o-o
-A better shortcut
+A simple shortcut
 o-o
 approach is to
 o-o
@@ -4869,7 +4871,29 @@ my lungs.
 end-lyric
 
 ambee sings-mathprof amenn
-Take a deep breath.
+Fight it off with
+o-o
+a deep breath.
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Takes a deep breath. end-explain
+end-lyric
+
+ambee sings-desha amenn
+That's a
+o-o
+foolish tactic
+o-o
+against a
+o-o
+boa constrictor.
+end-lyric
+
+ambee sings-mathprof amenn
+You're fighting
+o-o
+against fear.
 o-o
 This will be
 o-o
@@ -5023,7 +5047,9 @@ to protect us
 o-o
 minorities
 o-o
-from whites.
+from white
+o-o
+supremacists.
 end-lyric
 
 ambee sings-mathprof amenn
