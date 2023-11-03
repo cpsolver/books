@@ -1,11 +1,6 @@
-Pengaritihas
+Professor Pengaritihas
 
 combee
-Professor Pengaritihas;
 pengar = "money" in Swedish;
 itihas = "history" in Hindi;
-Saraju;
-Ajay;
-Sanjay;
-Vassif
 comenn

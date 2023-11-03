@@ -405,13 +405,15 @@ cooperate.
 o-o
 And that's
 o-o
-as boring
+more boring
 o-o
-as watching
+than a gun
 o-o
-a grandpa
+in the hands of
 o-o
-snoring.
+a blind
+o-o
+pacifist.
 end-lyric
 
 ambee sings-vc amenn
@@ -553,21 +555,23 @@ Terrorists
 o-o
 and soldiers
 o-o
-fight out of
-o-o
-friendship
-o-o
-for their comrades,
-o-o
-and to protect
+fight to help
 o-o
 their family,
 o-o
-not mainly
+their comrades,
 o-o
-for an
+and to earn
 o-o
-ideology.
+money.
+o-o
+An ideology
+o-o
+is mostly
+o-o
+the frosting
+o-o
+on the cookie.
 end-lyric
 
 ambee sings-vc amenn
@@ -841,11 +845,17 @@ the prizes
 o-o
 have been
 o-o
-thown out,
-o-o
 forgotten,
 o-o
-or bombed.
+turned to ashes
+o-o
+in a fire,
+o-o
+or buried under
+o-o
+the rubble
+o-o
+of warfare.
 o-o
 Now the skill
 o-o
@@ -1484,6 +1494,10 @@ o-o
 name-fiance no-space .
 end-lyric
 
+ambee sings-minister amenn
+Pleased to meet you.
+end-lyric
+
 ambee sings-vc amenn
 It's a pleasure to
 o-o
@@ -1491,15 +1505,7 @@ have your company.
 end-lyric
 
 ambee sings-minister amenn
-Pleased to meet you.
-o-o
-begin-explain A bit later there is a click of keys when name-minister types a short text message. end-explain
-end-lyric
-
-ambee sings-father-of-fiance amenn
-This is my friend
-o-o
-name-vc no-space .
+begin-explain There is a click of keys when name-minister types a short text message. end-explain
 end-lyric
 
 ambee sings-fiance amenn
@@ -1667,19 +1673,21 @@ read the bible
 o-o
 in English.
 o-o
-In the older
+The original
 o-o
-Greek translation
+word in
 o-o
-the word also
+ancient Greek
 o-o
-could have referred
+also could have
 o-o
-to a blacksmith,
+referred to
 o-o
-ship builder,
+a blacksmith,
 o-o
-or stone mason.
+a ship builder,
+o-o
+or a stone mason.
 o-o
 Stone mason
 o-o
@@ -2411,11 +2419,17 @@ used to feed
 o-o
 the hungry.
 o-o
-Now that's done with
+Now grocery stores
 o-o
-food stamps from the
+give out food
 o-o
-government.
+ingredients
+o-o
+in exchange
+o-o
+for payments
+o-o
+from the government.
 o-o
 So that's one more
 o-o
