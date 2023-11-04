@@ -497,7 +497,11 @@ to steal gold
 o-o
 and cash and
 o-o
-valuables
+houses and
+o-o
+businesses
+o-o
+and dignity
 o-o
 from Jews.
 o-o
@@ -831,7 +835,11 @@ trophies,
 o-o
 and even
 o-o
-Nobel Prizes.
+our dreams of
+o-o
+winning
+o-o
+a Nobel Prize.
 o-o
 The skills
 o-o
@@ -847,7 +855,7 @@ have been
 o-o
 forgotten,
 o-o
-turned to ashes
+turned into ashes
 o-o
 in a fire,
 o-o
@@ -1083,31 +1091,43 @@ and wise goals.
 o-o
 But let go of
 o-o
-emotions
-o-o
-like excess
-o-o
-anxiety,
-o-o
-the compulsion to
+a compulsion to
 o-o
 pinch pennies,
 o-o
-and the phobia of
+and worrying
 o-o
-behaving like
+that your cat
 o-o
-a four hyphen-here eyed,
+might get bit
 o-o
-five hyphen-here star
+by a rat,
 o-o
-dork.
+and fearing
 o-o
-They are feelings
+all your friends
 o-o
-about our future,
+will abandon you
 o-o
-which isn't here yet.
+if someone
+o-o
+spreads the lie
+o-o
+that you wore
+o-o
+socks with sandals
+o-o
+in public.
+o-o
+Those
+o-o
+distracting
+o-o
+feelings
+o-o
+are about
+o-o
+unlikely futures.
 o-o
 ...
 o-o
@@ -1665,7 +1685,7 @@ carpenter.
 end-lyric
 
 ambee sings-minister amenn
-Here in the US
+Here in the U.S.
 o-o
 Christians
 o-o
@@ -1827,7 +1847,17 @@ of my hard hyphen-here earned
 o-o
 money buying
 o-o
-more and more shoes!
+more and more
+o-o
+god hyphen-here da....
+o-o
+er, ...
+o-o
+overpriced
+o-o
+foolish
+o-o
+footware!
 o-o
 She thinks
 o-o
@@ -1937,15 +1967,21 @@ one of those
 o-o
 lazy 
 o-o
+immigrants,
+o-o
+or
+o-o
+criminal
+o-o
+protestors,
+o-o
+or
+o-o
+sociopathic
+o-o
 socialists,
 o-o
-or immigrants,
-o-o
-or homeless
-o-o
-drug users
-o-o
-waiting for
+who wait for
 o-o
 handouts.
 end-lyric
@@ -2195,7 +2231,9 @@ behind the deaths
 o-o
 of so many wild
 o-o
-animals and the
+animals.
+o-o
+And the
 o-o
 cutting of
 o-o
@@ -2228,22 +2266,36 @@ o-o
 this is it!
 end-lyric
 
+ambee sings-fiance amenn
+Go ahead and swear.
+o-o
+I dare you to.
+end-lyric
+
+ambee sings-minister amenn
+Changing the subject,
+o-o
+do any of you
+o-o
+have any questions
+o-o
+for me?
+end-lyric
+
 ambee sings-father-of-fiance amenn
-Perhaps this isn't
+I have a
 o-o
-a great time to
+question.
 o-o
-bring it up,
+Why do
 o-o
-but I have not
+religious
 o-o
-understood why
+organizations
 o-o
-religion
+get tax
 o-o
-deserves to be
-o-o
-tax exempt.
+exemptions?
 o-o
 Especially
 o-o
@@ -4484,6 +4536,26 @@ o-o
 located.
 end-lyric
 
+ambee sings-desha amenn
+And nobody
+o-o
+drives to a city
+o-o
+as their travel
+o-o
+destination
+o-o
+because
+o-o
+the city has
+o-o
+Burger King
+o-o
+franchise
+o-o
+locations.
+end-lyric
+
 ambee sings-father-of-fiance amenn
 My business
 o-o
@@ -4869,7 +4941,9 @@ so maybe
 o-o
 that would make
 o-o
-food cost less.
+dining out
+o-o
+cost less.
 end-lyric
 
 ambee sings-damien amenn

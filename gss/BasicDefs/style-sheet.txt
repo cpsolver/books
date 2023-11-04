@@ -80,6 +80,15 @@ margin-bottom:2px;
     font-weight: bold;
 }
 
+.singer_damien{
+    color:white;
+    background-color:blue;
+}
+
+.singer_desha{
+    background-color:pink;
+}
+
 <new_line>
 
 
