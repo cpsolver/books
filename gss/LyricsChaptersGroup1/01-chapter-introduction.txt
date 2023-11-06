@@ -3,57 +3,45 @@ title-chapter-01
 end-title
 
 begin-basic-paragraph
-Young carpenter name-damien flunked out of community college, so he fumbles and struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
+This book is a comedy, written entirely in dialog.
+end-basic-paragraph
+
+begin-basic-paragraph
+It's the entertaining comic story of a young carpenter named name-damien, and a wild young woman named name-desha no-space .
 sentence-next
-A wild young woman named name-desha joins his fight.
+name-damien no-space , who flunked out of community college, struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
 sentence-next
-In secret they meet two wise mentors who reveal the hidden path to flipping the world right hyphen-here side up.
+name-desha joins his fight.
+sentence-next
+Together they dig under many layers of political dung and entertaining distractions to uncover the secret that reveals why the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side.
+sentence-next
+Their journey includes meeting in secret with two wise mentors who point to the hidden path that will flip the world right hyphen-here side up.
+sentence-next
+As a big bonus, this hidden path will dramatically reduce corruption in politics.
 sentence-next
 In the wild conclusion their worlds collide in surprising ways.
 end-basic-paragraph
 
 begin-basic-paragraph
-Are you angry at the craziness going on in U.S. politics?
-sentence-next
-Are you frustrated that the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side?
-sentence-next
-Do you fear economic hard times, too many pandemic deaths, more school shootings, and overpriced access to kitten videos?
+If you are angry at the craziness going on in U.S. politics, if you fear yet more school shootings and even worse economic hard times, including higher hyphen-here priced access to kitten videos, please take the time to learn the big secret you'll want to share with your friends.
 end-basic-paragraph
 
 begin-basic-paragraph
-This is the entertaining comic story of a young man named name-damien and a young woman named name-desha who together dig under many layers of political dung and entertaining distractions to uncover the secret tactic that wealthy business owners use to control politicians in both the Republican and Democratic parties.
-end-basic-paragraph
-
-begin-basic-paragraph
-Even better, name-damien and name-desha learn the solution that eventually will reduce corruption in politics.
+Can't wait to learn the secret?
 sentence-next
-The name of the solution is simple.
-sentence-next
-It's called begin-italics pairwise vote counting end-italics no-space .
+The secret in a nutshell is called begin-italics pairwise vote counting end-italics no-space .
 sentence-next
 It will be used in general elections to count ranked choice ballots.
 sentence-next
 What does this mean?
 sentence-next
 Read the story to join name-damien and name-desha in their insightful adventure!
+sentence-next
+Then share this secret with your friends.
 end-basic-paragraph
 
 begin-basic-paragraph
-This book is a comedy, written entirely in dialog.
-sentence-next
-Soon this dialog will be performed by voice actors to create an audiobook.
-sentence-next
-Later there will be a video version.
-sentence-next
-To find out more about the audiobook and any video versions, point your browser to: SolutionsCreative.com
-sentence-next
-In the meantime, please learn the secret explained in this book, and then tell your friends.
+To find out about audiobook recordings and video performances of this entertaining yet insightful dialog, point your browser to: SolutionsCreative.com
 end-basic-paragraph
 
-begin-basic-paragraph
-The author also explains this secret in his book titled begin-italics Ending The Hidden Unfairness In U.S. Elections end-italics no-space .
-sentence-next
-But that non hyphen-here fiction book is, for most people, too dry (not as entertaining) and too long.
-sentence-next
-Here you can have fun as you learn the secret you will want to share with your friends.
-end-basic-paragraph
+page-break

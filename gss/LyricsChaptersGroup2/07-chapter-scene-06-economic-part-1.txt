@@ -224,9 +224,9 @@ increased prosperity.
 o-o
 And that increase
 o-o
-later feeds back to
+later will feed back
 o-o
-the ones who
+to the ones who
 o-o
 temporarily
 o-o
@@ -1072,15 +1072,17 @@ That means
 o-o
 they eat in,
 o-o
-go on cheaper dates,
-o-o
 travel less,
+o-o
+go on cheaper dates,
 o-o
 and buy fewer shoes.
 end-lyric
 
 ambee sings-damien amenn
 That's fewer
+o-o
+and smaller
 o-o
 money transfers,
 o-o
@@ -1208,11 +1210,13 @@ interest.
 end-lyric
 
 ambee sings-damien amenn
-I see.
+I suppose
 o-o
-That gives the stock
+that gives
 o-o
-market sort of a
+the stock market
+o-o
+sort of a
 o-o
 monopoly.
 end-lyric
@@ -1806,6 +1810,26 @@ I have to teach
 o-o
 to the tests.
 o-o
+I have to use
+o-o
+special terminology.
+o-o
+Such as begin-italics the
+o-o
+tragedy of the commons end-italics
+o-o
+instead of talking about
+o-o
+economic pie.
+end-lyric
+
+ambee sings-damien amenn
+That would be
+o-o
+distasteful.
+end-lyric
+
+ambee sings-econhist amenn
 Yet the important
 o-o
 parts of economics
@@ -2254,9 +2278,11 @@ end-lyric
 ambee sings-damien amenn
 So the government
 o-o
-saves lots of money
+pays out less
 o-o
-by pretending
+money by
+o-o
+pretending
 o-o
 inflation
 o-o
@@ -2266,13 +2292,15 @@ right?
 end-lyric
 
 ambee sings-econhist amenn
-Yes.
+Exactly.
 o-o
-And as another
+As another
 o-o
-trick they
+trick,
 o-o
-get to exclude
+they get to
+o-o
+exclude
 o-o
 rent and fuel,
 o-o
@@ -2986,15 +3014,29 @@ end-lyric
 ambee sings-econhist amenn
 And there was
 o-o
-less cheating
+less cheating.
 o-o
-by merchants
+Soldiers
 o-o
-who used short
+made sure that
 o-o
-measuring
+merchants
 o-o
-sticks.
+didn't use
+o-o
+heavier weights
+o-o
+to measure
+o-o
+what they buy,
+o-o
+and lighter weights
+o-o
+to measure
+o-o
+the gold and gems
+o-o
+they paid.
 end-lyric
 
 ambee sings-desha amenn
@@ -3334,17 +3376,33 @@ through conquest.
 o-o
 That means stealing.
 o-o
-That's what brought
+Sometimes a ruler
 o-o
-lots of
+surrendered
 o-o
-valuable
+when the Roman army
 o-o
-stuff into Rome,
+arrived.
 o-o
-from other
+Other times
 o-o
-regions.
+there was fighting.
+o-o
+Either way,
+o-o
+the Roman army
+o-o
+took
+o-o
+gold and jewels,
+o-o
+and crowns and
+o-o
+tiaras,
+o-o
+and artwork,
+o-o
+back to Rome.
 end-lyric
 
 ambee sings-damien amenn
@@ -3556,7 +3614,7 @@ end-lyric
 ambee sings-econhist amenn
 Basically, yes.
 o-o
-And it gave
+It gave
 o-o
 democracy
 o-o
@@ -4626,9 +4684,9 @@ the signs.
 o-o
 Especially
 o-o
-the one with
+the big one
 o-o
-an arrow
+with a big arrow
 o-o
 that said
 o-o
@@ -4808,7 +4866,7 @@ o-o
 earthquakes.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 Earth's
 o-o
 orgasms.
@@ -6555,7 +6613,7 @@ her wealth.
 o-o
 And Stephen
 o-o
-Colbert
+Colbert begin-explain pronounced begin-italics cole-BARE end-italics end-explain
 o-o
 does because
 o-o
