@@ -14,12 +14,8 @@ begin-subtitle
 by Richard Fobes
 end-subtitle
 
-begin-centered
-Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
-end-basic-paragraph
-
 begin-subtitle
-Cover artwork by TBD
+Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
 end-subtitle
 
 
@@ -34,9 +30,7 @@ begin-basic-paragraph
 end-basic-paragraph
 
 begin-basic-paragraph
-Also hereby permitted without cost is the performance of this dialog in a theater by volunteer actors organized by a non hyphen-here profit organization on the condition that there are no word changes and the full dialog without any omission is included in the performance and any and all financial income after expenses exclusively goes to that non hyphen-here profit organization.
-sentence-next
-An unabridged video of this full theatrical performance is also allowed to be made available if any and all financial income exclusively goes to the same non hyphen-here profit organization.
+Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the condition that there are no word changes and every theater performance and every published audio or video recording includes the full dialog without any omission and all financial income after expenses exclusively goes to this non hyphen-here profit organization.
 end-basic-paragraph
 
 begin-basic-paragraph

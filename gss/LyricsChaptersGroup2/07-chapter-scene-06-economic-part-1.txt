@@ -804,8 +804,24 @@ the topic,
 o-o
 the subject,
 o-o
-the concept.
+the panoramic
 o-o
+perspective
+o-o
+of the
+o-o
+fully exposed
+o-o
+landscape.
+end-lyric
+
+ambee sings-desha amenn
+The naked
+o-o
+true view.
+end-lyric
+
+ambee sings-econhist amenn
 Don't try to push
 o-o
 away the fear.
@@ -912,13 +928,45 @@ be unexpected.
 end-lyric
 
 ambee sings-econhist amenn
+Alas,
+o-o
+doing what's
+o-o
+been done before,
+o-o
+and expecting
+o-o
+a different
+o-o
+result,
+o-o
+is, ...
+o-o
+well, ....
+end-lyric
+
+ambee sings-desha amenn
+Batshit crazy.
+end-lyric
+
+ambee sings-damien amenn
+Even I've learned
+o-o
+to do
+o-o
+less of that.
+end-lyric
+
+ambee sings-econhist amenn
 Let's look
 o-o
 at one of the
 o-o
-problems that
+complications
 o-o
-economists face.
+that economists
+o-o
+face.
 o-o
 You've heard of
 o-o
@@ -3762,9 +3810,9 @@ bail them out
 o-o
 of their
 o-o
-foolish world war
+foolish World War
 o-o
-two.
+Two.
 end-lyric
 
 ambee sings-econhist amenn
@@ -4803,15 +4851,13 @@ things.
 o-o
 Like bombs,
 o-o
-social media
+and silicon chips,
 o-o
-platforms,
-o-o
-and animated
-o-o
-Pixar movies.
+and batteries.
 o-o
 Decades ago
+o-o
+access to
 o-o
 sugar was
 o-o
@@ -4843,25 +4889,17 @@ I don't claim
 o-o
 to be an expert
 o-o
-about military
+about diet.
 o-o
-defensibility.
+Or defending
 o-o
-Or handling
-o-o
-pandemics,
-o-o
-or preventing
+against
 o-o
 power hyphen-here grid
 o-o
-failures,
+attacks.
 o-o
-or using the
-o-o
-Richter Scale
-o-o
-to measure
+Or surviving
 o-o
 earthquakes.
 end-lyric
