@@ -3,13 +3,17 @@ title-chapter-01
 end-title
 
 begin-basic-paragraph
-This story is a comedy, written as dialog, in which a young carpenter named name-damien no-space , who flunked out of community college, struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
+This story is a comedy, written as dialog.
 sentence-next
-A wild young woman named name-desha joins his quest.
+A young carpenter named name-damien struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
 sentence-next
-Together they dig under layers of political dung, insightful history, and entertaining distractions to uncover the secret that reveals why the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side.
+He flunked out of community college so he gets assistance from a wild young woman named name-desha no-space .
 sentence-next
-Their journey includes secret meetings with wise mentors who reveal the hidden path that will flip the world right hyphen-here side up, and dramatically reduce corruption in politics.
+Together they meet in secret with wise mentors who reveal the hidden path that will flip the world right hyphen-here side up.
+sentence-next
+To reach their big insights they dig under layers of political dung, discover entertaining distractions, and learn about commonly overlooked turning points in history.
+sentence-next
+These insights reveal why the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side.
 sentence-next
 In the wild conclusion several worlds collide in surprising ways.
 end-basic-paragraph
