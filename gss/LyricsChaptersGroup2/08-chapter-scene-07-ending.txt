@@ -835,15 +835,23 @@ Ah, yes,
 o-o
 winning.
 o-o
-Parents use
+Parents
 o-o
-winning
+and teachers
+o-o
+and managers
+o-o
+use winning
 o-o
 prizes
 o-o
 to entice
 o-o
-kids to learn.
+kids and
+o-o
+young people
+o-o
+to learn.
 o-o
 But the real goal
 o-o
@@ -855,17 +863,29 @@ we leave behind
 o-o
 the gold stars,
 o-o
-participation
+the shiny
 o-o
 trophies,
 o-o
+the memory
+o-o
+of being
+o-o
+employee
+o-o
+of the month,
+o-o
 and even
 o-o
-our dreams of
+the dream of
 o-o
-winning
+a huge
 o-o
-a Nobel Prize.
+audience
+o-o
+loudly chanting
+o-o
+your name.
 o-o
 The skills
 o-o
@@ -881,15 +901,19 @@ have been
 o-o
 forgotten,
 o-o
-turned into ashes
+and the
 o-o
-in a fire,
+evidence
 o-o
-or buried under
+is buried
 o-o
-the rubble
+under the
 o-o
-of warfare.
+rubble of
+o-o
+fighting
+o-o
+old battles.
 o-o
 Now the skill
 o-o
@@ -1059,9 +1083,9 @@ my money on
 o-o
 countless shoes,
 o-o
-dresses they wear
+and outings
 o-o
-only once,
+without me,
 o-o
 and trips to
 o-o
@@ -1773,13 +1797,21 @@ archways.
 end-lyric
 
 ambee sings-vc amenn
-About the boasting,
+That makes
+o-o
+more sense.
+o-o
+And name-father-of-fiance no-space ,
+o-o
+about the boasting,
 o-o
 if I understand
 o-o
-rightly,
+what father means,
 o-o
-it's a sign
+it might be
+o-o
+a sign
 o-o
 of low self esteem.
 end-lyric
@@ -4918,7 +4950,7 @@ o-o
 stepped on.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 And fewer fingers
 o-o
 would get cut

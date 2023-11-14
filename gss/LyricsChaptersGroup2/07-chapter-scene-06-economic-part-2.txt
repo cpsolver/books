@@ -61,11 +61,19 @@ inequality.
 end-lyric
 
 ambee sings-econhist amenn
-The Gini
+Basically
+o-o
+the Gini
 o-o
 coefficient
 o-o
-started rising
+measures the gap
+o-o
+between rich
+o-o
+and poor.
+o-o
+It started rising
 o-o
 in the late
 o-o
@@ -267,7 +275,9 @@ crises?
 end-lyric
 
 ambee sings-econhist amenn
-Perhaps
+If you're right,
+o-o
+perhaps
 o-o
 the biggest
 o-o
@@ -279,19 +289,23 @@ is pairwise
 o-o
 vote counting.
 o-o
-That will end
+That could end
 o-o
 the big bad
 o-o
 feedback
 o-o
-loop.
+loop,
+o-o
+if it's done right.
 end-lyric
 
 ambee sings-damien amenn
-And that will
+So better
 o-o
-increase
+vote counting
+o-o
+could increase
 o-o
 economic
 o-o
@@ -702,7 +716,7 @@ puppet
 o-o
 and one
 o-o
-one Democratic
+Democratic
 o-o
 puppet
 o-o
@@ -2512,11 +2526,19 @@ better laws.
 o-o
 But that requires
 o-o
-better
+increasing
 o-o
-vote hyphen-here counting
+the influence
 o-o
-methods.
+of voters,
+o-o
+and decreasing
+o-o
+the influence
+o-o
+of money in
+o-o
+politics.
 end-lyric
 
 ambee sings-desha amenn

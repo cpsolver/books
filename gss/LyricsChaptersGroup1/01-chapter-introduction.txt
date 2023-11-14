@@ -3,25 +3,19 @@ title-chapter-01
 end-title
 
 begin-basic-paragraph
-This book is a comedy, written entirely in dialog.
+This story is a comedy, written as dialog, in which a young carpenter named name-damien no-space , who flunked out of community college, struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
+sentence-next
+A wild young woman named name-desha joins his quest.
+sentence-next
+Together they dig under layers of political dung, insightful history, and entertaining distractions to uncover the secret that reveals why the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side.
+sentence-next
+Their journey includes secret meetings with wise mentors who reveal the hidden path that will flip the world right hyphen-here side up, and dramatically reduce corruption in politics.
+sentence-next
+In the wild conclusion several worlds collide in surprising ways.
 end-basic-paragraph
 
 begin-basic-paragraph
-It's the entertaining comic story of a young carpenter named name-damien no-space , and a wild young woman named name-desha no-space .
-sentence-next
-name-damien no-space , who flunked out of community college, struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
-sentence-next
-name-desha joins his fight.
-sentence-next
-Together they dig under many layers of political dung and entertaining distractions to uncover the secret that reveals why the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side.
-sentence-next
-Their journey includes meeting in secret with two wise mentors who point to the hidden path that will flip the world right hyphen-here side up, and dramatically reduce corruption in politics.
-sentence-next
-In the wild conclusion their worlds collide in surprising ways.
-end-basic-paragraph
-
-begin-basic-paragraph
-If you are angry at the craziness going on in U.S. politics, if you fear yet more school shootings, if you are frustrated by low wages that aren't keeping up with high inflation, and if you fear increasing censorship of books and kitten videos, please take time to learn the big secret you'll want to share with your friends.
+If you are angry at the craziness going on in U.S. politics, if you fear yet more school shootings, if you're frustrated that low wages aren't keeping up with high inflation, and if you fear increasing censorship of books and kitten videos, please take time to learn the big secret you'll want to share with your friends.
 end-basic-paragraph
 
 begin-basic-paragraph
@@ -39,7 +33,7 @@ Then share this secret with your friends.
 end-basic-paragraph
 
 begin-basic-paragraph
-To find out about audiobook recordings and video performances of this entertaining yet insightful dialog, point your browser to: SolutionsCreative.com
+To find out about audiobook recordings and video performances of this witty dialog, point your browser to: SolutionsCreative.com
 end-basic-paragraph
 
 page-break

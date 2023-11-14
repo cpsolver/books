@@ -7,7 +7,7 @@ book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2023-November-6 end-explain
+begin-explain Draft 2023-November-13 end-explain
 end-subtitle
 
 begin-subtitle
@@ -61,7 +61,7 @@ Numbers
 end-subtitle
 
 begin-basic-paragraph
-First Edition, ePub edition, published 2024.
+First Edition, ePub edition, published 2025.
 end-basic-paragraph
 
 begin-basic-paragraph

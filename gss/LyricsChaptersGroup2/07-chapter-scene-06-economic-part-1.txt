@@ -1858,37 +1858,63 @@ I have to teach
 o-o
 to the tests.
 o-o
-I have to use
+If I ask an
 o-o
-special terminology.
+essay question
 o-o
-Such as begin-italics the
+and the student
 o-o
-tragedy of the commons end-italics
+mentions
 o-o
-instead of talking about
+begin-italics the tragedy
+o-o
+of the commons end-italics
+o-o
+I score it high.
+o-o
+But I have to
+o-o
+score it low
+o-o
+if they just talk about
 o-o
 economic pie.
 end-lyric
 
 ambee sings-damien amenn
-That would be
+No wonder
+o-o
+school is so
 o-o
 distasteful.
 end-lyric
 
+ambee sings-desha amenn
+I'm glad we're
+o-o
+getting the
+o-o
+uncommon version,
+o-o
+not the tragic
+o-o
+version.
+end-lyric
+
 ambee sings-econhist amenn
-Yet the important
+The basic
 o-o
 parts of economics
 o-o
 are the concepts,
 o-o
-and that's why it's
+not their names.
 o-o
-a delight to get
+It's a delight
 o-o
-to explain them
+to explain
+o-o
+the concepts
 o-o
 to you two.
 end-lyric
@@ -2143,6 +2169,10 @@ o-o
 and up fast
 o-o
 while salaries
+o-o
+suck,
+o-o
+I mean
 o-o
 stay stuck?
 end-lyric
@@ -4246,9 +4276,11 @@ mathematics
 o-o
 and surveying
 o-o
-to lay out the
+to lay out
 o-o
-new farming
+that year's
+o-o
+farming
 o-o
 boundaries.
 o-o
@@ -4387,10 +4419,10 @@ o-o
 and
 o-o
 government.
-o-o
-Now,
-o-o
-as I see it,
+end-lyric
+
+ambee sings-desha amenn
+So now,
 o-o
 the big barrier
 o-o
@@ -4406,7 +4438,7 @@ voting methods.
 end-lyric
 
 ambee sings-damien amenn
-So what would
+What would
 o-o
 happen if we,
 o-o
@@ -4891,23 +4923,15 @@ to be an expert
 o-o
 about diet.
 o-o
-Or defending
+Or defense
 o-o
 against
 o-o
-power hyphen-here grid
+the dark arts
+o-o
+of power hyphen-here grid
 o-o
 attacks.
-o-o
-Or surviving
-o-o
-earthquakes.
-end-lyric
-
-ambee sings-desha amenn
-Earth's
-o-o
-orgasms.
 end-lyric
 
 ambee sings-damien amenn
@@ -5459,7 +5483,7 @@ too many deaths
 o-o
 caused by flood,
 o-o
-or pandemic,
+or earthquakes,
 o-o
 or crop failure,
 o-o
@@ -6447,15 +6471,15 @@ Chinese
 o-o
 Americans
 o-o
-in Chinatown
+in Chinatown,
 o-o
 back when
 o-o
 other banks
 o-o
-shunned those
+shunned Asian
 o-o
-people as
+Americans as
 o-o
 customers.
 o-o
@@ -7042,6 +7066,32 @@ end-lyric
 
 ambee sings-desha amenn
 I'm ready for this fight!
+end-lyric
+
+ambee sings-econhist amenn
+And it would
+o-o
+decrease
+o-o
+prosperity
+o-o
+in Russia,
+o-o
+China,
+o-o
+and
+o-o
+North Korea,
+o-o
+where
+o-o
+corrupt
+o-o
+dictators
+o-o
+undermine
+o-o
+efficiency.
 end-lyric
 
 ambee sings-damien amenn

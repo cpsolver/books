@@ -35,13 +35,13 @@ Welcome name-desha
 o-o
 and name-damien no-space .
 o-o
-Let's go into
+Welcome to
 o-o
-the classroom
+my classroom.
 o-o
-to talk.
+As we get settled
 o-o
-By the way,
+I'll ask you
 o-o
 name-damien no-space ,
 o-o
@@ -51,6 +51,8 @@ pi?
 end-lyric
 
 ambee sings-damien-firstuse amenn
+I'll keep things real.
+o-o
 In the morning
 o-o
 pie seems so
@@ -67,8 +69,6 @@ Already I'm confused.
 end-lyric
 
 ambee sings-desha amenn
-Let's keep it real.
-o-o
 He doesn't know
 o-o
 about those
@@ -77,7 +77,9 @@ special meanings
 o-o
 for pi and
 o-o
-irrational
+irrational,
+o-o
+and real,
 o-o
 in the
 o-o

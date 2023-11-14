@@ -23,7 +23,7 @@ dir /b /s .\*.txt > %DirExpand%temp_list_of_file_paths.txt
 rem ---------- move to Expand folder ----------
 
 cd F:\Important\GitHub\books\gss\Expand\
-del output_libretto.html
+del goat_spitting_secret.html
 
 
 rem ---------- generate first half ----------
@@ -61,12 +61,18 @@ rem "C:\Program Files\7-Zip\7z.exe" a F:\Important\GitHub\books\gss\GoatSpitting
 
 rem ---------- check HTML tags ----------
 
-%PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%output_libretto.html > output_check_html_tags.txt
+%PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%goat_spitting_secret.html > output_check_html_tags.txt
 
 
 rem ---------- copy to VoteFair site ----------
 
-copy %DirExpand%output_libretto.html F:\Important\MySite_VoteFair\VoteFair_html\goat_spitting_secret.html
+copy %DirExpand%goat_spitting_secret.html F:\Important\MySite_VoteFair\VoteFair_html\goat_spitting_secret.html
+
+
+rem ---------- create local copy under full name ----------
+
+del F:\Important\GitHub\books\gss\goat_spitting_secret.html
+copy %DirExpand%goat_spitting_secret.html F:\Important\GitHub\books\gss\goat_spitting_secret.html
 
 
 pause
