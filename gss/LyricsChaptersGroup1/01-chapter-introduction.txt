@@ -7,13 +7,11 @@ This story is a comedy, written as dialog.
 sentence-next
 A young carpenter named name-damien struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
 sentence-next
-He flunked out of community college so he gets assistance from a wild young woman named name-desha no-space .
+He flunked out of community college so he gets assistance from name-desha who is a wild young woman with a degree in political science.
 sentence-next
-Together they meet in secret with wise mentors who reveal the hidden path that will flip the world right hyphen-here side up.
+Together they meet in secret with wise mentors who help them dig under layers of political dung, learn important insights that school textbooks fail to teach, and discover the hidden path that will flip the world right hyphen-here side up.
 sentence-next
-To reach their big insights they dig under layers of political dung, discover entertaining distractions, and learn about commonly overlooked turning points in history.
-sentence-next
-These insights reveal why the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side.
+What they learn reveals why the United States Congress lacks a backbone and couldn't crawl it's way out of an open paper bag lying on its side.
 sentence-next
 In the wild conclusion several worlds collide in surprising ways.
 end-basic-paragraph
