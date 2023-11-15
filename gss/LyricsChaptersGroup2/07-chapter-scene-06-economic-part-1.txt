@@ -3526,6 +3526,8 @@ efficient banking.
 o-o
 Plus improved ships
 o-o
+and navigation
+o-o
 using technology
 o-o
 from China.
@@ -3542,6 +3544,10 @@ rudder.
 end-lyric
 
 ambee sings-damien amenn
+Of course
+o-o
+gunpowder.
+o-o
 And the digit zero.
 end-lyric
 
@@ -3577,30 +3583,30 @@ end-lyric
 
 ambee sings-damien amenn
 Oh thanks!
-o-o
-And gunpowder
-o-o
-too?
-end-lyric
-
-ambee sings-econhist amenn
-Certainly
-o-o
-gunpowder
-o-o
-enabled seagoing
-o-o
-people to exploit
-o-o
-other regions
-o-o
-and their resources.
 end-lyric
 
 ambee sings-desha amenn
-Now that I
+Gunpowder
 o-o
-recognize
+empowered
+o-o
+Europeans
+o-o
+to explode, ...
+o-o
+to exploit ...
+o-o
+the native
+o-o
+people in
+o-o
+north, south,
+o-o
+and central
+o-o
+America.
+o-o
+Now I realize
 o-o
 that using
 o-o
@@ -3742,19 +3748,39 @@ end-lyric
 ambee sings-desha amenn
 Corruption!
 o-o
-And even
+And good hyphen-here old hyphen-here boys
 o-o
-their version
+drinking binges
+o-o
+in pubs.
+end-lyric
+
+ambee sings-damien amenn
+I suppose
+o-o
+those meetings
+o-o
+and drinking
+o-o
+together
+o-o
+were early
+o-o
+versions
 o-o
 of teamwork
 o-o
-building
+building?
 o-o
-involved
+And networking?
+end-lyric
+
+ambee sings-desha amenn
+Designed to
 o-o
-good hyphen-here old hyphen-here boys
+exlude
 o-o
-drinking binges.
+women.
 end-lyric
 
 ambee sings-econhist amenn

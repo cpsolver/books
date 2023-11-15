@@ -64,8 +64,8 @@ font-size:18px;
 .action{
 padding-top:2px;
 padding-bottom:2px;
-margin-top:4px;
-margin-bottom:4px;
+margin-top:6px;
+margin-bottom:6px;
 }
 
 .singername,

@@ -2475,26 +2475,16 @@ o-o
 underwear
 o-o
 against rocks.
-o-o
+end-lyric
+
+ambee sings-desha amenn
 Now we waste
 o-o
 too much time
 o-o
 sitting in cars,
 o-o
-working in the
-o-o
-kitchen,
-o-o
-watching
-o-o
-ads for
-o-o
-seaweed scented
-o-o
-after shave,
-o-o
-and cleaning up
+cleaning up
 o-o
 after a
 o-o
@@ -2502,14 +2492,25 @@ self hyphen-here cleaning
 o-o
 cat litter box
 o-o
-malfunctions
+malfunctions,
 o-o
-and blocks a
+and scrolling
 o-o
-diarrhetic
+past ads for
 o-o
-cat.
+tee shirts
 o-o
+that say
+o-o
+begin-italics 
+five out of four
+o-o
+people struggle
+o-o
+with math end-italics no-space .
+end-lyric
+
+ambee sings-econhist amenn
 Those time wasters
 o-o
 and other
