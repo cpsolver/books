@@ -202,6 +202,10 @@ will be
 o-o
 passed.
 o-o
+They will reduce
+o-o
+corruption.
+o-o
 Then a few
 o-o
 people who
@@ -277,6 +281,10 @@ ambee sings-desha amenn
 I'm not fond of
 o-o
 strawberry pie.
+o-o
+And not apple
+o-o
+or rhubarb.
 o-o
 Can we call it
 o-o
@@ -1856,7 +1864,9 @@ Alas, yes.
 o-o
 I have to teach
 o-o
-to the tests.
+what might be
+o-o
+in the tests.
 o-o
 If I ask an
 o-o
@@ -2773,6 +2783,14 @@ ambee sings-damien amenn
 So what should be
 o-o
 going on instead?
+o-o
+Besides
+o-o
+traveling
+o-o
+in flying
+o-o
+cars.
 end-lyric
 
 ambee sings-econhist amenn
@@ -4335,7 +4353,17 @@ o-o
 was a threat to the
 o-o
 Catholic Church.
+end-lyric
+
+ambee sings-damien amenn
+Because
 o-o
+he made
+o-o
+heads spin?
+end-lyric
+
+ambee sings-desha amenn
 He showed that
 o-o
 science

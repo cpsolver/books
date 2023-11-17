@@ -7,15 +7,13 @@ book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2023-November-13 end-explain
+begin-explain Draft 2023-November-17 end-explain
 end-subtitle
 
 begin-subtitle
 by Richard Fobes
-end-subtitle
-
-begin-subtitle
-Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
+sentence-next
+(Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>)
 end-subtitle
 
 
@@ -30,7 +28,7 @@ begin-basic-paragraph
 end-basic-paragraph
 
 begin-basic-paragraph
-Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the condition that there are no word changes and every theater performance and every published audio or video recording includes the full dialog without any omission and all financial income after expenses exclusively goes to the non hyphen-here profit organization.
+Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the conditions that there are no word changes and that every theater performance and every published audio or video recording includes the full dialog without any omission and that all financial income after expenses exclusively goes to the non hyphen-here profit organization.
 end-basic-paragraph
 
 begin-basic-paragraph
@@ -46,11 +44,19 @@ www.SolutionsCreative.com
 end-basic-paragraph
 
 begin-basic-paragraph
-The characters in this story are fictional. sentence-next Any resemblance to actual people, other than the author, is entirely coincidental.
+The characters in this story are fictional, based on voices in the author's head.
+sentence-next
+Any resemblance to actual people, other than the author, is entirely coincidental.
+sentence-next
+Really.
+sentence-next
+Exception: The author's now hyphen-here deceased brother had the visual disability that name-damien has.
 end-basic-paragraph
 
 begin-basic-paragraph
-The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit. sentence-next To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported) sources of information.
+The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
+sentence-next
+To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported) sources of information.
 end-basic-paragraph
 
 
