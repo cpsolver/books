@@ -23,7 +23,7 @@ end-comment
 ************ comenn
 
 ambee sings-desha-firstuse amenn
-Hi professor
+Hi
 o-o
 name-mathprof no-space .
 o-o

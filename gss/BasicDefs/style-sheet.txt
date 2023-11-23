@@ -22,7 +22,7 @@ p,object,blockquote,pre,address,code,img,small,strong,dl,dt,dd,ol,ul,li,form,lab
 font-family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans-serif;
 font-size:17px;
 font-weight:normal;
-line-height:130%;
+line-height:190%;
 }
 
 p{
@@ -59,35 +59,64 @@ h4{
 font-size:18px;
 }
 
-.lyric,
-.singer,
-.action{
+.lyric{
 padding-top:2px;
 padding-bottom:2px;
 margin-top:6px;
 margin-bottom:6px;
 }
 
-.singername,
-.singermainmale,
-.singermainfemale{
-    font-size:108%;
-    color:black;
-}
-
-.singermainmale,
-.singermainfemale{
-    font-weight: bold;
-}
-
-.singer_damien{
-    color:white;
-    background-color:blue;
+.singer_abbrev{
+font-size:108%;
+font-weight: bold;
+padding:6px 5px 5px 5px;
+margin:0px 0px 0px 0px;
 }
 
 .singer_desha{
-    background-color:pink;
+background-color:coral;
+border-radius:10px;
 }
+
+.singer_fiance{
+background-color:yellow;
+}
+
+.singer_mathprof{
+background-color:fuchsia;
+}
+
+.singer_damien{
+color:white;
+background-color:blue;
+border-radius:20px;
+}
+
+.singer_vc{
+color:white;
+background-color:green;
+}
+
+.singer_politician{
+color:white;
+background-color:indigo;
+}
+
+.singer_minister{
+color:white;
+background-color:grey;
+}
+
+.singer_econhist{
+color:white;
+background-color:violet;
+}
+
+.singer_father_of_fiance{
+color:white;
+background-color:brown;
+}
+
 
 <new_line>
 

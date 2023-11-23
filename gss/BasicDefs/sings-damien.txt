@@ -1,4 +1,4 @@
-<p class="lyric"><span class="singer_damien"> no-space
+<p class="lyric"><span class="singer_damien singer_abbrev"> no-space
 abbrev-damien
 ambee end-singer amenn
 begin-lyric

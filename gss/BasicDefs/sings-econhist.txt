@@ -1,4 +1,4 @@
-<p class="lyric"><span class="singer_econhist"> no-space
+<p class="lyric"><span class="singer_econhist singer_abbrev"> no-space
 abbrev-econhist
 ambee end-singer amenn
 begin-lyric

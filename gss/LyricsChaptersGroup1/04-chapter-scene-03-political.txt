@@ -912,7 +912,9 @@ Ah,
 o-o
 your point
 o-o
-is sticking.
+is beginning
+o-o
+to stick.
 o-o
 It's like the
 o-o
@@ -1533,6 +1535,446 @@ o-o
 outnumber whiskers
 o-o
 on a walrus.
+end-lyric
+
+ambee sings-politician amenn
+There are lots
+o-o
+of tricks
+o-o
+to control
+o-o
+politics.
+o-o
+For example,
+o-o
+do you know what
+o-o
+delegates are?
+end-lyric
+
+ambee sings-damien amenn
+Sure,
+o-o
+that's the
+o-o
+laundry cycle
+o-o
+women use to
+o-o
+wash their
+o-o
+underwear.
+end-lyric
+
+ambee sings-politician amenn
+You're thinking
+o-o
+of delicates
+o-o
+with a begin-italics Cee end-italics no-space .
+o-o
+This is delegates
+o-o
+with a begin-italics Gee end-italics no-space .
+end-lyric
+
+ambee sings-damien amenn
+So I should
+o-o
+ask to try guts
+o-o
+the next time
+o-o
+I'm in a
+o-o
+delacatessen?
+end-lyric
+
+ambee sings-politician amenn
+A delegate
+o-o
+is someone
+o-o
+you vote for
+o-o
+and they vote for
+o-o
+the actual candidate.
+end-lyric
+
+ambee sings-damien amenn
+Like the
+o-o
+electoral college?
+end-lyric
+
+ambee sings-politician amenn
+Sort of
+o-o
+like that.
+o-o
+But here
+o-o
+I'm talking
+o-o
+about a primary
+o-o
+election.
+o-o
+The one before
+o-o
+the nomination
+o-o
+convention.
+end-lyric
+
+ambee sings-damien amenn
+The conventions
+o-o
+I know about
+o-o
+sell
+o-o
+computer games,
+o-o
+comic books,
+o-o
+and whacky
+o-o
+kitchen gadgets.
+end-lyric
+
+ambee sings-politician amenn
+A political
+o-o
+convention
+o-o
+doesn't sell
+o-o
+anything,
+o-o
+at least not
+o-o
+directly.
+o-o
+During a
+o-o
+begin-italics primary end-italics
+o-o
+election,
+o-o
+when you vote
+o-o
+for a governor,
+o-o
+secretary of state,
+o-o
+or president,
+o-o
+you're actually
+o-o
+voting for
+o-o
+someone who
+o-o
+has promised
+o-o
+to vote for
+o-o
+the candidate
+o-o
+whose name
+o-o
+you mark on
+o-o
+your ballot.
+o-o
+Those people,
+o-o
+the ones who
+o-o
+get enough votes,
+o-o
+are delegates.
+o-o
+They travel to
+o-o
+a convention
+o-o
+where they
+o-o
+vote on your
+o-o
+behalf.
+end-lyric
+
+ambee sings-damien amenn
+Why isn't my vote
+o-o
+counted directly?
+end-lyric
+
+ambee sings-politician amenn
+Sometimes,
+o-o
+none of the
+o-o
+candidates
+o-o
+gets a majority
+o-o
+of votes.
+o-o
+There has to be
+o-o
+enough support
+o-o
+to justify
+o-o
+having just one
+o-o
+nominee
+o-o
+on the
+o-o
+general
+o-o
+election
+o-o
+ballot.
+o-o
+So at the
+o-o
+convention
+o-o
+the delegates
+o-o
+do rounds
+o-o
+of voting
+o-o
+until one
+o-o
+candidate
+o-o
+gets a majority,
+o-o
+that's half
+o-o
+the votes.
+end-lyric
+
+ambee sings-damien amenn
+So we're at
+o-o
+a nomination
+o-o
+convention,
+o-o
+where one of the
+o-o
+delegates
+o-o
+is voting
+o-o
+on my behalf.
+end-lyric
+
+ambee sings-politician amenn
+After each round
+o-o
+of voting,
+o-o
+if there's no
+o-o
+majority,
+o-o
+the candidate
+o-o
+with the fewest
+o-o
+delegate votes
+o-o
+usually
+o-o
+drops out.
+o-o
+Traditionally
+o-o
+that candidate
+o-o
+tells their
+o-o
+delegates
+o-o
+who to vote for
+o-o
+in the next round.
+end-lyric
+
+ambee sings-damien amenn
+Now I'm the one
+o-o
+spinning
+o-o
+round and round
+o-o
+in the
+o-o
+laundry
+o-o
+machine.
+end-lyric
+
+ambee sings-politician amenn
+It can get
+o-o
+very messy.
+o-o
+There used to be
+o-o
+lots of backroom
+o-o
+deals involved.
+o-o
+Like promises
+o-o
+of political
+o-o
+appointments
+o-o
+in return for
+o-o
+a candidate
+o-o
+telling
+o-o
+their delegates
+o-o
+to vote for
+o-o
+the more popular
+o-o
+candidate
+o-o
+who has made
+o-o
+that promise.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+I see,
+o-o
+lots of tricks
+o-o
+go on
+o-o
+to influence
+o-o
+the delegates.
+end-lyric
+
+ambee sings-politician amenn
+Indeed.
+o-o
+And before women
+o-o
+got the right
+o-o
+to vote,
+o-o
+sexual bribery
+o-o
+was common.
+end-lyric
+
+ambee sings-damien amenn
+Whoa!
+o-o
+Trading a vote
+o-o
+for sex?
+o-o
+That's a kind
+o-o
+of bribery
+o-o
+I didn't
+o-o
+know about.
+end-lyric
+
+ambee sings-politician amenn
+People with
+o-o
+lots of money
+o-o
+can pay helpers
+o-o
+to pay for
+o-o
+whatever
+o-o
+helps the rich
+o-o
+to win.
+o-o
+And at the
+o-o
+Democratic
+o-o
+national
+o-o
+election,
+o-o
+where a
+o-o
+presidential
+o-o
+candidate
+o-o
+is chosen,
+o-o
+there are
+o-o
+superdelegates
+o-o
+who weren't
+o-o
+elected by
+o-o
+the voters.
+end-lyric
+
+ambee sings-damien amenn
+Wow,
+o-o
+layers
+o-o
+and layers
+o-o
+of corrup...,
+o-o
+of extra
+o-o
+influence.
+o-o
+Just to get
+o-o
+this
+o-o
+majority
+o-o
+thingy.
+o-o
+Why is that
+o-o
+so damned
+o-o
+important?
 end-lyric
 
 ambee sings-politician amenn

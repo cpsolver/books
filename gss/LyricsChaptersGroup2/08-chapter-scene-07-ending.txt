@@ -1807,7 +1807,7 @@ archways.
 end-lyric
 
 ambee sings-vc amenn
-That makes
+That does make
 o-o
 more sense.
 o-o
@@ -2728,24 +2728,76 @@ ambee sings-father-of-fiance amenn
 Harrumph!
 o-o
 That won't work.
+o-o
+What we need
+o-o
+instead
+o-o
+is law and order!
 end-lyric
 
 ambee sings-desha amenn
-What won't work
+Yes we need
 o-o
-is the version
+law and order.
 o-o
-in your head.
+But not the kind
 o-o
-But that's not
+based on the
 o-o
-the version that
+TV shows
 o-o
-my words are
+with that name.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Those are based
 o-o
-intended to
+on real police
 o-o
-mean.
+cases.
+end-lyric
+
+ambee sings-desha amenn
+Yes,
+o-o
+but races are changed
+o-o
+to protect
+o-o
+white supremecy.
+o-o
+Those shows
+o-o
+don't show
+o-o
+a black person
+o-o
+getting
+o-o
+arrested.
+o-o
+And the white
+o-o
+person who
+o-o
+gets arrested
+o-o
+is always guilty.
+o-o
+That's not
+o-o
+like real life
+o-o
+where district
+o-o
+attorneys
+o-o
+more often
+o-o
+protect
+o-o
+the innocent.
 end-lyric
 
 ambee sings-damien-firstuse amenn

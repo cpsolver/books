@@ -69,7 +69,7 @@ Yeah I know.
 o-o
 My mom's
 o-o
-Puerto Rican.
+begin-italics Puerto Rican end-italics begin-explain pronounced with a Spanish hyphen-here language accent end-explain no-space .
 end-lyric
 
 ambee sings-desha amenn
@@ -247,7 +247,9 @@ Yeah,
 o-o
 corruption's
 o-o
-so unfair.
+so selfish
+o-o
+and unfair.
 o-o
 It's like leavin'
 o-o

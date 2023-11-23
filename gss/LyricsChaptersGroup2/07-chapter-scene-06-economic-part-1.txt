@@ -18,11 +18,15 @@ end-comment
 ambee sings-desha-firstuse amenn
 Are you professor
 o-o
-name-econhist no-space ?
+Penta ...,
+o-o
+Pentagitis?
 end-lyric
 
 ambee sings-econhist-firstuse amenn
-Yes. Are you two
+name-econhist no-space .
+o-o
+Are you two
 o-o
 Demon and Dasha?
 end-lyric
@@ -214,13 +218,17 @@ greatly profit
 o-o
 from existing
 o-o
-conditions might
+kinds of
+o-o
+corruption
+o-o
+might
 o-o
 temporarily
 o-o
-earn less money,
+earn less money.
 o-o
-and almost everyone
+Almost everyone
 o-o
 else will enjoy
 o-o
@@ -1600,19 +1608,9 @@ end-lyric
 ambee sings-damien amenn
 What's a
 o-o
-weed black poop?
-end-lyric
-
-ambee sings-desha amenn
-Get your head
+backwards
 o-o
-out of that
-o-o
-gloomy
-o-o
-pot smoker's
-o-o
-toilet.
+loop?
 end-lyric
 
 ambee sings-econhist amenn
@@ -2412,7 +2410,7 @@ That means they
 o-o
 go up and down
 o-o
-like a nervous
+like a caffinated
 o-o
 kangaroo rat.
 end-lyric
@@ -2968,15 +2966,11 @@ efficiency?
 end-lyric
 
 ambee sings-desha amenn
-No,
+Your time machine
 o-o
-you've got the
+is running
 o-o
-cause and effect
-o-o
-backwards
-o-o
-in your head.
+backwards.
 o-o
 Efficiency
 o-o
