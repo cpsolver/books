@@ -594,11 +594,13 @@ Many people
 o-o
 mistakenly
 o-o
-focus on
+think that
 o-o
 history
 o-o
-as recalling
+is mostly
+o-o
+recalling
 o-o
 facts about
 o-o
@@ -633,6 +635,48 @@ o-o
 to learn
 o-o
 history.
+end-lyric
+
+ambee sings-desha amenn
+Wikipedia is wrong
+o-o
+lots of the time.
+end-lyric
+
+ambee sings-damien amenn
+About topics
+o-o
+where money is affected,
+o-o
+sure.
+o-o
+But Wikipedia
+o-o
+is usually
+o-o
+right about
+o-o
+non hyphen-here recent
+o-o
+history,
+o-o
+and basic
+o-o
+mathematics,
+o-o
+chemistry,
+o-o
+and physics,
+o-o
+and movie plots.
+o-o
+That's because
+o-o
+those don't affect
+o-o
+anyone's
+o-o
+finances.
 end-lyric
 
 ambee sings-damien amenn

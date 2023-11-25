@@ -44,13 +44,13 @@ www.SolutionsCreative.com
 end-basic-paragraph
 
 begin-basic-paragraph
-The characters in this story are fictional, based on voices in the author's head. no-space <sup> no-space * no-space </sup>
+The characters in this story are fictional, based on voices in the author's head. no-space begin-superscript no-space * no-space end-superscript
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
 Exception: The author's now hyphen-here deceased brother had the visual disability that name-damien has.
 sentence-next
-(* The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, grad student, election hyphen-here method expert, contract technical writer, token male, physics major, software developer, massage therapist, neighborhood organizer, and dance instructor.)
+( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household,  software developer, massage therapist, physics major, dance performance group leader, grad student, neighborhood organizer, election hyphen-here method expert, contract technical writer, and dance instructor.)
 end-basic-paragraph
 
 begin-basic-paragraph
