@@ -658,15 +658,17 @@ right about
 o-o
 non hyphen-here recent
 o-o
-history,
+history.
 o-o
-and basic
+Also about
+o-o
+non hyphen-here medical
+o-o
+biochemistry,
+o-o
+basic
 o-o
 mathematics,
-o-o
-chemistry,
-o-o
-and physics,
 o-o
 and movie plots.
 o-o
@@ -1017,1978 +1019,28 @@ o-o
 less of that.
 end-lyric
 
-ambee sings-econhist amenn
-Let's look
-o-o
-at one of the
-o-o
-complications
-o-o
-that economists
-o-o
-face.
-o-o
-You've heard of
-o-o
-the gross domestic
-o-o
-product,
-o-o
-the GDP?
-end-lyric
-
 ambee sings-damien amenn
-Yeah, it measures,
+The connection
 o-o
-well, when it goes
+between
 o-o
-up, that's good.
+corruption
 o-o
-'N when it goes
+and economic
 o-o
-down, that's bad.
+prosperity
+o-o
+is fuzzy
+o-o
+to me.
+o-o
+Can you bring
+o-o
+it into focus?
 end-lyric
 
 ambee sings-econhist amenn
-So here's the next
-o-o
-test question.
-o-o
-Does the GDP
-o-o
-go up or down
-o-o
-when a family's
-o-o
-house burns down?
-end-lyric
-
-ambee sings-damien amenn
-This seems like
-o-o
-another trick
-o-o
-question so I'll
-o-o
-say GDP
-o-o
-goes up.
-end-lyric
-
-ambee sings-econhist amenn
-C plus.
-o-o
-For an A you need
-o-o
-to tell me why.
-end-lyric
-
-ambee sings-desha amenn
-Because building the
-o-o
-replacement house,
-o-o
-or more likely the
-o-o
-selling of the property
-o-o
-to a developer who
-o-o
-builds a condominium,
-o-o
-is business activity,
-o-o
-and that's what GDP
-o-o
-measures.
-end-lyric
-
-ambee sings-econhist amenn
-A plus.
-o-o
-Yes, GDP just
-o-o
-measures transfers
-o-o
-of money.
-o-o
-When nothing is
-o-o
-bought or sold
-o-o
-there's no change
-o-o
-in gross domestic
-o-o
-product.
-end-lyric
-
-ambee sings-damien amenn
-That is gross.
-o-o
-But what's this
-o-o
-got to do with
-o-o
-election
-o-o
-vote hyphen-here counting
-o-o
-reform?
-end-lyric
-
-ambee sings-econhist amenn
-When people are
-o-o
-optimistic about
-o-o
-the future,
-o-o
-GDP goes up
-o-o
-because people
-o-o
-buy more products,
-o-o
-and pay for more
-o-o
-services.
-end-lyric
-
-ambee sings-desha amenn
-And eat out more,
-o-o
-and make more
-o-o
-babies.
-end-lyric
-
-ambee sings-econhist amenn
-But when people
-o-o
-are pessimistic
-o-o
-about the future,
-o-o
-they delay
-o-o
-gratification.
-end-lyric
-
-ambee sings-desha amenn
-That means
-o-o
-they eat in,
-o-o
-travel less,
-o-o
-go on cheaper dates,
-o-o
-and buy fewer shoes.
-end-lyric
-
-ambee sings-damien amenn
-That's fewer
-o-o
-and smaller
-o-o
-money transfers,
-o-o
-so GDP
-o-o
-goes down.
-end-lyric
-
-ambee sings-econhist amenn
-Yes, when people
-o-o
-fearfully
-o-o
-cling to the
-o-o
-money in their
-o-o
-bank account
-o-o
-that pulls
-o-o
-down the
-o-o
-economy
-o-o
-as measured by
-o-o
-GDP.
-end-lyric
-
-ambee sings-damien amenn
-And I suppose
-o-o
-when they postpone
-o-o
-making babies,
-o-o
-there are fewer
-o-o
-future
-o-o
-customers.
-end-lyric
-
-ambee sings-desha amenn
-You are bright.
-o-o
-So name-econhist no-space ,
-o-o
-do you think
-o-o
-people will become
-o-o
-optimistic when
-o-o
-fairer voting
-o-o
-methods are
-o-o
-adopted?
-end-lyric
-
-ambee sings-econhist amenn
-The short answer
-o-o
-is yes.
-o-o
-The fuller answer
-o-o
-involves what's
-o-o
-happening now in
-o-o
-the economy.
-end-lyric
-
-ambee sings-damien amenn
-I keep hearing
-o-o
-the economy's
-o-o
-on the climbing
-o-o
-path of a
-o-o
-roller coaster.
-o-o
-But I'm in
-o-o
-one of the cars
-o-o
-that's derailed,
-o-o
-and I'm
-o-o
-plunging
-o-o
-fast.
-end-lyric
-
-ambee sings-econhist amenn
-The stock market
-o-o
-keeps going up and up
-o-o
-because people
-o-o
-with money have
-o-o
-few other places
-o-o
-to invest it.
-o-o
-Specifically
-o-o
-certificates
-o-o
-of deposit
-o-o
-haven't been
-o-o
-yielding much
-o-o
-interest.
-end-lyric
-
-ambee sings-damien amenn
-I suppose
-o-o
-that gives
-o-o
-the stock market
-o-o
-sort of a
-o-o
-monopoly.
-end-lyric
-
-ambee sings-desha amenn
-So stocks are
-o-o
-like an
-o-o
-over-inflated
-o-o
-balloon.
-o-o
-Does that mean our
-o-o
-roller coaster
-o-o
-ride will soon
-o-o
-plummet?
-o-o
-And the poor
-o-o
-will all die?
-end-lyric
-
-ambee sings-econhist amenn
-It's difficult
-o-o
-to predict when
-o-o
-it will drop
-o-o
-from its
-o-o
-recent
-o-o
-top.
-end-lyric
-
-ambee sings-damien amenn
-You said
-o-o
-economists
-o-o
-predict the future.
-end-lyric
-
-ambee sings-econhist amenn
-Knowing begin-italics what end-italics will
-o-o
-happen is
-o-o
-different
-o-o
-from knowing begin-italics when end-italics
-o-o
-those whats will
-o-o
-happen.
-o-o
-Professors
-o-o
-of economics
-o-o
-focus on
-o-o
-rational
-o-o
-behavior.
-o-o
-But successful
-o-o
-investors earn
-o-o
-lots of money
-o-o
-by knowing the
-o-o
-stock market
-o-o
-can stay
-o-o
-irrational
-o-o
-longer than
-o-o
-investors
-o-o
-can stay
-o-o
-solvent.
-end-lyric
-
-ambee sings-desha amenn
-Ah.
-o-o
-Economists
-o-o
-assume people
-o-o
-are smart.
-o-o
-This explains why
-o-o
-they,
-o-o
-and you,
-o-o
-aren't wealthy.
-end-lyric
-
-ambee sings-econhist amenn
-Our math proofs
-o-o
-do have
-o-o
-some goofs.
-o-o
-After all,
-o-o
-measuring
-o-o
-stupidity
-o-o
-is tricky.
-end-lyric
-
-ambee sings-damien amenn
-Speaking of
-o-o
-morons,
-o-o
-why doesn't
-o-o
-the economy
-o-o
-work for
-o-o
-hard workers
-o-o
-like me?
-o-o
-The numbers lie.
-o-o
-They say
-o-o
-everything's
-o-o
-hunky dory.
-o-o
-Is this an example
-o-o
-of mathiness?
-end-lyric
-
-ambee sings-econhist amenn
-I don't know what
-o-o
-mathiness is.
-o-o
-But numbers can
-o-o
-be deceptive.
-o-o
-What many people
-o-o
-overlook is that
-o-o
-the unemployment
-o-o
-rate that's in the news
-o-o
-just counts people
-o-o
-who are now getting
-o-o
-unemployment
-o-o
-benefits.
-end-lyric
-
-ambee sings-desha amenn
-Those benefits
-o-o
-run out after a
-o-o
-few months of having
-o-o
-no job. I've learned
-o-o
-that from
-o-o
-experience.
-o-o
-So unemployment
-o-o
-is actually higher,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes, it's higher.
-end-lyric
-
-ambee sings-damien amenn
-Why don't economists
-o-o
-measure that?
-o-o
-The real unemployment
-o-o
-rate.
-end-lyric
-
-ambee sings-econhist amenn
-The government
-o-o
-does measure that
-o-o
-as well.
-o-o
-But most
-o-o
-newspapers and
-o-o
-TV stations
-o-o
-report the
-o-o
-unemployment
-o-o
-rate
-o-o
-that
-o-o
-government
-o-o
-officials call
-o-o
-attention to.
-end-lyric
-
-ambee sings-desha amenn
-Since wealthy
-o-o
-business owners
-o-o
-own news sources,
-o-o
-they probably
-o-o
-tell their
-o-o
-reporters
-o-o
-to report the
-o-o
-lower rate.
-o-o
-That gives
-o-o
-consumers
-o-o
-the confidence
-o-o
-to spend dollars
-o-o
-more freely.
-o-o
-And that gives
-o-o
-the wealthy
-o-o
-more sales,
-o-o
-more money.
-end-lyric
-
-ambee sings-damien amenn
-I thought it was
-o-o
-just the
-o-o
-government
-o-o
-being sneaky.
-end-lyric
-
-ambee sings-econhist amenn
-It's both.
-o-o
-The government
-o-o
-knows that if they
-o-o
-call attention
-o-o
-to the higher
-o-o
-unemployment rate,
-o-o
-then some of the
-o-o
-optimism
-o-o
-disappears.
-o-o
-Then the economy
-o-o
-and the GDP
-o-o
-would trend
-o-o
-downward.
-o-o
-And that would
-o-o
-activate a
-o-o
-bad feedback loop.
-end-lyric
-
-ambee sings-damien amenn
-What's a
-o-o
-backwards
-o-o
-loop?
-end-lyric
-
-ambee sings-econhist amenn
-A feedback loop.
-o-o
-When you're in
-o-o
-an auditorium
-o-o
-and the sound
-o-o
-system squeals,
-o-o
-that's a
-o-o
-feedback loop.
-end-lyric
-
-ambee sings-damien amenn
-Oh yeah.
-o-o
-That's when
-o-o
-...
-o-o
-a tiny sound
-o-o
-at the microphone
-o-o
-...
-o-o
-gets amplified
-o-o
-...
-o-o
-'n comes out the
-o-o
-speakers
-o-o
-...
-o-o
-'n gets
-o-o
-back to the
-o-o
-microphone
-o-o
-...
-o-o
-just slightly
-o-o
-louder than
-o-o
-before.
-end-lyric
-
-ambee sings-econhist amenn
-It becomes
-o-o
-as loud as possible
-o-o
-as fast as
-o-o
-possible.
-o-o
-And a feedback loop
-o-o
-is what makes a
-o-o
-hurricane
-o-o
-so powerful.
-o-o
-There are lots of
-o-o
-feedback loops.
-o-o
-That's what's
-o-o
-behind
-o-o
-economic
-o-o
-inflation.
-end-lyric
-
-ambee sings-damien amenn
-A strong wind?
-end-lyric
-
-ambee sings-econhist amenn
-When an employee
-o-o
-who makes plush
-o-o
-toy dinosaurs
-o-o
-gets a salary
-o-o
-increase,
-o-o
-the business
-o-o
-has to increase
-o-o
-the price of
-o-o
-their dinos.
-o-o
-A mother working
-o-o
-in a grocery store
-o-o
-then gets a raise
-o-o
-to afford rising
-o-o
-toy prices.
-o-o
-Then the
-o-o
-grocery store
-o-o
-slightly raises
-o-o
-its prices
-o-o
-to cover that
-o-o
-cost increase.
-o-o
-Then that feeds back
-o-o
-to the original
-o-o
-employee who
-o-o
-shops at that
-o-o
-grocery store.
-end-lyric
-
-ambee sings-desha amenn
-That's inflation,
-o-o
-when salaries
-o-o
-and prices
-o-o
-increase
-o-o
-together.
-end-lyric
-
-ambee sings-econhist amenn
-That feedback loop
-o-o
-has to be slowed down
-o-o
-by doing something
-o-o
-that decouples
-o-o
-at least one
-o-o
-of the links
-o-o
-in the loop.
-end-lyric
-
-ambee sings-damien amenn
-So announcing
-o-o
-a higher rate of
-o-o
-unemployment
-o-o
-would undermine
-o-o
-optimism.
-o-o
-And that would
-o-o
-bring down
-o-o
-the economy.
-o-o
-And that would
-o-o
-cause more
-o-o
-layoffs.
-o-o
-And that would
-o-o
-speed up
-o-o
-how fast the
-o-o
-economy
-o-o
-goes down.
-o-o
-This makes sense.
-end-lyric
-
-ambee sings-desha amenn
-Governments
-o-o
-try to make the
-o-o
-economy
-o-o
-grow fast.
-o-o
-And yet also
-o-o
-keep inflation
-o-o
-slow.
-end-lyric
-
-ambee sings-econhist amenn
-That's the concept.
-o-o
-Of course
-o-o
-my students
-o-o
-have to say it
-o-o
-with the right
-o-o
-terminology.
-end-lyric
-
-ambee sings-damien amenn
-Otherwise they'd
-o-o
-get bad grades
-o-o
-on standardized
-o-o
-tests.
-end-lyric
-
-ambee sings-econhist amenn
-Alas, yes.
-o-o
-I have to teach
-o-o
-what might be
-o-o
-in the tests.
-o-o
-If I ask an
-o-o
-essay question
-o-o
-and the student
-o-o
-mentions
-o-o
-begin-italics the tragedy
-o-o
-of the commons end-italics
-o-o
-I score it high.
-o-o
-But I have to
-o-o
-score it low
-o-o
-if they just talk about
-o-o
-economic pie.
-end-lyric
-
-ambee sings-damien amenn
-No wonder
-o-o
-school is so
-o-o
-distasteful.
-end-lyric
-
-ambee sings-desha amenn
-I'm glad we're
-o-o
-getting the
-o-o
-uncommon version,
-o-o
-not the tragic
-o-o
-version.
-end-lyric
-
-ambee sings-econhist amenn
-The basic
-o-o
-parts of economics
-o-o
-are the concepts,
-o-o
-not their names.
-o-o
-It's a delight
-o-o
-to explain
-o-o
-the concepts
-o-o
-to you two.
-end-lyric
-
-ambee sings-damien amenn
-name-desha no-space ,
-o-o
-I'm thinkin'
-o-o
-here the
-o-o
-concept is
-o-o
-...
-o-o
-your poop
-o-o
-scooper loop's
-o-o
-a feedback
-o-o
-loop?
-end-lyric
-
-ambee sings-desha amenn
-That's a different
-o-o
-kind of
-o-o
-feedback loop.
-o-o
-Dog owners
-o-o
-have to care
-o-o
-about the health
-o-o
-of other dogs
-o-o
-to protect
-o-o
-their own dog's
-o-o
-health.
-o-o
-Here, in
-o-o
-economic
-o-o
-kinds of
-o-o
-feedback loops,
-o-o
-begin-italics self hyphen-here interest end-italics
-o-o
-is the
-o-o
-motivation.
-end-lyric
-
-ambee sings-damien amenn
-Ah, the
-o-o
-employees
-o-o
-ask for a
-o-o
-higher salary
-o-o
-for selfish
-o-o
-reasons.
-o-o
-'N the business
-o-o
-owners sell
-o-o
-at higher
-o-o
-prices
-o-o
-for selfish
-o-o
-reasons.
-end-lyric
-
-ambee sings-econhist amenn
-Right.
-o-o
-In economic
-o-o
-feedback loops
-o-o
-the changes
-o-o
-happen because
-o-o
-each person
-o-o
-focuses on
-o-o
-what they
-o-o
-themselves
-o-o
-want.
-o-o
-Without caring
-o-o
-about what
-o-o
-others want.
-o-o
-Like with those
-o-o
-cobra snake
-o-o
-breeders.
-o-o
-They didn't
-o-o
-much care
-o-o
-how many
-o-o
-cobra snakes
-o-o
-are in the
-o-o
-city.
-o-o
-Their actions
-o-o
-were just based on
-o-o
-monetary
-o-o
-self hyphen-here interest.
-end-lyric
-
-ambee sings-damien amenn
-I see.
-o-o
-Dog owners,
-o-o
-the pooper
-o-o
-scooper ones,
-o-o
-care how many
-o-o
-piles of dog poop
-o-o
-their dog
-o-o
-can sniff.
-o-o
-But that's
-o-o
-affected by
-o-o
-other dog
-o-o
-owners.
-o-o
-There's no
-o-o
-benefit
-o-o
-to poop
-o-o
-scooping
-o-o
-if other
-o-o
-dog owners
-o-o
-don't scoop
-o-o
-too.
-end-lyric
-
-ambee sings-desha amenn
-You've got it.
-end-lyric
-
-ambee sings-damien amenn
-Hey!
-o-o
-...
-o-o
-Wait a moment.
-o-o
-...
-o-o
-Feedback loops
-o-o
-are what rich
-o-o
-business owners
-o-o
-use to get
-o-o
-oversized slices
-o-o
-of economic pie!
-o-o
-They use lawyers.
-o-o
-And they control
-o-o
-news sources.
-o-o
-And they control
-o-o
-politicians.
-o-o
-They use
-o-o
-feedback loops
-o-o
-to give themselves
-o-o
-bigger
-o-o
-and bigger
-o-o
-slices of
-o-o
-cherry pie.
-o-o
-No wonder
-o-o
-I'm hungry,
-o-o
-economically.
-end-lyric
-
-ambee sings-desha amenn
-So why
-o-o
-does it seem
-o-o
-that rent
-o-o
-'n food
-o-o
-'n ice cream
-o-o
-are going up
-o-o
-and up fast
-o-o
-while salaries
-o-o
-suck,
-o-o
-I mean
-o-o
-stay stuck?
-end-lyric
-
-ambee sings-econhist amenn
-It's not your
-o-o
-imagination.
-o-o
-The cost of living
-o-o
-is going up
-o-o
-faster than
-o-o
-the consumer
-o-o
-price index,
-o-o
-which is the
-o-o
-official
-o-o
-measurement
-o-o
-of inflation.
-end-lyric
-
-ambee sings-desha amenn
-That's another
-o-o
-corrupt
-o-o
-measurement.
-o-o
-The consumer
-o-o
-price index.
-o-o
-But I forgot
-o-o
-why it's corrupt.
-end-lyric
-
-ambee sings-econhist amenn
-You didn't forget.
-o-o
-We can't teach why
-o-o
-to undergrads.
-o-o
-Part of the why
-o-o
-is because
-o-o
-back when the price
-o-o
-of food items
-o-o
-were quickly
-o-o
-rising,
-o-o
-some food items
-o-o
-were replaced by
-o-o
-items whose cost
-o-o
-were declining.
-end-lyric
-
-ambee sings-damien amenn
-What's declining
-o-o
-in cost?
-end-lyric
-
-ambee sings-econhist amenn
-The per hyphen-here pixel cost
-o-o
-of digital
-o-o
-cameras.
-end-lyric
-
-ambee sings-damien amenn
-I recognize
-o-o
-that word begin-italics per end-italics no-space .
-o-o
-It means division.
-o-o
-And the number
-o-o
-of pixels in
-o-o
-a camera
-o-o
-are going up,
-o-o
-so dividing by
-o-o
-that bigger number
-o-o
-makes the result
-o-o
-go down.
-end-lyric
-
-ambee sings-desha amenn
-So that's another way
-o-o
-the government
-o-o
-is hiding the real
-o-o
-cost of living.
-o-o
-I can guess why
-o-o
-they're not being
-o-o
-transparent.
-o-o
-But something else
-o-o
-is going on, right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-o-o
-Some government
-o-o
-expenses
-o-o
-are matched to the
-o-o
-consumer price
-o-o
-index.
-o-o
-Such as
-o-o
-retirement
-o-o
-pensions for
-o-o
-government
-o-o
-employees,
-o-o
-and social
-o-o
-security
-o-o
-benefits.
-o-o
-And that index's
-o-o
-linked to the
-o-o
-interest
-o-o
-they pay for
-o-o
-borrowed
-o-o
-money.
-o-o
-So the
-o-o
-government
-o-o
-wants inflation
-o-o
-to stay low.
-end-lyric
-
-ambee sings-damien amenn
-So the government
-o-o
-pays out less
-o-o
-money by
-o-o
-pretending
-o-o
-inflation
-o-o
-is low,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Exactly.
-o-o
-As another
-o-o
-trick,
-o-o
-they get to
-o-o
-exclude
-o-o
-rent and fuel,
-o-o
-which are rising
-o-o
-quickly.
-o-o
-They're
-o-o
-excluded
-o-o
-from that index
-o-o
-because they're
-o-o
-too volatile.
-end-lyric
-
-ambee sings-desha amenn
-That means they
-o-o
-go up and down
-o-o
-like a caffinated
-o-o
-kangaroo rat.
-end-lyric
-
-ambee sings-damien amenn
-Is anything else
-o-o
-being fudged?
-end-lyric
-
-ambee sings-desha amenn
-Besides hot
-o-o
-sundaes?
-end-lyric
-
-ambee sings-econhist amenn
-name-desha no-space ,
-o-o
-do you
-o-o
-remember from
-o-o
-econ one oh one
-o-o
-what determines
-o-o
-interest rates?
-end-lyric
-
-ambee sings-desha amenn
-The federal
-o-o
-reserve chooses
-o-o
-when to increase
-o-o
-and decrease the
-o-o
-interest rate,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-That's the rate
-o-o
-talked about
-o-o
-in the news,
-o-o
-but more important
-o-o
-is the rate
-o-o
-determined by
-o-o
-auctioning
-o-o
-treasuries.
-end-lyric
-
-ambee sings-desha amenn
-I don't remember
-o-o
-learning about
-o-o
-those actions,
-o-o
-I mean,
-o-o
-auctions.
-end-lyric
-
-ambee sings-econhist amenn
-It's not taught to
-o-o
-undergrads.
-end-lyric
-
-ambee sings-desha amenn
-I'll bet textbooks
-o-o
-don't include it
-o-o
-because schools
-o-o
-are funded by
-o-o
-the government.
-o-o
-So textbooks can't
-o-o
-reveal secrets
-o-o
-the government
-o-o
-wants to hide.
-end-lyric
-
-ambee sings-econhist amenn
-Yes, that's another
-o-o
-feedback loop.
-end-lyric
-
-ambee sings-damien amenn
-All these feedback
-o-o
-loops!
-o-o
-They make math seem
-o-o
-simple.
-end-lyric
-
-ambee sings-desha amenn
-I agree.
-end-lyric
-
-ambee sings-econhist amenn
-U.S. treasuries
-o-o
-are sold in
-o-o
-auctions.
-o-o
-In economically
-o-o
-optimistic
-o-o
-times those
-o-o
-treasuries
-o-o
-sell for
-o-o
-higher prices,
-o-o
-closer to the
-o-o
-amount the
-o-o
-government pays
-o-o
-when they reach their
-o-o
-redemption date.
-end-lyric
-
-ambee sings-desha amenn
-Ah, but in
-o-o
-economically
-o-o
-pessimistic
-o-o
-times the buyers
-o-o
-pay much less.
-o-o
-That increases
-o-o
-the gap between
-o-o
-purchase price
-o-o
-and redemption
-o-o
-payment. So that
-o-o
-brings up rates
-o-o
-of interest,
-o-o
-right?
-end-lyric
-
-ambee sings-damien amenn
-Ah, I think I'm
-o-o
-following.
-o-o
-Since interest
-o-o
-rates are now low,
-o-o
-that means there's
-o-o
-lots of buyers
-o-o
-for those
-o-o
-...
-o-o
-things?
-end-lyric
-
-ambee sings-desha amenn
-Treasuries.
-end-lyric
-
-ambee sings-econhist amenn
-A plus.
-o-o
-Yes, normally.
-o-o
-But China and
-o-o
-Russia stopped
-o-o
-buying them so
-o-o
-lately the
-o-o
-federal reserve
-o-o
-has been buying
-o-o
-lots of them.
-end-lyric
-
-ambee sings-desha amenn
-That would be like
-o-o
-the plush toy
-o-o
-dinosaur
-o-o
-business
-o-o
-buying its own
-o-o
-dinos to give
-o-o
-the appearance
-o-o
-of extra customers
-o-o
-and income.
-end-lyric
-
-ambee sings-econhist amenn
-That's partly
-o-o
-why the deficit
-o-o
-is so huge.
-end-lyric
-
-ambee sings-damien amenn
-Ah, so the U.S.
-o-o
-government has
-o-o
-increased its debt
-o-o
-to compensate
-o-o
-for rough times
-o-o
-economically?
-end-lyric
-
-ambee sings-desha amenn
-Wait a moment.
-o-o
-Our economy's
-o-o
-like a stack of
-o-o
-wood blocks in a
-o-o
-teetering tower
-o-o
-that's ready to
-o-o
-fall?
-end-lyric
-
-ambee sings-econhist amenn
-Almost all
-o-o
-nations and all
-o-o
-big businesses
-o-o
-are in debt.
-o-o
-So are farmers.
-o-o
-They all have to
-o-o
-borrow first
-o-o
-before they can
-o-o
-grow crops or
-o-o
-manufacture
-o-o
-or whatever to
-o-o
-get income.
-end-lyric
-
-ambee sings-desha amenn
-So being in debt
-o-o
-is not a big deal,
-o-o
-but a growing
-o-o
-deficit, that's
-o-o
-bad, right?
-end-lyric
-
-ambee sings-econhist amenn
-Relatively
-o-o
-speaking, yes.
-o-o
-But as long as
-o-o
-the government
-o-o
-is keeping its
-o-o
-citizens happy,
-o-o
-and happier than
-o-o
-in other nations,
-o-o
-problems can be
-o-o
-hidden behind
-o-o
-curtains of
-o-o
-distraction.
-end-lyric
-
-ambee sings-desha amenn
-The number of
-o-o
-people trying
-o-o
-to immigrate
-o-o
-into the U.S.
-o-o
-is still high.
-o-o
-So that
-o-o
-suggests
-o-o
-success.
-o-o
-Yet things
-o-o
-are a mess.
-end-lyric
-
-ambee sings-damien amenn
-So what should be
-o-o
-going on instead?
-o-o
-Besides
-o-o
-traveling
-o-o
-in flying
-o-o
-cars.
-end-lyric
-
-ambee sings-econhist amenn
-History tells us
-o-o
-that prosperity
-o-o
-happens when a
-o-o
-city, nation,
-o-o
-or region
-o-o
-sells something
-o-o
-that people outside
-o-o
-the region
-o-o
-either need or
-o-o
-strongly desire.
-o-o
-And it's not
-o-o
-available from
-o-o
-anywhere else.
-end-lyric
-
-ambee sings-damien amenn
-I need an
-o-o
-example
-o-o
-because,
-o-o
-well,
-o-o
-it helps.
-end-lyric
-
-ambee sings-econhist amenn
-Do you know what
-o-o
-the silk road was?
-end-lyric
-
-ambee sings-damien amenn
-Yeah,
-o-o
-Marco Polo
-o-o
-and lots of
-o-o
-caravans
-o-o
-traveled along
-o-o
-it to get silk
-o-o
-from China.
-end-lyric
-
-ambee sings-desha amenn
-That means
-o-o
-China was getting
-o-o
-lots of valuable
-o-o
-things flowing
-o-o
-into their country
-o-o
-to pay for the silk.
-end-lyric
-
-ambee sings-damien amenn
-So that made
-o-o
-China rich?
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-o-o
-China wisely
-o-o
-kept their special
-o-o
-silkworms within
-o-o
-the Forbidden
-o-o
-City to
-o-o
-protect their
-o-o
-monopoly.
-o-o
-Protecting a
-o-o
-monopoly
-o-o
-through secrecy
-o-o
-is an important
-o-o
-way for a
-o-o
-region or a
-o-o
-business to
-o-o
-dramatically
-o-o
-gain economic
-o-o
-prosperity.
-end-lyric
-
-ambee sings-desha amenn
-The Forbidden
-o-o
-City's the fortress
-o-o
-where the emperor
-o-o
-of China
-o-o
-lived.
-end-lyric
-
-ambee sings-damien amenn
-Be the
-o-o
-only source
-o-o
-of something
-o-o
-valuable.
-o-o
-That's a
-o-o
-monopoly.
-o-o
-Hmm,
-o-o
-this seems
-o-o
-familiar.
-end-lyric
-
-ambee sings-econhist amenn
-Another way
+An important way
 o-o
 to increase
 o-o
@@ -3193,8 +1245,44 @@ o-o
 Got it.
 end-lyric
 
+ambee sings-desha amenn
+Ah,
+o-o
+less corruption!
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+when there is
+o-o
+less corruption
+o-o
+there is less waste.
+o-o
+So more time ...
+end-lyric
+
+ambee sings-desha amenn
+and effort
+o-o
+and resources
+o-o
+and money ...
+end-lyric
+
+ambee sings-damien amenn
+... goes into
+o-o
+building things
+o-o
+worthwhile?
+end-lyric
+
 ambee sings-econhist amenn
-Especially
+Exactly.
+o-o
+Also
 o-o
 important
 o-o
@@ -3213,6 +1301,20 @@ o-o
 but fewer
 o-o
 business disputes.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+fighting
+o-o
+also wastes
+o-o
+time, money,
+o-o
+resources, ...
+o-o
+... and lives.
 end-lyric
 
 ambee sings-damien amenn
@@ -3802,7 +1904,9 @@ organizations.
 end-lyric
 
 ambee sings-desha amenn
-Corruption!
+More kinds of
+o-o
+corruption!
 o-o
 And good hyphen-here old hyphen-here boys
 o-o
@@ -4513,22 +2617,6 @@ o-o
 government.
 end-lyric
 
-ambee sings-desha amenn
-So now,
-o-o
-the big barrier
-o-o
-against progress
-o-o
-for civilization
-o-o
-is our use of
-o-o
-very primitive
-o-o
-voting methods.
-end-lyric
-
 ambee sings-damien amenn
 What would
 o-o
@@ -4550,27 +2638,23 @@ change the U.S.
 o-o
 economy?
 o-o
-To make it fair.
+You've said they would
 o-o
-I assume they would
+reduce corruption,
 o-o
-increase our
+which will
 o-o
-efficiency,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes they would
-o-o
-want to increase
+increase
 o-o
 prosperity.
 o-o
-As a start,
+What else
 o-o
-they would avoid
+would change?
+end-lyric
+
+ambee sings-econhist amenn
+They would avoid
 o-o
 making big mistakes
 o-o
@@ -4715,10 +2799,6 @@ o-o
 why don't we
 o-o
 have more of that?
-o-o
-'N fewer
-o-o
-monopolies?
 end-lyric
 
 ambee sings-desha amenn
@@ -4742,7 +2822,19 @@ to outdated ways
 o-o
 of doing business.
 o-o
-So naturally
+Especially
+o-o
+in ways that
+o-o
+involve
+o-o
+monopolies.
+o-o
+So under
+o-o
+current
+o-o
+conditions
 o-o
 wealthy business
 o-o
@@ -7680,4 +5772,2244 @@ o-o
 and wages
 o-o
 are high.
+end-lyric
+
+ambee sings-desha amenn
+So during
+o-o
+the fifties
+o-o
+and sixties
+o-o
+the middle class
+o-o
+was bigger.
+o-o
+That fits with
+o-o
+what I've heard.
+o-o
+Now that the
+o-o
+middle class
+o-o
+has shrunk,
+o-o
+working hard
+o-o
+to earn wealth
+o-o
+is just bunk?
+end-lyric
+
+ambee sings-econhist amenn
+There's something
+o-o
+called the Gini
+o-o
+coefficient
+o-o
+that measures
+o-o
+income
+o-o
+inequity.
+end-lyric
+
+ambee sings-damien amenn
+It measures
+o-o
+wickedness?
+o-o
+I love it.
+end-lyric
+
+ambee sings-desha amenn
+You're thinking
+o-o
+of iniquity.
+o-o
+This is inequity.
+o-o
+As in
+o-o
+inequality.
+end-lyric
+
+ambee sings-econhist amenn
+Basically
+o-o
+the Gini
+o-o
+coefficient
+o-o
+measures the gap
+o-o
+between rich
+o-o
+and poor.
+o-o
+It started rising
+o-o
+in the late
+o-o
+nineteen seventies.
+o-o
+That's when getting
+o-o
+to the middle
+o-o
+class became
+o-o
+a tighter
+o-o
+squeeze.
+end-lyric
+
+ambee sings-damien amenn
+That's when
+o-o
+begin-italics primary end-italics elections
+o-o
+became common!
+o-o
+'N that's when
+o-o
+more rich
+o-o
+Republicans
+o-o
+infiltrated
+o-o
+Democratic
+o-o
+primaries.
+end-lyric
+
+ambee sings-desha amenn
+That's not just
+o-o
+a coincidence
+o-o
+is it?
+end-lyric
+
+ambee sings-econhist amenn
+Now you're getting
+o-o
+to something I
+o-o
+don't know.
+end-lyric
+
+ambee sings-damien amenn
+So rising to
+o-o
+the middle class
+o-o
+based on hard work
+o-o
+is something
+o-o
+from the past?
+end-lyric
+
+ambee sings-desha amenn
+Because of
+o-o
+increased
+o-o
+corruption!
+end-lyric
+
+ambee sings-econhist amenn
+I'm not a
+o-o
+political scientist,
+o-o
+yet I can see
+o-o
+there's lots
+o-o
+and lots of
+o-o
+corruption in
+o-o
+the U.S.
+o-o
+And it's been
+o-o
+increasing.
+o-o
+But please
+o-o
+appreciate
+o-o
+that most other nations
+o-o
+are even more corrupt.
+o-o
+And never forget
+o-o
+that corruption
+o-o
+was worse in the past.
+end-lyric
+
+ambee sings-damien amenn
+So if economics,
+o-o
+and economists
+o-o
+understand
+o-o
+all this stuff,
+o-o
+why don't
+o-o
+you teach
+o-o
+these things
+o-o
+to the clowns
+o-o
+in Congress?
+o-o
+Why do they cling
+o-o
+to ways
+o-o
+that don't work?
+end-lyric
+
+ambee sings-econhist amenn
+Let's look
+o-o
+at one of the
+o-o
+complications
+o-o
+that economists
+o-o
+face.
+o-o
+You've heard of
+o-o
+the gross domestic
+o-o
+product,
+o-o
+the GDP?
+end-lyric
+
+ambee sings-damien amenn
+Yeah, it measures,
+o-o
+well, when it goes
+o-o
+up, that's good.
+o-o
+'N when it goes
+o-o
+down, that's bad.
+end-lyric
+
+ambee sings-econhist amenn
+So here's the next
+o-o
+test question.
+o-o
+Does the GDP
+o-o
+go up or down
+o-o
+when a family's
+o-o
+house burns down?
+end-lyric
+
+ambee sings-damien amenn
+This seems like
+o-o
+another trick
+o-o
+question so I'll
+o-o
+say GDP
+o-o
+goes up.
+end-lyric
+
+ambee sings-econhist amenn
+C plus.
+o-o
+For an A you need
+o-o
+to tell me why.
+end-lyric
+
+ambee sings-desha amenn
+Because building the
+o-o
+replacement house,
+o-o
+or more likely the
+o-o
+selling of the property
+o-o
+to a developer who
+o-o
+builds a condominium,
+o-o
+is business activity,
+o-o
+and that's what GDP
+o-o
+measures.
+end-lyric
+
+ambee sings-econhist amenn
+A plus.
+o-o
+Yes, GDP just
+o-o
+measures transfers
+o-o
+of money.
+o-o
+When nothing is
+o-o
+bought or sold
+o-o
+there's no change
+o-o
+in gross domestic
+o-o
+product.
+end-lyric
+
+ambee sings-damien amenn
+That is gross.
+o-o
+But what's this
+o-o
+got to do with
+o-o
+election
+o-o
+vote hyphen-here counting
+o-o
+reform?
+end-lyric
+
+ambee sings-econhist amenn
+When people are
+o-o
+optimistic about
+o-o
+the future,
+o-o
+GDP goes up
+o-o
+because people
+o-o
+buy more products,
+o-o
+and pay for more
+o-o
+services.
+end-lyric
+
+ambee sings-desha amenn
+And eat out more,
+o-o
+and make more
+o-o
+babies.
+end-lyric
+
+ambee sings-econhist amenn
+But when people
+o-o
+are pessimistic
+o-o
+about the future,
+o-o
+they delay
+o-o
+gratification.
+end-lyric
+
+ambee sings-desha amenn
+That means
+o-o
+they eat in,
+o-o
+travel less,
+o-o
+go on cheaper dates,
+o-o
+and buy fewer shoes.
+end-lyric
+
+ambee sings-damien amenn
+That's fewer
+o-o
+and smaller
+o-o
+money transfers,
+o-o
+so GDP
+o-o
+goes down.
+end-lyric
+
+ambee sings-econhist amenn
+Yes, when people
+o-o
+fearfully
+o-o
+cling to the
+o-o
+money in their
+o-o
+bank account
+o-o
+that pulls
+o-o
+down the
+o-o
+economy
+o-o
+as measured by
+o-o
+GDP.
+end-lyric
+
+ambee sings-damien amenn
+And I suppose
+o-o
+when they postpone
+o-o
+making babies,
+o-o
+there are fewer
+o-o
+future
+o-o
+customers.
+end-lyric
+
+ambee sings-desha amenn
+You are bright.
+o-o
+So name-econhist no-space ,
+o-o
+do you think
+o-o
+people will become
+o-o
+optimistic when
+o-o
+fairer voting
+o-o
+methods are
+o-o
+adopted?
+end-lyric
+
+ambee sings-econhist amenn
+The short answer
+o-o
+is yes.
+o-o
+The fuller answer
+o-o
+involves what's
+o-o
+happening now in
+o-o
+the economy.
+end-lyric
+
+ambee sings-damien amenn
+I keep hearing
+o-o
+the economy's
+o-o
+on the climbing
+o-o
+path of a
+o-o
+roller coaster.
+o-o
+But I'm in
+o-o
+one of the cars
+o-o
+that's derailed,
+o-o
+and I'm
+o-o
+plunging
+o-o
+fast.
+end-lyric
+
+ambee sings-econhist amenn
+The stock market
+o-o
+keeps going up and up
+o-o
+because people
+o-o
+with money have
+o-o
+few other places
+o-o
+to invest it.
+o-o
+Specifically
+o-o
+certificates
+o-o
+of deposit
+o-o
+haven't been
+o-o
+yielding much
+o-o
+interest.
+end-lyric
+
+ambee sings-damien amenn
+I suppose
+o-o
+that gives
+o-o
+the stock market
+o-o
+sort of a
+o-o
+monopoly.
+end-lyric
+
+ambee sings-desha amenn
+So stocks are
+o-o
+like an
+o-o
+over-inflated
+o-o
+balloon.
+o-o
+Does that mean our
+o-o
+roller coaster
+o-o
+ride will soon
+o-o
+plummet?
+o-o
+And the poor
+o-o
+will all die?
+end-lyric
+
+ambee sings-econhist amenn
+It's difficult
+o-o
+to predict when
+o-o
+it will drop
+o-o
+from its
+o-o
+recent
+o-o
+top.
+end-lyric
+
+ambee sings-damien amenn
+You said
+o-o
+economists
+o-o
+predict the future.
+end-lyric
+
+ambee sings-econhist amenn
+Knowing begin-italics what end-italics will
+o-o
+happen is
+o-o
+different
+o-o
+from knowing begin-italics when end-italics
+o-o
+those whats will
+o-o
+happen.
+o-o
+Professors
+o-o
+of economics
+o-o
+focus on
+o-o
+rational
+o-o
+behavior.
+o-o
+But successful
+o-o
+investors earn
+o-o
+lots of money
+o-o
+by knowing the
+o-o
+stock market
+o-o
+can stay
+o-o
+irrational
+o-o
+longer than
+o-o
+investors
+o-o
+can stay
+o-o
+solvent.
+end-lyric
+
+ambee sings-desha amenn
+Ah.
+o-o
+Economists
+o-o
+assume people
+o-o
+are smart.
+o-o
+This explains why
+o-o
+they,
+o-o
+and you,
+o-o
+aren't wealthy.
+end-lyric
+
+ambee sings-econhist amenn
+Our math proofs
+o-o
+do have
+o-o
+some goofs.
+o-o
+After all,
+o-o
+measuring
+o-o
+stupidity
+o-o
+is tricky.
+end-lyric
+
+ambee sings-damien amenn
+Speaking of
+o-o
+morons,
+o-o
+why doesn't
+o-o
+the economy
+o-o
+work for
+o-o
+hard workers
+o-o
+like me?
+o-o
+The numbers lie.
+o-o
+They say
+o-o
+everything's
+o-o
+hunky dory.
+o-o
+Is this an example
+o-o
+of mathiness?
+end-lyric
+
+ambee sings-econhist amenn
+I don't know what
+o-o
+mathiness is.
+o-o
+But numbers can
+o-o
+be deceptive.
+o-o
+What many people
+o-o
+overlook is that
+o-o
+the unemployment
+o-o
+rate that's in the news
+o-o
+just counts people
+o-o
+who are now getting
+o-o
+unemployment
+o-o
+benefits.
+end-lyric
+
+ambee sings-desha amenn
+Those benefits
+o-o
+run out after a
+o-o
+few months of having
+o-o
+no job. I've learned
+o-o
+that from
+o-o
+experience.
+o-o
+So unemployment
+o-o
+is actually higher,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes, it's higher.
+end-lyric
+
+ambee sings-damien amenn
+Why don't economists
+o-o
+measure that?
+o-o
+The real unemployment
+o-o
+rate.
+end-lyric
+
+ambee sings-econhist amenn
+The government
+o-o
+does measure that
+o-o
+as well.
+o-o
+But most
+o-o
+newspapers and
+o-o
+TV stations
+o-o
+report the
+o-o
+unemployment
+o-o
+rate
+o-o
+that
+o-o
+government
+o-o
+officials call
+o-o
+attention to.
+end-lyric
+
+ambee sings-desha amenn
+Since wealthy
+o-o
+business owners
+o-o
+own news sources,
+o-o
+they probably
+o-o
+tell their
+o-o
+reporters
+o-o
+to report the
+o-o
+lower rate.
+o-o
+That gives
+o-o
+consumers
+o-o
+the confidence
+o-o
+to spend dollars
+o-o
+more freely.
+o-o
+And that gives
+o-o
+the wealthy
+o-o
+more sales,
+o-o
+more money.
+end-lyric
+
+ambee sings-damien amenn
+I thought it was
+o-o
+just the
+o-o
+government
+o-o
+being sneaky.
+end-lyric
+
+ambee sings-econhist amenn
+It's both.
+o-o
+The government
+o-o
+knows that if they
+o-o
+call attention
+o-o
+to the higher
+o-o
+unemployment rate,
+o-o
+then some of the
+o-o
+optimism
+o-o
+disappears.
+o-o
+Then the economy
+o-o
+and the GDP
+o-o
+would trend
+o-o
+downward.
+o-o
+And that would
+o-o
+activate a
+o-o
+bad feedback loop.
+end-lyric
+
+ambee sings-damien amenn
+What's a
+o-o
+backwards
+o-o
+loop?
+end-lyric
+
+ambee sings-econhist amenn
+A feedback loop.
+o-o
+When you're in
+o-o
+an auditorium
+o-o
+and the sound
+o-o
+system squeals,
+o-o
+that's a
+o-o
+feedback loop.
+end-lyric
+
+ambee sings-damien amenn
+Oh yeah.
+o-o
+That's when
+o-o
+...
+o-o
+a tiny sound
+o-o
+at the microphone
+o-o
+...
+o-o
+gets amplified
+o-o
+...
+o-o
+'n comes out the
+o-o
+speakers
+o-o
+...
+o-o
+'n gets
+o-o
+back to the
+o-o
+microphone
+o-o
+...
+o-o
+just slightly
+o-o
+louder than
+o-o
+before.
+end-lyric
+
+ambee sings-econhist amenn
+It becomes
+o-o
+as loud as possible
+o-o
+as fast as
+o-o
+possible.
+o-o
+And a feedback loop
+o-o
+is what makes a
+o-o
+hurricane
+o-o
+so powerful.
+o-o
+There are lots of
+o-o
+feedback loops.
+o-o
+That's what's
+o-o
+behind
+o-o
+economic
+o-o
+inflation.
+end-lyric
+
+ambee sings-damien amenn
+A strong wind?
+end-lyric
+
+ambee sings-econhist amenn
+When an employee
+o-o
+who makes plush
+o-o
+toy dinosaurs
+o-o
+gets a salary
+o-o
+increase,
+o-o
+the business
+o-o
+has to increase
+o-o
+the price of
+o-o
+their dinos.
+o-o
+A mother working
+o-o
+in a grocery store
+o-o
+then gets a raise
+o-o
+to afford rising
+o-o
+toy prices.
+o-o
+Then the
+o-o
+grocery store
+o-o
+slightly raises
+o-o
+its prices
+o-o
+to cover that
+o-o
+cost increase.
+o-o
+Then that feeds back
+o-o
+to the original
+o-o
+employee who
+o-o
+shops at that
+o-o
+grocery store.
+end-lyric
+
+ambee sings-desha amenn
+That's inflation,
+o-o
+when salaries
+o-o
+and prices
+o-o
+increase
+o-o
+together.
+end-lyric
+
+ambee sings-econhist amenn
+That feedback loop
+o-o
+has to be slowed down
+o-o
+by doing something
+o-o
+that decouples
+o-o
+at least one
+o-o
+of the links
+o-o
+in the loop.
+end-lyric
+
+ambee sings-damien amenn
+So announcing
+o-o
+a higher rate of
+o-o
+unemployment
+o-o
+would undermine
+o-o
+optimism.
+o-o
+And that would
+o-o
+bring down
+o-o
+the economy.
+o-o
+And that would
+o-o
+cause more
+o-o
+layoffs.
+o-o
+And that would
+o-o
+speed up
+o-o
+how fast the
+o-o
+economy
+o-o
+goes down.
+o-o
+This makes sense.
+end-lyric
+
+ambee sings-desha amenn
+Governments
+o-o
+try to make the
+o-o
+economy
+o-o
+grow fast.
+o-o
+And yet also
+o-o
+keep inflation
+o-o
+slow.
+end-lyric
+
+ambee sings-econhist amenn
+That's the concept.
+o-o
+Of course
+o-o
+my students
+o-o
+have to say it
+o-o
+with the right
+o-o
+terminology.
+end-lyric
+
+ambee sings-damien amenn
+Otherwise they'd
+o-o
+get bad grades
+o-o
+on standardized
+o-o
+tests.
+end-lyric
+
+ambee sings-econhist amenn
+Alas, yes.
+o-o
+I have to teach
+o-o
+what might be
+o-o
+in the tests.
+o-o
+If I ask an
+o-o
+essay question
+o-o
+and the student
+o-o
+mentions
+o-o
+begin-italics the tragedy
+o-o
+of the commons end-italics
+o-o
+I score it high.
+o-o
+But I have to
+o-o
+score it low
+o-o
+if they just talk about
+o-o
+economic pie.
+end-lyric
+
+ambee sings-damien amenn
+No wonder
+o-o
+school is so
+o-o
+distasteful.
+end-lyric
+
+ambee sings-desha amenn
+I'm glad we're
+o-o
+getting the
+o-o
+uncommon version,
+o-o
+not the tragic
+o-o
+version.
+end-lyric
+
+ambee sings-econhist amenn
+The basic
+o-o
+parts of economics
+o-o
+are the concepts,
+o-o
+not their names.
+o-o
+It's a delight
+o-o
+to explain
+o-o
+the concepts
+o-o
+to you two.
+end-lyric
+
+ambee sings-damien amenn
+name-desha no-space ,
+o-o
+I'm thinkin'
+o-o
+here the
+o-o
+concept is
+o-o
+...
+o-o
+your poop
+o-o
+scooper loop's
+o-o
+a feedback
+o-o
+loop?
+end-lyric
+
+ambee sings-desha amenn
+That's a different
+o-o
+kind of
+o-o
+feedback loop.
+o-o
+Dog owners
+o-o
+have to care
+o-o
+about the health
+o-o
+of other dogs
+o-o
+to protect
+o-o
+their own dog's
+o-o
+health.
+o-o
+Here, in
+o-o
+economic
+o-o
+kinds of
+o-o
+feedback loops,
+o-o
+begin-italics self hyphen-here interest end-italics
+o-o
+is the
+o-o
+motivation.
+end-lyric
+
+ambee sings-damien amenn
+Ah, the
+o-o
+employees
+o-o
+ask for a
+o-o
+higher salary
+o-o
+for selfish
+o-o
+reasons.
+o-o
+'N the business
+o-o
+owners sell
+o-o
+at higher
+o-o
+prices
+o-o
+for selfish
+o-o
+reasons.
+end-lyric
+
+ambee sings-econhist amenn
+Right.
+o-o
+In economic
+o-o
+feedback loops
+o-o
+the changes
+o-o
+happen because
+o-o
+each person
+o-o
+focuses on
+o-o
+what they
+o-o
+themselves
+o-o
+want.
+o-o
+Without caring
+o-o
+about what
+o-o
+others want.
+o-o
+Like with those
+o-o
+cobra snake
+o-o
+breeders.
+o-o
+They didn't
+o-o
+much care
+o-o
+how many
+o-o
+cobra snakes
+o-o
+are in the
+o-o
+city.
+o-o
+Their actions
+o-o
+were just based on
+o-o
+monetary
+o-o
+self hyphen-here interest.
+end-lyric
+
+ambee sings-damien amenn
+I see.
+o-o
+Dog owners,
+o-o
+the pooper
+o-o
+scooper ones,
+o-o
+care how many
+o-o
+piles of dog poop
+o-o
+their dog
+o-o
+can sniff.
+o-o
+But that's
+o-o
+affected by
+o-o
+other dog
+o-o
+owners.
+o-o
+There's no
+o-o
+benefit
+o-o
+to poop
+o-o
+scooping
+o-o
+if other
+o-o
+dog owners
+o-o
+don't scoop
+o-o
+too.
+end-lyric
+
+ambee sings-desha amenn
+You've got it.
+end-lyric
+
+ambee sings-damien amenn
+Hey!
+o-o
+...
+o-o
+Wait a moment.
+o-o
+...
+o-o
+Feedback loops
+o-o
+are what rich
+o-o
+business owners
+o-o
+use to get
+o-o
+oversized slices
+o-o
+of economic pie!
+o-o
+They use lawyers.
+o-o
+And they control
+o-o
+news sources.
+o-o
+And they control
+o-o
+politicians.
+o-o
+They use
+o-o
+feedback loops
+o-o
+to give themselves
+o-o
+bigger
+o-o
+and bigger
+o-o
+slices of
+o-o
+cherry pie.
+o-o
+No wonder
+o-o
+I'm hungry,
+o-o
+economically.
+end-lyric
+
+ambee sings-desha amenn
+So why
+o-o
+does it seem
+o-o
+that rent
+o-o
+'n food
+o-o
+'n ice cream
+o-o
+are going up
+o-o
+and up fast
+o-o
+while salaries
+o-o
+suck,
+o-o
+I mean
+o-o
+stay stuck?
+end-lyric
+
+ambee sings-econhist amenn
+It's not your
+o-o
+imagination.
+o-o
+The cost of living
+o-o
+is going up
+o-o
+faster than
+o-o
+the consumer
+o-o
+price index,
+o-o
+which is the
+o-o
+official
+o-o
+measurement
+o-o
+of inflation.
+end-lyric
+
+ambee sings-desha amenn
+That's another
+o-o
+corrupt
+o-o
+measurement.
+o-o
+The consumer
+o-o
+price index.
+o-o
+But I forgot
+o-o
+why it's corrupt.
+end-lyric
+
+ambee sings-econhist amenn
+You didn't forget.
+o-o
+We can't teach why
+o-o
+to undergrads.
+o-o
+Part of the why
+o-o
+is because
+o-o
+back when the price
+o-o
+of food items
+o-o
+were quickly
+o-o
+rising,
+o-o
+some food items
+o-o
+were replaced by
+o-o
+items whose cost
+o-o
+were declining.
+end-lyric
+
+ambee sings-damien amenn
+What's declining
+o-o
+in cost?
+end-lyric
+
+ambee sings-econhist amenn
+The per hyphen-here pixel cost
+o-o
+of digital
+o-o
+cameras.
+end-lyric
+
+ambee sings-damien amenn
+I recognize
+o-o
+that word begin-italics per end-italics no-space .
+o-o
+It means division.
+o-o
+And the number
+o-o
+of pixels in
+o-o
+a camera
+o-o
+are going up,
+o-o
+so dividing by
+o-o
+that bigger number
+o-o
+makes the result
+o-o
+go down.
+end-lyric
+
+ambee sings-desha amenn
+So that's another way
+o-o
+the government
+o-o
+is hiding the real
+o-o
+cost of living.
+o-o
+I can guess why
+o-o
+they're not being
+o-o
+transparent.
+o-o
+But something else
+o-o
+is going on, right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+Some government
+o-o
+expenses
+o-o
+are matched to the
+o-o
+consumer price
+o-o
+index.
+o-o
+Such as
+o-o
+retirement
+o-o
+pensions for
+o-o
+government
+o-o
+employees,
+o-o
+and social
+o-o
+security
+o-o
+benefits.
+o-o
+And that index's
+o-o
+linked to the
+o-o
+interest
+o-o
+they pay for
+o-o
+borrowed
+o-o
+money.
+o-o
+So the
+o-o
+government
+o-o
+wants inflation
+o-o
+to stay low.
+end-lyric
+
+ambee sings-damien amenn
+So the government
+o-o
+pays out less
+o-o
+money by
+o-o
+pretending
+o-o
+inflation
+o-o
+is low,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Exactly.
+o-o
+As another
+o-o
+trick,
+o-o
+they get to
+o-o
+exclude
+o-o
+rent and fuel,
+o-o
+which are rising
+o-o
+quickly.
+o-o
+They're
+o-o
+excluded
+o-o
+from that index
+o-o
+because they're
+o-o
+too volatile.
+end-lyric
+
+ambee sings-desha amenn
+That means they
+o-o
+go up and down
+o-o
+like a caffinated
+o-o
+kangaroo rat.
+end-lyric
+
+ambee sings-damien amenn
+Is anything else
+o-o
+being fudged?
+end-lyric
+
+ambee sings-desha amenn
+Besides
+o-o
+ice cream
+o-o
+sundaes?
+end-lyric
+
+ambee sings-econhist amenn
+name-desha no-space ,
+o-o
+do you
+o-o
+remember from
+o-o
+econ one oh one
+o-o
+what determines
+o-o
+interest rates?
+end-lyric
+
+ambee sings-desha amenn
+The federal
+o-o
+reserve chooses
+o-o
+when to increase
+o-o
+and decrease the
+o-o
+interest rate,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+That's the rate
+o-o
+talked about
+o-o
+in the news,
+o-o
+but more important
+o-o
+is the rate
+o-o
+determined by
+o-o
+auctioning
+o-o
+treasuries.
+end-lyric
+
+ambee sings-desha amenn
+I don't remember
+o-o
+learning about
+o-o
+those actions,
+o-o
+I mean,
+o-o
+auctions.
+end-lyric
+
+ambee sings-econhist amenn
+It's not taught to
+o-o
+undergrads.
+end-lyric
+
+ambee sings-desha amenn
+I'll bet textbooks
+o-o
+don't include it
+o-o
+because schools
+o-o
+are funded by
+o-o
+the government.
+o-o
+So textbooks can't
+o-o
+reveal secrets
+o-o
+the government
+o-o
+wants to hide.
+end-lyric
+
+ambee sings-econhist amenn
+Yes, that's another
+o-o
+feedback loop.
+end-lyric
+
+ambee sings-damien amenn
+All these feedback
+o-o
+loops!
+o-o
+They make math seem
+o-o
+simple.
+end-lyric
+
+ambee sings-desha amenn
+I agree.
+end-lyric
+
+ambee sings-econhist amenn
+U.S. treasuries
+o-o
+are sold in
+o-o
+auctions.
+o-o
+In economically
+o-o
+optimistic
+o-o
+times those
+o-o
+treasuries
+o-o
+sell for
+o-o
+higher prices,
+o-o
+closer to the
+o-o
+amount the
+o-o
+government pays
+o-o
+when they reach their
+o-o
+redemption date.
+end-lyric
+
+ambee sings-desha amenn
+Ah, but in
+o-o
+economically
+o-o
+pessimistic
+o-o
+times the buyers
+o-o
+pay much less.
+o-o
+That increases
+o-o
+the gap between
+o-o
+purchase price
+o-o
+and redemption
+o-o
+payment. So that
+o-o
+brings up rates
+o-o
+of interest,
+o-o
+right?
+end-lyric
+
+ambee sings-damien amenn
+Ah, I think I'm
+o-o
+following.
+o-o
+Since interest
+o-o
+rates are now low,
+o-o
+that means there's
+o-o
+lots of buyers
+o-o
+for those
+o-o
+...
+o-o
+things?
+end-lyric
+
+ambee sings-desha amenn
+Treasuries.
+end-lyric
+
+ambee sings-econhist amenn
+A plus.
+o-o
+Yes, normally.
+o-o
+But China and
+o-o
+Russia stopped
+o-o
+buying them so
+o-o
+lately the
+o-o
+federal reserve
+o-o
+has been buying
+o-o
+lots of them.
+end-lyric
+
+ambee sings-desha amenn
+That would be like
+o-o
+the plush toy
+o-o
+dinosaur
+o-o
+business
+o-o
+buying its own
+o-o
+dinos to give
+o-o
+the appearance
+o-o
+of extra customers
+o-o
+and income.
+end-lyric
+
+ambee sings-econhist amenn
+That's partly
+o-o
+why the deficit
+o-o
+is so huge.
+end-lyric
+
+ambee sings-damien amenn
+Ah, so the U.S.
+o-o
+government has
+o-o
+increased its debt
+o-o
+to compensate
+o-o
+for rough times
+o-o
+economically?
+end-lyric
+
+ambee sings-desha amenn
+Wait a moment.
+o-o
+Our economy's
+o-o
+like a stack of
+o-o
+wood blocks in a
+o-o
+teetering tower
+o-o
+that's ready to
+o-o
+fall?
+end-lyric
+
+ambee sings-econhist amenn
+Almost all
+o-o
+nations and all
+o-o
+big businesses
+o-o
+are in debt.
+o-o
+So are farmers.
+o-o
+They all have to
+o-o
+borrow first
+o-o
+before they can
+o-o
+grow crops or
+o-o
+manufacture
+o-o
+or whatever to
+o-o
+get income.
+end-lyric
+
+ambee sings-desha amenn
+So being in debt
+o-o
+is not a big deal,
+o-o
+but a growing
+o-o
+deficit, that's
+o-o
+bad, right?
+end-lyric
+
+ambee sings-econhist amenn
+Relatively
+o-o
+speaking, yes.
+o-o
+But as long as
+o-o
+the government
+o-o
+is keeping its
+o-o
+citizens happy,
+o-o
+and happier than
+o-o
+in other nations,
+o-o
+problems can be
+o-o
+hidden behind
+o-o
+curtains of
+o-o
+distraction.
+end-lyric
+
+ambee sings-desha amenn
+The number of
+o-o
+people trying
+o-o
+to immigrate
+o-o
+into the U.S.
+o-o
+is still high.
+o-o
+So that
+o-o
+suggests
+o-o
+success.
+o-o
+Yet things
+o-o
+are a mess.
+end-lyric
+
+ambee sings-damien amenn
+So what should be
+o-o
+going on instead?
+o-o
+Besides
+o-o
+traveling
+o-o
+in flying
+o-o
+cars.
+end-lyric
+
+ambee sings-econhist amenn
+History tells us
+o-o
+that prosperity
+o-o
+happens when a
+o-o
+city, nation,
+o-o
+or region
+o-o
+sells something
+o-o
+that people outside
+o-o
+the region
+o-o
+either need or
+o-o
+strongly desire.
+o-o
+And it's not
+o-o
+available from
+o-o
+anywhere else.
+end-lyric
+
+ambee sings-damien amenn
+I need an
+o-o
+example
+o-o
+because,
+o-o
+well,
+o-o
+it helps.
+end-lyric
+
+ambee sings-econhist amenn
+Do you know what
+o-o
+the silk road was?
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+Marco Polo
+o-o
+and lots of
+o-o
+caravans
+o-o
+traveled along
+o-o
+it to get silk
+o-o
+from China.
+end-lyric
+
+ambee sings-desha amenn
+That means
+o-o
+China was getting
+o-o
+lots of valuable
+o-o
+things flowing
+o-o
+into their country
+o-o
+to pay for the silk.
+end-lyric
+
+ambee sings-damien amenn
+So that made
+o-o
+China rich?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+China wisely
+o-o
+kept their special
+o-o
+silkworms within
+o-o
+the Forbidden
+o-o
+City to
+o-o
+protect their
+o-o
+monopoly.
+o-o
+Protecting a
+o-o
+monopoly
+o-o
+through secrecy
+o-o
+is an important
+o-o
+way for a
+o-o
+region or a
+o-o
+business to
+o-o
+dramatically
+o-o
+gain economic
+o-o
+prosperity.
+end-lyric
+
+ambee sings-desha amenn
+The Forbidden
+o-o
+City's the fortress
+o-o
+where the emperor
+o-o
+of China
+o-o
+lived.
+end-lyric
+
+ambee sings-damien amenn
+Be the
+o-o
+only source
+o-o
+of something
+o-o
+valuable.
+o-o
+That's a
+o-o
+monopoly.
+o-o
+Hmm,
+o-o
+this seems
+o-o
+familiar.
+end-lyric
+
+ambee sings-damien amenn
+Now I think
+o-o
+I'm beginning to see
+o-o
+some connections.
+o-o
+The maker businesses
+o-o
+have sort of a
+o-o
+monopoly
+o-o
+because other
+o-o
+businesses
+o-o
+can't easily copy
+o-o
+what they do.
+o-o
+But the taker
+o-o
+businesses
+o-o
+are easier
+o-o
+to copy,
+o-o
+and easier
+o-o
+to train new
+o-o
+employees.
+o-o
+But that seems
+o-o
+like there will be
+o-o
+a long
+o-o
+delay
+o-o
+before that
+o-o
+taxation change
+o-o
+will ever happen.
+o-o
+Especially
+o-o
+while Congress
+o-o
+continues to be
+o-o
+a three hyphen ring
+o-o
+circus.
 end-lyric

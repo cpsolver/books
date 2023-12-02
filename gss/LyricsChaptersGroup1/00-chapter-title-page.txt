@@ -50,7 +50,7 @@ Any resemblance to actual people, other than the author, is entirely coincidenta
 sentence-next
 Exception: The author's now hyphen-here deceased brother had the visual disability that name-damien has.
 sentence-next
-( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household,  software developer, massage therapist, physics major, dance performance group leader, grad student, neighborhood organizer, election hyphen-here method expert, contract technical writer, and dance instructor.)
+( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, dance performance group leader, neighborhood organizer, election hyphen-here method expert, contract technical writer, and dance instructor.)
 end-basic-paragraph
 
 begin-basic-paragraph
