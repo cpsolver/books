@@ -7,7 +7,7 @@ book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2023-December-2 end-explain
+begin-explain Draft 2023-December-3 end-explain
 end-subtitle
 
 begin-subtitle
@@ -32,7 +32,7 @@ end-title
 page-break
 
 begin-heading
-Copyright info
+Stuffy Stuff for Lawyers and Librarians
 end-heading
 
 begin-basic-paragraph
@@ -55,13 +55,6 @@ begin-basic-paragraph
 Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the conditions that there are no word changes and that every theater performance and every published audio or video recording includes the full dialog without any omission and that all financial income after expenses exclusively goes to the non hyphen-here profit organization.
 end-basic-paragraph
 
-
-page-break
-
-begin-heading
-Legal Stuff (for lawyers and critics, not readers)
-end-heading
-
 begin-basic-paragraph
 The characters in this story are fictional, based on voices in the author's head. no-space begin-superscript no-space * no-space end-superscript
 sentence-next
@@ -78,12 +71,6 @@ sentence-next
 To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported) sources of information.
 end-basic-paragraph
 
-
-page-break
-
-begin-subtitle
-Numbers
-end-subtitle
 
 begin-basic-paragraph
 First Edition, ePub edition, published 2025.

@@ -1,6 +1,6 @@
 begin-html
-00-chapter-title-page
-01-chapter-introduction
+00-chapter-introduction
+01-chapter-title-page
 02-chapter-scene-01-opening
 03-chapter-scene-02-financial
 04-chapter-scene-03-political
