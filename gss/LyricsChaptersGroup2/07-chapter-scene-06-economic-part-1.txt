@@ -1017,26 +1017,28 @@ o-o
 to do
 o-o
 less of that.
-end-lyric
-
-ambee sings-damien amenn
-The connection
 o-o
-between
+But I don't yet
 o-o
-corruption
+clearly see
 o-o
-and economic
+why better
 o-o
-prosperity
+vote hyphen-here counting
 o-o
-is fuzzy
+methods are
 o-o
-to me.
+connected to
 o-o
-Can you bring
+economic
 o-o
-it into focus?
+prosperity.
+o-o
+Can you make that
+o-o
+less fuzzy
+o-o
+for me?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1094,21 +1096,31 @@ to control
 o-o
 business and
 o-o
-commerce,
-o-o
-including setting
-o-o
-standards for
-o-o
-weights and sizes.
+commerce.
 o-o
 And they used
 o-o
 soldiers and
 o-o
-courts to
+inspectors
 o-o
-enforce those laws.
+and courts
+o-o
+to enforce
+o-o
+those laws.
+o-o
+An especially
+o-o
+important
+o-o
+innovation
+o-o
+was to set
+o-o
+standards for
+o-o
+weights and sizes.
 o-o
 And they built roads
 o-o
@@ -1202,7 +1214,11 @@ And there was
 o-o
 less cheating.
 o-o
-Soldiers
+Those inspectors,
+o-o
+backed up by
+o-o
+soldiers,
 o-o
 made sure that
 o-o
@@ -1226,7 +1242,15 @@ they paid.
 end-lyric
 
 ambee sings-desha amenn
-Plus less
+And soldiers
+o-o
+patrolling
+o-o
+the better roads
+o-o
+meant there
+o-o
+was less
 o-o
 highway
 o-o
@@ -1249,39 +1273,73 @@ ambee sings-desha amenn
 Ah,
 o-o
 less corruption!
+o-o
+Like not tying
+o-o
+left and right
+o-o
+shoelaces together.
+o-o
+That makes progress
+o-o
+without
+o-o
+unnecessary
+o-o
+tripping.
 end-lyric
 
 ambee sings-damien amenn
-Ah,
+This is making
 o-o
-when there is
+sense to me.
+o-o
+When there's
 o-o
 less corruption
 o-o
-there is less waste.
+there's less waste.
 o-o
-So more time ...
-end-lyric
-
-ambee sings-desha amenn
-and effort
+That means more time
 o-o
-and resources
-o-o
-and money ...
-end-lyric
-
-ambee sings-damien amenn
-... goes into
+goes into
 o-o
 building things
 o-o
-worthwhile?
+worthwhile,
+o-o
+right?
+end-lyric
+
+ambee sings-desha amenn
+And besides time
+o-o
+there are other
+o-o
+resources.
+o-o
+Like
+o-o
+muscle power,
+o-o
+donkey power,
+o-o
+brainpower,
+o-o
+metals,
+o-o
+stones,
+o-o
+wood,
+o-o
+clean water,
+o-o
+healing herbs,
+o-o
+and chocolate.
 end-lyric
 
 ambee sings-econhist amenn
-Exactly.
-o-o
 Also
 o-o
 important
@@ -1472,9 +1530,9 @@ ten feet high.
 end-lyric
 
 ambee sings-econhist amenn
-I'll give you just
+I'll try to
 o-o
-the relevant part.
+oversimplify.
 o-o
 After the years of
 o-o
@@ -1493,8 +1551,106 @@ o-o
 efficiency.
 end-lyric
 
+ambee sings-desha amenn
+Plus
+o-o
+a huge source
+o-o
+of wealth
+o-o
+for ancient Rome
+o-o
+was through
+o-o
+conquest.
+o-o
+That means stealing.
+end-lyric
+
+ambee sings-econhist amenn
+Yes, the
+o-o
+Roman army
+o-o
+invaded
+o-o
+surrounding
+o-o
+territories.
+o-o
+Sometimes a ruler
+o-o
+surrendered
+o-o
+when the Roman army
+o-o
+arrived.
+o-o
+Other times
+o-o
+there was fighting.
+o-o
+Either way,
+o-o
+the Roman army
+o-o
+took
+o-o
+gold and jewels,
+o-o
+and crowns and
+o-o
+tiaras,
+o-o
+and artwork,
+o-o
+back to Rome.
+o-o
+And they
+o-o
+installed
+o-o
+tax collectors
+o-o
+who sent yet more
+o-o
+riches
+o-o
+back to Rome.
+end-lyric
+
 ambee sings-damien amenn
-Why?
+But that ends
+o-o
+when there's
+o-o
+no more regions
+o-o
+to conquer
+o-o
+and plunder,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+Basically
+o-o
+that's the kids' book
+o-o
+version of the
+o-o
+Roman empire.
+end-lyric
+
+ambee sings-damien amenn
+So what's the economic
+o-o
+opposite
+o-o
+of corruption?
 end-lyric
 
 ambee sings-desha amenn
@@ -1510,23 +1666,31 @@ out of style.
 end-lyric
 
 ambee sings-econhist amenn
-Actually
+There are
 o-o
-it's simple.
+multiple
 o-o
-You know what the
+opposites
 o-o
-free market is,
+because there are
+o-o
+multiple
+o-o
+kinds of
+o-o
+corruption.
+o-o
+One opposite is
+o-o
+the free market.
+o-o
+You know what that is,
 o-o
 right?
 end-lyric
 
 ambee sings-damien amenn
 Yeah.
-end-lyric
-
-ambee sings-desha amenn
-Of course.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1601,70 +1765,8 @@ o-o
 decline.
 end-lyric
 
-ambee sings-desha amenn
-In ancient Rome
-o-o
-a huge source
-o-o
-of wealth was
-o-o
-through conquest.
-o-o
-That means stealing.
-o-o
-Sometimes a ruler
-o-o
-surrendered
-o-o
-when the Roman army
-o-o
-arrived.
-o-o
-Other times
-o-o
-there was fighting.
-o-o
-Either way,
-o-o
-the Roman army
-o-o
-took
-o-o
-gold and jewels,
-o-o
-and crowns and
-o-o
-tiaras,
-o-o
-and artwork,
-o-o
-back to Rome.
-end-lyric
-
-ambee sings-damien amenn
-But that ends
-o-o
-when there's
-o-o
-no more regions
-o-o
-to conquer
-o-o
-and plunder,
-o-o
-right?
-end-lyric
-
 ambee sings-econhist amenn
-Yes.
-o-o
-Basically
-o-o
-that's the kids' book
-o-o
-version of the
-o-o
-Roman empire.
+You're getting this!
 o-o
 A similar kind of
 o-o
@@ -1756,13 +1858,9 @@ to exploit ...
 o-o
 the native
 o-o
-people in
+people in the
 o-o
-north, south,
-o-o
-and central
-o-o
-America.
+Americas.
 o-o
 Now I realize
 o-o
@@ -2574,11 +2672,13 @@ to kneel before
 o-o
 the pelvic
 o-o
-girdle
+bone of
 o-o
-of Saint Bernard
+Saint Bernard
 o-o
-of Piddlesbourough.
+of
+o-o
+Piddlesbourough.
 end-lyric
 
 ambee sings-damien amenn
@@ -2789,6 +2889,12 @@ o-o
 just like
 o-o
 politics.
+o-o
+And there's
+o-o
+a useful saying,
+o-o
+begin-italics know thine enemies end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
@@ -2877,28 +2983,56 @@ o-o
 of cling.
 end-lyric
 
+ambee sings-desha amenn
+Computers
+o-o
+and the
+o-o
+internet
+o-o
+are big
+o-o
+innovations.
+o-o
+But most people
+o-o
+seem to use them
+o-o
+to yell
+o-o
+at strangers,
+o-o
+gawk at
+o-o
+celebrities,
+o-o
+and watch
+o-o
+mindless
+o-o
+videos.
+end-lyric
+
 ambee sings-damien amenn
-Is this why
+Ah, ...
 o-o
 Amazon
 o-o
-does so well?
+uses that
 o-o
-And why retail
+technology
 o-o
-stores are
-o-o
-suffering?
-o-o
-Amazon uses
-o-o
-computers to
-o-o
-replace the
+to replace the
 o-o
 inefficiency
 o-o
-of people.
+of people
+o-o
+selling stuff
+o-o
+in retail
+o-o
+stores.
 end-lyric
 
 ambee sings-desha amenn
@@ -2961,8 +3095,6 @@ no-space .
 end-lyric
 
 ambee sings-damien amenn
-Makes sense.
-o-o
 Amazon
 o-o
 eliminates
@@ -2972,30 +3104,6 @@ o-o
 theft, and
 o-o
 restrooms.
-o-o
-And looking at
-o-o
-the city
-o-o
-level,
-o-o
-people driving
-o-o
-from houses
-o-o
-to restaurants
-o-o
-and back
-o-o
-to pick up
-o-o
-take hyphen-here out food
-o-o
-wastes lots of time
-o-o
-and fuel,
-o-o
-right?
 end-lyric
 
 ambee sings-econhist amenn
@@ -3557,12 +3665,6 @@ spiral.
 end-lyric
 
 ambee sings-damien amenn
-Another bad
-o-o
-feedback loop.
-o-o
-Got it.
-o-o
 About
 o-o
 stupidity,
@@ -3785,9 +3887,11 @@ to the space station.
 end-lyric
 
 ambee sings-desha amenn
-And why now
+And why
 o-o
-NASA has to buy
+until recently
+o-o
+NASA had to buy
 o-o
 passage for
 o-o

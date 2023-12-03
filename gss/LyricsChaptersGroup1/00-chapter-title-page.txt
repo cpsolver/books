@@ -7,7 +7,7 @@ book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2023-November-22 end-explain
+begin-explain Draft 2023-December-2 end-explain
 end-subtitle
 
 begin-subtitle
@@ -16,20 +16,24 @@ sentence-next
 (Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>)
 end-subtitle
 
+begin-subtitle
+Also by Richard Fobes
+end-subtitle
+
+begin-title
+Ending The Hidden Unfairness In U.S. Elections
+end-title
+
+begin-title
+The Creative Problem Solver's Toolbox
+end-title
+
 
 page-break
 
 begin-heading
-Legal Stuff
+Copyright info
 end-heading
-
-begin-basic-paragraph
-&#169; Copyright 2023 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
-end-basic-paragraph
-
-begin-basic-paragraph
-Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the conditions that there are no word changes and that every theater performance and every published audio or video recording includes the full dialog without any omission and that all financial income after expenses exclusively goes to the non hyphen-here profit organization.
-end-basic-paragraph
 
 begin-basic-paragraph
 Published by:
@@ -44,13 +48,28 @@ www.SolutionsCreative.com
 end-basic-paragraph
 
 begin-basic-paragraph
+&#169; Copyright 2023 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
+end-basic-paragraph
+
+begin-basic-paragraph
+Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the conditions that there are no word changes and that every theater performance and every published audio or video recording includes the full dialog without any omission and that all financial income after expenses exclusively goes to the non hyphen-here profit organization.
+end-basic-paragraph
+
+
+page-break
+
+begin-heading
+Legal Stuff (for lawyers and critics, not readers)
+end-heading
+
+begin-basic-paragraph
 The characters in this story are fictional, based on voices in the author's head. no-space begin-superscript no-space * no-space end-superscript
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
 Exception: The author's now hyphen-here deceased brother had the visual disability that name-damien has.
 sentence-next
-( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, dance performance group leader, neighborhood organizer, election hyphen-here method expert, contract technical writer, and dance instructor.)
+( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, dance performance group leader, and dance instructor.)
 end-basic-paragraph
 
 begin-basic-paragraph
@@ -77,21 +96,6 @@ end-basic-paragraph
 begin-basic-paragraph
 BISAC DRA000000 (Drama, General), FIC016000 (Fiction, Humorous, General), POL008000 (Political Science, Political Process, Campaigns &#38; Elections)
 end-basic-paragraph
-
-
-page-break
-
-begin-subtitle
-Also by Richard Fobes
-end-subtitle
-
-begin-title
-Ending The Hidden Unfairness In U.S. Elections
-end-title
-
-begin-title
-The Creative Problem Solver's Toolbox
-end-title
 
 
 page-break
