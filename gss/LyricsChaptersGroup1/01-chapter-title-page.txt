@@ -7,10 +7,6 @@ book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2023-December-3 end-explain
-end-subtitle
-
-begin-subtitle
 by Richard Fobes
 sentence-next
 (Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>)
@@ -32,7 +28,7 @@ end-title
 page-break
 
 begin-heading
-Stuffy Stuff for Lawyers and Librarians
+Stuffy Info for Lawyers and Librarians
 end-heading
 
 begin-basic-paragraph
@@ -62,7 +58,7 @@ Any resemblance to actual people, other than the author, is entirely coincidenta
 sentence-next
 Exception: The author's now hyphen-here deceased brother had the visual disability that name-damien has.
 sentence-next
-( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, dance performance group leader, and dance instructor.)
+( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.)
 end-basic-paragraph
 
 begin-basic-paragraph

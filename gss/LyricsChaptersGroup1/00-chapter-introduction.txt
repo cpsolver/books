@@ -1,6 +1,21 @@
 begin-title
-title-chapter-01
+About
+begin-italics
+book-title
+end-italics
 end-title
+
+begin-subtitle
+book-subtitle-with-line-breaks
+end-subtitle
+
+begin-subtitle
+begin-explain Draft 2023-December-8 end-explain
+end-subtitle
+
+begin-subtitle
+by Richard Fobes
+end-subtitle
 
 begin-basic-paragraph
 This story is a comedy, written as dialog.
