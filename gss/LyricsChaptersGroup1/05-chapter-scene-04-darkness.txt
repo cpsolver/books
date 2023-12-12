@@ -743,7 +743,7 @@ victory.
 end-lyric
 
 ambee sings-damien amenn
-Plus Koch begin-explain mistakenly pronounced as cock end-explain Brothers
+Plus Koch begin-explain mistakenly pronounced as begin-italics cock end-italics end-explain Brothers
 o-o
 'n Forbes
 o-o

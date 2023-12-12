@@ -1223,7 +1223,7 @@ your life.
 end-lyric
 
 ambee sings-father-of-fiance-firstuse amenn
-begin-explain Knock on door. end-explain
+begin-explain Knock on door, door opens. end-explain
 o-o
 ...
 o-o

@@ -69,7 +69,7 @@ end-basic-paragraph
 
 
 begin-basic-paragraph
-First Edition, ePub edition, published 2025.
+First Edition, ePub edition, published 2024.
 end-basic-paragraph
 
 begin-basic-paragraph

@@ -10,11 +10,11 @@ book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2023-December-8 end-explain
+by Richard Fobes
 end-subtitle
 
 begin-subtitle
-by Richard Fobes
+begin-explain Draft 2023-December-9 end-explain
 end-subtitle
 
 begin-basic-paragraph

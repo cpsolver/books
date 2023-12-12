@@ -1918,7 +1918,7 @@ for sex?
 o-o
 That's a kind
 o-o
-of bribery
+of bribery, ...
 o-o
 I didn't
 o-o
@@ -1926,21 +1926,47 @@ know about.
 end-lyric
 
 ambee sings-politician amenn
-People with
+Surely you know,
 o-o
-lots of money
+wealthy people
 o-o
-can pay helpers
+pay helpers
 o-o
-to pay for
+to buy influence
 o-o
-whatever
+for whatever
 o-o
-helps the rich
+helps those
 o-o
-to win.
+wealthy folks
 o-o
-And at the
+to gain
+o-o
+even more
+o-o
+power,
+o-o
+money,
+o-o
+and favors.
+end-lyric
+
+ambee sings-damien amenn
+I'd forgotten
+o-o
+about the layers.
+o-o
+Like hiring
+o-o
+prostitutes,
+o-o
+online trolls,
+o-o
+and clowns.
+end-lyric
+
+ambee sings-politician amenn
+At the
 o-o
 Democratic
 o-o
@@ -2028,13 +2054,19 @@ end-lyric
 ambee sings-politician amenn
 Not spitting,
 o-o
-although long ago
+although
 o-o
-there was lots
+spitting
 o-o
-of spitting in
+used to happen
 o-o
-politics.
+in Congress
+o-o
+so often
+o-o
+they had
+o-o
+spittons.
 o-o
 It's splitting,
 o-o
@@ -2105,20 +2137,15 @@ o-o
 because they
 o-o
 didn't fight.
-o-o
-Of course,
-o-o
-those rule makers
+
+ambee sings-damien amenn
+Those rule makers
 o-o
 never met my
 o-o
-brother's
+uncle's
 o-o
 ex hyphen-here wife.
-end-lyric
-
-ambee sings-damien amenn
-begin-explain Chuckles. end-explain
 end-lyric
 
 ambee sings-politician amenn
@@ -2205,6 +2232,8 @@ o-o
 that's what
 o-o
 religious
+o-o
+and racial
 o-o
 differences
 o-o
@@ -2396,7 +2425,7 @@ And you've heard of
 o-o
 the money bonus
 o-o
-that a third-party
+that a third hyphen-here party
 o-o
 presidential
 o-o
@@ -2428,19 +2457,85 @@ In the U.S.,
 o-o
 third parties
 o-o
-that get much funding
-o-o
-are almost always
+are mostly
 o-o
 on the left.
+end-lyric
+
+ambee sings-damien amenn
+Why is that?
+end-lyric
+
+ambee sings-politician amenn
+The political right
 o-o
-Whenever needed
+has more money.
 o-o
-they're quietly
+So the leader
 o-o
-seeded with funds
+of a small
 o-o
-from conservatives.
+conservative
+o-o
+party
+o-o
+gets a bribe
+o-o
+to stand aside.
+end-lyric
+
+ambee sings-damien amenn
+Those leaders
+o-o
+fall for that?
+end-lyric
+
+ambee sings-politician amenn
+Wouldn't you
+o-o
+if they
+o-o
+offered you
+o-o
+a political
+o-o
+job with a good salary?
+o-o
+Or a tricked hyphen-here out
+o-o
+RV?
+o-o
+Or a vacation
+o-o
+in Tahiti?
+end-lyric
+
+ambee sings-damien amenn
+I admit
+o-o
+that would
+o-o
+do it.
+end-lyric
+
+ambee sings-politician amenn
+Also the
+o-o
+wealthy right
+o-o
+quietly
+o-o
+and
+o-o
+indirectly
+o-o
+donate
+o-o
+money to
+o-o
+boost third parties
+o-o
+on the left.
 o-o
 That splits votes
 o-o
@@ -2714,13 +2809,35 @@ clever meme
 o-o
 he created
 o-o
-to trash
+that trashes
 o-o
-Joe Biden.
+Robert Reformer
+o-o
+who supports
+o-o
+removing assault
+o-o
+weapons
+o-o
+from the hands
+o-o
+of bullied Billy
+o-o
+Barbarian
+o-o
+who spends his nights
+o-o
+playing
+o-o
+begin-italics Gun Survival Fantasy end-italics no-space .
 o-o
 As you know,
 o-o
-attack ads work.
+attack ads,
+o-o
+the political kind,
+o-o
+really work.
 o-o
 Lots of voters
 o-o

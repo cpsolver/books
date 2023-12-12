@@ -59,54 +59,45 @@ begin-title
 Voice Actor Casting Requirements
 end-title
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_damien"> no-space
-begin-bold abbrev-damien end-bold
-no-space :</span>
-name-damien no-space , young adult male, tenor voice.
+
+ambee sings-damien amenn
+begin-bold name-damien end-bold no-space ,
+young adult male, tenor voice.
 sentence-next
 Slight Puerto Rican accent.
 sentence-next
 In earlier scenes uses slightly lazy pronounciation (such as lookin' instead of looking) on non hyphen-here important words.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_fiance"> no-space
-begin-bold abbrev-fiance end-bold
-no-space :</span>
-name-fiance no-space , young adult female, soprano or alto voice.
+ambee sings-fiance amenn
+begin-bold name-fiance end-bold no-space ,
+young adult female, soprano or alto voice.
 sentence-next
 Speaks as though raised in an upper middle hyphen-here class family.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_vc"> no-space
-begin-bold abbrev-vc end-bold
-no-space :</span>
-name-vc no-space , middle hyphen-here age adult male, baritone voice.
+ambee sings-vc amenn
+begin-bold name-vc name-vc-last end-bold no-space ,
+middle hyphen-here age adult male, baritone voice.
 sentence-next
 Speaks boldly as if wealthy.
 sentence-next
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_politician"> no-space
-begin-bold abbrev-politician end-bold
-no-space :</span>
-name-politician name-politician-last no-space , older adult male, tenor voice.
+ambee sings-politician amenn
+begin-bold name-politician name-politician-last end-bold no-space ,
+older adult male, tenor voice.
 sentence-next
 Speaks like an experienced politician.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_desha"> no-space
-begin-bold abbrev-desha end-bold
-no-space :</span>
-name-desha no-space , young adult female, alto voice.
+ambee sings-desha amenn
+begin-bold name-desha end-bold no-space ,
+young adult female, alto voice.
 combee ****
 mixed race, wild hair, face is good hyphen-here looking but not beautiful, good hyphen-here looking body except for a non hyphen-here slim ass/bottom and thighs
 **** comenn
@@ -115,25 +106,21 @@ U.S. American accent, but voice sounds like racially she is mixed hyphen-here ra
 sentence-next
 Speaks strong political opinions.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_mathprof"> no-space
-begin-bold abbrev-mathprof end-bold
-no-space :</span>
-name-mathprof no-space , middle hyphen-here age female, soprano or alto voice.
+ambee sings-mathprof amenn
+begin-bold name-mathprof end-bold no-space ,
+middle hyphen-here age female, soprano or alto voice.
 sentence-next
 Sounds like a university professor.
 sentence-next
 Clear enunciation is important.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_econhist"> no-space
-begin-bold abbrev-econhist end-bold
-no-space :</span>
-name-econhist no-space , middle hyphen-here age male, tenor voice.
+ambee sings-econhist amenn
+begin-bold name-econhist end-bold no-space ,
+middle hyphen-here age male, tenor voice.
 sentence-next
 Slight Indian accent, as if he is the son of immigrants from India.
 sentence-next
@@ -143,13 +130,11 @@ Sounds like a university professor.
 sentence-next
 Clear enunciation is important.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_minister"> no-space
-begin-bold abbrev-minister end-bold
-no-space :</span>
-name-minister (pronounced like "wit") no-space , middle hyphen-here age male, tenor voice.
+ambee sings-minister amenn
+begin-bold name-minister end-bold (pronounced like "wit") no-space ,
+middle hyphen-here age male, tenor voice.
 sentence-next
 Voice sounds like he could be the father of name-desha no-space , who is of mixed hyphen-here race with both African hyphen-here American and European ancestry.
 sentence-next
@@ -157,17 +142,15 @@ Sounds like a wise minister or clergyman.
 sentence-next
 Clear enunciation is important.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
-begin-basic-paragraph
-<p class="lyric"><span class="singer_father_of_fiance"> no-space
-begin-bold abbrev-father-of-fiance end-bold
-no-space :</span>
-name-father-of-fiance no-space , middle hyphen-here age male, bass or baritone voice.
+ambee sings-father-of-fiance amenn
+begin-bold name-father-of-fiance end-bold no-space ,
+middle hyphen-here age male, bass or baritone voice.
 sentence-next
 Sounds like a pompous wealthy person.
 snippet-voice-specs
-end-basic-paragraph
+end-lyric
 
 begin-basic-paragraph
 begin-bold Voice requirements for all characters: end-bold

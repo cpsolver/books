@@ -39,7 +39,25 @@ ambee sings-damien-firstuse amenn
 I'm name-damien no-space .
 end-lyric
 
+ambee sings-desha amenn
+Can we call you
+o-o
+name-econhist-nickname no-space ?
+end-lyric
+
 ambee sings-econhist amenn
+That's far better
+o-o
+than what some
+o-o
+of my students
+o-o
+call me
+o-o
+online,
+o-o
+so sure.
+o-o
 Welcome to my
 o-o
 classroom.
@@ -85,6 +103,10 @@ o-o
 Please tell us
 o-o
 what will happen
+o-o
+in the world
+o-o
+of money
 o-o
 when elections
 o-o
@@ -214,7 +236,9 @@ will be
 o-o
 passed.
 o-o
-They will reduce
+Those laws
+o-o
+will reduce
 o-o
 corruption.
 o-o
@@ -298,13 +322,21 @@ I'm not fond of
 o-o
 strawberry pie.
 o-o
-And not apple
+And apple pie
 o-o
-or rhubarb.
+is tasteless
 o-o
-Can we call it
+to me as a
 o-o
-a cherry pie?
+metaphor.
+o-o
+Can we make it
+o-o
+more tasty
+o-o
+and fill it
+o-o
+with cherries?
 end-lyric
 
 ambee sings-econhist amenn
@@ -654,7 +686,11 @@ end-lyric
 ambee sings-damien amenn
 About topics
 o-o
-where money is affected,
+that affect
+o-o
+people's
+o-o
+finances,
 o-o
 sure.
 o-o
@@ -679,14 +715,6 @@ o-o
 mathematics,
 o-o
 and movie plots.
-o-o
-That's because
-o-o
-those don't affect
-o-o
-anyone's
-o-o
-finances.
 end-lyric
 
 ambee sings-damien amenn
@@ -744,15 +772,17 @@ is causation.
 o-o
 Cause and effect.
 o-o
-The ones that
+And the ones
 o-o
-involve a
+that involve
 o-o
-surprise
+a surprise
 o-o
 are the insights
 o-o
-to prize.
+you should
+o-o
+prize.
 end-lyric
 
 ambee sings-damien amenn
@@ -764,21 +794,25 @@ for instance?
 end-lyric
 
 ambee sings-econhist amenn
-Let's start with
-o-o
-the recent past.
-o-o
-Why did the
-o-o
-economy
-o-o
-peak in the
+Let's start with the
 o-o
 1950's
 o-o
 and 1960's
 o-o
-and 1970's?
+and into the
+o-o
+1970's.
+o-o
+Why was the
+o-o
+U.S.
+o-o
+economy
+o-o
+so
+o-o
+prosperous?
 end-lyric
 
 ambee sings-damien amenn
@@ -792,7 +826,7 @@ end-lyric
 ambee sings-desha amenn
 This has to do
 o-o
-with world war two,
+with World War Two,
 o-o
 doesn't it?
 end-lyric
@@ -802,13 +836,31 @@ Yes.
 o-o
 That war happened
 o-o
-back in what
+back in, ...
 o-o
-you would think of
+well it ended
 o-o
-as the
+in 1945.
+end-lyric
+
+ambee sings-damien amenn
+But the
 o-o
-1940's.
+boomer babies
+o-o
+were born
+o-o
+and raised,
+o-o
+and that
+o-o
+increased
+o-o
+consumption.
+end-lyric
+
+ambee sings-econhist amenn
+What else.
 end-lyric
 
 ambee sings-damien amenn
@@ -830,49 +882,31 @@ end-lyric
 ambee sings-econhist amenn
 Yes.
 o-o
-Our factories
+Factories
 o-o
 and power plants
 o-o
-on the mainland
+throughout
 o-o
-didn't get bombed.
+the world
 o-o
-Nor Canadian
+were bombed,
 o-o
-factories
+except in
 o-o
-and power plants.
+the United States,
 o-o
-And lots of
+Canada,
 o-o
-factories
+and less hyphen-here accessible
 o-o
-in Russia
+parts of
 o-o
-were too far
-o-o
-away to
-o-o
-get bombed.
-o-o
-But factories
-o-o
-and power plants
-o-o
-in every other
-o-o
-industrial
-o-o
-nation
-o-o
-were bombed.
+Russia.
 o-o
 Why was that
 o-o
-so very
-o-o
-significant?
+noteworthy?
 end-lyric
 
 ambee sings-damien amenn
@@ -945,6 +979,10 @@ o-o
 a monopoly!
 end-lyric
 
+ambee sings-econhist amenn
+Exactly.
+end-lyric
+
 ambee sings-desha amenn
 Oh yeah,
 o-o
@@ -962,17 +1000,23 @@ and Canada
 o-o
 and Russia.
 o-o
-Because the
+Because other
 o-o
-other factories
+factories
 o-o
 on the planet
 o-o
 had become
 o-o
-like dinosaurs,
+dinosaurs,
 o-o
-extinct.
+wiped out by
+o-o
+bombs instead
+o-o
+of an
+o-o
+asteroid.
 end-lyric
 
 ambee sings-damien amenn
@@ -1032,9 +1076,9 @@ Ah,
 o-o
 so this is why
 o-o
-that lying guy
+the orange hyphen-here makeup guy
 o-o
-gets so many votes.
+got so many votes.
 end-lyric
 
 ambee sings-desha amenn
@@ -1068,6 +1112,8 @@ that's ironic.
 o-o
 Even worse,
 o-o
+for voters,
+o-o
 it's foolish
 o-o
 to think
@@ -1088,7 +1134,15 @@ end-lyric
 ambee sings-damien amenn
 The monopoly
 o-o
-has ended.
+ended,
+o-o
+because
+o-o
+other nations
+o-o
+built new
+o-o
+factories.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1144,7 +1198,7 @@ anywhere else.
 end-lyric
 
 ambee sings-damien amenn
-And those
+But
 o-o
 monopolies
 o-o
@@ -1152,7 +1206,11 @@ are just
 o-o
 short blips
 o-o
-that don't last?
+that pass
+o-o
+like fads,
+o-o
+right?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1294,15 +1352,25 @@ end-lyric
 ambee sings-desha amenn
 That's why
 o-o
+Portuguese
+o-o
+ships
+o-o
+bumped into
+o-o
+Brazil,
+o-o
+and then
+o-o
 Columbus
 o-o
 bumped into
 o-o
-the Caribbean
+Caribbean
 o-o
 Islands.
 o-o
-He was looking
+They were looking
 o-o
 for an
 o-o
@@ -1312,7 +1380,35 @@ to China.
 end-lyric
 
 ambee sings-damien amenn
-So rising to
+Ok,
+o-o
+monopolies
+o-o
+are not always
+o-o
+short blips.
+o-o
+And I see
+o-o
+monopolies
+o-o
+are good for
+o-o
+sellers
+o-o
+but bad for
+o-o
+customers.
+o-o
+But how does that
+o-o
+affect today's
+o-o
+economy?
+o-o
+It seems like
+o-o
+rising to
 o-o
 the middle class
 o-o
@@ -1320,7 +1416,9 @@ based on hard work
 o-o
 is something
 o-o
-from the past?
+from the past,
+o-o
+right?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1491,8 +1589,26 @@ o-o
 consumer price
 o-o
 index.
+end-lyric
+
+ambee sings-desha amenn
+I remember
 o-o
-Such as
+the CPI,
+o-o
+the consumer
+o-o
+price index.
+o-o
+It measures
+o-o
+inflation.
+end-lyric
+
+ambee sings-econhist amenn
+And it's linked
+o-o
+to such things as
 o-o
 retirement
 o-o
@@ -1506,15 +1622,15 @@ and social
 o-o
 security
 o-o
-benefits.
+benefits,
 o-o
-And that index's
-o-o
-linked to the
+and the
 o-o
 interest
 o-o
-they pay for
+the government
+o-o
+pays for
 o-o
 borrowed
 o-o
@@ -1524,7 +1640,7 @@ So the
 o-o
 government
 o-o
-wants inflation
+needs inflation
 o-o
 to stay low.
 end-lyric
@@ -1532,29 +1648,59 @@ end-lyric
 ambee sings-damien amenn
 So the government
 o-o
-pays out less
+basically
 o-o
-money by
+uses tricks
 o-o
-pretending
+to pretend
 o-o
 inflation
 o-o
 is low,
 o-o
+so it pays out
+o-o
+less money,
+o-o
 right?
 end-lyric
 
 ambee sings-econhist amenn
-Exactly.
+The word tricks
 o-o
-As another
+is a bit rough.
+end-lyric
+
+ambee sings-desha amenn
+And we can't
 o-o
-trick,
+call it corruption,
 o-o
-they get to
+or lying,
 o-o
-exclude
+or stealing.
+o-o
+So shall we
+o-o
+call it an
+o-o
+intentional
+o-o
+distortion?
+end-lyric
+
+ambee sings-econhist amenn
+Ok,
+o-o
+as another
+o-o
+intentional
+o-o
+distortion,
+o-o
+the CPI
+o-o
+excludes
 o-o
 rent and fuel,
 o-o
@@ -1566,8 +1712,6 @@ They're
 o-o
 excluded
 o-o
-from that index
-o-o
 because they're
 o-o
 too volatile.
@@ -1576,11 +1720,19 @@ end-lyric
 ambee sings-desha amenn
 That means they
 o-o
-go up and down
+jump up and down
 o-o
-like a caffinated
+like a
 o-o
-kangaroo rat.
+candy hydrogen fueled kid
+o-o
+in a bouncy
+o-o
+house
+o-o
+just before
+o-o
+naptime.
 end-lyric
 
 ambee sings-damien amenn
@@ -1682,7 +1834,11 @@ wants to hide.
 end-lyric
 
 ambee sings-econhist amenn
-U.S. treasuries
+Some
+o-o
+U.S.
+o-o
+treasuries
 o-o
 are sold in
 o-o
@@ -1720,23 +1876,23 @@ pessimistic
 o-o
 times the buyers
 o-o
-would pay
-o-o
-much less.
+pay much less.
 end-lyric
 
 ambee sings-econhist amenn
 Yes,
 o-o
-that increases
+then the gap
 o-o
-the gap between
+between
 o-o
 purchase price
 o-o
 and redemption
 o-o
-payment.
+payment
+o-o
+increases.
 o-o
 So that
 o-o
@@ -1746,15 +1902,71 @@ of interest.
 end-lyric
 
 ambee sings-damien amenn
-Ah, I think I'm
+Optimism?
 o-o
-following.
+Pessimism?
 o-o
-Since interest
+Feelings matter?
+end-lyric
+
+ambee sings-econhist amenn
+You buy more stuff
 o-o
-rates are now low,
+when you're
 o-o
-that means there's
+less afraid
+o-o
+of the future.
+o-o
+Like during
+o-o
+the cheery
+o-o
+holiday season.
+end-lyric
+
+ambee sings-econhist amenn
+And those feelings
+o-o
+get measured
+o-o
+with something
+o-o
+called
+o-o
+consumer
+o-o
+confidence.
+o-o
+You've heard
+o-o
+about that,
+o-o
+right?
+end-lyric
+
+ambee sings-damien amenn
+I'm a consumer,
+o-o
+or I try to be,
+o-o
+but I have no
+o-o
+confidence.
+o-o
+In the future.
+o-o
+And at the moment
+o-o
+something makes
+o-o
+no sense.
+o-o
+Interest rates
+o-o
+are low.
+o-o
+That means there's
 o-o
 lots of buyers
 o-o
@@ -1789,8 +2001,24 @@ o-o
 lots of them.
 end-lyric
 
+ambee sings-damien amenn
+Now I'm even
+o-o
+more confused.
+end-lyric
+
 ambee sings-desha amenn
-That would be like
+The government
+o-o
+buying its own
+o-o
+money,
+o-o
+that makes
+o-o
+no sense.
+o-o
+It would be like
 o-o
 a plush toy
 o-o
@@ -1846,11 +2074,17 @@ that's ready to
 o-o
 fall?
 o-o
-That fall
+Except that
 o-o
-won't be just
+kind of falling
 o-o
-a game.
+will kill
+o-o
+and maim
+o-o
+instead of
+o-o
+just shame?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1879,16 +2113,18 @@ o-o
 get income.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 So being in debt
 o-o
 isn't a big deal,
 o-o
 but a growing
 o-o
-deficit, that's
+debt, that's
 o-o
-bad, right?
+disastrous,
+o-o
+right?
 end-lyric
 
 ambee sings-econhist amenn
@@ -2226,7 +2462,11 @@ And besides time
 o-o
 there are other
 o-o
-resources.
+resources
+o-o
+that can get
+o-o
+wasted.
 o-o
 Like
 o-o
@@ -2475,6 +2715,12 @@ o-o
 conquest.
 o-o
 That means stealing.
+o-o
+But they ran out
+o-o
+of wealthy places
+o-o
+to conquer.
 end-lyric
 
 ambee sings-econhist amenn
@@ -2488,23 +2734,9 @@ surrounding
 o-o
 territories.
 o-o
-Sometimes a ruler
+Besides
 o-o
-surrendered
-o-o
-when the Roman army
-o-o
-arrived.
-o-o
-Other times
-o-o
-there was fighting.
-o-o
-Either way,
-o-o
-the Roman army
-o-o
-took
+stealing
 o-o
 gold and jewels,
 o-o
@@ -2514,19 +2746,32 @@ tiaras,
 o-o
 and artwork,
 o-o
-back to Rome.
+and sending it
 o-o
-And they
+back to Rome,
 o-o
-installed
+they installed
 o-o
-tax collectors
+tax collectors.
+end-lyric
+
+
+ambee sings-desha amenn
+Lots of those
 o-o
-who sent yet more
+taxes were paid
 o-o
-riches
+with grains and
 o-o
-back to Rome.
+other food
+o-o
+that fed
+o-o
+the soldiers
+o-o
+and the wealthy
+o-o
+in Rome.
 end-lyric
 
 ambee sings-damien amenn
@@ -3742,6 +3987,8 @@ o-o
 and reduces
 o-o
 waste.
+o-o
+Got it.
 end-lyric
 
 ambee sings-desha amenn
@@ -3799,15 +4046,15 @@ What a waste.
 end-lyric
 
 ambee sings-econhist amenn
-And that caused a
+And that reduced
 o-o
-bad feedback loop.
+the people
 o-o
-It reduced the
+who could
 o-o
-people who could
+educate
 o-o
-educate the next
+the next
 o-o
 generation.
 end-lyric
@@ -5135,12 +5382,24 @@ search results,
 o-o
 and fewer ads,
 o-o
-compared to
+especially
 o-o
-other search
+on the first
 o-o
-engines.
+results page.
+end-lyric
+
+ambee sings-desha amenn
+Now Google
 o-o
+hides its ads
+o-o
+on the websites
+o-o
+it sends people to.
+end-lyric
+
+ambee sings-econhist amenn
 Amazon
 o-o
 started as
@@ -5713,11 +5972,7 @@ that mostly earn
 o-o
 their money from
 o-o
-customers
-o-o
-inside the
-o-o
-U.S.?
+local customers?
 o-o
 Like law firms,
 o-o
@@ -6227,6 +6482,8 @@ they,
 o-o
 and you,
 o-o
+probably
+o-o
 aren't wealthy.
 end-lyric
 
@@ -6433,7 +6690,7 @@ less optimism
 o-o
 consumers
 o-o
-spend less money
+spend less money,
 o-o
 and that loops
 o-o
@@ -6454,20 +6711,98 @@ o-o
 who then spend
 o-o
 less money.
+o-o
+That's a powerful
+o-o
+feedback loop.
 end-lyric
 
 ambee sings-damien amenn
-name-desha no-space ,
+I thought
 o-o
-I'm thinkin'
+a feedback loop
 o-o
-here these loops
+was the name for
 o-o
-are like
+going back
+o-o
+for seconds
+o-o
+and thirds
+o-o
+at an
+o-o
+all hyphen-here you hyphen-here can hyphen-here eat
+o-o
+buffet.
+end-lyric
+
+ambee sings-desha amenn
+A feedback loop
+o-o
+is what makes
+o-o
+a hurricane
+o-o
+so powerful.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+so economics
+o-o
+is like politics
+o-o
+and hurricanes.
+o-o
+It involves
+o-o
+lots of hot air.
+end-lyric
+
+ambee sings-desha amenn
+No,
+o-o
+you airhead!
+o-o
+A feedback loop
+o-o
+is when a cause
+o-o
+and effect
+o-o
+becomes
+o-o
+a circle.
+o-o
+The first effect
+o-o
+becomes a
+o-o
+second cause,
+o-o
+and the
+o-o
+second effect
+o-o
+becomes the
+o-o
+first cause.
+end-lyric
+
+ambee sings-damien amenn
+So this loop
+o-o
+between optimism
+o-o
+and consumption
+o-o
+is like
 o-o
 your poop
 o-o
-scooper loop.
+scooper loop?
 end-lyric
 
 ambee sings-desha amenn
@@ -6499,6 +6834,10 @@ kinds of
 o-o
 feedback loops,
 o-o
+monetary ...
+o-o
+money hyphen-here based
+o-o
 begin-italics self hyphen-here interest end-italics
 o-o
 is the
@@ -6506,42 +6845,10 @@ o-o
 motivation.
 end-lyric
 
-ambee sings-damien amenn
-Ah, the
-o-o
-employees
-o-o
-ask for a
-o-o
-higher salary
-o-o
-for selfish
-o-o
-reasons.
-o-o
-'N the business
-o-o
-owners sell
-o-o
-at higher
-o-o
-prices
-o-o
-for selfish
-o-o
-reasons.
-end-lyric
-
 ambee sings-econhist amenn
-Right.
-o-o
 In economic
 o-o
 feedback loops
-o-o
-the changes
-o-o
-happen because
 o-o
 each person
 o-o
@@ -6551,21 +6858,13 @@ what they
 o-o
 themselves
 o-o
-want.
+want,
 o-o
-Without caring
+without caring
 o-o
 about what
 o-o
 others want.
-o-o
-In other words
-o-o
-actions are based on
-o-o
-monetary
-o-o
-self hyphen-here interest.
 end-lyric
 
 ambee sings-damien amenn
@@ -6641,7 +6940,15 @@ And they control
 o-o
 news sources.
 o-o
-And they control
+And they use money
+o-o
+to exploit
+o-o
+elections
+o-o
+in ways that
+o-o
+control
 o-o
 politicians.
 o-o
@@ -6659,9 +6966,25 @@ slices of
 o-o
 cherry pie.
 o-o
+And they don't
+o-o
+give a damn
+o-o
+about other
+o-o
+people
+o-o
+suffering.
+o-o
 No wonder
 o-o
 I'm hungry,
 o-o
 economically.
+end-lyric
+
+ambee sings-econhist amenn
+Alas,
+o-o
+you're right.
 end-lyric
