@@ -96,8 +96,182 @@ o-o
 sunglasses.
 end-lyric
 
+ambee sings-econhist amenn
+You've mentioned
+o-o
+low salaries.
+o-o
+Those would rise
+o-o
+if businesses
+o-o
+were given
+o-o
+a well hyphen-here designed
+o-o
+tax break.
+end-lyric
+
 ambee sings-damien amenn
-What
+What would that
+o-o
+look like?
+o-o
+How would it work?
+end-lyric
+
+ambee sings-econhist amenn
+A business
+o-o
+would get
+o-o
+a tax credit
+o-o
+if their gap
+o-o
+between
+o-o
+executives
+o-o
+and workers
+o-o
+is lower
+o-o
+than other
+o-o
+businesses.
+end-lyric
+
+ambee sings-desha amenn
+That would
+o-o
+reduce the need
+o-o
+for labor strikes,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Indeed it would.
+o-o
+Of course it has
+o-o
+no chance
+o-o
+of getting passed
+o-o
+under our current
+o-o
+election system.
+end-lyric
+
+ambee sings-damien amenn
+That's the kind of
+o-o
+bright future
+o-o
+I'd like to see!
+o-o
+Is there a way
+o-o
+to measure
+o-o
+that gap?
+end-lyric
+
+ambee sings-econhist amenn
+Sure,
+o-o
+just average
+o-o
+the salaries
+o-o
+below the median,
+o-o
+and the salaries
+o-o
+above the median,
+o-o
+subtract them,
+o-o
+and divide by the
+o-o
+minimum wage.
+end-lyric
+
+ambee sings-damien amenn
+begin-italics Median end-lyric no-space ?
+end-lyric
+
+ambee sings-desha amenn
+That's just the
+o-o
+half hyphen-here way
+o-o
+salary.
+o-o
+So he's saying
+o-o
+to split the employees
+o-o
+into two groups
+o-o
+of equal size.
+end-lyric
+
+ambee sings-econhist amenn
+That gives
+o-o
+a wage hyphen-here gap
+o-o
+index number.
+o-o
+The smaller
+o-o
+the number,
+o-o
+the bigger
+o-o
+the tax break.
+end-lyric
+
+ambee sings-damien amenn
+Brilliant!
+o-o
+name-desha
+o-o
+you can put on those
+o-o
+sunglasses now.
+end-lyric
+
+ambee sings-desha amenn
+You're right.
+o-o
+That would be
+o-o
+a very bright
+o-o
+way to force,
+o-o
+well motivate,
+o-o
+business owners
+o-o
+to share
+o-o
+more of their
+o-o
+profits
+o-o
+with their
+o-o
+employees.
+end-lyric
+
+ambee sings-damien amenn
+What other
 o-o
 predictions
 o-o
@@ -253,9 +427,9 @@ will reduce crime.
 o-o
 Plus I've got
 o-o
-some personal
+a personal
 o-o
-guesses.
+guess.
 o-o
 There will be
 o-o
@@ -268,26 +442,6 @@ o-o
 individual
 o-o
 entrepreneurs.
-o-o
-And there'll be
-o-o
-higher
-o-o
-taxes on
-o-o
-businesses
-o-o
-that have more
-o-o
-salary
-o-o
-inequity
-o-o
-between
-o-o
-executives
-o-o
-and workers.
 end-lyric
 
 ambee sings-damien amenn

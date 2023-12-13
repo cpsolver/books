@@ -1690,27 +1690,93 @@ distortion?
 end-lyric
 
 ambee sings-econhist amenn
-Ok,
+Let's not.
 o-o
-as another
+Already
 o-o
-intentional
+my students
 o-o
-distortion,
+have to use
 o-o
-the CPI
+the correct
 o-o
-excludes
+economic
 o-o
-rent and fuel,
+terminology.
+end-lyric
+
+ambee sings-damien amenn
+Otherwise they'd
 o-o
-which are rising
+get bad grades
 o-o
-quickly.
+on standardized
 o-o
-They're
+tests.
+end-lyric
+
+ambee sings-econhist amenn
+Alas, yes.
 o-o
-excluded
+I have to teach
+o-o
+what might be
+o-o
+in the tests.
+o-o
+If I ask an
+o-o
+essay question
+o-o
+and the student
+o-o
+mentions
+o-o
+begin-italics the tragedy
+o-o
+of the commons end-italics
+o-o
+I score it high.
+o-o
+But I have to
+o-o
+score it low
+o-o
+if they just talk about
+o-o
+economic pie.
+end-lyric
+
+ambee sings-damien amenn
+No wonder
+o-o
+school is so
+o-o
+distasteful.
+end-lyric
+
+ambee sings-desha amenn
+I'm glad we're
+o-o
+getting the
+o-o
+uncommon version,
+o-o
+not the tragic
+o-o
+version.
+end-lyric
+
+ambee sings-econhist amenn
+Getting back to
+o-o
+the consumer
+o-o
+price index,
+o-o
+it excludes
+o-o
+rent and fuel
 o-o
 because they're
 o-o
@@ -1718,7 +1784,9 @@ too volatile.
 end-lyric
 
 ambee sings-desha amenn
-That means they
+Volatile
+o-o
+means they
 o-o
 jump up and down
 o-o
@@ -1736,6 +1804,22 @@ naptime.
 end-lyric
 
 ambee sings-damien amenn
+Yet food and rent
+o-o
+are on a clear trend
+o-o
+upwards,
+o-o
+so they tear off
+o-o
+a bigger
+o-o
+and bigger
+o-o
+part of my
+o-o
+paycheck.
+o-o
 Is anything else
 o-o
 being fudged?
