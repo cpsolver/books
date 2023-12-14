@@ -17,10 +17,6 @@ Also by Richard Fobes
 end-subtitle
 
 begin-title
-Ending The Hidden Unfairness In U.S. Elections
-end-title
-
-begin-title
 The Creative Problem Solver's Toolbox
 end-title
 
@@ -44,11 +40,11 @@ www.SolutionsCreative.com
 end-basic-paragraph
 
 begin-basic-paragraph
-&#169; Copyright 2023 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
+&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
 end-basic-paragraph
 
 begin-basic-paragraph
-Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the conditions that there are no word changes and that every theater performance and every published audio or video recording includes the full dialog without any omission and that all financial income after expenses exclusively goes to the non hyphen-here profit organization.
+Also hereby permitted without cost is the performance of this dialog in a theater or sound recording studio by volunteer actors organized by a non hyphen-here profit organization on the conditions that every theater performance and every published audio or video recording includes the full dialog from the most recent edition without any word changes and that all financial income after expenses exclusively goes to the non hyphen-here profit organization.
 end-basic-paragraph
 
 begin-basic-paragraph

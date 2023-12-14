@@ -202,10 +202,18 @@ end-lyric
 
 ambee sings-damien amenn
 begin-italics Median end-lyric no-space ?
+o-o
+Isn't that the
+o-o
+barrier
+o-o
+in a road?
 end-lyric
 
 ambee sings-desha amenn
-That's just the
+It's a math word.
+o-o
+Here it means the
 o-o
 half hyphen-here way
 o-o
@@ -221,19 +229,33 @@ of equal size.
 end-lyric
 
 ambee sings-econhist amenn
-That gives
+A small number
 o-o
-a wage hyphen-here gap
+for the wage hyphen-here gap
 o-o
-index number.
+index
 o-o
-The smaller
+means managers
 o-o
-the number,
+and executives
 o-o
-the bigger
+are sharing
 o-o
-the tax break.
+more of the profits
+o-o
+with the employees
+o-o
+who get the
+o-o
+lower salaries.
+o-o
+So those businesses
+o-o
+get rewarded
+o-o
+with a bigger
+o-o
+tax break.
 end-lyric
 
 ambee sings-damien amenn
@@ -268,6 +290,30 @@ o-o
 with their
 o-o
 employees.
+end-lyric
+
+ambee sings-damien amenn
+And it would
+o-o
+reduce labor
+o-o
+strikes,
+o-o
+right?
+o-o
+Which are very
+o-o
+inefficient,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+You're the one
+o-o
+who is brilliant
+o-o
+now.
 end-lyric
 
 ambee sings-damien amenn

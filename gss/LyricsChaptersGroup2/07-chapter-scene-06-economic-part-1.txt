@@ -796,13 +796,13 @@ end-lyric
 ambee sings-econhist amenn
 Let's start with the
 o-o
-1950's
+nineteen fifties
 o-o
-and 1960's
+and nineteen sixties
 o-o
 and into the
 o-o
-1970's.
+nineteen seventies.
 o-o
 Why was the
 o-o
@@ -838,21 +838,23 @@ That war happened
 o-o
 back in, ...
 o-o
-well it ended
+well it ended in
 o-o
-in 1945.
+nineteen fourty five.
 end-lyric
 
 ambee sings-damien amenn
-But the
+Well,
+o-o
+the
 o-o
 boomer babies
 o-o
 were born
 o-o
-and raised,
+and raised.
 o-o
-and that
+That
 o-o
 increased
 o-o
@@ -860,10 +862,16 @@ consumption.
 end-lyric
 
 ambee sings-econhist amenn
-What else.
+What else?
 end-lyric
 
 ambee sings-damien amenn
+I wasn't around,
+o-o
+so I don't know.
+end-lyric
+
+ambee sings-desha amenn
 Does this have
 o-o
 anything to do with
@@ -873,7 +881,7 @@ o-o
 here in the US?
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Except at Pearl
 o-o
 Harbor.
@@ -910,18 +918,6 @@ noteworthy?
 end-lyric
 
 ambee sings-damien amenn
-Unemployment
-o-o
-here in the states
-o-o
-was low?
-end-lyric
-
-ambee sings-econhist amenn
-Why?
-end-lyric
-
-ambee sings-damien amenn
 Anyone who wanted
 o-o
 a factory job
@@ -930,6 +926,8 @@ could get one?
 end-lyric
 
 ambee sings-econhist amenn
+Yes.
+o-o
 What else?
 end-lyric
 
@@ -1028,19 +1026,19 @@ the seller
 o-o
 can sell
 o-o
-at high prices,
+at high prices.
+end-lyric
+
+ambee sings-desha amenn
+And that big
 o-o
-which boosts
+flow of money
 o-o
-the profits.
+to factories
 o-o
-And the business
+meant higher
 o-o
-can pay their
-o-o
-employees
-o-o
-better wages.
+wages.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1134,11 +1132,9 @@ end-lyric
 ambee sings-damien amenn
 The monopoly
 o-o
-ended,
+ended.
 o-o
-because
-o-o
-other nations
+Other nations
 o-o
 built new
 o-o
@@ -1494,12 +1490,6 @@ why it's corrupt.
 end-lyric
 
 ambee sings-econhist amenn
-You didn't forget.
-o-o
-We can't teach why
-o-o
-to undergrads.
-o-o
 Part of the why
 o-o
 is because
@@ -1560,26 +1550,24 @@ go down.
 end-lyric
 
 ambee sings-desha amenn
-So the
+Yeah, the
 o-o
 government
 o-o
 is hiding the real
 o-o
 cost of living!
+end-lyric
+
+ambee sings-damien amenn
+Why
 o-o
-They're not being
+are they
 o-o
-transparent.
-o-o
-But something else
-o-o
-is going on, right?
+lying?
 end-lyric
 
 ambee sings-econhist amenn
-Yes.
-o-o
 Some government
 o-o
 expenses
@@ -1589,24 +1577,8 @@ o-o
 consumer price
 o-o
 index.
-end-lyric
-
-ambee sings-desha amenn
-I remember
 o-o
-the CPI,
-o-o
-the consumer
-o-o
-price index.
-o-o
-It measures
-o-o
-inflation.
-end-lyric
-
-ambee sings-econhist amenn
-And it's linked
+It's linked
 o-o
 to such things as
 o-o
@@ -1666,21 +1638,29 @@ right?
 end-lyric
 
 ambee sings-econhist amenn
-The word tricks
+The word begin-italics tricks end-italics
 o-o
-is a bit rough.
+is a bit
+o-o
+unfair.
 end-lyric
 
 ambee sings-desha amenn
-And we can't
+We can't
 o-o
-call it corruption,
+call it
 o-o
-or lying,
+what it is,
 o-o
-or stealing.
+which is
 o-o
-So shall we
+lying,
+o-o
+and stealing,
+o-o
+and corruption.
+o-o
+Shall we
 o-o
 call it an
 o-o
@@ -1692,57 +1672,23 @@ end-lyric
 ambee sings-econhist amenn
 Let's not.
 o-o
-Already
+Already I'm
 o-o
-my students
-o-o
-have to use
-o-o
-the correct
+avoiding talking about
 o-o
 economic
 o-o
-terminology.
-end-lyric
-
-ambee sings-damien amenn
-Otherwise they'd
+terminology
 o-o
-get bad grades
+such as begin-italics the tragedy
 o-o
-on standardized
+of the commons end-italics no-space .
 o-o
-tests.
-end-lyric
-
-ambee sings-econhist amenn
-Alas, yes.
+Instead I'm
 o-o
-I have to teach
+simplifying
 o-o
-what might be
-o-o
-in the tests.
-o-o
-If I ask an
-o-o
-essay question
-o-o
-and the student
-o-o
-mentions
-o-o
-begin-italics the tragedy
-o-o
-of the commons end-italics
-o-o
-I score it high.
-o-o
-But I have to
-o-o
-score it low
-o-o
-if they just talk about
+by talking about
 o-o
 economic pie.
 end-lyric
@@ -1792,7 +1738,7 @@ jump up and down
 o-o
 like a
 o-o
-candy hydrogen fueled kid
+candy hyphen-here fueled kid
 o-o
 in a bouncy
 o-o
@@ -1808,9 +1754,9 @@ Yet food and rent
 o-o
 are on a clear trend
 o-o
-upwards,
+upwards.
 o-o
-so they tear off
+They rip off
 o-o
 a bigger
 o-o
@@ -2007,16 +1953,20 @@ o-o
 the cheery
 o-o
 holiday season.
-end-lyric
-
-ambee sings-econhist amenn
-And those feelings
 o-o
-get measured
+So economists
 o-o
-with something
+have to measure
 o-o
-called
+those feelings
+o-o
+to predict
+o-o
+the future.
+o-o
+We use
+o-o
+something called
 o-o
 consumer
 o-o
@@ -2024,7 +1974,7 @@ confidence.
 o-o
 You've heard
 o-o
-about that,
+of that,
 o-o
 right?
 end-lyric
@@ -3149,17 +3099,17 @@ included
 o-o
 gold, salt,
 o-o
-ivory,
+animal parts
 o-o
-frankincense,
+like ivory,
 o-o
-toga fabric,
+and animals.
 o-o
-and their
+Also their
 o-o
 equivalent
 o-o
-of Reeses
+of
 o-o
 peanut butter
 o-o
@@ -5134,9 +5084,7 @@ when name-desha thinks
 o-o
 you deserve to be
 o-o
-spanked with a
-o-o
-wet towel,
+spanked,
 o-o
 but that would be
 o-o
@@ -6802,13 +6750,11 @@ feedback loop.
 end-lyric
 
 ambee sings-damien amenn
-I thought
+I thought a
 o-o
-a feedback loop
+feedback loop
 o-o
-was the name for
-o-o
-going back
+was going back
 o-o
 for seconds
 o-o
@@ -6819,6 +6765,18 @@ o-o
 all hyphen-here you hyphen-here can hyphen-here eat
 o-o
 buffet.
+o-o
+Apparently
+o-o
+I need to
+o-o
+better
+o-o
+understand
+o-o
+what a feedback
+o-o
+loop really is.
 end-lyric
 
 ambee sings-desha amenn
@@ -6832,17 +6790,17 @@ so powerful.
 end-lyric
 
 ambee sings-damien amenn
-Ah,
+Lots of hot air?
 o-o
-so economics
+There's lots of it
 o-o
-is like politics
+in politics.
 o-o
-and hurricanes.
+It's in
 o-o
-It involves
+economics
 o-o
-lots of hot air.
+too?
 end-lyric
 
 ambee sings-desha amenn
