@@ -201,7 +201,7 @@ minimum wage.
 end-lyric
 
 ambee sings-damien amenn
-begin-italics Median end-lyric no-space ?
+begin-italics Median end-italics no-space ?
 o-o
 Isn't that the
 o-o
@@ -211,7 +211,9 @@ in a road?
 end-lyric
 
 ambee sings-desha amenn
-It's a math word.
+It's also
+o-o
+a math word.
 o-o
 Here it means the
 o-o
