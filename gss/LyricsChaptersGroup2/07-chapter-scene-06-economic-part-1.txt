@@ -46,15 +46,13 @@ name-econhist-nickname no-space ?
 end-lyric
 
 ambee sings-econhist amenn
-That's far better
+That's better
 o-o
-than what some
+than what
 o-o
-of my students
+spellcheck
 o-o
-call me
-o-o
-online,
+suggests,
 o-o
 so sure.
 o-o
@@ -3052,146 +3050,44 @@ end-lyric
 
 ambee sings-damien amenn
 Oh thanks!
-end-lyric
-
-ambee sings-desha amenn
-Gunpowder
 o-o
-empowered
+So what kind of
 o-o
-Europeans
+corruption
 o-o
-to explode, ...
+ended the
 o-o
-to exploit ...
+Italian
 o-o
-the native
-o-o
-people in the
-o-o
-Americas.
-o-o
-Now I realize
-o-o
-that using
-o-o
-big tall ships
-o-o
-to transport
-o-o
-silk and some
-o-o
-other stuff
-o-o
-between
-o-o
-Asia and
-o-o
-Europe
-o-o
-...
+Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
-The other stuff
+Immigrants
 o-o
-included
+to America,
 o-o
-gold, salt,
+after awhile,
 o-o
-animal parts
+stopped
 o-o
-like ivory,
+tolerating
 o-o
-and animals.
+corrupt
 o-o
-Also their
+churches
 o-o
-equivalent
+that heavily taxed
 o-o
-of
+their members.
 o-o
-peanut butter
+Also Europe's
 o-o
-cups.
-end-lyric
-
-ambee sings-desha amenn
-...
+economy
 o-o
-I realize that
+was dominated
 o-o
-running into
-o-o
-America and
-o-o
-taking land from
-o-o
-the natives,
-o-o
-and enslaving
-o-o
-Africans to work
-o-o
-on plantations
-o-o
-in the Caribbean,
-o-o
-was an
-o-o
-economic
-o-o
-bonus.
-o-o
-And giving
-o-o
-religious folks
-o-o
-a place where they
-o-o
-could escape
-o-o
-competing
-o-o
-religions
-o-o
-was just, for us,
-o-o
-a lucky byproduct?
-end-lyric
-
-ambee sings-econhist amenn
-Basically, yes.
-o-o
-It gave
-o-o
-democracy
-o-o
-a place to grow,
-o-o
-far away from
-o-o
-big armies
-o-o
-and navies.
-o-o
-The resulting
-o-o
-cooperation
-o-o
-among U.S. states
-o-o
-led to immense
-o-o
-prosperity.
-o-o
-It was so much
-o-o
-more efficient
-o-o
-than
-o-o
-guilds,
+by guilds,
 o-o
 secret
 o-o
@@ -3242,14 +3138,6 @@ o-o
 selfishly
 o-o
 for short hyphen-here term gains.
-o-o
-Instead of
-o-o
-wisely
-o-o
-for long hyphen-here term
-o-o
-gains.
 end-lyric
 
 ambee sings-damien amenn
@@ -3261,7 +3149,9 @@ end-lyric
 ambee sings-econhist amenn
 In hindsight
 o-o
-those outdated
+all of those
+o-o
+outdated
 o-o
 traditions
 o-o
@@ -3277,13 +3167,37 @@ right?
 end-lyric
 
 ambee sings-econhist amenn
-Very much so.
+Yes.
+o-o
+And America
+o-o
+gave
+o-o
+democracy
+o-o
+a place to grow,
+o-o
+far away from
+o-o
+big armies
+o-o
+and navies.
+o-o
+The resulting
+o-o
+cooperation
+o-o
+among U.S. states
+o-o
+led to immense
+o-o
+prosperity.
 o-o
 That's why
 o-o
-a couple
+a few
 o-o
-centuries later
+decades ago
 o-o
 Europeans
 o-o
@@ -3293,13 +3207,19 @@ European
 o-o
 Union.
 o-o
-They abandoned
+They finally
+o-o
+abandoned
 o-o
 fighting between
 o-o
 Catholics and
 o-o
-Protestants.
+Protestants,
+o-o
+except in
+o-o
+northern Ireland.
 o-o
 And they
 o-o
@@ -3719,7 +3639,9 @@ skills.
 end-lyric
 
 ambee sings-econhist amenn
-And priests lost
+Indeed,
+o-o
+priests lost
 o-o
 lots of
 o-o
@@ -3738,24 +3660,20 @@ o-o
 at the bedside
 o-o
 of the dying.
-end-lyric
-
-ambee sings-desha amenn
-And they sold
+o-o
+And because
+o-o
+they sold
 o-o
 holy water
 o-o
 that failed
 o-o
-to cure the sick,
-o-o
-they extorted
-o-o
-money for
-o-o
-pardoning sins,
-o-o
-and their
+to cure the sick.
+end-lyric
+
+ambee sings-desha amenn
+And their
 o-o
 version of
 o-o
@@ -3778,6 +3696,14 @@ o-o
 of
 o-o
 Piddlesbourough.
+end-lyric
+
+ambee sings-econhist amenn
+Which ironically
+o-o
+spread diseases
+o-o
+even faster.
 end-lyric
 
 ambee sings-damien amenn
@@ -3817,9 +3743,11 @@ government.
 end-lyric
 
 ambee sings-damien amenn
-What would
+So I'm
 o-o
-happen if we,
+seeing that
+o-o
+if we,
 o-o
 the majority
 o-o
@@ -3827,21 +3755,15 @@ of voters,
 o-o
 could elect
 o-o
-leaders who care?
+leaders who care,
 o-o
-How would those
+those leaders
 o-o
-leaders
+would reduce
 o-o
-change the U.S.
+corruption.
 o-o
-economy?
-o-o
-You've said they would
-o-o
-reduce corruption,
-o-o
-which will
+And that will
 o-o
 increase
 o-o
@@ -3855,7 +3777,7 @@ prosperity.
 o-o
 And there
 o-o
-would be more
+will be more
 o-o
 cooperation.
 o-o

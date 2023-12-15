@@ -5000,14 +5000,6 @@ o-o
 they would start
 o-o
 a holy war.
-o-o
-Yet I like this
-o-o
-cooperative
-o-o
-universe
-o-o
-better.
 end-lyric
 
 ambee sings-damien amenn
@@ -5026,6 +5018,10 @@ o-o
 er,
 o-o
 selected?
+o-o
+For the second
+o-o
+pizza.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -5107,19 +5103,31 @@ just getting a
 o-o
 majority
 o-o
-is not a
+is just part of
 o-o
-fully
+the big picture.
+end-lyric
+
+ambee sings-desha amenn
+I thought you were
 o-o
-zoomed out
+showing us
 o-o
-view.
+everything on
+o-o
+a twelve hyphen-here foot
+o-o
+TV screen.
+o-o
+Where on the screen
+o-o
+should we
+o-o
+be looking?
 end-lyric
 
 ambee sings-damien amenn
-I see somethin'
-o-o
-else too.
+I see somethin'.
 o-o
 If districts
 o-o
@@ -5323,45 +5331,91 @@ as us.
 end-lyric
 
 ambee sings-mathprof amenn
-Back to
+Yes,
 o-o
-voting here
+they focus on
+o-o
+the balance of power
+o-o
+between parties,
+o-o
+but they allow
+o-o
+party insiders
+o-o
+to control which
+o-o
+politicians
+o-o
+win the seats.
+o-o
+So back here
 o-o
 in the United States,
 o-o
 suppose each district
 o-o
-filled two seats
+had two
 o-o
-in the house of
+representatives
+o-o
+instead of one.
+end-lyric
+
+ambee sings-desha amenn
+That would double
+o-o
+the size of
+o-o
+the house of
 o-o
 representatives.
 end-lyric
 
 ambee sings-desha amenn
-That means districts
+Couldn't that
 o-o
-would be twice the
+be avoided
 o-o
-size of existing
+by making
 o-o
-districts, right?
+each district
+o-o
+double the size?
+o-o
+And having half
+o-o
+as many districts?
 end-lyric
 
 ambee sings-mathprof amenn
 Very good!
+o-o
+And using a fraction
+o-o
+no less.
 end-lyric
 
 ambee sings-damien amenn
-OK, half as many
+It's like building
 o-o
-districts,
+a staircase.
 o-o
-and two seats
+Half as many steps
 o-o
-per district.
+means each step
 o-o
-Sounds slick.
+is twice as high.
+end-lyric
+
+ambee sings-desha amenn
+Wow.
+o-o
+Now you're
+o-o
+designing
+o-o
+a new congress.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -5369,9 +5423,17 @@ Of course the
 o-o
 most popular
 o-o
-candidate wins
+candidate
+o-o
+would win
 o-o
 the first seat.
+o-o
+In a
+o-o
+double hyphen-here sized
+o-o
+district.
 end-lyric
 
 ambee sings-desha amenn
@@ -5689,10 +5751,6 @@ fill those seats?
 o-o
 That seems
 o-o
-not right.
-o-o
-That would be
-o-o
 unfair.
 end-lyric
 
@@ -5703,11 +5761,11 @@ European
 o-o
 nations
 o-o
-do it that way.
+do it that way,
 o-o
-Yet you're right.
+but you're right,
 o-o
-It's not fair.
+it's not fair.
 end-lyric
 
 ambee sings-damien amenn
@@ -6567,9 +6625,83 @@ for you now.
 end-lyric
 
 ambee sings-damien amenn
-If elections were fair,
+Wait.
 o-o
-what would change,
+What about the
+o-o
+gerrymander
+o-o
+problem?
+end-lyric
+
+ambee sings-desha amenn
+Yeah,
+o-o
+how do we avoid
+o-o
+district shapes
+o-o
+that look like
+o-o
+balloon animals
+o-o
+made by a clown?
+end-lyric
+
+ambee sings-mathprof amenn
+The statewide seats
+o-o
+take care of that.
+o-o
+If a party
+o-o
+dominates
+o-o
+any district,
+o-o
+the oppressed
+o-o
+parties
+o-o
+will win more
+o-o
+statewide
+o-o
+seats.
+end-lyric
+
+ambee sings-damien amenn
+That's a slick
+o-o
+trick!
+end-lyric
+
+ambee sings-mathprof amenn
+It's not a trick.
+o-o
+It's math,
+o-o
+which can seem
+o-o
+magical
+o-o
+to those who
+o-o
+don't bother
+o-o
+to learn it.
+end-lyric
+
+ambee sings-damien amenn
+Wow!
+o-o
+So now let's suppose
+o-o
+that elections
+o-o
+become fair.
+o-o
+What will change,
 o-o
 politically?
 end-lyric
@@ -6693,9 +6825,9 @@ The history
 o-o
 of economics
 o-o
-would be boring
+is indeed boring
 o-o
-for the two of you.
+for most of us.
 o-o
 But that's
 o-o
