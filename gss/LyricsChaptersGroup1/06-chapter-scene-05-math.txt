@@ -1650,7 +1650,21 @@ extracting meaning
 o-o
 from data,
 o-o
-creative things like that.
+hiring
+o-o
+decisions,
+o-o
+speed dating,
+o-o
+I mean
+o-o
+matchmaking,
+o-o
+and,
+o-o
+so far,
+o-o
+cooking.
 end-lyric
 
 ambee sings-damien amenn
@@ -2734,6 +2748,36 @@ begin-italics
 seventh choice
 end-italics
 no-space .
+end-lyric
+
+ambee sings-damien amenn
+What happens
+o-o
+if I mark
+o-o
+two or more
+o-o
+candidates
+o-o
+in the same
+o-o
+choice column?
+end-lyric
+
+ambee sings-mathprof amenn
+That can be
+o-o
+counted
+o-o
+correctly,
+o-o
+as long as
+o-o
+lazy counting
+o-o
+shortcuts
+o-o
+aren't involved.
 end-lyric
 
 ambee sings-damien amenn
@@ -5372,7 +5416,7 @@ o-o
 representatives.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Couldn't that
 o-o
 be avoided
@@ -6523,9 +6567,27 @@ colored blocks.
 end-lyric
 
 ambee sings-mathprof amenn
+Each stack
+o-o
+represents
+o-o
+one ballot,
+o-o
+with the voter's
+o-o
+favorite
+o-o
+on top,
+o-o
+and least hyphen-here favorite
+o-o
+on bottom.
+o-o
 With these
 o-o
-ballot preferences
+ranked choice
+o-o
+ballots
 o-o
 the winning flavor
 o-o
@@ -6584,6 +6646,18 @@ o-o
 all about voting?
 end-lyric
 
+ambee sings-desha amenn
+And how math
+o-o
+will solve the
+o-o
+conflicts
+o-o
+in the Middle
+o-o
+East?
+end-lyric
+
 ambee sings-mathprof amenn
 There's one
 o-o
@@ -6603,13 +6677,17 @@ improvements
 o-o
 in how members
 o-o
-of Congress
+of Congress,
 o-o
-vote to decide
+or a
 o-o
-which bills
+parliament,
 o-o
-should pass
+will vote to
+o-o
+decide which
+o-o
+bills should pass
 o-o
 to become
 o-o
@@ -6695,7 +6773,9 @@ end-lyric
 ambee sings-damien amenn
 Wow!
 o-o
-So now let's suppose
+So now,
+o-o
+let's suppose
 o-o
 that elections
 o-o
@@ -6817,7 +6897,7 @@ of economics?
 o-o
 That sounds like
 o-o
-a waste.
+a snoozefest.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -6825,7 +6905,7 @@ The history
 o-o
 of economics
 o-o
-is indeed boring
+is indeed boring,
 o-o
 for most of us.
 o-o

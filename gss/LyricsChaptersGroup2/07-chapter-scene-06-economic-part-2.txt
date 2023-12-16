@@ -103,6 +103,8 @@ low salaries.
 o-o
 Those would rise
 o-o
+significantly
+o-o
 if businesses
 o-o
 were given
@@ -121,23 +123,29 @@ How would it work?
 end-lyric
 
 ambee sings-econhist amenn
-A business
+Some kinds of
+o-o
+businesses
 o-o
 would get
 o-o
-a tax credit
+a big extra
 o-o
-if their gap
+tax credit
+o-o
+if their
+o-o
+salary gap
 o-o
 between
 o-o
-executives
+managers
 o-o
 and workers
 o-o
 is lower
 o-o
-than other
+than most other
 o-o
 businesses.
 end-lyric
@@ -407,36 +415,6 @@ nuclear
 o-o
 reactors,
 o-o
-a fully
-o-o
-phonetic
-o-o
-writing system
-o-o
-that will reduce
-o-o
-illiteracy,
-o-o
-new programming
-o-o
-languages
-o-o
-that will
-o-o
-simplify
-o-o
-automating
-o-o
-things online,
-o-o
-open patents
-o-o
-as an aternative
-o-o
-to monopoly
-o-o
-patents,
-o-o
 dishwasher hyphen-here sized
 o-o
 kitchen
@@ -462,6 +440,36 @@ o-o
 in distant
 o-o
 countries,
+o-o
+a fully
+o-o
+phonetic
+o-o
+writing system
+o-o
+that will reduce
+o-o
+illiteracy,
+o-o
+open patents
+o-o
+as an aternative
+o-o
+to monopoly
+o-o
+patents,
+o-o
+new programming
+o-o
+languages
+o-o
+that will
+o-o
+simplify
+o-o
+automating
+o-o
+things online,
 o-o
 and a
 o-o
@@ -1528,11 +1536,11 @@ let's have
 o-o
 more farming,
 o-o
-more stockpiled
+more jobs,
 o-o
-emergency
+smaller
 o-o
-supplies,
+wage gaps,
 o-o
 and more
 o-o
@@ -1546,31 +1554,33 @@ funny games
 o-o
 with pigs.
 o-o
-Higher taxes
+And higher
 o-o
-on some
+taxes could
 o-o
-businesses
+say we need
 o-o
-could say we need
+less pollution,
 o-o
 fewer pirates
 o-o
 on Wall Street,
 o-o
+fewer huge
+o-o
+houses that
+o-o
+only rich folks
+o-o
+can afford,
+o-o
 and fewer
 o-o
-businesses
+con hyphen-here artist
 o-o
-that overpay
+real hyphen-here estate
 o-o
-executives
-o-o
-while
-o-o
-underpaying
-o-o
-workers.
+developers.
 o-o
 And Wall Street
 o-o
@@ -2969,11 +2979,13 @@ even worse.
 o-o
 And that will help
 o-o
-the children of
+the children
 o-o
-my nieces and
+and grandchildren
 o-o
-nephews.
+of my nieces
+o-o
+and nephews.
 o-o
 They live in India.
 o-o
