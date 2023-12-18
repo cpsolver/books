@@ -48,13 +48,17 @@ Also hereby permitted without cost is the performance of this dialog in a theate
 end-basic-paragraph
 
 begin-basic-paragraph
-The characters in this story are fictional, based on voices in the author's head. no-space begin-superscript no-space * no-space end-superscript
+The characters in this story are fictional, based on voices in the author's head. no-space begin-superscript * end-superscript
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
 Exception: The author's now hyphen-here deceased brother had the visual disability that name-damien has.
-sentence-next
+end-basic-paragraph
+
+begin-basic-paragraph
+begin-italics
 ( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.)
+end-italics
 end-basic-paragraph
 
 begin-basic-paragraph

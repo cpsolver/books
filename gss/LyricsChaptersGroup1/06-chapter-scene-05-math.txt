@@ -332,6 +332,8 @@ With that
 o-o
 digit zero,
 o-o
+Portuguese
+o-o
 sailors made
 o-o
 realistic maps,
@@ -342,31 +344,37 @@ far out into
 o-o
 the Atlantic.
 o-o
-That avoided
+They bumped into
+o-o
+Brazil,
+o-o
+where they found
+o-o
+food and water.
+o-o
+From there
+o-o
+they sailed
+o-o
+around the
+o-o
+southern tip
+o-o
+of Africa.
+o-o
+That bypassed
 o-o
 the north hyphen-here bound winds
 o-o
-that block the path
+along the
 o-o
-along the south coast
+southwest
 o-o
-of Africa.
+coast of
 o-o
-That path,
+Africa.
 o-o
-which bumped
-o-o
-into Brazil,
-o-o
-took them around
-o-o
-the southern tip
-o-o
-of Africa.
-o-o
-With that sea route
-o-o
-Europeans
+And it
 o-o
 bypassed the
 o-o
@@ -2983,25 +2991,19 @@ middle ratings?
 end-lyric
 
 ambee sings-mathprof amenn
-Then Amazon
+Amazon
 o-o
-can move the
+stopped using
 o-o
-goalposts.
+simple counting,
 o-o
-They can count
+so it's not
 o-o
-differently.
+vulnerable
 o-o
-Actually
+to that
 o-o
-they already do.
-o-o
-They can get even
-o-o
-more sophisticated
-o-o
-if that's needed.
+tactic.
 end-lyric
 
 ambee sings-damien amenn
@@ -5191,7 +5193,7 @@ district would
 o-o
 elect a wolf.
 o-o
-Then congress would
+Then Congress would
 o-o
 be nothin' but wolves.
 end-lyric
@@ -5331,15 +5333,23 @@ still using
 o-o
 single hyphen-here choice ballots.
 o-o
-Yet there are
+Yet lots of
 o-o
-lots of people
+people like it
 o-o
-who like it.
+because
 o-o
-That's because
+it yields
 o-o
-they can point to
+what's called
+o-o
+begin-italics proportional
+o-o
+representation end-italics no-space .
+o-o
+So each voter
+o-o
+can point to
 o-o
 someone in
 o-o
@@ -5457,9 +5467,11 @@ Wow.
 o-o
 Now you're
 o-o
-designing
+stepping up
 o-o
-a new congress.
+to design
+o-o
+a new Congress.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -5755,9 +5767,11 @@ bigger. And we
 o-o
 reserve a few
 o-o
-extra seats.
+extra seats,
 o-o
-Statewide seats.
+which are called
+o-o
+statewide seats.
 o-o
 Then we can do
 o-o
@@ -5775,23 +5789,17 @@ statewide seats.
 end-lyric
 
 ambee sings-damien amenn
-And the party
-o-o
-leaders,
-o-o
-like the
+And party
 o-o
 insiders
 o-o
-in the Pirate
+would choose
 o-o
-Party,
+whose butts
 o-o
-would get to
+will fill
 o-o
-decide who should
-o-o
-fill those seats?
+those seats?
 o-o
 That seems
 o-o
@@ -6052,6 +6060,12 @@ o-o
 on their ballots.
 o-o
 Using that info,
+o-o
+along with
+o-o
+ranked choice
+o-o
+ballots,
 o-o
 the most popular
 o-o
@@ -6561,7 +6575,7 @@ explained why
 o-o
 you're pointing
 o-o
-out these
+out these nine
 o-o
 colored blocks.
 end-lyric
@@ -6583,7 +6597,7 @@ and least hyphen-here favorite
 o-o
 on bottom.
 o-o
-With these
+With these nine
 o-o
 ranked choice
 o-o
@@ -6649,7 +6663,7 @@ end-lyric
 ambee sings-desha amenn
 And how math
 o-o
-will solve the
+can solve the
 o-o
 conflicts
 o-o
@@ -7000,7 +7014,29 @@ o-o
 campaign contributions.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-mathprof amenn
+And you'll hear
+o-o
+about
+o-o
+percentages.
+end-lyric
+
+ambee sings-desha amenn
+Which just means
+o-o
+division
+o-o
+by one hundred.
+end-lyric
+
+ambee sings-mathprof amenn
+You can
+o-o
+handle it.
+end-lyric
+
+ambee sings-damien
 I'm a dummy
 o-o
 but I'll
@@ -7208,18 +7244,18 @@ o-o
 hindsight?
 end-lyric
 
-ambee sings-desha amenn
-I was right.
-o-o
-You
-begin-italics are end-italics
-very bright.
-end-lyric
-
 ambee sings-mathprof amenn
 That's a wise
 o-o
 insight.
+end-lyric
+
+ambee sings-desha amenn
+I was right.
+o-o
+You begin-italics are end-italics
+o-o
+very bright.
 end-lyric
 
 ambee sings-damien amenn
@@ -7745,7 +7781,53 @@ to get right.
 end-lyric
 
 ambee sings-mathprof amenn
-The way to
+Yes and no.
+o-o
+If Congress
+o-o
+were filled with
+o-o
+leaders
+o-o
+instead of
+o-o
+puppets
+o-o
+they would pass laws
+o-o
+and tax changes
+o-o
+that are
+o-o
+well hyphen-here designed.
+o-o
+And the job of
+o-o
+President
+o-o
+would be
+o-o
+to enforce
+o-o
+those laws.
+end-lyric
+
+ambee sings-damien amenn
+I see that
+o-o
+until we get
+o-o
+better elections
+o-o
+we're stuck
+o-o
+with vote splitting.
+end-lyric
+
+ambee sings-mathprof amenn
+In the meantime,
+o-o
+the way to
 o-o
 help defeat
 o-o
@@ -7896,7 +7978,7 @@ or sawdust,
 o-o
 or an
 o-o
-imaginary
+unreal
 o-o
 number of
 o-o

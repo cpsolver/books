@@ -1566,19 +1566,13 @@ lying?
 end-lyric
 
 ambee sings-econhist amenn
-Some government
+The consumer
 o-o
-expenses
+price index
 o-o
-are matched to the
+is linked to
 o-o
-consumer price
-o-o
-index.
-o-o
-It's linked
-o-o
-to such things as
+such things as
 o-o
 retirement
 o-o
@@ -1605,14 +1599,6 @@ o-o
 borrowed
 o-o
 money.
-o-o
-So the
-o-o
-government
-o-o
-needs inflation
-o-o
-to stay low.
 end-lyric
 
 ambee sings-damien amenn
@@ -1736,15 +1722,11 @@ jump up and down
 o-o
 like a
 o-o
-candy hyphen-here fueled kid
+candy hyphen-here filled kid
 o-o
 in a bouncy
 o-o
-house
-o-o
-just before
-o-o
-naptime.
+house.
 end-lyric
 
 ambee sings-damien amenn
@@ -2494,6 +2476,8 @@ And besides time
 o-o
 there are other
 o-o
+non hyphen-here physical
+o-o
 resources
 o-o
 that can get
@@ -2502,23 +2486,13 @@ wasted.
 o-o
 Like
 o-o
-muscle power,
+brainpower,
 o-o
 donkey power,
 o-o
-brainpower,
+anger,
 o-o
-metals,
-o-o
-stones,
-o-o
-wood,
-o-o
-clean water,
-o-o
-healing herbs,
-o-o
-and chocolate.
+and love.
 end-lyric
 
 ambee sings-econhist amenn
@@ -2574,21 +2548,9 @@ They think they do.
 o-o
 They have
 o-o
-something called
+something
 o-o
-economic
-o-o
-efficiency,
-o-o
-but that's more like
-o-o
-the gain and loss
-o-o
-of a cherry pie.
-o-o
-And they have
-o-o
-something called the
+called the
 o-o
 productivity
 o-o
@@ -2631,7 +2593,9 @@ o-o
 inexpensively
 o-o
 gets rebuilt.
-o-o
+end-lyric
+
+ambee sings-desha amenn
 Of course it
 o-o
 would be even
@@ -2641,8 +2605,10 @@ o-o
 if the house
 o-o
 never burned down.
-o-o
-But measuring
+end-lyric
+
+ambee sings-econhist amenn
+Measuring
 o-o
 non hyphen-here destruction,
 o-o
@@ -2658,21 +2624,26 @@ attention.
 end-lyric
 
 ambee sings-desha amenn
-And it fails
+And that index
 o-o
-to account for
+fails to
+o-o
+account for
 o-o
 the benefits
 o-o
-of some kinds
+of volunteers
 o-o
-of socialism,
+working in
 o-o
-like public
+public
 o-o
 libraries,
 o-o
-and better
+and the
+o-o
+benefits
+of better
 o-o
 public
 o-o
@@ -3144,6 +3115,20 @@ ambee sings-damien amenn
 Another kind of
 o-o
 corruption!
+o-o
+Not to mention
+o-o
+the beer drinking
+o-o
+in frat houses.
+end-lyric
+
+ambee sings-desha amenn
+Not that kind of
+o-o
+fraternal
+o-o
+organization.
 end-lyric
 
 ambee sings-econhist amenn
@@ -3169,7 +3154,9 @@ end-lyric
 ambee sings-econhist amenn
 Yes.
 o-o
-And America
+In contrast,
+o-o
+America
 o-o
 gave
 o-o
@@ -3691,17 +3678,17 @@ the pelvic
 o-o
 bone of
 o-o
-Saint Bernard
+martyred
 o-o
-of
+Saint Marty
 o-o
-Piddlesbourough.
+Sandinhart.
 end-lyric
 
 ambee sings-econhist amenn
-Which ironically
+Which spread
 o-o
-spread diseases
+diseases
 o-o
 even faster.
 end-lyric
@@ -4588,15 +4575,15 @@ free markets
 o-o
 more quickly
 o-o
-arrive at the
+respond to
 o-o
-most efficient
+fast changes in
 o-o
-networks and
+supply and
 o-o
-interdependencies.
+demand.
 o-o
-In contrast,
+Remember that
 o-o
 socialism
 o-o
@@ -4606,23 +4593,21 @@ control
 o-o
 markets
 o-o
-from the top down,
+from the top down
 o-o
-using quotas,
+using constraints,
 o-o
-and penalties,
+such as laws,
 o-o
-and fixing
+quotas,
 o-o
-prices,
+penalties,
 o-o
-such as the price
+fixed prices,
 o-o
-of sugar and
+and such.
 o-o
-chocolate.
-o-o
-But those rules
+Those constraints
 o-o
 can't change as fast
 o-o
@@ -4631,6 +4616,24 @@ o-o
 at the bottom
 o-o
 of the economy.
+o-o
+Also
+o-o
+remember that
+o-o
+cooperation
+o-o
+is the
+o-o
+foundation of
+o-o
+capitalism,
+o-o
+where the buyer
+o-o
+and seller
+o-o
+cooperate.
 end-lyric
 
 ambee sings-damien amenn
@@ -4670,6 +4673,30 @@ That's a useful
 o-o
 metaphor.
 o-o
+Where socialism
+o-o
+is like trying
+o-o
+to redirect
+o-o
+rivers.
+end-lyric
+
+ambee sings-desha amenn
+Ok,
+o-o
+capitalism
+o-o
+is sometimes bad,
+o-o
+but it doesn't
+o-o
+have to be bad.
+o-o
+Got it.
+end-lyric
+
+ambee sings-econhist amenn
 And now,
 o-o
 finally,
@@ -6686,7 +6713,11 @@ call attention
 o-o
 to the higher
 o-o
-unemployment rate,
+actual
+o-o
+unemployment
+o-o
+rate,
 o-o
 then consumers
 o-o
