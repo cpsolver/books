@@ -908,7 +908,7 @@ Colosseum.
 end-lyric
 
 ambee sings-damien amenn
-Ah,
+Oh,
 o-o
 your point
 o-o
@@ -1882,7 +1882,7 @@ that promise.
 end-lyric
 
 ambee sings-damien amenn
-Ah,
+Oh,
 o-o
 I see,
 o-o
@@ -2082,7 +2082,7 @@ conquer.
 end-lyric
 
 ambee sings-damien amenn
-Ah, vote splitting.
+Oh, vote splitting.
 end-lyric
 
 ambee sings-politician amenn
@@ -2195,7 +2195,7 @@ cannot stand.
 end-lyric
 
 ambee sings-damien amenn
-Ah, so long ago
+Oh, so long ago
 o-o
 votin' began
 o-o
@@ -2997,7 +2997,7 @@ one won.
 end-lyric
 
 ambee sings-damien amenn
-Ah,
+Oh,
 o-o
 'cause voters
 o-o

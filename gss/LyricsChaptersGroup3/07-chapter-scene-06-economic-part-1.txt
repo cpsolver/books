@@ -1,0 +1,3768 @@
+begin-title
+Scene 6,
+title-chapter-07
+end-title
+
+ambee put-into-phrase lyric-number 0700000 amenn
+
+combee ************
+begin-comment
+Illustration:
+Classroom for history classes, with poster "Highlights in History" and tiny illegible writing below on the same poster.
+Damien is standing on left side, economics history professor is standing in middle, and Desha is standing on right side, and all face each other.
+Economics history professor is male, racially mixed with Indian (from India) and British ancestry, wears nice shoes and nice pants and white shirt (but no tie).
+end-comment
+************ comenn
+
+
+ambee sings-desha-firstuse amenn
+Are you professor
+o-o
+Penta ...,
+o-o
+Penta hyphen-here guide hyphen-here us?
+end-lyric
+
+ambee sings-econhist-firstuse amenn
+name-econhist no-space .
+o-o
+Are you two
+o-o
+Demon and Dasha?
+end-lyric
+
+ambee sings-desha amenn
+I'm name-desha no-space .
+end-lyric
+
+ambee sings-damien-firstuse amenn
+I'm name-damien no-space .
+end-lyric
+
+ambee sings-desha amenn
+Can we call you
+o-o
+name-econhist-nickname no-space ?
+end-lyric
+
+ambee sings-econhist amenn
+Sure,
+o-o
+that's better
+o-o
+than what
+o-o
+spellcheck
+o-o
+suggests.
+o-o
+Welcome to my
+o-o
+classroom.
+o-o
+Would you like some
+o-o
+pistachios?
+end-lyric
+
+ambee sings-damien amenn
+I'm so
+o-o
+full of nuts
+o-o
+I could get a
+o-o
+dozen squirrels
+o-o
+through winter.
+end-lyric
+
+ambee sings-desha amenn
+We're wired on
+o-o
+espresso.
+o-o
+So let's go!
+end-lyric
+
+ambee sings-damien amenn
+I'm hungry
+o-o
+to learn.
+end-lyric
+
+ambee sings-desha amenn
+We came to learn
+o-o
+the dark arts
+o-o
+of economics.
+o-o
+Please tell us
+o-o
+what will happen
+o-o
+in the world
+o-o
+of money
+o-o
+when elections
+o-o
+are fair.
+end-lyric
+
+ambee sings-damien amenn
+When vote splittin's
+o-o
+no longer
+o-o
+skewing
+o-o
+the outcome.
+end-lyric
+
+ambee sings-econhist amenn
+It's not goat
+o-o
+spitting.
+o-o
+It's vote
+o-o
+splitting.
+end-lyric
+
+ambee sings-damien amenn
+We know it's
+o-o
+super
+o-o
+challengin'
+o-o
+to predict
+o-o
+the future.
+end-lyric
+
+ambee sings-econhist amenn
+That's mostly what
+o-o
+us economists
+o-o
+are paid to do.
+o-o
+Predict the future.
+end-lyric
+
+ambee sings-damien amenn
+Are they,
+o-o
+well you too,
+o-o
+in hindsight,
+o-o
+usually right?
+end-lyric
+
+ambee sings-econhist amenn
+Sometimes yes,
+o-o
+and then we
+o-o
+modestly say
+o-o
+begin-italics I told you so end-italics no-space .
+o-o
+Sometimes no,
+o-o
+and then we
+o-o
+apply for a
+o-o
+research grant
+o-o
+to study why
+o-o
+we were wrong.
+end-lyric
+
+ambee sings-desha amenn
+So you get paid more
+o-o
+if you're wrong?
+o-o
+Do you own
+o-o
+a Tesla
+o-o
+and a home
+o-o
+that has a
+o-o
+panoramic
+o-o
+view?
+end-lyric
+
+ambee sings-damien amenn
+name-desha no-space ,
+o-o
+your espresso
+o-o
+is showing.
+o-o
+Professor,
+o-o
+do you have a
+o-o
+general notion
+o-o
+'bout what will
+o-o
+change?
+o-o
+Especially
+o-o
+in Washington.
+end-lyric
+
+ambee sings-econhist amenn
+Of course!
+o-o
+Lots of new laws
+o-o
+will be
+o-o
+passed.
+o-o
+Those laws
+o-o
+will reduce
+o-o
+corruption.
+o-o
+Then a few
+o-o
+people who
+o-o
+greatly profit
+o-o
+from existing
+o-o
+kinds of
+o-o
+corruption
+o-o
+might
+o-o
+temporarily
+o-o
+earn less money.
+o-o
+Almost everyone
+o-o
+else will enjoy
+o-o
+increased prosperity.
+o-o
+And that increase
+o-o
+later will feed back
+o-o
+to the ones who
+o-o
+temporarily
+o-o
+lost some of their
+o-o
+income.
+end-lyric
+
+ambee sings-desha amenn
+What's your
+o-o
+justification?
+o-o
+For that prediction?
+end-lyric
+
+ambee sings-econhist amenn
+That trend has been
+o-o
+going on throughout
+o-o
+civilization
+o-o
+and history.
+o-o
+Not counting
+o-o
+setbacks
+o-o
+caused by
+o-o
+warfare.
+end-lyric
+
+ambee sings-damien amenn
+Can you
+o-o
+explain why?
+end-lyric
+
+ambee sings-econhist amenn
+Imagine the economy
+o-o
+as a strawberry pie.
+end-lyric
+
+ambee sings-desha amenn
+I'm not fond of
+o-o
+strawberry pie.
+o-o
+And apple pie
+o-o
+is tasteless
+o-o
+to me as a
+o-o
+metaphor.
+o-o
+Can we make it
+o-o
+tastier
+o-o
+and fill it
+o-o
+with cherries?
+end-lyric
+
+ambee sings-econhist amenn
+Of course. Now
+o-o
+imagine the economy
+o-o
+is a cherry pie.
+o-o
+If some people
+o-o
+cut themselves
+o-o
+a slice that is
+o-o
+too big, then other
+o-o
+people end up with
+o-o
+smaller slices.
+end-lyric
+
+ambee sings-damien amenn
+I'm following this.
+o-o
+Wow!
+end-lyric
+
+ambee sings-econhist amenn
+What would you like
+o-o
+to call the people
+o-o
+who take too big
+o-o
+of a slice?
+end-lyric
+
+ambee sings-damien amenn
+People in the
+o-o
+political down.
+o-o
+As opposed to the
+o-o
+political left
+o-o
+'n political
+o-o
+right.
+end-lyric
+
+ambee sings-desha amenn
+'N we
+o-o
+the people,
+o-o
+who get too little,
+o-o
+are in the
+o-o
+political
+o-o
+up.
+end-lyric
+
+ambee sings-econhist amenn
+Bravo!
+o-o
+I'll bet you
+o-o
+had to struggle
+o-o
+to get your
+o-o
+bearings
+o-o
+in the
+o-o
+political
+o-o
+jungle.
+o-o
+So,
+o-o
+the way I see it,
+o-o
+if elections
+o-o
+were fair,
+o-o
+then elected
+o-o
+leaders
+o-o
+would care
+o-o
+more about
+o-o
+the people
+o-o
+you call the
+o-o
+political
+o-o
+up,
+o-o
+where most
+o-o
+of us are,
+o-o
+who get too little
+o-o
+economic
+o-o
+pie.
+end-lyric
+
+ambee sings-desha amenn
+That's the part
+o-o
+we've figured
+o-o
+out.
+o-o
+And that
+o-o
+replacement
+o-o
+politicians
+o-o
+wouldn't lie
+o-o
+...
+o-o
+as much.
+end-lyric
+
+ambee sings-econhist amenn
+Only some
+o-o
+politicians
+o-o
+will be replaced.
+o-o
+The others who
+o-o
+continue to win
+o-o
+elections
+o-o
+will shift their
+o-o
+priorities
+o-o
+to better match
+o-o
+voters
+o-o
+instead of their
+o-o
+biggest
+o-o
+campaign
+o-o
+contributors.
+end-lyric
+
+ambee sings-damien amenn
+Makes sense.
+o-o
+Currently
+o-o
+they're
+o-o
+handcuffed.
+o-o
+The shift will
+o-o
+set them free
+o-o
+to do what we,
+o-o
+the majority
+o-o
+of voters want.
+end-lyric
+
+ambee sings-desha amenn
+Of course
+o-o
+some will resist
+o-o
+reformation.
+o-o
+They'll
+o-o
+persist
+o-o
+in being
+o-o
+ass ...,
+o-o
+er,
+o-o
+jerks.
+end-lyric
+
+ambee sings-econhist amenn
+Here's
+o-o
+the answer
+o-o
+to your question.
+o-o
+The reformed
+o-o
+politicians
+o-o
+and replacement
+o-o
+politicians
+o-o
+will pass laws
+o-o
+that give bigger
+o-o
+slices of
+o-o
+economic
+o-o
+pie
+o-o
+to the
+o-o
+majority
+o-o
+of voters.
+end-lyric
+
+ambee sings-damien amenn
+So far
+o-o
+this is
+o-o
+easier
+o-o
+than playing
+o-o
+air guitar.
+end-lyric
+
+ambee sings-desha amenn
+When I took
+o-o
+economics
+o-o
+one oh one,
+o-o
+it wasn't
+o-o
+this fun.
+end-lyric
+
+ambee sings-econhist amenn
+We'll get to some
+o-o
+complicated
+o-o
+bits swiftly,
+o-o
+and they involve
+o-o
+bits of
+o-o
+history.
+end-lyric
+
+ambee sings-damien amenn
+Oh dear,
+o-o
+not silly
+o-o
+wonky
+o-o
+history.
+o-o
+I learned some.
+o-o
+But I'm done
+o-o
+with the past.
+o-o
+It's gone.
+o-o
+Why do people
+o-o
+dwell on that
+o-o
+old stuffy
+o-o
+stuff?
+o-o
+Other than
+o-o
+using it
+o-o
+to play
+o-o
+trivia
+o-o
+games.
+end-lyric
+
+ambee sings-econhist amenn
+Here I'm walking
+o-o
+backwards.
+o-o
+Imagine that
+o-o
+this is like
+o-o
+moving forward
+o-o
+in time.
+o-o
+The future
+o-o
+is behind me
+o-o
+where I
+o-o
+cannot see.
+o-o
+So I look
+o-o
+where I've been.
+o-o
+That's the past.
+o-o
+The patterns
+o-o
+give me clues
+o-o
+about
+o-o
+that which is
+o-o
+yet to be.
+o-o
+So history
+o-o
+is like a
+o-o
+crystal ball.
+end-lyric
+
+ambee sings-damien amenn
+Now I see!
+o-o
+History
+o-o
+is a preview
+o-o
+of the future.
+o-o
+Who knew?
+end-lyric
+
+ambee sings-econhist amenn
+Many people
+o-o
+mistakenly
+o-o
+think that
+o-o
+history
+o-o
+is mostly
+o-o
+recalling
+o-o
+facts about
+o-o
+the past.
+end-lyric
+
+ambee sings-damien amenn
+In a history
+o-o
+trivia contest
+o-o
+Wikipedia
+o-o
+would beat me
+o-o
+like the loudest
+o-o
+drum in a
+o-o
+marchin' band.
+end-lyric
+
+ambee sings-econhist amenn
+Reading
+o-o
+Wikipedia
+o-o
+would be
+o-o
+a great way
+o-o
+to learn
+o-o
+history.
+end-lyric
+
+ambee sings-desha amenn
+Wikipedia is wrong
+o-o
+lots of the time.
+end-lyric
+
+ambee sings-econhist amenn
+About topics
+o-o
+that affect
+o-o
+people's
+o-o
+finances,
+o-o
+sure.
+o-o
+But Wikipedia
+o-o
+is usually
+o-o
+right about
+o-o
+non hyphen-here recent
+o-o
+history.
+o-o
+Also about
+o-o
+non hyphen-here medical
+o-o
+biochemistry,
+o-o
+basic
+o-o
+mathematics,
+o-o
+and movie plots.
+end-lyric
+
+ambee sings-damien amenn
+My eyes are
+o-o
+cryin'
+o-o
+just thinkin'
+o-o
+about reading
+o-o
+Wikipedia
+o-o
+so much.
+end-lyric
+
+ambee sings-desha amenn
+You said that
+o-o
+reading glasses
+o-o
+with a blue tint
+o-o
+helps with books.
+o-o
+A good browser
+o-o
+can change
+o-o
+Wikipedia's
+o-o
+white background
+o-o
+to blue.
+o-o
+See how that looks.
+end-lyric
+
+ambee sings-damien amenn
+I'll give that
+o-o
+trick a try.
+end-lyric
+
+ambee sings-econhist amenn
+Rather than facts,
+o-o
+what's more useful
+o-o
+regarding
+o-o
+history
+o-o
+is causation.
+o-o
+Cause and effect.
+o-o
+And the ones
+o-o
+that involve
+o-o
+a surprise
+o-o
+are the insights
+o-o
+you should
+o-o
+prize.
+end-lyric
+
+ambee sings-damien amenn
+Can ya translate
+o-o
+that into a
+o-o
+for instance?
+end-lyric
+
+ambee sings-econhist amenn
+Let's start with the
+o-o
+nineteen fifties
+o-o
+and nineteen sixties
+o-o
+and into the
+o-o
+nineteen seventies.
+o-o
+Why was the
+o-o
+U.S.
+o-o
+economy
+o-o
+so
+o-o
+prosperous?
+end-lyric
+
+ambee sings-damien amenn
+That was before
+o-o
+my time so
+o-o
+I don't know.
+end-lyric
+
+ambee sings-desha amenn
+This has to do
+o-o
+with World War Two,
+o-o
+doesn't it?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+That war happened
+o-o
+back in, ...
+o-o
+well it ended in
+o-o
+nineteen fourty five.
+end-lyric
+
+ambee sings-damien amenn
+Well,
+o-o
+the
+o-o
+boomer babies
+o-o
+were born
+o-o
+and raised.
+o-o
+That
+o-o
+increased
+o-o
+consumption.
+end-lyric
+
+ambee sings-econhist amenn
+What else?
+end-lyric
+
+ambee sings-damien amenn
+I wasn't around,
+o-o
+so I don't know.
+end-lyric
+
+ambee sings-desha amenn
+Does this have
+o-o
+anything to do with
+o-o
+not getting bombed
+o-o
+here in the US?
+end-lyric
+
+ambee sings-damien amenn
+Except at Pearl
+o-o
+Harbor.
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+Factories
+o-o
+and power plants
+o-o
+throughout
+o-o
+the world
+o-o
+were bombed,
+o-o
+except in
+o-o
+the United States,
+o-o
+Canada,
+o-o
+and less hyphen-here accessible
+o-o
+parts of
+o-o
+Russia.
+o-o
+Why was that
+o-o
+noteworthy?
+end-lyric
+
+ambee sings-damien amenn
+Anyone who wanted
+o-o
+a factory job
+o-o
+could get one?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+What else?
+end-lyric
+
+ambee sings-desha amenn
+Didn't factory jobs
+o-o
+pay well back then?
+o-o
+Well enough
+o-o
+to buy a house?
+end-lyric
+
+ambee sings-econhist amenn
+Yes,
+o-o
+and what else?
+end-lyric
+
+ambee sings-damien amenn
+I don't feel
+o-o
+brainy,
+o-o
+'cause I don't
+o-o
+see where
+o-o
+you're going.
+end-lyric
+
+ambee sings-econhist amenn
+What's that called
+o-o
+when there is only
+o-o
+one place that sells
+o-o
+what people
+o-o
+want to buy?
+end-lyric
+
+ambee sings-damien amenn
+Oh,
+o-o
+a monopoly!
+end-lyric
+
+ambee sings-econhist amenn
+Exactly.
+end-lyric
+
+ambee sings-desha amenn
+Oh yeah,
+o-o
+the entire world
+o-o
+had to buy
+o-o
+manufactured
+o-o
+goods
+o-o
+from the U.S.
+o-o
+and Canada
+o-o
+and Russia.
+o-o
+Because other
+o-o
+factories
+o-o
+on the planet
+o-o
+had become
+o-o
+dinosaurs,
+o-o
+wiped out by
+o-o
+bombs instead
+o-o
+of an
+o-o
+asteroid.
+end-lyric
+
+ambee sings-damien amenn
+And when there's
+o-o
+a monopoly
+o-o
+the seller
+o-o
+can sell
+o-o
+at high prices.
+end-lyric
+
+ambee sings-desha amenn
+And that big
+o-o
+flow of money
+o-o
+to factories
+o-o
+meant higher
+o-o
+wages.
+end-lyric
+
+ambee sings-econhist amenn
+Great thinking!
+end-lyric
+
+ambee sings-desha amenn
+Wait a minute!
+o-o
+Is that
+o-o
+economic
+o-o
+prosperity 
+o-o
+what voters
+o-o
+think of
+o-o
+when they hear
+o-o
+the slogan
+o-o
+about making
+o-o
+America
+o-o
+great again?
+end-lyric
+
+ambee sings-damien amenn
+Oh,
+o-o
+so this is why
+o-o
+the orange hyphen-here makeup guy
+o-o
+in the red tie
+o-o
+got so many votes.
+end-lyric
+
+ambee sings-desha amenn
+But he blames
+o-o
+immigrants
+o-o
+and blacks
+o-o
+and women
+o-o
+for the bad
+o-o
+economy
+o-o
+we have now.
+end-lyric
+
+ambee sings-econhist amenn
+As the son of
+o-o
+an immigrant
+o-o
+family,
+o-o
+from India,
+o-o
+I too think
+o-o
+that's ironic.
+o-o
+Even worse,
+o-o
+for voters,
+o-o
+it's foolish
+o-o
+to think
+o-o
+we can regain
+o-o
+that prior
+o-o
+prosperity
+o-o
+by building
+o-o
+factories.
+o-o
+Do you see why?
+end-lyric
+
+ambee sings-damien amenn
+The monopoly
+o-o
+ended.
+o-o
+Other nations
+o-o
+built new
+o-o
+factories.
+end-lyric
+
+ambee sings-econhist amenn
+A plus!
+end-lyric
+
+ambee sings-damien amenn
+Does this mean
+o-o
+the belief
+o-o
+that anyone
+o-o
+can get rich by
+o-o
+working hard
+o-o
+has reached
+o-o
+its expiration
+o-o
+date?
+end-lyric
+
+ambee sings-econhist amenn
+History
+o-o
+reveals
+o-o
+that prosperity
+o-o
+happens when a
+o-o
+city, nation,
+o-o
+or region
+o-o
+sells something
+o-o
+that people outside
+o-o
+the region
+o-o
+either need or
+o-o
+strongly desire.
+o-o
+And it's not
+o-o
+available from
+o-o
+anywhere else.
+end-lyric
+
+ambee sings-damien amenn
+But
+o-o
+monopolies
+o-o
+are just
+o-o
+short blips
+o-o
+that pass
+o-o
+like fads,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Do you know what
+o-o
+the silk road was?
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+Marco Polo
+o-o
+and lots of
+o-o
+caravans
+o-o
+traveled along
+o-o
+it to get silk
+o-o
+from China.
+end-lyric
+
+ambee sings-desha amenn
+That means
+o-o
+China was getting
+o-o
+lots of valuable
+o-o
+things flowing
+o-o
+into their country
+o-o
+to pay for the silk.
+end-lyric
+
+ambee sings-damien amenn
+So that made
+o-o
+China rich?
+end-lyric
+
+ambee sings-econhist amenn
+Better than that,
+o-o
+instead of
+o-o
+just selling
+o-o
+spools of silk,
+o-o
+they wove it into
+o-o
+begin-italics beautiful end-italics
+o-o
+fabric
+o-o
+that was worth
+o-o
+more than
+o-o
+its weight
+o-o
+in gold.
+o-o
+And they wisely
+o-o
+kept their special
+o-o
+silkworms within
+o-o
+the Forbidden
+o-o
+City to
+o-o
+protect their
+o-o
+monopoly.
+end-lyric
+
+ambee sings-desha amenn
+The Forbidden
+o-o
+City's the
+o-o
+fortress where
+o-o
+the emperor
+o-o
+of China
+o-o
+lived.
+end-lyric
+
+ambee sings-econhist amenn
+That monopoly
+o-o
+lasted for
+o-o
+centuries.
+o-o
+So they aren't
+o-o
+always blips
+o-o
+in time.
+o-o
+Also the
+o-o
+Arabic hyphen-here speaking
+o-o
+traders
+o-o
+along the
+o-o
+middle eastern
+o-o
+part of the
+o-o
+silk road
+o-o
+monopolized
+o-o
+access
+o-o
+to that silk,
+o-o
+and that trade
+o-o
+monopoly
+o-o
+also lasted
+o-o
+for centuries.
+end-lyric
+
+ambee sings-desha amenn
+That's why
+o-o
+Portuguese
+o-o
+ships
+o-o
+bumped into
+o-o
+Brazil,
+o-o
+and then
+o-o
+Columbus
+o-o
+bumped into
+o-o
+Caribbean
+o-o
+Islands.
+o-o
+They were looking
+o-o
+for an
+o-o
+alternate route
+o-o
+to China.
+end-lyric
+
+ambee sings-damien amenn
+Ok,
+o-o
+monopolies
+o-o
+are not always
+o-o
+short blips.
+o-o
+And I see
+o-o
+monopolies
+o-o
+are good for
+o-o
+sellers
+o-o
+but bad for
+o-o
+customers.
+o-o
+But how does that
+o-o
+affect today's
+o-o
+economy?
+o-o
+It seems like
+o-o
+rising to
+o-o
+the middle class
+o-o
+based on hard work
+o-o
+is something
+o-o
+from the past,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+It's not that
+o-o
+simple.
+o-o
+Do you know
+o-o
+about inflation?
+end-lyric
+
+ambee sings-damien amenn
+Yeah!
+o-o
+The cost of
+o-o
+rent 'n food
+o-o
+'n ice cream
+o-o
+are going up
+o-o
+and up fast
+o-o
+while salaries
+o-o
+suck.
+end-lyric
+
+ambee sings-desha amenn
+Yeah,
+o-o
+my salary
+o-o
+stays stuck.
+end-lyric
+
+ambee sings-econhist amenn
+There are
+o-o
+reasons why
+o-o
+the cost of living
+o-o
+is going up
+o-o
+faster than
+o-o
+the consumer
+o-o
+price index,
+o-o
+which is the
+o-o
+official
+o-o
+measurement
+o-o
+of inflation.
+end-lyric
+
+ambee sings-desha amenn
+I remember
+o-o
+that number
+o-o
+is corrupt,
+o-o
+but I forgot
+o-o
+why it's corrupt.
+end-lyric
+
+ambee sings-econhist amenn
+Part of the why
+o-o
+is because
+o-o
+back when the price
+o-o
+of food items
+o-o
+were quickly
+o-o
+rising,
+o-o
+some food items
+o-o
+were replaced by
+o-o
+items whose cost
+o-o
+were declining.
+end-lyric
+
+ambee sings-damien amenn
+What's declining
+o-o
+in cost?
+end-lyric
+
+ambee sings-econhist amenn
+The per hyphen-here pixel cost
+o-o
+of digital
+o-o
+cameras.
+end-lyric
+
+ambee sings-damien amenn
+I recognize
+o-o
+that word begin-italics per end-italics no-space .
+o-o
+It means division.
+o-o
+And the number
+o-o
+of pixels in
+o-o
+a camera
+o-o
+are going up,
+o-o
+so dividing by
+o-o
+that bigger number
+o-o
+makes the result
+o-o
+go down.
+end-lyric
+
+ambee sings-desha amenn
+Yeah, the
+o-o
+government
+o-o
+is hiding the real
+o-o
+cost of living!
+end-lyric
+
+ambee sings-damien amenn
+Why
+o-o
+are they
+o-o
+lying?
+end-lyric
+
+ambee sings-econhist amenn
+The consumer
+o-o
+price index
+o-o
+is linked to
+o-o
+such things as
+o-o
+retirement
+o-o
+pensions for
+o-o
+government
+o-o
+employees,
+o-o
+and social
+o-o
+security
+o-o
+benefits,
+o-o
+and the
+o-o
+interest
+o-o
+the government
+o-o
+pays for
+o-o
+borrowed
+o-o
+money.
+end-lyric
+
+ambee sings-damien amenn
+So the government
+o-o
+basically
+o-o
+uses tricks
+o-o
+to pretend
+o-o
+inflation
+o-o
+is low,
+o-o
+so it pays out
+o-o
+less money,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+The word begin-italics tricks end-italics
+o-o
+is a bit
+o-o
+unfair.
+end-lyric
+
+ambee sings-desha amenn
+We can't
+o-o
+call it
+o-o
+what it is,
+o-o
+which is
+o-o
+lying,
+o-o
+and stealing,
+o-o
+and corruption.
+o-o
+Shall we
+o-o
+call it an
+o-o
+intentional
+o-o
+distortion?
+end-lyric
+
+ambee sings-econhist amenn
+Let's not.
+o-o
+Already I'm
+o-o
+avoiding talking about
+o-o
+economic
+o-o
+terminology
+o-o
+such as begin-italics the tragedy
+o-o
+of the commons end-italics no-space .
+o-o
+Instead I'm
+o-o
+simplifying
+o-o
+by talking about
+o-o
+economic pie.
+end-lyric
+
+ambee sings-damien amenn
+No wonder
+o-o
+school is so
+o-o
+distasteful.
+end-lyric
+
+ambee sings-desha amenn
+I'm glad we're
+o-o
+getting the
+o-o
+uncommon version,
+o-o
+not the tragic
+o-o
+version.
+end-lyric
+
+ambee sings-econhist amenn
+Getting back to
+o-o
+the consumer
+o-o
+price index,
+o-o
+it excludes
+o-o
+rent and fuel
+o-o
+because they're
+o-o
+too volatile.
+end-lyric
+
+ambee sings-desha amenn
+Volatile
+o-o
+means they
+o-o
+jump up and down
+o-o
+like a
+o-o
+candy hyphen-here filled kid
+o-o
+in a bouncy
+o-o
+house.
+end-lyric
+
+ambee sings-damien amenn
+Yet food and rent
+o-o
+are on a clear trend
+o-o
+upwards.
+o-o
+They rip off
+o-o
+a bigger
+o-o
+and bigger
+o-o
+part of my
+o-o
+paycheck.
+o-o
+Is anything else
+o-o
+being fudged?
+end-lyric
+
+ambee sings-desha amenn
+Besides
+o-o
+ice cream
+o-o
+sundaes?
+end-lyric
+
+ambee sings-econhist amenn
+name-desha no-space ,
+o-o
+do you
+o-o
+remember from
+o-o
+econ one oh one
+o-o
+what determines
+o-o
+interest rates?
+end-lyric
+
+ambee sings-desha amenn
+The federal
+o-o
+reserve chooses
+o-o
+when to increase
+o-o
+and decrease the
+o-o
+interest rate,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+That's the rate
+o-o
+talked about
+o-o
+in the news,
+o-o
+but more important
+o-o
+is the rate
+o-o
+determined by
+o-o
+auctioning
+o-o
+treasuries.
+end-lyric
+
+ambee sings-desha amenn
+I don't remember
+o-o
+learning about
+o-o
+those actions,
+o-o
+I mean,
+o-o
+auctions.
+end-lyric
+
+ambee sings-econhist amenn
+It's not taught to
+o-o
+undergrads.
+end-lyric
+
+ambee sings-desha amenn
+I'll bet textbooks
+o-o
+don't include it
+o-o
+because schools
+o-o
+are funded by
+o-o
+the government.
+o-o
+So textbooks can't
+o-o
+reveal secrets
+o-o
+the government
+o-o
+wants to hide.
+end-lyric
+
+ambee sings-econhist amenn
+Some
+o-o
+U.S.
+o-o
+treasuries
+o-o
+are sold in
+o-o
+auctions.
+o-o
+In economically
+o-o
+optimistic
+o-o
+times those
+o-o
+treasuries
+o-o
+sell for
+o-o
+higher prices,
+o-o
+closer to the
+o-o
+amount the
+o-o
+government pays
+o-o
+when they reach their
+o-o
+redemption date.
+end-lyric
+
+ambee sings-desha amenn
+Ah, but in
+o-o
+economically
+o-o
+pessimistic
+o-o
+times the buyers
+o-o
+pay much less.
+end-lyric
+
+ambee sings-econhist amenn
+Yes,
+o-o
+then the gap
+o-o
+between
+o-o
+purchase price
+o-o
+and redemption
+o-o
+payment
+o-o
+increases.
+o-o
+So that
+o-o
+brings up rates
+o-o
+of interest.
+end-lyric
+
+ambee sings-damien amenn
+Optimism?
+o-o
+Pessimism?
+o-o
+Feelings matter?
+end-lyric
+
+ambee sings-econhist amenn
+You buy more stuff
+o-o
+when you're
+o-o
+less afraid
+o-o
+of the future.
+o-o
+Like during
+o-o
+the cheery
+o-o
+holiday season.
+o-o
+So economists
+o-o
+have to measure
+o-o
+those feelings
+o-o
+to predict
+o-o
+the future.
+o-o
+We use
+o-o
+something called
+o-o
+consumer
+o-o
+confidence.
+o-o
+You've heard
+o-o
+of that,
+o-o
+right?
+end-lyric
+
+ambee sings-damien amenn
+I'm a consumer,
+o-o
+or I try to be,
+o-o
+but I have no
+o-o
+confidence.
+o-o
+In the future.
+o-o
+And at the moment
+o-o
+something makes
+o-o
+no sense.
+o-o
+Interest rates
+o-o
+are low.
+o-o
+That means there's
+o-o
+lots of buyers
+o-o
+for those
+o-o
+...
+o-o
+things?
+end-lyric
+
+ambee sings-desha amenn
+Treasuries.
+end-lyric
+
+ambee sings-econhist amenn
+A plus.
+o-o
+Yes, normally.
+o-o
+But China and
+o-o
+Russia stopped
+o-o
+buying them so
+o-o
+lately the
+o-o
+federal reserve
+o-o
+has been buying
+o-o
+lots of them.
+end-lyric
+
+ambee sings-damien amenn
+Now I'm even
+o-o
+more confused.
+end-lyric
+
+ambee sings-desha amenn
+The government
+o-o
+buying its own
+o-o
+money,
+o-o
+that makes
+o-o
+no sense.
+o-o
+It would be like
+o-o
+a plush toy
+o-o
+dinosaur
+o-o
+business
+o-o
+buying its own
+o-o
+dinos to give
+o-o
+the appearance
+o-o
+of extra customers
+o-o
+and income.
+end-lyric
+
+ambee sings-econhist amenn
+That's partly
+o-o
+why the deficit
+o-o
+is so huge.
+end-lyric
+
+ambee sings-damien amenn
+Oh, so the U.S.
+o-o
+government has
+o-o
+increased its debt
+o-o
+to compensate
+o-o
+for rough times
+o-o
+economically?
+end-lyric
+
+ambee sings-desha amenn
+Wait a moment.
+o-o
+Our economy's
+o-o
+like a stack of
+o-o
+wood blocks in a
+o-o
+teetering tower
+o-o
+that's ready to
+o-o
+fall?
+o-o
+Except that
+o-o
+kind of falling
+o-o
+will kill
+o-o
+and maim
+o-o
+instead of
+o-o
+just shame?
+end-lyric
+
+ambee sings-econhist amenn
+All nations
+o-o
+and all big
+o-o
+businesses
+o-o
+are in debt.
+o-o
+So are farmers.
+o-o
+They all have to
+o-o
+borrow first
+o-o
+before they can
+o-o
+grow crops or
+o-o
+manufacture
+o-o
+or whatever to
+o-o
+get income.
+end-lyric
+
+ambee sings-damien amenn
+So being in debt
+o-o
+isn't a big deal,
+o-o
+but a growing
+o-o
+debt, that's
+o-o
+disastrous,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Relatively
+o-o
+speaking, yes.
+o-o
+But as long as
+o-o
+the government
+o-o
+is keeping its
+o-o
+citizens happy,
+o-o
+and happier than
+o-o
+in other nations,
+o-o
+problems can be
+o-o
+hidden behind
+o-o
+curtains of
+o-o
+distraction.
+end-lyric
+
+ambee sings-desha amenn
+The number of
+o-o
+people trying
+o-o
+to immigrate
+o-o
+into the U.S.
+o-o
+is still high.
+o-o
+So that
+o-o
+suggests
+o-o
+success.
+o-o
+Yet things
+o-o
+are a mess.
+end-lyric
+
+ambee sings-damien amenn
+So what should be
+o-o
+going on instead?
+o-o
+Besides
+o-o
+traveling
+o-o
+in flying
+o-o
+cars.
+end-lyric
+
+ambee sings-econhist amenn
+An important way
+o-o
+to increase
+o-o
+prosperity
+o-o
+is to increase
+o-o
+efficiency.
+end-lyric
+
+ambee sings-damien amenn
+How come
+o-o
+prosperity
+o-o
+increases
+o-o
+efficiency?
+end-lyric
+
+ambee sings-desha amenn
+Your time machine
+o-o
+is running
+o-o
+backwards.
+o-o
+Efficiency
+o-o
+increases
+o-o
+prosperity.
+end-lyric
+
+ambee sings-damien amenn
+I need an
+o-o
+example.
+end-lyric
+
+ambee sings-econhist amenn
+Consider the
+o-o
+Roman empire.
+o-o
+They wrote laws
+o-o
+to control
+o-o
+business and
+o-o
+commerce.
+o-o
+And they used
+o-o
+soldiers and
+o-o
+inspectors
+o-o
+and courts
+o-o
+to enforce
+o-o
+those laws.
+o-o
+An especially
+o-o
+important
+o-o
+innovation
+o-o
+was to set
+o-o
+standards for
+o-o
+weights and sizes.
+o-o
+And they built roads
+o-o
+and patroled them
+o-o
+with soldiers.
+o-o
+They built aqueducts
+o-o
+to channel water
+o-o
+to cities.
+o-o
+All of that
+o-o
+greatly increased
+o-o
+the efficiency
+o-o
+of their economy.
+end-lyric
+
+ambee sings-damien amenn
+Huh?
+o-o
+Economic
+o-o
+efficiency?
+end-lyric
+
+ambee sings-econhist amenn
+Economic
+o-o
+efficiency
+o-o
+means something
+o-o
+different.
+o-o
+Here I'm talking
+o-o
+about efficiency
+o-o
+as a general
+o-o
+concept,
+o-o
+where profits
+o-o
+go up
+o-o
+when costs
+o-o
+go down.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+costs went down
+o-o
+when those
+o-o
+Romans wasted
+o-o
+less time
+o-o
+fetching water,
+o-o
+they got sick less
+o-o
+because they had
+o-o
+water to wash
+o-o
+their hands,
+o-o
+and better roads
+o-o
+gave them a
+o-o
+better warranty
+o-o
+on their
+o-o
+ox hyphen-here cart wheels.
+end-lyric
+
+ambee sings-econhist amenn
+And there was
+o-o
+less cheating.
+o-o
+Those inspectors,
+o-o
+backed up by
+o-o
+soldiers,
+o-o
+made sure that
+o-o
+merchants
+o-o
+didn't use
+o-o
+heavier weights
+o-o
+to measure
+o-o
+what they bought,
+o-o
+and lighter weights
+o-o
+to measure
+o-o
+the gold and gems
+o-o
+they paid.
+end-lyric
+
+ambee sings-desha amenn
+And soldiers
+o-o
+patrolling
+o-o
+the better roads
+o-o
+meant there
+o-o
+was less
+o-o
+highway
+o-o
+robbery
+o-o
+by bad
+o-o
+Samaritans.
+end-lyric
+
+ambee sings-damien amenn
+Less time wasted.
+o-o
+Less stealing.
+o-o
+Got it.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+less corruption!
+o-o
+Like not tying
+o-o
+left and right
+o-o
+shoelaces together.
+o-o
+That makes progress
+o-o
+without
+o-o
+unnecessary
+o-o
+tripping.
+end-lyric
+
+ambee sings-damien amenn
+This is making
+o-o
+sense to me.
+o-o
+When there's
+o-o
+less corruption
+o-o
+there's less waste.
+o-o
+That means more time
+o-o
+goes into
+o-o
+building things
+o-o
+worthwhile,
+o-o
+and
+o-o
+valuable,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes,
+o-o
+there will be
+o-o
+lots more
+o-o
+efficiency
+o-o
+and
+o-o
+productivity.
+o-o
+That will increase
+o-o
+economic
+o-o
+prosperity.
+end-lyric
+
+ambee sings-damien amenn
+That will be
+o-o
+widespread
+o-o
+prosperity,
+o-o
+right?
+end-lyric
+
+ambee sings-desha amenn
+Not just for 
+o-o
+the filthy rich,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes,
+o-o
+that fits the
+o-o
+pattern of
+o-o
+history.
+o-o
+Another
+o-o
+important
+o-o
+ingredient
+o-o
+is to have less
+o-o
+fighting.
+o-o
+Not only less
+o-o
+physical
+o-o
+fighting,
+o-o
+but fewer
+o-o
+business disputes.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+fighting
+o-o
+also wastes
+o-o
+time, money,
+o-o
+resources, ...
+o-o
+... and lives.
+end-lyric
+
+ambee sings-damien amenn
+Since efficiency
+o-o
+is so important,
+o-o
+economists
+o-o
+measure it,
+o-o
+right?
+end-lyric
+
+ambee sings-desha amenn
+They think they do.
+o-o
+They have
+o-o
+something
+o-o
+called the
+o-o
+productivity
+o-o
+index.
+o-o
+But it's flawed.
+end-lyric
+
+ambee sings-econhist amenn
+A plus.
+o-o
+You do remember
+o-o
+some economics.
+o-o
+The productivity
+o-o
+index
+o-o
+is supposed to
+o-o
+measure
+o-o
+productivity,
+o-o
+which is similar
+o-o
+to efficiency.
+o-o
+Yet that index
+o-o
+increases
+o-o
+when a house
+o-o
+burns down
+o-o
+and then
+o-o
+inexpensively
+o-o
+gets rebuilt.
+end-lyric
+
+ambee sings-desha amenn
+Of course it
+o-o
+would be even
+o-o
+more efficient
+o-o
+if the house
+o-o
+never burned down.
+end-lyric
+
+ambee sings-econhist amenn
+Measuring
+o-o
+non hyphen-here destruction,
+o-o
+alas that's not
+o-o
+a sexy topic
+o-o
+that attracts
+o-o
+economists'
+o-o
+attention.
+end-lyric
+
+ambee sings-desha amenn
+And that index
+o-o
+fails to
+o-o
+account for
+o-o
+the benefits
+o-o
+of volunteers
+o-o
+working in
+o-o
+public
+o-o
+libraries,
+o-o
+and the
+o-o
+benefits
+of better
+o-o
+public
+o-o
+education.
+end-lyric
+
+ambee sings-damien amenn
+So if efficiency
+o-o
+is what made the
+o-o
+Roman empire
+o-o
+great,
+o-o
+why did it
+o-o
+decline?
+o-o
+In just a
+o-o
+sentence or two.
+end-lyric
+
+ambee sings-desha amenn
+If all the books
+o-o
+on this subject
+o-o
+fell on you,
+o-o
+you'd get buried
+o-o
+in an avalanche
+o-o
+ten feet high.
+end-lyric
+
+ambee sings-econhist amenn
+I'll try to
+o-o
+oversimplify.
+o-o
+After the years of
+o-o
+good governance
+o-o
+and
+o-o
+prosperity,
+o-o
+corruption grew.
+o-o
+And corruption
+o-o
+reduces
+o-o
+efficiency.
+end-lyric
+
+ambee sings-desha amenn
+Plus
+o-o
+a huge source
+o-o
+of wealth
+o-o
+for ancient Rome
+o-o
+was through
+o-o
+conquest.
+o-o
+That means stealing.
+o-o
+But they ran out
+o-o
+of wealthy places
+o-o
+to conquer.
+end-lyric
+
+ambee sings-econhist amenn
+Yes, the
+o-o
+Roman army
+o-o
+invaded
+o-o
+surrounding
+o-o
+territories.
+o-o
+Besides
+o-o
+stealing
+o-o
+gold and jewels,
+o-o
+and crowns and
+o-o
+tiaras,
+o-o
+and artwork,
+o-o
+and sending it
+o-o
+back to Rome,
+o-o
+they installed
+o-o
+tax collectors.
+end-lyric
+
+
+ambee sings-desha amenn
+Lots of those
+o-o
+taxes were paid
+o-o
+with grains and
+o-o
+other food
+o-o
+that fed
+o-o
+the soldiers
+o-o
+and the wealthy
+o-o
+in Rome.
+end-lyric
+
+ambee sings-damien amenn
+But that ends
+o-o
+when there's
+o-o
+no more regions
+o-o
+to conquer
+o-o
+and plunder,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+Basically
+o-o
+that's the kids' book
+o-o
+version of the
+o-o
+Roman empire.
+end-lyric
+
+ambee sings-damien amenn
+So what's the economic
+o-o
+opposite
+o-o
+of corruption?
+end-lyric
+
+ambee sings-desha amenn
+This is going
+o-o
+to take awhile.
+o-o
+What I'm wearing
+o-o
+might go
+o-o
+out of style.
+end-lyric
+
+ambee sings-econhist amenn
+There are
+o-o
+multiple
+o-o
+opposites
+o-o
+because there are
+o-o
+multiple
+o-o
+kinds of
+o-o
+corruption.
+o-o
+One opposite is
+o-o
+the free market.
+o-o
+You know what that is,
+o-o
+right?
+end-lyric
+
+ambee sings-damien amenn
+Yeah.
+end-lyric
+
+ambee sings-econhist amenn
+In an ideal free market,
+o-o
+there are no barriers.
+o-o
+People can choose
+o-o
+what to buy,
+o-o
+what to sell,
+o-o
+how much to charge,
+o-o
+and whatever else,
+o-o
+without fighting.
+o-o
+That's a fluid,
+o-o
+flexible,
+o-o
+and efficient,
+o-o
+economy.
+o-o
+But corruption?
+o-o
+That puts up barriers
+o-o
+that are chosen
+o-o
+to channel money
+o-o
+into specific pockets.
+o-o
+Those corrupt
+o-o
+barriers
+o-o
+reduce
+o-o
+efficiency.
+end-lyric
+
+ambee sings-damien amenn
+I think I've
+o-o
+got it.
+o-o
+Efficiency
+o-o
+and stealing from
+o-o
+foreigners is
+o-o
+what brings money
+o-o
+into a region.
+o-o
+And corruption
+o-o
+reduces
+o-o
+efficiency,
+o-o
+which causes
+o-o
+economic
+o-o
+decline.
+end-lyric
+
+ambee sings-econhist amenn
+That's a bit
+o-o
+fuzzy but ...
+end-lyric
+
+ambee sings-damien amenn
+My butt's fuzzy?
+end-lyric
+
+ambee sings-desha amenn
+If you say so.
+o-o
+I can see
+o-o
+it's firm.
+end-lyric
+
+ambee sings-econhist amenn
+Perhaps I should
+o-o
+clarify.
+o-o
+A similar kind of
+o-o
+rise and fall
+o-o
+pattern happened
+o-o
+later with the
+o-o
+Italian
+o-o
+Renaissance.
+o-o
+It started with
+o-o
+efficient banking.
+o-o
+Plus improved ships
+o-o
+and navigation
+o-o
+using technology
+o-o
+from China.
+end-lyric
+
+ambee sings-desha amenn
+The compass, right?
+end-lyric
+
+ambee sings-econhist amenn
+And the ship's
+o-o
+rudder.
+end-lyric
+
+ambee sings-damien amenn
+Of course
+o-o
+gunpowder.
+o-o
+And the digit zero.
+end-lyric
+
+ambee sings-econhist amenn
+You're astute!
+end-lyric
+
+ambee sings-damien amenn
+No my ass
+o-o
+didn't toot!
+end-lyric
+
+ambee sings-desha amenn
+Astute.
+o-o
+It means your brain
+o-o
+just did the
+o-o
+equivalent of
+o-o
+a gymnastics
+o-o
+triple twist
+o-o
+vault
+o-o
+with a perfect
+o-o
+landing.
+end-lyric
+
+ambee sings-damien amenn
+Oh thanks!
+o-o
+So what kind of
+o-o
+corruption
+o-o
+ended the
+o-o
+Italian
+o-o
+Renaissance?
+end-lyric
+
+ambee sings-econhist amenn
+Europe's
+o-o
+economy
+o-o
+was dominated
+o-o
+by guilds,
+o-o
+secret
+o-o
+societies,
+o-o
+fraternal
+o-o
+organizations,
+o-o
+and nepotism.
+o-o
+Plus churches
+o-o
+heavily taxed
+o-o
+their members,
+o-o
+with lots of that
+o-o
+going to the
+o-o
+Vatican
+o-o
+in Rome.
+end-lyric
+
+ambee sings-desha amenn
+That's why
+o-o
+Catholic
+o-o
+churches
+o-o
+are so ornate,
+o-o
+even on the
+o-o
+ceilings.
+end-lyric
+
+ambee sings-damien amenn
+Oh,
+o-o
+I've heard about
+o-o
+the ceiling
+o-o
+in the Sistine
+o-o
+Chapel
+o-o
+where a second
+o-o
+artist had to
+o-o
+cover the
+o-o
+private parts.
+end-lyric
+
+ambee sings-desha amenn
+Those taxes,
+o-o
+especially indulgences,
+o-o
+were so corrupt
+o-o
+that Martin Luther
+o-o
+and others
+o-o
+created the
+o-o
+Protestant
+o-o
+religions,
+o-o
+and England
+o-o
+created
+o-o
+its own church
+o-o
+to shift that
+o-o
+corruption
+o-o
+to stay in the
+o-o
+same country.
+o-o
+And
+o-o
+immigrants
+o-o
+in America
+o-o
+stopped
+o-o
+tolerating
+o-o
+corrupt
+o-o
+churches.
+o-o
+So it was
+o-o
+a gradual
+o-o
+shift.
+end-lyric
+
+ambee sings-damien amenn
+Oh,
+o-o
+I'm seeing
+o-o
+the pattern.
+o-o
+Less corruption
+o-o
+less waste,
+o-o
+gradually.
+o-o
+But what's
+o-o
+nepo...
+o-o
+whatever.
+end-lyric
+
+ambee sings-desha amenn
+Nepotism
+o-o
+is hiring
+o-o
+family
+o-o
+members.
+o-o
+And friends.
+end-lyric
+
+ambee sings-damien amenn
+Isn't that a
+o-o
+no hyphen-here brainer?
+o-o
+Hiring based on
+o-o
+skills and
+o-o
+a good
+o-o
+word-resume no-space ?
+end-lyric
+
+ambee sings-econhist amenn
+Hiring
+o-o
+relatives
+o-o
+and friends
+o-o
+channels wealth
+o-o
+selfishly
+o-o
+for short hyphen-here term gains.
+end-lyric
+
+ambee sings-damien amenn
+I'm glad
+o-o
+we only have
+o-o
+a bit of that
+o-o
+kind of
+o-o
+corruption.
+o-o
+Along with
+o-o
+less beer drinking
+o-o
+in frat houses.
+o-o
+But do fewer
+o-o
+rich people
+o-o
+really hold back
+o-o
+on indulgences
+o-o
+for food
+o-o
+and wine
+o-o
+and,
+o-o
+well ...
+o-o
+ice cream?
+end-lyric
+
+ambee sings-desha amenn
+Not that kind of
+o-o
+fraternal
+o-o
+organization.
+o-o
+And not those kinds
+o-o
+of indulgences.
+o-o
+I'll explain those
+o-o
+later.
+end-lyric
+
+ambee sings-econhist amenn
+In hindsight
+o-o
+all of those
+o-o
+outdated
+o-o
+traditions
+o-o
+can be seen as
+o-o
+corrupt.
+end-lyric
+
+ambee sings-damien amenn
+And inefficient,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+o-o
+In contrast,
+o-o
+America
+o-o
+gave
+o-o
+democracy
+o-o
+a place to grow,
+o-o
+far away from
+o-o
+big armies
+o-o
+and navies.
+o-o
+The resulting
+o-o
+cooperation
+o-o
+among U.S. states
+o-o
+led to immense
+o-o
+prosperity.
+o-o
+That's why
+o-o
+a few
+o-o
+decades ago
+o-o
+Europeans
+o-o
+formed the
+o-o
+European
+o-o
+Union.
+o-o
+They finally
+o-o
+abandoned
+o-o
+fighting between
+o-o
+Catholics and
+o-o
+Protestants,
+o-o
+except in
+o-o
+northern Ireland.
+o-o
+And they
+o-o
+abandoned
+o-o
+fighting over
+o-o
+language
+o-o
+differences.
+end-lyric
+
+ambee sings-desha amenn
+And they stopped
+o-o
+having food fights
+o-o
+about table
+o-o
+etiquette.
+o-o
+And European
+o-o
+governments
+o-o
+now allow women
+o-o
+some seats in
+o-o
+parliament
+o-o
+after seeing
+o-o
+American Rosie
+o-o
+the Riveters
+o-o
+bail them out
+o-o
+of their
+o-o
+foolish World War
+o-o
+Two.
+end-lyric
+
+ambee sings-econhist amenn
+Instead they are
+o-o
+copying
+o-o
+the clear
+o-o
+success of
+o-o
+cooperation
+o-o
+that works so well
+o-o
+in the
+o-o
+United States.
+end-lyric
+
+ambee sings-desha amenn
+You said warfare
+o-o
+undermines the
+o-o
+economy.
+o-o
+Yet political hawks,
+o-o
+who are mostly
+o-o
+conservatives,
+o-o
+promote warfare
+o-o
+as a way to
+o-o
+increase
+o-o
+prosperity.
+o-o
+And competition
+o-o
+between
+o-o
+nations,
+o-o
+and between
+o-o
+businesses,
+o-o
+is the basis
+o-o
+of prosperity
+o-o
+in a free market,
+o-o
+right?
+end-lyric
+
+ambee sings-damien amenn
+I'm lost.
+o-o
+I feel like I'm
+o-o
+in a maze and
+o-o
+someone turned off
+o-o
+the lights.
+end-lyric
+
+ambee sings-econhist amenn
+Competition
+o-o
+between
+o-o
+businesses
+o-o
+provides
+o-o
+motivation
+o-o
+to work hard.
+o-o
+But what gets
+o-o
+overlooked is
+o-o
+the teamwork
+o-o
+among
+o-o
+employees.
+o-o
+That cooperation
+o-o
+yields
+o-o
+efficiency.
+o-o
+The same kind of
+o-o
+cooperation
+o-o
+happens among
+o-o
+citizens
+o-o
+within the same
+o-o
+nation.
+end-lyric
+
+ambee sings-damien amenn
+Hmm.
+o-o
+So teamwork
+o-o
+is more than
+o-o
+touchy hyphen-here feely
+o-o
+games?
+end-lyric
+
+ambee sings-desha amenn
+Ah, employees
+o-o
+getting along,
+o-o
+who wouldn't
+o-o
+normally get along.
+o-o
+Like employees
+o-o
+ignoring
+o-o
+racial differences,
+o-o
+religious
+o-o
+differences,
+o-o
+and gender
+o-o
+differences.
+end-lyric
+
+ambee sings-damien amenn
+Oh, and Republicans
+o-o
+and Democrats
+o-o
+ignoring their
+o-o
+differences
+o-o
+while at work.
+end-lyric
+
+ambee sings-desha amenn
+I see!
+o-o
+When these
+o-o
+conflicts
+o-o
+are ignored,
+o-o
+that's cooperation.
+o-o
+And that increases
+o-o
+efficiency
+o-o
+begin-italics within end-italics
+o-o
+the business.
+end-lyric
+
+ambee sings-damien amenn
+So cooperation
+o-o
+within a business
+o-o
+makes the business
+o-o
+strong,
+o-o
+so it can better
+o-o
+compete against
+o-o
+other
+o-o
+businesses?
+o-o
+The lights are
+o-o
+coming back on.
+o-o
+I think I see.
+end-lyric
+
+ambee sings-desha amenn
+So fighting
+o-o
+between groups
+o-o
+of people
+o-o
+inspires,
+o-o
+motivates,
+o-o
+cooperation
+o-o
+within each
+o-o
+group?
+end-lyric
+
+ambee sings-econhist amenn
+That's not a bad
+o-o
+simplification.
+end-lyric
+
+ambee sings-desha amenn
+And a lack
+o-o
+of cooperation
+o-o
+is why
+o-o
+climate change
+o-o
+is turning
+o-o
+our planet
+o-o
+into toast.
+end-lyric
+
+ambee sings-econhist amenn
+Some big kinds of
+o-o
+cooperation,
+o-o
+like
+o-o
+public schools,
+o-o
+food for the poor,
+o-o
+hospitals, and
+o-o
+orphanages
+o-o
+for little
+o-o
+orphan
+o-o
+Annies,
+o-o
+were created
+o-o
+by churches,
+o-o
+and promoted by
+o-o
+religions.
+end-lyric
