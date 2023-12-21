@@ -1285,13 +1285,6 @@ o-o
 got now.
 end-lyric
 
-
-
-
-
-
-
-
 ambee sings-damien amenn
 So now
 o-o
@@ -1536,13 +1529,6 @@ ambee sings-damien amenn
 That'd be super!
 end-lyric
 
-
-
-
-
-
-
-
 ambee sings-mathprof amenn
 He studies,
 o-o
@@ -1617,4 +1603,54 @@ o-o
 'N economics,
 o-o
 that's more math.
+end-lyric
+
+ambee sings-mathprof amenn
+You did great
+o-o
+understanding
+o-o
+some history about
+o-o
+mathematics.
+o-o
+As for math in
+o-o
+economics,
+o-o
+it's just different
+o-o
+names for money.
+o-o
+Like tax, debt,
+o-o
+interest,
+o-o
+subsidies,
+o-o
+and tariffs.
+end-lyric
+
+ambee sings-desha amenn
+Don't forget
+o-o
+bribes,
+o-o
+kickbacks,
+o-o
+payoffs,
+o-o
+payola,
+o-o
+and ...
+o-o
+campaign contributions.
+end-lyric
+
+ambee sings-mathprof amenn
+And you'll hear
+o-o
+about
+o-o
+percentages.
 end-lyric
