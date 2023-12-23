@@ -774,7 +774,9 @@ two or more
 o-o
 candidates
 o-o
-in the same
+that are in
+o-o
+the same
 o-o
 choice column?
 end-lyric
@@ -1242,9 +1244,19 @@ big deal?
 end-lyric
 
 ambee sings-mathprof amenn
-Exactly!
+Yes,
 o-o
-A plus again!
+because some
+o-o
+voters will use
+o-o
+the clapping
+o-o
+tactic
+o-o
+and others
+o-o
+won't.
 end-lyric
 
 ambee sings-damien amenn

@@ -33,6 +33,7 @@ end-lyric
 
 ambee sings-damien-firstuse amenn
 begin-explain Always speaks with lazy pronunciation. end-explain
+sentence-next
 o-o
 With today's luck
 o-o
@@ -45,6 +46,7 @@ ambee sings-fiance amenn
 Like marshmallows
 o-o
 in a truck bed?
+sentence-next
 o-o
 Or slop from a
 o-o
@@ -61,6 +63,7 @@ o-o
 ...
 o-o
 in paying next month's rent.
+sentence-next
 o-o
 What's the matter?
 end-lyric
@@ -83,7 +86,9 @@ end-lyric
 
 ambee sings-damien amenn
 Life's so unfair.
+sentence-next
 o-o
+sentence-next
 My dream's been shattered.
 end-lyric
 
@@ -91,6 +96,7 @@ ambee sings-fiance amenn
 Which dream's been
 o-o
 fractured?
+sentence-next
 o-o
 The picket fence
 o-o
@@ -105,6 +111,7 @@ end-lyric
 
 ambee sings-damien amenn
 That's your dream.
+sentence-next
 o-o
 Mine was to enter
 o-o
@@ -123,12 +130,14 @@ end-lyric
 
 ambee sings-damien amenn
 My butt's busted.
+sentence-next
 o-o
 What more does it take?
 end-lyric
 
 ambee sings-fiance amenn
 Maybe a secret handshake?
+sentence-next
 o-o
 What's up?
 end-lyric
@@ -195,6 +204,7 @@ o-o
 get pushed to
 o-o
 the edge.
+sentence-next
 o-o
 Don't they see?
 o-o
@@ -215,6 +225,7 @@ o-o
 we're this close
 o-o
 to the edge.
+sentence-next
 o-o
 How can this be?
 end-lyric
@@ -227,6 +238,7 @@ o-o
 aren't the ones
 o-o
 keepin' afloat?
+sentence-next
 o-o
 We're supposed to have
 o-o
@@ -245,6 +257,7 @@ end-lyric
 
 ambee sings-damien amenn
 Or third hyphen-here party spoilers.
+sentence-next
 o-o
 I hate that sulfurous stink
 o-o
@@ -265,6 +278,7 @@ o-o
 favor the
 o-o
 wealthy?
+sentence-next
 o-o
 We make a big fuss,
 o-o
@@ -279,6 +293,7 @@ o-o
 happens to
 o-o
 our votes.
+sentence-next
 o-o
 Are we just
 o-o
@@ -315,8 +330,10 @@ ambee sings-damien amenn
 We can
 o-o
 see through those.
+sentence-next
 o-o
 Somethin's hidden.
+sentence-next
 o-o
 There's gotta be
 o-o
@@ -329,6 +346,7 @@ o-o
 A dark hyphen-here money
 o-o
 tyranny?
+sentence-next
 o-o
 Or a Bermuda pentagon
 o-o
@@ -337,6 +355,7 @@ end-lyric
 
 ambee sings-damien amenn
 I dunno.
+sentence-next
 o-o
 But as my
 o-o
@@ -377,6 +396,7 @@ o-o
 willin' to
 o-o
 bust my ass.
+sentence-next
 o-o
 But I'll give it
 o-o
@@ -397,6 +417,7 @@ end-lyric
 
 ambee sings-damien amenn
 Gettin' herded.
+sentence-next
 o-o
 Their shamans spoke
 o-o
@@ -409,6 +430,7 @@ o-o
 who herd us like
 o-o
 buffalo.
+sentence-next
 o-o
 From our
 o-o
@@ -417,6 +439,7 @@ o-o
 to dry deserts
 o-o
 where foods don't grow.
+sentence-next
 o-o
 They feed their greed
 o-o
@@ -425,6 +448,7 @@ end-lyric
 
 ambee sings-fiance amenn
 We're bein' herded indeed.
+sentence-next
 o-o
 Something's not right.
 end-lyric
@@ -461,6 +485,7 @@ end-lyric
 
 ambee sings-fiance amenn
 I wanna be a princess.
+sentence-next
 o-o
 But do you see a tiara
 o-o
@@ -489,6 +514,7 @@ o-o
 dining out we
 o-o
 can't afford beer.
+sentence-next
 o-o
 Our finances
 o-o
@@ -499,10 +525,12 @@ ambee sings-damien amenn
 It's
 o-o
 ....
+sentence-next
 o-o
 What's that word?
 o-o
 Like evil.
+sentence-next
 o-o
 Like diablo.
 end-lyric
@@ -513,16 +541,20 @@ end-lyric
 
 ambee sings-damien amenn
 That's it!
+sentence-next
 o-o
 It's diabolical!
+sentence-next
 o-o
 It's a shakedown.
+sentence-next
 o-o
 The wealthy
 o-o
 say that money
 o-o
 trickles down.
+sentence-next
 o-o
 Maybe it does,
 o-o
@@ -537,12 +569,14 @@ o-o
 just for the bare
 o-o
 necessities.
+sentence-next
 o-o
 They claim that
 o-o
 workin' hard's
 o-o
 a good bet.
+sentence-next
 o-o
 And yet,
 o-o
@@ -567,6 +601,7 @@ ambee sings-damien amenn
 Somethin' brown
 o-o
 to get me down?
+sentence-next
 o-o
 No thanks.
 end-lyric
@@ -577,6 +612,7 @@ end-lyric
 
 ambee sings-damien amenn
 I'm suspicious.
+sentence-next
 o-o
 Somethin's goin' on
 o-o
@@ -621,6 +657,7 @@ o-o
 The boss I've got's
 o-o
 almost a saint.
+sentence-next
 o-o
 Yet he says
 o-o
@@ -633,6 +670,7 @@ o-o
 'n insurance,
 o-o
 'n extra fees.
+sentence-next
 o-o
 Just keepin'
 o-o
@@ -661,6 +699,7 @@ ambee sings-fiance amenn
 That leaves less
 o-o
 money for me.
+sentence-next
 o-o
 Your paycheck's like
 o-o
@@ -669,6 +708,7 @@ end-lyric
 
 ambee sings-damien amenn
 Times are bleak.
+sentence-next
 o-o
 I know how
 o-o
@@ -677,8 +717,10 @@ o-o
 but that don't
 o-o
 pay the rent.
+sentence-next
 o-o
 Not yet.
+sentence-next
 o-o
 'N it won't
 o-o
@@ -703,6 +745,7 @@ o-o
 our balcony
 o-o
 railing.
+sentence-next
 o-o
 I fret
 o-o
@@ -717,6 +760,7 @@ o-o
 anyone else
 o-o
 to blame.
+sentence-next
 o-o
 So who do you
 o-o
@@ -729,6 +773,7 @@ end-lyric
 
 ambee sings-damien amenn
 I dunno.
+sentence-next
 o-o
 Politics's
 o-o
@@ -827,6 +872,7 @@ o-o
 you found a
 o-o
 guru who knew.
+sentence-next
 o-o
 What'd be
 o-o
@@ -841,12 +887,16 @@ o-o
 get better
 o-o
 democracy?
+sentence-next
 o-o
 ...
+sentence-next
 o-o
 Wait.
+sentence-next
 o-o
 Not that.
+sentence-next
 o-o
 Ah yes,
 o-o
@@ -869,6 +919,7 @@ o-o
 teach at our
 o-o
 city's college.
+sentence-next
 o-o
 In political
 o-o
@@ -909,6 +960,7 @@ o-o
 another
 o-o
 textbook page.
+sentence-next
 o-o
 Those pages
 o-o
@@ -917,6 +969,7 @@ o-o
 faster than
 o-o
 the snake's tail.
+sentence-next
 o-o
 My brain throbs
 o-o
@@ -937,6 +990,7 @@ o-o
 Jefferson's
 o-o
 pets.
+sentence-next
 o-o
 'N tests, those
 o-o
@@ -955,6 +1009,7 @@ ambee sings-fiance amenn
 Now that's a real
 o-o
 conspiracy.
+sentence-next
 o-o
 Textbooks and tests
 o-o
@@ -1005,6 +1060,7 @@ end-lyric
 
 ambee sings-damien amenn
 Does it matter?
+sentence-next
 o-o
 History's just
 o-o
@@ -1043,6 +1099,7 @@ o-o
 better than me
 o-o
 on his tests.
+sentence-next
 o-o
 'N fractions,
 o-o
@@ -1097,6 +1154,7 @@ o-o
 so perverted,
 o-o
 so inverted?
+sentence-next
 o-o
 Surely,
 o-o
@@ -1131,10 +1189,12 @@ o-o
 do seem
 o-o
 unscientific.
+sentence-next
 o-o
 And times seem
 o-o
 horrific.
+sentence-next
 o-o
 I suppose
 o-o
@@ -1143,6 +1203,7 @@ end-lyric
 
 ambee sings-damien amenn
 Who should I fight?
+sentence-next
 o-o
 Where's that thing,
 o-o
@@ -1179,6 +1240,7 @@ o-o
 ...
 o-o
 from a distance.
+sentence-next
 o-o
 I'll ask him
 o-o
@@ -1195,6 +1257,7 @@ o-o
 in the fruit
 o-o
 basket.
+sentence-next
 o-o
 But if there
 o-o
@@ -1219,6 +1282,7 @@ o-o
 then I'll struggle
 o-o
 to learn.
+sentence-next
 o-o
 And then
 o-o
@@ -1285,8 +1349,10 @@ end-lyric
 
 ambee sings-damien amenn
 I won't jump.
+sentence-next
 o-o
 I'm not a chump.
+sentence-next
 o-o
 It might take
 o-o
@@ -1301,8 +1367,10 @@ o-o
 'n keep on
 o-o
 ridin'.
+sentence-next
 o-o
 'Cause I'm dyin'.
+sentence-next
 o-o
 To know
 o-o
@@ -1327,24 +1395,28 @@ o-o
 way it'll
 o-o
 always be.
+sentence-next
 o-o
 But it's not
 o-o
 OK.
 o-o
 It's not fair!
+sentence-next
 o-o
 Seats in Congress
 o-o
 should go to
 o-o
 the wise.
+sentence-next
 o-o
 Yet sitting
 o-o
 there now are
 o-o
 selfish liars.
+sentence-next
 o-o
 We wanna elect
 o-o
@@ -1355,6 +1427,7 @@ o-o
 but what
 o-o
 do we get?
+sentence-next
 o-o
 Egotistic
 o-o
@@ -1385,16 +1458,20 @@ end-lyric
 
 ambee sings-fiance amenn
 The impossible.
+sentence-next
 o-o
 That's part of why
 o-o
 I love you so.
+sentence-next
 o-o
 You want things
 o-o
 to be fair.
+sentence-next
 o-o
 You really care!
+sentence-next
 o-o
 But you'll need lots
 o-o
@@ -1439,6 +1516,7 @@ o-o
 will use my
 o-o
 soft brain.
+sentence-next
 o-o
 As a shovel
 o-o
@@ -1447,6 +1525,7 @@ o-o
 into elephant
 o-o
 'n donkey shit!
+sentence-next
 o-o
 My sanity
 o-o

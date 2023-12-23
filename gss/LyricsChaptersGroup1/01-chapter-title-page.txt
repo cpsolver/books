@@ -40,7 +40,9 @@ www.SolutionsCreative.com
 end-basic-paragraph
 
 begin-basic-paragraph
-&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.&#160; Permission to use excerpts in brief reviews is hereby permitted.
+&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.&#160; No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.
+sentence-next
+Permission to use excerpts in brief reviews is hereby permitted.
 end-basic-paragraph
 
 begin-basic-paragraph

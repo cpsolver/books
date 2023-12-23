@@ -24,6 +24,7 @@ ambee sings-vc-firstuse amenn
 Welcome to
 o-o
 my home.
+sentence-next
 o-o
 'N just call me
 o-o
@@ -36,10 +37,12 @@ o-o
 my fiance's father,
 o-o
 said you make money dance.
+sentence-next
 o-o
 'N I'd like to advance
 o-o
 my state of finance.
+sentence-next
 o-o
 Could ya teach me some tricks?
 end-lyric
@@ -56,6 +59,7 @@ o-o
 chocolate chip
 o-o
 ice cream.
+sentence-next
 o-o
 Want some?
 end-lyric
@@ -64,16 +68,20 @@ ambee sings-damien amenn
 That's too rich
 o-o
 a taste for me.
+sentence-next
 o-o
 Risin' out of
 o-o
 serfdom.
+sentence-next
 o-o
 That's my dream.
+sentence-next
 o-o
 I wanna pass to
 o-o
 the middle class.
+sentence-next
 o-o
 I long to be
 o-o
@@ -92,6 +100,7 @@ o-o
 your taste
 o-o
 for money.
+sentence-next
 o-o
 Lots of folks
 o-o
@@ -100,6 +109,7 @@ o-o
 stuffed bears,
 o-o
 warm and fuzzy.
+sentence-next
 o-o
 But a wallet
 o-o
@@ -130,6 +140,7 @@ o-o
 my world feels
 o-o
 right side up.
+sentence-next
 o-o
 I've got a knack
 o-o
@@ -140,6 +151,7 @@ o-o
 obscene
 o-o
 amounts.
+sentence-next
 o-o
 It feels like
 o-o
@@ -150,16 +162,20 @@ o-o
 the floor from
 o-o
 a slot machine.
+sentence-next
 o-o
 Yet I want more.
+sentence-next
 o-o
 I can't afford
 o-o
 my own jet,
 o-o
 or a yacht.
+sentence-next
 o-o
 Not there yet.
+sentence-next
 o-o
 Don't yet got
 o-o
@@ -188,14 +204,17 @@ o-o
 begin-italics before end-italics you step
 o-o
 on their toes.
+sentence-next
 o-o
 Then anything goes.
+sentence-next
 o-o
 That's the
 begin-italics
 trick
 end-italics
 no-space .
+sentence-next
 o-o
 That's how I
 o-o
@@ -214,6 +233,7 @@ end-lyric
 
 ambee sings-vc amenn
 Think about this.
+sentence-next
 o-o
 The love
 o-o
@@ -222,12 +242,14 @@ o-o
 is built into
 o-o
 our language.
+sentence-next
 o-o
 We have zillions
 o-o
 of words for
 o-o
 money.
+sentence-next
 o-o
 There's
 alimony,
@@ -292,6 +314,7 @@ end-comment
 
 ambee sings-damien amenn
 I see.
+sentence-next
 o-o
 'N besides words
 o-o
@@ -374,6 +397,7 @@ o-o
 nor in bags
 o-o
 anymore.
+sentence-next
 o-o
 That protected
 o-o
@@ -391,6 +415,7 @@ end-lyric
 
 ambee sings-damien amenn
 Ah, pirates.
+sentence-next
 o-o
 That was a
 o-o
@@ -417,6 +442,7 @@ o-o
 as uncommon as
 o-o
 blue hyphen-here footed boobies.
+sentence-next
 o-o
 Now that money
 o-o
@@ -443,6 +469,7 @@ o-o
 are like
 o-o
 ancient scribes.
+sentence-next
 o-o
 They write
 o-o
@@ -491,6 +518,7 @@ o-o
 in high hyphen-here profit
 o-o
 deals.
+sentence-next
 o-o
 The ones where I
 o-o
@@ -523,6 +551,7 @@ o-o
 for the other eight,
 o-o
 the ones that flop.
+sentence-next
 o-o
 Like Enron,
 o-o
@@ -549,18 +578,21 @@ ambee sings-vc amenn
 Ah, yes,
 o-o
 the unicorn.
+sentence-next
 o-o
 The one that
 o-o
 swells my pockets
 o-o
 til they burst.
+sentence-next
 o-o
 Missing out on
 o-o
 one of those
 o-o
 would be the worst.
+sentence-next
 o-o
 Yes, one unicorn
 o-o
@@ -603,6 +635,7 @@ o-o
 affordable
 o-o
 price.
+sentence-next
 o-o
 They don't need our
 o-o
@@ -661,6 +694,7 @@ o-o
 for a business
 o-o
 venture.
+sentence-next
 o-o
 I've invented a
 o-o
@@ -671,6 +705,7 @@ o-o
 without gettin'
 o-o
 on a ladder.
+sentence-next
 o-o
 So I'll ask,
 o-o
@@ -715,6 +750,7 @@ o-o
 cleanin'
 o-o
 a gutter.
+sentence-next
 o-o
 Some land on
 o-o
@@ -727,12 +763,14 @@ ambee sings-vc amenn
 That's a great spin!
 o-o
 Fear of fallin'.
+sentence-next
 o-o
 That's a fear that
 o-o
 would sell lots of
 o-o
 product.
+sentence-next
 o-o
 Do you have
 o-o
@@ -743,6 +781,7 @@ ambee sings-damien amenn
 I can't afford
 o-o
 that expense.
+sentence-next
 o-o
 At thousands
 o-o
@@ -765,6 +804,7 @@ end-lyric
 
 ambee sings-damien amenn
 That sucks.
+sentence-next
 o-o
 I couldn't afford
 o-o
@@ -777,6 +817,7 @@ ambee sings-vc amenn
 Why would I
 o-o
 invest?
+sentence-next
 o-o
 Not unless
 o-o
@@ -787,12 +828,14 @@ o-o
 against
 o-o
 competitors.
+sentence-next
 o-o
 There's gotta
 o-o
 be a
 o-o
 monopoly.
+sentence-next
 o-o
 Either
 o-o
@@ -805,6 +848,7 @@ o-o
 virtual
 o-o
 monopoly.
+sentence-next
 o-o
 That way my
 o-o
@@ -837,6 +881,7 @@ o-o
 but that's too
 o-o
 rough.
+sentence-next
 o-o
 That's as useless
 o-o
@@ -845,6 +890,7 @@ o-o
 on the back of
 o-o
 a golf cart.
+sentence-next
 o-o
 What the biz needs
 o-o
@@ -857,6 +903,7 @@ o-o
 plus customers and
 o-o
 testimonials.
+sentence-next
 o-o
 Then we might
 o-o
@@ -871,6 +918,7 @@ o-o
 already had,
 o-o
 I could self hyphen-here fund it.
+sentence-next
 o-o
 'N with that
 o-o
@@ -899,6 +947,7 @@ o-o
 ...
 o-o
 out loud.
+sentence-next
 o-o
 They might even
 o-o
@@ -913,6 +962,7 @@ o-o
 fill out a
 o-o
 few forms.
+sentence-next
 o-o
 But when you've
 o-o
@@ -939,10 +989,12 @@ ambee sings-vc amenn
 A mortgage,
 o-o
 hah.
+sentence-next
 o-o
 It doesn't work
 o-o
 like that.
+sentence-next
 o-o
 Instead
 o-o
@@ -951,6 +1003,7 @@ o-o
 buys the
 o-o
 house.
+sentence-next
 o-o
 Your down payment's
 o-o
@@ -961,6 +1014,7 @@ o-o
 a year of
 o-o
 law school.
+sentence-next
 o-o
 So if soon
 o-o
@@ -975,6 +1029,7 @@ o-o
 or two,
 o-o
 they sell the house.
+sentence-next
 o-o
 Then you and a
 o-o
@@ -991,6 +1046,7 @@ o-o
 to become
 o-o
 a lawyer.
+sentence-next
 o-o
 That path leads to
 o-o
@@ -1017,6 +1073,7 @@ o-o
 a bit,
 o-o
 occassionally.
+sentence-next
 o-o
 Mostly now they're
 o-o
@@ -1029,6 +1086,7 @@ o-o
 playing a game
 o-o
 of Monopoly.
+sentence-next
 o-o
 They make
 o-o
@@ -1043,6 +1101,7 @@ o-o
 for money,
 o-o
 derivatives.
+sentence-next
 o-o
 Big things,
 o-o
@@ -1065,6 +1124,7 @@ o-o
 equivalent,
 o-o
 written by lawyers.
+sentence-next
 o-o
 Lots of times
 o-o
@@ -1089,6 +1149,7 @@ end-lyric
 
 ambee sings-vc amenn
 It is.
+sentence-next
 o-o
 And gambling,
 o-o
@@ -1099,16 +1160,19 @@ o-o
 capitalists
 o-o
 do too.
+sentence-next
 o-o
 We supply
 o-o
 capital.
+sentence-next
 o-o
 It's like those
 o-o
 ancient sea
 o-o
 voyages.
+sentence-next
 o-o
 Someone had to
 o-o
@@ -1125,6 +1189,7 @@ o-o
 before they could
 o-o
 sail from the dock.
+sentence-next
 o-o
 Then, on return,
 o-o
@@ -1153,6 +1218,7 @@ o-o
 a temporary pass
 o-o
 to the middle class.
+sentence-next
 o-o
 Until they got
 o-o
@@ -1187,10 +1253,12 @@ o-o
 he took the
 o-o
 biggest risk.
+sentence-next
 o-o
 Remember there
 o-o
 were pirates.
+sentence-next
 o-o
 And sometimes
 o-o
@@ -1211,6 +1279,7 @@ end-lyric
 
 ambee sings-vc amenn
 They were.
+sentence-next
 o-o
 In those
 o-o
@@ -1219,12 +1288,14 @@ o-o
 fighting was done
 o-o
 by soldiers.
+sentence-next
 o-o
 Now fighting
 o-o
 is so much
 o-o
 safer.
+sentence-next
 o-o
 It's done by
 o-o
@@ -1239,6 +1310,7 @@ o-o
 instead of
 o-o
 swords.
+sentence-next
 o-o
 And instead of
 o-o
@@ -1259,6 +1331,7 @@ o-o
 Secret
 o-o
 lingerie.
+sentence-next
 o-o
 Quite civilized
 o-o
@@ -1269,6 +1342,7 @@ ambee sings-damien amenn
 I think I see
 o-o
 how money works.
+sentence-next
 o-o
 So how can I
 o-o
@@ -1285,6 +1359,7 @@ o-o
 business,
 o-o
 that's my dream.
+sentence-next
 o-o
 Some success,
 o-o
@@ -1309,24 +1384,29 @@ o-o
 Henry Ford's
 o-o
 production line.
+sentence-next
 o-o
 Not a
 o-o
 private jet.
+sentence-next
 o-o
 Not even just
 o-o
 a log cabin
 o-o
 in the woods.
+sentence-next
 o-o
 Not yet.
+sentence-next
 o-o
 I just want
 o-o
 fair rewards
 o-o
 for my hard work.
+sentence-next
 o-o
 How do I
 o-o
@@ -1343,12 +1423,14 @@ o-o
 a compelling
 o-o
 vision.
+sentence-next
 o-o
 A lofty one
 o-o
 that will
 o-o
 inspire.
+sentence-next
 o-o
 Then you hire
 o-o
@@ -1361,14 +1443,17 @@ o-o
 ducklings behind
 o-o
 their mom.
+sentence-next
 o-o
 You work them hard.
+sentence-next
 o-o
 You hire lawyers
 o-o
 to sue
 o-o
 competitors.
+sentence-next
 o-o
 And of course you
 o-o
@@ -1381,6 +1466,7 @@ o-o
 your PR
 o-o
 blitzes.
+sentence-next
 o-o
 They'll make
 o-o
@@ -1429,6 +1515,7 @@ o-o
 focusing
 o-o
 on death.
+sentence-next
 o-o
 In fact,
 o-o
@@ -1455,28 +1542,34 @@ end-lyric
 
 ambee sings-vc amenn
 It's not lying.
+sentence-next
 o-o
 That's not cheating.
+sentence-next
 o-o
 It's marketing
 o-o
 and stepping on
 o-o
 toes.
+sentence-next
 o-o
 In fact
 o-o
 anything goes.
+sentence-next
 o-o
 But not lying
 o-o
 and cheating.
+sentence-next
 o-o
 'Cause
 o-o
 that lands you in
 o-o
 the slammer.
+sentence-next
 o-o
 That'd be a
 o-o
@@ -1513,10 +1606,12 @@ ambee sings-vc amenn
 Or a gentle push
 o-o
 to the nose.
+sentence-next
 o-o
 Business is all about
 o-o
 competition.
+sentence-next
 o-o
 It's the very
 o-o
@@ -1527,12 +1622,15 @@ end-lyric
 
 ambee sings-damien amenn
 Stomping on toes.
+sentence-next
 o-o
 Anything goes.
+sentence-next
 o-o
 That's the trick of
 o-o
 corporations.
+sentence-next
 o-o
 How come they're the
 o-o
@@ -1547,6 +1645,7 @@ o-o
 the key is
 o-o
 politics.
+sentence-next
 o-o
 We shareholders
 o-o
@@ -1555,16 +1654,20 @@ o-o
 give money to
 o-o
 politicians.
+sentence-next
 o-o
 Then to us
 o-o
 they listen.
+sentence-next
 o-o
 That's not cheating.
+sentence-next
 o-o
 It's not against
 o-o
 any law.
+sentence-next
 o-o
 I share mula with
 o-o
@@ -1605,14 +1708,17 @@ ambee sings-vc amenn
 Tax breaks and
 o-o
 subsidies.
+sentence-next
 o-o
 And sometimes
 o-o
 legal monopolies.
+sentence-next
 o-o
 Oh I do
 o-o
 love these.
+sentence-next
 o-o
 With these breaks,
 o-o
@@ -1625,8 +1731,10 @@ ambee sings-damien amenn
 But not so
 o-o
 for others' lives.
+sentence-next
 o-o
 The customers.
+sentence-next
 o-o
 The employees.
 end-lyric
@@ -1637,6 +1745,7 @@ o-o
 gets beaten,
 o-o
 that's their choice.
+sentence-next
 o-o
 They need to speak up
 o-o
@@ -1669,26 +1778,31 @@ o-o
 or ski lodge,
 o-o
 or yacht.
+sentence-next
 o-o
 Something I
 o-o
 don't yet got.
+sentence-next
 o-o
 Besides my
 o-o
 timeshare in
 o-o
 Hawai'i.
+sentence-next
 o-o
 My biz buddies
 o-o
 and I would
 o-o
 share it.
+sentence-next
 o-o
 Or rent it to me
 o-o
 for almost free.
+sentence-next
 o-o
 That tactic
 o-o
@@ -1697,6 +1811,7 @@ o-o
 income
 o-o
 tax rates.
+sentence-next
 o-o
 So an extra
 o-o
@@ -1713,6 +1828,7 @@ end-lyric
 
 ambee sings-vc amenn
 Indeed.
+sentence-next
 o-o
 And that has
 o-o
@@ -1751,10 +1867,12 @@ o-o
 that runs a
 o-o
 corporation.
+sentence-next
 o-o
 We represent
 o-o
 the shareholders.
+sentence-next
 o-o
 We can even fire
 o-o
@@ -1765,6 +1883,7 @@ o-o
 executive
 o-o
 officer.
+sentence-next
 o-o
 At those
 o-o
@@ -1781,6 +1900,7 @@ o-o
 to reduce
 o-o
 labor costs.
+sentence-next
 o-o
 Then we vote
 o-o
@@ -1821,6 +1941,7 @@ end-lyric
 
 ambee sings-damien amenn
 I'm learning, ...
+sentence-next
 o-o
 I mean seeing,
 o-o
@@ -1843,12 +1964,14 @@ o-o
 meetings
 o-o
 is deductible.
+sentence-next
 o-o
 That's another
 o-o
 money word
 o-o
 that brings me joy.
+sentence-next
 o-o
 Plus I
 o-o
@@ -1859,6 +1982,7 @@ o-o
 at a fancy spot
 o-o
 with a date who's hot.
+sentence-next
 o-o
 Or at least I
 o-o
@@ -1887,6 +2011,7 @@ o-o
 are for
 o-o
 companies.
+sentence-next
 o-o
 The ones you own,
 o-o
@@ -1895,6 +2020,7 @@ end-lyric
 
 ambee sings-vc amenn
 Yup.
+sentence-next
 o-o
 The paperwork's
 o-o
@@ -1903,6 +2029,7 @@ o-o
 but those sly tricks
 o-o
 are legal.
+sentence-next
 o-o
 All because
 o-o
@@ -1923,14 +2050,17 @@ o-o
 fight battles
 o-o
 in court.
+sentence-next
 o-o
 They exterminate
 o-o
 our enemies.
+sentence-next
 o-o
 But nowadays
 o-o
 no blood is shed.
+sentence-next
 o-o
 The loser
 o-o
@@ -1951,6 +2081,7 @@ o-o
 food chain
 o-o
 always win.
+sentence-next
 o-o
 Why's that?
 end-lyric
@@ -1961,16 +2092,19 @@ o-o
 that get passed
 o-o
 into law.
+sentence-next
 o-o
 So of course they
 o-o
 know where the
 o-o
 loopholes are.
+sentence-next
 o-o
 It's all a big
 o-o
 family.
+sentence-next
 o-o
 I do love it.
 end-lyric
@@ -1993,8 +2127,10 @@ o-o
 at least
 o-o
 three dollars.
+sentence-next
 o-o
 Often twenty.
+sentence-next
 o-o
 Sometimes,
 o-o
@@ -2039,6 +2175,7 @@ o-o
 for each dollar
 o-o
 you contribute ....
+sentence-next
 o-o
 You mean, ...
 o-o
@@ -2053,10 +2190,12 @@ o-o
 fifty thousand
 o-o
 dollars, ...
+sentence-next
 o-o
 to the right
 o-o
 politicians.
+sentence-next
 o-o
 That corporation
 o-o
@@ -2085,6 +2224,7 @@ o-o
 It's a great
 o-o
 ROI.
+sentence-next
 o-o
 That's
 o-o
@@ -2133,6 +2273,7 @@ o-o
 their meager
 o-o
 profits.
+sentence-next
 o-o
 That's so when there's
 o-o
@@ -2161,6 +2302,7 @@ o-o
 advertising spaces
 o-o
 from those places.
+sentence-next
 o-o
 Have you noticed
 o-o
@@ -2207,10 +2349,12 @@ o-o
 to be made by
 o-o
 aiming low.
+sentence-next
 o-o
 It's big businesses
 o-o
 that earn the dough.
+sentence-next
 o-o
 The really big
 o-o
@@ -2231,6 +2375,7 @@ o-o
 who wants to start
 o-o
 a restaurant.
+sentence-next
 o-o
 Can't he buy ads
 o-o
@@ -2247,6 +2392,7 @@ o-o
 cover small
 o-o
 neighborhoods.
+sentence-next
 o-o
 Well, 'til
 o-o
@@ -2277,6 +2423,7 @@ o-o
 in Las Vegas
 o-o
 during convention season.
+sentence-next
 o-o
 Another trick is
 o-o
@@ -2299,10 +2446,12 @@ ambee sings-damien amenn
 That's, er,
 o-o
 a sweet deal.
+sentence-next
 o-o
 For the
 o-o
 corporations.
+sentence-next
 o-o
 But thinkin'
 o-o
@@ -2319,6 +2468,7 @@ o-o
 become an
 o-o
 entrepreneur.
+sentence-next
 o-o
 What's the best
 o-o
@@ -2333,6 +2483,7 @@ o-o
 put the squeeze
 o-o
 on customers.
+sentence-next
 o-o
 Become the
 o-o
@@ -2361,6 +2512,7 @@ o-o
 consider the
 o-o
 music industry.
+sentence-next
 o-o
 The way it was
 o-o
@@ -2379,6 +2531,7 @@ o-o
 laptop
 o-o
 computer.
+sentence-next
 o-o
 Back then,
 o-o
@@ -2393,6 +2546,7 @@ o-o
 on a master
 o-o
 disk.
+sentence-next
 o-o
 That process
 o-o
@@ -2411,6 +2565,7 @@ o-o
 of the cutting
 o-o
 needle.
+sentence-next
 o-o
 That equipment
 o-o
@@ -2431,8 +2586,10 @@ ambee sings-vc amenn
 Sometimes
 o-o
 that was a perk.
+sentence-next
 o-o
 But times have changed.
+sentence-next
 o-o
 Now a
 o-o
@@ -2443,6 +2600,7 @@ o-o
 plus some apps
 o-o
 can do it all.
+sentence-next
 o-o
 From making
 o-o
@@ -2451,16 +2609,19 @@ o-o
 selling it
 o-o
 online.
+sentence-next
 o-o
 So that pinch point,
 o-o
 that bottleneck,
 o-o
 is gone.
+sentence-next
 o-o
 And with it went
 o-o
 lots of profit.
+sentence-next
 o-o
 Now,
 o-o
@@ -2505,8 +2666,10 @@ Let It Be
 end-italics
 o-o
 in public.
+sentence-next
 o-o
 Now I see.
+sentence-next
 o-o
 Record labels
 o-o
@@ -2531,6 +2694,7 @@ o-o
 a tablet
 o-o
 app.
+sentence-next
 o-o
 Aren't newspapers
 o-o
@@ -2543,20 +2707,24 @@ ambee sings-vc amenn
 And movie
 o-o
 producers.
+sentence-next
 o-o
 And book
 o-o
 publishers.
+sentence-next
 o-o
 And radio
 o-o
 and TV
 o-o
 stations.
+sentence-next
 o-o
 They lost their
 o-o
 monopolies.
+sentence-next
 o-o
 Now those
 o-o
@@ -2569,6 +2737,7 @@ o-o
 the sky in a
 o-o
 tailspin.
+sentence-next
 o-o
 So the trick
 o-o
@@ -2591,6 +2760,7 @@ ambee sings-vc amenn
 In theory,
 o-o
 yeah.
+sentence-next
 o-o
 But really,
 o-o
@@ -2627,8 +2797,10 @@ o-o
 of competitors,
 o-o
 that'd be sweet.
+sentence-next
 o-o
 Very profitable.
+sentence-next
 o-o
 But a
 o-o
@@ -2641,6 +2813,7 @@ o-o
 doesn't work
 o-o
 for cheap.
+sentence-next
 o-o
 And when you post
 o-o
@@ -2683,6 +2856,7 @@ end-lyric
 
 ambee sings-vc amenn
 That's the key.
+sentence-next
 o-o
 A technology
 o-o
@@ -2705,6 +2879,7 @@ o-o
 you'd invest in
 o-o
 must be legal.
+sentence-next
 o-o
 So why have you
 o-o
@@ -2755,6 +2930,7 @@ o-o
 It's a natural
 o-o
 sweetener.
+sentence-next
 o-o
 There are laws
 o-o
@@ -2773,6 +2949,7 @@ o-o
 artificial
 o-o
 sweeteners.
+sentence-next
 o-o
 That protects
 o-o
@@ -2803,6 +2980,7 @@ o-o
 in drinks
 o-o
 than baked goods.
+sentence-next
 o-o
 But yeah,
 o-o
@@ -2819,6 +2997,7 @@ o-o
 because of
 o-o
 that law.
+sentence-next
 o-o
 And speaking of
 o-o
@@ -2889,6 +3068,7 @@ ambee sings-damien amenn
 Drugs are
 o-o
 illegal.
+sentence-next
 o-o
 But drug companies
 o-o
@@ -2897,10 +3077,13 @@ end-lyric
 
 ambee sings-vc amenn
 Not those drugs.
+sentence-next
 o-o
 The legal kind.
+sentence-next
 o-o
 Pharmaceuticals.
+sentence-next
 o-o
 They avoid
 o-o
@@ -2943,10 +3126,12 @@ o-o
 mental
 o-o
 agility.
+sentence-next
 o-o
 But don't get
 o-o
 too cheeky.
+sentence-next
 o-o
 In addition
 o-o
@@ -2977,6 +3162,7 @@ ambee sings-damien amenn
 Those are slick
 o-o
 tricks.
+sentence-next
 o-o
 Especially
 o-o
@@ -3013,6 +3199,7 @@ o-o
 demand for
 o-o
 their services.
+sentence-next
 o-o
 ...
 o-o
@@ -3029,16 +3216,19 @@ o-o
 dried out on
 o-o
 a windshield.
+sentence-next
 o-o
 Up close and
 o-o
 easy to see.
+sentence-next
 o-o
 Thanks for the
 o-o
 clarity!
 o-o
 ...
+sentence-next
 o-o
 I do have
 o-o
@@ -3047,12 +3237,14 @@ o-o
 about somethin'
 o-o
 you said.
+sentence-next
 o-o
 Part hyphen-here time you
 o-o
 do some kind of
 o-o
 trading.
+sentence-next
 o-o
 What's that?
 end-lyric
@@ -3077,6 +3269,7 @@ ambee sings-vc amenn
 Those are
 o-o
 condiments.
+sentence-next
 o-o
 Commodities
 o-o
@@ -3139,6 +3332,7 @@ o-o
 bought and sold
 o-o
 as raw materials.
+sentence-next
 o-o
 In huge amounts,
 o-o
@@ -3147,6 +3341,7 @@ o-o
 container
 o-o
 amounts.
+sentence-next
 o-o
 Heating oil,
 o-o
@@ -3157,12 +3352,14 @@ o-o
 at the beginning
 o-o
 of winter.
+sentence-next
 o-o
 That's what I buy
 o-o
 online
 o-o
 while it's cheaper.
+sentence-next
 o-o
 A week or two
 o-o
@@ -3209,6 +3406,7 @@ o-o
 within
 o-o
 an hour.
+sentence-next
 o-o
 It's only for
 o-o
@@ -3237,6 +3435,7 @@ o-o
 owning a
 o-o
 business.
+sentence-next
 o-o
 For that
 o-o
@@ -3253,6 +3452,7 @@ ambee sings-vc amenn
 As many as an
 o-o
 eagle has feathers.
+sentence-next
 o-o
 Another is
 o-o
@@ -3261,6 +3461,7 @@ o-o
 product
 o-o
 innovations.
+sentence-next
 o-o
 If a product
 o-o
@@ -3299,6 +3500,7 @@ o-o
 to political
 o-o
 candidates.
+sentence-next
 o-o
 After they
 o-o
@@ -3313,6 +3515,7 @@ o-o
 tax break after
 o-o
 tax break.
+sentence-next
 o-o
 And they
 o-o
@@ -3327,6 +3530,7 @@ o-o
 taxpayer hyphen-here funded
 o-o
 subsidies.
+sentence-next
 o-o
 That's why big
 o-o
@@ -3343,8 +3547,10 @@ ambee sings-damien amenn
 Ah yes, money
 o-o
 in politics.
+sentence-next
 o-o
 I know 'bout that.
+sentence-next
 o-o
 But I don't yet
 o-o
@@ -3357,6 +3563,7 @@ o-o
 ...
 o-o
 how it works.
+sentence-next
 o-o
 Non hyphen-here rich voters
 o-o
@@ -3377,6 +3584,7 @@ o-o
 infiltrated
 o-o
 both parties.
+sentence-next
 o-o
 This is how we
 o-o
@@ -3387,6 +3595,7 @@ o-o
 elections of
 o-o
 both parties.
+sentence-next
 o-o
 So general
 o-o
@@ -3403,8 +3612,10 @@ end-lyric
 
 ambee sings-damien amenn
 Yeah, puppets win.
+sentence-next
 o-o
 I knew that part.
+sentence-next
 o-o
 But I hadn't
 o-o
@@ -3427,6 +3638,7 @@ o-o
 bias goes
 o-o
 unchallenged.
+sentence-next
 o-o
 In the
 o-o
@@ -3453,10 +3665,12 @@ o-o
 Republicans
 o-o
 are dimwits.
+sentence-next
 o-o
 But then
 o-o
 it's too late.
+sentence-next
 o-o
 For added
 o-o
@@ -3473,6 +3687,7 @@ o-o
 candidate
 o-o
 we hate.
+sentence-next
 o-o
 But we give
 o-o
@@ -3481,6 +3696,7 @@ o-o
 the one we
 o-o
 choose.
+sentence-next
 o-o
 That way we
 o-o
@@ -3511,6 +3727,7 @@ o-o
 running through
 o-o
 a cornfield.
+sentence-next
 o-o
 Such as when
 o-o
@@ -3543,6 +3760,7 @@ o-o
 to entertain and
 o-o
 distract.
+sentence-next
 o-o
 The biggest of
 o-o
@@ -3565,6 +3783,7 @@ ambee sings-vc amenn
 Abortion is the
 o-o
 really useful one.
+sentence-next
 o-o
 With that the
 o-o
@@ -3605,6 +3824,7 @@ o-o
 voters don't see
 o-o
 through that.
+sentence-next
 o-o
 They're so distracted
 o-o
@@ -3615,6 +3835,7 @@ end-lyric
 
 ambee sings-vc amenn
 They are suckers.
+sentence-next
 o-o
 They believe
 o-o
@@ -3629,6 +3850,7 @@ ambee sings-damien amenn
 Even I know
 o-o
 that's stupid.
+sentence-next
 o-o
 So,
 o-o
@@ -3669,6 +3891,7 @@ o-o
 their secrets,
 o-o
 their strategies.
+sentence-next
 o-o
 They're like
 o-o
@@ -3677,6 +3900,7 @@ o-o
 and alchemists
 o-o
 from long ago.
+sentence-next
 o-o
 Back before
 o-o
@@ -3712,8 +3936,10 @@ end-lyric
 
 ambee sings-vc amenn
 I've never asked.
+sentence-next
 o-o
 It just works.
+sentence-next
 o-o
 If it aint broke,
 o-o
@@ -3744,6 +3970,7 @@ o-o
 brought her back,
 o-o
 carryin' a rat.
+sentence-next
 o-o
 Perhaps there's
 o-o
@@ -3786,12 +4013,14 @@ o-o
 of lots of my
 o-o
 money.
+sentence-next
 o-o
 He's about
 o-o
 to retire from
 o-o
 Congress.
+sentence-next
 o-o
 Maybe he
 o-o
@@ -3816,12 +4045,14 @@ end-lyric
 
 ambee sings-vc amenn
 Indeed you can.
+sentence-next
 o-o
 Come up with a
 o-o
 better business
 o-o
 plan.
+sentence-next
 o-o
 A unicorn
 o-o
@@ -3836,10 +4067,12 @@ o-o
 No doubt
 o-o
 about that.
+sentence-next
 o-o
 I'll use what
 o-o
 you've taught.
+sentence-next
 o-o
 Now I know how
 o-o
@@ -3854,6 +4087,7 @@ o-o
 sleepy
 o-o
 turtles.
+sentence-next
 o-o
 I'm grateful
 o-o
@@ -3874,6 +4108,7 @@ ambee sings-vc amenn
 I'm happy to
 o-o
 give you advice.
+sentence-next
 o-o
 Especially
 o-o
@@ -3892,6 +4127,7 @@ o-o
 to rise to the
 o-o
 very top.
+sentence-next
 o-o
 begin-explain Whispers. end-explain
 o-o
@@ -3900,6 +4136,7 @@ o-o
 bottom of the
 o-o
 corruption.
+sentence-next
 o-o
 begin-explain Normal voice. end-explain
 o-o
@@ -3952,6 +4189,7 @@ o-o
 bulge in my
 o-o
 pants.
+sentence-next
 o-o
 In fact I'll
 o-o

@@ -348,13 +348,11 @@ They bumped into
 o-o
 Brazil,
 o-o
-where they found
+where they restocked
 o-o
-food and water.
+with food and water,
 o-o
-From there
-o-o
-they sailed
+then sailed
 o-o
 around the
 o-o
@@ -1058,7 +1056,9 @@ That's why sundials
 o-o
 have twelve marks
 o-o
-for the day.
+for the
+o-o
+daylight hours.
 end-lyric
 
 ambee sings-desha amenn

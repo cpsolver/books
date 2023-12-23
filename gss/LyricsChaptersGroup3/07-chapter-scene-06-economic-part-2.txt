@@ -203,9 +203,15 @@ education,
 o-o
 government,
 o-o
-and
+the music
 o-o
-Hollywood.
+industry,
+o-o
+and the
+o-o
+Hallmark
+o-o
+TV channel.
 end-lyric
 
 ambee sings-damien amenn
@@ -2545,18 +2551,32 @@ o-o
 prosperity
 o-o
 in democracies.
+end-lyric
+
+ambee sings-desha amenn
+And kill authors
 o-o
-And those
+of books that
 o-o
-dictators
+criticize
+o-o
+people in power.
+o-o
+Nowadays
+o-o
+in the U.S.
+o-o
+dictators,
+o-o
+and wannabe
+o-o
+dictators,
 o-o
 indirectly hire
 o-o
 social media
 o-o
 influencers
-o-o
-here in the U.S.
 o-o
 to spread
 o-o

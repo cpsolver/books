@@ -1730,13 +1730,13 @@ call it
 o-o
 slick
 o-o
-arithmetic,
+arithmetic?
 o-o
-contorted
+Or contorted
 o-o
-distortion,
+distortion?
 o-o
-or shopper
+Or shopper
 o-o
 whopper?
 end-lyric
@@ -1794,11 +1794,17 @@ price index,
 o-o
 it excludes
 o-o
-rent and fuel
+rent and home
+o-o
+ownership
 o-o
 because they're
 o-o
-too volatile.
+too volatile,
+o-o
+and too difficult
+o-o
+to measure.
 end-lyric
 
 ambee sings-desha amenn
@@ -1818,7 +1824,7 @@ house.
 end-lyric
 
 ambee sings-damien amenn
-Yet food and rent
+Yet rent and food
 o-o
 are on a clear trend
 o-o
@@ -1833,6 +1839,16 @@ o-o
 part of my
 o-o
 paycheck.
+o-o
+And home
+o-o
+ownership
+o-o
+disappeared
+o-o
+from my view
+o-o
+long ago.
 o-o
 Is anything else
 o-o
@@ -2448,13 +2464,19 @@ their hands,
 o-o
 and better roads
 o-o
-gave them a
+reduced side trips
 o-o
-better warranty
+to buy
 o-o
-on their
+ox hyphen-here cart wheels
 o-o
-ox hyphen-here cart wheels.
+at Nero's
+o-o
+Flaming
+o-o
+Cartwheel
+o-o
+dealerships.
 end-lyric
 
 ambee sings-econhist amenn
