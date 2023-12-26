@@ -205,10 +205,6 @@ education,
 o-o
 government,
 o-o
-the music
-o-o
-industry,
-o-o
 and the
 o-o
 Hallmark
@@ -892,10 +888,6 @@ end-lyric
 ambee sings-econhist amenn
 Dictators
 o-o
-and wannabe
-o-o
-dictators
-o-o
 outlaw or
 o-o
 monopolize
@@ -1243,12 +1235,34 @@ o-o
 to redirect
 o-o
 rivers.
+o-o
+And the people
+o-o
+who rise to power
+o-o
+usually
+o-o
+become corrupt,
+o-o
+like in
+o-o
+begin-italics Animal Farm end-italics no-space .
 end-lyric
 
 ambee sings-desha amenn
-Ok,
+That's a
 o-o
-capitalism
+fantasy book
+o-o
+about pigs.
+o-o
+I think
+o-o
+I'm getting
+o-o
+your point.
+o-o
+Capitalism
 o-o
 is sometimes bad,
 o-o
@@ -1256,7 +1270,165 @@ but it doesn't
 o-o
 have to be bad.
 o-o
-Got it.
+And everything
+o-o
+ends with corruption
+o-o
+if we let it.
+end-lyric
+
+ambee sings-econhist amenn
+I should add
+o-o
+dictatorships
+o-o
+usually
+o-o
+involve
+o-o
+multiple
+o-o
+people
+o-o
+in power
+o-o
+who suppress
+o-o
+what oppressed
+o-o
+people want.
+o-o
+Do you know about
+o-o
+the Marquis
+o-o
+de Condorcet?
+end-lyric
+
+ambee sings-damien amenn
+Just that he's
+o-o
+related to
+o-o
+pairwise
+o-o
+vote counting.
+end-lyric
+
+ambee sings-econhist amenn
+He wrote
+o-o
+articles
+o-o
+supporting
+o-o
+the idea of
+o-o
+women also
+o-o
+being allowed
+o-o
+to vote.
+end-lyric
+
+ambee sings-desha amenn
+He doesn't sound
+o-o
+so stuffy
+o-o
+anymore.
+end-lyric
+
+ambee sings-econhist amenn
+And he opposed
+o-o
+slavery.
+end-lyric
+
+ambee sings-damien amenn
+Wow,
+o-o
+it sounds like
+o-o
+he was way
+o-o
+ahead of his time.
+o-o
+Did he get
+o-o
+much success?
+end-lyric
+
+ambee sings-econhist amenn
+He died
+o-o
+in prison
+o-o
+because he
+o-o
+wrote articles
+o-o
+and books
+o-o
+criticizing
+o-o
+the
+o-o
+politicians
+o-o
+in power.
+o-o
+They were the
+o-o
+Frenchmen
+o-o
+who had an
+o-o
+excessive
+o-o
+fetish of
+o-o
+chopping off
+o-o
+heads with the
+o-o
+newly invented
+o-o
+guillotine.
+o-o
+That level
+o-o
+of cruelty
+o-o
+doesn't happen
+o-o
+anymore,
+o-o
+which fits
+o-o
+the pattern
+o-o
+of declining
+o-o
+corruption.
+end-lyric
+
+ambee sings-desha amenn
+Now we just
+o-o
+fantasize
+o-o
+about disliked
+o-o
+politicians
+o-o
+choking
+o-o
+on their
+o-o
+favorite
+o-o
+food.
 end-lyric
 
 ambee sings-econhist amenn

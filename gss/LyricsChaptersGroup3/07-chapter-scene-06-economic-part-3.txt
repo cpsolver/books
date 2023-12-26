@@ -687,7 +687,7 @@ are part of
 o-o
 something called
 o-o
-begin-italics game theory end-lyric no-space ,
+begin-italics game theory end-italics no-space ,
 o-o
 which I teach.
 o-o
@@ -726,6 +726,12 @@ o-o
 economic
 o-o
 prosperity.
+o-o
+Because of less
+o-o
+money hyphen-here draining
+o-o
+corruption.
 o-o
 What else will change
 o-o

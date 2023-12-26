@@ -1006,7 +1006,7 @@ stopped using
 o-o
 simple counting,
 o-o
-so it's not
+so it's less
 o-o
 vulnerable
 o-o
