@@ -315,7 +315,9 @@ end-lyric
 ambee sings-econhist amenn
 Back when horses
 o-o
-pulled wagons,
+pulled wagons
+o-o
+and carts,
 o-o
 big cities faced
 o-o
@@ -433,11 +435,21 @@ businesses.
 end-lyric
 
 ambee sings-desha amenn
-That would
+That would give
 o-o
-reduce the need
+consumers more
 o-o
-for labor strikes,
+spending money,
+o-o
+which fuels
+o-o
+a feedback loop
+o-o
+that benefits
+o-o
+other
+o-o
+businesses,
 o-o
 right?
 end-lyric
@@ -627,9 +639,9 @@ crises?
 end-lyric
 
 ambee sings-econhist amenn
-If you're right,
+As you've
 o-o
-perhaps
+discovered,
 o-o
 the biggest
 o-o
@@ -641,33 +653,89 @@ is pairwise
 o-o
 vote counting.
 o-o
-That could end
+That will end
 o-o
 the big bad
 o-o
 feedback
 o-o
-loop,
+loop that
+o-o
+controls
+o-o
+politicians,
 o-o
 if it's done right.
 end-lyric
 
 ambee sings-damien amenn
-So better
+Do you have
+o-o
+a one hyphen-here sentence
+o-o
+explanation
+o-o
+for how it should
+o-o
+be done right?
+end-lyric
+
+ambee sings-econhist amenn
+Those details
+o-o
+are part of
+o-o
+something called
+o-o
+begin-italics game theory end-lyric no-space ,
+o-o
+which I teach.
+o-o
+But those details
+o-o
+are even messier
+o-o
+than your
+o-o
+dog pooper
+o-o
+scooper loop.
+o-o
+name-mathprof
+o-o
+said you already
+o-o
+learned
+o-o
+the basics
+o-o
+of better
+o-o
+vote counting.
+end-lyric
+
+ambee sings-damien amenn
+And you've explained
+o-o
+why better
 o-o
 vote counting
 o-o
-could increase
+will increase
 o-o
 economic
 o-o
 prosperity.
 o-o
-Got it.
+What else will change
+o-o
+when elections are
+o-o
+done right?
 end-lyric
 
 ambee sings-desha amenn
-What other
+Yeah, what other
 o-o
 solutions
 o-o
@@ -986,7 +1054,11 @@ like when
 o-o
 Republicans
 o-o
-blocked
+gave money
+o-o
+to Obama
+o-o
+to block
 o-o
 Hillary
 o-o
@@ -1196,7 +1268,7 @@ using crops to
 o-o
 generate ethanol,
 o-o
-which involves
+which enriches
 o-o
 a few wealthy
 o-o
@@ -1584,53 +1656,15 @@ advantage
 o-o
 or disadvantage.
 o-o
-A feedback loop
-o-o
-that helps big
-o-o
-businesses
-o-o
-get richer
-o-o
-is good for
-o-o
-business owners
-o-o
-but bad for
-o-o
-their customers.
-end-lyric
-
-ambee sings-desha amenn
-And bad
-o-o
-for their
-o-o
-employees.
-end-lyric
-
-ambee sings-damien amenn
-Oh, this is the
-o-o
-cherry pie
-o-o
-slicing
-o-o
-concept.
-end-lyric
-
-ambee sings-econhist amenn
-And a feedback
-o-o
-loop can be
+It can even be
 o-o
 both good and bad
 o-o
 for the same
 o-o
-person.
+person,
 o-o
-It's like when
+like when
 o-o
 Henry Ford
 o-o
@@ -1655,24 +1689,16 @@ o-o
 which brought in
 o-o
 more profits.
+end-lyric
+
+ambee sings-damien amenn
+So this is the
 o-o
-And something
+cherry pie
 o-o
-similar
+slicing
 o-o
-happens when
-o-o
-employees
-o-o
-can afford
-o-o
-to buy shares
-o-o
-of stock in
-o-o
-the company
-o-o
-they work for.
+concept?
 end-lyric
 
 ambee sings-desha amenn
@@ -1688,17 +1714,13 @@ by not
 o-o
 realizing
 o-o
-that the
+that some
 o-o
 employees
 o-o
 and customers
 o-o
-can be,
-o-o
-or are,
-o-o
-also
+are also
 o-o
 shareholders
 o-o

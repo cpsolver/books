@@ -240,7 +240,61 @@ will reduce
 o-o
 corruption.
 o-o
-Then a few
+You're aware
+o-o
+there's lots of
+o-o
+corruption,
+o-o
+right?
+end-lyric
+
+ambee sings-desha amenn
+Oh yes!
+o-o
+There's
+o-o
+the high price
+o-o
+of sugar
+o-o
+in the U.S.,
+o-o
+the fracking
+o-o
+of oil
+o-o
+without
+o-o
+begin-explain interrupted near here end-explain
+o-o
+environmental
+o-o
+concerns
+o-o
+about water
+o-o
+contamination,
+o-o
+...
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Interrupting end-explain
+o-o
+name-desha no-space ,
+o-o
+he doesn't need
+o-o
+to hear a list.
+o-o
+Yes, that's
+o-o
+why we're here.
+end-lyric
+
+ambee sings-econhist amenn
+A few
 o-o
 people who
 o-o
@@ -252,13 +306,15 @@ kinds of
 o-o
 corruption
 o-o
-might
+will
 o-o
 temporarily
 o-o
 earn less money.
 o-o
-Almost everyone
+But almost
+o-o
+everyone
 o-o
 else will enjoy
 o-o
@@ -299,6 +355,18 @@ o-o
 setbacks
 o-o
 caused by
+o-o
+large hyphen-here scale
+o-o
+stupidity,
+o-o
+especially
+o-o
+civil war
+o-o
+and
+o-o
+international
 o-o
 warfare.
 end-lyric
@@ -480,27 +548,19 @@ politicians
 o-o
 will be replaced.
 o-o
-The others who
+Other politicians
 o-o
-continue to win
+will get re hyphen-here elected
 o-o
-elections
+because they will
 o-o
-will shift their
+shift their
 o-o
 priorities
 o-o
 to better match
 o-o
-voters
-o-o
-instead of their
-o-o
-biggest
-o-o
-campaign
-o-o
-contributors.
+voters.
 end-lyric
 
 ambee sings-damien amenn
@@ -510,7 +570,15 @@ Currently
 o-o
 they're
 o-o
-handcuffed.
+handcuffed
+o-o
+by their
+o-o
+biggest
+o-o
+campaign
+o-o
+contributors.
 o-o
 The shift will
 o-o
@@ -1560,11 +1628,15 @@ I remember
 o-o
 that number
 o-o
-is corrupt,
+is flawed,
 o-o
 but I forgot
 o-o
-why it's corrupt.
+why it's full of
+o-o
+...
+o-o
+corruption.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1628,7 +1700,7 @@ go down.
 end-lyric
 
 ambee sings-desha amenn
-Yeah, the
+The
 o-o
 government
 o-o
@@ -1732,13 +1804,13 @@ slick
 o-o
 arithmetic?
 o-o
-Or contorted
+Or the
 o-o
-distortion?
+shopper
 o-o
-Or shopper
+whopper
 o-o
-whopper?
+index?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1800,47 +1872,17 @@ ownership
 o-o
 because they're
 o-o
-too volatile,
+too difficult
 o-o
-and too difficult
+to measure
 o-o
-to measure.
-end-lyric
-
-ambee sings-desha amenn
-Volatile
+in a way that's
 o-o
-means they
-o-o
-jump up and down
-o-o
-like a
-o-o
-candy hyphen-here filled kid
-o-o
-in a bouncy
-o-o
-house.
+meaningful.
 end-lyric
 
 ambee sings-damien amenn
-Yet rent and food
-o-o
-are on a clear trend
-o-o
-upwards.
-o-o
-They rip off
-o-o
-a bigger
-o-o
-and bigger
-o-o
-part of my
-o-o
-paycheck.
-o-o
-And home
+Home
 o-o
 ownership
 o-o
@@ -1850,17 +1892,41 @@ from my view
 o-o
 long ago.
 o-o
+Yet rent
+o-o
+and food
+o-o
+are rising
+o-o
+like a rocket.
+o-o
+Inflation
+o-o
+is ripping off
+o-o
+a bigger
+o-o
+and bigger
+o-o
+part of my
+o-o
+paycheck.
+o-o
 Is anything else
 o-o
 being fudged?
 end-lyric
 
 ambee sings-desha amenn
-Besides
+Or faked,
 o-o
-ice cream
+falsified,
 o-o
-sundaes?
+hoaxed,
+o-o
+or
+o-o
+quacked?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1896,9 +1962,9 @@ That's the rate
 o-o
 talked about
 o-o
-in the news,
+in the news.
 o-o
-but more important
+But more important
 o-o
 is the rate
 o-o
@@ -1907,6 +1973,12 @@ o-o
 auctioning
 o-o
 treasuries.
+end-lyric
+
+ambee sings-damien amenn
+Sold to the
+o-o
+highest bidder?
 end-lyric
 
 ambee sings-desha amenn
@@ -2024,7 +2096,9 @@ Feelings matter?
 end-lyric
 
 ambee sings-econhist amenn
-You buy more stuff
+You buy more stuff,
+o-o
+at higher prices,
 o-o
 when you're
 o-o
@@ -2038,9 +2112,9 @@ the cheery
 o-o
 holiday season.
 o-o
-So economists
+Economists
 o-o
-have to measure
+measure
 o-o
 those feelings
 o-o
@@ -2048,17 +2122,13 @@ to predict
 o-o
 the future.
 o-o
-We use
-o-o
-something called
+You've heard of the
 o-o
 consumer
 o-o
-confidence.
+confidence
 o-o
-You've heard
-o-o
-of that,
+index,
 o-o
 right?
 end-lyric
@@ -2146,7 +2216,7 @@ business
 o-o
 buying its own
 o-o
-dinos to give
+dinos begin-explain either pronunciation end-explain to give
 o-o
 the appearance
 o-o
@@ -2452,31 +2522,33 @@ Romans wasted
 o-o
 less time
 o-o
-fetching water,
+being sick
 o-o
-they got sick less
+because they washed
 o-o
-because they had
+their hands in
 o-o
-water to wash
+clean water
 o-o
-their hands,
+they didn't
 o-o
-and better roads
+have to carry,
 o-o
-reduced side trips
+and they wasted
 o-o
-to buy
+less money at
 o-o
-ox hyphen-here cart wheels
-o-o
-at Nero's
+Nero's
 o-o
 Flaming
 o-o
 Cartwheel
 o-o
-dealerships.
+stores
+o-o
+because of
+o-o
+better roads.
 end-lyric
 
 ambee sings-econhist amenn
@@ -2548,15 +2620,15 @@ Like not tying
 o-o
 left and right
 o-o
-shoelaces together.
+shoelaces together,
 o-o
-That makes progress
+because that
 o-o
-without
+suppresses
 o-o
-unnecessary
+successful
 o-o
-tripping.
+progress.
 end-lyric
 
 ambee sings-damien amenn
@@ -2570,15 +2642,17 @@ less corruption
 o-o
 there's less waste.
 o-o
-That means more time
+That means more time,
+o-o
+and more money,
 o-o
 goes into
 o-o
-building things
+building things,
 o-o
-worthwhile,
+and buying things,
 o-o
-and
+that are
 o-o
 valuable,
 o-o
@@ -2768,7 +2842,9 @@ account for
 o-o
 the benefits
 o-o
-of volunteers
+of unpaid
+o-o
+volunteers
 o-o
 working in
 o-o
@@ -2779,6 +2855,7 @@ o-o
 and the
 o-o
 benefits
+o-o
 of better
 o-o
 public
@@ -2894,7 +2971,6 @@ o-o
 tax collectors.
 end-lyric
 
-
 ambee sings-desha amenn
 Lots of those
 o-o
@@ -2954,7 +3030,7 @@ to take awhile.
 o-o
 What I'm wearing
 o-o
-might go
+will go
 o-o
 out of style.
 end-lyric
@@ -3188,13 +3264,19 @@ organizations,
 o-o
 and nepotism.
 o-o
-Plus churches
+And especially
 o-o
-heavily taxed
+churches that
 o-o
-their members,
+heavily
 o-o
-with lots of that
+taxed their
+o-o
+members,
+o-o
+with lots of
+o-o
+those payments
 o-o
 going to the
 o-o
@@ -3203,46 +3285,42 @@ o-o
 in Rome.
 end-lyric
 
-ambee sings-desha amenn
-That's why
+ambee sings-damien amenn
+Even I've
 o-o
-Catholic
+heard about
 o-o
-churches
+the porn painted
 o-o
-are so ornate,
+on the ceiling
 o-o
-even on the
+of a chapel
 o-o
-ceilings.
+in Rome.
 end-lyric
 
-ambee sings-damien amenn
-Oh,
+ambee sings-desha amenn
+Painted by
 o-o
-I've heard about
+Michelangelo.
 o-o
-the ceiling
+A second
 o-o
-in the Sistine
+artist
 o-o
-Chapel
-o-o
-where a second
-o-o
-artist had to
-o-o
-cover the
+covered the
 o-o
 private parts.
 end-lyric
 
-ambee sings-desha amenn
-Those taxes,
+ambee sings-econhist amenn
+Those church taxes,
 o-o
 especially indulgences,
 o-o
 were so corrupt
+o-o
+and oppresive
 o-o
 that Martin Luther
 o-o
@@ -3252,45 +3330,91 @@ created the
 o-o
 Protestant
 o-o
-religions,
+religions.
 o-o
-and England
+And England
 o-o
 created
 o-o
 its own church
 o-o
-to shift that
+to keep that
 o-o
-corruption
+graft
 o-o
-to stay in the
+within
 o-o
-same country.
+England.
 o-o
-And
+The Pilgrams who
 o-o
-immigrants
+settled the
 o-o
-in America
+Plymouth
 o-o
-stopped
+Plantation
+o-o
+were escaping
+o-o
+from the taxes
+o-o
+imposed by the
+o-o
+Church of
+o-o
+England.
+o-o
+And here,
+o-o
+in America,
+o-o
+people stopped
 o-o
 tolerating
 o-o
-corrupt
+churches
 o-o
-churches.
+that got too
 o-o
-So it was
+greedy.
 o-o
-a gradual
+The resulting
 o-o
-shift.
+economic
+o-o
+success
+o-o
+in
+o-o
+America
+o-o
+revealed
+o-o
+Europe's
+o-o
+corruption.
+o-o
+Italy,
+o-o
+and Greece,
+o-o
+are still
+o-o
+unwinding
+o-o
+their
+o-o
+corruption,
+o-o
+so they still
+o-o
+suffer
+o-o
+economically.
 end-lyric
 
 ambee sings-damien amenn
-Oh,
+I think
 o-o
 I'm seeing
 o-o
@@ -3298,9 +3422,25 @@ the pattern.
 o-o
 Less corruption
 o-o
-less waste,
+means less waste,
 o-o
-gradually.
+which increases
+o-o
+efficiency.
+o-o
+And that
+o-o
+increases
+o-o
+productivity.
+o-o
+And that yields
+o-o
+better
+o-o
+economic
+o-o
+prosperity.
 o-o
 But what's
 o-o
@@ -3374,15 +3514,13 @@ really hold back
 o-o
 on indulgences
 o-o
-for food
+for wine,
 o-o
-and wine
+potato chips,
 o-o
-and,
+and foot
 o-o
-well ...
-o-o
-ice cream?
+massages?
 end-lyric
 
 ambee sings-desha amenn
@@ -3402,63 +3540,47 @@ later.
 end-lyric
 
 ambee sings-econhist amenn
-In hindsight
-o-o
-all of those
-o-o
-outdated
-o-o
-traditions
-o-o
-can be seen as
-o-o
-corrupt.
-end-lyric
-
-ambee sings-damien amenn
-And inefficient,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-o-o
-In contrast,
-o-o
 America
 o-o
-gave
+was far away
 o-o
-democracy
+from big
 o-o
-a place to grow,
-o-o
-far away from
-o-o
-big armies
+armies
 o-o
 and navies.
 o-o
-The resulting
+That allowed
 o-o
-cooperation
+democracy
 o-o
-among U.S. states
+a place to grow
 o-o
-led to immense
+and demonstrate
+o-o
+that democracy
+o-o
+reduces
+o-o
+corruption
+o-o
+and
+o-o
+increases
+o-o
+economic
 o-o
 prosperity.
 o-o
-That's why
+That success
 o-o
-a few
+created
 o-o
-decades ago
+jealousy in
 o-o
-Europeans
+Europeans.
 o-o
-formed the
+So they formed the
 o-o
 European
 o-o
@@ -3466,15 +3588,19 @@ Union.
 o-o
 They finally
 o-o
-abandoned
+realized
+o-o
+they needed
+o-o
+to abandon
 o-o
 fighting between
 o-o
 Catholics and
 o-o
-Protestants,
+Protestants.
 o-o
-except in
+Except in
 o-o
 northern Ireland.
 o-o
@@ -3524,7 +3650,7 @@ Two.
 end-lyric
 
 ambee sings-econhist amenn
-Instead they are
+They are
 o-o
 copying
 o-o
@@ -3542,6 +3668,8 @@ United States.
 end-lyric
 
 ambee sings-desha amenn
+Wait a minute.
+o-o
 You said warfare
 o-o
 undermines the

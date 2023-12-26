@@ -1,3 +1,7 @@
 ambee copy-text word-to-use-in-handler chapter-phrase-name amenn
+ambee copy-characters-from-position-to-position chapter-phrase-name chapter-number-two-digits 1 2 amenn
+ambee expand-text template-filename-chapter-for-epub output-filename-chapter-for-epub amenn
+ambee expand-text title-chapter fenambee chapter-number-two-digits amenn chapter-title amenn
 ambee expand-text ambee get-phrase-name-from-phrase chapter-phrase-name amenn expanded-chapter amenn
 ambee copy-from-phrase-append-to-file expanded-chapter ambee output-filename-libretto amenn amenn
+ambee copy-from-phrase-append-to-file expanded-chapter ambee output-filename-chapter-for-epub amenn amenn
