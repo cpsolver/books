@@ -51,6 +51,7 @@ ambee sings-vc amenn
 Shall we start
 o-o
 with some licks?
+sentence-next
 o-o
 In the fridge
 o-o
@@ -186,6 +187,7 @@ ambee sings-damien amenn
 So,
 o-o
 what's the trick?
+sentence-next
 o-o
 Of gettin' money
 o-o
@@ -498,6 +500,7 @@ o-o
 you've got,
 o-o
 to get more?
+sentence-next
 o-o
 So you don't
 o-o
@@ -656,6 +659,7 @@ o-o
 about selling what
 o-o
 customers want?
+sentence-next
 o-o
 Or crave,
 o-o
@@ -761,6 +765,7 @@ end-lyric
 
 ambee sings-vc amenn
 That's a great spin!
+sentence-next
 o-o
 Fear of fallin'.
 sentence-next
@@ -1353,6 +1358,7 @@ o-o
 to become
 o-o
 an employer?
+sentence-next
 o-o
 Ownin' a small
 o-o
@@ -1485,6 +1491,7 @@ ambee sings-damien amenn
 So I should
 o-o
 start a cult?
+sentence-next
 o-o
 'N of course
 o-o
@@ -2145,10 +2152,12 @@ end-lyric
 
 ambee sings-damien amenn
 Is that all?
+sentence-next
 o-o
 Only about twenty
 o-o
 dollars?
+sentence-next
 o-o
 After donating
 o-o
@@ -2220,6 +2229,7 @@ end-lyric
 
 ambee sings-vc amenn
 Yup!
+sentence-next
 o-o
 It's a great
 o-o
@@ -2235,6 +2245,7 @@ end-lyric
 
 ambee sings-damien amenn
 Wow!
+sentence-next
 o-o
 That makes
 o-o
@@ -2315,6 +2326,7 @@ o-o
 never appear
 o-o
 in newspapers?
+sentence-next
 o-o
 That's because
 o-o
@@ -2462,6 +2474,7 @@ o-o
 kind of biz
 o-o
 to be?
+sentence-next
 o-o
 I wanna
 o-o
@@ -2888,6 +2901,7 @@ o-o
 legal
 o-o
 monopoly?
+sentence-next
 o-o
 Instead of just
 o-o
@@ -2926,6 +2940,7 @@ o-o
 of an herb
 o-o
 named stevia?
+sentence-next
 o-o
 It's a natural
 o-o
@@ -3193,6 +3208,7 @@ o-o
 to keep tax laws
 o-o
 complex?
+sentence-next
 o-o
 That increases
 o-o
@@ -3226,6 +3242,7 @@ o-o
 Thanks for the
 o-o
 clarity!
+sentence-next
 o-o
 ...
 sentence-next
@@ -3442,6 +3459,7 @@ o-o
 are there
 o-o
 other tricks?
+sentence-next
 o-o
 For getting
 o-o
@@ -3754,6 +3772,7 @@ end-lyric
 
 ambee sings-vc amenn
 You are bright!
+sentence-next
 o-o
 Yes, we pay news sources
 o-o
@@ -3989,12 +4008,14 @@ o-o
 explain how it
 o-o
 works?
+sentence-next
 o-o
 So I can earn
 o-o
 more dollars
 o-o
 your way?
+sentence-next
 o-o
 To buy things
 o-o
@@ -4031,6 +4052,7 @@ end-lyric
 
 ambee sings-damien amenn
 That would be sweet!
+sentence-next
 o-o
 Is there somethin'
 o-o
@@ -4063,6 +4085,7 @@ end-lyric
 
 ambee sings-damien amenn
 I'll try!
+sentence-next
 o-o
 No doubt
 o-o
@@ -4151,6 +4174,7 @@ end-lyric
 
 ambee sings-vc amenn
 You're welcome!
+sentence-next
 o-o
 And remember the trick.
 end-lyric
@@ -4173,6 +4197,7 @@ end-lyric
 
 ambee sings-vc amenn
 Splendid!
+sentence-next
 o-o
 I look forward
 o-o

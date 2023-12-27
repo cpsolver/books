@@ -26,6 +26,7 @@ ambee sings-desha-firstuse amenn
 Hi
 o-o
 name-mathprof no-space .
+sentence-next
 o-o
 This is name-damien no-space .
 end-lyric
@@ -34,10 +35,12 @@ ambee sings-mathprof-firstuse amenn
 Welcome name-desha
 o-o
 and name-damien no-space .
+sentence-next
 o-o
 Welcome to
 o-o
 my classroom.
+sentence-next
 o-o
 As we get settled
 o-o
@@ -52,6 +55,7 @@ end-lyric
 
 ambee sings-damien-firstuse amenn
 I'll keep things real.
+sentence-next
 o-o
 In the morning
 o-o
@@ -84,6 +88,7 @@ o-o
 in the
 o-o
 math world.
+sentence-next
 o-o
 Just assume
 o-o
@@ -100,6 +105,7 @@ o-o
 ...
 o-o
 electronics.
+sentence-next
 o-o
 Plus he has
 o-o
@@ -108,10 +114,12 @@ o-o
 about
 o-o
 fractions.
+sentence-next
 o-o
 That's
 o-o
 name-damien no-space .
+sentence-next
 o-o
 I don't know
 o-o
@@ -128,6 +136,7 @@ o-o
 spooky, 'n
 o-o
 terrifyin'.
+sentence-next
 o-o
 This one's bringin'
 o-o
@@ -150,10 +159,12 @@ end-lyric
 
 ambee sings-mathprof amenn
 I bet you're smart.
+sentence-next
 o-o
 You just didn't
 o-o
 get a good start.
+sentence-next
 o-o
 Can you count?
 end-lyric
@@ -230,6 +241,7 @@ o-o
 Babylon, Greece,
 o-o
 and Rome.
+sentence-next
 o-o
 But in ancient
 o-o
@@ -238,6 +250,7 @@ o-o
 their counting marks
 o-o
 inside a square.
+sentence-next
 o-o
 So when no marks
 o-o
@@ -246,6 +259,7 @@ o-o
 it's an empty
 o-o
 square.
+sentence-next
 o-o
 That changed to
 o-o
@@ -258,12 +272,14 @@ o-o
 Arabic-speaking
 o-o
 universities.
+sentence-next
 o-o
 And then a student
 o-o
 took it to Rome
 o-o
 and became pope.
+sentence-next
 o-o
 
 combee ************
@@ -285,6 +301,7 @@ o-o
 the ones we call
 o-o
 Roman numerals.
+sentence-next
 o-o
 That's how the
 o-o
@@ -319,6 +336,7 @@ end-lyric
 
 ambee sings-damien amenn
 Lisa and David.
+sentence-next
 o-o
 I think I've
 o-o
@@ -343,6 +361,7 @@ o-o
 far out into
 o-o
 the Atlantic.
+sentence-next
 o-o
 They bumped into
 o-o
@@ -359,6 +378,7 @@ o-o
 southern tip
 o-o
 of Africa.
+sentence-next
 o-o
 That bypassed
 o-o
@@ -371,6 +391,7 @@ o-o
 coast of
 o-o
 Africa.
+sentence-next
 o-o
 And it
 o-o
@@ -437,8 +458,10 @@ end-lyric
 
 ambee sings-mathprof amenn
 The digit zero.
+sentence-next
 o-o
 Not just zero.
+sentence-next
 o-o
 There have always
 o-o
@@ -453,6 +476,7 @@ o-o
 hungry, and
 o-o
 moron.
+sentence-next
 o-o
 But writing
 o-o
@@ -483,6 +507,7 @@ o-o
 accountants
 o-o
 ...
+sentence-next
 o-o
 waiting for
 o-o
@@ -515,6 +540,7 @@ o-o
 from within
 o-o
 those rings.
+sentence-next
 o-o
 And those are just
 o-o
@@ -537,6 +563,7 @@ o-o
 'bout zero
 o-o
 are gone.
+sentence-next
 o-o
 But how's that
 o-o
@@ -555,10 +582,12 @@ o-o
 in math that's
 o-o
 still very new.
+sentence-next
 o-o
 It's not yet taught
 o-o
 in public schools.
+sentence-next
 o-o
 Yet it can take
 o-o
@@ -573,6 +602,7 @@ o-o
 where elections
 o-o
 are fair.
+sentence-next
 o-o
 But to get there
 o-o
@@ -595,6 +625,7 @@ o-o
 it's meaning is
 o-o
 useless.
+sentence-next
 o-o
 Concepts come first.
 end-lyric
@@ -647,6 +678,7 @@ o-o
 to be quite
 o-o
 intelligent.
+sentence-next
 o-o
 So let's
 o-o
@@ -677,16 +709,19 @@ o-o
 also disliked
 o-o
 fractions.
+sentence-next
 o-o
 And so did
 o-o
 the Romans.
+sentence-next
 o-o
 It's because
 o-o
 they lacked the
 o-o
 digit zero.
+sentence-next
 o-o
 That's no big deal
 o-o
@@ -695,6 +730,7 @@ o-o
 and subtraction
 o-o
 and multiplication.
+sentence-next
 o-o
 Those are just
 o-o
@@ -709,6 +745,7 @@ o-o
 version of
 o-o
 counting up.
+sentence-next
 o-o
 But division,
 o-o
@@ -721,6 +758,7 @@ o-o
 befuddled
 o-o
 confusion.
+sentence-next
 o-o
 So leaving
 o-o
@@ -749,12 +787,14 @@ o-o
 zero,
 o-o
 the digit.
+sentence-next
 o-o
 Yet I've gotta
 o-o
 use fractions
 o-o
 every day.
+sentence-next
 o-o
 It makes me
 o-o
@@ -765,6 +805,7 @@ o-o
 those
 o-o
 ...
+sentence-next
 o-o
 suckers.
 end-lyric
@@ -775,6 +816,7 @@ o-o
 loathe, then this
 o-o
 question I pose.
+sentence-next
 o-o
 Why do you use them?
 end-lyric
@@ -803,6 +845,7 @@ o-o
 cannot avoid
 o-o
 fractions.
+sentence-next
 o-o
 They count
 o-o
@@ -811,10 +854,12 @@ o-o
 or four, or six,
 o-o
 or eight.
+sentence-next
 o-o
 But not by
 o-o
 five or ten.
+sentence-next
 o-o
 Except,
 o-o
@@ -843,6 +888,7 @@ ambee sings-damien amenn
 I build custom
 o-o
 staircases.
+sentence-next
 o-o
 Tape measures
 o-o
@@ -853,10 +899,12 @@ o-o
 eighths, 'n
 o-o
 sixteenths.
+sentence-next
 o-o
 Those effin'
 o-o
 fractions.
+sentence-next
 o-o
 I'd murder
 o-o
@@ -869,12 +917,14 @@ end-lyric
 
 ambee sings-mathprof amenn
 Use decimal numbers.
+sentence-next
 o-o
 That's what the whole
 o-o
 world uses, as part of
 o-o
 the metric system.
+sentence-next
 o-o
 Except of course
 o-o
@@ -885,10 +935,12 @@ ambee sings-damien amenn
 I can't use
 o-o
 metric units.
+sentence-next
 o-o
 That'd get
 o-o
 me fired.
+sentence-next
 o-o
 Inches and feet
 o-o
@@ -901,6 +953,7 @@ o-o
 numbers work
 o-o
 with inches too.
+sentence-next
 o-o
 Just get a
 o-o
@@ -917,8 +970,10 @@ ambee sings-damien amenn
 Oh, if only
 o-o
 I could do so.
+sentence-next
 o-o
 That'd be great!
+sentence-next
 o-o
 I could avoid
 o-o
@@ -939,6 +994,7 @@ o-o
 with ten units
 o-o
 per inch!
+sentence-next
 o-o
 When I measure
 o-o
@@ -981,6 +1037,7 @@ o-o
 problem
 o-o
 unfinished.
+sentence-next
 o-o
 It's waiting
 o-o
@@ -1023,12 +1080,14 @@ end-lyric
 
 ambee sings-mathprof amenn
 You learn fast!
+sentence-next
 o-o
 Now about your
 o-o
 fear of
 o-o
 fractions.
+sentence-next
 o-o
 Ancient Romans,
 o-o
@@ -1047,10 +1106,12 @@ o-o
 they too had
 o-o
 that fear.
+sentence-next
 o-o
 They liked the
 o-o
 number twelve.
+sentence-next
 o-o
 That's why sundials
 o-o
@@ -1071,6 +1132,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Indeed.
+sentence-next
 o-o
 The number twelve
 o-o
@@ -1137,6 +1199,7 @@ o-o
 using sixty
 o-o
 as a base.
+sentence-next
 o-o
 That's what the
 o-o
@@ -1145,6 +1208,7 @@ o-o
 Babylonians
 o-o
 chose.
+sentence-next
 o-o
 Sixty divides
 o-o
@@ -1159,10 +1223,12 @@ o-o
 and fifteen and twenty
 o-o
 and thirty.
+sentence-next
 o-o
 That's why an hour
 o-o
 has sixty minutes.
+sentence-next
 o-o
 And why a minute
 o-o
@@ -1173,6 +1239,7 @@ ambee sings-damien amenn
 So we could ditch
 o-o
 fractions?
+sentence-next
 o-o
 That's a world
 o-o
@@ -1197,6 +1264,7 @@ o-o
 takin'
 o-o
 a siesta.
+sentence-next
 o-o
 But sometimes
 o-o
@@ -1227,6 +1295,7 @@ o-o
 please forget
 o-o
 I said that!
+sentence-next
 o-o
 From what I've heard,
 o-o
@@ -1251,6 +1320,7 @@ ambee sings-desha amenn
 But he was a
 o-o
 genius.
+sentence-next
 o-o
 And best known
 o-o
@@ -1279,6 +1349,7 @@ o-o
 a whodunnit
 o-o
 mystery.
+sentence-next
 o-o
 Where the
 o-o
@@ -1317,6 +1388,7 @@ o-o
 to the principal's
 o-o
 office.
+sentence-next
 o-o
 And writing
 o-o
@@ -1341,6 +1413,7 @@ o-o
 I'm seein'
 o-o
 your point.
+sentence-next
 o-o
 Division
 o-o
@@ -1371,8 +1444,10 @@ end-lyric
 
 ambee sings-mathprof amenn
 Yes!
+sentence-next
 o-o
 Excellent!
+sentence-next
 o-o
 Now you
 o-o
@@ -1381,6 +1456,7 @@ o-o
 some key ideas
 o-o
 of math.
+sentence-next
 o-o
 Not enough
 o-o
@@ -1393,8 +1469,10 @@ o-o
 a bridge you
 o-o
 designed.
+sentence-next
 o-o
 There's lots more.
+sentence-next
 o-o
 And yet,
 o-o
@@ -1411,6 +1489,7 @@ o-o
 focus on
 o-o
 concepts.
+sentence-next
 o-o
 It even explains
 o-o
@@ -1461,12 +1540,14 @@ ambee sings-mathprof amenn
 Here's another
 o-o
 useful secret.
+sentence-next
 o-o
 Division is
 o-o
 disguised under
 o-o
 other names.
+sentence-next
 o-o
 Like ratio,
 o-o
@@ -1481,6 +1562,7 @@ o-o
 percent, and
 o-o
 the word per.
+sentence-next
 o-o
 And of course
 o-o
@@ -1511,6 +1593,7 @@ end-lyric
 
 ambee sings-damien amenn
 Another revolution?
+sentence-next
 o-o
 How many do you want?
 end-lyric
@@ -1555,6 +1638,7 @@ ambee sings-mathprof amenn
 Of course,
 o-o
 of course!
+sentence-next
 o-o
 And anyway,
 o-o
@@ -1567,6 +1651,7 @@ end-lyric
 
 ambee sings-desha amenn
 Wait a minute!
+sentence-next
 o-o
 Math textbooks
 o-o
@@ -1579,12 +1664,14 @@ o-o
 that computers
 o-o
 can easily handle?
+sentence-next
 o-o
 Why is that?
 end-lyric
 
 ambee sings-mathprof amenn
 Ironic isn't it?
+sentence-next
 o-o
 Computers are better
 o-o
@@ -1615,6 +1702,7 @@ o-o
 for missing a
 o-o
 right turn.
+sentence-next
 o-o
 Yet we try to teach
 o-o
@@ -1650,23 +1738,19 @@ scripting videos
 o-o
 worth watching,
 o-o
-graphic design,
-o-o
-software development,
-o-o
 extracting meaning
 o-o
 from data,
 o-o
+graphic design,
+o-o
+matchmaking,
+o-o
+making wise
+o-o
 hiring
 o-o
 decisions,
-o-o
-speed dating,
-o-o
-I mean
-o-o
-matchmaking,
 o-o
 and,
 o-o
@@ -1693,6 +1777,7 @@ o-o
 that employers
 o-o
 desire.
+sentence-next
 o-o
 My boss says
 o-o
@@ -1717,6 +1802,7 @@ o-o
 what computers
 o-o
 can do better?
+sentence-next
 o-o
 And schools fail
 o-o
@@ -1731,8 +1817,10 @@ o-o
 businesses
 o-o
 really want?
+sentence-next
 o-o
 Wow!
+sentence-next
 o-o
 The academic
 o-o
@@ -1771,10 +1859,12 @@ o-o
 of what I learned
 o-o
 in college.
+sentence-next
 o-o
 Computers
 o-o
 do it better.
+sentence-next
 o-o
 We really ought
 o-o
@@ -1797,6 +1887,7 @@ o-o
 to understand
 o-o
 concepts.
+sentence-next
 o-o
 Yet too often
 o-o
@@ -1813,6 +1904,7 @@ o-o
 deserve a
 o-o
 failing grade!
+sentence-next
 o-o
 I love it!
 end-lyric
@@ -1839,12 +1931,14 @@ o-o
 textbooks focus
 o-o
 on them.
+sentence-next
 o-o
 And standardized
 o-o
 tests test
 o-o
 those things.
+sentence-next
 o-o
 But really it's
 o-o
@@ -1867,6 +1961,7 @@ o-o
 as if we were
 o-o
 computers.
+sentence-next
 o-o
 While businesses
 o-o
@@ -1877,6 +1972,7 @@ o-o
 how to think
 o-o
 like humans.
+sentence-next
 o-o
 They're both
 o-o
@@ -1913,6 +2009,7 @@ o-o
 from just
 o-o
 mathematics?
+sentence-next
 o-o
 I'm eager
 o-o
@@ -1925,12 +2022,14 @@ end-lyric
 
 ambee sings-mathprof amenn
 Now you're ready.
+sentence-next
 o-o
 You won't be scared
 o-o
 when zero
 o-o
 pops up.
+sentence-next
 o-o
 And only one
 o-o
@@ -1939,6 +2038,7 @@ o-o
 fraction
 o-o
 is involved.
+sentence-next
 o-o
 The one called
 o-o
@@ -1947,6 +2047,7 @@ end-lyric
 
 ambee sings-damien amenn
 Hurray!
+sentence-next
 o-o
 Even a half wit
 o-o
@@ -1963,6 +2064,7 @@ o-o
 divided
 o-o
 by two.
+sentence-next
 o-o
 That equals
 o-o
@@ -1973,8 +2075,10 @@ ambee sings-mathprof amenn
 Or fifty
 o-o
 percent.
+sentence-next
 o-o
 Now you're ready!
+sentence-next
 o-o
 So let's explore
 o-o

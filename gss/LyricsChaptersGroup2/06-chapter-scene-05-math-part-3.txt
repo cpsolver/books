@@ -16,6 +16,7 @@ ambee sings-mathprof amenn
 Ah, but one thing
 o-o
 it gets quite right.
+sentence-next
 o-o
 The winner
 o-o
@@ -34,8 +35,10 @@ end-lyric
 
 ambee sings-damien amenn
 Here's the fraction.
+sentence-next
 o-o
 A half.
+sentence-next
 o-o
 Fortunately
 o-o
@@ -44,6 +47,7 @@ o-o
 have disappeared,
 o-o
 ...
+sentence-next
 o-o
 for now.
 end-lyric
@@ -68,6 +72,7 @@ o-o
 then vote splitting
 o-o
 can't happen.
+sentence-next
 o-o
 That's so important
 o-o
@@ -96,6 +101,7 @@ o-o
 than half the votes
 o-o
 is a must.
+sentence-next
 o-o
 But how can
 o-o
@@ -104,6 +110,7 @@ o-o
 be a
 o-o
 majority?
+sentence-next
 o-o
 Especially
 o-o
@@ -116,12 +123,14 @@ end-lyric
 
 ambee sings-mathprof amenn
 Exactly.
+sentence-next
 o-o
 Yet take a guess.
 end-lyric
 
 ambee sings-damien amenn
 This is hard.
+sentence-next
 o-o
 Is it time
 o-o
@@ -154,6 +163,7 @@ o-o
 based on,
 o-o
 ... well, ...
+sentence-next
 o-o
 I think they get
 o-o
@@ -194,8 +204,10 @@ end-lyric
 
 ambee sings-mathprof amenn
 Pairwise.
+sentence-next
 o-o
 That's the name.
+sentence-next
 o-o
 So how would
 o-o
@@ -204,6 +216,7 @@ end-lyric
 
 ambee sings-damien amenn
 Pairwise, ...
+sentence-next
 o-o
 ah, counting?
 end-lyric
@@ -212,10 +225,12 @@ ambee sings-mathprof amenn
 Yes,
 o-o
 pairwise counting.
+sentence-next
 o-o
 It's a very important
 o-o
 thing.
+sentence-next
 o-o
 How would that work?
 end-lyric
@@ -248,6 +263,7 @@ o-o
 then,
 o-o
 ...
+sentence-next
 o-o
 well,
 o-o
@@ -266,6 +282,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Excellent!
+sentence-next
 o-o
 Keep going.
 end-lyric
@@ -312,6 +329,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Excellent!
+sentence-next
 o-o
 That pairwise
 o-o
@@ -320,6 +338,7 @@ o-o
 process would work,
 o-o
 up to a point.
+sentence-next
 o-o
 A simple shortcut
 o-o
@@ -334,6 +353,7 @@ o-o
 of their pairwise
 o-o
 contests.
+sentence-next
 o-o
 The academic
 o-o
@@ -362,6 +382,7 @@ Marquis de
 begin-explain pronounced mar-KEE day end-explain
 o-o
 Condorcet.
+sentence-next
 o-o
 For a long time
 o-o
@@ -386,6 +407,7 @@ o-o
 the concept
 o-o
 is the key.
+sentence-next
 o-o
 Yet on a test,
 o-o
@@ -396,12 +418,14 @@ o-o
 or recognize,
 o-o
 his name.
+sentence-next
 o-o
 That's dumb.
 end-lyric
 
 ambee sings-damien amenn
 I think I see.
+sentence-next
 o-o
 A Condorcet winner
 o-o
@@ -434,6 +458,7 @@ o-o
 Condorcet
 o-o
 winner.
+sentence-next
 o-o
 Using the elimination
 o-o
@@ -450,6 +475,7 @@ end-lyric
 
 ambee sings-desha amenn
 Partial losers.
+sentence-next
 o-o
 But no total
 o-o
@@ -458,10 +484,12 @@ end-lyric
 
 ambee sings-damien amenn
 Then what?
+sentence-next
 o-o
 Count how many
 o-o
 losses?
+sentence-next
 o-o
 Or measure
 o-o
@@ -478,6 +506,7 @@ o-o
 of those
 o-o
 ideas!
+sentence-next
 o-o
 Actually
 o-o
@@ -486,6 +515,7 @@ o-o
 ways to resolve
 o-o
 those cases.
+sentence-next
 o-o
 Even better,
 o-o
@@ -496,6 +526,7 @@ o-o
 look for Condorcet
 o-o
 winners or losers.
+sentence-next
 o-o
 Instead they use
 o-o
@@ -508,6 +539,7 @@ o-o
 anything
 o-o
 special.
+sentence-next
 o-o
 Yet they find the
 o-o
@@ -532,6 +564,7 @@ o-o
 advanced
 o-o
 mathematics.
+sentence-next
 o-o
 After all,
 o-o
@@ -576,6 +609,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Yes.
+sentence-next
 o-o
 But before that
 o-o
@@ -594,6 +628,7 @@ end-lyric
 
 ambee sings-damien amenn
 I'll guess two.
+sentence-next
 o-o
 If the two
 o-o
@@ -612,6 +647,7 @@ o-o
 uh, Pinoke
 o-o
 over Oscar.
+sentence-next
 o-o
 And there's
 o-o
@@ -658,6 +694,7 @@ o-o
 there will be
 o-o
 a third number.
+sentence-next
 o-o
 The number of voters
 o-o
@@ -670,6 +707,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Excellent!
+sentence-next
 o-o
 Yes there are
 o-o
@@ -678,12 +716,14 @@ o-o
 for each pairwise
 o-o
 comparison.
+sentence-next
 o-o
 But when summarized,
 o-o
 the third count
 o-o
 can be omitted.
+sentence-next
 o-o
 This means the
 o-o
@@ -692,6 +732,7 @@ o-o
 can be put into
 o-o
 a table, a square grid.
+sentence-next
 o-o
 And each row
 o-o
@@ -700,6 +741,7 @@ o-o
 with the name
 o-o
 of a candidate.
+sentence-next
 o-o
 And the columns
 o-o
@@ -710,6 +752,7 @@ o-o
 names in the same
 o-o
 sequence.
+sentence-next
 o-o
 And each cell
 o-o
@@ -740,6 +783,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Indeed.
+sentence-next
 o-o
 Now you're ready
 o-o
@@ -750,6 +794,7 @@ o-o
 method I like
 o-o
 best.
+sentence-next
 o-o
 It re hyphen-here arranges
 o-o
@@ -760,6 +805,7 @@ o-o
 in the rows
 o-o
 and columns.
+sentence-next
 o-o
 The goal is to
 o-o
@@ -790,10 +836,12 @@ o-o
 the lower hyphen-here left
 o-o
 triangular area.
+sentence-next
 o-o
 Then we look at
 o-o
 that sequence.
+sentence-next
 o-o
 It indicates
 o-o
@@ -862,6 +910,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Not always.
+sentence-next
 o-o
 The very fairest
 o-o
@@ -908,6 +957,7 @@ o-o
 a voting method
 o-o
 that has no flaws.
+sentence-next
 o-o
 So it's complicated.
 end-lyric
@@ -930,6 +980,7 @@ o-o
 that voting methods
 o-o
 pass or fail.
+sentence-next
 o-o
 Math geeks know which
 o-o
@@ -938,6 +989,7 @@ o-o
 can sometimes
 o-o
 fail which criteria.
+sentence-next
 o-o
 But there has been
 o-o
@@ -1000,6 +1052,7 @@ o-o
 funding comes from
 o-o
 the government.
+sentence-next
 o-o
 Of course the
 o-o
@@ -1034,12 +1087,14 @@ o-o
 learned what's
 o-o
 needed.
+sentence-next
 o-o
 Ranked hyphen-here choice ballots
 o-o
 and pairwise
 o-o
 counting.
+sentence-next
 o-o
 So are we done?
 end-lyric
@@ -1084,10 +1139,12 @@ ambee sings-mathprof amenn
 You're fighting
 o-o
 against fear.
+sentence-next
 o-o
 This will be
 o-o
 easier.
+sentence-next
 o-o
 So far we've
 o-o
@@ -1104,8 +1161,10 @@ o-o
 or president
 o-o
 with fairness.
+sentence-next
 o-o
 That's the first half.
+sentence-next
 o-o
 But what happens
 o-o
@@ -1126,8 +1185,10 @@ end-lyric
 
 ambee sings-mathprof amenn
 Oh right.
+sentence-next
 o-o
 Instead, try this.
+sentence-next
 o-o
 Imagine a
 o-o
@@ -1138,6 +1199,7 @@ o-o
 and choosing
 o-o
 two pizzas.
+sentence-next
 o-o
 If the majority
 o-o
@@ -1192,6 +1254,7 @@ o-o
 er,
 o-o
 selected?
+sentence-next
 o-o
 For the second
 o-o
@@ -1206,12 +1269,14 @@ o-o
 more than one
 o-o
 meaning.
+sentence-next
 o-o
 So let's try
 o-o
 yet another
 o-o
 metaphor.
+sentence-next
 o-o
 Imagine that
 o-o
@@ -1230,6 +1295,7 @@ o-o
 would eat the
 o-o
 four sheep!
+sentence-next
 o-o
 And claim it's fair
 o-o
@@ -1292,6 +1358,7 @@ o-o
 a twelve hyphen-here foot
 o-o
 TV screen.
+sentence-next
 o-o
 Where on the screen
 o-o
@@ -1302,6 +1369,7 @@ end-lyric
 
 ambee sings-damien amenn
 I see somethin'.
+sentence-next
 o-o
 If districts
 o-o
@@ -1320,6 +1388,7 @@ o-o
 district would
 o-o
 elect a wolf.
+sentence-next
 o-o
 Then Congress would
 o-o
@@ -1358,6 +1427,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Sure.
+sentence-next
 o-o
 On the ballot
 o-o
@@ -1366,6 +1436,7 @@ o-o
 favorite
 o-o
 political party.
+sentence-next
 o-o
 Let's say
 o-o
@@ -1382,6 +1453,7 @@ end-lyric
 
 ambee sings-damien amenn
 I'd join that one.
+sentence-next
 o-o
 It sounds like
 o-o
@@ -1408,6 +1480,7 @@ o-o
 or dress like
 o-o
 pirates.
+sentence-next
 o-o
 But they do
 o-o
@@ -1435,15 +1508,15 @@ are done to
 o-o
 ensure the
 o-o
-Pirate party,
+Pirate party
 o-o
-and all other
+and other
 o-o
 non hyphen-here tiny
 o-o
-parties,
+parties
 o-o
-gets their fair share
+get their fair share
 o-o
 of seats in
 o-o
@@ -1462,6 +1535,7 @@ o-o
 still using
 o-o
 single hyphen-here choice ballots.
+sentence-next
 o-o
 Yet lots of
 o-o
@@ -1476,6 +1550,7 @@ o-o
 begin-italics proportional
 o-o
 representation end-italics no-space .
+sentence-next
 o-o
 So each voter
 o-o

@@ -10,12 +10,14 @@ o-o
 I'm not a
 o-o
 math wiz.
+sentence-next
 o-o
 Or even a nerd.
 end-lyric
 
 ambee sings-mathprof amenn
 name-damien no-space ?
+sentence-next
 o-o
 What do you
 o-o
@@ -30,22 +32,28 @@ ambee sings-damien amenn
 Uh,
 o-o
 ...
+sentence-next
 o-o
 I reckon,
 o-o
 ...
+sentence-next
 o-o
 maybe
 o-o
 ...
+sentence-next
 o-o
 it might use
 o-o
 ...
+sentence-next
 o-o
 five stars?
+sentence-next
 o-o
 ...
+sentence-next
 o-o
 Like
 o-o
@@ -54,6 +62,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 That's a good start.
+sentence-next
 o-o
 And why is that
 o-o
@@ -74,6 +83,7 @@ o-o
 that wouldn't be
 o-o
 enough info.
+sentence-next
 o-o
 So what's needed
 o-o
@@ -86,8 +96,10 @@ end-lyric
 
 ambee sings-mathprof amenn
 Excellent!
+sentence-next
 o-o
 Yes indeed!
+sentence-next
 o-o
 So if stars were
 o-o
@@ -122,6 +134,7 @@ o-o
 different
 o-o
 scenario.
+sentence-next
 o-o
 Let's suppose
 o-o
@@ -142,6 +155,7 @@ o-o
 will determine
 o-o
 who wins.
+sentence-next
 o-o
 How can you get
 o-o
@@ -182,12 +196,14 @@ o-o
 contest, maybe,
 o-o
 maybe not.
+sentence-next
 o-o
 At theater
 o-o
 events, that's
 o-o
 disrespectful.
+sentence-next
 o-o
 But in an
 o-o
@@ -198,6 +214,7 @@ o-o
 that's just freedom
 o-o
 of expression.
+sentence-next
 o-o
 It's voting,
 o-o
@@ -210,6 +227,7 @@ end-lyric
 
 ambee sings-desha amenn
 Ah, it's fighting!
+sentence-next
 o-o
 Done on ballots.
 end-lyric
@@ -234,6 +252,7 @@ o-o
 you're being a
 o-o
 jerk.
+sentence-next
 o-o
 But if that star
 o-o
@@ -264,6 +283,7 @@ ambee sings-damien amenn
 I'm still following
 o-o
 things to here.
+sentence-next
 o-o
 Too bad I can't
 o-o
@@ -274,6 +294,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Bravo!
+sentence-next
 o-o
 You see that
 o-o
@@ -282,6 +303,7 @@ o-o
 more information
 o-o
 isn't enough.
+sentence-next
 o-o
 How the information
 o-o
@@ -306,10 +328,12 @@ ambee sings-mathprof amenn
 Ah, I should
 o-o
 take a step back.
+sentence-next
 o-o
 There are two parts
 o-o
 to any voting method.
+sentence-next
 o-o
 There's the ballot
 o-o
@@ -352,12 +376,14 @@ end-lyric
 
 ambee sings-mathprof amenn
 Right.
+sentence-next
 o-o
 And there's just
 o-o
 one way to count
 o-o
 that kind of ballot.
+sentence-next
 o-o
 Which is why
 o-o
@@ -366,10 +392,12 @@ o-o
 that ballot didn't
 o-o
 have a name.
+sentence-next
 o-o
 The counting method
 o-o
 has different names.
+sentence-next
 o-o
 It's the enemy
 o-o
@@ -378,12 +406,14 @@ o-o
 so it's worth
 o-o
 learning its names.
+sentence-next
 o-o
 In the academic
 o-o
 world it's called
 o-o
 begin-italics plurality voting end-italics no-space .
+sentence-next
 o-o
 In Canada
 o-o
@@ -414,6 +444,7 @@ o-o
 it becomes harder
 o-o
 to fight against!
+sentence-next
 o-o
 Imagine protesting
 o-o
@@ -430,8 +461,10 @@ ambee sings-damien amenn
 So that's the
 o-o
 enemy?
+sentence-next
 o-o
 Plurality?
+sentence-next
 o-o
 And it uses
 o-o
@@ -444,6 +477,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Yes.
+sentence-next
 o-o
 It is to
 o-o
@@ -498,6 +532,7 @@ ambee sings-damien amenn
 Brain freeze
 o-o
 big time!
+sentence-next
 o-o
 Is that difference
 o-o
@@ -510,6 +545,7 @@ ambee sings-mathprof amenn
 To get the math
 o-o
 right, yes.
+sentence-next
 o-o
 But both types
 o-o
@@ -528,24 +564,28 @@ end-lyric
 
 ambee sings-mathprof amenn
 Almost anything.
+sentence-next
 o-o
 There's one
 o-o
 seductive
 o-o
 exception.
+sentence-next
 o-o
-That's using points,
+That's giving
 o-o
-where each voter
+each voter
 o-o
-is given a limited
+a limited
 o-o
 number of points
 o-o
 to distribute
 o-o
-among the choices.
+among the
+o-o
+candidates.
 end-lyric
 
 ambee sings-desha amenn
@@ -564,6 +604,7 @@ ambee sings-mathprof amenn
 That's one
 o-o
 of its flaws.
+sentence-next
 o-o
 If vote counting
 o-o
@@ -573,17 +614,17 @@ competed in
 o-o
 a limbo contest,
 o-o
-the points approach
+that points approach
 o-o
-would win
+would win.
+sentence-next
 o-o
-the limbo
+It goes the
 o-o
-contest,
+lowest
 o-o
-as the
-o-o
-lowest.
+in fairness.
+sentence-next
 o-o
 Anything else
 o-o
@@ -602,8 +643,10 @@ o-o
 that are like
 o-o
 Amazon stars ....
+sentence-next
 o-o
 Wait a moment.
+sentence-next
 o-o
 Does this mean
 o-o
@@ -616,6 +659,7 @@ ambee sings-desha amenn
 That wouldn't
 o-o
 be fair.
+sentence-next
 o-o
 Someone
 o-o
@@ -644,6 +688,7 @@ o-o
 machines
 o-o
 can be hacked.
+sentence-next
 o-o
 But
 o-o
@@ -652,12 +697,15 @@ o-o
 can't be sacked
 o-o
 ...
+sentence-next
 o-o
 except in bags.
+sentence-next
 o-o
 Lots of people
 o-o
 vote by mail.
+sentence-next
 o-o
 That's what my
 o-o
@@ -676,6 +724,7 @@ o-o
 with ovals to mark
 o-o
 work just fine.
+sentence-next
 o-o
 Of course
 o-o
@@ -684,10 +733,12 @@ o-o
 are needed for the
 o-o
 preference levels.
+sentence-next
 o-o
 Let's say there's
 o-o
 seven columns.
+sentence-next
 o-o
 The columns
 o-o
@@ -702,6 +753,7 @@ o-o
 and so on up to
 o-o
 begin-italics seventh choice end-italics no-space .
+sentence-next
 o-o
 That's called
 o-o
@@ -754,6 +806,7 @@ o-o
 is ranked at
 o-o
 the bottom.
+sentence-next
 o-o
 In this case
 o-o
@@ -829,6 +882,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Exactly!
+sentence-next
 o-o
 If everyone is
 o-o
@@ -883,6 +937,7 @@ o-o
 would take care of doing
 o-o
 that counting.
+sentence-next
 o-o
 You would just mark
 o-o
@@ -901,6 +956,7 @@ o-o
 that way
 o-o
 would be easy.
+sentence-next
 o-o
 For simple counting
 o-o
@@ -911,6 +967,7 @@ o-o
 such count
 o-o
 would win.
+sentence-next
 o-o
 If everyone
 o-o
@@ -929,14 +986,17 @@ end-lyric
 
 ambee sings-desha amenn
 Fat chance of that!
+sentence-next
 o-o
 Honesty I mean.
+sentence-next
 o-o
 It seems to be
 o-o
 getting less and less
 o-o
 fashionable.
+sentence-next
 o-o
 Especially
 o-o
@@ -965,6 +1025,7 @@ o-o
 to strategic
 o-o
 voters.
+sentence-next
 o-o
 They can get
 o-o
@@ -979,6 +1040,7 @@ end-lyric
 
 ambee sings-desha amenn
 I'm curious.
+sentence-next
 o-o
 What happens
 o-o
@@ -1015,10 +1077,12 @@ end-lyric
 
 ambee sings-damien amenn
 I'm confused.
+sentence-next
 o-o
 I understand
 o-o
 how the ballots work.
+sentence-next
 o-o
 But I can't
 o-o
@@ -1031,6 +1095,7 @@ o-o
 any of what we've
 o-o
 been discussing.
+sentence-next
 o-o
 I thought I was
 o-o
@@ -1065,6 +1130,7 @@ ambee sings-mathprof amenn
 And give yourself
 o-o
 an A plus!
+sentence-next
 o-o
 You two are
 o-o
@@ -1081,12 +1147,14 @@ end-lyric
 
 ambee sings-damien amenn
 Really?
+sentence-next
 o-o
 Or are you just
 o-o
 tryin' to, well,
 o-o
 I dunno.
+sentence-next
 o-o
 This is so
 o-o
@@ -1121,6 +1189,7 @@ o-o
 really care about
 o-o
 this topic.
+sentence-next
 o-o
 That's really what
 o-o
@@ -1135,6 +1204,7 @@ ambee sings-damien amenn
 My world is
 o-o
 upside down.
+sentence-next
 o-o
 'N money's
 o-o
@@ -1161,6 +1231,7 @@ o-o
 kind of ballot
 o-o
 has two names.
+sentence-next
 o-o
 Which name applies
 o-o
@@ -1181,10 +1252,12 @@ o-o
 for a score
 o-o
 or a rating.
+sentence-next
 o-o
 It's called
 o-o
 a score ballot.
+sentence-next
 o-o
 It allows a voter
 o-o
@@ -1197,6 +1270,7 @@ o-o
 who they like and
 o-o
 dislike.
+sentence-next
 o-o
 Like the grades
 o-o
@@ -1211,6 +1285,7 @@ o-o
 for
 o-o
 ...
+sentence-next
 o-o
 fails to care
 o-o
@@ -1263,8 +1338,10 @@ o-o
 be countin'
 o-o
 ballots?
+sentence-next
 o-o
 For elections.
+sentence-next
 o-o
 Where voters
 o-o
@@ -1307,6 +1384,7 @@ o-o
 we use now, the
 o-o
 single hyphen-here choice ballot.
+sentence-next
 o-o
 But change the
 o-o
@@ -1317,6 +1395,7 @@ o-o
 to mark more than
 o-o
 just one candidate.
+sentence-next
 o-o
 That's called
 o-o
@@ -1361,10 +1440,12 @@ o-o
 we can upvote
 o-o
 and downvote.
+sentence-next
 o-o
 That's more
 o-o
 info.
+sentence-next
 o-o
 Is that
 o-o
@@ -1393,10 +1474,12 @@ ambee sings-desha amenn
 Ah, an upvote
 o-o
 is like plus one.
+sentence-next
 o-o
 And a downvote
 o-o
 is like minus one.
+sentence-next
 o-o
 And neither
 o-o
@@ -1409,6 +1492,7 @@ ambee sings-mathprof amenn
 If counted right
 o-o
 that could work.
+sentence-next
 o-o
 But using
 o-o
@@ -1419,6 +1503,7 @@ o-o
 information
 o-o
 than three.
+sentence-next
 o-o
 And when there are
 o-o
@@ -1470,6 +1555,7 @@ o-o
 the wrong party
 o-o
 must not win.
+sentence-next
 o-o
 So there it
 o-o
@@ -1482,6 +1568,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Right.
+sentence-next
 o-o
 We need more
 o-o
@@ -1500,6 +1587,7 @@ end-lyric
 
 ambee sings-damien amenn
 Wait a moment!
+sentence-next
 o-o
 Just changing
 o-o
@@ -1524,10 +1612,12 @@ o-o
 politically
 o-o
 savvy.
+sentence-next
 o-o
 That's outside
 o-o
 my expertise.
+sentence-next
 o-o
 I just know
 o-o
@@ -1562,6 +1652,7 @@ o-o
 learn about 
 o-o
 ranking.
+sentence-next
 o-o
 It uses
 o-o
@@ -1570,6 +1661,7 @@ o-o
 choice
 o-o
 ballots.
+sentence-next
 o-o
 They look the same
 o-o
@@ -1580,6 +1672,7 @@ o-o
 but they're counted
 o-o
 differently.
+sentence-next
 o-o
 It defeats the tactic
 o-o
@@ -1646,6 +1739,7 @@ o-o
 without written
 o-o
 consent.
+sentence-next
 o-o
 But take a guess.
 end-lyric
@@ -1654,16 +1748,19 @@ ambee sings-damien amenn
 Maybe
 o-o
 ...
+sentence-next
 o-o
 we could start
 o-o
 by looking at
 o-o
 ...
+sentence-next
 o-o
 just the top
 o-o
 part.
+sentence-next
 o-o
 The top hyphen-here most
 o-o
@@ -1672,6 +1769,7 @@ o-o
 on each
 o-o
 ballot.
+sentence-next
 o-o
 ...
 end-lyric
@@ -1694,6 +1792,7 @@ o-o
 top marks
 o-o
 ...
+sentence-next
 o-o
 gets
 o-o
@@ -1708,10 +1807,12 @@ o-o
 to hide the
 o-o
 one dismissed.
+sentence-next
 o-o
 Then the process
 o-o
 repeats.
+sentence-next
 o-o
 Until just one
 o-o
@@ -1728,12 +1829,14 @@ o-o
 many
 o-o
 different names.
+sentence-next
 o-o
 Here let's call it
 o-o
 instant runoff
 o-o
 voting.
+sentence-next
 o-o
 Among friends,
 o-o
@@ -1744,6 +1847,7 @@ o-o
 that method
 o-o
 is dandy.
+sentence-next
 o-o
 It works well
 o-o
@@ -1752,6 +1856,7 @@ o-o
 been used in real
 o-o
 elections.
+sentence-next
 o-o
 In fact it's used
 o-o
@@ -1774,6 +1879,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 This is hard stuff.
+sentence-next
 o-o
 Although
 o-o
@@ -1792,12 +1898,14 @@ o-o
 security
 o-o
 number.
+sentence-next
 o-o
 Yet you deserve
 o-o
 another
 o-o
 A plus.
+sentence-next
 o-o
 For the basic
 o-o
@@ -1838,6 +1946,7 @@ o-o
 counting method
 o-o
 is flawed.
+sentence-next
 o-o
 Instant
 o-o
@@ -1854,10 +1963,12 @@ o-o
 in Vermont,
 o-o
 and it failed.
+sentence-next
 o-o
 And it failed again
 o-o
 in Alaska.
+sentence-next
 o-o
 In those two
 o-o
@@ -1874,10 +1985,12 @@ o-o
 who deserved
 o-o
 to win.
+sentence-next
 o-o
 We can do
 o-o
 better.
+sentence-next
 o-o
 So which
 o-o

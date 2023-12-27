@@ -32,6 +32,7 @@ o-o
 politicians
 o-o
 win the seats.
+sentence-next
 o-o
 So back here
 o-o
@@ -66,6 +67,7 @@ o-o
 each district
 o-o
 double the size?
+sentence-next
 o-o
 And having half
 o-o
@@ -74,6 +76,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Very good!
+sentence-next
 o-o
 And using a fraction
 o-o
@@ -84,6 +87,7 @@ ambee sings-damien amenn
 It's like building
 o-o
 a staircase.
+sentence-next
 o-o
 Half as many steps
 o-o
@@ -94,6 +98,7 @@ end-lyric
 
 ambee sings-desha amenn
 Wow.
+sentence-next
 o-o
 Now you're
 o-o
@@ -114,6 +119,7 @@ o-o
 would win
 o-o
 the first seat.
+sentence-next
 o-o
 In a
 o-o
@@ -126,14 +132,17 @@ ambee sings-desha amenn
 So how's the
 o-o
 second seat filled?
+sentence-next
 o-o
 In a way that's fair.
+sentence-next
 o-o
 For the sheep,
 o-o
 and goats,
 o-o
 and pigs?
+sentence-next
 o-o
 Or maybe I should say,
 o-o
@@ -194,10 +203,12 @@ o-o
 influence
 o-o
 greatly reduced.
+sentence-next
 o-o
 Often all the
 o-o
 way to zero.
+sentence-next
 o-o
 The remaining
 o-o
@@ -206,6 +217,7 @@ o-o
 full influence
 o-o
 for their ballots.
+sentence-next
 o-o
 Pairwise counting
 o-o
@@ -220,6 +232,7 @@ o-o
 wins the
 o-o
 second seat.
+sentence-next
 o-o
 In this
 o-o
@@ -274,6 +287,7 @@ o-o
 vote splitting
 o-o
 can't happen.
+sentence-next
 o-o
 So we need
 o-o
@@ -368,8 +382,10 @@ o-o
 then Congress
 o-o
 would be tied.
+sentence-next
 o-o
 That's cockeyed.
+sentence-next
 o-o
 The population
 o-o
@@ -402,6 +418,7 @@ o-o
 which are called
 o-o
 statewide seats.
+sentence-next
 o-o
 Then we can do
 o-o
@@ -430,6 +447,7 @@ o-o
 will fill
 o-o
 those seats?
+sentence-next
 o-o
 That seems
 o-o
@@ -474,6 +492,7 @@ ambee sings-desha amenn
 Ah,
 o-o
 I see.
+sentence-next
 o-o
 The members of
 o-o
@@ -488,6 +507,7 @@ o-o
 themselves
 o-o
 re hyphen-here elected.
+sentence-next
 o-o
 Otherwise it
 o-o
@@ -504,6 +524,7 @@ end-lyric
 
 ambee sings-damien amenn
 Another barrier!
+sentence-next
 o-o
 Political
 o-o
@@ -524,6 +545,7 @@ o-o
 of the
 o-o
 un hyphen-here elected candidates.
+sentence-next
 o-o
 The most popular
 o-o
@@ -538,6 +560,7 @@ o-o
 party's
 o-o
 extra seat.
+sentence-next
 o-o
 Then just repeat
 o-o
@@ -554,6 +577,7 @@ o-o
 control away from
 o-o
 party insiders.
+sentence-next
 o-o
 And empower
 o-o
@@ -604,6 +628,7 @@ o-o
 got blocked
 o-o
 in two thousand eight.
+sentence-next
 o-o
 Right?
 end-lyric
@@ -661,6 +686,7 @@ o-o
 to rank the
 o-o
 political parties.
+sentence-next
 o-o
 That gives us the
 o-o
@@ -677,6 +703,7 @@ end-lyric
 
 ambee sings-damien amenn
 Voting for parties?
+sentence-next
 o-o
 Is that really
 o-o
@@ -697,6 +724,7 @@ o-o
 using ranked
 o-o
 choice ballots.
+sentence-next
 o-o
 Using that party
 o-o
@@ -753,6 +781,7 @@ o-o
 opportunity
 o-o
 to grow.
+sentence-next
 o-o
 And even to
 o-o
@@ -769,6 +798,7 @@ o-o
 getting
 o-o
 complex.
+sentence-next
 o-o
 Is there a name
 o-o
@@ -791,6 +821,7 @@ o-o
 and they have lots
 o-o
 of names.
+sentence-next
 o-o
 The method
 o-o
@@ -819,6 +850,7 @@ o-o
 is a ranking
 o-o
 method I like.
+sentence-next
 o-o
 FairVote is an
 o-o
@@ -863,6 +895,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Yes.
+sentence-next
 o-o
 It's another
 o-o
@@ -881,6 +914,7 @@ ambee sings-desha amenn
 OK, you like
 o-o
 VoteFair something.
+sentence-next
 o-o
 Is there a
 o-o
@@ -893,10 +927,12 @@ ambee sings-mathprof amenn
 Pairwise
 o-o
 vote counting.
+sentence-next
 o-o
 That's the most
 o-o
 important part.
+sentence-next
 o-o
 Because pairwise counts
 o-o
@@ -1001,10 +1037,12 @@ end-lyric
 
 ambee sings-mathprof amenn
 Fear.
+sentence-next
 o-o
 Especially
 o-o
 a fear of math.
+sentence-next
 o-o
 Officially
 o-o
@@ -1013,6 +1051,7 @@ o-o
 mathematical
 o-o
 anxiety.
+sentence-next
 o-o
 Lots of people
 o-o
@@ -1031,6 +1070,7 @@ ambee sings-damien amenn
 Math
 o-o
 anxiety.
+sentence-next
 o-o
 That's what I
 o-o
@@ -1061,6 +1101,7 @@ o-o
 control
 o-o
 politicians.
+sentence-next
 o-o
 And their minions,
 o-o
@@ -1075,6 +1116,7 @@ o-o
 don't want to
 o-o
 get fired.
+sentence-next
 o-o
 Or lose their
 o-o
@@ -1101,6 +1143,7 @@ ambee sings-desha amenn
 You are so
 o-o
 na&#239;ve.
+sentence-next
 o-o
 Greedy folks
 o-o
@@ -1167,6 +1210,7 @@ end-lyric
 
 ambee sings-desha amenn
 Pretty colors!
+sentence-next
 o-o
 Which flavors?
 end-lyric
@@ -1241,6 +1285,7 @@ o-o
 and least hyphen-here favorite
 o-o
 on bottom.
+sentence-next
 o-o
 With these nine
 o-o
@@ -1285,6 +1330,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Definitely.
+sentence-next
 o-o
 And yet,
 o-o
@@ -1321,6 +1367,7 @@ ambee sings-mathprof amenn
 There's one
 o-o
 more bit.
+sentence-next
 o-o
 But you can learn
 o-o
@@ -1329,6 +1376,7 @@ o-o
 later,
 o-o
 when you're ready.
+sentence-next
 o-o
 It will be
 o-o
@@ -1351,6 +1399,7 @@ o-o
 to become
 o-o
 laws.
+sentence-next
 o-o
 But getting
 o-o
@@ -1363,6 +1412,7 @@ end-lyric
 
 ambee sings-damien amenn
 Wait.
+sentence-next
 o-o
 What about the
 o-o
@@ -1389,6 +1439,7 @@ ambee sings-mathprof amenn
 The statewide seats
 o-o
 take care of that.
+sentence-next
 o-o
 If a party
 o-o
@@ -1415,6 +1466,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 It's not a trick.
+sentence-next
 o-o
 It's math,
 o-o
@@ -1431,6 +1483,7 @@ end-lyric
 
 ambee sings-damien amenn
 Wow!
+sentence-next
 o-o
 So now,
 o-o
@@ -1439,6 +1492,7 @@ o-o
 that elections
 o-o
 become fair.
+sentence-next
 o-o
 What will change,
 o-o
@@ -1455,6 +1509,7 @@ o-o
 unfortunate
 o-o
 poor.
+sentence-next
 o-o
 And us college
 o-o
@@ -1471,6 +1526,7 @@ ambee sings-mathprof amenn
 The answer to that
 o-o
 I don't know.
+sentence-next
 o-o
 For that you need
 o-o
@@ -1489,8 +1545,10 @@ end-lyric
 
 ambee sings-desha amenn
 Ah.
+sentence-next
 o-o
 Voting's a game!
+sentence-next
 o-o
 That makes sense.
 end-lyric
@@ -1503,14 +1561,17 @@ o-o
 it's difficult to
 o-o
 describe.
+sentence-next
 o-o
 But it includes
 o-o
 vote counting.
+sentence-next
 o-o
 I do know someone
 o-o
 with those credentials.
+sentence-next
 o-o
 But he's at a
 o-o
@@ -1553,6 +1614,7 @@ ambee sings-desha amenn
 The history
 o-o
 of economics?
+sentence-next
 o-o
 That sounds like
 o-o
@@ -1567,6 +1629,7 @@ o-o
 is indeed boring,
 o-o
 for most of us.
+sentence-next
 o-o
 But that's
 o-o
@@ -1579,6 +1642,7 @@ o-o
 which is what
 o-o
 he teaches.
+sentence-next
 o-o
 That's the study
 o-o
@@ -1593,6 +1657,7 @@ ambee sings-damien amenn
 I hate
 o-o
 history.
+sentence-next
 o-o
 As much as
 o-o
@@ -1611,6 +1676,7 @@ end-lyric
 
 ambee sings-damien amenn
 Can that be done?
+sentence-next
 o-o
 'N economics,
 o-o
@@ -1625,6 +1691,7 @@ o-o
 some history about
 o-o
 mathematics.
+sentence-next
 o-o
 As for math in
 o-o
@@ -1633,6 +1700,7 @@ o-o
 it's just different
 o-o
 names for money.
+sentence-next
 o-o
 Like tax, debt,
 o-o
@@ -1655,6 +1723,7 @@ o-o
 payola,
 o-o
 and ...
+sentence-next
 o-o
 campaign contributions.
 end-lyric

@@ -34,6 +34,7 @@ end-lyric
 
 ambee sings-damien amenn
 Nice to meet ya.
+sentence-next
 o-o
 I'm name-damien no-space .
 end-lyric
@@ -66,6 +67,7 @@ end-lyric
 
 ambee sings-damien amenn
 Yeah I know.
+sentence-next
 o-o
 My mom's
 o-o
@@ -146,6 +148,7 @@ end-lyric
 
 ambee sings-desha amenn
 Damn right!
+sentence-next
 o-o
 It's so so so
 o-o
@@ -172,8 +175,10 @@ end-lyric
 
 ambee sings-damien amenn
 Not goats.
+sentence-next
 o-o
 Not spitting.
+sentence-next
 o-o
 Vote splitting.
 end-lyric
@@ -182,6 +187,7 @@ ambee sings-desha amenn
 Splitting votes
 o-o
 in half?
+sentence-next
 o-o
 That's a half hyphen-here wit
 o-o
@@ -192,18 +198,21 @@ ambee sings-damien amenn
 Not splitting
 o-o
 ballots.
+sentence-next
 o-o
 Splitting voters.
 end-lyric
 
 ambee sings-desha amenn
 That's murder.
+sentence-next
 o-o
 Yes politicians
 o-o
 do murder
 o-o
 innocent people.
+sentence-next
 o-o
 They write laws
 o-o
@@ -226,6 +235,7 @@ ambee sings-desha amenn
 Then it sounds quite
 o-o
 esoteric.
+sentence-next
 o-o
 What's important
 o-o
@@ -250,6 +260,7 @@ o-o
 so selfish
 o-o
 and unfair.
+sentence-next
 o-o
 It's like leavin'
 o-o
@@ -270,6 +281,7 @@ o-o
 of times worse
 o-o
 than that.
+sentence-next
 o-o
 Corruption
 o-o
@@ -286,6 +298,7 @@ o-o
 and slow death
 o-o
 by fast food.
+sentence-next
 o-o
 Corruption
 o-o
@@ -316,6 +329,7 @@ o-o
 who protect
 o-o
 us.
+sentence-next
 o-o
 And corruption
 o-o
@@ -324,12 +338,14 @@ o-o
 to cars killing
 o-o
 pedestrians.
+sentence-next
 o-o
 And the companion
 o-o
 of corruption
 o-o
 is despair.
+sentence-next
 o-o
 Life is so unfair.
 end-lyric
@@ -390,6 +406,7 @@ end-lyric
 
 ambee sings-damien amenn
 I dunno.
+sentence-next
 o-o
 This is just a
 o-o
@@ -402,6 +419,7 @@ ambee sings-desha amenn
 Generic is dead,
 o-o
 like the people here.
+sentence-next
 o-o
 Let's bring them
 o-o
@@ -416,6 +434,7 @@ end-lyric
 
 ambee sings-desha amenn
 Not those thems.
+sentence-next
 o-o
 You describe
 o-o
@@ -440,6 +459,7 @@ o-o
 business
 o-o
 owners.
+sentence-next
 o-o
 The other two
 o-o
@@ -482,10 +502,12 @@ o-o
 whose nose grows
 o-o
 when he lies.
+sentence-next
 o-o
 And Oscar's last
 o-o
 name is the Grouch.
+sentence-next
 o-o
 He lives in trash
 o-o
@@ -534,20 +556,24 @@ o-o
 the cool ones,
 o-o
 obviously.
+sentence-next
 o-o
 'Cause voters want
 o-o
 less corruption.
+sentence-next
 o-o
 Voters don't want
 o-o
 Pinoke,
 o-o
 don't want Oscar.
+sentence-next
 o-o
 Don't want the
 o-o
 cruel ones.
+sentence-next
 o-o
 They're the puppets
 o-o
@@ -558,18 +584,21 @@ o-o
 large hyphen-here mouthed
 o-o
 bass.
+sentence-next
 o-o
 The turds.
 end-lyric
 
 ambee sings-damien amenn
 Right.
+sentence-next
 o-o
 The voters
 o-o
 get who they
 o-o
 favored.
+sentence-next
 o-o
 But then
 o-o
@@ -586,12 +615,15 @@ o-o
 their money
 o-o
 buys ads.
+sentence-next
 o-o
 Filled with lies.
+sentence-next
 o-o
 Ones that
 o-o
 hypnotize.
+sentence-next
 o-o
 The way a car's
 o-o
@@ -620,6 +652,7 @@ o-o
 how you think
 o-o
 it goes.
+sentence-next
 o-o
 Why money
 o-o
@@ -642,6 +675,7 @@ o-o
 which puppet gets
 o-o
 their dollars.
+sentence-next
 o-o
 If they like
 o-o
@@ -670,6 +704,7 @@ o-o
 to make Oscar
 o-o
 a grouch.
+sentence-next
 o-o
 What if he
 o-o
@@ -680,10 +715,12 @@ ambee sings-damien amenn
 They point out
 o-o
 he'll lose.
+sentence-next
 o-o
 Without their
 o-o
 funds.
+sentence-next
 o-o
 Or they bribe him
 o-o
@@ -708,6 +745,7 @@ o-o
 subscription
 o-o
 to Grouch Magazine.
+sentence-next
 o-o
 That'd leave
 o-o
@@ -716,6 +754,7 @@ o-o
 Hypatia
 o-o
 and Barack.
+sentence-next
 o-o
 Who'd win that
 o-o
@@ -732,6 +771,7 @@ o-o
 between Barack
 o-o
 and Hypatia.
+sentence-next
 o-o
 That would make
 o-o
@@ -760,6 +800,7 @@ o-o
 Hypatia
 o-o
 and Barack.
+sentence-next
 o-o
 Plus photos
 o-o
@@ -774,6 +815,7 @@ o-o
 look normal size
 o-o
 to hide his lies.
+sentence-next
 o-o
 That'd tip the
 o-o
@@ -786,14 +828,17 @@ end-lyric
 
 ambee sings-desha amenn
 A puppet wins.
+sentence-next
 o-o
 That's unfair!
+sentence-next
 o-o
 The winner's
 o-o
 chosen by
 o-o
 millionaires.
+sentence-next
 o-o
 Yet,
 o-o
@@ -808,8 +853,10 @@ ambee sings-damien amenn
 That's what I've
 o-o
 figured out.
+sentence-next
 o-o
 But now I'm stuck.
+sentence-next
 o-o
 I dunno how
 o-o
@@ -822,6 +869,7 @@ ambee sings-desha amenn
 We can call attention
 o-o
 to this deception.
+sentence-next
 o-o
 We'll get voters
 o-o
@@ -864,6 +912,7 @@ o-o
 yet another
 o-o
 candidate.
+sentence-next
 o-o
 One who also
 o-o
@@ -876,6 +925,7 @@ ambee sings-desha amenn
 Let's name this one
 o-o
 Gandhi.
+sentence-next
 o-o
 Yes this
 o-o
@@ -884,6 +934,7 @@ o-o
 tactic's
 o-o
 difficult to beat.
+sentence-next
 o-o
 It splits the voters
 o-o
@@ -906,6 +957,7 @@ o-o
 begin-italics primary end-italics
 o-o
 election.
+sentence-next
 o-o
 Then in the
 o-o
@@ -936,6 +988,7 @@ o-o
 political
 o-o
 parties.
+sentence-next
 o-o
 This is quite
 o-o
@@ -980,6 +1033,7 @@ ambee sings-desha amenn
 I thought that
 o-o
 was a good thing.
+sentence-next
 o-o
 But so far
 o-o
@@ -988,6 +1042,7 @@ o-o
 to parties on the
 o-o
 liberal side.
+sentence-next
 o-o
 While conservative
 o-o
@@ -1020,6 +1075,7 @@ o-o
 into splitting
 o-o
 their votes.
+sentence-next
 o-o
 While conservatives
 o-o
@@ -1040,6 +1096,7 @@ o-o
 in political
 o-o
 science.
+sentence-next
 o-o
 But they never
 o-o
@@ -1062,6 +1119,7 @@ o-o
 behind
 o-o
 numbers.
+sentence-next
 o-o
 'N math to me
 o-o
@@ -1080,6 +1138,7 @@ o-o
 elephants, and
 o-o
 rhinoceros ...
+sentence-next
 o-o
 es, and
 o-o
@@ -1106,12 +1165,15 @@ ambee sings-desha amenn
 At the age of
 o-o
 fourteen, ...
+sentence-next
 o-o
 my mother died.
+sentence-next
 o-o
 And then
 o-o
 my father lied.
+sentence-next
 o-o
 He told me
 o-o
@@ -1132,16 +1194,19 @@ o-o
 like to lose
 o-o
 someone so close.
+sentence-next
 o-o
 While still young.
 end-lyric
 
 ambee sings-desha amenn
 Neither can I.
+sentence-next
 o-o
 It's still
 o-o
 surrealistic.
+sentence-next
 o-o
 Then just six
 o-o
@@ -1152,8 +1217,10 @@ o-o
 tragic death
 o-o
 assaulted me.
+sentence-next
 o-o
 ...
+sentence-next
 o-o
 My brother
 o-o
@@ -1172,6 +1239,7 @@ end-lyric
 
 ambee sings-desha amenn
 I almost lost hope.
+sentence-next
 o-o
 Then I realized
 o-o
@@ -1182,6 +1250,7 @@ o-o
 incompetent city
 o-o
 officials.
+sentence-next
 o-o
 They failed to time
 o-o
@@ -1190,10 +1259,12 @@ o-o
 signals to give
 o-o
 walkers a head start.
+sentence-next
 o-o
 Before the green
 o-o
 light for cars.
+sentence-next
 o-o
 And I realized,
 o-o
@@ -1234,6 +1305,7 @@ o-o
 for father
 o-o
 and me.
+sentence-next
 o-o
 Over time I traced
 o-o
@@ -1254,6 +1326,7 @@ end-lyric
 
 ambee sings-damien amenn
 Yeah, corruption.
+sentence-next
 o-o
 I wouldn't know
 o-o
@@ -1264,6 +1337,7 @@ o-o
 tons of that
 o-o
 ...
+sentence-next
 o-o
 shit.
 end-lyric
@@ -1326,12 +1400,14 @@ o-o
 and
 o-o
 wickedness.
+sentence-next
 o-o
 Not to mention
 o-o
 lying,
 o-o
 ...
+sentence-next
 o-o
 and littering.
 end-lyric
@@ -1396,6 +1472,7 @@ o-o
 will poke its own poop
 o-o
 with his snout.
+sentence-next
 o-o
 She picks it up
 o-o
@@ -1404,6 +1481,7 @@ o-o
 don't poke the poop
 o-o
 with begin-italics their end-italics snouts.
+sentence-next
 o-o
 In return,
 o-o
@@ -1416,6 +1494,7 @@ o-o
 picking up their
 o-o
 dog's poop.
+sentence-next
 o-o
 It's a
 o-o
@@ -1424,6 +1503,7 @@ o-o
 scooper
 o-o
 loop.
+sentence-next
 o-o
 And the same
 o-o
@@ -1452,6 +1532,7 @@ ambee sings-damien amenn
 What the
 o-o
 ...
+sentence-next
 o-o
 poo?
 end-lyric
@@ -1470,12 +1551,14 @@ o-o
 and scoop
 o-o
 their dog's poop.
+sentence-next
 o-o
 It's an example
 o-o
 of corruption
 o-o
 in general.
+sentence-next
 o-o
 It's when someone
 o-o
@@ -1506,6 +1589,7 @@ o-o
 they inflict
 o-o
 on others.
+sentence-next
 o-o
 I fight to
 o-o
@@ -1526,10 +1610,12 @@ o-o
 in
 o-o
 ...
+sentence-next
 o-o
 super pupper
 o-o
 ...
+sentence-next
 o-o
 pooper
 o-o
@@ -1542,6 +1628,7 @@ ambee sings-desha amenn
 Fighting against
 o-o
 corruption.
+sentence-next
 o-o
 I've got
 o-o
@@ -1568,14 +1655,17 @@ end-lyric
 
 ambee sings-desha amenn
 It's a graphic.
+sentence-next
 o-o
 It reminds me
 o-o
 to kick ass.
+sentence-next
 o-o
 To fight against
 o-o
 corruption.
+sentence-next
 o-o
 And never
 o-o
@@ -1592,6 +1682,7 @@ ambee sings-desha amenn
 I've hit a
 o-o
 turning point.
+sentence-next
 o-o
 Originally
 o-o
@@ -1608,6 +1699,7 @@ o-o
 was the
 o-o
 opposite.
+sentence-next
 o-o
 But it's not
 o-o
@@ -1628,6 +1720,7 @@ ambee sings-desha amenn
 Then I fought against
 o-o
 the Republican party.
+sentence-next
 o-o
 But recently
 o-o
@@ -1658,6 +1751,7 @@ ambee sings-damien amenn
 I too just learned
 o-o
 about this trick.
+sentence-next
 o-o
 And that the fight
 o-o
@@ -1670,6 +1764,7 @@ o-o
 distraction
 o-o
 tactic.
+sentence-next
 o-o
 It's like what
 o-o
@@ -1720,12 +1815,13 @@ o-o
 my anger's
 o-o
 getting thick.
+sentence-next
 o-o
 So I need to
 o-o
 figure out,
 o-o
-and soon,
+and quick,
 o-o
 whose butt
 o-o
@@ -1746,6 +1842,7 @@ o-o
 that can tip
 o-o
 them over?
+sentence-next
 o-o
 Not that I've
 o-o
@@ -1768,6 +1865,7 @@ end-lyric
 
 ambee sings-desha amenn
 Is it padlocked?
+sentence-next
 o-o
 I can pick
 o-o
@@ -1788,6 +1886,7 @@ end-lyric
 
 ambee sings-damien amenn
 Math.
+sentence-next
 o-o
 It's blockin' me
 o-o
@@ -1806,6 +1905,7 @@ ambee sings-desha amenn
 Math is dreary
 o-o
 to me.
+sentence-next
 o-o
 Yet I got
 o-o
@@ -1828,6 +1928,7 @@ o-o
 to commit
 o-o
 hari-kari.
+sentence-next
 o-o
 What d'you wanna
 o-o
@@ -1852,6 +1953,7 @@ ambee sings-desha amenn
 I don't know
 o-o
 how to get there.
+sentence-next
 o-o
 But I do know
 o-o
@@ -1894,6 +1996,7 @@ ambee sings-desha amenn
 Yes, at the state
 o-o
 university.
+sentence-next
 o-o
 That's where I got
 o-o
@@ -1906,6 +2009,7 @@ o-o
 with even
 o-o
 community college.
+sentence-next
 o-o
 Textbooks hold
 o-o
@@ -1940,6 +2044,7 @@ ambee sings-damien amenn
 But I'm not
 o-o
 brainy.
+sentence-next
 o-o
 Fighting
 o-o
@@ -1960,6 +2065,7 @@ ambee sings-damien amenn
 I'm short
 o-o
 'n not handsome.
+sentence-next
 o-o
 So workin' hard
 o-o
@@ -2006,6 +2112,7 @@ end-lyric
 
 ambee sings-damien amenn
 Whoa!
+sentence-next
 o-o
 Say what?
 end-lyric
@@ -2018,10 +2125,12 @@ end-lyric
 
 ambee sings-damien amenn
 Are you two happy?
+sentence-next
 o-o
 You and your
 o-o
 ...
+sentence-next
 o-o
 Willie?
 end-lyric
@@ -2030,6 +2139,7 @@ ambee sings-desha amenn
 You just need
 o-o
 to study.
+sentence-next
 o-o
 School's not
 o-o
@@ -2052,8 +2162,10 @@ end-lyric
 
 ambee sings-damien amenn
 Only for a bit.
+sentence-next
 o-o
 Then my eyes hurt.
+sentence-next
 o-o
 The words on a
 o-o
@@ -2120,6 +2232,7 @@ o-o
 to where you can
 o-o
 find out more.
+sentence-next
 o-o
 Anyways,
 o-o
@@ -2152,6 +2265,7 @@ ambee sings-desha amenn
 I think she can
 o-o
 be OK with that.
+sentence-next
 o-o
 'N maybe I can
 o-o
@@ -2164,6 +2278,7 @@ end-lyric
 
 ambee sings-damien amenn
 It's what I need.
+sentence-next
 o-o
 What d'you need?
 end-lyric
@@ -2184,22 +2299,26 @@ o-o
 and money
 o-o
 we lacked.
+sentence-next
 o-o
 Then the world
 o-o
 turned upside down.
+sentence-next
 o-o
 My smile
 o-o
 became a
 o-o
 frown.
+sentence-next
 o-o
 I saw suffering
 o-o
 that I hadn't seen
 o-o
 before.
+sentence-next
 o-o
 And I traced
 o-o
@@ -2210,8 +2329,10 @@ o-o
 corruption in
 o-o
 government.
+sentence-next
 o-o
 Those ...
+sentence-next
 o-o
 grrr
 o-o
@@ -2222,6 +2343,7 @@ o-o
 of greedy
 o-o
 money huggers.
+sentence-next
 o-o
 Now I want to
 o-o
@@ -2236,6 +2358,7 @@ end-lyric
 
 ambee sings-damien amenn
 Which ones?
+sentence-next
 o-o
 The politicians
 o-o
@@ -2256,12 +2379,14 @@ o-o
 from what I
 o-o
 can tell.
+sentence-next
 o-o
 They know money
 o-o
 works like
 o-o
 puppet strings.
+sentence-next
 o-o
 But they're
 o-o
@@ -2270,6 +2395,7 @@ o-o
 vote splitting
 o-o
 and blocking tricks.
+sentence-next
 o-o
 Can we fight
 o-o
@@ -2286,6 +2412,7 @@ o-o
 Cluelessness Now end-italics
 o-o
 I will.
+sentence-next
 o-o
 I'll fight against
 o-o
@@ -2300,6 +2427,7 @@ o-o
 the circus
 o-o
 ...
+sentence-next
 o-o
 of elephants
 o-o
@@ -2308,6 +2436,7 @@ o-o
 and stupid
 o-o
 goats, ...
+sentence-next
 o-o
 I mean
 o-o
@@ -2326,6 +2455,7 @@ o-o
 to shine a light
 o-o
 on corruption.
+sentence-next
 o-o
 I want a light
 o-o
@@ -2340,6 +2470,7 @@ o-o
 puppets
 o-o
 cannot fight back.
+sentence-next
 o-o
 Not with their wealth,
 o-o
@@ -2368,26 +2499,32 @@ o-o
 political
 o-o
 candidates.
+sentence-next
 o-o
 I know that light
 o-o
 casts out darkness.
+sentence-next
 o-o
 In that light
 o-o
 the path to better times
 o-o
 will appear.
+sentence-next
 o-o
 Until that happens
 o-o
 I'll keep on
 o-o
 fighting.
+sentence-next
 o-o
 Fighting with words.
+sentence-next
 o-o
 Fighting with deeds.
+sentence-next
 o-o
 Doing whatever it takes
 o-o
@@ -2402,6 +2539,7 @@ end-lyric
 
 ambee sings-damien amenn
 Whatever it takes?
+sentence-next
 o-o
 Yeah, it seems
 o-o
@@ -2420,6 +2558,7 @@ o-o
 against your fear
 o-o
 of math.
+sentence-next
 o-o
 Let's do this!
 end-lyric
@@ -2428,6 +2567,7 @@ ambee sings-damien amenn
 I'm ready
 o-o
 to fight!
+sentence-next
 o-o
 Let's find out
 o-o
@@ -2436,10 +2576,12 @@ o-o
 the world
 o-o
 right side up.
+sentence-next
 o-o
 I just hope there's
 o-o
 no evil fractions.
+sentence-next
 o-o
 I'd rather
 o-o
@@ -2448,6 +2590,7 @@ o-o
 pirates or
 o-o
 snakes.
+sentence-next
 o-o
 Or even a
 o-o
@@ -2462,6 +2605,7 @@ ambee sings-desha amenn
 Rise up
 o-o
 dead spirits!
+sentence-next
 o-o
 Help us
 o-o

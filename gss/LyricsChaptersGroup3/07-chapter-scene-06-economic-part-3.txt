@@ -14,6 +14,7 @@ o-o
 all hyphen-here you hyphen-here can hyphen-here eat
 o-o
 buffet.
+sentence-next
 o-o
 Apparently
 o-o
@@ -40,10 +41,12 @@ end-lyric
 
 ambee sings-damien amenn
 Lots of hot air?
+sentence-next
 o-o
 There's lots of it
 o-o
 in politics.
+sentence-next
 o-o
 It's in
 o-o
@@ -56,6 +59,7 @@ ambee sings-desha amenn
 No,
 o-o
 you airhead!
+sentence-next
 o-o
 A feedback loop
 o-o
@@ -66,6 +70,7 @@ o-o
 becomes
 o-o
 a circle.
+sentence-next
 o-o
 The first effect
 o-o
@@ -102,6 +107,7 @@ o-o
 kind of
 o-o
 feedback loop.
+sentence-next
 o-o
 Dog owners
 o-o
@@ -116,6 +122,7 @@ o-o
 their own dog's
 o-o
 health.
+sentence-next
 o-o
 Here, in
 o-o
@@ -126,6 +133,7 @@ o-o
 feedback loops,
 o-o
 monetary ...
+sentence-next
 o-o
 money hyphen-here based
 o-o
@@ -160,6 +168,7 @@ end-lyric
 
 ambee sings-damien amenn
 I see.
+sentence-next
 o-o
 Dog owners,
 o-o
@@ -174,6 +183,7 @@ o-o
 their dog
 o-o
 can sniff.
+sentence-next
 o-o
 But that's
 o-o
@@ -182,6 +192,7 @@ o-o
 other dog
 o-o
 owners.
+sentence-next
 o-o
 There's no
 o-o
@@ -206,12 +217,16 @@ end-lyric
 
 ambee sings-damien amenn
 Hey!
+sentence-next
 o-o
 ...
+sentence-next
 o-o
 Wait a moment.
+sentence-next
 o-o
 ...
+sentence-next
 o-o
 Feedback loops
 o-o
@@ -224,12 +239,15 @@ o-o
 oversized slices
 o-o
 of economic pie!
+sentence-next
 o-o
 They use lawyers.
+sentence-next
 o-o
 And they control
 o-o
 news sources.
+sentence-next
 o-o
 And they use money
 o-o
@@ -242,6 +260,7 @@ o-o
 control
 o-o
 politicians.
+sentence-next
 o-o
 They use
 o-o
@@ -256,6 +275,7 @@ o-o
 slices of
 o-o
 cherry pie.
+sentence-next
 o-o
 And they don't
 o-o
@@ -266,6 +286,7 @@ o-o
 people
 o-o
 suffering.
+sentence-next
 o-o
 No wonder
 o-o
@@ -294,10 +315,12 @@ o-o
 depressing and
 o-o
 discouraging.
+sentence-next
 o-o
 I need some
 o-o
 optimism.
+sentence-next
 o-o
 Is there even
 o-o
@@ -306,6 +329,7 @@ o-o
 problems we face
 o-o
 can be solved?
+sentence-next
 o-o
 Like global
 o-o
@@ -324,6 +348,7 @@ o-o
 a big environmental
 o-o
 dilemma.
+sentence-next
 o-o
 They predicted
 o-o
@@ -332,10 +357,12 @@ o-o
 would be knee high
 o-o
 in horse shit.
+sentence-next
 o-o
 Yet that didn't
 o-o
 happen.
+sentence-next
 o-o
 Not one bit.
 end-lyric
@@ -360,14 +387,17 @@ o-o
 ankle hyphen-here deep in
 o-o
 horse shit?
+sentence-next
 o-o
 Except it's
 o-o
 invisible?
+sentence-next
 o-o
 This is
 o-o
 optimistic?
+sentence-next
 o-o
 I was hoping
 o-o
@@ -384,6 +414,7 @@ ambee sings-econhist amenn
 You've mentioned
 o-o
 low salaries.
+sentence-next
 o-o
 Those would rise
 o-o
@@ -402,6 +433,7 @@ ambee sings-damien amenn
 What would that
 o-o
 look like?
+sentence-next
 o-o
 How would it work?
 end-lyric
@@ -456,6 +488,7 @@ end-lyric
 
 ambee sings-econhist amenn
 Indeed it would.
+sentence-next
 o-o
 Of course it has
 o-o
@@ -474,6 +507,7 @@ o-o
 bright future
 o-o
 I'd like to see!
+sentence-next
 o-o
 Is there a way
 o-o
@@ -504,6 +538,7 @@ end-lyric
 
 ambee sings-damien amenn
 begin-italics Median end-italics no-space ?
+sentence-next
 o-o
 Isn't that the
 o-o
@@ -516,12 +551,14 @@ ambee sings-desha amenn
 It's also
 o-o
 a math word.
+sentence-next
 o-o
 Here it means the
 o-o
 half hyphen-here way
 o-o
 salary.
+sentence-next
 o-o
 So he's saying
 o-o
@@ -552,6 +589,7 @@ o-o
 who get the
 o-o
 lower salaries.
+sentence-next
 o-o
 So those businesses
 o-o
@@ -564,6 +602,7 @@ end-lyric
 
 ambee sings-damien amenn
 Brilliant!
+sentence-next
 o-o
 name-desha
 o-o
@@ -574,6 +613,7 @@ end-lyric
 
 ambee sings-desha amenn
 You're right.
+sentence-next
 o-o
 That would be
 o-o
@@ -626,6 +666,7 @@ o-o
 are we failing
 o-o
 to see?
+sentence-next
 o-o
 What
 o-o
@@ -652,6 +693,7 @@ o-o
 is pairwise
 o-o
 vote counting.
+sentence-next
 o-o
 That will end
 o-o
@@ -690,6 +732,7 @@ o-o
 begin-italics game theory end-italics no-space ,
 o-o
 which I teach.
+sentence-next
 o-o
 But those details
 o-o
@@ -700,6 +743,7 @@ o-o
 dog pooper
 o-o
 scooper loop.
+sentence-next
 o-o
 name-mathprof
 o-o
@@ -726,12 +770,14 @@ o-o
 economic
 o-o
 prosperity.
+sentence-next
 o-o
 Because of less
 o-o
 money hyphen-here draining
 o-o
 corruption.
+sentence-next
 o-o
 What else will change
 o-o
@@ -834,12 +880,14 @@ o-o
 rating that
 o-o
 will reduce crime.
+sentence-next
 o-o
 Plus I've got
 o-o
 a personal
 o-o
 guess.
+sentence-next
 o-o
 There will be
 o-o
@@ -856,6 +904,7 @@ end-lyric
 
 ambee sings-damien amenn
 Wow!
+sentence-next
 o-o
 It makes my
 o-o
@@ -884,12 +933,14 @@ o-o
 movies about
 o-o
 ...
+sentence-next
 o-o
 oh.
 end-lyric
 
 ambee sings-econhist amenn
 I read.
+sentence-next
 o-o
 It's a form of
 o-o
@@ -908,6 +959,7 @@ ambee sings-econhist amenn
 I mostly read
 o-o
 non hyphen-here fiction.
+sentence-next
 o-o
 I skip over
 o-o
@@ -922,6 +974,7 @@ o-o
 or what celebrities
 o-o
 are promoting.
+sentence-next
 o-o
 Instead I like
 o-o
@@ -936,6 +989,7 @@ o-o
 lots of
 o-o
 history.
+sentence-next
 o-o
 And when there's
 o-o
@@ -966,6 +1020,7 @@ end-lyric
 
 ambee sings-desha amenn
 Let me guess.
+sentence-next
 o-o
 Feedback loops are
 o-o
@@ -986,6 +1041,7 @@ o-o
 of feedback loops
 o-o
 blocking progress.
+sentence-next
 o-o
 What's the
 o-o
@@ -1000,6 +1056,7 @@ end-lyric
 
 ambee sings-econhist amenn
 There are many.
+sentence-next
 o-o
 As you've discovered,
 o-o
@@ -1016,6 +1073,7 @@ o-o
 businesses
 o-o
 in political power.
+sentence-next
 o-o
 end-lyric
 
@@ -1023,6 +1081,7 @@ ambee sings-desha amenn
 Ah,
 o-o
 I think I see.
+sentence-next
 o-o
 It's vote
 o-o
@@ -1043,6 +1102,7 @@ o-o
 one nominee
 o-o
 in each party.
+sentence-next
 o-o
 And having
 o-o
@@ -1077,6 +1137,7 @@ o-o
 presidential
 o-o
 election.
+sentence-next
 o-o
 And vote
 o-o
@@ -1095,6 +1156,7 @@ o-o
 the party's
 o-o
 nomination.
+sentence-next
 o-o
 And it blocks
 o-o
@@ -1135,6 +1197,7 @@ o-o
 general
 o-o
 elections.
+sentence-next
 o-o
 So it's that
 o-o
@@ -1145,6 +1208,7 @@ o-o
 evil
 o-o
 enemy.
+sentence-next
 o-o
 And why Congress
 o-o
@@ -1187,6 +1251,7 @@ o-o
 will reduce
 o-o
 their income.
+sentence-next
 o-o
 Such as
 o-o
@@ -1227,6 +1292,7 @@ o-o
 for use as
 o-o
 fuel.
+sentence-next
 o-o
 The process
 o-o
@@ -1235,6 +1301,7 @@ o-o
 as the
 o-o
 energy source.
+sentence-next
 o-o
 It would get
 o-o
@@ -1265,6 +1332,7 @@ ambee sings-econhist amenn
 Yes, but much more
 o-o
 efficiently.
+sentence-next
 o-o
 Especially
 o-o
@@ -1311,6 +1379,7 @@ o-o
 economic
 o-o
 incentive.
+sentence-next
 o-o
 The people who
 o-o
@@ -1323,6 +1392,7 @@ o-o
 to do that
 o-o
 research.
+sentence-next
 o-o
 And oil
 o-o
@@ -1379,6 +1449,7 @@ o-o
 were only making slow
 o-o
 progress.
+sentence-next
 o-o
 But two young
 o-o
@@ -1417,10 +1488,12 @@ o-o
 so there was no way
 o-o
 to see a timer.
+sentence-next
 o-o
 Yet the chemistry
 o-o
 was very time hyphen-here critical.
+sentence-next
 o-o
 So they sang songs together
 o-o
@@ -1471,6 +1544,7 @@ end-lyric
 
 ambee sings-econhist amenn
 Yes.
+sentence-next
 o-o
 Look for a way
 o-o
@@ -1481,6 +1555,7 @@ o-o
 that block fairer
 o-o
 voting.
+sentence-next
 o-o
 Drill a hole through
 o-o
@@ -1501,6 +1576,7 @@ o-o
 civilization
 o-o
 is waiting for.
+sentence-next
 o-o
 Then voters
 o-o
@@ -1509,6 +1585,7 @@ o-o
 leaders who will
 o-o
 be begin-italics their end-italics puppets.
+sentence-next
 o-o
 Until then
 o-o
@@ -1519,6 +1596,7 @@ o-o
 of what you call
 o-o
 the political down.
+sentence-next
 o-o
 Many of them
 o-o
@@ -1547,6 +1625,7 @@ o-o
 opposing
 o-o
 good feedback loops.
+sentence-next
 o-o
 Especially
 o-o
@@ -1571,6 +1650,7 @@ o-o
 itself is a
 o-o
 feedback loop.
+sentence-next
 o-o
 It yields
 o-o
@@ -1585,12 +1665,14 @@ o-o
 monarchy and
 o-o
 dictatorship.
+sentence-next
 o-o
 That makes
 o-o
 oppressed people
 o-o
 jealous.
+sentence-next
 o-o
 That jealousy
 o-o
@@ -1617,6 +1699,7 @@ end-lyric
 
 ambee sings-desha amenn
 Wow!
+sentence-next
 o-o
 Jealousy
 o-o
@@ -1649,6 +1732,7 @@ o-o
 or lots of
 o-o
 disadvantages.
+sentence-next
 o-o
 But it depends
 o-o
@@ -1661,6 +1745,7 @@ o-o
 advantage
 o-o
 or disadvantage.
+sentence-next
 o-o
 It can even be
 o-o
@@ -1679,6 +1764,7 @@ o-o
 higher than
 o-o
 usual salaries.
+sentence-next
 o-o
 That increased
 o-o
@@ -1741,6 +1827,7 @@ o-o
 feedback loops
 o-o
 to learn about.
+sentence-next
 o-o
 And yet
 o-o
@@ -1757,6 +1844,7 @@ o-o
 I've learned
 o-o
 today.
+sentence-next
 o-o
 About the
 o-o
@@ -1785,6 +1873,7 @@ o-o
 together,
 o-o
 here's a thought.
+sentence-next
 o-o
 Voting,
 o-o
@@ -1815,6 +1904,7 @@ o-o
 more of this,
 o-o
 and less of that.
+sentence-next
 o-o
 Alas, it's still
 o-o
@@ -1823,6 +1913,7 @@ o-o
 mumbling stage
 o-o
 of communication.
+sentence-next
 o-o
 But taxes,
 o-o
@@ -1833,6 +1924,7 @@ end-lyric
 
 ambee sings-desha amenn
 I see!
+sentence-next
 o-o
 It's a way
 o-o
@@ -1863,6 +1955,7 @@ o-o
 funny games
 o-o
 with pigs.
+sentence-next
 o-o
 And higher
 o-o
@@ -1891,6 +1984,7 @@ o-o
 real hyphen-here estate
 o-o
 developers.
+sentence-next
 o-o
 And Wall Street
 o-o
@@ -1909,6 +2003,7 @@ end-lyric
 
 ambee sings-damien amenn
 Oh, that makes sense.
+sentence-next
 o-o
 Now hopefully
 o-o
@@ -1933,24 +2028,29 @@ o-o
 business
 o-o
 concept.
+sentence-next
 o-o
 So here's a test.
+sentence-next
 o-o
 But don't
 o-o
 get stressed.
+sentence-next
 o-o
 It'll
 o-o
 stretch
 o-o
 your mind.
+sentence-next
 o-o
 What do these
 o-o
 people have
 o-o
 in common?
+sentence-next
 o-o
 Steve Jobs,
 o-o
@@ -1981,6 +2081,7 @@ ambee sings-damien amenn
 They got rich
 o-o
 through tech.
+sentence-next
 o-o
 Technology.
 end-lyric
@@ -2015,6 +2116,7 @@ end-lyric
 
 ambee sings-damien amenn
 Ah yes.
+sentence-next
 o-o
 Steve Jobs
 o-o
@@ -2039,6 +2141,7 @@ o-o
 have been called the
 o-o
 Apple One.
+sentence-next
 o-o
 And Apple hired
 o-o
@@ -2061,6 +2164,7 @@ end-lyric
 
 ambee sings-econhist amenn
 Yes, Paul Allen.
+sentence-next
 o-o
 They bought code
 o-o
@@ -2077,6 +2181,7 @@ o-o
 behind that
 o-o
 product.
+sentence-next
 o-o
 Later there were
 o-o
@@ -2123,6 +2228,7 @@ o-o
 trick part of
 o-o
 the question.
+sentence-next
 o-o
 Who are the
 o-o
@@ -2155,8 +2261,10 @@ ambee sings-damien amenn
 I only know
 o-o
 one of those.
+sentence-next
 o-o
 Nikola Tesla.
+sentence-next
 o-o
 He helped
 o-o
@@ -2179,6 +2287,7 @@ o-o
 electrical
 o-o
 power grid system.
+sentence-next
 o-o
 Yet Tesla also
 o-o
@@ -2193,6 +2302,7 @@ o-o
 that Marconi
 o-o
 commercialized.
+sentence-next
 o-o
 And Tesla
 o-o
@@ -2255,6 +2365,7 @@ o-o
 who do the work
 o-o
 get left out.
+sentence-next
 o-o
 Both from profits
 o-o
@@ -2273,6 +2384,7 @@ o-o
 is understanding
 o-o
 cause and effect.
+sentence-next
 o-o
 And now do you see
 o-o
@@ -2319,6 +2431,7 @@ end-lyric
 
 ambee sings-econhist amenn
 Yes.
+sentence-next
 o-o
 And after
 o-o
@@ -2337,6 +2450,7 @@ o-o
 create yet more
 o-o
 innovations.
+sentence-next
 o-o
 That keeps the
 o-o
@@ -2353,6 +2467,7 @@ ambee sings-damien amenn
 Is this like
 o-o
 Walt Disney?
+sentence-next
 o-o
 He created
 o-o
@@ -2365,6 +2480,7 @@ ambee sings-econhist amenn
 Excellent
 o-o
 example.
+sentence-next
 o-o
 In his case his
 o-o
@@ -2419,6 +2535,7 @@ o-o
 can be a
 o-o
 monopoly.
+sentence-next
 o-o
 Especially
 o-o
@@ -2457,10 +2574,12 @@ o-o
 money from your
 o-o
 invention.
+sentence-next
 o-o
 Maybe by teaming up
 o-o
 with an entrepreneur.
+sentence-next
 o-o
 You would be
 o-o
@@ -2495,6 +2614,7 @@ end-lyric
 
 ambee sings-econhist amenn
 That's just a start.
+sentence-next
 o-o
 If it's a
 o-o
@@ -2509,6 +2629,7 @@ o-o
 will infringe on
 o-o
 your patent.
+sentence-next
 o-o
 So you have to
 o-o
@@ -2517,12 +2638,14 @@ o-o
 to protect your
 o-o
 monopoly.
+sentence-next
 o-o
 And patent laws
 o-o
 favor big
 o-o
 corporations.
+sentence-next
 o-o
 And China
 o-o
@@ -2535,6 +2658,7 @@ end-lyric
 
 ambee sings-damien amenn
 That sucks.
+sentence-next
 o-o
 Is there a way
 o-o
@@ -2547,6 +2671,7 @@ o-o
 the business
 o-o
 world?
+sentence-next
 o-o
 For someone
 o-o
@@ -2583,16 +2708,19 @@ o-o
 for a patent
 o-o
 attorney.
+sentence-next
 o-o
 You'd get a
 o-o
 patent number.
+sentence-next
 o-o
 You'd add it to
 o-o
 your LinkedIn
 o-o
 profile.
+sentence-next
 o-o
 Then
 o-o
@@ -2615,6 +2743,7 @@ ambee sings-damien amenn
 That path doesn't
 o-o
 yet exist.
+sentence-next
 o-o
 So what should
 o-o
@@ -2635,6 +2764,7 @@ o-o
 creative
 o-o
 geniuses.
+sentence-next
 o-o
 Not until
 o-o
@@ -2661,6 +2791,7 @@ end-lyric
 
 ambee sings-econhist amenn
 Yes, alas.
+sentence-next
 o-o
 Under current
 o-o
@@ -2673,6 +2804,7 @@ o-o
 a creative
 o-o
 genius.
+sentence-next
 o-o
 When that
 o-o
@@ -2713,6 +2845,7 @@ end-lyric
 
 ambee sings-econhist amenn
 It's like with art.
+sentence-next
 o-o
 Thousands of
 o-o
@@ -2725,6 +2858,7 @@ o-o
 very creative
 o-o
 styles.
+sentence-next
 o-o
 But the
 o-o
@@ -2737,6 +2871,7 @@ o-o
 that's not just
 o-o
 different.
+sentence-next
 o-o
 It's also widely
 o-o
@@ -2757,6 +2892,7 @@ o-o
 after the word
 o-o
 creative?
+sentence-next
 o-o
 'Cause the word
 o-o
@@ -2783,6 +2919,7 @@ o-o
 the word
 o-o
 creative.
+sentence-next
 o-o
 And the word
 o-o
@@ -2791,6 +2928,7 @@ o-o
 also gets
 o-o
 misunderstood.
+sentence-next
 o-o
 The value
 o-o
@@ -2819,6 +2957,7 @@ o-o
 business, and
 o-o
 management.
+sentence-next
 o-o
 That's a
 o-o
@@ -2831,8 +2970,10 @@ o-o
 a marathon hyphen-here long
 o-o
 tunnel.
+sentence-next
 o-o
 Is there any hope?
+sentence-next
 o-o
 For a fairer
 o-o
@@ -2841,6 +2982,7 @@ end-lyric
 
 ambee sings-econhist amenn
 Look at history.
+sentence-next
 o-o
 Civilization
 o-o
@@ -2918,6 +3060,7 @@ o-o
 after we adopt
 o-o
 better laws.
+sentence-next
 o-o
 But that requires
 o-o
@@ -2940,6 +3083,7 @@ ambee sings-desha amenn
 I'm discouraged
 o-o
 by the setbacks.
+sentence-next
 o-o
 The ones going on
 o-o
@@ -2954,8 +3098,10 @@ o-o
 there've been
 o-o
 huge setbacks too.
+sentence-next
 o-o
 Much bigger ones.
+sentence-next
 o-o
 The ancient Greeks
 o-o
@@ -2970,6 +3116,7 @@ o-o
 that predicted
 o-o
 eclipses.
+sentence-next
 o-o
 One of those
 o-o
@@ -2996,12 +3143,14 @@ o-o
 Posidonius
 o-o
 or Hipparchus.
+sentence-next
 o-o
 Sadly,
 o-o
 warfare killed
 o-o
 their knowledge.
+sentence-next
 o-o
 Those kinds of
 o-o
@@ -3018,6 +3167,7 @@ o-o
 Islamic
 o-o
 Golden Age.
+sentence-next
 o-o
 In a similar way,
 o-o
@@ -3078,6 +3228,7 @@ o-o
 to make things
 o-o
 better.
+sentence-next
 o-o
 That's where
 o-o
@@ -3092,6 +3243,7 @@ ambee sings-econhist amenn
 Solutions
 o-o
 are waiting.
+sentence-next
 o-o
 World war three
 o-o
@@ -3106,6 +3258,7 @@ o-o
 for self hyphen-here interest
 o-o
 reasons.
+sentence-next
 o-o
 So there's time
 o-o
@@ -3118,6 +3271,7 @@ o-o
 adopted in
 o-o
 elections.
+sentence-next
 o-o
 And doing that
 o-o
@@ -3136,12 +3290,14 @@ o-o
 to get
 o-o
 democracy.
+sentence-next
 o-o
 They had to fight
 o-o
 with physical
 o-o
 weapons.
+sentence-next
 o-o
 And they won
 o-o
@@ -3166,6 +3322,7 @@ o-o
 independence
 o-o
 from England.
+sentence-next
 o-o
 Now the fights
 o-o
@@ -3174,12 +3331,14 @@ o-o
 cyberspace
 o-o
 and in the news.
+sentence-next
 o-o
 Those fights
 o-o
 don't risk
 o-o
 your life.
+sentence-next
 o-o
 And they're
 o-o
@@ -3190,12 +3349,14 @@ ambee sings-desha amenn
 I think I see
 o-o
 some light ahead.
+sentence-next
 o-o
 You've shown us
 o-o
 a path to
 o-o
 better times.
+sentence-next
 o-o
 I guess we just
 o-o
@@ -3206,6 +3367,7 @@ o-o
 feedback
 o-o
 loops.
+sentence-next
 o-o
 The ones that
 o-o
@@ -3232,6 +3394,7 @@ o-o
 things of
 o-o
 value.
+sentence-next
 o-o
 But now my head's
 o-o
@@ -3270,6 +3433,7 @@ end-lyric
 
 ambee sings-damien amenn
 What a pleasure!
+sentence-next
 o-o
 So how can we
 o-o
@@ -3284,14 +3448,17 @@ o-o
 for my future
 o-o
 grandchildren.
+sentence-next
 o-o
 And get it right!
+sentence-next
 o-o
 Less corruption
 o-o
 would help
 o-o
 nearly everyone.
+sentence-next
 o-o
 And the few who
 o-o
@@ -3306,6 +3473,7 @@ o-o
 families won't
 o-o
 suffer.
+sentence-next
 o-o
 And then it will
 o-o
@@ -3318,6 +3486,7 @@ o-o
 suffering is
 o-o
 even worse.
+sentence-next
 o-o
 And that will help
 o-o
@@ -3328,8 +3497,10 @@ o-o
 of my nieces
 o-o
 and nephews.
+sentence-next
 o-o
 They live in India.
+sentence-next
 o-o
 In advance
 o-o
@@ -3378,8 +3549,10 @@ end-lyric
 
 ambee sings-econhist amenn
 Good luck!
+sentence-next
 o-o
 You'll need it.
+sentence-next
 o-o
 And remember that
 o-o
@@ -3402,6 +3575,7 @@ o-o
 in restoring
 o-o
 the middle class.
+sentence-next
 o-o
 And name-desha no-space ,
 o-o
@@ -3410,6 +3584,7 @@ o-o
 on the ride back home,
 o-o
 shall we?
+sentence-next
 o-o
 So it remains
 o-o
@@ -3426,6 +3601,7 @@ o-o
 should keep us
 o-o
 sleepless.
+sentence-next
 o-o
 And what else
 o-o

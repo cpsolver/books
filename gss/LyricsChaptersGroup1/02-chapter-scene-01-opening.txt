@@ -25,6 +25,7 @@ end-comment
 
 ambee sings-fiance-firstuse amenn
 name-damien no-space !
+sentence-next
 o-o
 Are you thinking
 o-o
@@ -88,7 +89,6 @@ ambee sings-damien amenn
 Life's so unfair.
 sentence-next
 o-o
-sentence-next
 My dream's been shattered.
 end-lyric
 
@@ -207,6 +207,7 @@ the edge.
 sentence-next
 o-o
 Don't they see?
+sentence-next
 o-o
 We're lookin' down
 o-o
@@ -342,6 +343,7 @@ end-lyric
 
 ambee sings-fiance amenn
 A conspiracy?
+sentence-next
 o-o
 A dark hyphen-here money
 o-o
@@ -528,6 +530,7 @@ o-o
 sentence-next
 o-o
 What's that word?
+sentence-next
 o-o
 Like evil.
 sentence-next
@@ -890,7 +893,6 @@ democracy?
 sentence-next
 o-o
 ...
-sentence-next
 o-o
 Wait.
 sentence-next

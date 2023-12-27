@@ -22,14 +22,17 @@ end-lyric
 
 ambee sings-mathprof amenn
 One more tip.
+sentence-next
 o-o
 There's something
 o-o
 called begin-italics mathiness end-italics no-space .
+sentence-next
 o-o
 It's a misuse of
 o-o
 mathematics.
+sentence-next
 o-o
 Math doesn't lie,
 o-o
@@ -86,12 +89,14 @@ o-o
 in Washington
 o-o
 DC.
+sentence-next
 o-o
 But do we need
 o-o
 to remember
 o-o
 that guy's name?
+sentence-next
 o-o
 Condolences,
 o-o
@@ -114,6 +119,7 @@ o-o
 non hyphen-here Condorcet
 o-o
 methods.
+sentence-next
 o-o
 So just remember
 o-o
@@ -122,6 +128,7 @@ o-o
 pairwise
 o-o
 vote counting.
+sentence-next
 o-o
 And needing more
 o-o
@@ -132,6 +139,7 @@ ambee sings-damien amenn
 Half's a fraction
 o-o
 I can recall.
+sentence-next
 o-o
 But I don't
 o-o
@@ -162,12 +170,14 @@ o-o
 to the digit
 o-o
 zero.
+sentence-next
 o-o
 To us,
 o-o
 in hindsight,
 o-o
 that's slow.
+sentence-next
 o-o
 In a similar way
 o-o
@@ -184,12 +194,14 @@ o-o
 pairwise counting
 o-o
 for counting votes.
+sentence-next
 o-o
 Zero as a digit
 o-o
 changed the world
 o-o
 in marvellous ways.
+sentence-next
 o-o
 Similarly
 o-o
@@ -228,6 +240,7 @@ end-lyric
 
 ambee sings-desha amenn
 I was right.
+sentence-next
 o-o
 You begin-italics are end-italics
 o-o
@@ -238,6 +251,7 @@ ambee sings-damien amenn
 That's just
 o-o
 common sense.
+sentence-next
 o-o
 But what you've
 o-o
@@ -246,6 +260,7 @@ o-o
 are hidden
 o-o
 secrets.
+sentence-next
 o-o
 The ones those
 o-o
@@ -264,14 +279,17 @@ end-lyric
 
 ambee sings-damien amenn
 ...
+sentence-next
 o-o
 business owners
 o-o
 ...
+sentence-next
 o-o
 don't want us
 o-o
 to find out.
+sentence-next
 o-o
 We're grateful
 o-o
@@ -284,6 +302,7 @@ o-o
 to a rich
 o-o
 treasure chest.
+sentence-next
 o-o
 We'll share
 o-o
@@ -298,6 +317,7 @@ o-o
 promise,
 o-o
 ...
+sentence-next
 o-o
 that you won't
 o-o
@@ -316,6 +336,7 @@ o-o
 so I'm not likely
 o-o
 to lose my job.
+sentence-next
 o-o
 But I can
 o-o
@@ -360,6 +381,7 @@ ambee sings-mathprof amenn
 Only bits of it
 o-o
 are in Wikipedia.
+sentence-next
 o-o
 That's because
 o-o
@@ -446,6 +468,7 @@ ambee sings-damien amenn
 I'm extremely
 o-o
 grateful.
+sentence-next
 o-o
 You've given me,
 o-o
@@ -460,6 +483,7 @@ ambee sings-mathprof amenn
 I love these kinds
 o-o
 of conversations.
+sentence-next
 o-o
 I wish textbooks
 o-o
@@ -478,10 +502,12 @@ o-o
 notation
 o-o
 and terminology.
+sentence-next
 o-o
 The joy of math
 o-o
 is in the concepts.
+sentence-next
 o-o
 That's what counts.
 end-lyric
@@ -502,6 +528,7 @@ ambee sings-desha amenn
 Ah,
 o-o
 one more thing.
+sentence-next
 o-o
 Since pairwise counting
 o-o
@@ -566,6 +593,7 @@ o-o
 what it's
 o-o
 asking.
+sentence-next
 o-o
 And there's no way
 o-o
@@ -576,6 +604,7 @@ o-o
 ballot to say
 o-o
 begin-italics none of the above end-italics no-space .
+sentence-next
 o-o
 And choosing
 o-o
@@ -584,6 +613,7 @@ o-o
 does not express
 o-o
 begin-italics none of the above end-italics no-space .
+sentence-next
 o-o
 Instead a
 o-o
@@ -598,6 +628,7 @@ o-o
 who has a chance
 o-o
 of winning.
+sentence-next
 o-o
 Otherwise
 o-o
@@ -630,6 +661,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 No.
+sentence-next
 o-o
 You can vote for
 o-o
@@ -646,6 +678,7 @@ o-o
 will easily
 o-o
 win.
+sentence-next
 o-o
 That means
 o-o
@@ -704,6 +737,7 @@ o-o
 important
 o-o
 exception.
+sentence-next
 o-o
 In a
 o-o
@@ -716,6 +750,7 @@ o-o
 vote still
 o-o
 matters.
+sentence-next
 o-o
 In fact,
 o-o
@@ -760,6 +795,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Yes and no.
+sentence-next
 o-o
 If Congress
 o-o
@@ -778,6 +814,7 @@ o-o
 that are
 o-o
 well hyphen-here designed.
+sentence-next
 o-o
 And the job of
 o-o
@@ -820,6 +857,7 @@ begin-italics and end-italics
 general
 o-o
 elections.
+sentence-next
 o-o
 And especially
 o-o
@@ -856,10 +894,12 @@ ambee sings-desha amenn
 So we should
 o-o
 protest!
+sentence-next
 o-o
 With signs that say
 o-o
 ...
+sentence-next
 o-o
 uh,
 o-o
@@ -876,6 +916,7 @@ ambee sings-desha amenn
 Maybe,
 o-o
 ...
+sentence-next
 o-o
 begin-italics
 pairwise vote
@@ -923,6 +964,7 @@ end-lyric
 
 ambee sings-desha amenn
 Thank you!
+sentence-next
 o-o
 All of this has
 o-o
@@ -933,6 +975,7 @@ end-lyric
 
 ambee sings-damien amenn
 Yes, thank you!
+sentence-next
 o-o
 Especially,
 o-o
@@ -943,6 +986,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 You're welcome.
+sentence-next
 o-o
 And name-damien no-space ,
 o-o
@@ -961,12 +1005,14 @@ o-o
 number of
 o-o
 tik tok videos.
+sentence-next
 o-o
 I see clarity
 o-o
 in your mental
 o-o
 ability.
+sentence-next
 o-o
 You even learn
 o-o
@@ -983,6 +1029,7 @@ end-lyric
 
 ambee sings-damien amenn
 Wow, ...
+sentence-next
 o-o
 I think.
 end-lyric
@@ -1005,6 +1052,7 @@ o-o
 who were killed
 o-o
 by the corrupt.
+sentence-next
 o-o
 Let's go
 o-o
