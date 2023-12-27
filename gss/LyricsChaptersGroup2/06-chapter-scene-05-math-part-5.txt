@@ -703,9 +703,9 @@ That's an
 o-o
 important
 o-o
-exception
+exception.
 o-o
-because in a
+In a
 o-o
 presidential
 o-o
@@ -717,7 +717,7 @@ vote still
 o-o
 matters.
 o-o
-Specifically
+In fact,
 o-o
 the gap between
 o-o

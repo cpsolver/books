@@ -773,6 +773,22 @@ o-o
 Who knew?
 end-lyric
 
+ambee sings-desha amenn
+The person
+o-o
+who said
+o-o
+history
+o-o
+doesn't always
+o-o
+repeat itself,
+o-o
+but it always
+o-o
+rhymes.
+end-lyric
+
 ambee sings-econhist amenn
 Many people
 o-o
@@ -1447,6 +1463,14 @@ o-o
 of China
 o-o
 lived.
+end-lyric
+
+ambee sings-damien amenn
+With his
+o-o
+harem,
+o-o
+I presume.
 end-lyric
 
 ambee sings-econhist amenn
@@ -3246,43 +3270,37 @@ Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
-Europe's
+Part of the wealth
 o-o
-economy
+going to Rome
 o-o
-was dominated
+came from
 o-o
-by guilds,
+churches
 o-o
-secret
+around Europe
 o-o
-societies,
-o-o
-fraternal
-o-o
-organizations,
-o-o
-and nepotism.
-o-o
-And especially
-o-o
-churches that
-o-o
-heavily
+that heavily
 o-o
 taxed their
 o-o
-members,
+members.
 o-o
-with lots of
+That wealth
 o-o
-those payments
+is still visible
 o-o
-going to the
+today in the
 o-o
-Vatican
+Vatican City.
+end-lyric
+
+ambee sings-desha amenn
+Which is
 o-o
-in Rome.
+inside
+o-o
+Rome.
 end-lyric
 
 ambee sings-damien amenn
@@ -3300,7 +3318,11 @@ in Rome.
 end-lyric
 
 ambee sings-desha amenn
-Painted by
+That's the
+o-o
+Sistine Chapel
+o-o
+painted by
 o-o
 Michelangelo.
 o-o
@@ -3316,7 +3338,9 @@ end-lyric
 ambee sings-econhist amenn
 Those church taxes,
 o-o
-especially indulgences,
+especially
+o-o
+indulgences,
 o-o
 were so corrupt
 o-o
@@ -3326,25 +3350,33 @@ that Martin Luther
 o-o
 and others
 o-o
-created the
+created some
 o-o
 Protestant
 o-o
 religions.
 o-o
-And England
+Then England
 o-o
 created
 o-o
 its own church
 o-o
-to keep that
+and collected
 o-o
-graft
+taxes,
 o-o
-within
+even from
 o-o
-England.
+citizens
+o-o
+who didn't
+o-o
+go to that
+o-o
+only legal
+o-o
+church.
 o-o
 The Pilgrams who
 o-o
@@ -3356,93 +3388,103 @@ Plantation
 o-o
 were escaping
 o-o
-from the taxes
+from those
 o-o
-imposed by the
+oppressive
 o-o
-Church of
+taxes.
 o-o
-England.
+Otherwise
 o-o
-And here,
+they might have
 o-o
-in America,
+stayed and held
 o-o
-people stopped
+their church
 o-o
-tolerating
+services
 o-o
-churches
-o-o
-that got too
-o-o
-greedy.
-o-o
-The resulting
-o-o
-economic
-o-o
-success
-o-o
-in
-o-o
-America
-o-o
-revealed
-o-o
-Europe's
-o-o
-corruption.
-o-o
-Italy,
-o-o
-and Greece,
-o-o
-are still
-o-o
-unwinding
-o-o
-their
-o-o
-corruption,
-o-o
-so they still
-o-o
-suffer
-o-o
-economically.
+secretly.
 end-lyric
 
 ambee sings-damien amenn
-I think
+Do fewer
 o-o
-I'm seeing
+rich people
 o-o
-the pattern.
+really hold back
 o-o
-Less corruption
+on indulgences
 o-o
-means less waste,
+for wine,
 o-o
-which increases
+potato chips,
 o-o
-efficiency.
+and foot
 o-o
-And that
+massages?
+end-lyric
+
+ambee sings-desha amenn
+Not those kinds
 o-o
-increases
+of indulgences.
 o-o
-productivity.
+I'll explain those
 o-o
-And that yields
+later.
 o-o
-better
+The point is
 o-o
-economic
+the flow of money
 o-o
-prosperity.
+into Rome
 o-o
-But what's
+through Catholic
+o-o
+churches
+o-o
+dried up
+o-o
+because the popes
+o-o
+got way
+o-o
+too greedy.
+end-lyric
+
+ambee sings-econhist amenn
+Besides
+o-o
+religious
+o-o
+corruption,
+o-o
+Europe
+o-o
+was weighed down
+o-o
+by other
+o-o
+kinds of
+o-o
+corruption
+o-o
+such as guilds,
+o-o
+secret
+o-o
+societies,
+o-o
+fraternal
+o-o
+organizations,
+o-o
+and nepotism.
+end-lyric
+
+ambee sings-damien amenn
+What's
 o-o
 nepo...
 o-o
@@ -3506,21 +3548,6 @@ less beer drinking
 o-o
 in frat houses.
 o-o
-But do fewer
-o-o
-rich people
-o-o
-really hold back
-o-o
-on indulgences
-o-o
-for wine,
-o-o
-potato chips,
-o-o
-and foot
-o-o
-massages?
 end-lyric
 
 ambee sings-desha amenn
@@ -3529,17 +3556,112 @@ o-o
 fraternal
 o-o
 organization.
-o-o
-And not those kinds
-o-o
-of indulgences.
-o-o
-I'll explain those
-o-o
-later.
 end-lyric
 
 ambee sings-econhist amenn
+The
+o-o
+economy
+o-o
+of Italy
+o-o
+is still weak.
+o-o
+The same is
+o-o
+happening
+o-o
+in Greece.
+o-o
+That's because
+o-o
+they are still
+o-o
+unwinding
+o-o
+their
+o-o
+corruption.
+end-lyric
+
+ambee sings-desha amenn
+Which also includes
+o-o
+organized crime.
+end-lyric
+
+ambee sings-econhist amenn
+Most importantly
+o-o
+the
+o-o
+economic
+o-o
+success
+o-o
+in
+o-o
+America
+o-o
+exposed
+o-o
+Europe's
+o-o
+corruption.
+o-o
+And revealed
+o-o
+that democracy
+o-o
+has less
+o-o
+corruption.
+end-lyric
+
+ambee sings-damien amenn
+I think
+o-o
+I'm seeing
+o-o
+the pattern.
+o-o
+Higher levels
+o-o
+of democracy
+o-o
+yield less
+o-o
+corruption,
+o-o
+which causes
+o-o
+less waste,
+o-o
+which increases
+o-o
+efficiency,
+o-o
+which increases
+o-o
+productivity,
+o-o
+which yields
+o-o
+much better
+o-o
+economic
+o-o
+prosperity.
+o-o
+end-lyric
+
+ambee sings-econhist amenn
+You've got it!
+o-o
+One last bit
+o-o
+is that
+o-o
 America
 o-o
 was far away
@@ -3554,23 +3676,7 @@ That allowed
 o-o
 democracy
 o-o
-a place to grow
-o-o
-and demonstrate
-o-o
-that democracy
-o-o
-reduces
-o-o
-corruption
-o-o
-and
-o-o
-increases
-o-o
-economic
-o-o
-prosperity.
+a place to grow.
 o-o
 That success
 o-o
@@ -3896,31 +4002,43 @@ into toast.
 end-lyric
 
 ambee sings-econhist amenn
-Some big kinds of
+In the past,
 o-o
-cooperation,
+higher levels
 o-o
-like
+of cooperation
 o-o
-public schools,
+came from
+o-o
+churches and
+o-o
+religions.
+o-o
+They originated
 o-o
 food for the poor,
 o-o
-hospitals, and
+public schools,
 o-o
-orphanages
+hospitals,
 o-o
-for little
+orphanages,
 o-o
-orphan
+and
 o-o
-Annies,
+uplifting
 o-o
-were created
+songs.
 o-o
-by churches,
+But
 o-o
-and promoted by
+climate change
 o-o
-religions.
+is a topic
+o-o
+that's too hot
+o-o
+for churches
+o-o
+to touch.
 end-lyric
