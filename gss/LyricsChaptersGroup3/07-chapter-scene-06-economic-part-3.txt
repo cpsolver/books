@@ -70,9 +70,14 @@ o-o
 becomes
 o-o
 a circle.
-sentence-next
+end-lyric
+
+ambee sings-econhist amenn
+Basically
 o-o
-The first effect
+it's as if
+o-o
+the first effect
 o-o
 becomes a
 o-o
@@ -96,7 +101,9 @@ and consumption
 o-o
 is like
 o-o
-your poop
+your pupper
+o-o
+super poop
 o-o
 scooper loop?
 end-lyric
@@ -639,11 +646,15 @@ end-lyric
 ambee sings-damien amenn
 And it would
 o-o
-eliminate
+improve
 o-o
-the inefficiency
+efficiency
 o-o
-of labor
+because there
+o-o
+would be
+o-o
+fewer labor
 o-o
 strikes,
 o-o
@@ -776,7 +787,13 @@ Because of less
 o-o
 money hyphen-here draining
 o-o
-corruption.
+corruption,
+o-o
+and more
+o-o
+money hyphen-here growing
+o-o
+innovations.
 sentence-next
 o-o
 What else will change
@@ -1863,149 +1880,11 @@ end-lyric
 
 ambee sings-damien amenn
 But my head is full!
-end-lyric
-
-ambee sings-econhist amenn
-To help you see
-o-o
-how it all fits
-o-o
-together,
-o-o
-here's a thought.
 sentence-next
 o-o
-Voting,
+Yet now,
 o-o
-and taxes,
-o-o
-and subsidies,
-o-o
-and legal
-o-o
-monopolies,
-o-o
-and even jail time,
-o-o
-are all forms of
-o-o
-communication.
-end-lyric
-
-ambee sings-damien amenn
-I can see that
-o-o
-voters try to
-o-o
-use their ballot
-o-o
-to say we want
-o-o
-more of this,
-o-o
-and less of that.
-sentence-next
-o-o
-Alas, it's still
-o-o
-at the
-o-o
-mumbling stage
-o-o
-of communication.
-sentence-next
-o-o
-But taxes,
-o-o
-how is that
-o-o
-communication?
-end-lyric
-
-ambee sings-desha amenn
-I see!
-sentence-next
-o-o
-It's a way
-o-o
-government
-o-o
-can use lower
-o-o
-taxes to say
-o-o
-let's have
-o-o
-more farming,
-o-o
-more jobs,
-o-o
-smaller
-o-o
-wage gaps,
-o-o
-and more
-o-o
-international
-o-o
-sales of apps that
-o-o
-play stupidly
-o-o
-funny games
-o-o
-with pigs.
-sentence-next
-o-o
-And higher
-o-o
-taxes could
-o-o
-say we need
-o-o
-less pollution,
-o-o
-fewer pirates
-o-o
-on Wall Street,
-o-o
-fewer huge
-o-o
-houses that
-o-o
-only rich folks
-o-o
-can afford,
-o-o
-and fewer
-o-o
-con hyphen-here artist
-o-o
-real hyphen-here estate
-o-o
-developers.
-sentence-next
-o-o
-And Wall Street
-o-o
-executives
-o-o
-never going
-o-o
-to jail
-o-o
-gives the thumbs up
-o-o
-to financial
-o-o
-corruption.
-end-lyric
-
-ambee sings-damien amenn
-Oh, that makes sense.
-sentence-next
-o-o
-Now hopefully
+hopefully,
 o-o
 I can better
 o-o
@@ -3417,10 +3296,67 @@ o-o
 you've given us
 o-o
 so much wisdom.
+sentence-next
+o-o
+I now understand
+o-o
+why so much
+o-o
+of what I
+o-o
+learned in school
+o-o
+now seems like snow
+o-o
+on a sunny
+o-o
+hillside.
+sentence-next
+o-o
+It's long gone.
+sentence-next
+o-o
+But this,
+o-o
+what you're
+o-o
+teaching us,
+o-o
+reveals
+o-o
+so many
+o-o
+secrets
+o-o
+that lie beneath
+o-o
+puzzling
+o-o
+mysteries,
+o-o
+of why things are
+o-o
+the way they are.
+sentence-next
+o-o
+So I think
+o-o
+I'll remember
+o-o
+most of it
+o-o
+for a long time.
 end-lyric
 
 ambee sings-econhist amenn
-Ah, if only
+It's a joy to
+o-o
+really get to teach
+o-o
+what's important!
+sentence-next
+o-o
+I wish
 o-o
 more people
 o-o

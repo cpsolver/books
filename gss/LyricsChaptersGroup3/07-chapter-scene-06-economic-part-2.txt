@@ -228,13 +228,13 @@ the majority
 o-o
 of voters,
 o-o
-could elect
+can elect
 o-o
 leaders who care,
 o-o
 those leaders
 o-o
-would reduce
+will reduce
 o-o
 corruption.
 sentence-next
@@ -261,21 +261,27 @@ sentence-next
 o-o
 What else
 o-o
-would change?
+will change?
 end-lyric
 
 ambee sings-econhist amenn
-When an economy
+When Congress
 o-o
-is not blocked
+and state
 o-o
-by wealthy people
+legislatures
 o-o
-who cling to
+become free
 o-o
-corruption,
+to do what
 o-o
-there are many
+benefits
+o-o
+the majority,
+o-o
+what opens up
+o-o
+are many
 o-o
 opportunities
 o-o
@@ -286,6 +292,28 @@ o-o
 based on
 o-o
 innovation.
+sentence-next
+o-o
+This is like
+o-o
+baking extra
+o-o
+cherry pies.
+sentence-next
+o-o
+The overall
+o-o
+economy
+o-o
+will grow
+o-o
+like it did
+o-o
+in the U.S.
+o-o
+after World
+o-o
+War Two.
 end-lyric
 
 ambee sings-desha amenn
@@ -328,9 +356,9 @@ defeating
 o-o
 bird hyphen-here feeder
 o-o
-barriers,
+barriers
 o-o
-or laugh at
+and laugh at
 o-o
 dumb squirrels
 o-o
@@ -427,7 +455,11 @@ end-lyric
 ambee sings-damien amenn
 Amazon
 o-o
-eliminates
+uses computer
+o-o
+innovations
+o-o
+to eliminate
 o-o
 cash,
 o-o
@@ -440,16 +472,16 @@ That increases
 o-o
 efficiency,
 o-o
-and reduces
+which brings
 o-o
-waste.
+prosperity.
 sentence-next
 o-o
 Got it.
 end-lyric
 
 ambee sings-desha amenn
-And it increases
+It increases
 o-o
 prosperity
 o-o
@@ -474,279 +506,20 @@ employees.
 end-lyric
 
 ambee sings-econhist amenn
-There's something else
+Innovation
 o-o
-that shouldn't be
+is about
 o-o
-wasted.
+creating things
+o-o
+that are new
+o-o
+and have value.
 sentence-next
 o-o
-It's difficult
-o-o
-to measure,
-o-o
-so it's easily
-o-o
-overlooked.
-sentence-next
-o-o
-Consider what
-o-o
-happened in Britain
-o-o
-during World War One.
-sentence-next
-o-o
-It was popular for
-o-o
-university hyphen-here educated men
-o-o
-to volunteer to fight
-o-o
-in that war.
-end-lyric
-
-ambee sings-desha amenn
-They got slaughtered
-o-o
-in the trenches.
-sentence-next
-o-o
-Lots of knowledge
-o-o
-and lots of skills
-o-o
-died with them.
-sentence-next
-o-o
-What a waste.
-end-lyric
-
-ambee sings-econhist amenn
-And that reduced
-o-o
-the people
-o-o
-who could
-o-o
-educate
-o-o
-the next
-o-o
-generation.
-end-lyric
-
-ambee sings-damien amenn
-Oh, so that's why
-o-o
-men in college
-o-o
-get excluded
-o-o
-when there's a
-o-o
-military
-o-o
-draft.
-sentence-next
-o-o
-I see.
-sentence-next
-o-o
-Knowledge and skills
-o-o
-are also resources
-o-o
-that can get
-o-o
-used wisely,
-o-o
-or wasted.
-end-lyric
-
-ambee sings-econhist amenn
-Or lost.
-sentence-next
-o-o
-During the
-o-o
-European
-o-o
-black death,
-o-o
-lots of blacksmiths
-o-o
-and ship builders
-o-o
-and court jesters
-o-o
-died.
-sentence-next
-o-o
-With them died
-o-o
-lots of valuable
-o-o
-knowledge.
-end-lyric
-
-ambee sings-desha amenn
-Jesters
-o-o
-knew how to
-o-o
-juggle
-o-o
-pig bladders
-o-o
-and chew berries
-o-o
-at the same time?
-end-lyric
-
-ambee sings-econhist amenn
-Back before
-o-o
-Netflix and
-o-o
-the iPod
-o-o
-and radio,
-o-o
-even before
-o-o
-record players,
-o-o
-music and jokes
-o-o
-and dances
-o-o
-could only be
-o-o
-heard or seen in
-o-o
-the presence of
-o-o
-musicians,
-o-o
-storytellers,
-o-o
-dancers, and
-o-o
-jesters.
-sentence-next
-o-o
-If they died
-o-o
-without passing
-o-o
-along what
-o-o
-they knew,
-o-o
-their
-o-o
-melodious songs,
-o-o
-spellbinding
-o-o
-stories,
-o-o
-tantalizing
-o-o
-dances,
-o-o
-and hilarious
-o-o
-jokes
-o-o
-got lost.
-end-lyric
-
-ambee sings-desha amenn
-Ah, death.
-sentence-next
-o-o
-It takes so much away.
-end-lyric
-
-ambee sings-econhist amenn
-In those times
-o-o
-horseshoes,
-o-o
-swords, and
-o-o
-sailing ships
-o-o
-were high
-o-o
-technology.
-sentence-next
-o-o
-That's why blacksmiths
-o-o
-and ship builders
-o-o
-were so
-o-o
-valuable.
-end-lyric
-
-ambee sings-desha amenn
-Is this
-o-o
-related
-o-o
-to why humans
-o-o
-haven't
-o-o
-recently
-o-o
-walked on the moon?
-sentence-next
-o-o
-Losing knowledge?
-end-lyric
-
-ambee sings-econhist amenn
-Alas, yes.
-sentence-next
-o-o
-The people
-o-o
-who knew how to
-o-o
-put them there
-o-o
-are dead,
-o-o
-or retired.
-sentence-next
-o-o
-And some written
-o-o
-knowledge on
-o-o
-computer
-o-o
-hard drives
-o-o
-was erased
-o-o
-to save money.
-sentence-next
-o-o
-On the bright side,
-o-o
-the opposite
+It's the opposite
 o-o
 of losing
-o-o
-knowledge
-o-o
-is gaining
 o-o
 knowledge.
 sentence-next
@@ -1249,7 +1022,15 @@ where the buyer
 o-o
 and seller
 o-o
-cooperate.
+cooperate
+o-o
+based on
+o-o
+supply and
+o-o
+demand,
+o-o
+and fairness.
 end-lyric
 
 ambee sings-damien amenn
@@ -1303,13 +1084,25 @@ o-o
 rivers.
 sentence-next
 o-o
+And communism
+o-o
+is like changing
+o-o
+who is in charge
+o-o
+of redirecting
+o-o
+those rivers.
+o-o
 But typically
 o-o
-the initially
+any
+o-o
+initially
 o-o
 good intentions
 o-o
-are subverted
+get subverted
 o-o
 by the greedy
 o-o
@@ -1358,10 +1151,25 @@ o-o
 ends with corruption
 o-o
 if we let it.
+sentence-next
+o-o
+And improving
+o-o
+democracy
+o-o
+is our best hope
+o-o
+for a fair
+o-o
+and prosperous
+o-o
+economy.
 end-lyric
 
 ambee sings-econhist amenn
-Alas,
+Yes.
+o-o
+And sadly
 o-o
 those who
 o-o
@@ -1455,16 +1263,17 @@ the
 o-o
 politicians
 o-o
-in power,
+in power.
+sentence-next
 o-o
-so he died
+So he died
 o-o
 in prison.
 sentence-next
 o-o
 That was during
 o-o
-the time that
+the time when
 o-o
 Frenchmen
 o-o
@@ -1536,25 +1345,13 @@ And now,
 o-o
 finally,
 o-o
-you're ready to
+you're almost
+o-o
+ready to
 o-o
 understand
 o-o
-something
-o-o
-important
-o-o
-that doesn't have
-o-o
-a name.
-end-lyric
-
-ambee sings-desha amenn
-Bring it on!
-end-lyric
-
-ambee sings-econhist amenn
-There's a very
+a very
 o-o
 effective
 o-o
@@ -1565,318 +1362,444 @@ o-o
 to increase
 o-o
 prosperity.
-sentence-next
-o-o
-The first half
-o-o
-is to begin-italics decrease
-o-o
-taxes end-italics on
-o-o
-begin-italics business end-italics
-o-o
-activities
-o-o
-that are efficient
-o-o
-and bring a net flow
-o-o
-of money into
-o-o
-the region.
-sentence-next
-o-o
-The second half
-o-o
-is to begin-italics increase
-o-o
-taxes end-italics on
-o-o
-begin-italics business end-italics
-o-o
-activities
-o-o
-that are
-o-o
-inefficient,
-o-o
-wasteful, or
-o-o
-plunder
-o-o
-the locals
-o-o
-in the style of
-o-o
-New Jersey
-o-o
-lawyers.
 end-lyric
 
-ambee sings-damien amenn
-So,
-o-o
-besides lawyers,
-o-o
-which
-o-o
-business
-o-o
-activities
-o-o
-are which?
+ambee sings-desha amenn
+Bring it on!
 end-lyric
 
 ambee sings-econhist amenn
-Let's consider
+First,
 o-o
-some different
+do you see
 o-o
-kinds of businesses.
-sentence-next
+that voting,
 o-o
-How about farming?
+and laws,
+o-o
+and taxes,
+o-o
+and jail time,
+o-o
+are all forms of
+o-o
+communication?
 end-lyric
 
 ambee sings-damien amenn
-That brings money in.
+I can see that
+o-o
+voters try to
+o-o
+use their ballot
+o-o
+to say we want
+o-o
+more of this,
+o-o
+and less of that.
 sentence-next
 o-o
-If the crops are sold
+Alas, it's still
 o-o
-outside the U.S.
+at the
+o-o
+mumbling stage
+o-o
+of communication.
+sentence-next
+o-o
+But taxes,
+o-o
+and jail time,
+o-o
+how are those
+o-o
+communication?
 end-lyric
 
-ambee sings-econhist amenn
-Which is part of
+ambee sings-desha amenn
+I see!
+sentence-next
 o-o
-why farmers get
-o-o
-lots of special
+It's a way
 o-o
 government
 o-o
-subsidies.
+can use lower
+o-o
+taxes to say
+o-o
+let's have
+o-o
+more of something,
+o-o
+like farming,
+o-o
+and factory jobs,
+o-o
+and pig hyphen-here farming apps.
 sentence-next
 o-o
-How about manufacturing?
+And Wall Street
+o-o
+executives
+o-o
+never going
+o-o
+to jail
+o-o
+gives the thumbs up
+o-o
+to financial
+o-o
+corruption.
 end-lyric
 
-ambee sings-damien amenn
-That brings money in,
+ambee sings-econhist amenn
+That's it.
+sentence-next
 o-o
-when the products 
+Already a city
 o-o
-are sold outside
+government,
 o-o
-the U.S.
-end-lyric
-
-ambee sings-desha amenn
-I thought
+or state
 o-o
-manufacturing
+government,
+o-o
+will give
+o-o
+tax breaks
+o-o
+to a big new
+o-o
+factory
+o-o
+that moves to,
+o-o
+or stays in,
+o-o
+their city
+o-o
+or state.
+sentence-next
+But usually,
+o-o
+small
 o-o
 businesses
 o-o
-were bad.
-end-lyric
-
-ambee sings-econhist amenn
-Back when the
+don't get those breaks.
 o-o
-industrial
+Not even if the
 o-o
-revolution
+small business
 o-o
-began,
+attracts
 o-o
-that was common.
+tourists
+o-o
+to the city.
 sentence-next
 o-o
-Owners used
+Or sells software
 o-o
-greedy shortcuts.
+to customers
+o-o
+around the world
+o-o
+and brings
+o-o
+lots of money
+o-o
+into the
+o-o
+region.
 sentence-next
 o-o
-And still
-o-o
-there are some
-o-o
-manufacturing
+If those small
 o-o
 businesses
 o-o
-that treat laws
+also got a
 o-o
-as if they're
+break in their
 o-o
-optional
+taxes,
 o-o
-suggested
+that would
 o-o
-guidelines.
-sentence-next
+motivate
 o-o
-But today's
+more of
 o-o
-transgressions
-o-o
-are mild compared
-o-o
-to earlier times.
-end-lyric
-
-ambee sings-damien amenn
-A
-o-o
-manufacturing
-o-o
-business
-o-o
-doesn't need to be
-o-o
-bad.
-sentence-next
-o-o
-Got it.
-end-lyric
-
-ambee sings-econhist amenn
-If there were
-o-o
-lower taxes
-o-o
-for good
-o-o
-manufacturing
-o-o
-businesses,
-o-o
-that would reward
-o-o
-them for
-o-o
-efficiently
-o-o
-hiring skilled
-o-o
-workers who
-o-o
-transform raw
-o-o
-materials
-o-o
-into valuable
-o-o
-products worth
-o-o
-lots of money.
-end-lyric
-
-ambee sings-desha amenn
-So software
+those kinds of
 o-o
 businesses
 o-o
-would get lower
+to grow and be
 o-o
-taxes too?
-sentence-next
-o-o
-They bring lots of money
-o-o
-into the United States
-o-o
-from other nations,
-o-o
-and they just consume
-o-o
-electricity.
-sentence-next
-o-o
-And they hire highly
-o-o
-skilled software
-o-o
-developers.
-end-lyric
-
-ambee sings-econhist amenn
-Great example.
-sentence-next
-o-o
-How about mining
-o-o
-companies?
+created.
 end-lyric
 
 ambee sings-damien amenn
-They bring lots of
+So why don't cities
 o-o
-money into the U.S.
-end-lyric
-
-ambee sings-desha amenn
-But the U.S.
-sentence-next
+and states
 o-o
-loses lots of
+give those
 o-o
-natural
-o-o
-resources
-o-o
-that future
-o-o
-generations
-o-o
-will come to miss,
-o-o
-right?
+tax breaks?
 end-lyric
 
 ambee sings-econhist amenn
-Yes.
+Under our current
+o-o
+election system
+o-o
+there would be
+o-o
+too much pressure
+o-o
+to also give
+o-o
+those tax break
+o-o
+to the opposite
+o-o
+kind of business.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+like a
+o-o
+real estate
+o-o
+developer
+o-o
+claiming
+o-o
+they're selling
+o-o
+their oversized
+o-o
+mansion home
+o-o
+to someone from
+o-o
+out of state,
+o-o
+as if that flow
+o-o
+of money
+o-o
+into the local
+o-o
+economy
+o-o
+were all that
+o-o
+mattered.
 sentence-next
 o-o
-Like Japan,
+Without caring
+o-o
+about increased
+o-o
+car traffic,
+o-o
+increased
+o-o
+pollution,
+o-o
+added electricity
+o-o
+consumption,
+o-o
+and the loss of frogs
+o-o
+in the pond
+o-o
+that was filled in
+o-o
+to build the house.
+end-lyric
+
+ambee sings-damien amenn
+And a small
+o-o
+company
+o-o
+that cuts and ships
+o-o
+lumber
+o-o
+to places
+o-o
+far away.
+end-lyric
+
+ambee sings-desha amenn
+Yes,
+o-o
+like to Japan,
 o-o
 where they cut down
 o-o
 their forests for
 o-o
-firewood.
-sentence-next
+firewood,
 o-o
-Now they buy
+so they bought
 o-o
-lots of timber
+lots of lumber
 o-o
-from the U.S.
-sentence-next
-o-o
-Or did back when
-o-o
-massive logging
-o-o
-was done in the
-o-o
-Pacific
+from the Pacific
 o-o
 Northwest.
 end-lyric
 
-ambee sings-damien amenn
-So mining and
+ambee sings-econhist amenn
+But if we had
 o-o
-timber businesses
+a better
+o-o
+election
+o-o
+system
+o-o
+that isn't
+o-o
+so easily
+o-o
+controlled by
+o-o
+those kinds of
+o-o
+businesses,
+o-o
+governments
+o-o
+could give
+o-o
+tax breaks
+o-o
+to,
+o-o
+let's say,
+o-o
+a small software
+o-o
+business
+o-o
+that
+o-o
+efficiently
+o-o
+hires skilled
+o-o
+workers who
+o-o
+only consume
+o-o
+electricity
+o-o
+and create software,
+o-o
+or software services,
+o-o
+that are sold
+o-o
+to customers
+o-o
+around the world.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+and the tax break
+o-o
+also would
+o-o
+go to small
+o-o
+businesses
+o-o
+that hire artists,
+o-o
+actors,
+o-o
+composers,
+o-o
+and
+o-o
+writers
+o-o
+that create
+o-o
+low hyphen-here budget
+o-o
+videos
+o-o
+that are worth
+o-o
+watching,
+o-o
+right?
+sentence-next
+Because they
+o-o
+sell their
+o-o
+stuff to
+o-o
+customers
+o-o
+outside the
+o-o
+region.
+sentence-next
+o-o
+And I can see
+o-o
+those businesses,
+o-o
+if they're small,
+o-o
+would never be
+o-o
+given a tax break
+o-o
+under current
+o-o
+conditions.
+end-lyric
+
+ambee sings-desha amenn
+So,
+o-o
+real hyphen-here estate
+o-o
+developers,
+o-o
+and mining companies,
+o-o
+and telemarketing
+o-o
+companies
 o-o
 deserve to pay
 o-o
 higher taxes,
 o-o
 right?
+sentence-next
+o-o
+I love it!
 end-lyric
 
 ambee sings-econhist amenn
@@ -1891,9 +1814,9 @@ sentence-next
 o-o
 There might be times
 o-o
-when name-desha thinks
+when you think
 o-o
-you deserve to be
+name-damien deserves to be
 o-o
 spanked,
 o-o
@@ -1910,204 +1833,33 @@ o-o
 it's a fact.
 end-lyric
 
-ambee sings-econhist amenn
-But, yes, if
-o-o
-mining and timber
-o-o
-industries export
-o-o
-lots of materials
-o-o
-now, then future
-o-o
-generations
-o-o
-will not have those
-o-o
-resources to
-o-o
-use, sell,
-o-o
-or waste.
-end-lyric
-
-ambee sings-desha amenn
-Short hyphen-here sighted capitalists.
-sentence-next
-o-o
-Speaking of that,
-o-o
-what's capitalism?
-sentence-next
-o-o
-It's confusing to me.
-end-lyric
-
-ambee sings-econhist amenn
-That's because
-o-o
-the word really
-o-o
-has different
-o-o
-meanings
-o-o
-in different
-o-o
-situations.
-sentence-next
-o-o
-Of course textbooks
-o-o
-carefully
-o-o
-define it,
-o-o
-but those
-o-o
-definitions
-o-o
-use words that
-o-o
-don't fully capture
-o-o
-exactly
-o-o
-what it means
-o-o
-every time
-o-o
-it's used.
-end-lyric
-
-ambee sings-desha amenn
-Which explains why
-o-o
-so much of what I
-o-o
-learned in school
-o-o
-now seems like snow
-o-o
-on a sunny
-o-o
-hillside.
-sentence-next
-o-o
-It's long gone.
-sentence-next
-o-o
-But this,
-o-o
-what you're
-o-o
-teaching us,
-o-o
-reveals
-o-o
-so many
-o-o
-secrets
-o-o
-that lie beneath
-o-o
-puzzling
-o-o
-mysteries,
-o-o
-of why things are
-o-o
-the way they are.
-sentence-next
-o-o
-So I think
-o-o
-I'll remember
-o-o
-most of it
-o-o
-for a long time.
-end-lyric
-
-ambee sings-econhist amenn
-It's a joy to
-o-o
-really get to teach
-o-o
-what's important!
-sentence-next
-o-o
-Now, back to what
-o-o
-doesn't have an
-o-o
-official name.
-sentence-next
-o-o
-How about artists,
-o-o
-writers, composers,
-o-o
-and other people
-o-o
-who create things
-o-o
-that can be sold
-o-o
-for way more than
-o-o
-the cost of electricity
-o-o
-and art supplies
-o-o
-and creative software?
-end-lyric
-
 ambee sings-damien amenn
-Clearly they deserve,
-o-o
-er, should get,
-o-o
-lower taxes on their
-o-o
-businesses.
-end-lyric
-
-ambee sings-desha amenn
 So what's this called?
 sentence-next
 o-o
 This thing of
 o-o
-imposing
+giving
 o-o
-lower taxes
+tax breaks
 o-o
-on businesses
+to small
+o-o
+businesses
 o-o
 that efficiently
 o-o
 create things of value.
-sentence-next
-o-o
-And imposing
-o-o
-higher taxes
-o-o
-on businesses
-o-o
-that waste resources.
 end-lyric
 
-ambee sings-damien amenn
-Or don't attract
+ambee sings-desha amenn
+And attract
 o-o
-as much money
+lots of money
 o-o
-into the
+into a
 o-o
-United States.
+region.
 end-lyric
 
 ambee sings-econhist amenn
@@ -2132,15 +1884,21 @@ who wanna make things
 o-o
 would earn higher
 o-o
-wages because
+wages working
 o-o
-of those lower
+for a small business
+o-o
+that gets
+o-o
+the lower
 o-o
 taxes.
 end-lyric
 
 ambee sings-desha amenn
-And corporations
+And corporations,
+o-o
+even if they're small,
 o-o
 would pay much
 o-o
@@ -2174,7 +1932,7 @@ o-o
 create value?
 sentence-next
 o-o
-I thought that big
+I thought that all
 o-o
 corporations
 o-o
@@ -2899,15 +2657,24 @@ o-o
 if those changes
 o-o
 were made.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-desha amenn
 It would make
 o-o
-the cherry pie
+lots more cherry pies
 o-o
-so much
+so there's less
 o-o
-bigger!
+fighting for
+o-o
+smaller and smaller
+o-o
+slices
+o-o
+from just one
+o-o
+cherry pie.
 sentence-next
 o-o
 Then everyone
@@ -2917,8 +2684,9 @@ o-o
 a bigger
 o-o
 slice.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-econhist amenn
 But of course
 o-o
 those reforms
@@ -2935,7 +2703,9 @@ system.
 end-lyric
 
 ambee sings-damien amenn
-But it would only
+And it seems like
+o-o
+it would only
 o-o
 decrease
 o-o
@@ -2947,10 +2717,17 @@ who earn their money
 o-o
 by owning
 o-o
-taker businesses?
-sentence-next
+taker businesses,
 o-o
-That sounds great!
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Indeed.
+end-lyric
+
+ambee sings-damien amenn
+This sounds great!
 end-lyric
 
 ambee sings-desha amenn
@@ -3186,7 +2963,6 @@ o-o
 That job migration
 o-o
 would use U.S.
-sentence-next
 o-o
 brainpower
 o-o

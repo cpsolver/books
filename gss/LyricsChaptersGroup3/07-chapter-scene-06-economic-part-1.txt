@@ -240,18 +240,38 @@ ambee sings-econhist amenn
 Of course!
 sentence-next
 o-o
-Lots of new laws
+New laws
 o-o
-will be
+will outlaw
 o-o
-passed.
+corruption
+o-o
+that reduces
+o-o
+widespread
+o-o
+economic
+o-o
+prosperity.
 sentence-next
 o-o
-Those laws
+And tax changes
 o-o
-will reduce
+will
 o-o
-corruption.
+dramatically
+o-o
+increase
+o-o
+the rate at which
+o-o
+valuable
+o-o
+innovations
+o-o
+are created
+o-o
+and adopted.
 sentence-next
 o-o
 You're aware
@@ -267,91 +287,12 @@ ambee sings-desha amenn
 Oh yes!
 sentence-next
 o-o
-There's
-o-o
-the high price
-o-o
-of sugar
-o-o
-in the U.S.,
-o-o
-the fracking
-o-o
-of oil
-o-o
-without
-o-o
-begin-explain interrupted near here end-explain
-o-o
-environmental
-o-o
-concerns
-o-o
-about water
-o-o
-contamination,
-o-o
-...
-end-lyric
-
-ambee sings-damien amenn
-begin-explain Interrupting end-explain
-o-o
-name-desha no-space ,
-o-o
-he doesn't need
-o-o
-to hear a list.
-sentence-next
-o-o
-Yes, that's
+That's
 o-o
 why we're here.
 end-lyric
 
-ambee sings-econhist amenn
-A few
-o-o
-people who
-o-o
-greatly profit
-o-o
-from existing
-o-o
-kinds of
-o-o
-corruption
-o-o
-will
-o-o
-temporarily
-o-o
-earn less money.
-sentence-next
-o-o
-But almost
-o-o
-everyone
-o-o
-else will enjoy
-o-o
-increased prosperity.
-sentence-next
-o-o
-And that increase
-o-o
-later will feed back
-o-o
-to the ones who
-o-o
-temporarily
-o-o
-lost some of their
-o-o
-income.
-end-lyric
-
-ambee sings-desha amenn
+ambee sings-damien amenn
 What's your
 o-o
 justification?
@@ -645,36 +586,47 @@ jerks.
 end-lyric
 
 ambee sings-econhist amenn
-Here's
+Also
 o-o
-the answer
+there will be
 o-o
-to your question.
-sentence-next
+tax changes
 o-o
-The reformed
+that do
 o-o
-politicians
+what amounts to
 o-o
-and replacement
+creating
 o-o
-politicians
+more
 o-o
-will pass laws
+cherry pies.
+end-lyric
+
+ambee sings-damien amenn
+So those of us
 o-o
-that give bigger
+who don't get
 o-o
-slices of
+enough
 o-o
-economic
+from the first
 o-o
 pie
 o-o
-to the
+can get some
 o-o
-majority
+of the second
 o-o
-of voters.
+and third
+o-o
+pies,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
 end-lyric
 
 ambee sings-damien amenn
@@ -821,9 +773,11 @@ Who knew?
 end-lyric
 
 ambee sings-desha amenn
-The person
+Probably
 o-o
-who said
+whoever
+o-o
+said
 o-o
 history
 o-o
@@ -1021,7 +975,6 @@ o-o
 Why was the
 o-o
 U.S.
-sentence-next
 o-o
 economy
 o-o
@@ -1215,7 +1168,6 @@ o-o
 goods
 o-o
 from the U.S.
-sentence-next
 o-o
 and Canada
 o-o
@@ -1269,7 +1221,7 @@ ambee sings-econhist amenn
 Great thinking!
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Wait a minute!
 sentence-next
 o-o
@@ -1294,10 +1246,8 @@ o-o
 great again?
 end-lyric
 
-ambee sings-damien amenn
-Oh,
-o-o
-so this is why
+ambee sings-desha amenn
+So this is why
 o-o
 the reverse hyphen-here racoon hyphen-here eyed guy
 o-o
@@ -1306,7 +1256,7 @@ o-o
 got so many votes.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 But he blames
 o-o
 immigrants
@@ -1483,9 +1433,23 @@ China rich?
 end-lyric
 
 ambee sings-econhist amenn
-Better than that,
+Enormously
 o-o
-instead of
+wealthy.
+sentence-next
+o-o
+For those
+o-o
+living in
+o-o
+or near
+o-o
+the Forbidden
+o-o
+City.
+sentence-next
+o-o
+And instead of
 o-o
 just selling
 o-o
@@ -1895,11 +1859,9 @@ what it is,
 o-o
 which is
 o-o
-lying,
+lying and
 o-o
-and stealing,
-o-o
-and corruption.
+corruption.
 sentence-next
 o-o
 Shall we
@@ -2006,6 +1968,8 @@ Yet rent
 o-o
 and food
 o-o
+and ice cream
+o-o
 are rising
 o-o
 like a rocket.
@@ -2089,19 +2053,27 @@ treasuries.
 end-lyric
 
 ambee sings-damien amenn
-Sold to the
+Auctions,
 o-o
-highest bidder?
+that means
+o-o
+sold to the
+o-o
+highest bidder,
+o-o
+right?
 end-lyric
 
 ambee sings-desha amenn
-I don't remember
+Yes.
+o-o
+But I don't
+o-o
+remember
 o-o
 learning about
 o-o
-those actions,
-o-o
-I mean,
+those
 o-o
 auctions.
 end-lyric
@@ -2134,23 +2106,15 @@ wants to hide.
 end-lyric
 
 ambee sings-econhist amenn
-Some
-o-o
-U.S.
-sentence-next
-o-o
-treasuries
-o-o
-are sold in
-o-o
-auctions.
-sentence-next
-o-o
 In economically
 o-o
 optimistic
 o-o
-times those
+times
+o-o
+those auctioned
+o-o
+U.S.
 o-o
 treasuries
 o-o
@@ -2237,7 +2201,11 @@ Economists
 o-o
 measure
 o-o
-those feelings
+those feelings,
+o-o
+even the
+o-o
+holiday ones,
 o-o
 to predict
 o-o
@@ -2277,7 +2245,7 @@ sentence-next
 o-o
 Interest rates
 o-o
-are low.
+have been low.
 sentence-next
 o-o
 That means there's
@@ -2307,11 +2275,14 @@ But China and
 o-o
 Russia stopped
 o-o
-buying them so
+buying them.
+sentence-next
 o-o
-lately the
+So lately the
 o-o
-federal reserve
+federal
+o-o
+reserve
 o-o
 has been buying
 o-o
@@ -2364,8 +2335,9 @@ is so huge.
 end-lyric
 
 ambee sings-damien amenn
-Oh, so the U.S.
-sentence-next
+Oh,
+o-o
+so the U.S.
 o-o
 government has
 o-o
@@ -2485,7 +2457,6 @@ o-o
 to immigrate
 o-o
 into the U.S.
-sentence-next
 o-o
 is still high.
 sentence-next
@@ -2681,7 +2652,11 @@ clean water
 o-o
 they didn't
 o-o
-have to carry,
+have to
+o-o
+waste time
+o-o
+carrying,
 o-o
 and they wasted
 o-o
@@ -2731,6 +2706,13 @@ o-o
 the gold and gems
 o-o
 they paid.
+sentence-next
+o-o
+That was a big
+o-o
+kind of corruption
+o-o
+in those days.
 end-lyric
 
 ambee sings-desha amenn
@@ -2760,22 +2742,27 @@ o-o
 Less stealing.
 sentence-next
 o-o
+Less corruption.
+sentence-next
+o-o
 Got it.
 end-lyric
 
 ambee sings-desha amenn
 Ah,
 o-o
-less corruption!
-sentence-next
+less corruption
 o-o
-Like not tying
+is like
+o-o
+not tying
 o-o
 left and right
 o-o
-shoelaces together,
+shoelaces together.
+sentence-next
 o-o
-because that
+That
 o-o
 suppresses
 o-o
@@ -2790,14 +2777,11 @@ o-o
 sense to me.
 sentence-next
 o-o
-When there's
+Less corruption
 o-o
-less corruption,
+means that
 o-o
-there's less waste.
-sentence-next
-o-o
-That means more time,
+more time,
 o-o
 and more money,
 o-o
@@ -2828,7 +2812,7 @@ o-o
 productivity.
 sentence-next
 o-o
-That will increase
+And that increases
 o-o
 economic
 o-o
@@ -3074,17 +3058,10 @@ and
 o-o
 prosperity,
 o-o
+new kinds of
+o-o
 corruption grew.
-sentence-next
 o-o
-And corruption
-o-o
-reduces
-o-o
-efficiency.
-end-lyric
-
-ambee sings-desha amenn
 Plus
 o-o
 a huge source
@@ -3098,20 +3075,9 @@ o-o
 conquest.
 sentence-next
 o-o
-That means stealing.
-sentence-next
+The Roman
 o-o
-But they ran out
-o-o
-of wealthy places
-o-o
-to conquer.
-end-lyric
-
-ambee sings-econhist amenn
-Yes, the
-o-o
-Roman army
+army
 o-o
 invaded
 o-o
@@ -3277,6 +3243,41 @@ o-o
 into specific pockets.
 sentence-next
 o-o
+Those kinds of
+o-o
+corruption
+o-o
+include
+o-o
+nepotism,
+o-o
+conflicts
+o-o
+of interest,
+o-o
+bribery,
+o-o
+racketeering,
+o-o
+guilds,
+o-o
+secret
+o-o
+societies,
+o-o
+fraternal
+o-o
+organizations,
+o-o
+black markets,
+o-o
+and
+o-o
+inefficient
+o-o
+bureaucracy.
+sentence-next
+o-o
 Those corrupt
 o-o
 barriers
@@ -3284,6 +3285,84 @@ o-o
 reduce
 o-o
 efficiency.
+end-lyric
+
+ambee sings-damien amenn
+What's
+o-o
+nepo...
+sentence-next
+o-o
+whatever.
+end-lyric
+
+ambee sings-desha amenn
+Nepotism
+o-o
+is hiring
+o-o
+family
+o-o
+members.
+sentence-next
+o-o
+And friends.
+end-lyric
+
+ambee sings-damien amenn
+Isn't that a
+o-o
+no hyphen-here brainer?
+sentence-next
+o-o
+Hiring based on
+o-o
+skills and
+o-o
+a good
+o-o
+word-resume no-space ?
+end-lyric
+
+ambee sings-econhist amenn
+Hiring
+o-o
+relatives
+o-o
+and friends
+o-o
+channels wealth
+o-o
+selfishly
+o-o
+for short hyphen-here term gains.
+end-lyric
+
+ambee sings-damien amenn
+I'm glad
+o-o
+we only have
+o-o
+a bit of that
+o-o
+kind of
+o-o
+corruption.
+sentence-next
+o-o
+Along with
+o-o
+less beer drinking
+o-o
+in frat houses.
+end-lyric
+
+ambee sings-desha amenn
+Not that kind of
+o-o
+fraternal
+o-o
+organization.
 end-lyric
 
 ambee sings-damien amenn
@@ -3336,11 +3415,6 @@ it's firm.
 end-lyric
 
 ambee sings-econhist amenn
-Perhaps I should
-o-o
-clarify.
-sentence-next
-o-o
 A similar kind of
 o-o
 rise and fall
@@ -3554,6 +3628,8 @@ which they could
 o-o
 not evade
 o-o
+within England
+o-o
 even by holding
 o-o
 church services
@@ -3620,168 +3696,114 @@ o-o
 not just beliefs.
 end-lyric
 
-ambee sings-econhist amenn
-Besides
-o-o
-religious
-o-o
-corruption,
-o-o
-Europe
-o-o
-was weighed down
-o-o
-by other
-o-o
-kinds of
-o-o
-corruption
-o-o
-such as
-o-o
-nepotism,
-o-o
-conflicts
-o-o
-of interest,
-o-o
-bribery,
-o-o
-racketeering,
-o-o
-guilds,
-o-o
-secret
-o-o
-societies,
-o-o
-fraternal
-o-o
-organizations,
-o-o
-black markets,
-o-o
-and
-o-o
-costly
-o-o
-bureaucracy.
-end-lyric
-
 ambee sings-damien amenn
-What's
+So the
 o-o
-nepo...
-sentence-next
+Protestant
 o-o
-whatever.
-end-lyric
-
-ambee sings-desha amenn
-Nepotism
+religions
 o-o
-is hiring
+ended
 o-o
-family
+the Italian
 o-o
-members.
-sentence-next
-o-o
-And friends.
-end-lyric
-
-ambee sings-damien amenn
-Isn't that a
-o-o
-no hyphen-here brainer?
-sentence-next
-o-o
-Hiring based on
-o-o
-skills and
-o-o
-a good
-o-o
-word-resume no-space ?
+Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
-Hiring
+The economic
 o-o
-relatives
+reforms that
 o-o
-and friends
+created the
 o-o
-channels wealth
+Italian
 o-o
-selfishly
+Renaissance
 o-o
-for short hyphen-here term gains.
-end-lyric
-
-ambee sings-damien amenn
-I'm glad
+have spread
 o-o
-we only have
-o-o
-a bit of that
-o-o
-kind of
-o-o
-corruption.
+around the world.
 sentence-next
 o-o
-Along with
+In the meantime
 o-o
-less beer drinking
-o-o
-in frat houses.
-end-lyric
-
-ambee sings-desha amenn
-Not that kind of
-o-o
-fraternal
-o-o
-organization.
-end-lyric
-
-ambee sings-econhist amenn
-The
-o-o
-economy
-o-o
-of Italy
-o-o
-is still weak.
-sentence-next
-o-o
-The same is
-o-o
-happening
-o-o
-in Greece.
-sentence-next
-o-o
-That's because
-o-o
-they are still
+Italy is still
 o-o
 unwinding
 o-o
-their
+other kinds of
+o-o
+corruption.
+sentence-next
+o-o
+The same slow
+o-o
+progress is
+o-o
+happening
+o-o
+in Greece
+o-o
+and Spain,
+o-o
+and Portugal,
+o-o
+and elsewhere.
+sentence-next
+o-o
+Those
+o-o
+economies
+o-o
+are still weak
+o-o
+compared to
+o-o
+Germany,
+o-o
+France, and
+o-o
+Britain
+o-o
+where there
+o-o
+is less
+o-o
+of some kinds
 o-o
 corruption.
 end-lyric
 
 ambee sings-desha amenn
-Which
+Organized
 o-o
-also includes
+crime is
 o-o
-organized
+another kind
 o-o
-crime.
+of corruption.
+sentence-next
+o-o
+But those
+o-o
+organizations
+o-o
+don't
+o-o
+appreciate
+o-o
+extra
+o-o
+advertising,
+o-o
+so academic
+o-o
+professors
+o-o
+don't like to
+o-o
+talk about them.
 end-lyric
 
 ambee sings-econhist amenn
@@ -3858,7 +3880,7 @@ sentence-next
 o-o
 One last bit
 o-o
-is that
+here is that
 o-o
 America
 o-o
@@ -4235,11 +4257,11 @@ sentence-next
 o-o
 They originated
 o-o
-food for the poor,
-o-o
 public schools,
 o-o
 hospitals,
+o-o
+food for the poor,
 o-o
 orphanages,
 o-o
