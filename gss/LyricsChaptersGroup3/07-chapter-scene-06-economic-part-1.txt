@@ -175,9 +175,13 @@ Sometimes yes,
 o-o
 and then we
 o-o
-modestly say
+use that to
 o-o
-begin-italics I told you so end-italics no-space .
+rise up in the
+o-o
+hierarchy,
+o-o
+or get tenure.
 sentence-next
 o-o
 Sometimes no,
@@ -244,9 +248,11 @@ New laws
 o-o
 will outlaw
 o-o
+lots of
+o-o
 corruption
 o-o
-that reduces
+that blocks
 o-o
 widespread
 o-o
@@ -257,21 +263,33 @@ sentence-next
 o-o
 And tax changes
 o-o
+and other
+o-o
+new laws
+o-o
 will
+o-o
+unblock
+o-o
+overdue
+o-o
+innovations,
+o-o
+which will
 o-o
 dramatically
 o-o
 increase
 o-o
-the rate at which
+economic
 o-o
-valuable
+prosperity
 o-o
-innovations
+for the regions
 o-o
-are created
+where those reforms
 o-o
-and adopted.
+are adopted.
 sentence-next
 o-o
 You're aware
@@ -586,13 +604,15 @@ jerks.
 end-lyric
 
 ambee sings-econhist amenn
-Also
+And remember
 o-o
-there will be
+those tax changes
 o-o
-tax changes
+and other laws
 o-o
-that do
+I mentioned.
+o-o
+Those will do
 o-o
 what amounts to
 o-o
@@ -604,33 +624,18 @@ cherry pies.
 end-lyric
 
 ambee sings-damien amenn
-So those of us
+I'd jump to
 o-o
-who don't get
+the second
 o-o
-enough
+and third pies
 o-o
-from the first
+right away.
+sentence-next
 o-o
-pie
+And I have to say,
 o-o
-can get some
-o-o
-of the second
-o-o
-and third
-o-o
-pies,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-end-lyric
-
-ambee sings-damien amenn
-So far
+so far
 o-o
 this is
 o-o
@@ -785,9 +790,9 @@ doesn't always
 o-o
 repeat itself,
 o-o
-but it always
+but usually
 o-o
-rhymes.
+it rhymes.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1442,7 +1447,7 @@ For those
 o-o
 living in
 o-o
-or near
+and near
 o-o
 the Forbidden
 o-o
@@ -1919,11 +1924,11 @@ end-lyric
 ambee sings-desha amenn
 I'm glad we're
 o-o
-getting the
+not getting
 o-o
-uncommon version,
+the common
 o-o
-not the tragic
+tragic
 o-o
 version.
 end-lyric
@@ -1949,7 +1954,7 @@ to measure
 o-o
 in a way that's
 o-o
-meaningful.
+fruitful.
 end-lyric
 
 ambee sings-damien amenn
@@ -2751,11 +2756,9 @@ end-lyric
 ambee sings-desha amenn
 Ah,
 o-o
-less corruption
+corruption
 o-o
-is like
-o-o
-not tying
+is like tying
 o-o
 left and right
 o-o
@@ -3271,11 +3274,25 @@ organizations,
 o-o
 black markets,
 o-o
-and
+inbred
 o-o
-inefficient
+bureaucracy,
 o-o
-bureaucracy.
+and basing
+o-o
+the economy
+o-o
+on trading favors,
+o-o
+like in Russia,
+o-o
+where the
+o-o
+rule of law
+o-o
+doesn't
+o-o
+always rule.
 sentence-next
 o-o
 Those corrupt
@@ -3310,51 +3327,41 @@ And friends.
 end-lyric
 
 ambee sings-damien amenn
-Isn't that a
+So looking
 o-o
-no hyphen-here brainer?
+on Facebook
+o-o
+isn't allowed
+o-o
+when hiring.
 sentence-next
 o-o
-Hiring based on
+Thank goodness
 o-o
-skills and
-o-o
-a good
-o-o
-word-resume no-space ?
-end-lyric
-
-ambee sings-econhist amenn
-Hiring
-o-o
-relatives
-o-o
-and friends
-o-o
-channels wealth
-o-o
-selfishly
-o-o
-for short hyphen-here term gains.
-end-lyric
-
-ambee sings-damien amenn
-I'm glad
-o-o
-we only have
-o-o
-a bit of that
-o-o
-kind of
-o-o
-corruption.
+for that.
 sentence-next
 o-o
-Along with
+And thank goodness
+o-o
+the rule of law
+o-o
+mostly still works
+o-o
+in New Jersey
+o-o
+and
+o-o
+New York City.
+o-o
+But is there really
 o-o
 less beer drinking
 o-o
-in frat houses.
+in frat houses
+o-o
+compared to
+o-o
+the past?
 end-lyric
 
 ambee sings-desha amenn
@@ -3366,9 +3373,14 @@ organization.
 end-lyric
 
 ambee sings-damien amenn
-I think I've
+Oh.
+sentence-next
 o-o
-got it.
+Well,
+o-o
+I think I'm
+o-o
+getting it.
 sentence-next
 o-o
 Efficiency
@@ -3622,19 +3634,9 @@ from those
 o-o
 oppressive
 o-o
-taxes,
+church
 o-o
-which they could
-o-o
-not evade
-o-o
-within England
-o-o
-even by holding
-o-o
-church services
-o-o
-secretly.
+taxes.
 end-lyric
 
 ambee sings-damien amenn
@@ -3716,6 +3718,10 @@ o-o
 reforms that
 o-o
 created the
+o-o
+efficiency
+o-o
+of the
 o-o
 Italian
 o-o
@@ -3871,7 +3877,6 @@ economic
 o-o
 prosperity.
 sentence-next
-o-o
 end-lyric
 
 ambee sings-econhist amenn
@@ -3909,14 +3914,27 @@ o-o
 Europeans.
 sentence-next
 o-o
-So they formed the
+Eventually
+o-o
+they formed the
 o-o
 European
 o-o
-Union.
-sentence-next
+Union
 o-o
-They finally
+after most
+o-o
+Catholics and
+o-o
+Protestants,
+o-o
+except
+o-o
+the ones in
+o-o
+northern
+o-o
+Ireland,
 o-o
 realized
 o-o
@@ -3926,14 +3944,9 @@ to abandon
 o-o
 fighting between
 o-o
-Catholics and
+those two
 o-o
-Protestants.
-sentence-next
-o-o
-Except in
-o-o
-northern Ireland.
+religions.
 sentence-next
 o-o
 And they

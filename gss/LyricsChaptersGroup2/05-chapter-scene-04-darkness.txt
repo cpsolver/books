@@ -1498,6 +1498,8 @@ sentence-next
 o-o
 It's a
 o-o
+pooch
+o-o
 poop
 o-o
 scooper

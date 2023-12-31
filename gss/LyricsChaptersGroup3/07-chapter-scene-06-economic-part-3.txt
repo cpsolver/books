@@ -619,7 +619,77 @@ sunglasses now.
 end-lyric
 
 ambee sings-desha amenn
-You're right.
+Almost.
+sentence-next
+o-o
+But the wage gap
+o-o
+between women
+o-o
+and men
+o-o
+also needs
+o-o
+to get
+o-o
+straightened
+o-o
+out.
+end-lyric
+
+ambee sings-econhist amenn
+This wage hyphen-here gap
+o-o
+calculation
+o-o
+also covers
+o-o
+most of that gap.
+sentence-next
+o-o
+Remember that
+o-o
+a higher
+o-o
+percentage
+o-o
+of women
+o-o
+choose to become
+o-o
+dental hygenists
+o-o
+instead of
+o-o
+dentists,
+o-o
+and become
+o-o
+performers
+o-o
+on Broadway
+o-o
+instead of
+o-o
+traders
+o-o
+on Wall Street.
+end-lyric
+
+ambee sings-desha amenn
+And teachers
+o-o
+instead of
+o-o
+rich ass ...,
+o-o
+uh,
+o-o
+grass moles.
+o-o
+I suppose
+o-o
+you're right.
 sentence-next
 o-o
 That would be
@@ -667,9 +737,129 @@ o-o
 who is brilliant
 o-o
 now.
+sentence-next
+o-o
+Also it will
+o-o
+better reward
+o-o
+employees
+o-o
+who make life
+o-o
+better for
+o-o
+customers,
+o-o
+clients, and
+o-o
+patients,
+o-o
+instead of
+o-o
+mostly
+o-o
+increasing
+o-o
+financial
+o-o
+income to
+o-o
+shareholders,
+o-o
+owners, and
+o-o
+managers.
+sentence-next
+o-o
+In turn,
+o-o
+lower hyphen-here paid
+o-o
+employees
+o-o
+will spend
+o-o
+most of that
+o-o
+locally
+o-o
+instead of in
+o-o
+far away places,
+o-o
+like
+o-o
+Disneyland
+o-o
+and
+o-o
+Paris.
+sentence-next
+o-o
+And buying stuff
+o-o
+that has to be
+o-o
+transported
+o-o
+from far away.
+end-lyric
+
+ambee sings-desha amenn
+And women
+o-o
+will spend
+o-o
+lots of the extra
+o-o
+less
+o-o
+selfishly,
+o-o
+to benefit
+o-o
+family
+o-o
+and their
+o-o
+community.
+end-lyric
+
+ambee sings-econhist amenn
+And it would
+o-o
+reduce government
+o-o
+costs for
+o-o
+the handouts
+o-o
+that
+o-o
+small hyphen-here government
+o-o
+advocates
+o-o
+complain about.
 end-lyric
 
 ambee sings-damien amenn
+Finally,
+o-o
+something
+o-o
+much better
+o-o
+than just getting
+o-o
+named
+o-o
+employee
+o-o
+of the month!
+sentence-next
+o-o
 What other
 o-o
 predictions
@@ -816,27 +1006,17 @@ revolution?
 end-lyric
 
 ambee sings-econhist amenn
-I've read
+An overdue
 o-o
-about fully
+innovation
 o-o
-synthetic
-o-o
-hydrocarbon
-o-o
-fuel,
-o-o
-thorium
-o-o
-nuclear
-o-o
-reactors,
+is a
 o-o
 dishwasher hyphen-here sized
 o-o
 kitchen
 o-o
-appliances
+appliance
 o-o
 that will do
 o-o
@@ -856,7 +1036,71 @@ workers
 o-o
 in distant
 o-o
-countries,
+countries.
+sentence-next
+o-o
+But that's blocked
+o-o
+because of our
+o-o
+dysfunctional
+o-o
+patent system.
+sentence-next
+o-o
+Some kind of
+o-o
+open patent
+o-o
+system
+o-o
+would help.
+o-o
+That could exist
+o-o
+alongside
+o-o
+our current
+o-o
+monopoly
+o-o
+patent
+o-o
+system.
+end-lyric
+
+ambee sings-damien amenn
+Wow!
+o-o
+I'd rather have that
+o-o
+kitchen prep
+o-o
+machine
+o-o
+than a self hyphen-here driving
+o-o
+car.
+end-lyric
+
+ambee sings-econhist amenn
+Also
+o-o
+I've read about
+o-o
+fully
+o-o
+synthetic
+o-o
+hydrocarbon
+o-o
+fuel,
+o-o
+thorium
+o-o
+nuclear
+o-o
+reactors,
 o-o
 a fully
 o-o
@@ -867,14 +1111,6 @@ o-o
 that will reduce
 o-o
 illiteracy,
-o-o
-open patents
-o-o
-as an aternative
-o-o
-to monopoly
-o-o
-patents,
 o-o
 new programming
 o-o

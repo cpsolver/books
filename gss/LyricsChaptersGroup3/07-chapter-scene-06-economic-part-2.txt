@@ -330,41 +330,37 @@ sentence-next
 o-o
 But aside from
 o-o
-sharing family photos,
+sharing family photos
 o-o
-most people
+and goofy
 o-o
-basically
+videos,
 o-o
-use them to
-o-o
-argue with
-o-o
-strangers,
-o-o
-gawk at
+and gawking at
 o-o
 celebrities,
 o-o
-and
+most people
 o-o
-chuckle at
+use that
 o-o
-smart squirrels
+technology
 o-o
-defeating
+to argue with
 o-o
-bird hyphen-here feeder
-o-o
-barriers
+strangers
 o-o
 and laugh at
 o-o
-dumb squirrels
+squirrels
 o-o
-going down
+getting
 o-o
-in defeat.
+defeated by
+o-o
+bird hyphen-here feeder
+o-o
+barriers.
 end-lyric
 
 ambee sings-damien amenn
@@ -1077,9 +1073,13 @@ sentence-next
 o-o
 Where socialism
 o-o
-is like trying
+is like people
 o-o
-to redirect
+taking turns
+o-o
+trying to
+o-o
+redirect
 o-o
 rivers.
 sentence-next
@@ -1092,7 +1092,7 @@ who is in charge
 o-o
 of redirecting
 o-o
-those rivers.
+all the rivers.
 o-o
 But typically
 o-o
@@ -1196,7 +1196,13 @@ de Condorcet?
 end-lyric
 
 ambee sings-damien amenn
-Just that he's
+Just that his name
+o-o
+rhymes with
+o-o
+lingerie,
+o-o
+and he's
 o-o
 related to
 o-o
@@ -1298,13 +1304,35 @@ of cruelty
 o-o
 doesn't happen
 o-o
-anymore,
+anymore.
+sentence-next
 o-o
-which fits
+Except in Russia
 o-o
-the pattern
+when critics
+o-o
+of Putin
+o-o
+fall from
+o-o
+high windows
+o-o
+in tall
+o-o
+buildings.
+sentence-next
+o-o
+This pattern
 o-o
 of declining
+o-o
+cruelty
+o-o
+fits the
+o-o
+pattern of
+o-o
+declining
 o-o
 corruption.
 end-lyric
