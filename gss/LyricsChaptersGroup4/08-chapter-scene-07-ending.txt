@@ -1474,16 +1474,7 @@ o-o
 everywhere?
 sentence-next
 o-o
-Of course he laughs
-o-o
-whenever
-o-o
-I make plans.
-sentence-next
-o-o
-But otherwise
-o-o
-how can I
+How can I
 o-o
 be sure that
 o-o
@@ -1493,7 +1484,18 @@ about me?
 end-lyric
 
 ambee sings-minister amenn
-Try thinking of God
+You can hear
+o-o
+him laughing
+o-o
+whenever
+o-o
+you make plans.
+sentence-next
+o-o
+Also consider
+o-o
+thinking of God
 o-o
 as being like the
 o-o
@@ -1893,8 +1895,7 @@ carpenter.
 end-lyric
 
 ambee sings-minister amenn
-Here in the U.S.
-sentence-next
+Here in the U.S.,
 o-o
 Christians
 o-o
@@ -1965,43 +1966,55 @@ o-o
 more sense.
 sentence-next
 o-o
-And name-father-of-fiance no-space ,
+I too sometimes
 o-o
-about the boasting,
+find myself
 o-o
-if I understand
+boasting,
 o-o
-what father means,
+so what's your
 o-o
-it might be
-o-o
-a sign
-o-o
-of low self esteem.
+wisdom on that?
 end-lyric
 
 ambee sings-minister amenn
-You're learning
+Boasting
 o-o
-quickly.
+is a sign of
+o-o
+low self esteem.
 sentence-next
 o-o
-Self love,
+Yet the real kind
 o-o
-the real kind,
+of self love is
 o-o
-is essential.
-sentence-next
+essential.
 o-o
 That's because
 o-o
-you can't
+you can't love
 o-o
-love someone else
+someone else
 o-o
 more than you love
 o-o
 yourself.
+sentence-next
+o-o
+That kind of
+o-o
+self love
+o-o
+you build
+o-o
+inside,
+o-o
+not as a
+o-o
+displayed
+o-o
+kind of pride.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -2029,11 +2042,11 @@ for what I do.
 end-lyric
 
 ambee sings-minister amenn
-Here's another
+Here's a
 o-o
-perspective
+related
 o-o
-that might be useful.
+perspective.
 sentence-next
 o-o
 Does your wife
@@ -3370,7 +3383,9 @@ results
 o-o
 we need
 o-o
-ranked ballots
+ranked choice
+o-o
+ballots
 o-o
 'n pairwise
 o-o
@@ -3951,7 +3966,9 @@ end-lyric
 ambee sings-damien amenn
 If we used
 o-o
-ranked ballots
+ranked choice
+o-o
+ballots
 o-o
 and pairwise
 o-o
@@ -4123,7 +4140,9 @@ begin-italics primary end-italics
 o-o
 election
 o-o
-had used ranked ballots
+had used ranked choice
+o-o
+ballots
 o-o
 and pairwise counting,
 o-o
@@ -4227,7 +4246,7 @@ We don't know
 o-o
 because even
 o-o
-the sample polls
+opinion polls
 o-o
 don't ask voters
 o-o
@@ -4249,7 +4268,7 @@ than Hillary.
 end-lyric
 
 ambee sings-damien amenn
-But with ranked
+But with ranked choice
 o-o
 ballots and
 o-o
@@ -4289,9 +4308,11 @@ So you're saying
 o-o
 that if we used
 o-o
-ranked ballots and
+ranked choice
 o-o
-pairwise counting
+ballots and
+o-o
+pairwise counting,
 o-o
 then voters would have
 o-o

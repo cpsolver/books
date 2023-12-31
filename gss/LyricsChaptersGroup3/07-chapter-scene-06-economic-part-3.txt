@@ -811,7 +811,7 @@ And women
 o-o
 will spend
 o-o
-lots of the extra
+the extra money
 o-o
 less
 o-o
@@ -819,7 +819,7 @@ selfishly,
 o-o
 to benefit
 o-o
-family
+their family
 o-o
 and their
 o-o
@@ -1081,6 +1081,10 @@ o-o
 than a self hyphen-here driving
 o-o
 car.
+end-lyric
+
+ambee sings-desha amenn
+Me too!
 end-lyric
 
 ambee sings-econhist amenn

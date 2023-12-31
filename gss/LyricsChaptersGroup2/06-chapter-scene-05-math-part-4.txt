@@ -657,15 +657,356 @@ o-o
 are mostly about,
 o-o
 counting.
+sentence-next
+o-o
+Speaking of which,
+o-o
+you're likely
+o-o
+to run into
+o-o
+people who
+o-o
+criticize
+o-o
+ranked choice
+o-o
+ballots because
+o-o
+they don't
+o-o
+understand
+o-o
+an important
+o-o
+counting detail.
 end-lyric
 
+ambee sings-damien amenn
+What detail?
+end-lyric
 
-
+ambee sings-mathprof amenn
+They will claim
+o-o
+you can't mark
+o-o
+two candidates
+o-o
+at the same rank.
+end-lyric
 
 ambee sings-damien amenn
-So how can the
+Like marking
 o-o
-ballot handle
+both Oscar
+o-o
+and Pinoke
+o-o
+as a third choice?
+end-lyric
+
+ambee sings-mathprof amenn
+Exactly.
+sentence-next
+o-o
+That's not
+o-o
+a problem for
+o-o
+pairwise
+o-o
+vote counting.
+sentence-next
+o-o
+But in
+o-o
+Australia
+o-o
+they've been using
+o-o
+paper ballots
+o-o
+for ranked choice
+o-o
+voting
+o-o
+for many decades,
+o-o
+long before
+o-o
+computer
+o-o
+technology
+o-o
+and pairwise
+o-o
+vote counting
+o-o
+were an option.
+sentence-next
+o-o
+Their ballots
+o-o
+have a box
+o-o
+next to each
+o-o
+candidate's
+o-o
+name,
+o-o
+and a voter
+o-o
+writes a number
+o-o
+in each box.
+sentence-next
+o-o
+Counting those
+o-o
+by hand
+o-o
+on election night
+o-o
+was a lot of work,
+o-o
+so they created
+o-o
+a shortcut.
+sentence-next
+o-o
+They called that
+o-o
+ranking pattern
+o-o
+an begin-italics overvote end-italics no-space ,
+o-o
+and when
+o-o
+the counting
+o-o
+reached
+o-o
+an overvote
+o-o
+they tossed
+o-o
+that ballot
+o-o
+onto an
+o-o
+overvote pile,
+o-o
+and ignored it.
+end-lyric
+
+ambee sings-desha amenn
+That's what I'd
+o-o
+probably do.
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+it's not like
+o-o
+the ballot
+o-o
+could be ripped
+o-o
+in half
+o-o
+as if it were
+o-o
+a fraction
+o-o
+of a vote.
+end-lyric
+
+ambee sings-mathprof amenn
+Actually,
+o-o
+mathematically,
+o-o
+fractions
+o-o
+would work.
+sentence-next
+o-o
+But voters don't like
+o-o
+fractions.
+end-lyric
+
+ambee sings-damien amenn
+Imagine
+o-o
+that!
+end-lyric
+
+ambee sings-mathprof amenn
+So if you two
+o-o
+both marked
+o-o
+your ballots
+o-o
+with Oscar
+o-o
+and Pinoke
+o-o
+as your third choice,
+o-o
+and your higher hyphen-here ranked
+o-o
+candidates
+o-o
+were no longer
+o-o
+in the race,
+o-o
+how could you
+o-o
+count those
+o-o
+marks correctly?
+sentence-next
+o-o
+Assuming there's
+o-o
+an even worse
+o-o
+candidate
+o-o
+ranked lower.
+end-lyric
+
+ambee sings-desha amenn
+Like Gollum,
+o-o
+or Voldemort,
+o-o
+or a real estate
+o-o
+developer.
+end-lyric
+
+ambee sings-damien amenn
+If voting
+o-o
+were done
+o-o
+in person,
+o-o
+by standing
+o-o
+in lines
+o-o
+behind the
+o-o
+candidates,
+o-o
+I'd tell name-desha
+o-o
+to stand in
+o-o
+Pinoke's line,
+o-o
+while I stand in
+o-o
+Oscar's line.
+end-lyric
+
+ambee sings-desha amenn
+That would express
+o-o
+our support
+o-o
+for Oscar
+o-o
+and Pinoke
+o-o
+over the
+o-o
+depraved
+o-o
+evil one.
+end-lyric
+
+ambee sings-damien amenn
+The mathematical
+o-o
+equivalent
+o-o
+of flipping
+o-o
+our middle finger
+o-o
+to the awful
+o-o
+candidate.
+end-lyric
+
+ambee sings-mathprof amenn
+Excellent!
+sentence-next
+o-o
+That's fair,
+o-o
+and easy to do
+o-o
+with computer
+o-o
+counting.
+end-lyric
+
+ambee sings-damien amenn
+I think I see
+o-o
+why this could be
+o-o
+useful.
+sentence-next
+o-o
+If there were
+o-o
+seven good
+o-o
+candidates,
+o-o
+plus some awful
+o-o
+canidates,
+o-o
+but only seven
+o-o
+choice columns,
+o-o
+I could rank
+o-o
+the worse ones
+o-o
+at shared
+o-o
+lower choices,
+o-o
+and rank
+o-o
+the very worst
+o-o
+as my seventh
+o-o
+choice.
+end-lyric
+
+ambee sings-damien amenn
+And that might be
+o-o
+needed
+o-o
+when there are
 o-o
 lots of
 o-o
@@ -673,11 +1014,21 @@ candidates
 o-o
 from lots
 o-o
-of parties?
+of parties,
+o-o
+right?
 end-lyric
 
 ambee sings-mathprof amenn
-A separate
+Great thinking!
+o-o
+Getting back to
+o-o
+having multiple
+o-o
+seats to fill,
+o-o
+a separate
 o-o
 ballot question
 o-o
