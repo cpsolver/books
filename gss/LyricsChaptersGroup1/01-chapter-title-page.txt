@@ -54,7 +54,7 @@ The characters in this story are fictional, based on voices in the author's head
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
-Exception: The author's now hyphen-here deceased brother had the visual disability that name-damien has.
+Exception: The author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
 end-basic-paragraph
 
 begin-basic-paragraph

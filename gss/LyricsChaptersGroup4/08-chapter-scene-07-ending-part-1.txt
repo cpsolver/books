@@ -472,7 +472,9 @@ o-o
 morons.
 sentence-next
 o-o
-Spectator
+And remember,
+o-o
+spectator
 o-o
 sports and
 o-o
@@ -484,41 +486,49 @@ artificially
 o-o
 inject
 o-o
-scarcity,
+scarcity
 o-o
-and follow rules
+to block
 o-o
-that prevent
+cooperation
 o-o
-cooperation.
+and enforce
+o-o
+competition.
 sentence-next
 o-o
 Unfortunately
 o-o
-there are priests
+some priests
 o-o
-who promote
+promote
 o-o
-the idea
+the notion
 o-o
 of evil
 o-o
-to attract a
+because it
 o-o
-prayerful
+attracts
 o-o
-paying
+bigger
 o-o
-congregation.
+donations
+o-o
+from their
+o-o
+congregations.
 sentence-next
 o-o
-In contrast
+Without those
 o-o
-to all of that,
+tricks
 o-o
-cooperation
+the result is
 o-o
-can be as
+cooperation,
+o-o
+which is as
 o-o
 boring as
 o-o

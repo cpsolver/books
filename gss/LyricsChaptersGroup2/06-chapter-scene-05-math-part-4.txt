@@ -925,7 +925,9 @@ Oscar's line.
 end-lyric
 
 ambee sings-desha amenn
-That would express
+Yes,
+o-o
+that would express
 o-o
 our support
 o-o
@@ -955,16 +957,24 @@ candidate.
 end-lyric
 
 ambee sings-mathprof amenn
-Excellent!
+That's the right
+o-o
+concept,
+o-o
+but the wrong
+o-o
+terminology.
 sentence-next
 o-o
-That's fair,
+That's easy
 o-o
-and easy to do
+to do with
 o-o
-with computer
+computer
 o-o
-counting.
+counting,
+o-o
+and it's fair.
 end-lyric
 
 ambee sings-damien amenn
@@ -975,43 +985,7 @@ o-o
 useful.
 sentence-next
 o-o
-If there were
-o-o
-seven good
-o-o
-candidates,
-o-o
-plus some awful
-o-o
-canidates,
-o-o
-but only seven
-o-o
-choice columns,
-o-o
-I could rank
-o-o
-the worse ones
-o-o
-at shared
-o-o
-lower choices,
-o-o
-and rank
-o-o
-the very worst
-o-o
-as my seventh
-o-o
-choice.
-end-lyric
-
-ambee sings-damien amenn
-And that might be
-o-o
-needed
-o-o
-when there are
+When there are
 o-o
 lots of
 o-o
@@ -1021,13 +995,48 @@ from lots
 o-o
 of parties,
 o-o
-right?
+I'd want to mark
+o-o
+the most evil
+o-o
+candidate
+o-o
+as my last choice.
+sentence-next
+o-o
+That means
+o-o
+I need to use
+o-o
+the next hyphen-here to hyphen-here last
+o-o
+choice column
+o-o
+for all the
+o-o
+candidates
+o-o
+who are worse
+o-o
+than my first few
+o-o
+choices,
+o-o
+but not as evil
+o-o
+as the
+o-o
+diabolical
+o-o
+jerk.
 end-lyric
 
 ambee sings-mathprof amenn
 Great thinking!
 o-o
-Getting back to
+Now,
+o-o
+getting back to
 o-o
 having multiple
 o-o

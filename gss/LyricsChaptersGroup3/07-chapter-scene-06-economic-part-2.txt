@@ -361,20 +361,24 @@ I had to
 o-o
 deal with cash,
 o-o
-unlock
+unlocking
 o-o
-expensive
+locked hyphen-here up
 o-o
 merchandise,
 o-o
-and loan out
+and loaning out
 o-o
-the restroom
+the filthy
+o-o
+restroom
 o-o
 key.
 end-lyric
 
 ambee sings-damien amenn
+As I see it,
+o-o
 Amazon
 o-o
 uses computer
@@ -397,9 +401,6 @@ o-o
 which brings
 o-o
 prosperity.
-sentence-next
-o-o
-Got it.
 end-lyric
 
 ambee sings-desha amenn
@@ -1233,26 +1234,36 @@ o-o
 anymore.
 sentence-next
 o-o
-Except in Russia
+Except in
 o-o
-when critics of
+Russia
+o-o
+where critics of
 o-o
 Valdimir
 o-o
 Putin
 o-o
-somehow
+have a
 o-o
-die
+remarkable
 o-o
-by falling
+statistical
 o-o
-out a high
+correlation
 o-o
-window.
+with falling
+o-o
+to their death
+o-o
+from high
+o-o
+windows.
 sentence-next
 o-o
-This pattern
+In other words,
+o-o
+this pattern
 o-o
 of declining
 o-o
@@ -1422,7 +1433,11 @@ ambee sings-econhist amenn
 That's it.
 sentence-next
 o-o
-Already a city
+Now consider
+o-o
+that already
+o-o
+a city
 o-o
 government,
 o-o
@@ -1430,9 +1445,7 @@ or state
 o-o
 government,
 o-o
-will give a
-o-o
-tax break
+gives a tax break
 o-o
 to a big new
 o-o
@@ -1446,32 +1459,27 @@ their city
 o-o
 or state.
 sentence-next
-But usually,
+o-o
+However,
+o-o
+usually,
 o-o
 small
 o-o
 businesses
 o-o
 don't get those breaks.
-o-o
-Not even if the
-o-o
-small business
-o-o
-attracts
-o-o
-tourists
-o-o
-to the city.
 sentence-next
 o-o
-Or sells software
+Not even if they
+o-o
+sell software
 o-o
 to customers
 o-o
 around the world
 o-o
-and brings
+and bring
 o-o
 lots of money
 o-o
@@ -1480,15 +1488,26 @@ o-o
 region.
 sentence-next
 o-o
-If those small
+And not even
+o-o
+if the small
+o-o
+business
+o-o
+attracts
+o-o
+tourists
+o-o
+into the city.
+sentence-next
+o-o
+Yet if those small
 o-o
 businesses
 o-o
-also got a
+got a good break
 o-o
-break in their
-o-o
-taxes,
+in their taxes,
 o-o
 that would
 o-o
@@ -1538,96 +1557,44 @@ Ah,
 o-o
 like a
 o-o
-real estate
-o-o
-developer
-o-o
-claiming
-o-o
-they're selling
-o-o
-their oversized
-o-o
-mansion home
-o-o
-to someone from
-o-o
-out of state,
-o-o
-as if that flow
-o-o
-of money
-o-o
-into the local
-o-o
-economy
-o-o
-were all that
-o-o
-mattered.
-sentence-next
-o-o
-Without caring
-o-o
-about increased
-o-o
-car traffic,
-o-o
-increased
-o-o
-pollution,
-o-o
-added electricity
-o-o
-consumption,
-o-o
-and the loss of frogs
-o-o
-in the pond
-o-o
-that was filled in
-o-o
-to build the house.
-end-lyric
-
-ambee sings-damien amenn
-And a small
+small lumber
 o-o
 company
 o-o
-that cuts and ships
+cutting down
 o-o
-lumber
+lots of trees
 o-o
-to places
+from forests
 o-o
-far away.
-end-lyric
-
-ambee sings-desha amenn
-Yes,
+and selling
 o-o
-like to Japan,
+to Japan
 o-o
 where long ago
 o-o
-they cut down
+they cut down their
 o-o
-their forests for
+own forests
 o-o
-firewood,
+for firewood.
+sentence-next
 o-o
-so they bought
+Those kinds
 o-o
-lots of lumber
+of small
 o-o
-from the Pacific
+businesses
 o-o
-Northwest.
+certainly
+o-o
+don't deserve
+o-o
+any reward.
 end-lyric
 
 ambee sings-econhist amenn
-But if we had
+If we had
 o-o
 a better
 o-o
@@ -1651,45 +1618,29 @@ could give
 o-o
 tax breaks
 o-o
-to,
-o-o
-let's say,
-o-o
-many
-o-o
-small software
+to the small
 o-o
 businesses
 o-o
-that
+that really
 o-o
-efficiently
+do bring in
 o-o
-hire skilled
+money from
 o-o
-workers who
+distant
 o-o
-only consume
+customers
 o-o
-electricity
+without losing
 o-o
-and sell
+anything
 o-o
-valuable
-o-o
-creative
-o-o
-software hyphen-here based
-o-o
-services
-o-o
-to customers
-o-o
-around the world.
+significant.
 end-lyric
 
 ambee sings-desha amenn
-And I hope
+I hope
 o-o
 the tax break
 o-o
@@ -1711,13 +1662,17 @@ writers
 o-o
 that create
 o-o
-low hyphen-here budget
+art such as
 o-o
-videos
+songs,
 o-o
-worth
+books,
 o-o
-watching.
+videos,
+o-o
+paintings,
+o-o
+and jewelry.
 end-lyric
 
 ambee sings-damien amenn

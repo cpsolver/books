@@ -14,7 +14,7 @@ by Richard Fobes
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2024-January-3 end-explain
+begin-explain Draft 2024-January-5 end-explain
 end-subtitle
 
 begin-basic-paragraph
