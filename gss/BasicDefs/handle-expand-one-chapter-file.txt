@@ -1,7 +1,22 @@
 ambee copy-text word-to-use-in-handler chapter-phrase-name amenn
 ambee copy-characters-from-position-to-position chapter-phrase-name chapter-number-two-digits 1 2 amenn
-ambee expand-text template-filename-chapter-for-epub output-filename-chapter-for-epub amenn
 ambee expand-text title-chapter fenambee chapter-number-two-digits amenn chapter-title amenn
+ambee expand-text template-filename-chapter-for-epub output-filename-chapter-for-epub amenn
+
+ambee if-no-begin ambee yes-or-no-same-two-phrase-definitions chapter-number-two-digits previous-chapter-number-two-digits amenn amenn
+    ambee terminate-epub-file-if-needed amenn
+    ambee expand-text template-begin-epub-chapter begin-epub-chapter amenn
+
+
+ambee trace-show begin-epub-chapter amenn
+ambee trace-show output-filename-chapter-for-epub amenn
+
+
+    ambee copy-from-phrase-append-to-file begin-epub-chapter ambee output-filename-chapter-for-epub amenn amenn
+ambee if-end amenn
+
 ambee expand-text ambee get-phrase-name-from-phrase chapter-phrase-name amenn expanded-chapter amenn
 ambee copy-from-phrase-append-to-file expanded-chapter ambee output-filename-libretto amenn amenn
 ambee copy-from-phrase-append-to-file expanded-chapter ambee output-filename-chapter-for-epub amenn amenn
+ambee copy-text chapter-number-two-digits previous-chapter-number-two-digits amenn
+ambee copy-text output-filename-chapter-for-epub previous-output-filename-chapter-for-epub amenn
