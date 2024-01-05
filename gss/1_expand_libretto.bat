@@ -1,6 +1,8 @@
 
 set PerlPath=F:\Important\Tools\
+set DirGss=F:\Important\GitHub\books\gss\
 set DirExpand=F:\Important\GitHub\books\gss\Expand\
+set DirEpub=F:\Important\GitHub\books\gss\epub\
 
 
 rem ---------- verify needed files exist ----------
@@ -22,7 +24,7 @@ dir /b /s .\*.txt > %DirExpand%temp_list_of_file_paths.txt
 
 rem ---------- move to Expand folder ----------
 
-cd F:\Important\GitHub\books\gss\Expand\
+cd %DirExpand%
 del goat_spitting_secret.html
 
 
@@ -82,11 +84,13 @@ type executable_expand_libretto.pl | %PerlPath%perl -pe "s/900000000/90000000000
 copy output_trace.txt output_trace_group_4.txt
 
 
-rem ---------- generate the epub version ----------
+rem ---------- generate epub version ----------
 
-rem "C:\Program Files\7-Zip\7z.exe" a GoatSpittingSecret.epub .\epub\mimetype
-cd F:\Important\GitHub\books\gss\epub\
-rem "C:\Program Files\7-Zip\7z.exe" a F:\Important\GitHub\books\gss\GoatSpittingSecret.epub
+del %DirGss%GoatSpittingSecret.epub
+"C:\Program Files\7-Zip\7z.exe" a %DirGss%GoatSpittingSecret.epub %DirGss%mimetype_only\mimetype
+cd %DirEpub%
+"C:\Program Files\7-Zip\7z.exe" a %DirGss%GoatSpittingSecret.epub *
+cd %DirExpand%
 
 
 rem ---------- check HTML tags ----------
@@ -103,6 +107,13 @@ rem ---------- create local copy under full name ----------
 
 del F:\Important\GitHub\books\gss\goat_spitting_secret.html
 copy %DirExpand%goat_spitting_secret.html F:\Important\GitHub\books\gss\goat_spitting_secret.html
+
+
+rem ---------- check epub file ----------
+
+dir %PerlPath%epubcheck\epubcheck.jar
+
+java -jar %PerlPath%epubcheck\epubcheck.jar GoatSpittingSecret.epub
 
 
 pause
