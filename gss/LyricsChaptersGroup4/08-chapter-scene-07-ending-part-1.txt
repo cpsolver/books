@@ -1,0 +1,2052 @@
+begin-title
+Scene 7,
+title-chapter-08
+end-title
+
+ambee put-into-phrase lyric-number 0800000 amenn
+
+combee ************
+begin-comment Illustration:
+Hospital recovery room, with single hospital bed, and one chair to right and behind bed.
+Venture capitalist is lying in hospital bed, hooked up to monitor showing heartbeat.
+Religious minister is sitting on chair, and is holding (closed) Bible.
+Father of fiance is standing on right side.
+In foreground are, from left to right, Desha, Damien, fiance.
+Religious minister is Desha's (biological) father, so much match Desha's general racial/genetic characteristics, and he is wearing a priest's collar and Christian priest's black clothes.
+Father of fiance much match fiance's general racial/genetic characteristics, and he is a nicely dressed businessman with coat and tie.
+Everyone is facing Damien, and Damien is mostly facing viewer, but his head and partially his body is facing toward right side (toward fiance), as would happen in a performance on a theatre stage.
+end-comment
+
+begin-comment
+name-minister is always holding a closed Bible;
+end-comment
+************ comenn
+
+ambee sings-vc-firstuse amenn
+Father,
+o-o
+I've given lots of money
+o-o
+to your worthy church.
+sentence-next
+o-o
+I've asked you here
+o-o
+because now I search
+o-o
+for a way to buy
+o-o
+the delay of death.
+sentence-next
+o-o
+Please give me a reprieve
+o-o
+on my last breath.
+end-lyric
+
+ambee sings-minister-firstuse amenn
+The spiritual world
+o-o
+soars above
+o-o
+the physical world
+o-o
+that your body
+o-o
+is a part of.
+sentence-next
+o-o
+It's like a
+o-o
+pyramid.
+end-lyric
+
+ambee sings-vc amenn
+Too big
+o-o
+to fit in a
+o-o
+museum?
+end-lyric
+
+ambee sings-minister-firstuse amenn
+The peak
+o-o
+must rest on a
+o-o
+solid foundation
+o-o
+that cannot be weak.
+sentence-next
+o-o
+So the golden rule
+o-o
+of doing good deeds
+o-o
+must rest on
+o-o
+a strong
+o-o
+foundation of
+o-o
+not doing bad deeds.
+end-lyric
+
+ambee sings-vc amenn
+No more
+o-o
+begin-italics Go Fudge Yourself end-italics
+o-o
+ice cream?
+sentence-next
+o-o
+That's what you're sayin'?
+sentence-next
+o-o
+I promise I'll
+o-o
+do better.
+sentence-next
+o-o
+So please do
+o-o
+some prayin'!
+end-lyric
+
+ambee sings-minister amenn
+It's not just what
+o-o
+I say and
+o-o
+what your brain thinks.
+sentence-next
+o-o
+It's what you do.
+sentence-next
+o-o
+It's your actions,
+o-o
+your behaviors,
+o-o
+that's what God
+o-o
+listens to.
+end-lyric
+
+ambee sings-vc amenn
+This heart attack
+o-o
+has me scared.
+sentence-next
+o-o
+I don't feel prepared.
+sentence-next
+o-o
+Is there a
+o-o
+spiritual
+o-o
+equivalent
+o-o
+of duct tape?
+sentence-next
+o-o
+Something to
+o-o
+compensate
+o-o
+for my
+o-o
+fear of death?
+end-lyric
+
+ambee sings-minister amenn
+To cast out fear,
+o-o
+fill your heart with love.
+sentence-next
+o-o
+That's what your heart
+o-o
+needs lots more of.
+end-lyric
+
+ambee sings-vc amenn
+I have no kids
+o-o
+and no real friends.
+sentence-next
+o-o
+I do love Benjamins,
+o-o
+but that's where it ends.
+sentence-next
+o-o
+My money brings pleasure,
+o-o
+and envy from others,
+o-o
+and attracts gold diggers
+o-o
+but not real lovers.
+sentence-next
+o-o
+Who can I love?
+sentence-next
+o-o
+How does that feel?
+sentence-next
+o-o
+Is there time to love?
+sentence-next
+o-o
+Can it really heal?
+end-lyric
+
+ambee sings-minister amenn
+To love, first you must
+o-o
+let go of darkness.
+sentence-next
+o-o
+Start with understanding
+o-o
+that money is not evil.
+sentence-next
+o-o
+It's greed that is evil.
+end-lyric
+
+ambee sings-vc amenn
+Is it greedy to want
+o-o
+to have it all?
+end-lyric
+
+ambee sings-minister amenn
+We are human,
+o-o
+so all of us
+o-o
+want it all.
+sentence-next
+o-o
+But there's not enough
+o-o
+time or energy to
+o-o
+acquire it all.
+end-lyric
+
+ambee sings-vc amenn
+But there are
+o-o
+shortcuts.
+end-lyric
+
+ambee sings-minister amenn
+Most shortcuts
+o-o
+increase
+o-o
+suffering
+o-o
+for others.
+sentence-next
+o-o
+That blocks you
+o-o
+from rising
+o-o
+spiritually,
+o-o
+and reaching
+o-o
+the highest
+o-o
+kinds of love.
+sentence-next
+o-o
+That's far above
+o-o
+criminals
+o-o
+and lawyers,
+o-o
+...
+sentence-next
+o-o
+I mean
+o-o
+sinners.
+sentence-next
+o-o
+That's why
+o-o
+the Bible says
+o-o
+it's easier
+o-o
+for a camel
+o-o
+to fit through
+o-o
+the eye of a
+o-o
+needle than
+o-o
+for a rich man
+o-o
+to become
+o-o
+a loving saint
+o-o
+on earth.
+end-lyric
+
+ambee sings-vc amenn
+I do want
+o-o
+to be loved.
+sentence-next
+o-o
+Yet I'm not yet
+o-o
+tired of being
+o-o
+admired.
+end-lyric
+
+ambee sings-minister amenn
+Which has
+o-o
+a higher
+o-o
+priority?
+end-lyric
+
+ambee sings-vc amenn
+It's all important.
+end-lyric
+
+ambee sings-minister amenn
+For something to be
+o-o
+important,
+o-o
+everything else
+o-o
+must be less
+o-o
+important.
+end-lyric
+
+ambee sings-vc amenn
+It's now
+o-o
+important
+o-o
+that I live.
+sentence-next
+o-o
+I now believe
+o-o
+religion can
+o-o
+give me more than
+o-o
+what I had
+o-o
+before my
+o-o
+heart attack.
+end-lyric
+
+ambee sings-minister amenn
+Do you embrace
+o-o
+religion to
+o-o
+do good deeds?
+sentence-next
+o-o
+Or just to feel
+o-o
+less guilt for
+o-o
+doing deeds
+o-o
+that God would
+o-o
+frown on?
+end-lyric
+
+ambee sings-vc amenn
+I'm a bit lost.
+sentence-next
+o-o
+I'm in a fog.
+sentence-next
+o-o
+Don't I need to
+o-o
+engage in
+o-o
+combat
+o-o
+against the
+o-o
+wicked evil
+o-o
+hiding in
+o-o
+other
+o-o
+people?
+end-lyric
+
+ambee sings-minister amenn
+Wickedness
+o-o
+is not always
+o-o
+hiding in us.
+sentence-next
+o-o
+If you're thinking
+o-o
+of the
+o-o
+wickedness
+o-o
+in horror flicks,
+o-o
+in books like
+o-o
+begin-italics Lord Of The Flies end-italics no-space ,
+o-o
+and in
+o-o
+super hyphen-here hero
+o-o
+comic books,
+o-o
+that's all
+o-o
+fiction.
+end-lyric
+
+ambee sings-vc amenn
+What about
+o-o
+the news?
+end-lyric
+
+ambee sings-minister amenn
+News sources
+o-o
+sell your
+o-o
+eyeballs and
+o-o
+ears to
+o-o
+advertisers,
+o-o
+so they choose
+o-o
+dramatic news
+o-o
+about
+o-o
+audacious
+o-o
+criminals,
+o-o
+slimy
+o-o
+politicians,
+o-o
+and other
+o-o
+morons.
+sentence-next
+o-o
+Spectator
+o-o
+sports and
+o-o
+reality
+o-o
+TV
+o-o
+artificially
+o-o
+inject
+o-o
+scarcity,
+o-o
+and follow rules
+o-o
+that prevent
+o-o
+cooperation.
+sentence-next
+o-o
+Unfortunately
+o-o
+there are priests
+o-o
+who promote
+o-o
+the idea
+o-o
+of evil
+o-o
+to attract a
+o-o
+prayerful
+o-o
+paying
+o-o
+congregation.
+sentence-next
+o-o
+In contrast
+o-o
+to all of that,
+o-o
+cooperation
+o-o
+can be as
+o-o
+boring as
+o-o
+a gun
+o-o
+in the hands
+o-o
+of a blind
+o-o
+pacifist.
+end-lyric
+
+ambee sings-vc amenn
+What about the
+o-o
+Holocaust?
+end-lyric
+
+ambee sings-minister amenn
+During a time of
+o-o
+nationwide
+o-o
+starvation,
+o-o
+and massive
+o-o
+economic
+o-o
+suffering,
+o-o
+plus mass
+o-o
+stupidity,
+o-o
+the Nazi
+o-o
+government
+o-o
+encouraged
+o-o
+non hyphen-here Jewish
+o-o
+Germans
+o-o
+to steal gold
+o-o
+and cash and
+o-o
+houses and
+o-o
+businesses
+o-o
+and dignity
+o-o
+from Jews.
+sentence-next
+o-o
+Ironically
+o-o
+part of the
+o-o
+reason Jews
+o-o
+had become
+o-o
+wealthy is that
+o-o
+early Christians
+o-o
+were taught
+o-o
+they should not
+o-o
+charge interest
+o-o
+when lending
+o-o
+money,
+o-o
+so Christians
+o-o
+asked Jews
+o-o
+living in
+o-o
+ghettos
+o-o
+to do the
+o-o
+lending.
+end-lyric
+
+ambee sings-vc amenn
+That explains
+o-o
+why Jews
+o-o
+aren't a small
+o-o
+minority
+o-o
+in the banking
+o-o
+industry
+o-o
+and in
+o-o
+New York City.
+sentence-next
+o-o
+But
+o-o
+surely there's
+o-o
+no excuse for
+o-o
+the evil in
+o-o
+the terrorists
+o-o
+in the
+o-o
+Middle East.
+end-lyric
+
+ambee sings-minister amenn
+Terrorists
+o-o
+and soldiers
+o-o
+fight to help
+o-o
+their family,
+o-o
+their comrades,
+o-o
+and to earn
+o-o
+money.
+sentence-next
+o-o
+An ideology
+o-o
+is mostly
+o-o
+the frosting
+o-o
+on the cookie.
+end-lyric
+
+ambee sings-vc amenn
+What if the
+o-o
+ideology is
+o-o
+money?
+end-lyric
+
+ambee sings-minister amenn
+Yes,
+o-o
+an
+o-o
+opportunity
+o-o
+to gain
+o-o
+money or wealth
+o-o
+is behind lots
+o-o
+and lots of
+o-o
+evil deeds.
+sentence-next
+o-o
+Like when
+o-o
+Japanese
+o-o
+Americans
+o-o
+were put into
+o-o
+concentration
+o-o
+camps
+o-o
+partly as
+o-o
+a way to steal
+o-o
+the valuable
+o-o
+southern
+o-o
+California
+o-o
+farmland
+o-o
+that lots of
+o-o
+Japanese
+o-o
+Americans
+o-o
+owned.
+end-lyric
+
+ambee sings-vc amenn
+Is there an
+o-o
+antidote?
+sentence-next
+o-o
+To evil?
+end-lyric
+
+ambee sings-minister amenn
+Yes,
+o-o
+talking.
+sentence-next
+o-o
+To people on
+o-o
+the other side.
+end-lyric
+
+ambee sings-vc amenn
+Talking.
+sentence-next
+o-o
+I do lots
+o-o
+of that,
+o-o
+as part of
+o-o
+business.
+end-lyric
+
+ambee sings-minister amenn
+Do you ask
+o-o
+questions
+o-o
+with a desire
+o-o
+to understand
+o-o
+the other person's
+o-o
+point of view?
+end-lyric
+
+ambee sings-vc amenn
+Why would I
+o-o
+do that?
+end-lyric
+
+ambee sings-minister amenn
+Consider what
+o-o
+ended apartheid
+o-o
+in South
+o-o
+Africa.
+sentence-next
+o-o
+It was secret
+o-o
+talks.
+sentence-next
+o-o
+One of them
+o-o
+was between
+o-o
+Nelson Mandela,
+o-o
+and a
+o-o
+clergyman,
+o-o
+and the
+o-o
+clergyman's
+o-o
+twin brother
+o-o
+who led a
+o-o
+militant
+o-o
+group that
+o-o
+supported
+o-o
+apartheid.
+sentence-next
+o-o
+Through talking,
+o-o
+Mandela
+o-o
+and the
+o-o
+pro hyphen-here apartheid
+o-o
+leader
+o-o
+discovered
+o-o
+unexpected
+o-o
+common ground.
+end-lyric
+
+ambee sings-vc amenn
+Does this work in
+o-o
+relationships?
+sentence-next
+o-o
+I admit
+o-o
+I could use
+o-o
+some of those
+o-o
+kinds of tips.
+end-lyric
+
+ambee sings-minister amenn
+Indeed.
+sentence-next
+o-o
+But don't expect
+o-o
+you'll ever
+o-o
+find out
+o-o
+what's in the
+o-o
+other person's
+o-o
+mind.
+sentence-next
+o-o
+Your goal should be
+o-o
+to seek a path
+o-o
+that benefits
+o-o
+both sides.
+sentence-next
+o-o
+Talking helps
+o-o
+you find that
+o-o
+path.
+end-lyric
+
+ambee sings-vc amenn
+My head is
+o-o
+spinning.
+sentence-next
+o-o
+Without money
+o-o
+as a compass
+o-o
+I'm lost.
+sentence-next
+o-o
+And winning.
+sentence-next
+o-o
+That's the only
+o-o
+goal I know.
+end-lyric
+
+ambee sings-minister amenn
+Ah, yes,
+o-o
+winning.
+sentence-next
+o-o
+Parents
+o-o
+and teachers
+o-o
+and managers
+o-o
+use winning
+o-o
+prizes
+o-o
+to entice
+o-o
+kids and
+o-o
+young people
+o-o
+to learn.
+sentence-next
+o-o
+But the real goal
+o-o
+is the learning.
+sentence-next
+o-o
+With maturity
+o-o
+we leave behind
+o-o
+the gold stars,
+o-o
+the shiny
+o-o
+trophies,
+o-o
+the memory
+o-o
+of being
+o-o
+employee
+o-o
+of the month,
+o-o
+and even
+o-o
+the dream of
+o-o
+a huge
+o-o
+audience
+o-o
+loudly chanting
+o-o
+your name.
+sentence-next
+o-o
+The skills
+o-o
+we've learned
+o-o
+remain,
+o-o
+long after
+o-o
+the prizes
+o-o
+have been
+o-o
+forgotten,
+o-o
+and the
+o-o
+evidence
+o-o
+is buried
+o-o
+under the
+o-o
+rubble of
+o-o
+fighting
+o-o
+old battles.
+sentence-next
+o-o
+Now the skill
+o-o
+you seek is
+o-o
+spirituality.
+sentence-next
+o-o
+It's trophy
+o-o
+is joy.
+sentence-next
+o-o
+So it's time
+o-o
+to let go of
+o-o
+immaturity.
+end-lyric
+
+ambee sings-vc amenn
+You're ripping
+o-o
+away what's
+o-o
+familiar.
+sentence-next
+o-o
+Can you give me
+o-o
+a second
+o-o
+compass?
+sentence-next
+o-o
+One that points up
+o-o
+to higher goals?
+sentence-next
+o-o
+And a flashlight
+o-o
+that points down
+o-o
+to the sharp rocks
+o-o
+in my path
+o-o
+ready to jab
+o-o
+my ass?
+end-lyric
+
+ambee sings-minister amenn
+Take in a deep breath.
+sentence-next
+o-o
+...
+sentence-next
+o-o
+With each in hyphen-here breath
+o-o
+may we breathe in
+o-o
+God's love,
+o-o
+as represented
+o-o
+by sunlight,
+o-o
+and beautiful
+o-o
+gardens,
+o-o
+and spirited
+o-o
+music,
+o-o
+and joyful
+o-o
+dancing,
+o-o
+and especially
+o-o
+laughter.
+sentence-next
+o-o
+...
+sentence-next
+o-o
+With each out hyphen-here breath
+o-o
+may we exhale
+o-o
+our dark fears,
+o-o
+and dark anger,
+o-o
+and our selfish
+o-o
+desire for the
+o-o
+very closest
+o-o
+parking spot.
+sentence-next
+o-o
+Fling that
+o-o
+darkness
+o-o
+into the sun
+o-o
+knowing it will
+o-o
+be atomized
+o-o
+and converted
+o-o
+into light.
+sentence-next
+o-o
+...
+sentence-next
+o-o
+When we let go
+o-o
+of darkness
+o-o
+we can better
+o-o
+focus on
+o-o
+beloved
+o-o
+family members
+o-o
+and friends.
+sentence-next
+o-o
+Even if dead,
+o-o
+they still reside
+o-o
+in our awareness.
+end-lyric
+
+ambee sings-vc amenn
+Oh,
+o-o
+the angry voices
+o-o
+in my head.
+sentence-next
+o-o
+I'm happy to
+o-o
+give them
+o-o
+eviction
+o-o
+notices.
+sentence-next
+o-o
+Sadly, I've
+o-o
+got no friends
+o-o
+in spite of my
+o-o
+great wealth.
+sentence-next
+o-o
+Women say
+o-o
+they want me.
+sentence-next
+o-o
+But they want
+o-o
+unemployment
+o-o
+and spending
+o-o
+my money on
+o-o
+countless shoes,
+o-o
+and outings
+o-o
+without me,
+o-o
+and trips to
+o-o
+the mall to buy
+o-o
+cosmetics
+o-o
+that signal
+o-o
+begin-italics don't touch me end-italics no-space .
+sentence-next
+o-o
+My world is
+o-o
+upside down.
+sentence-next
+o-o
+Got no friends.
+sentence-next
+o-o
+Who can I trust?
+end-lyric
+
+ambee sings-minister amenn
+Live in the present.
+sentence-next
+o-o
+Let go of the past.
+sentence-next
+o-o
+Not the memories.
+sentence-next
+o-o
+Just emotions
+o-o
+like expired anger,
+o-o
+out hyphen-here of hyphen-here date
+o-o
+sadness, and
+o-o
+the regret
+o-o
+that you didn't
+o-o
+choose the right words
+o-o
+when you last saw
+o-o
+someone alive.
+sentence-next
+o-o
+...
+sentence-next
+o-o
+Let go of the future.
+sentence-next
+o-o
+Hold on to wise plans
+o-o
+and wise goals.
+sentence-next
+o-o
+But let go of
+o-o
+a compulsion to
+o-o
+pinch pennies,
+o-o
+and worrying
+o-o
+that your cat
+o-o
+might get bit
+o-o
+by a rat,
+o-o
+and fearing
+o-o
+all your friends
+o-o
+will abandon you
+o-o
+if someone
+o-o
+spreads the lie
+o-o
+that you wore
+o-o
+socks with sandals
+o-o
+in public.
+sentence-next
+o-o
+Those
+o-o
+distracting
+o-o
+feelings
+o-o
+are about
+o-o
+unlikely futures.
+sentence-next
+o-o
+...
+sentence-next
+o-o
+Now,
+o-o
+the present,
+o-o
+is where joy
+o-o
+resides.
+sentence-next
+o-o
+Appreciate
+o-o
+what you've
+o-o
+already got.
+sentence-next
+o-o
+Appreciate
+o-o
+wherever you
+o-o
+already are.
+sentence-next
+o-o
+Appreciate
+o-o
+whatever you
+o-o
+are already
+o-o
+doing.
+sentence-next
+o-o
+Wallow in
+o-o
+the joy.
+sentence-next
+o-o
+And especially
+o-o
+welcome it
+o-o
+when it enters
+o-o
+your life.
+end-lyric
+
+ambee sings-father-of-fiance-firstuse amenn
+begin-explain Knock on door, door opens. end-explain
+o-o
+...
+sentence-next
+o-o
+Hello my friend!
+sentence-next
+o-o
+To help you mend
+o-o
+I brought you some
+o-o
+beautiful flowers.
+end-lyric
+
+ambee sings-vc amenn
+Ah, name-father-of-fiance
+o-o
+indeed welcome.
+sentence-next
+o-o
+Visiting hours
+o-o
+can be lonely.
+sentence-next
+o-o
+And thank you
+o-o
+for spending the,
+o-o
+er, for thinking
+o-o
+to bring flowers.
+sentence-next
+o-o
+...
+sentence-next
+o-o
+They are
+o-o
+beautiful.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I see you have
+o-o
+recruited a minister
+o-o
+to be more sure
+o-o
+of your cure.
+end-lyric
+
+ambee sings-vc amenn
+Allow me to introduce
+o-o
+father, er,
+o-o
+actually I now
+o-o
+realize I don't know
+o-o
+your name.
+end-lyric
+
+ambee sings-minister amenn
+My name ....
+end-lyric
+
+ambee sings-vc amenn
+Everyone calls him
+o-o
+father.
+sentence-next
+o-o
+It's OK if he calls
+o-o
+you father?
+end-lyric
+
+ambee sings-minister amenn
+Of course.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Hello father.
+sentence-next
+o-o
+And name-vc no-space ,
+o-o
+I look forward to
+o-o
+your recovery
+o-o
+so we can resume
+o-o
+our latest project.
+end-lyric
+
+ambee sings-vc amenn
+Let's not talk shop
+o-o
+just right now.
+sentence-next
+o-o
+I need to focus on
+o-o
+how to breathe
+o-o
+in the joy
+o-o
+of still being
+o-o
+alive.
+sentence-next
+o-o
+Stressful things
+o-o
+can come later,
+o-o
+if I survive.
+end-lyric
+
+ambee sings-minister amenn
+What other
+o-o
+protective
+o-o
+perspectives
+o-o
+can I offer?
+end-lyric
+
+ambee sings-vc amenn
+How can God be
+o-o
+everywhere?
+sentence-next
+o-o
+How can I
+o-o
+be sure that
+o-o
+God even cares
+o-o
+about me?
+end-lyric
+
+ambee sings-minister amenn
+You can hear
+o-o
+him laughing
+o-o
+whenever
+o-o
+you make plans.
+sentence-next
+o-o
+Also consider
+o-o
+thinking of God
+o-o
+as being like the
+o-o
+principles of
+o-o
+mathematics.
+end-lyric
+
+ambee sings-vc amenn
+Elusive?
+sentence-next
+o-o
+How is that
+o-o
+helpful?
+end-lyric
+
+ambee sings-minister amenn
+If you live
+o-o
+your life as if
+o-o
+two plus two
+o-o
+equals thirteen
+o-o
+then life
+o-o
+becomes hell.
+sentence-next
+o-o
+But if instead
+o-o
+you live your life
+o-o
+as if two plus two
+o-o
+equals four, then
+o-o
+life becomes
+o-o
+joyful.
+sentence-next
+o-o
+That's how God
+o-o
+is everywhere.
+sentence-next
+o-o
+Just as the principles
+o-o
+of mathematics
+o-o
+are everywhere.
+end-lyric
+
+ambee sings-vc amenn
+I like that
+o-o
+outlook.
+sentence-next
+o-o
+Why have I not
+o-o
+heard you say it
+o-o
+from your perch,
+o-o
+your pulpit
+o-o
+in church?
+end-lyric
+
+ambee sings-minister amenn
+There are some things
+o-o
+we can't preach.
+end-lyric
+
+ambee sings-vc amenn
+Like what?
+end-lyric
+
+ambee sings-minister amenn
+If we speak out
+o-o
+with boldness
+o-o
+against war,
+o-o
+that would impair
+o-o
+our tax hyphen-here exempt
+o-o
+status.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+That's right!
+sentence-next
+o-o
+Churches don't pay
+o-o
+property taxes.
+sentence-next
+o-o
+Maybe I should
+o-o
+form a church to
+o-o
+get that sweet deal.
+end-lyric
+
+ambee sings-vc amenn
+What else can
+o-o
+you not say in
+o-o
+church?
+end-lyric
+
+ambee sings-minister amenn
+Many ministers
+o-o
+manipulate
+o-o
+their flock by
+o-o
+transforming
+o-o
+guilt into shame.
+sentence-next
+o-o
+But the best
+o-o
+ministers
+o-o
+transform guilt
+o-o
+into choosing
+o-o
+actions that
+o-o
+don't lead to
+o-o
+new guilt.
+sentence-next
+o-o
+That shifts the focus
+o-o
+from resisting sin,
+o-o
+to adopting
+o-o
+high standards
+o-o
+of ethical
+o-o
+behavior.
+sentence-next
+o-o
+But attendance
+o-o
+would suffer
+o-o
+even more
+o-o
+if we preached
+o-o
+at that higher
+o-o
+spiritual
+o-o
+level.
+end-lyric
+
+ambee sings-fiance-firstuse amenn
+begin-explain Door opens and closes. end-explain
+o-o
+...
+sentence-next
+o-o
+Father!
+sentence-next
+o-o
+I couldn't wait
+o-o
+any longer
+o-o
+in the waiting
+o-o
+area.
+sentence-next
+o-o
+There's an awful
+o-o
+nasty woman
+o-o
+who was
+o-o
+harassing me.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+name-vc no-space ,
+o-o
+and father,
+o-o
+allow me to
+o-o
+introduce
+o-o
+my daughter,
+o-o
+name-fiance no-space .
+end-lyric
+
+ambee sings-minister amenn
+Pleased to meet you.
+end-lyric
+
+ambee sings-vc amenn
+It's a pleasure to
+o-o
+have your company.
+end-lyric
+
+ambee sings-minister amenn
+begin-explain There is a click of keys when name-minister types a short text message. end-explain
+end-lyric
+
+ambee sings-fiance amenn
+It's a pleasure
+o-o
+to meet you both.
+sentence-next
+o-o
+I'm sorry to
+o-o
+interrupt.
+sentence-next
+o-o
+Please resume
+o-o
+whatever you were
+o-o
+talking about.
+end-lyric
+
+ambee sings-vc amenn
+Father, why
+o-o
+in church do you
+o-o
+not talk more about
+o-o
+what you've said here?
+sentence-next
+o-o
+Instead you refer
+o-o
+so much to the
+o-o
+names and words
+o-o
+in the Bible.
+end-lyric
+
+ambee sings-minister amenn
+Our hands are tied.
+sentence-next
+o-o
+Especially
+o-o
+we can't
+o-o
+conflict with
+o-o
+politics.
+end-lyric
+
+ambee sings-vc amenn
+Oh,
+o-o
+so you can't
+o-o
+criticize
+o-o
+politicians
+o-o
+who lack
+o-o
+morality.
+end-lyric
+
+ambee sings-minister amenn
+We each do
+o-o
+the best we can
+o-o
+within our
+o-o
+limitations.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I've got a
+o-o
+question.
+sentence-next
+o-o
+My wife
+o-o
+tells me
+o-o
+my boasting
+o-o
+would make
+o-o
+a peacock
+o-o
+blush.
+sentence-next
+o-o
+She says
+o-o
+I should be
+o-o
+more humble
+o-o
+like Jesus,
+o-o
+who was just
+o-o
+a lowly
+o-o
+carpenter.
+sentence-next
+o-o
+What can I
+o-o
+say to her
+o-o
+to make her
+o-o
+understand
+o-o
+that pride
+o-o
+naturally
+o-o
+follows
+o-o
+from doing
+o-o
+great things?
+end-lyric
+
+ambee sings-minister amenn
+To set
+o-o
+the record
+o-o
+straight,
+o-o
+Jesus
+o-o
+probably
+o-o
+was not a
+o-o
+lowly
+o-o
+carpenter.
+sentence-next
+o-o
+He grew up in
+o-o
+Nazareth,
+o-o
+where there are
+o-o
+no trees.
+end-lyric
+
+ambee sings-vc amenn
+Jesus Christ!
+sentence-next
+o-o
+In church
+o-o
+you refer
+o-o
+to him as a
+o-o
+carpenter.
+end-lyric
+
+ambee sings-minister amenn
+Here in the U.S.,
+o-o
+Christians
+o-o
+read the bible
+o-o
+in English.
+sentence-next
+o-o
+The original
+o-o
+word in
+o-o
+ancient Greek
+o-o
+also could have
+o-o
+referred to
+o-o
+a blacksmith,
+o-o
+a ship builder,
+o-o
+or a stone mason.
+sentence-next
+o-o
+Stone mason
+o-o
+makes the most
+o-o
+sense to me.
+sentence-next
+o-o
+A crew of
+o-o
+thirteen
+o-o
+stone masons,
+o-o
+plus the
+o-o
+women who
+o-o
+did their cooking
+o-o
+and laundry,
+o-o
+would have been
+o-o
+welcomed,
+o-o
+and well paid,
+o-o
+for constucting
+o-o
+stone buildings.
+sentence-next
+o-o
+Especially
+o-o
+ones with big
+o-o
+archways.
+end-lyric
+
+ambee sings-vc amenn
+That does make
+o-o
+more sense.
+sentence-next
+o-o
+I too sometimes
+o-o
+find myself
+o-o
+boasting,
+o-o
+so what's your
+o-o
+wisdom on that?
+end-lyric
+
+ambee sings-minister amenn
+Boasting
+o-o
+is a sign of
+o-o
+low self esteem.
+sentence-next
+o-o
+Yet the real kind
+o-o
+of self love is
+o-o
+essential.
+o-o
+That's because
+o-o
+you can't love
+o-o
+someone else
+o-o
+more than you love
+o-o
+yourself.
+sentence-next
+o-o
+That kind of
+o-o
+self love
+o-o
+you build
+o-o
+inside,
+o-o
+not as a
+o-o
+displayed
+o-o
+kind of pride.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I don't
+o-o
+suffer from
+o-o
+low self hyphen-here esteem!
+sentence-next
+o-o
+I'm proud of what
+o-o
+I accomplish.
+sentence-next
+o-o
+The
+o-o
+money I earn
+o-o
+should make it clear
+o-o
+that I'm loved
+o-o
+for what I do.
+end-lyric

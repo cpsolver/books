@@ -14,7 +14,7 @@ by Richard Fobes
 end-subtitle
 
 begin-subtitle
-begin-explain Draft 2023-December-27 end-explain
+begin-explain Draft 2024-January-3 end-explain
 end-subtitle
 
 begin-basic-paragraph
@@ -51,6 +51,12 @@ end-basic-paragraph
 
 begin-basic-paragraph
 To find out about audiobook recordings and video performances of this witty dialog, point your browser to: SolutionsCreative.com
+end-basic-paragraph
+
+begin-basic-paragraph
+"Personally I found myself so much better informed about how the world works ...."
+sentence-next
+Geroge V.
 end-basic-paragraph
 
 page-break

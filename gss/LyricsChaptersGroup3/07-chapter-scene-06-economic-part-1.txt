@@ -589,14 +589,13 @@ of voters want.
 end-lyric
 
 ambee sings-desha amenn
-Of course
+Of course some
 o-o
-some will resist
+politicians
 o-o
-reformation.
-sentence-next
+lack souls,
 o-o
-They'll
+and they'll
 o-o
 persist
 o-o
@@ -806,9 +805,7 @@ Many people
 o-o
 mistakenly
 o-o
-think that
-o-o
-history
+think history
 o-o
 is mostly
 o-o
@@ -1262,7 +1259,7 @@ So this is why
 o-o
 the reverse hyphen-here racoon hyphen-here eyed guy
 o-o
-always wearing the same tie
+with the never hyphen-here changing tie
 o-o
 got so many votes.
 end-lyric
@@ -2258,12 +2255,16 @@ sentence-next
 o-o
 Interest rates
 o-o
-have been low.
+have been low
+o-o
+for decades.
 sentence-next
 o-o
-That means there's
+That means
 o-o
-lots of buyers
+there's been lots
+o-o
+of buyers
 o-o
 for those
 o-o
@@ -2284,7 +2285,9 @@ o-o
 Yes, normally.
 sentence-next
 o-o
-But China and
+But years ago
+o-o
+China and
 o-o
 Russia stopped
 o-o
@@ -2669,9 +2672,10 @@ have to
 o-o
 waste time
 o-o
-carrying,
+carrying.
+sentence-next
 o-o
-and they wasted
+And they wasted
 o-o
 less money at
 o-o
@@ -3116,12 +3120,33 @@ o-o
 they installed
 o-o
 tax collectors.
+sentence-next
+o-o
+And they built
+o-o
+churches and
+o-o
+installed
+o-o
+Christian priests
+o-o
+who collected
+o-o
+donations
+o-o
+and sent lots
+o-o
+of that wealth
+o-o
+to the Vatican
+o-o
+church in Rome.
 end-lyric
 
 ambee sings-desha amenn
-Lots of those
+Farmers
 o-o
-taxes were paid
+usually paid
 o-o
 with grains and
 o-o
@@ -3342,7 +3367,7 @@ o-o
 friends as
 o-o
 job candidates
-oo
+o-o
 isn't allowed.
 sentence-next
 o-o
@@ -3526,7 +3551,7 @@ Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
-Part of the wealth
+Lots of the wealth
 o-o
 going to Rome
 o-o
@@ -3719,6 +3744,9 @@ Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
+That's not quite right.
+sentence-next
+o-o
 The economic
 o-o
 reforms that
@@ -3734,6 +3762,10 @@ o-o
 Renaissance
 o-o
 have spread
+o-o
+that basis
+o-o
+for wealth
 o-o
 around the world.
 sentence-next
@@ -3990,7 +4022,7 @@ after seeing
 o-o
 American Rosie
 o-o
-the Riveters
+the riveters
 o-o
 bail them out
 o-o

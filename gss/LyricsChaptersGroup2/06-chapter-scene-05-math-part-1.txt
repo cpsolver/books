@@ -1689,11 +1689,15 @@ trigonometry,
 o-o
 calculus,
 o-o
-historical facts,
+history,
 o-o
 geography,
 o-o
-map reading, and
+flying
+o-o
+airplanes,
+o-o
+and
 o-o
 diplomatically
 o-o
@@ -1704,9 +1708,13 @@ o-o
 right turn.
 sentence-next
 o-o
-Yet we try to teach
+Yet we
 o-o
-all that in school.
+try to teach
+o-o
+most of that
+o-o
+in school.
 end-lyric
 
 ambee sings-damien amenn
@@ -1730,27 +1738,17 @@ writing books
 o-o
 worth reading,
 o-o
-composing
-o-o
-beautiful music,
-o-o
 scripting videos
 o-o
 worth watching,
 o-o
-extracting meaning
+composing
 o-o
-from data,
+beautiful music,
 o-o
-graphic design,
+managing
 o-o
-matchmaking,
-o-o
-making wise
-o-o
-hiring
-o-o
-decisions,
+employees,
 o-o
 and,
 o-o

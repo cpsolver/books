@@ -32,8 +32,13 @@ o-o
 politicians
 o-o
 win the seats.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-damien amenn
+That's corrupt!
+end-lyric
+
+ambee sings-mathprof amenn
 So back here
 o-o
 in the United States,
@@ -2050,7 +2055,9 @@ economics,
 o-o
 it's just different
 o-o
-names for money.
+names for money
+o-o
+categories.
 sentence-next
 o-o
 Like tax, debt,

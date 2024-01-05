@@ -316,53 +316,6 @@ o-o
 War Two.
 end-lyric
 
-ambee sings-desha amenn
-Computers
-o-o
-and the
-o-o
-internet
-o-o
-are big
-o-o
-innovations.
-sentence-next
-o-o
-But aside from
-o-o
-sharing family photos
-o-o
-and goofy
-o-o
-videos,
-o-o
-and gawking at
-o-o
-celebrities,
-o-o
-most people
-o-o
-use that
-o-o
-technology
-o-o
-to argue with
-o-o
-strangers
-o-o
-and laugh at
-o-o
-squirrels
-o-o
-getting
-o-o
-defeated by
-o-o
-bird hyphen-here feeder
-o-o
-barriers.
-end-lyric
-
 ambee sings-damien amenn
 Oh,
 o-o
@@ -375,13 +328,13 @@ Amazon
 o-o
 created
 o-o
-lots of software,
+lots of software
 o-o
-innovative
+and uses the
 o-o
-software,
+internet
 o-o
-that replaces the
+to replace the
 o-o
 inefficiency
 o-o
@@ -406,46 +359,19 @@ In my retail job
 o-o
 I had to
 o-o
-count out change
+deal with cash,
 o-o
-when someone
+unlock
 o-o
-handed me
+expensive
 o-o
-cash.
-sentence-next
+merchandise,
 o-o
-We had to watch
+and loan out
 o-o
-suspicious
+the restroom
 o-o
-customers
-o-o
-who might steal.
-sentence-next
-o-o
-And countless
-o-o
-customers
-o-o
-interrupted
-o-o
-me because
-o-o
-they were too
-o-o
-lazy to read
-o-o
-the big sign
-o-o
-with a big arrow
-o-o
-that said
-o-o
-begin-italics
-restrooms
-end-italics
-no-space .
+key.
 end-lyric
 
 ambee sings-damien amenn
@@ -1309,17 +1235,21 @@ sentence-next
 o-o
 Except in Russia
 o-o
-when critics
+when critics of
 o-o
-of Putin
+Valdimir
 o-o
-fall from
+Putin
 o-o
-high windows
+somehow
 o-o
-in tall
+die
 o-o
-buildings.
+by falling
+o-o
+out a high
+o-o
+window.
 sentence-next
 o-o
 This pattern
@@ -1500,9 +1430,9 @@ or state
 o-o
 government,
 o-o
-will give
+will give a
 o-o
-tax breaks
+tax break
 o-o
 to a big new
 o-o
@@ -1679,7 +1609,9 @@ Yes,
 o-o
 like to Japan,
 o-o
-where they cut down
+where long ago
+o-o
+they cut down
 o-o
 their forests for
 o-o
@@ -1723,15 +1655,17 @@ to,
 o-o
 let's say,
 o-o
-a small software
+many
 o-o
-business
+small software
+o-o
+businesses
 o-o
 that
 o-o
 efficiently
 o-o
-hires skilled
+hire skilled
 o-o
 workers who
 o-o
@@ -1739,25 +1673,29 @@ only consume
 o-o
 electricity
 o-o
-and create software,
+and sell
 o-o
-or software services,
+valuable
 o-o
-that are sold
+creative
+o-o
+software hyphen-here based
+o-o
+services
 o-o
 to customers
 o-o
 around the world.
 end-lyric
 
-ambee sings-damien amenn
-Ah,
+ambee sings-desha amenn
+And I hope
 o-o
-and the tax break
+the tax break
 o-o
 also would
 o-o
-go to small
+help small
 o-o
 businesses
 o-o
@@ -1777,52 +1715,58 @@ low hyphen-here budget
 o-o
 videos
 o-o
-that are worth
+worth
 o-o
-watching,
+watching.
+end-lyric
+
+ambee sings-damien amenn
+Under current
 o-o
-right?
+conditions
+o-o
+small
+o-o
+businesses
+o-o
+have to fill out
+o-o
+lots of paperwork
+o-o
+to get
+o-o
+any kind of
+o-o
+tax break.
 sentence-next
-Because they
 o-o
-sell their
+So I hope
 o-o
-stuff to
+it's super easy
 o-o
-customers
+to get
 o-o
-outside the
-o-o
-region.
-sentence-next
-o-o
-And I can see
-o-o
-those businesses,
-o-o
-if they're small,
-o-o
-would never be
-o-o
-given a tax break
-o-o
-under current
-o-o
-conditions.
+those tax breaks.
 end-lyric
 
 ambee sings-desha amenn
-So,
+Hey,
+o-o
+I'm realizing
+o-o
+that
+o-o
+law firms,
 o-o
 real hyphen-here estate
 o-o
 developers,
 o-o
-and mining companies,
+payday loan
 o-o
-and telemarketing
+companies,
 o-o
-companies
+and pawn shops
 o-o
 deserve to pay
 o-o
@@ -2145,7 +2089,11 @@ o-o
 rich people?
 sentence-next
 o-o
-Some are good,
+Some
+o-o
+corporations
+o-o
+are good,
 o-o
 and some are bad?
 end-lyric
@@ -2646,13 +2594,17 @@ United States?
 end-lyric
 
 ambee sings-desha amenn
-And higher taxes
+And higher
 o-o
-for businesses
+taxes for
 o-o
-that mostly earn
+vulture
 o-o
-their money from
+businesses
+o-o
+that earn their
+o-o
+money from
 o-o
 local customers?
 sentence-next
@@ -2692,15 +2644,20 @@ were made.
 end-lyric
 
 ambee sings-desha amenn
-It would make
+So it would
 o-o
-lots more cherry pies
+make lots more
 o-o
-so there's less
+cherry pies!
+sentence-next
 o-o
-fighting for
+Then there'd be
 o-o
-smaller and smaller
+less fighting
+o-o
+for smaller
+o-o
+and smaller
 o-o
 slices
 o-o
@@ -2711,15 +2668,17 @@ sentence-next
 o-o
 Then everyone
 o-o
+who deserves
+o-o
 can get
 o-o
 a bigger
 o-o
-slice.
+slice!
 end-lyric
 
 ambee sings-econhist amenn
-But of course
+Unfortunately
 o-o
 those reforms
 o-o
@@ -2735,9 +2694,11 @@ system.
 end-lyric
 
 ambee sings-damien amenn
-And it seems like
+It seems like
 o-o
-it would only
+this reform
+o-o
+would only
 o-o
 decrease
 o-o
@@ -2806,9 +2767,15 @@ in democracies.
 end-lyric
 
 ambee sings-desha amenn
-And kill authors
+And why
 o-o
-of books that
+authors like the
+o-o
+Condorcet guy
+o-o
+get killed
+o-o
+when they
 o-o
 criticize
 o-o
@@ -2818,7 +2785,9 @@ in power.
 end-lyric
 
 ambee sings-econhist amenn
-And wannabe
+Yes,
+o-o
+and wannabe
 o-o
 dictators
 o-o
