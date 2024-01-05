@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF hyphen-here 8" standalone="no"?>
+<new_line>
+<!DOCTYPE html>
+<new_line>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<new_line>
+<head>
+<new_line>
+<title> no-space chapter-title no-space </title> 
+<new_line>
+<meta name="author" content="Richard Fobes" />
+<new_line>
+<meta http hyphen-here equiv="Content hyphen-here Type" content="text/html; charset=utf hyphen-here 8" />
+<new_line>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<new_line>
+</head>
+<new_line>
+<body>
+<new_line>
