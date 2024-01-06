@@ -1295,18 +1295,15 @@ getting
 o-o
 exposed as
 o-o
-hypocrites
+criminals,
 o-o
-or losers.
-sentence-next
+overweight
 o-o
-Or choking
+losers,
 o-o
-on their
+or at least
 o-o
-favorite
-o-o
-food.
+hypocrites.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1388,33 +1385,55 @@ communication?
 end-lyric
 
 ambee sings-desha amenn
-I see!
+I see.
 sentence-next
 o-o
-It's a way
+State governments
 o-o
-government
+use taxes to
 o-o
-can use lower
+discourage us
 o-o
-taxes to say
+from smoking
 o-o
-let's have
+tobacco
 o-o
-more of something,
+and drinking
 o-o
-like farming,
+too much
 o-o
-and factory jobs,
-o-o
-and new year's eve
-o-o
-concerts in
-o-o
-New York City.
+alcohol.
+end-lyric
+
+ambee sings-damien amenn
+Ah.
 sentence-next
 o-o
-And Wall Street
+The IRS
+o-o
+uses tax breaks
+o-o
+to tell us
+o-o
+to get married,
+o-o
+buy a house,
+o-o
+save for
+o-o
+retirement,
+o-o
+and 
+o-o
+become a
+o-o
+back hyphen-here broken
+o-o
+farmer.
+end-lyric
+
+ambee sings-desha amenn
+Wall Street
 o-o
 executives
 o-o
@@ -1422,7 +1441,9 @@ never going
 o-o
 to jail
 o-o
-gives the thumbs up
+certainly
+o-o
+gives a thumbs up
 o-o
 to financial
 o-o
@@ -1430,7 +1451,7 @@ corruption.
 end-lyric
 
 ambee sings-econhist amenn
-That's it.
+That's the idea.
 sentence-next
 o-o
 Now consider
@@ -1488,7 +1509,7 @@ o-o
 region.
 sentence-next
 o-o
-And not even
+And also not
 o-o
 if the small
 o-o
@@ -1539,23 +1560,23 @@ Under our current
 o-o
 election system
 o-o
-there would be
+lobbyists
 o-o
-too much pressure
+would insist on
 o-o
-to also give
+giving those
 o-o
-those tax break
+tax breaks to the
 o-o
-to the opposite
+opposite
 o-o
-kind of business.
+kind of
+o-o
+business.
 end-lyric
 
 ambee sings-desha amenn
-Ah,
-o-o
-like a
+Like a
 o-o
 small lumber
 o-o
@@ -1563,37 +1584,57 @@ company
 o-o
 cutting down
 o-o
-lots of trees
+lots of trees,
 o-o
-from forests
+making lumber,
 o-o
-and selling
+and selling it
 o-o
 to Japan
 o-o
-where long ago
+where they
+o-o
+understand
+o-o
+the value
+o-o
+because long ago
 o-o
 they cut down their
 o-o
 own forests
 o-o
 for firewood.
-sentence-next
-o-o
-Those kinds
-o-o
-of small
-o-o
-businesses
-o-o
-certainly
-o-o
-don't deserve
-o-o
-any reward.
 end-lyric
 
 ambee sings-econhist amenn
+Indeed,
+o-o
+those small
+o-o
+businesses
+o-o
+don't deserve,
+o-o
+ah,
+o-o
+cause the loss
+o-o
+of resources
+o-o
+instead of just
+o-o
+bringing wealth
+o-o
+into the region,
+o-o
+without any
+o-o
+significant
+o-o
+losses.
+sentence-next
+o-o
 If we had
 o-o
 a better
@@ -1624,19 +1665,11 @@ businesses
 o-o
 that really
 o-o
-do bring in
+do strengthen
 o-o
-money from
+the local
 o-o
-distant
-o-o
-customers
-o-o
-without losing
-o-o
-anything
-o-o
-significant.
+economy.
 end-lyric
 
 ambee sings-desha amenn
@@ -1646,7 +1679,7 @@ the tax break
 o-o
 also would
 o-o
-help small
+go to small
 o-o
 businesses
 o-o
@@ -1701,7 +1734,7 @@ it's super easy
 o-o
 to get
 o-o
-those tax breaks.
+these tax breaks.
 end-lyric
 
 ambee sings-desha amenn

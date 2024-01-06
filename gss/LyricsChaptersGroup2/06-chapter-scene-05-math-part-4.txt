@@ -823,11 +823,17 @@ could be ripped
 o-o
 in half
 o-o
-as if it were
+to divide it
 o-o
-a fraction
+between two
 o-o
-of a vote.
+candidates
+o-o
+ranked in
+o-o
+the same choice
+o-o
+column.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -925,33 +931,38 @@ Oscar's line.
 end-lyric
 
 ambee sings-desha amenn
-Yes,
+And I'd tell
 o-o
-that would express
+name-damien
 o-o
-our support
+to stand in
 o-o
-for Oscar
+Pinoke's line,
 o-o
-and Pinoke
+cause I'd rather
 o-o
-over the
+deal with Oscar's
 o-o
-depraved
+stenchiness
 o-o
-evil one.
-end-lyric
-
-ambee sings-damien amenn
-The mathematical
+than get pricked
+o-o
+by Pinoke's
+o-o
+probocis.
+sentence-next
+o-o
+Either way,
+o-o
+mathematically
+o-o
+that's
 o-o
 equivalent
 o-o
-of flipping
+to flipping
 o-o
-our middle finger
-o-o
-to the awful
+off the awful
 o-o
 candidate.
 end-lyric
@@ -966,15 +977,18 @@ o-o
 terminology.
 sentence-next
 o-o
-That's easy
+That counting
 o-o
-to do with
+method is
 o-o
-computer
+easy to do
 o-o
-counting,
+with computer
 o-o
-and it's fair.
+counting.
+sentence-next
+o-o
+And it's fair.
 end-lyric
 
 ambee sings-damien amenn
@@ -1034,30 +1048,46 @@ end-lyric
 ambee sings-mathprof amenn
 Great thinking!
 o-o
-Now,
+That would handle
 o-o
-getting back to
+lots of
 o-o
-having multiple
+candidates
 o-o
-seats to fill,
+from multiple
+o-o
+parties,
+o-o
+without asking
+o-o
+a voter
+o-o
+to use each
+o-o
+choice column
+o-o
+only once.
+sentence-next
+Another
+o-o
+ballot
+o-o
+refinement
+o-o
+will be to add
 o-o
 a separate
 o-o
 ballot question
 o-o
-can ask voters
-o-o
-to rank the
+for ranking
 o-o
 political parties.
 sentence-next
 o-o
-That gives us the
+That would allow
 o-o
-info we need
-o-o
-to calculate
+calculating
 o-o
 the popularity
 o-o
@@ -1091,37 +1121,33 @@ o-o
 choice ballots.
 sentence-next
 o-o
-Using that party
+Using party
 o-o
 popularity
 o-o
-info,
+results
 o-o
-along with
+gives us a
 o-o
-ranked choice
+fair way
 o-o
-ballots for
+to limit
 o-o
-candidates,
+the number of
 o-o
-the most popular
+candidates
 o-o
-parties can be
-o-o
-allowed to have
-o-o
-two or three of
-o-o
-their candidates
-o-o
-in each race.
+from each party.
 end-lyric
 
 ambee sings-damien amenn
-And the least popular
+So the least popular
 o-o
-parties get excluded?
+parties
+o-o
+can get
+o-o
+excluded?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -1133,7 +1159,9 @@ And the biggest
 o-o
 third parties
 o-o
-get one candidate
+would get
+o-o
+one candidate
 o-o
 each, right?
 end-lyric

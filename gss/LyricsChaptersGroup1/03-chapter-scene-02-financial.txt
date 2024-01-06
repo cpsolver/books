@@ -1947,10 +1947,7 @@ view?
 end-lyric
 
 ambee sings-damien amenn
-I'm learning, ...
-sentence-next
-o-o
-I mean seeing,
+I'm seeing
 o-o
 lots of stuff
 o-o
