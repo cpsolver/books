@@ -123,7 +123,7 @@ o-o
 rallies.
 sentence-next
 o-o
-'N the cheeze
+'N the cheese
 o-o
 looks more
 o-o
@@ -290,7 +290,7 @@ political
 o-o
 trick isn't
 o-o
-deceipt.
+deceit.
 sentence-next
 o-o
 It's distraction.
@@ -389,7 +389,7 @@ is open wide
 o-o
 'n ready to be
 o-o
-stupified.
+stupefied.
 end-lyric
 
 ambee sings-politician amenn
@@ -852,7 +852,7 @@ sentence-next
 o-o
 Like the
 o-o
-gleeming smile
+gleaming smile
 o-o
 of a fetching lass
 o-o
@@ -947,7 +947,7 @@ Roman rulers
 o-o
 distracted their
 o-o
-plebians
+plebeians
 o-o
 with dramatic
 o-o
@@ -970,7 +970,7 @@ sentence-next
 o-o
 It's like the
 o-o
-insurection
+insurrection
 o-o
 on January sixth.
 sentence-next
@@ -1016,7 +1016,7 @@ Nowadays,
 o-o
 modern hyphen-here day
 o-o
-plebians
+plebeians
 o-o
 get to vote
 o-o
@@ -1702,7 +1702,7 @@ the next time
 o-o
 I'm in a
 o-o
-delacatessen?
+delicatessen?
 end-lyric
 
 ambee sings-politician amenn
@@ -2096,7 +2096,7 @@ is chosen,
 o-o
 there are
 o-o
-superdelegates
+super delegates
 o-o
 who weren't
 o-o
@@ -2108,9 +2108,11 @@ end-lyric
 ambee sings-damien amenn
 Wow,
 o-o
-layers
+super
 o-o
-and layers
+extra
+o-o
+layers
 o-o
 of corrup...,
 o-o
@@ -2182,7 +2184,7 @@ so often
 o-o
 they had
 o-o
-spittons.
+spittoons.
 sentence-next
 o-o
 It's splitting,
@@ -2949,7 +2951,7 @@ ambee sings-politician amenn
 Yup.
 sentence-next
 o-o
-Mister Mischievious
+Mister Mischievous
 o-o
 from Michigan
 o-o

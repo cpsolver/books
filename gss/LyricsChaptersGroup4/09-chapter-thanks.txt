@@ -66,7 +66,7 @@ young adult male, tenor voice.
 sentence-next
 Slight Puerto Rican accent.
 sentence-next
-In earlier scenes uses slightly lazy pronounciation (such as lookin' instead of looking) on non hyphen-here important words.
+In earlier scenes uses slightly lazy pronunciation (such as lookin' instead of looking) on non hyphen-here important words.
 snippet-voice-specs
 end-lyric
 
@@ -159,7 +159,7 @@ The voices need to be natural (full hyphen-here throated and conversational), li
 sentence-next
 A good sense of rhythm, either as a singer or dancer, is desired.
 sentence-next
-When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsiously.
+When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsciously.
 sentence-next
 The voice acting must not be self hyphen-here conscious, and must not involve shouting.
 

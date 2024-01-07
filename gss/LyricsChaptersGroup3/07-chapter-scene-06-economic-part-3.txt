@@ -655,7 +655,7 @@ of women
 o-o
 choose to become
 o-o
-dental hygenists
+dental hygienists
 o-o
 instead of
 o-o
@@ -1145,7 +1145,7 @@ There will be
 o-o
 better
 o-o
-micropayment
+micro hyphen-here payment
 o-o
 systems that help
 o-o
@@ -1217,7 +1217,7 @@ I skip over
 o-o
 articles that
 o-o
-are judgements,
+are judgments,
 o-o
 such as who's to blame,
 o-o
@@ -2608,7 +2608,7 @@ end-lyric
 ambee sings-damien amenn
 Without
 o-o
-embezzelment
+embezzlement
 o-o
 there's no leak
 o-o
@@ -3689,7 +3689,7 @@ We will fight
 o-o
 to turn the world
 o-o
-rightside up.
+right hyphen-here side up.
 end-lyric
 
 ambee sings-damien amenn
@@ -3705,7 +3705,7 @@ and economics
 o-o
 and business
 o-o
-rightside up.
+right hyphen-here side up.
 end-lyric
 
 ambee sings-desha amenn

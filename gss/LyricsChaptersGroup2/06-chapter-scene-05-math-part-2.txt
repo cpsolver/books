@@ -749,7 +749,7 @@ sentence-next
 o-o
 The columns
 o-o
-would be labelled
+would be labeled
 o-o
 begin-italics first choice end-italics no-space ,
 o-o
@@ -774,7 +774,7 @@ What happens
 o-o
 if a joker
 o-o
-or dumbass
+or dumb ass
 o-o
 marks more than
 o-o

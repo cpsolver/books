@@ -949,7 +949,7 @@ than get pricked
 o-o
 by Pinoke's
 o-o
-probocis.
+proboscis.
 sentence-next
 o-o
 Either way,
@@ -2011,7 +2011,7 @@ sentence-next
 o-o
 That sounds like
 o-o
-a snoozefest.
+a snooze fest.
 end-lyric
 
 ambee sings-mathprof amenn

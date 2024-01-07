@@ -57,7 +57,7 @@ overpriced
 o-o
 foolish
 o-o
-footware!
+footwear!
 sentence-next
 o-o
 She thinks
@@ -943,7 +943,7 @@ but races are changed
 o-o
 to protect
 o-o
-white supremecy.
+white supremacy.
 sentence-next
 o-o
 Those shows
@@ -1780,7 +1780,7 @@ end-lyric
 ambee sings-desha amenn
 Father is very
 o-o
-strick about that.
+strict about that.
 end-lyric
 
 ambee sings-damien amenn

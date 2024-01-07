@@ -251,7 +251,7 @@ from some
 o-o
 Brainiac
 o-o
-Elixer.
+Elixir.
 end-highlight
 end-lyric
 
@@ -736,7 +736,7 @@ sentence-next
 o-o
 And each row
 o-o
-would be labelled
+would be labeled
 o-o
 with the name
 o-o
@@ -745,7 +745,7 @@ sentence-next
 o-o
 And the columns
 o-o
-would be labelled
+would be labeled
 o-o
 with the same
 o-o

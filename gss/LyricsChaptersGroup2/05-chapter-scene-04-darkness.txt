@@ -81,7 +81,7 @@ ask?
 end-lyric
 
 ambee sings-damien amenn
-Is there cannibis
+Is there cannabis
 o-o
 in that cookie?
 end-lyric
@@ -495,7 +495,7 @@ Pinoke is a
 o-o
 nickname for
 o-o
-Pinnochio,
+Pinocchio,
 o-o
 the puppet
 o-o
@@ -1349,7 +1349,7 @@ bribery,
 o-o
 cheating, and
 o-o
-coersion,
+coercion,
 o-o
 cronyism,
 o-o
@@ -1363,7 +1363,7 @@ dishonesty,
 o-o
 duplicity, and
 o-o
-embezzelment,
+embezzlement,
 o-o
 entrapment,
 o-o
@@ -1634,7 +1634,7 @@ sentence-next
 o-o
 I've got
 o-o
-a tatoo to
+a tattoo to
 o-o
 remind me.
 end-lyric
@@ -1715,7 +1715,7 @@ that wasn't
 o-o
 part of the
 o-o
-tatoo.
+tattoo.
 end-lyric
 
 ambee sings-desha amenn
@@ -1929,7 +1929,7 @@ protractor
 o-o
 to commit
 o-o
-hari-kari.
+hari hyphen-here kari begin-explain intentionally misspelled and mis hyphen-here pronounced end-explain no-space .
 sentence-next
 o-o
 What d'you wanna
@@ -2015,7 +2015,7 @@ sentence-next
 o-o
 Textbooks hold
 o-o
-weasely words
+weaselly words
 o-o
 that try to drag
 o-o

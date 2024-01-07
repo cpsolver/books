@@ -253,7 +253,7 @@ but most candidates
 o-o
 are wimpy puppets,
 o-o
-or slimey con artists.
+or slimy con artists.
 end-lyric
 
 ambee sings-damien amenn
@@ -338,7 +338,7 @@ sentence-next
 o-o
 There's gotta be
 o-o
-another villian.
+another villain.
 end-lyric
 
 ambee sings-fiance amenn
@@ -687,7 +687,7 @@ version of the
 o-o
 pregnancy
 o-o
-accomodation
+accommodation
 o-o
 rules for
 o-o
@@ -822,7 +822,7 @@ counter askin'
 o-o
 begin-italics Do you want
 o-o
-cheezy
+cheesy
 o-o
 garlic bread
 o-o

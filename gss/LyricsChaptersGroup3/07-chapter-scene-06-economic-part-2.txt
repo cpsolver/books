@@ -165,7 +165,7 @@ martyred
 o-o
 Saint Marty
 o-o
-Sandinhart.
+Sandinage.
 end-lyric
 
 ambee sings-econhist amenn
@@ -461,7 +461,7 @@ What's that?
 end-lyric
 
 ambee sings-desha amenn
-That's when Bagdad
+That's when Baghdad
 o-o
 was the center
 o-o
@@ -528,7 +528,7 @@ three D drawings,
 o-o
 robotic mechanisms,
 o-o
-papermaking,
+paper making,
 o-o
 and much more.
 end-lyric
@@ -784,7 +784,7 @@ Sanders?
 end-lyric
 
 ambee sings-econhist amenn
-Woah!
+Whoa!
 sentence-next
 o-o
 Innovation
@@ -1240,7 +1240,7 @@ Russia
 o-o
 where critics of
 o-o
-Valdimir
+Vladimir
 o-o
 Putin
 o-o
@@ -1769,7 +1769,7 @@ end-lyric
 ambee sings-econhist amenn
 The word begin-italics deserve end-italics
 o-o
-is judgemental,
+is judgmental,
 o-o
 so that's a matter
 o-o
@@ -1786,7 +1786,7 @@ spanked,
 o-o
 but that would be
 o-o
-a judgement,
+a judgment,
 o-o
 not a fact.
 end-lyric
@@ -2021,7 +2021,7 @@ when it was
 o-o
 started in San
 o-o
-Fransisco,
+Francisco,
 o-o
 it catered to
 o-o
@@ -2116,7 +2116,7 @@ yachts,
 o-o
 and
 o-o
-rendevouz
+rendezvouz
 o-o
 condos
 o-o

@@ -471,7 +471,7 @@ none, empty,
 o-o
 nobody,
 o-o
-ziltch, naked,
+zilch, naked,
 o-o
 hungry, and
 o-o

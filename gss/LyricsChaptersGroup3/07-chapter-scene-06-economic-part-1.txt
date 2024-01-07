@@ -53,7 +53,7 @@ that's better
 o-o
 than what
 o-o
-spellcheck
+spell check
 o-o
 suggests.
 sentence-next
@@ -1018,7 +1018,7 @@ sentence-next
 o-o
 well it ended in
 o-o
-nineteen fourty five.
+nineteen forty five.
 end-lyric
 
 ambee sings-damien amenn
@@ -1257,7 +1257,7 @@ end-lyric
 ambee sings-desha amenn
 So this is why
 o-o
-the reverse hyphen-here racoon hyphen-here eyed guy
+the reverse hyphen-here raccoon hyphen-here eyed guy
 o-o
 with the never hyphen-here changing tie
 o-o
@@ -2590,7 +2590,7 @@ sentence-next
 o-o
 And they built roads
 o-o
-and patroled them
+and patrolled them
 o-o
 with soldiers.
 sentence-next
@@ -3627,7 +3627,7 @@ indulgences,
 o-o
 were so corrupt
 o-o
-and oppresive
+and oppressive
 o-o
 that Martin Luther
 o-o
@@ -3651,7 +3651,7 @@ the Church
 o-o
 of England.
 o-o
-The Pilgrams who
+The Pilgrims who
 o-o
 settled the
 o-o

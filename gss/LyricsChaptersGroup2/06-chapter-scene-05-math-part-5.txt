@@ -207,7 +207,7 @@ Zero as a digit
 o-o
 changed the world
 o-o
-in marvellous ways.
+in marvelous ways.
 sentence-next
 o-o
 Similarly
@@ -216,7 +216,7 @@ pairwise vote counting
 o-o
 will change the world
 o-o
-in marvellous ways.
+in marvelous ways.
 end-lyric
 
 ambee sings-damien amenn
@@ -279,7 +279,7 @@ end-lyric
 ambee sings-desha amenn
 Money
 o-o
-worshippers
+worshipers
 o-o
 ...
 end-lyric

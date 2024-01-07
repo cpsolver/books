@@ -411,7 +411,7 @@ thieves, and
 o-o
 marauding
 o-o
-desperados.
+desperadoes.
 o-o
 end-lyric
 
@@ -943,7 +943,7 @@ officials
 o-o
 might nod
 o-o
-ernestly
+earnestly
 o-o
 instead of
 o-o
@@ -1077,7 +1077,7 @@ They still do
 o-o
 a bit,
 o-o
-occassionally.
+occasionally.
 sentence-next
 o-o
 Mostly now they're
@@ -1319,7 +1319,7 @@ sentence-next
 o-o
 And instead of
 o-o
-wearing armour,
+wearing armor,
 o-o
 or bullet hyphen-here proof
 o-o
@@ -2314,7 +2314,7 @@ sentence-next
 o-o
 Have you noticed
 o-o
-that embarassing
+that embarrassing
 o-o
 stories about
 o-o
@@ -2488,7 +2488,7 @@ end-lyric
 ambee sings-vc amenn
 To become
 o-o
-a big cheeze,
+a big cheese,
 o-o
 put the squeeze
 o-o
@@ -2835,7 +2835,7 @@ the job
 o-o
 applicants are
 o-o
-pompus artists,
+pompous artists,
 o-o
 unemployed
 o-o
@@ -3274,7 +3274,7 @@ So you buy
 o-o
 and sell
 o-o
-kechup, mayo,
+ketchup, mayo,
 o-o
 and mustard?
 end-lyric
@@ -3331,7 +3331,7 @@ and copper.
 end-lyric
 
 ambee sings-damien amenn
-What do jewlery
+What do jewelry
 o-o
 and food have
 o-o
@@ -3941,7 +3941,7 @@ speedee
 o-o
 liver hyphen-here kicker
 o-o
-elixer.
+elixir.
 end-lyric
 
 ambee sings-damien amenn
@@ -3957,7 +3957,7 @@ o-o
 It just works.
 sentence-next
 o-o
-If it aint broke,
+If it ain't broke,
 o-o
 there's no need
 o-o

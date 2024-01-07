@@ -1310,7 +1310,7 @@ including you.
 end-lyric
 
 ambee sings-vc amenn
-No offence taken.
+No offense taken.
 sentence-next
 o-o
 And perhaps you're
@@ -1528,7 +1528,7 @@ Let's get out
 o-o
 of this
 o-o
-inhospitible
+inhospitable
 o-o
 hospital.
 sentence-next
@@ -1860,7 +1860,7 @@ sentence-next
 o-o
 And turn the world
 o-o
-rightside up!
+right hyphen-here side up!
 end-lyric
 
 ambee sings-vc amenn
@@ -1953,14 +1953,14 @@ Yet I'm all in favor
 o-o
 of turning the world
 o-o
-rightside up.
+right hyphen-here side up.
 sentence-next
 o-o
 After all,
 o-o
 turning things
 o-o
-rightside up
+right hyphen-here side up
 o-o
 is the purpose
 o-o
@@ -2012,7 +2012,7 @@ Now I see that
 o-o
 I mistook
 o-o
-jealosy
+jealousy
 o-o
 for love.
 sentence-next
@@ -2067,7 +2067,7 @@ begin to turn
 o-o
 the world
 o-o
-rightside up.
+right hyphen-here side up.
 end-lyric
 
 ambee sings-desha amenn
@@ -2106,7 +2106,7 @@ counting
 o-o
 to turn the world
 o-o
-rightside up!
+right hyphen-here side up!
 end-lyric
 
 ambee sings-desha amenn
@@ -2195,7 +2195,7 @@ to see your
 o-o
 begin-italics kick ass end-italics
 o-o
-tatoo.
+tattoo.
 end-lyric
 
 ambee sings-desha amenn
