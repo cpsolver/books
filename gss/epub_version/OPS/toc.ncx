@@ -20,45 +20,45 @@
   </docAuthor>
 
   <navMap>
-    <navPoint id="oehu_00" playOrder="1" class="chapter">
+    <navPoint id="ogss_00" playOrder="1" class="chapter">
       <navLabel><text>The Goat Spitting Secret</text></navLabel>
-      <content src="oehu_00.xhtml"/>
+      <content src="ogss_00.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_01" playOrder="2" class="chapter">
+    <navPoint id="ogss_01" playOrder="2" class="chapter">
       <navLabel><text>Introduction</text></navLabel>
-      <content src="oehu_01.xhtml"/>
+      <content src="ogss_01.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_02" playOrder="3" class="chapter">
+    <navPoint id="ogss_02" playOrder="3" class="chapter">
       <navLabel><text>Scene 1: Our Middle Class Dreams</text></navLabel>
-      <content src="oehu_02.xhtml"/>
+      <content src="ogss_02.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_03" playOrder="4" class="chapter">
+    <navPoint id="ogss_03" playOrder="4" class="chapter">
       <navLabel><text>Scene 2: Money Madness</text></navLabel>
-      <content src="oehu_03.xhtml"/>
+      <content src="ogss_03.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_04" playOrder="5" class="chapter">
+    <navPoint id="ogss_04" playOrder="5" class="chapter">
       <navLabel><text>Scene 3: Behind The Political Curtain</text></navLabel>
-      <content src="oehu_04.xhtml"/>
+      <content src="ogss_04.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_05" playOrder="6" class="chapter">
+    <navPoint id="ogss_05" playOrder="6" class="chapter">
       <navLabel><text>Scene 4: Fighting Against Darkness</text></navLabel>
-      <content src="oehu_05.xhtml"/>
+      <content src="ogss_05.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_06" playOrder="7" class="chapter">
+    <navPoint id="ogss_06" playOrder="7" class="chapter">
       <navLabel><text>Scene 5: Math Breakthrough</text></navLabel>
-      <content src="oehu_06.xhtml"/>
+      <content src="ogss_06.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_07" playOrder="8" class="chapter">
+    <navPoint id="ogss_07" playOrder="8" class="chapter">
       <navLabel><text>Scene 6: Economic Engines</text></navLabel>
-      <content src="oehu_07.xhtml"/>
+      <content src="ogss_07.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_08" playOrder="9" class="chapter">
+    <navPoint id="ogss_08" playOrder="9" class="chapter">
       <navLabel><text>Scene 7: Fight!</text></navLabel>
-      <content src="oehu_08.xhtml"/>
+      <content src="ogss_08.xhtml"/>
     </navPoint>
-    <navPoint id="oehu_09" playOrder="10" class="chapter">
+    <navPoint id="ogss_09" playOrder="10" class="chapter">
       <navLabel><text>Acknowledgements</text></navLabel>
-      <content src="oehu_09.xhtml"/>
+      <content src="ogss_09.xhtml"/>
     </navPoint>
   </navMap>
 

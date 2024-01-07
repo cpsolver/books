@@ -93,11 +93,6 @@ cd %DirEpub%
 cd %DirExpand%
 
 
-rem ---------- check HTML tags ----------
-
-%PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%goat_spitting_secret.html > output_check_html_tags.txt
-
-
 rem ---------- copy to VoteFair site ----------
 
 copy %DirExpand%goat_spitting_secret.html F:\Important\MySite_VoteFair\VoteFair_html\goat_spitting_secret.html
@@ -105,15 +100,18 @@ copy %DirExpand%goat_spitting_secret.html F:\Important\MySite_VoteFair\VoteFair_
 
 rem ---------- create local copy under full name ----------
 
-del F:\Important\GitHub\books\gss\goat_spitting_secret.html
-copy %DirExpand%goat_spitting_secret.html F:\Important\GitHub\books\gss\goat_spitting_secret.html
+del %DirGss%goat_spitting_secret.html
+copy %DirExpand%goat_spitting_secret.html %DirGss%goat_spitting_secret.html
+
+
+rem ---------- check HTML tags ----------
+
+%PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%goat_spitting_secret.html > %DirExpand%output_check_html_tags.txt
 
 
 rem ---------- check epub file ----------
 
-dir %PerlPath%epubcheck\epubcheck.jar
-
-java -jar %PerlPath%epubcheck\epubcheck.jar GoatSpittingSecret.epub
+java -jar %PerlPath%epubcheck\epubcheck.jar %DirGss%GoatSpittingSecret.epub 2> %DirExpand%output_epub_errors.txt
 
 
 pause
