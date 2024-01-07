@@ -1,1 +1,47 @@
-test content
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:language>en</dc:language>
+    <dc:title>The Goat Spitting Secret</dc:title>
+    <dc:creator opf:role="aut">Richard Fobes</dc:creator>
+    <meta name="cover" content="cover"/>
+</metadata>
+<manifest>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_be" href="oehu_be.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_00" href="oehu_00.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_01" href="oehu_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_02" href="oehu_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_03" href="oehu_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_04" href="oehu_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_05" href="oehu_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_06" href="oehu_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_07" href="oehu_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_08" href="oehu_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_09" href="oehu_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_en" href="oehu_en.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_01" href="oehu_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="ncx">
+  <itemref idref="titlepage"/>
+  <itemref idref="segment_be"/>
+  <itemref idref="segment_00"/>
+  <itemref idref="segment_01"/>
+  <itemref idref="segment_02"/>
+  <itemref idref="segment_03"/>
+  <itemref idref="segment_04"/>
+  <itemref idref="segment_05"/>
+  <itemref idref="segment_06"/>
+  <itemref idref="segment_07"/>
+  <itemref idref="segment_08"/>
+  <itemref idref="segment_09"/>
+  <itemref idref="segment_en"/>
+</spine>
+<guide>
+  <reference type="cover" href="titlepage.xhtml" title="Title page"/>
+</guide>
+</package>
