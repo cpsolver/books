@@ -4,4 +4,5 @@ ambee expand-text template-begin-epub-chapter begin-epub-chapter amenn
 ambee clear-phrase previous-chapter-number-two-digits amenn
 ambee clear-phrase previous-output-filename-chapter-for-epub amenn
 ambee use-handler-with-each-word-in-phrase handle-expand-one-chapter-file list-of-chapter-phrase-names amenn
+ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee copy-from-phrase-append-to-file output-libretto ambee output-filename-libretto amenn amenn

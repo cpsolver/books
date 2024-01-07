@@ -22,6 +22,12 @@ rem ---------- list files ----------
 dir /b /s .\*.txt > %DirExpand%temp_list_of_file_paths.txt
 
 
+rem ---------- remove old epub files from epub folder ----------
+
+cd %DirEpub%
+del ogss_??.xhtml
+
+
 rem ---------- move to Expand folder ----------
 
 cd %DirExpand%
@@ -87,9 +93,10 @@ copy output_trace.txt output_trace_group_4.txt
 rem ---------- generate epub version ----------
 
 del %DirGss%GoatSpittingSecret.epub
-"C:\Program Files\7-Zip\7z.exe" a %DirGss%GoatSpittingSecret.epub %DirGss%mimetype_only\mimetype
+"C:\Program Files\7-Zip\7z.exe" a -t* %DirGss%GoatSpittingSecret.epub %DirGss%mimetype_only\mimetype_to_rename
 cd %DirEpub%
-"C:\Program Files\7-Zip\7z.exe" a %DirGss%GoatSpittingSecret.epub *
+"C:\Program Files\7-Zip\7z.exe" u -tzip %DirGss%GoatSpittingSecret.epub *
+"C:\Program Files\7-Zip\7z.exe" rn %DirGss%GoatSpittingSecret.epub mimetype_to_rename mimetype
 cd %DirExpand%
 
 
