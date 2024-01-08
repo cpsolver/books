@@ -1,5 +1,7 @@
-08-chapter-scene-07-ending-part-1
-08-chapter-scene-07-ending-part-2
-08-chapter-scene-07-ending-part-3
-09-chapter-thanks
+07-scene-07-ending-part-1
+07-scene-07-ending-part-2
+07-scene-07-ending-part-3
+23-about-author
+24-acknowledgements
+25-voice-descriptions
 end-html

@@ -1,6 +1,6 @@
 begin-title
 Scene 2,
-title-chapter-03
+title-chapter-02
 end-title
 
 ambee put-into-phrase lyric-number 0300000 amenn

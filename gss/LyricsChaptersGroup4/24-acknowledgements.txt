@@ -1,0 +1,27 @@
+begin-title
+Acknowledgments
+end-title
+
+begin-basic-paragraph
+Cynthia S.,
+Andrew W.,
+Eduard H.,
+George "Vonnegut" (a comedy writing genius),
+Mia M.,
+Matt Y.,
+[...]
+end-basic-paragraph
+
+begin-basic-paragraph
+Resources:
+RhymeZone.com,
+Rhymer.com,
+TheFreeDictionary.com,
+Dashrep.org
+end-basic-paragraph
+
+begin-basic-paragraph
+Here's a special posthumous thank you to caregiver
+Lottie Klock
+who taught me joy by giving me unconditional love during infancy.
+end-basic-paragraph

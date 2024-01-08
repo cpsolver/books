@@ -1,0 +1,53 @@
+begin-title
+About author Richard Fobes
+end-title
+
+begin-basic-paragraph
+Richard is the author of a book titled begin-italics The Creative Problem Solver's Toolbox end-italics which has been published around the world in ten languages.
+end-basic-paragraph
+
+begin-basic-paragraph
+The story of begin-italics The Goat Spitting Secret end-italics arose in Richard's mind as a dialog between different voices in his head.
+sentence-next
+To understand those voices, consider that Richard has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.
+end-basic-paragraph
+
+begin-basic-paragraph
+Richard's understanding of vote counting started when he was in a small music hyphen-here and hyphen-here dance organization that voted on three logo designs.
+sentence-next
+Initially there had been two designs.
+sentence-next
+Richard submitted a third design that was a variation on the better of the two original designs.
+sentence-next
+The worst design came close to winning, which triggered his aha moment about vote splitting.
+end-basic-paragraph
+
+begin-basic-paragraph
+Richard's plan during youth had been to become an inventor.
+sentence-next
+He learned how to invent, but then, as an adult, discovered the patent system is set up in a way that does not allow an individual to earn a living as an inventor.
+sentence-next
+While attempting to teach the thinking skills of inventing and innovation, Richard realized the same thinking skills also work for creating solutions to real hyphen-here life problems of any kind.
+sentence-next
+Informally he taught a few classes on begin-italics innovation end-italics and was asked to recommend a book that taught was he was teaching.
+sentence-next
+No existing books came close, so he naively started writing begin-italics The Creative Problem Solver's Toolbox end-italics no-space , which took five years to write.
+sentence-next
+During that time he realized that most governmental problems could be solved relatively easily if a well hyphen-here designed vote hyphen-here counting system were used to elect members of Congress and representatives in state legislatures.
+sentence-next
+He bought the VoteFair dot com (and dot org) domain names and developed the beginnings of VoteFair Ranking, which appear on two pages of his how hyphen-here to book on creative problem solving.
+sentence-next
+Richard further developed additional components of the VoteFair Ranking system while writing begin-italics Ending The Hidden Unfairness In U.S. Elections end-italics no-space .
+sentence-next
+During a thinking session in a hammock Richard developed the idea that led to creating a demonstration em-dash at begin-italics NegotiationTool dot com end-italics em-dash that shows how legislatures, parliaments, and U.S. Congress should vote on proposed laws.
+sentence-next
+He pursued software projects to further develop additional details, as well as simplifications and insights that have been embraced worldwide and in Oregon.
+end-basic-paragraph
+
+begin-basic-paragraph
+Richard started life in southern California (Oceanside), then moved to central California (Davis), then to mid-valley Oregon (Corvallis), and finally to northern Oregon (Portland) where he met his wife hyphen-here to hyphen-here be Cynthia.
+end-basic-paragraph
+
+begin-basic-paragraph
+To see a list of creative projects, including writings and software, point your browser to SolutionsCreative dot com.
+end-basic-paragraph

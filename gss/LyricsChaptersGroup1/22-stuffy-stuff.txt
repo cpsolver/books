@@ -1,28 +1,3 @@
-begin-title
-book-title
-end-title
-
-begin-subtitle
-book-subtitle-with-line-breaks
-end-subtitle
-
-begin-subtitle
-by Richard Fobes
-sentence-next
-(Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>)
-end-subtitle
-
-begin-subtitle
-Also by Richard Fobes
-end-subtitle
-
-begin-title
-The Creative Problem Solver's Toolbox
-end-title
-
-
-page-break
-
 begin-heading
 Stuffy Info for Lawyers and Librarians
 end-heading
@@ -50,18 +25,15 @@ Also hereby permitted without cost is the performance of this dialog in a theate
 end-basic-paragraph
 
 begin-basic-paragraph
-The characters in this story are fictional, based on voices in the author's head. no-space begin-superscript * end-superscript
+The characters in this story are fictional.
+sentence-next
+All the characters are based on voices in the author's head.
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
-Exception: The author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
+The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
 end-basic-paragraph
 
-begin-basic-paragraph
-begin-italics
-( no-space begin-superscript * end-superscript The author has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.)
-end-italics
-end-basic-paragraph
 
 begin-basic-paragraph
 The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
@@ -81,6 +53,3 @@ end-basic-paragraph
 begin-basic-paragraph
 BISAC DRA000000 (Drama, General), FIC016000 (Fiction, Humorous, General), POL008000 (Political Science, Political Process, Campaigns &#38; Elections)
 end-basic-paragraph
-
-
-page-break

@@ -1,6 +1,6 @@
-05-chapter-scene-04-darkness
-06-chapter-scene-05-math-part-1
-06-chapter-scene-05-math-part-2
-06-chapter-scene-05-math-part-3
-06-chapter-scene-05-math-part-4
-06-chapter-scene-05-math-part-5
+04-scene-04-darkness
+05-scene-05-math-part-1
+05-scene-05-math-part-2
+05-scene-05-math-part-3
+05-scene-05-math-part-4
+05-scene-05-math-part-5

@@ -1,6 +1,6 @@
 begin-title
 Scene 7,
-title-chapter-08
+title-chapter-07
 end-title
 
 ambee put-into-phrase lyric-number 0800000 amenn
