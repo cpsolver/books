@@ -6,14 +6,6 @@ end-italics
 end-title
 
 begin-subtitle
-book-subtitle-with-line-breaks
-end-subtitle
-
-begin-subtitle
-by Richard Fobes
-end-subtitle
-
-begin-subtitle
 begin-explain Draft 2024-January-6 end-explain
 end-subtitle
 
@@ -29,6 +21,14 @@ sentence-next
 What they learn reveals why the United States Congress lacks a backbone and couldn't escape from a soggy cardboard box lying on its side.
 sentence-next
 In the wild conclusion several worlds collide in surprising ways.
+end-basic-paragraph
+
+begin-basic-paragraph
+Testimonial:
+sentence-next
+"Personally I found myself so much better informed about how the world works ...."
+sentence-next
+George V.
 end-basic-paragraph
 
 begin-basic-paragraph
@@ -51,12 +51,6 @@ end-basic-paragraph
 
 begin-basic-paragraph
 To find out about audiobook recordings and video performances of this witty dialog, point your browser to: SolutionsCreative.com
-end-basic-paragraph
-
-begin-basic-paragraph
-"Personally I found myself so much better informed about how the world works ...."
-sentence-next
-George V.
 end-basic-paragraph
 
 page-break

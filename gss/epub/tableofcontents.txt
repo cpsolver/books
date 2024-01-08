@@ -1,0 +1,18 @@
+<nav epub:type="toc">
+<ol>
+<li><a href="coverpage.xhtml">Cover</a></li>
+<li><a href="ogss_21.xhtml">Title Page</a></li>
+<li><a href="ogss_22.xhtml">Stuffy Info for Lawyers and Librarians</a></li>
+<li><a href="ogss_23.xhtml">Introduction</a></li>
+<li><a href="ogss_01.xhtml">Our Middle Class Dreams</a></li>
+<li><a href="ogss_02.xhtml">Money Madness</a></li>
+<li><a href="ogss_03.xhtml">Behind The Political Curtain</a></li>
+<li><a href="ogss_04.xhtml">Fighting Against Darkness</a></li>
+<li><a href="ogss_05.xhtml">Math Breakthrough</a></li>
+<li><a href="ogss_06.xhtml">Economic Engines</a></li>
+<li><a href="ogss_07.xhtml">Fight!</a></li>
+<li><a href="ogss_24.xhtml">About the Author</a></li>
+<li><a href="ogss_25.xhtml">Thanks</a></li>
+<li><a href="ogss_26.xhtml">Voice Descriptions</a></li>
+</ol>
+</nav>

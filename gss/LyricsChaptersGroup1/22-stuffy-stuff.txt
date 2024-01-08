@@ -27,18 +27,19 @@ end-basic-paragraph
 begin-basic-paragraph
 The characters in this story are fictional.
 sentence-next
-All the characters are based on voices in the author's head.
-sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
 The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
+sentence-next
+Otherwise all the characters are based on voices in the author's head.
+sentence-next
+To understand further, see the begin-italics About the Author end-italics section.
 end-basic-paragraph
-
 
 begin-basic-paragraph
 The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
 sentence-next
-To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported) sources of information.
+To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest free) sources of information.
 end-basic-paragraph
 
 

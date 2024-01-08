@@ -5,9 +5,10 @@ ambee clear-phrase previous-chapter-number-two-digits amenn
 ambee clear-phrase previous-output-filename-chapter-for-epub amenn
 ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee expand-text begin-html expanded-begin-html amenn
+ambee expand-text end-html expanded-end-html amenn
 ambee copy-from-phrase-append-to-file expanded-begin-html ambee output-filename-libretto amenn amenn
 ambee use-handler-with-each-word-in-phrase handle-expand-one-chapter-file list-of-chapter-phrase-names amenn
 ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee copy-from-phrase-append-to-file output-libretto ambee output-filename-libretto amenn amenn
 ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
-ambee copy-from-phrase-append-to-file end-html ambee output-filename-libretto amenn amenn
+ambee copy-from-phrase-append-to-file expanded-end-html ambee output-filename-libretto amenn amenn

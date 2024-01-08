@@ -1,16 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="9780963222152">
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="isbn">
 <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:language>en</dc:language>
     <dc:title>The Goat Spitting Secret</dc:title>
-    <dc:identifier>9780963222152</dc:identifier>
+    <dc:identifier id="isbn">urn:isbn:9780963222152</dc:identifier>
     <dc:creator opf:role="aut">Richard Fobes</dc:creator>
-    <meta name="cover" content="cover"/>
 </metadata>
 <manifest>
     <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
-    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
-    <item id="segment_00" href="ogss_00.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coverpage" href="coverpage.xhtml" media-type="application/xhtml+xml"/>
     <item id="segment_01" href="ogss_01.xhtml" media-type="application/xhtml+xml"/>
     <item id="segment_02" href="ogss_02.xhtml" media-type="application/xhtml+xml"/>
     <item id="segment_03" href="ogss_03.xhtml" media-type="application/xhtml+xml"/>
@@ -18,14 +16,19 @@
     <item id="segment_05" href="ogss_05.xhtml" media-type="application/xhtml+xml"/>
     <item id="segment_06" href="ogss_06.xhtml" media-type="application/xhtml+xml"/>
     <item id="segment_07" href="ogss_07.xhtml" media-type="application/xhtml+xml"/>
-    <item id="segment_08" href="ogss_08.xhtml" media-type="application/xhtml+xml"/>
-    <item id="segment_09" href="ogss_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_21" href="ogss_21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_22" href="ogss_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_23" href="ogss_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_24" href="ogss_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_25" href="ogss_25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_26" href="ogss_26.xhtml" media-type="application/xhtml+xml"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
 </manifest>
 <spine toc="ncx">
-  <itemref idref="titlepage"/>
-  <itemref idref="segment_00"/>
+  <itemref idref="segment_21"/>
+  <itemref idref="segment_22"/>
+  <itemref idref="segment_23"/>
   <itemref idref="segment_01"/>
   <itemref idref="segment_02"/>
   <itemref idref="segment_03"/>
@@ -33,12 +36,12 @@
   <itemref idref="segment_05"/>
   <itemref idref="segment_06"/>
   <itemref idref="segment_07"/>
-  <itemref idref="segment_08"/>
-  <itemref idref="segment_09"/>
+  <itemref idref="segment_24"/>
+  <itemref idref="segment_25"/>
+  <itemref idref="segment_26"/>
 </spine>
 <guide>
-  <reference type="cover" href="cover.xhtml" title="Cover"/>
-  <reference type="title-page" href="titlepage.xhtml" title="Title page"/>
+  <reference type="cover" href="coverpage.xhtml" title="Cover"/>
   <reference type="toc" href="toc.ncx" title="Table of Contents"/>
 </guide>
 </package>

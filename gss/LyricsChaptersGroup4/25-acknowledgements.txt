@@ -1,14 +1,20 @@
 begin-title
-Acknowledgments
+Thanks
 end-title
 
 begin-basic-paragraph
+Here's a big thank you to some very skilled reviewers:
 Cynthia S.,
 Andrew W.,
 Eduard H.,
 George "Vonnegut" (a comedy writing genius),
 Mia M.,
 Matt Y.,
+and probably other's I've forgotten.
+end-basic-paragraph
+
+begin-basic-paragraph
+Here's a big thank you to the Fiverr artists who created and helped to develop the images of name-damien and name-desha on the cover:
 [...]
 end-basic-paragraph
 

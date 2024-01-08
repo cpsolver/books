@@ -307,43 +307,37 @@ As you know
 o-o
 there are names
 o-o
-for the left
+for the right
 o-o
-and the right.
+and the left.
 sentence-next
 o-o
 Names like
 o-o
-liberals,
+conservatives
 o-o
-conservatives,
+and liberals,
 o-o
-capitalists,
+capitalists
 o-o
-workers, and
+and socialists,
 o-o
-environmentalists.
-sentence-next
+pro hyphen-here lifers
 o-o
-And there's
+and abortionists,
 o-o
-name hyphen-here calling.
-sentence-next
+two percenters
 o-o
-Names like
+and tree huggers,
 o-o
-tree huggers,
+racists
 o-o
-socialists,
-o-o
-racists,
-o-o
-and dimwits.
+and bitches.
 sentence-next
 o-o
 Those
 o-o
-left hyphen-here and hyphen-here right names
+right hyphen-here and hyphen-here left names
 o-o
 entertainingly
 o-o
@@ -351,9 +345,7 @@ distract
 o-o
 from the fact
 o-o
-that there's a
-o-o
-bigger
+there's a bigger
 o-o
 conflict.
 end-lyric
@@ -825,9 +817,7 @@ who wins each
 o-o
 Democratic
 o-o
-begin-italics primary end-italics
-o-o
-race.
+begin-italics primary end-italics no-space !
 sentence-next
 o-o
 But in the general
@@ -1225,23 +1215,35 @@ Now I think I'm
 o-o
 seein' how come
 o-o
-neither political
+neither
 o-o
-party really
+political
+o-o
+party
+o-o
+really
 o-o
 gives a damn
 o-o
-'bout protectin'
+'bout givin' 
+o-o
+homeless folks
+o-o
+an assist,
+o-o
+endin' school
+o-o
+shootings,
+o-o
+helpin'
+o-o
+latinos who
+o-o
+don't vote,
+o-o
+protectin'
 o-o
 coral reefs,
-o-o
-fixin' climate
-o-o
-change,
-o-o
-givin' homeless
-o-o
-folks an assist,
 o-o
 or listenin'
 o-o
@@ -1267,6 +1269,8 @@ o-o
 religious
 o-o
 'n racial
+o-o
+'n gender
 o-o
 issues
 o-o
@@ -1361,7 +1365,7 @@ two teams.
 end-lyric
 
 ambee sings-politician amenn
-Here' something else
+Here's something else
 o-o
 you should know.
 sentence-next
@@ -2063,18 +2067,29 @@ and favors.
 end-lyric
 
 ambee sings-damien amenn
-I'd forgotten
+Ah,
 o-o
-about the layers.
-sentence-next
+I've overlooked
 o-o
-Like hiring
+the hiring
+o-o
+of various
+o-o
+kinds of
 o-o
 prostitutes,
 o-o
-online trolls,
+including
 o-o
-and clowns.
+unskilled
+o-o
+celebrities
+o-o
+and
+o-o
+social hyphen-here media
+o-o
+influencers.
 end-lyric
 
 ambee sings-politician amenn
@@ -2260,6 +2275,7 @@ o-o
 because they
 o-o
 don't fight.
+end-lyric
 
 ambee sings-damien amenn
 Those rule makers
@@ -2362,6 +2378,8 @@ o-o
 religious
 o-o
 and racial
+o-o
+and gender
 o-o
 differences
 o-o
