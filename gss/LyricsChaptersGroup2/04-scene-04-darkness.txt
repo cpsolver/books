@@ -509,7 +509,9 @@ o-o
 name is the Grouch.
 sentence-next
 o-o
-He lives in trash
+He's swimming
+o-o
+in trash
 o-o
 just like corrupt
 o-o
@@ -2376,27 +2378,45 @@ is most to blame.
 end-lyric
 
 ambee sings-damien amenn
-They're both clueless
+From what I
 o-o
-from what I
+can tell,
 o-o
-can tell.
+campaign
+o-o
+contributors
+o-o
+and even slimy
+o-o
+politicians
+o-o
+are mostly
+o-o
+clueless.
 sentence-next
 o-o
-They know money
+They know that
 o-o
-works like
+money works like
 o-o
-puppet strings.
+puppet strings,
+o-o
+but they don't
+o-o
+understand
+o-o
+the details
+o-o
+about why.
 sentence-next
 o-o
-But they're
+Especially
 o-o
-clueless about
+about the
 o-o
-vote splitting
+blocking
 o-o
-and blocking tricks.
+trick.
 sentence-next
 o-o
 Can we fight

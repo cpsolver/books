@@ -14,20 +14,24 @@ and probably other's I've forgotten.
 end-basic-paragraph
 
 begin-basic-paragraph
-Here's a big thank you to the artists who created and helped to develop the images of name-damien and name-desha on the cover:
+Here's a big thank you to the artists who contributed to creating the cover images of name-damien and name-desha no-space :
 sentence-next
-@wassaykhan on Fiverr (line drawings of heads of name-damien and name-desha),
-@ainoarts on Fiverr (3D postures),
-Xoee C. (fashion and posture sketch of Desha),
+@wassaykhan on Fiverr (line drawings of name-damien no-space 's head and name-desha no-space 's head),
+@ainoarts on Fiverr (2D visualization of 3D postures),
+Xoee C. (fashion and body sketch of Desha),
 Kate Dorokhova on Fiverr (final drawings).
+end-basic-paragraph
+
+begin-basic-paragraph
+The cover art, excluding the drawings of the two characters, was created by the author using Inkscape and Gimp software.
 end-basic-paragraph
 
 begin-basic-paragraph
 Resources:
 RhymeZone.com,
 Rhymer.com,
-TheFreeDictionary.com,
-Dashrep.org
+TheFreeDictionary.com (thesaurus),
+Dashrep.org (software language used to write code that converts markup text into epub format)
 end-basic-paragraph
 
 begin-basic-paragraph

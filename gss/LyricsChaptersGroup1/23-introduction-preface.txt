@@ -24,11 +24,9 @@ In the wild conclusion several worlds collide in surprising ways.
 end-basic-paragraph
 
 begin-basic-paragraph
-Testimonial:
+Here's what one reader wrote:
 sentence-next
-"Personally I found myself so much better informed about how the world works ...."
-sentence-next
-George V.
+"Personally I found myself so much better informed about how the world works."
 end-basic-paragraph
 
 begin-basic-paragraph

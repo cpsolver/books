@@ -3,13 +3,10 @@ Voice Actor Casting Suggestions
 end-title
 
 begin-basic-paragraph
-These voice descriptions are intended as suggestions for any non hyphen-here profit group that makes an audiobook of this dialog according to the permission in the copyright notice.
+These voice descriptions reveal the author's intention for the character voices.
 sentence-next
-These descriptions also can be used to better imagine the characters in this story.
-sentence-next
-The list ends with voice requirements that apply to all characters.
+At the end of the list are voice descriptions that apply to all characters.
 end-basic-paragraph
-
 
 ambee sings-damien amenn
 begin-bold name-damien end-bold no-space ,
@@ -18,7 +15,6 @@ sentence-next
 Slight Puerto Rican accent.
 sentence-next
 In earlier scenes uses slightly lazy pronunciation (such as lookin' instead of looking) on non hyphen-here important words.
-snippet-voice-specs
 end-lyric
 
 ambee sings-fiance amenn
@@ -26,7 +22,6 @@ begin-bold name-fiance end-bold no-space ,
 young adult female, soprano or alto voice.
 sentence-next
 Speaks as though raised in an upper middle hyphen-here class family.
-snippet-voice-specs
 end-lyric
 
 ambee sings-vc amenn
@@ -35,7 +30,6 @@ middle hyphen-here age adult male, baritone voice.
 sentence-next
 Speaks boldly as if wealthy.
 sentence-next
-snippet-voice-specs
 end-lyric
 
 ambee sings-politician amenn
@@ -43,7 +37,6 @@ begin-bold name-politician name-politician-last end-bold no-space ,
 older adult male, tenor voice.
 sentence-next
 Speaks like an experienced politician.
-snippet-voice-specs
 end-lyric
 
 ambee sings-desha amenn
@@ -56,7 +49,6 @@ sentence-next
 U.S. American accent, but voice sounds like racially she is mixed hyphen-here race with some African hyphen-here American ancestry in addition to European ancestry.
 sentence-next
 Speaks strong political opinions.
-snippet-voice-specs
 end-lyric
 
 ambee sings-mathprof amenn
@@ -66,7 +58,6 @@ sentence-next
 Sounds like a university professor.
 sentence-next
 Clear enunciation is important.
-snippet-voice-specs
 end-lyric
 
 ambee sings-econhist amenn
@@ -80,7 +71,6 @@ sentence-next
 Sounds like a university professor.
 sentence-next
 Clear enunciation is important.
-snippet-voice-specs
 end-lyric
 
 ambee sings-minister amenn
@@ -92,7 +82,6 @@ sentence-next
 Sounds like a wise minister or clergyman.
 sentence-next
 Clear enunciation is important.
-snippet-voice-specs
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -100,11 +89,14 @@ begin-bold name-father-of-fiance end-bold no-space ,
 middle hyphen-here age male, bass or baritone voice.
 sentence-next
 Sounds like a pompous wealthy person.
-snippet-voice-specs
 end-lyric
 
 begin-basic-paragraph
-begin-bold Voice requirements for all characters: end-bold
+Additional characteristics for specific characters are revealed in the dialog.
+end-basic-paragraph
+
+begin-basic-paragraph
+begin-bold Voice suggestions for all characters: end-bold
 sentence-next
 The voices should be natural (full hyphen-here throated and conversational), lively (frequent pitch inflections and word hyphen-here specific loudness changes, although never in the middle of a syllable), and smiling (comedic, but not "funny").
 sentence-next
@@ -112,13 +104,9 @@ A good sense of rhythm, either as a singer or dancer, is desired.
 sentence-next
 When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsciously.
 sentence-next
-The voice acting should not be self hyphen-here conscious.
-sentence-next
 The dialog does not involve any shouting.
-end-basic-paragraph
-
-begin-basic-paragraph
-Additional characteristics are revealed in the dialog.
+sentence-next
+The voice acting should not be self hyphen-here conscious.
 end-basic-paragraph
 
 combee ****

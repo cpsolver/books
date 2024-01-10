@@ -562,9 +562,7 @@ sentence-next
 o-o
 Like Enron,
 o-o
-the early
-o-o
-pets dot com,
+Theranos,
 o-o
 and America
 o-o
@@ -1604,7 +1602,7 @@ against an
 o-o
 assault
 o-o
-weapon.
+rifle.
 end-lyric
 
 ambee sings-damien amenn

@@ -1533,3 +1533,11 @@ My sanity
 o-o
 depends on it.
 end-lyric
+
+begin-basic-paragraph
+begin-explain
+Foot note about voices:
+sentence-next
+More details about vocalization are at the end of this book.
+end-explain
+end-basic-paragraph
