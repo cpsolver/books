@@ -25,15 +25,11 @@ Also hereby permitted without cost is the performance of this dialog in a theate
 end-basic-paragraph
 
 begin-basic-paragraph
-The characters in this story are fictional.
+The characters in this story are fictional, based on voices in the author's head, as clarified in the begin-italics About the Author end-italics section.
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
 The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
-sentence-next
-Otherwise all the characters are based on voices in the author's head.
-sentence-next
-To understand further, see the begin-italics About the Author end-italics section.
 end-basic-paragraph
 
 begin-basic-paragraph

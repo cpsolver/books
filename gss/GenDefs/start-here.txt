@@ -12,3 +12,5 @@ ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee copy-from-phrase-append-to-file output-libretto ambee output-filename-libretto amenn amenn
 ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee copy-from-phrase-append-to-file expanded-end-html ambee output-filename-libretto amenn amenn
+ambee copy-text path-to-folder-epub dashrep-path-prefix-for-file-writing amenn
+ambee copy-from-phrase-append-to-file expanded-end-html ambee previous-output-filename-chapter-for-epub amenn amenn

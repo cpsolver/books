@@ -1494,7 +1494,7 @@ sentence-next
 o-o
 Not even if they
 o-o
-sell software
+sell something
 o-o
 to customers
 o-o
@@ -1506,20 +1506,15 @@ lots of money
 o-o
 into the
 o-o
-region.
-sentence-next
+region
 o-o
-And also not
+without also
 o-o
-if the small
+losing
 o-o
-business
+anything
 o-o
-attracts
-o-o
-tourists
-o-o
-into the city.
+significant.
 sentence-next
 o-o
 Yet if those small
@@ -1528,7 +1523,7 @@ businesses
 o-o
 got a good break
 o-o
-in their taxes,
+on their taxes,
 o-o
 that would
 o-o
@@ -1543,6 +1538,19 @@ o-o
 to grow and be
 o-o
 created.
+sentence-next
+o-o
+The result
+o-o
+would be
+o-o
+more money
+o-o
+coming into
+o-o
+that city
+o-o
+or state.
 end-lyric
 
 ambee sings-damien amenn
@@ -1562,6 +1570,12 @@ election system
 o-o
 lobbyists
 o-o
+and big
+o-o
+campaign
+o-o
+contributors
+o-o
 would insist on
 o-o
 giving those
@@ -1575,8 +1589,39 @@ o-o
 business.
 end-lyric
 
-ambee sings-desha amenn
-Like a
+ambee sings-damien amenn
+What's the
+o-o
+opposite?
+end-lyric
+
+ambee sings-econhist amenn
+A law firm
+o-o
+claiming they
+o-o
+create
+o-o
+valuable
+o-o
+documents,
+o-o
+even though
+o-o
+the document
+o-o
+is worthless
+o-o
+to anyone
+o-o
+other than the
+o-o
+person who
+o-o
+requested it.
+sentence-next
+o-o
+Or a
 o-o
 small lumber
 o-o
@@ -1592,84 +1637,132 @@ and selling it
 o-o
 to Japan
 o-o
-where they
+without
 o-o
-understand
+considering
 o-o
-the value
+the loss of trees.
+sentence-next
 o-o
-because long ago
+Speaking of which
+o-o
+long ago
+o-o
+in Japan
 o-o
 they cut down their
 o-o
 own forests
 o-o
-for firewood.
+for firewood,
+o-o
+so they now
+o-o
+value their trees.
+end-lyric
+
+ambee sings-damien amenn
+Does a
+o-o
+McDonalds
+o-o
+franchise
+o-o
+location
+o-o
+create
+o-o
+something
+o-o
+with enough
+o-o
+value to get
+o-o
+that tax break?
 end-lyric
 
 ambee sings-econhist amenn
-Indeed,
+No because
 o-o
-those small
+what they create
 o-o
-businesses
+is available
 o-o
-don't deserve,
-o-o
-ah,
-o-o
-cause the loss
-o-o
-of resources
-o-o
-instead of just
-o-o
-bringing wealth
-o-o
-into the region,
-o-o
-without any
-o-o
-significant
-o-o
-losses.
+in any city.
 sentence-next
 o-o
-If we had
+And they send
 o-o
-a better
+lots of money
 o-o
-election
+to McDonalds
 o-o
-system
+headquarters.
+sentence-next
 o-o
-that isn't
+Plus they only
 o-o
-so easily
+sell to local
 o-o
-controlled by
+customers.
+sentence-next
 o-o
-those kinds of
+In contrast,
 o-o
-businesses,
+a single hyphen-here location
 o-o
-governments
+restaurant
 o-o
-could give
+usually creates
 o-o
-tax breaks
+something so
 o-o
-to the small
+valuable
 o-o
-businesses
+the business
 o-o
-that really
+attracts
 o-o
-do strengthen
+customers,
 o-o
-the local
+and their money,
 o-o
-economy.
+from out of town.
+sentence-next
+o-o
+So they would get
+o-o
+the tax break.
+end-lyric
+
+ambee sings-desha amenn
+What if the
+o-o
+place makes
+o-o
+just jello,
+o-o
+soggy fries,
+o-o
+and fennel
+o-o
+milkshakes?
+end-lyric
+
+ambee sings-econhist amenn
+The supply
+o-o
+and demand
+o-o
+of capitalism
+o-o
+will put that
+o-o
+business
+o-o
+out of
+o-o
+business.
 end-lyric
 
 ambee sings-desha amenn
@@ -1677,9 +1770,7 @@ I hope
 o-o
 the tax break
 o-o
-also would
-o-o
-go to small
+goes to small
 o-o
 businesses
 o-o
@@ -1691,11 +1782,15 @@ composers,
 o-o
 and
 o-o
-writers
+writers,
 o-o
-that create
+because
 o-o
-art such as
+they create
+o-o
+valuable
+o-o
+things such as
 o-o
 songs,
 o-o
@@ -1706,6 +1801,12 @@ o-o
 paintings,
 o-o
 and jewelry.
+end-lyric
+
+ambee sings-econhist amenn
+Yes if it's
+o-o
+well designed.
 end-lyric
 
 ambee sings-damien amenn
@@ -1737,33 +1838,24 @@ o-o
 these tax breaks.
 end-lyric
 
-ambee sings-desha amenn
-Hey,
+ambee sings-econhist amenn
+Yes if it's
 o-o
-I'm realizing
+well designed.
+end-lyric
+
+ambee sings-damien amenn
+Is there a name
 o-o
-that
+for the kinds
 o-o
-law firms,
+of businesses
 o-o
-real hyphen-here estate
+that deserve,
 o-o
-developers,
+and don't deserve,
 o-o
-payday loan
-o-o
-companies,
-o-o
-and pawn shops
-o-o
-deserve to pay
-o-o
-higher taxes,
-o-o
-right?
-sentence-next
-o-o
-I love it!
+the tax break?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1797,45 +1889,16 @@ o-o
 it's a fact.
 end-lyric
 
-ambee sings-damien amenn
-So what's this called?
-sentence-next
+ambee sings-econhist amenn
+The names I've read
 o-o
-This thing of
-o-o
-giving
-o-o
-tax breaks
-o-o
-to small
+are maker
 o-o
 businesses
 o-o
-that efficiently
+and taker
 o-o
-create things of value.
-end-lyric
-
-ambee sings-desha amenn
-And attract
-o-o
-lots of money
-o-o
-into a
-o-o
-region.
-end-lyric
-
-ambee sings-econhist amenn
-The only name
-o-o
-I've heard is
-o-o
-begin-italics tax the makers
-o-o
-less than the
-o-o
-takers. end-italics
+businesses.
 end-lyric
 
 ambee sings-damien amenn
@@ -1844,19 +1907,37 @@ sentence-next
 o-o
 People like me
 o-o
-who wanna make things
+who make things
 o-o
-would earn higher
+work for maker
 o-o
-wages working
+businesses.
+end-lyric
+
+ambee sings-desha amenn
+So the taker
 o-o
-for a small business
+businesses
 o-o
-that gets
+would include
 o-o
-the lower
+law firms,
 o-o
-taxes.
+real hyphen-here estate
+o-o
+developers,
+o-o
+payday loan
+o-o
+companies,
+o-o
+and pawn shops,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
 end-lyric
 
 ambee sings-desha amenn
@@ -1866,7 +1947,9 @@ even if they're small,
 o-o
 would pay much
 o-o
-higher taxes.
+higher taxes,
+o-o
+right?
 end-lyric
 
 ambee sings-econhist amenn
@@ -3500,4 +3583,3 @@ That's a powerful
 o-o
 feedback loop.
 end-lyric
-

@@ -3,25 +3,36 @@ About author Richard Fobes
 end-title
 
 begin-basic-paragraph
-Richard is the author of a book titled begin-italics The Creative Problem Solver's Toolbox end-italics which has been published around the world in ten languages.
+Richard Fobes is the author of begin-italics The Creative Problem Solver's Toolbox end-italics which has been published around the world in ten languages.
 end-basic-paragraph
 
 begin-basic-paragraph
 The story of begin-italics The Goat Spitting Secret end-italics arose in Richard's mind as a dialog between different voices in his head.
 sentence-next
-To understand those voices, consider that Richard has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.
+These different voices arose because Richard has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.
 end-basic-paragraph
 
 begin-basic-paragraph
-Richard's understanding of vote counting started when he was in a small music hyphen-here and hyphen-here dance organization that voted on three logo designs.
+Richard's understanding of vote counting started when he was in a small music hyphen-here and hyphen-here dance organization that voted on new logo designs.
 sentence-next
-Initially there had been two designs.
+Initially there were two designs.
 sentence-next
-Richard submitted a third design that was a variation on the better of the two original designs.
+Richard submitted a third design that he regarded as an improvement on the better of the two original designs.
 sentence-next
-The worst design came close to winning, which triggered his aha moment about vote splitting.
+Although Richard's design was chosen because it got the most votes, the worst design came close to winning, which triggered his aha moment about vote splitting.
+sentence-next
+That insight led to creating an innovative vote hyphen-here counting method and including it in begin-italics The Creative Problem Solver's Toolbox end-italics no-space , developing further aspects of VoteFair Ranking and writing a book about it titled begin-italics Ending The Hidden Unfairness In U.S. Elections end-italics no-space , creating interactive websites at VoteFair.org and NegotiationTool.com no-space , testifying to the Oregon state legislature and the City of Portland Charter Commission in support of well hyphen-here chosen ways to count begin-italics ranked choice ballots end-italics no-space .
 end-basic-paragraph
 
+begin-basic-paragraph
+Richard started life in southern California (Oceanside, at the north end of San Diego county), then moved to central California (Davis, a university town), then to mid-valley Oregon (Corvallis, another university town), and finally to northern Oregon (Portland, a big city).
+end-basic-paragraph
+
+begin-basic-paragraph
+To see a list of projects created by Richard Fobes, including books, websites, software, and a new programming language, point your browser to SolutionsCreative dot com.
+end-basic-paragraph
+
+combee
 begin-basic-paragraph
 Richard's plan during youth had been to become an inventor.
 sentence-next
@@ -43,11 +54,5 @@ During a thinking session in a hammock Richard developed the idea that led to cr
 sentence-next
 He pursued software projects to further develop additional details, as well as simplifications and insights that have been embraced worldwide and in Oregon.
 end-basic-paragraph
+comenn
 
-begin-basic-paragraph
-Richard started life in southern California (Oceanside), then moved to central California (Davis), then to mid-valley Oregon (Corvallis), and finally to northern Oregon (Portland) where he met his wife hyphen-here to hyphen-here be Cynthia.
-end-basic-paragraph
-
-begin-basic-paragraph
-To see a list of creative projects, including writings and software, point your browser to SolutionsCreative dot com.
-end-basic-paragraph

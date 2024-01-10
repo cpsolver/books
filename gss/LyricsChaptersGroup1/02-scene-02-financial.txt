@@ -147,22 +147,26 @@ I've got a knack
 o-o
 for acquiring
 o-o
-riches,
+riches.
+sentence-next
+o-o
+Sometimes
+o-o
+it seems like
 o-o
 obscene
 o-o
-amounts.
-sentence-next
+amounts,
 o-o
-It feels like
+almost like
 o-o
-getting payouts
+payouts spilling
 o-o
-spilling onto
+onto the floor
 o-o
-the floor from
+from a slot
 o-o
-a slot machine.
+machine.
 sentence-next
 o-o
 Yet I want more.
@@ -178,7 +182,7 @@ o-o
 Not there yet.
 sentence-next
 o-o
-Don't yet got
+I've not yet got
 o-o
 all I want.
 end-lyric

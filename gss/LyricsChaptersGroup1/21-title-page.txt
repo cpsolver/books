@@ -3,19 +3,33 @@ book-title
 end-title
 
 begin-subtitle
+non-breaking-space
+end-subtitle
+
+begin-subtitle
 book-subtitle-with-line-breaks
 end-subtitle
 
 begin-subtitle
+non-breaking-space
+end-subtitle
+
+begin-subtitle
 by Richard Fobes
-sentence-next
-(Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>)
+end-subtitle
+
+begin-basic-paragraph
+Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
+end-basic-paragraph
+
+begin-subtitle
+non-breaking-space
 end-subtitle
 
 begin-subtitle
 Also by Richard Fobes
 end-subtitle
 
-begin-title
+begin-subtitle
 The Creative Problem Solver's Toolbox
-end-title
+end-subtitle

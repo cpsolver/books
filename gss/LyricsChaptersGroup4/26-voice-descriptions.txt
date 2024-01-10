@@ -6,6 +6,8 @@ begin-basic-paragraph
 These voice descriptions are intended as suggestions for any non hyphen-here profit group that makes an audiobook of this dialog according to the permission in the copyright notice.
 sentence-next
 These descriptions also can be used to better imagine the characters in this story.
+sentence-next
+The list ends with voice requirements that apply to all characters.
 end-basic-paragraph
 
 
