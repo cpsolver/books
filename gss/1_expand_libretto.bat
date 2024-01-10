@@ -3,6 +3,7 @@ set PerlPath=F:\Important\Tools\
 set DirGss=F:\Important\GitHub\books\gss\
 set DirExpand=F:\Important\GitHub\books\gss\Expand\
 set DirEpub=F:\Important\GitHub\books\gss\epub\
+set DirMimetype=F:\Important\GitHub\books\gss\mimetype_only\
 
 
 rem ---------- verify needed files exist ----------
@@ -93,10 +94,11 @@ copy output_trace.txt output_trace_group_4.txt
 rem ---------- generate epub version ----------
 
 del %DirGss%GoatSpittingSecret.epub
-"C:\Program Files\7-Zip\7z.exe" a -t* %DirGss%GoatSpittingSecret.epub %DirGss%mimetype_only\mimetype_to_rename
+cd %DirMimetype%
+"C:\Program Files\7-Zip\7z.exe" a -tzip %DirGss%GoatSpittingSecret.epub !mimetype_first_then_rename
 cd %DirEpub%
-"C:\Program Files\7-Zip\7z.exe" u -tzip %DirGss%GoatSpittingSecret.epub *
-"C:\Program Files\7-Zip\7z.exe" rn %DirGss%GoatSpittingSecret.epub mimetype_to_rename mimetype
+"C:\Program Files\7-Zip\7z.exe" a %DirGss%GoatSpittingSecret.epub *
+"C:\Program Files\7-Zip\7z.exe" rn %DirGss%GoatSpittingSecret.epub !mimetype_first_then_rename mimetype
 cd %DirExpand%
 
 
