@@ -860,8 +860,10 @@ o-o
 bonnie lass!
 end-lyric
 
-ambee sings-fiance amenn
-Movies and games
+ambee sings-desha amenn
+Movies and
+o-o
+video games
 o-o
 can get another
 o-o
@@ -1173,16 +1175,22 @@ sentence-next
 o-o
 I figured out
 o-o
-how corruption works,
+what's causing
 o-o
-so now I'm tryin'
+endless waves
 o-o
-to figure how to
-o-o
-work around it.
+of corruption.
 sentence-next
 o-o
-Then I can start
+Now I'm tryin'
+o-o
+to figure out
+o-o
+how to surf
+o-o
+those waves,
+o-o
+so I can start
 o-o
 my own business.
 sentence-next
@@ -1834,7 +1842,7 @@ end-lyric
 ambee sings-minister amenn
 At that age
 o-o
-my nickname
+those nicknames
 o-o
 helped me learn to
 o-o
@@ -2469,7 +2477,7 @@ o-o
 to London and Paris?
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-fiance amenn
 I've told you I
 o-o
 enjoy traveling.
@@ -2477,6 +2485,8 @@ end-lyric
 
 ambee sings-damien amenn
 I thought you meant
+o-o
+mostly
 o-o
 by car.
 end-lyric

@@ -1757,16 +1757,11 @@ East?
 end-lyric
 
 ambee sings-mathprof amenn
-There's one
+Another bit
 o-o
-more bit.
-sentence-next
+you can learn
 o-o
-But you can learn
-o-o
-about it
-o-o
-later,
+about later,
 o-o
 when you're ready.
 sentence-next
@@ -1804,14 +1799,131 @@ for you now.
 end-lyric
 
 ambee sings-damien amenn
+Thanks for
+o-o
+not giving
+o-o
+my drowning
+o-o
+birdbrain
+o-o
+a migraine.
+end-lyric
+
+ambee sings-mathprof amenn
+And you should know
+o-o
+that electing
+o-o
+city council
+o-o
+members
+o-o
+sometimes
+o-o
+doesn't involve
+o-o
+political
+o-o
+parties.
+sentence-next
+o-o
+In that case
+o-o
+having three
+o-o
+councilors
+o-o
+from each district
+o-o
+is a good choice.
+end-lyric
+
+ambee sings-desha
+What does that
+o-o
+accomplish?
+end-lyric
+
+ambee sings-mathprof amenn
+With the math
+o-o
+we've been
+o-o
+talking about,
+o-o
+if the winner
+o-o
+of the first seat
+o-o
+is backed by
+o-o
+lots of money
+o-o
+from business 
+o-o
+owners,
+o-o
+the second hyphen-here seat
+o-o
+winner would
+o-o
+represent
+o-o
+employees,
+o-o
+because they
+o-o
+outnumber
+o-o
+business owners.
+sentence-next
+o-o
+If both
+o-o
+of those winners
+o-o
+are male
+o-o
+and white,
+o-o
+likely the
+o-o
+third seat
+o-o
+will be
+o-o
+a woman
+o-o
+or a
+o-o
+minority,
+o-o
+or both.
+end-lyric
+
+ambee sings-desha amenn
+Wow.
+sentence-next
+o-o
+Math is
+o-o
+magical.
+end-lyric
+
+ambee sings-damien amenn
 Wait.
 sentence-next
 o-o
-What about the
+You haven't
+o-o
+told us how
+o-o
+to solve the
 o-o
 gerrymander
 o-o
-problem?
+problem.
 end-lyric
 
 ambee sings-desha amenn
@@ -1933,17 +2045,9 @@ game theory.
 end-lyric
 
 ambee sings-damien amenn
-Game theory?
-end-lyric
-
-ambee sings-desha amenn
-Ah.
-sentence-next
+Video game
 o-o
-Voting's a game!
-sentence-next
-o-o
-That makes sense.
+strategy?
 end-lyric
 
 ambee sings-mathprof amenn

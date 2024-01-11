@@ -15,6 +15,14 @@ These different voices arose because Richard has experienced, at least briefly, 
 end-basic-paragraph
 
 begin-basic-paragraph
+Richard does not regard either the Republican party or the Democratic party to be representative of his political views.
+sentence-next
+He registers with one party or the other just so he can vote for candidates in primary elections.
+sentence-next
+He switches that registration periodically.
+end-basic-paragraph
+
+begin-basic-paragraph
 Richard's understanding of vote counting started when he was in a small music hyphen-here and hyphen-here dance organization that was voting on a new logo design.
 sentence-next
 Initially there were two designs.

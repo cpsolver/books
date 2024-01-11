@@ -457,88 +457,115 @@ so they choose
 o-o
 dramatic news
 o-o
-about
+that excites
 o-o
-audacious
+your fears,
 o-o
-criminals,
+your anger,
 o-o
-slimy
+your desires,
 o-o
-politicians,
+and your
 o-o
-and other
-o-o
-morons.
+laughter.
 sentence-next
 o-o
-And remember,
+Sports reports
 o-o
-spectator
+are about
 o-o
-sports and
-o-o
-reality
-o-o
-TV
+games with
 o-o
 artificially
 o-o
-inject
+injected
 o-o
-scarcity
+scarcity,
 o-o
-to block
+with rules
+o-o
+specifically
+o-o
+designed to block
+o-o
+cooperation.
+sentence-next
+o-o
+Politicians
+o-o
+shine a light
+o-o
+on evil
+o-o
+in the fans
+o-o
+of opposing
+o-o
+candidates,
+o-o
+but that evil
+o-o
+isn't real.
+sentence-next
+o-o
+Those are all
+o-o
+departures
+o-o
+from reality.
+sentence-next
+o-o
+What remains is
+o-o
+cooperation.
+sentence-next
+o-o
+Yes,
 o-o
 cooperation
 o-o
-and enforce
+is as boring
 o-o
-competition.
-sentence-next
-o-o
-Unfortunately
-o-o
-some priests
-o-o
-promote
-o-o
-the notion
-o-o
-of evil
-o-o
-because it
-o-o
-attracts
-o-o
-bigger
-o-o
-donations
-o-o
-from their
-o-o
-congregations.
-sentence-next
-o-o
-Without those
-o-o
-tricks
-o-o
-the result is
-o-o
-cooperation,
-o-o
-which is as
-o-o
-boring as
-o-o
-a gun
+as a gun
 o-o
 in the hands
 o-o
 of a blind
 o-o
 pacifist.
+sentence-next
+o-o
+Yet that's
+o-o
+the foundation
+o-o
+of our crazy
+o-o
+civilization.
+end-lyric
+
+ambee sings-vc amenn
+When I was young
+o-o
+I heard priests
+o-o
+make a big deal
+o-o
+about evil.
+end-lyric
+
+ambee sings-minister amenn
+That's because
+o-o
+that fear attracts
+o-o
+bigger
+o-o
+congregations
+o-o
+and bigger
+o-o
+donations.
 end-lyric
 
 ambee sings-vc amenn
@@ -607,11 +634,14 @@ charge interest
 o-o
 when lending
 o-o
-money,
+money.
+sentence-next
 o-o
-so Christians
+So early
 o-o
-asked Jews
+Christians
+o-o
+recruited Jews
 o-o
 living in
 o-o
@@ -1233,26 +1263,13 @@ o-o
 Not the memories.
 sentence-next
 o-o
-Just emotions
+Just emotions,
 o-o
-like expired anger,
+like expired
 o-o
-out hyphen-here of hyphen-here date
+regret that you lied
 o-o
-sadness, and
-o-o
-the regret
-o-o
-that you didn't
-o-o
-choose the right words
-o-o
-when you last saw
-o-o
-someone alive.
-sentence-next
-o-o
-...
+to a child.
 sentence-next
 o-o
 Let go of the future.
@@ -1265,47 +1282,17 @@ sentence-next
 o-o
 But let go of
 o-o
-a compulsion to
+the fear
 o-o
-pinch pennies,
+you will lose friends
 o-o
-and worrying
+because you chose
 o-o
-that your cat
+to wear socks
 o-o
-might get bit
-o-o
-by a rat,
-o-o
-and fearing
-o-o
-all your friends
-o-o
-will abandon you
-o-o
-if someone
-o-o
-spreads the lie
-o-o
-that you wore
-o-o
-socks with sandals
+with sandals,
 o-o
 in public.
-sentence-next
-o-o
-Those
-o-o
-distracting
-o-o
-feelings
-o-o
-are about
-o-o
-unlikely futures.
-sentence-next
-o-o
-...
 sentence-next
 o-o
 Now,
@@ -1415,7 +1402,9 @@ father, er,
 o-o
 actually I now
 o-o
-realize I don't know
+realize I don't
+o-o
+remember
 o-o
 your name.
 end-lyric
