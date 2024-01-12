@@ -3,29 +3,6 @@ ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee expand-text template-begin-epub-chapter begin-epub-chapter amenn
 ambee clear-phrase previous-chapter-number-two-digits amenn
 ambee clear-phrase previous-output-filename-chapter-for-epub amenn
-ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee expand-text begin-html expanded-begin-html amenn
 ambee expand-text end-html expanded-end-html amenn
-ambee copy-from-phrase-append-to-file expanded-begin-html ambee output-filename-libretto amenn amenn
-ambee copy-words-from-position-to-position list-of-chapter-phrase-names first-chapter-phrase-name 1 1 amenn
-ambee put-into-phrase number-of-characters-in-first-phrase-name ambee get-count-of-characters first-chapter-phrase-name amenn amenn
-ambee copy-characters-from-position-to-position first-chapter-phrase-name last-character-of-first-phrase-name ambee number-of-characters-in-first-phrase-name amenn ambee number-of-characters-in-first-phrase-name amenn amenn
-ambee copy-words-found-in-both-lists last-character-of-first-phrase-name digits-2-through-9 empty-indicates-digit-one amenn
-
-ambee if-no-begin ambee yes-or-no-empty-phrase empty-indicates-digit-one amenn amenn
-    ambee copy-characters-from-position-to-position first-chapter-phrase-name previous-chapter-number-two-digits 1 2 amenn
-ambee if-end amenn
-
-
-ambee trace-show last-character-of-first-phrase-name amenn
-ambee trace-show empty-indicates-digit-one amenn
-ambee trace-show previous-chapter-number-two-digits amenn
-
-
 ambee use-handler-with-each-word-in-phrase handle-expand-one-chapter-file list-of-chapter-phrase-names amenn
-ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
-ambee copy-from-phrase-append-to-file output-libretto ambee output-filename-libretto amenn amenn
-ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
-ambee copy-from-phrase-append-to-file expanded-end-html ambee output-filename-libretto amenn amenn
-ambee copy-text path-to-folder-epub dashrep-path-prefix-for-file-writing amenn
-ambee copy-from-phrase-append-to-file expanded-end-html ambee previous-output-filename-chapter-for-epub amenn amenn

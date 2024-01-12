@@ -1,6 +1,0 @@
-ambee copy-text word-to-use-in-handler word-file-name amenn
-ambee copy-and-replace word-file-name phrase-name string-dot-txt empty-text amenn
-ambee copy-from-file-to-phrase ambee word-file-name amenn text-from-file amenn
-ambee copy-and-replace text-from-file text-from-file character-newline character-space amenn
-ambee copy-without-extra-spaces text-from-file text-from-file amenn
-ambee copy-text text-from-file ambee get-phrase-name-from-phrase phrase-name amenn amenn

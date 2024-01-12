@@ -637,7 +637,7 @@ o-o
 is a good choice.
 end-lyric
 
-ambee sings-desha
+ambee sings-desha amenn
 What does that
 o-o
 accomplish?

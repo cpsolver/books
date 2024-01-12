@@ -1,10 +1,17 @@
 ambee copy-text word-to-use-in-handler chapter-phrase-name amenn
 ambee copy-characters-from-position-to-position chapter-phrase-name chapter-number-two-digits 1 2 amenn
 ambee expand-text title-chapter fenambee chapter-number-two-digits amenn chapter-title amenn
+ambee expand-text template-begin-epub-chapter begin-epub-chapter amenn
 ambee expand-text template-filename-chapter-for-epub output-filename-chapter-for-epub amenn
+ambee copy-words-found-in-both-lists chapter-phrase-name list-of-files-to-not-initialize empty-indicates-ok-to-initialize amenn
+ambee copy-words-found-in-both-lists chapter-phrase-name list-of-files-to-not-terminate empty-indicates-ok-to-terminate amenn
 
-ambee if-no-begin ambee yes-or-no-same-two-phrase-definitions chapter-number-two-digits previous-chapter-number-two-digits amenn amenn
-    ambee terminate-epub-file-if-needed amenn
+ambee if-yes-begin ambee yes-or-no-same-two-phrase-definitions chapter-phrase-name first-chapter-phrase-name amenn amenn
+    ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
+    ambee copy-from-phrase-append-to-file expanded-begin-html ambee output-filename-libretto amenn amenn
+ambee if-end amenn
+
+ambee if-yes-begin ambee yes-or-no-empty-phrase empty-indicates-ok-to-initialize amenn amenn
     ambee expand-text template-begin-epub-chapter begin-epub-chapter amenn
     ambee copy-text path-to-folder-epub dashrep-path-prefix-for-file-writing amenn
     ambee copy-from-phrase-append-to-file begin-epub-chapter ambee output-filename-chapter-for-epub amenn amenn
@@ -15,5 +22,13 @@ ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
 ambee copy-from-phrase-append-to-file expanded-chapter ambee output-filename-libretto amenn amenn
 ambee copy-text path-to-folder-epub dashrep-path-prefix-for-file-writing amenn
 ambee copy-from-phrase-append-to-file expanded-chapter ambee output-filename-chapter-for-epub amenn amenn
-ambee copy-text chapter-number-two-digits previous-chapter-number-two-digits amenn
-ambee copy-text output-filename-chapter-for-epub previous-output-filename-chapter-for-epub amenn
+
+ambee if-yes-begin ambee yes-or-no-empty-phrase empty-indicates-ok-to-terminate amenn amenn
+    ambee copy-text path-to-folder-epub dashrep-path-prefix-for-file-writing amenn
+    ambee copy-from-phrase-append-to-file expanded-end-html ambee output-filename-chapter-for-epub amenn amenn
+ambee if-end amenn
+
+ambee if-yes-begin ambee yes-or-no-same-two-phrase-definitions chapter-phrase-name last-chapter-phrase-name amenn amenn
+    ambee copy-text path-to-folder-expand dashrep-path-prefix-for-file-writing amenn
+    ambee copy-from-phrase-append-to-file expanded-end-html ambee output-filename-libretto amenn amenn
+ambee if-end amenn
