@@ -1,0 +1,1016 @@
+ambee sings-desha amenn
+You said the
+o-o
+five star Amazon
+o-o
+kind of ballot
+o-o
+has two names.
+sentence-next
+o-o
+Which name applies
+o-o
+to the kind of
+o-o
+simple counting
+o-o
+we've been talking
+o-o
+about?
+end-lyric
+
+ambee sings-mathprof amenn
+That kind of
+o-o
+ballot is asking
+o-o
+for a score
+o-o
+or a rating.
+sentence-next
+o-o
+It's called
+o-o
+a score ballot.
+sentence-next
+o-o
+It allows a voter
+o-o
+to indicate
+o-o
+how strongly the
+o-o
+voter feels about
+o-o
+who they like and
+o-o
+dislike.
+sentence-next
+o-o
+Like the grades
+o-o
+A through F.
+end-lyric
+
+ambee sings-desha amenn
+Most politicians
+o-o
+deserve an F,
+o-o
+for
+o-o
+...
+sentence-next
+o-o
+fails to care
+o-o
+about most
+o-o
+voters.
+end-lyric
+
+ambee sings-damien amenn
+We gotta
+o-o
+grade 'em
+o-o
+on a curve.
+end-lyric
+
+ambee sings-desha amenn
+'N that's why
+o-o
+marking just the
+o-o
+highest and
+o-o
+lowest scores,
+o-o
+is such a
+o-o
+big deal?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes,
+o-o
+because some
+o-o
+voters will use
+o-o
+the clapping
+o-o
+tactic
+o-o
+and others
+o-o
+won't.
+end-lyric
+
+ambee sings-damien amenn
+So how should we
+o-o
+be countin'
+o-o
+ballots?
+sentence-next
+o-o
+For elections.
+sentence-next
+o-o
+Where voters
+o-o
+will try
+o-o
+to increase
+o-o
+their influence.
+end-lyric
+
+ambee sings-mathprof amenn
+Before we
+o-o
+move on to what
+o-o
+I think is the
+o-o
+best kind of
+o-o
+vote counting,
+o-o
+here's an
+o-o
+interesting
+o-o
+simple kind of
+o-o
+improvement.
+end-lyric
+
+ambee sings-desha amenn
+What's that?
+end-lyric
+
+ambee sings-mathprof amenn
+Consider the same
+o-o
+kind of ballot
+o-o
+we use now, the
+o-o
+single hyphen-here choice ballot.
+sentence-next
+o-o
+But change the
+o-o
+instructions
+o-o
+and allow the voter
+o-o
+to mark more than
+o-o
+just one candidate.
+sentence-next
+o-o
+That's called
+o-o
+approval
+o-o
+voting.
+end-lyric
+
+ambee sings-desha amenn
+Ah, because you
+o-o
+either approve
+o-o
+each candidate or
+o-o
+leave their name
+o-o
+unmarked.
+end-lyric
+
+ambee sings-damien amenn
+This sounds like
+o-o
+Facebook,
+o-o
+where people can
+o-o
+upvote
+o-o
+anything and
+o-o
+everything.
+end-lyric
+
+ambee sings-mathprof amenn
+You're getting this!
+end-lyric
+
+ambee sings-desha amenn
+On Reddit
+o-o
+we can upvote
+o-o
+and downvote.
+sentence-next
+o-o
+That's more
+o-o
+info.
+sentence-next
+o-o
+Is that
+o-o
+better?
+end-lyric
+
+ambee sings-mathprof amenn
+Only if it's
+o-o
+counted as
+o-o
+three ranking
+o-o
+levels.
+end-lyric
+
+ambee sings-damien amenn
+Three?
+end-lyric
+
+ambee sings-mathprof amenn
+Remember zero.
+end-lyric
+
+ambee sings-desha amenn
+Ah, an upvote
+o-o
+is like plus one.
+sentence-next
+o-o
+And a downvote
+o-o
+is like minus one.
+sentence-next
+o-o
+And neither
+o-o
+up nor down
+o-o
+is like zero.
+end-lyric
+
+ambee sings-mathprof amenn
+If counted right
+o-o
+that could work.
+sentence-next
+o-o
+But using
+o-o
+five levels
+o-o
+collects more
+o-o
+information
+o-o
+than three.
+sentence-next
+o-o
+And when there are
+o-o
+lots and lots of candidates
+o-o
+then up to about twelve
+o-o
+levels would work.
+end-lyric
+
+ambee sings-desha amenn
+But not
+o-o
+unlucky thirteen.
+end-lyric
+
+ambee sings-damien amenn
+Since you
+o-o
+brought it up,
+o-o
+I'm guessing,
+o-o
+approval voting
+o-o
+might be fair?
+end-lyric
+
+ambee sings-mathprof amenn
+It would work OK in
+o-o
+begin-italics
+primary
+end-italics
+elections
+o-o
+because the winner
+o-o
+would always be from
+o-o
+the correct party.
+end-lyric
+
+ambee sings-desha amenn
+But in general
+o-o
+elections,
+o-o
+the wrong party
+o-o
+must not win.
+sentence-next
+o-o
+So there it
+o-o
+would cause
+o-o
+trouble,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+sentence-next
+o-o
+We need more
+o-o
+than just one
+o-o
+column of
+o-o
+ballot ovals
+o-o
+to avoid
+o-o
+criticism
+o-o
+of the results.
+end-lyric
+
+ambee sings-damien amenn
+Wait a moment!
+sentence-next
+o-o
+Just changing
+o-o
+written
+o-o
+directions
+o-o
+on the ballot
+o-o
+would be
+o-o
+an easy change
+o-o
+to make,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+I'm not
+o-o
+politically
+o-o
+savvy.
+sentence-next
+o-o
+That's outside
+o-o
+my expertise.
+sentence-next
+o-o
+I just know
+o-o
+the math behind
+o-o
+ballot counting.
+end-lyric
+
+ambee sings-desha amenn
+If we're gonna
+o-o
+fight,
+o-o
+let's get it
+o-o
+right!
+end-lyric
+
+ambee sings-damien amenn
+Then what's the best
+o-o
+way to count
+o-o
+votes?
+end-lyric
+
+ambee sings-mathprof amenn
+You're finally
+o-o
+ready to
+o-o
+learn about 
+o-o
+ranking.
+sentence-next
+o-o
+It uses
+o-o
+ranked
+o-o
+choice
+o-o
+ballots.
+sentence-next
+o-o
+They look the same
+o-o
+as score ballots
+o-o
+with ovals,
+o-o
+but they're counted
+o-o
+differently.
+sentence-next
+o-o
+It defeats the tactic
+o-o
+of just marking
+o-o
+the highest levels
+o-o
+and lowest levels.
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Speaks to himself. end-explain
+o-o
+That's ranking.
+end-lyric
+
+ambee sings-mathprof amenn
+How can those marks
+o-o
+be counted
+o-o
+in a way
+o-o
+that holds up
+o-o
+under
+o-o
+scrutiny,
+o-o
+without
+o-o
+mutiny?
+end-lyric
+
+ambee sings-damien amenn
+That's harder than
+o-o
+any jigsaw
+o-o
+puzzle
+o-o
+I've ever
+o-o
+seen.
+end-lyric
+
+ambee sings-mathprof amenn
+Admittedly,
+o-o
+if I asked this
+o-o
+on a test
+o-o
+I might soon
+o-o
+be under
+o-o
+arrest
+o-o
+for cerebral
+o-o
+torment
+o-o
+without written
+o-o
+consent.
+sentence-next
+o-o
+But take a guess.
+end-lyric
+
+ambee sings-damien amenn
+Maybe
+o-o
+...
+sentence-next
+o-o
+we could start
+o-o
+by looking at
+o-o
+...
+sentence-next
+o-o
+just the top
+o-o
+part.
+sentence-next
+o-o
+The top hyphen-here most
+o-o
+candidate
+o-o
+on each
+o-o
+ballot.
+sentence-next
+o-o
+...
+end-lyric
+
+ambee sings-mathprof amenn
+Side step the fear
+o-o
+and persevere.
+end-lyric
+
+ambee sings-damien amenn
+And the
+o-o
+candidate
+o-o
+who gets the
+o-o
+fewest
+o-o
+top marks
+o-o
+...
+sentence-next
+o-o
+gets
+o-o
+tossed aside?
+end-lyric
+
+ambee sings-desha amenn
+Then the ballots
+o-o
+are modified
+o-o
+to hide the
+o-o
+one dismissed.
+sentence-next
+o-o
+Then the process
+o-o
+repeats.
+sentence-next
+o-o
+Until just one
+o-o
+candidate
+o-o
+remains?
+end-lyric
+
+ambee sings-mathprof amenn
+That counting
+o-o
+method has
+o-o
+many
+o-o
+different names.
+sentence-next
+o-o
+Here let's call it
+o-o
+instant runoff
+o-o
+voting.
+sentence-next
+o-o
+Among friends,
+o-o
+or when a smartphone
+o-o
+isn't handy,
+o-o
+that method
+o-o
+is dandy.
+sentence-next
+o-o
+It works well
+o-o
+enough that it's
+o-o
+been used in real
+o-o
+elections.
+sentence-next
+o-o
+In fact it's used
+o-o
+in Maine, Alaska,
+o-o
+and Australia,
+o-o
+in San Francisco,
+o-o
+and a few
+o-o
+other places.
+end-lyric
+
+ambee sings-damien amenn
+So I didn't
+o-o
+guess right?
+end-lyric
+
+ambee sings-mathprof amenn
+This is hard stuff.
+sentence-next
+o-o
+Although
+o-o
+not as hard
+o-o
+as using an
+o-o
+abacus
+o-o
+to calculate
+o-o
+the square root
+o-o
+of your social
+o-o
+security
+o-o
+number.
+sentence-next
+o-o
+Yet you deserve
+o-o
+another
+o-o
+A plus.
+sentence-next
+o-o
+For the basic
+o-o
+idea of
+o-o
+using something
+o-o
+besides counting
+o-o
+marks and looking
+o-o
+for the biggest
+o-o
+count.
+end-lyric
+
+ambee sings-damien amenn
+Your reactions
+o-o
+are such a
+o-o
+contrast
+o-o
+to what
+o-o
+in the past
+o-o
+would have been
+o-o
+kicks in the
+o-o
+ass.
+end-lyric
+
+ambee sings-mathprof amenn
+Yet this
+o-o
+counting method
+o-o
+is flawed.
+sentence-next
+o-o
+Instant
+o-o
+runoff
+o-o
+voting
+o-o
+was used in
+o-o
+the city of
+o-o
+Burlington,
+o-o
+in Vermont,
+o-o
+and it failed.
+sentence-next
+o-o
+And it failed again
+o-o
+in Alaska.
+sentence-next
+o-o
+In those two
+o-o
+elections
+o-o
+the candidate
+o-o
+who won
+o-o
+was not
+o-o
+the one
+o-o
+who deserved
+o-o
+to win.
+sentence-next
+o-o
+We can do
+o-o
+better.
+sentence-next
+o-o
+So which
+o-o
+candidate
+o-o
+should be the
+o-o
+first to be
+o-o
+eliminated?
+end-lyric
+
+ambee sings-damien amenn
+I'm stumpified.
+end-lyric
+
+ambee sings-mathprof amenn
+You've heard of the
+o-o
+electoral college?
+end-lyric
+
+ambee sings-desha amenn
+That's garbage!
+end-lyric
+
+ambee sings-mathprof amenn
+Ah, but one thing
+o-o
+it gets quite right.
+sentence-next
+o-o
+The winner
+o-o
+of the
+o-o
+electoral
+o-o
+fight
+o-o
+has to get
+o-o
+more than half
+o-o
+the votes.
+end-lyric
+
+ambee sings-damien amenn
+Here's the fraction.
+sentence-next
+o-o
+A half.
+sentence-next
+o-o
+Fortunately
+o-o
+my fraction fears
+o-o
+have disappeared,
+o-o
+...
+sentence-next
+o-o
+for now.
+end-lyric
+
+ambee sings-desha amenn
+More than half,
+o-o
+that's called a
+o-o
+majority.
+end-lyric
+
+ambee sings-mathprof amenn
+If a
+o-o
+candidate
+o-o
+gets a
+o-o
+majority,
+o-o
+then vote splitting
+o-o
+can't happen.
+sentence-next
+o-o
+That's so important
+o-o
+that Roberts
+o-o
+Rules of Order
+o-o
+have always
+o-o
+insisted
+o-o
+on getting
+o-o
+majority
+o-o
+support
+o-o
+to declare
+o-o
+a winner.
+end-lyric
+
+ambee sings-damien amenn
+So getting more
+o-o
+than half the votes
+o-o
+is a must.
+sentence-next
+o-o
+But how can
+o-o
+there always
+o-o
+be a
+o-o
+majority?
+sentence-next
+o-o
+Especially
+o-o
+when there are
+o-o
+more than two
+o-o
+candidates?
+end-lyric
+
+ambee sings-mathprof amenn
+Exactly.
+sentence-next
+o-o
+Yet take a guess.
+end-lyric
+
+ambee sings-damien amenn
+This is hard.
+sentence-next
+o-o
+Is it time
+o-o
+for recess?
+end-lyric
+
+ambee sings-desha amenn
+Remember that
+o-o
+business success
+o-o
+is your reward
+o-o
+for
+o-o
+sorting
+o-o
+this out.
+end-lyric
+
+ambee sings-mathprof amenn
+In sports,
+o-o
+how are teams ranked?
+end-lyric
+
+ambee sings-damien amenn
+Aren't teams ranked
+o-o
+based on,
+o-o
+... well, ...
+sentence-next
+o-o
+I think they get
+o-o
+points,
+o-o
+or maybe lose points,
+o-o
+from each game.
+end-lyric
+
+ambee sings-mathprof amenn
+How many teams
+o-o
+compete in each game?
+end-lyric
+
+ambee sings-damien amenn
+Just two.
+end-lyric
+
+ambee sings-mathprof amenn
+And what's that called,
+o-o
+two at a time?
+end-lyric
+
+ambee sings-damien amenn
+I dunno.
+end-lyric
+
+ambee sings-desha amenn
+Two at a time,
+o-o
+that's a pair
+o-o
+at a time.
+end-lyric
+
+ambee sings-mathprof amenn
+Pairwise.
+sentence-next
+o-o
+That's the name.
+sentence-next
+o-o
+So how would
+o-o
+that work?
+end-lyric
+
+ambee sings-damien amenn
+Pairwise, ...
+sentence-next
+o-o
+ah, counting?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes,
+o-o
+pairwise counting.
+sentence-next
+o-o
+It's a very important
+o-o
+thing.
+sentence-next
+o-o
+How would that work?
+end-lyric

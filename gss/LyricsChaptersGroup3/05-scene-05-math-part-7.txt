@@ -1,3 +1,197 @@
+ambee sings-mathprof amenn
+It is sort of like
+o-o
+a jigsaw puzzle
+o-o
+with lots of pieces,
+o-o
+and different
+o-o
+pieces would work,
+o-o
+and they have lots
+o-o
+of names.
+sentence-next
+o-o
+The method
+o-o
+that reaches farthest
+o-o
+toward what
+o-o
+I've described
+o-o
+is called
+o-o
+VoteFair Ranking.
+end-lyric
+
+ambee sings-desha amenn
+VoteFair?
+end-lyric
+
+ambee sings-damien amenn
+FairVote?
+end-lyric
+
+ambee sings-mathprof amenn
+VoteFair
+o-o
+is a ranking
+o-o
+method I like.
+sentence-next
+o-o
+FairVote is an
+o-o
+organization
+o-o
+that promotes
+o-o
+what they call
+o-o
+begin-italics ranked choice end-italics
+o-o
+voting,
+o-o
+but that name
+o-o
+actually
+o-o
+covers two methods,
+o-o
+instant runoff
+o-o
+voting and
+o-o
+something called
+o-o
+the single
+o-o
+transferable
+o-o
+vote.
+end-lyric
+
+ambee sings-desha amenn
+That's confusing.
+end-lyric
+
+ambee sings-damien amenn
+It's overwhelming
+o-o
+to me.
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+sentence-next
+o-o
+It's another
+o-o
+reason we
+o-o
+don't teach
+o-o
+this stuff,
+o-o
+even in
+o-o
+college courses.
+end-lyric
+
+ambee sings-desha amenn
+OK, you like
+o-o
+VoteFair something.
+sentence-next
+o-o
+Is there a
+o-o
+less hyphen-here specific
+o-o
+name?
+end-lyric
+
+ambee sings-mathprof amenn
+Pairwise
+o-o
+vote counting.
+sentence-next
+o-o
+That's the most
+o-o
+important part.
+sentence-next
+o-o
+Because pairwise counts
+o-o
+reveal not just support
+o-o
+but opposition.
+end-lyric
+
+ambee sings-damien amenn
+So it's
+o-o
+ranked choice
+o-o
+ballots and
+o-o
+pairwise vote
+o-o
+counting
+o-o
+that you
+o-o
+recommend?
+end-lyric
+
+ambee sings-mathprof amenn
+Plus adjustments
+o-o
+we've discussed that
+o-o
+give fuller
+o-o
+representation.
+end-lyric
+
+ambee sings-desha amenn
+To the sheep
+o-o
+and goats and pigs
+o-o
+defending
+o-o
+themselves against
+o-o
+the wolves.
+end-lyric
+
+ambee sings-damien amenn
+So how hard's it
+o-o
+to do pairwise
+o-o
+counting?
+end-lyric
+
+ambee sings-mathprof amenn
+All the counting
+o-o
+is done by computer,
+o-o
+so a tap on the screen
+o-o
+is all you need
+o-o
+in a real
+o-o
+election.
+end-lyric
+
 ambee sings-desha amenn
 So what's the
 o-o
@@ -859,443 +1053,4 @@ o-o
 but I'll
 o-o
 try.
-end-lyric
-
-ambee sings-mathprof amenn
-One more tip.
-sentence-next
-o-o
-There's something
-o-o
-called begin-italics mathiness end-italics no-space .
-sentence-next
-o-o
-It's a misuse of
-o-o
-mathematics.
-sentence-next
-o-o
-Math doesn't lie,
-o-o
-but some liars
-o-o
-use numbers
-o-o
-when they lie.
-end-lyric
-
-ambee sings-damien amenn
-Mathiness
-o-o
-must be what
-o-o
-my landlord's
-o-o
-usin'
-o-o
-on me.
-end-lyric
-
-ambee sings-desha amenn
-I admit I tend
-o-o
-to distrust math
-o-o
-until I do the
-o-o
-counting or
-o-o
-calculations
-o-o
-myself.
-end-lyric
-
-ambee sings-damien amenn
-So, we've
-o-o
-learned that
-o-o
-ranked choice ballots
-o-o
-and
-o-o
-pairwise vote
-o-o
-counting
-o-o
-is the key
-o-o
-to less corruption,
-o-o
-in Washington
-o-o
-DC.
-sentence-next
-o-o
-But do we need
-o-o
-to remember
-o-o
-that guy's name?
-sentence-next
-o-o
-Condolences,
-o-o
-or something?
-end-lyric
-
-ambee sings-mathprof amenn
-Condorcet
-o-o
-rhymes with
-o-o
-lingerie begin-explain pronounced lawn zjoor ay end-explain no-space .
-sentence-next
-o-o
-Pairwise vote
-o-o
-counting
-o-o
-includes
-o-o
-Condorcet
-o-o
-methods,
-o-o
-and some
-o-o
-non hyphen-here Condorcet
-o-o
-methods.
-sentence-next
-o-o
-So just remember
-o-o
-the concept of
-o-o
-pairwise
-o-o
-vote counting.
-sentence-next
-o-o
-And needing more
-o-o
-than half those votes.
-end-lyric
-
-ambee sings-damien amenn
-Half's a fraction
-o-o
-I can recall.
-sentence-next
-o-o
-But I don't
-o-o
-understand
-o-o
-why you made a
-o-o
-big deal out of
-o-o
-the digit
-o-o
-zero.
-end-lyric
-
-ambee sings-mathprof amenn
-It took our
-o-o
-ancestors
-o-o
-hundreds of years
-o-o
-to make the leap
-o-o
-from the number
-o-o
-zero
-o-o
-to the digit
-o-o
-zero.
-sentence-next
-o-o
-To us,
-o-o
-in hindsight,
-o-o
-that's slow.
-sentence-next
-o-o
-In a similar way
-o-o
-folks in the
-o-o
-distant future
-o-o
-will marvel that
-o-o
-it took so long
-o-o
-for us to use
-o-o
-pairwise counting
-o-o
-for counting votes.
-sentence-next
-o-o
-Zero as a digit
-o-o
-changed the world
-o-o
-in marvelous ways.
-sentence-next
-o-o
-Similarly
-o-o
-pairwise vote counting
-o-o
-will change the world
-o-o
-in marvelous ways.
-end-lyric
-
-ambee sings-damien amenn
-So just like we
-o-o
-don't know what
-o-o
-we've got til
-o-o
-it's gone,
-o-o
-we don't really
-o-o
-know what's missing
-o-o
-until it can be
-o-o
-seen in
-o-o
-hindsight?
-end-lyric
-
-ambee sings-mathprof amenn
-That's a wise
-o-o
-insight.
-end-lyric
-
-ambee sings-desha amenn
-I was right.
-sentence-next
-o-o
-You begin-italics are end-italics
-o-o
-very bright.
-end-lyric
-
-ambee sings-damien amenn
-That's just
-o-o
-common sense.
-sentence-next
-o-o
-But what you've
-o-o
-taught us
-o-o
-are hidden
-o-o
-secrets.
-sentence-next
-o-o
-The ones those
-o-o
-greedy
-o-o
-...
-end-lyric
-
-ambee sings-desha amenn
-Money
-o-o
-worshipers
-o-o
-...
-end-lyric
-
-ambee sings-damien amenn
-...
-sentence-next
-o-o
-business owners
-o-o
-...
-sentence-next
-o-o
-don't want us
-o-o
-to find out.
-sentence-next
-o-o
-We're grateful
-o-o
-you've guided
-o-o
-us through a
-o-o
-dark long cave
-o-o
-to a rich
-o-o
-treasure chest.
-sentence-next
-o-o
-We'll share
-o-o
-what we've
-o-o
-learned.
-end-lyric
-
-ambee sings-mathprof amenn
-Remember your
-o-o
-promise,
-o-o
-...
-sentence-next
-o-o
-that you won't
-o-o
-reveal where
-o-o
-they came from.
-end-lyric
-
-ambee sings-damien amenn
-OK, but why?
-end-lyric
-
-ambee sings-mathprof amenn
-I've got tenure,
-o-o
-so I'm not likely
-o-o
-to lose my job.
-sentence-next
-o-o
-But I can
-o-o
-lose grants for
-o-o
-my research projects.
-end-lyric
-
-ambee sings-damien amenn
-Oh, 'n some of your
-o-o
-funds come from the
-o-o
-government, right?
-end-lyric
-
-ambee sings-mathprof amenn
-Yes. Lots.
-end-lyric
-
-ambee sings-desha amenn
-When we bite the hand
-o-o
-that feeds you
-o-o
-we won't reveal
-o-o
-who took us off
-o-o
-our leashes.
-end-lyric
-
-ambee sings-damien amenn
-We can say we
-o-o
-learned it from
-o-o
-Wikipedia.
-end-lyric
-
-ambee sings-mathprof amenn
-Only bits of it
-o-o
-are in Wikipedia.
-sentence-next
-o-o
-That's because
-o-o
-they require
-o-o
-academic
-o-o
-references,
-o-o
-especially
-o-o
-for
-o-o
-mathematical
-o-o
-topics.
-end-lyric
-
-ambee sings-desha amenn
-And I suppose
-o-o
-those references
-o-o
-don't exist because
-o-o
-governments
-o-o
-don't fund such
-o-o
-research.
-end-lyric
-
-ambee sings-damien amenn
-This is all seeming
-o-o
-like a giant
-o-o
-conspiracy,
-o-o
-except that it's
-o-o
-in plain view.
-end-lyric
-
-ambee sings-desha amenn
-It's hidden
-o-o
-behind the
-o-o
-curtain of
-o-o
-mathematics,
-o-o
-under the
-o-o
-unmarked
-o-o
-trap door
-o-o
-of pairwise
-o-o
-vote counting.
-end-lyric
-
-ambee sings-damien amenn
-Fear of math
-o-o
-keeps it well hidden.
 end-lyric

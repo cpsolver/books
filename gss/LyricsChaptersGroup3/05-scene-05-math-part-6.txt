@@ -1,3 +1,85 @@
+ambee sings-damien amenn
+Go pirates!
+end-lyric
+
+ambee sings-mathprof amenn
+In some
+o-o
+European
+o-o
+countries,
+o-o
+adjustments
+o-o
+are done to
+o-o
+ensure the
+o-o
+Pirate party
+o-o
+and other
+o-o
+non hyphen-here tiny
+o-o
+parties
+o-o
+get their fair share
+o-o
+of seats in
+o-o
+parliament.
+end-lyric
+
+ambee sings-damien amenn
+Does that work?
+end-lyric
+
+ambee sings-mathprof amenn
+It hides the
+o-o
+unfairness of
+o-o
+still using
+o-o
+single hyphen-here choice ballots.
+sentence-next
+o-o
+Yet lots of
+o-o
+people like it
+o-o
+because
+o-o
+it yields
+o-o
+what's called
+o-o
+begin-italics proportional
+o-o
+representation end-italics no-space .
+sentence-next
+o-o
+So each voter
+o-o
+can point to
+o-o
+someone in
+o-o
+parliament
+o-o
+and claim their vote
+o-o
+helped elect
+o-o
+that MP,
+o-o
+er,
+o-o
+member of
+o-o
+parliament.
+end-lyric
+
 ambee sings-desha amenn
 From reading
 o-o
@@ -1198,198 +1280,4 @@ o-o
 for all of
 o-o
 this mess?
-end-lyric
-
-ambee sings-mathprof amenn
-It is sort of like
-o-o
-a jigsaw puzzle
-o-o
-with lots of pieces,
-o-o
-and different
-o-o
-pieces would work,
-o-o
-and they have lots
-o-o
-of names.
-sentence-next
-o-o
-The method
-o-o
-that reaches farthest
-o-o
-toward what
-o-o
-I've described
-o-o
-is called
-o-o
-VoteFair Ranking.
-end-lyric
-
-ambee sings-desha amenn
-VoteFair?
-end-lyric
-
-ambee sings-damien amenn
-FairVote?
-end-lyric
-
-ambee sings-mathprof amenn
-VoteFair
-o-o
-is a ranking
-o-o
-method I like.
-sentence-next
-o-o
-FairVote is an
-o-o
-organization
-o-o
-that promotes
-o-o
-what they call
-o-o
-begin-italics ranked choice end-italics
-o-o
-voting,
-o-o
-but that name
-o-o
-actually
-o-o
-covers two methods,
-o-o
-instant runoff
-o-o
-voting and
-o-o
-something called
-o-o
-the single
-o-o
-transferable
-o-o
-vote.
-end-lyric
-
-ambee sings-desha amenn
-That's confusing.
-end-lyric
-
-ambee sings-damien amenn
-It's overwhelming
-o-o
-to me.
-end-lyric
-
-ambee sings-mathprof amenn
-Yes.
-sentence-next
-o-o
-It's another
-o-o
-reason we
-o-o
-don't teach
-o-o
-this stuff,
-o-o
-even in
-o-o
-college courses.
-end-lyric
-
-ambee sings-desha amenn
-OK, you like
-o-o
-VoteFair something.
-sentence-next
-o-o
-Is there a
-o-o
-less hyphen-here specific
-o-o
-name?
-end-lyric
-
-ambee sings-mathprof amenn
-Pairwise
-o-o
-vote counting.
-sentence-next
-o-o
-That's the most
-o-o
-important part.
-sentence-next
-o-o
-Because pairwise counts
-o-o
-reveal not just support
-o-o
-but opposition.
-end-lyric
-
-ambee sings-damien amenn
-So it's
-o-o
-ranked choice
-o-o
-ballots and
-o-o
-pairwise vote
-o-o
-counting
-o-o
-that you
-o-o
-recommend?
-end-lyric
-
-ambee sings-mathprof amenn
-Plus adjustments
-o-o
-we've discussed that
-o-o
-give fuller
-o-o
-representation.
-end-lyric
-
-ambee sings-desha amenn
-To the sheep
-o-o
-and goats and pigs
-o-o
-defending
-o-o
-themselves against
-o-o
-the wolves.
-end-lyric
-
-ambee sings-damien amenn
-So how hard's it
-o-o
-to do pairwise
-o-o
-counting?
-end-lyric
-
-ambee sings-mathprof amenn
-All the counting
-o-o
-is done by computer,
-o-o
-so a tap on the screen
-o-o
-is all you need
-o-o
-in a real
-o-o
-election.
 end-lyric
