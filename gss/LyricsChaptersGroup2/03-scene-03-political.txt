@@ -1241,10 +1241,6 @@ latinos who
 o-o
 don't vote,
 o-o
-protectin'
-o-o
-coral reefs,
-o-o
 or listenin'
 o-o
 to what dolphins
@@ -1641,16 +1637,22 @@ rich folks
 o-o
 outvote us,
 o-o
-the non-rich, who
+the non-rich,
 o-o
-outnumber them?
+who
+o-o
+outnumber
+o-o
+them?
 sentence-next
 o-o
-Like hairs
+Like ants
 o-o
-outnumber whiskers
+outnumber humans
 o-o
-on a walrus.
+doing cleanup
+o-o
+at picnics.
 end-lyric
 
 ambee sings-politician amenn
@@ -2006,18 +2008,24 @@ the delegates.
 end-lyric
 
 ambee sings-politician amenn
-Indeed.
+Yes,
+o-o
+sometimes
+o-o
+literally.
 sentence-next
 o-o
-And before women
-o-o
-got the right
-o-o
-to vote,
+In fact
 o-o
 sexual bribery
 o-o
-was common.
+was common
+o-o
+before women
+o-o
+got the right
+o-o
+to vote.
 end-lyric
 
 ambee sings-damien amenn
@@ -2045,50 +2053,42 @@ Surely you know,
 o-o
 wealthy people
 o-o
-pay helpers
+pay lots of
 o-o
-to buy influence
+different
 o-o
-for whatever
+kinds of helpers
 o-o
-helps those
+to influence
 o-o
-wealthy folks
+those of us in
 o-o
-to gain
-o-o
-even more
-o-o
-power,
-o-o
-money,
-o-o
-and favors.
+government.
 end-lyric
 
 ambee sings-damien amenn
-Ah,
+I hadn't known
 o-o
-I've overlooked
+about
 o-o
-the hiring of
+bribery
+o-o
+using
 o-o
 prostitutes.
 sentence-next
 o-o
-I suppose
+I suppose this
 o-o
-this category
+category
 o-o
 includes hiring
-o-o
-unskilled
-o-o
-celebrities,
 o-o
 social hyphen-here media
 o-o
 influencers,
+o-o
+celebrities,
 o-o
 and
 o-o
@@ -2096,6 +2096,11 @@ lobbyists.
 end-lyric
 
 ambee sings-politician amenn
+Here's another
+o-o
+twist.
+sentence-next
+o-o
 At the
 o-o
 Democratic
@@ -2673,9 +2678,11 @@ in Tahiti?
 end-lyric
 
 ambee sings-damien amenn
-I admit
+I admit the
 o-o
-that RV
+tricked hyphen-here out
+o-o
+RV
 o-o
 parked in
 o-o
@@ -2899,9 +2906,11 @@ propaganda,
 o-o
 and downvote
 o-o
-the honest
+folks who try to
 o-o
-truth.
+reveal their
+o-o
+secrets.
 end-lyric
 
 ambee sings-damien amenn
@@ -2915,9 +2924,13 @@ and mirrors?
 end-lyric
 
 ambee sings-politician amenn
-They carefully
+The political
 o-o
-track and target
+down
+o-o
+carefully
+o-o
+tracks and targets
 o-o
 voters who are
 o-o
@@ -2940,6 +2953,8 @@ end-lyric
 ambee sings-damien amenn
 On Easter.
 sentence-next
+o-o
+Yes,
 o-o
 I've never
 o-o
@@ -3071,15 +3086,13 @@ o-o
 exploit.
 sentence-next
 o-o
-And it's more
+And more
 o-o
 common than
 o-o
-ants in line
+blues venues
 o-o
-for dropped
-o-o
-fast food.
+in Detroit.
 end-lyric
 
 ambee sings-damien amenn

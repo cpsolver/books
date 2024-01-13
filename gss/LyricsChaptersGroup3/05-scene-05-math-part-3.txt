@@ -775,7 +775,9 @@ Simple counting?
 end-lyric
 
 ambee sings-mathprof amenn
-If there are five columns,
+If there are
+o-o
+five choice columns,
 o-o
 a marked oval
 o-o

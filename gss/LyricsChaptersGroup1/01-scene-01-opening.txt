@@ -1536,7 +1536,7 @@ end-lyric
 
 begin-basic-paragraph
 begin-explain
-Foot note about voices:
+Footnote about voices:
 sentence-next
 More details about vocalization are at the end of this book.
 end-explain
