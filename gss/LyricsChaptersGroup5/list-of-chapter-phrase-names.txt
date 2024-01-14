@@ -2,6 +2,7 @@
 07-scene-07-ending-part-1
 07-scene-07-ending-part-2
 07-scene-07-ending-part-3
+07-scene-07-ending-part-4
 24-about-author
 25-acknowledgements
 26-voice-descriptions

@@ -23,7 +23,9 @@ Kate Dorokhova on Fiverr (final drawings).
 end-basic-paragraph
 
 begin-basic-paragraph
-The cover art, excluding the drawings of the two characters, was created by the author using Inkscape and Gimp software.
+The author used Inkscape and Gimp software to create the cover art, excluding the drawings of the two characters.
+sentence-next
+Thanks to the software volunteers who made and maintain Inkscape and Gimp.
 end-basic-paragraph
 
 begin-basic-paragraph
