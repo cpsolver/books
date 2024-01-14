@@ -948,39 +948,91 @@ o-o
 white supremacy.
 sentence-next
 o-o
-Those shows
+In the TV
 o-o
-don't show
+version
 o-o
-a black person
+the person
 o-o
-getting
+arrested is
 o-o
-arrested.
+usually white,
+o-o
+always guilty,
+o-o
+and too poor
+o-o
+to afford a
+o-o
+lawyer.
 sentence-next
 o-o
-And the white
+So on TV
 o-o
-person who
+you always see
 o-o
-gets arrested
-o-o
-is always guilty.
-sentence-next
-o-o
-That's not
-o-o
-like real life
-o-o
-where district
+district
 o-o
 attorneys
 o-o
-more often
+defending
 o-o
-protect
+guilty
 o-o
-the innocent.
+criminals.
+sentence-next
+o-o
+But in real life
+o-o
+white criminals
+o-o
+hire expensive
+o-o
+lawyers
+o-o
+and often get off
+o-o
+with a money
+o-o
+penalty
+o-o
+they can
+o-o
+easily afford.
+sentence-next
+o-o
+It's underpaid
+o-o
+people of color
+o-o
+who get
+o-o
+arrested
+o-o
+even when they
+o-o
+aren't guilty.
+sentence-next
+o-o
+And they're stuck with
+o-o
+district
+o-o
+attorneys
+o-o
+who TV watchers
+o-o
+now
+o-o
+mistakenly
+o-o
+believe
+o-o
+are always
+o-o
+defending
+o-o
+the guilty.
 end-lyric
 
 ambee sings-damien-firstuse amenn

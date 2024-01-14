@@ -956,11 +956,13 @@ o-o
 winning.
 sentence-next
 o-o
-Parents
+Parents,
 o-o
-and teachers
+teachers,
 o-o
-and managers
+managers,
+o-o
+and employers
 o-o
 use winning
 o-o
@@ -970,17 +972,14 @@ to entice
 o-o
 kids and
 o-o
-young people
+employees
 o-o
-to learn.
+to learn skills.
 sentence-next
 o-o
-But the real goal
+But with
 o-o
-is the learning.
-sentence-next
-o-o
-With maturity
+maturity
 o-o
 we leave behind
 o-o
@@ -998,46 +997,20 @@ employee
 o-o
 of the month,
 o-o
-and even
+and even the
 o-o
-the dream of
-o-o
-a huge
-o-o
-audience
+dreams of fans
 o-o
 loudly chanting
 o-o
 your name.
 sentence-next
 o-o
-The skills
+The real prize
 o-o
-we've learned
+of learning
 o-o
-remain,
-o-o
-long after
-o-o
-the prizes
-o-o
-have been
-o-o
-forgotten,
-o-o
-and the
-o-o
-evidence
-o-o
-is buried
-o-o
-under the
-o-o
-rubble of
-o-o
-fighting
-o-o
-old battles.
+remains.
 sentence-next
 o-o
 Now the skill
@@ -1052,11 +1025,18 @@ o-o
 is joy.
 sentence-next
 o-o
-So it's time
+But it's not a
 o-o
-to let go of
+competition.
+sentence-next
 o-o
-immaturity.
+Ripping joy
+o-o
+from someone
+o-o
+doesn't give you
+o-o
+more of it.
 end-lyric
 
 ambee sings-vc amenn
@@ -1074,20 +1054,13 @@ o-o
 compass?
 sentence-next
 o-o
-One that points up
-o-o
-to higher goals?
-sentence-next
-o-o
 And a flashlight
 o-o
-that points down
+to illuminate
 o-o
-to the sharp rocks
+the sharp rocks
 o-o
-in my path
-o-o
-ready to jab
+longing to jab
 o-o
 my ass?
 end-lyric
@@ -1203,9 +1176,9 @@ o-o
 notices.
 sentence-next
 o-o
-Sadly, I've
+Sadly, I've got
 o-o
-got no friends
+no close friends
 o-o
 in spite of my
 o-o
@@ -1247,7 +1220,7 @@ o-o
 upside down.
 sentence-next
 o-o
-Got no friends.
+Got no close friends.
 sentence-next
 o-o
 Who can I trust?
@@ -1284,13 +1257,11 @@ But let go of
 o-o
 the fear
 o-o
-you will lose friends
+of being mocked
 o-o
-because you chose
+for wearing socks
 o-o
-to wear socks
-o-o
-with sandals,
+with sandals
 o-o
 in public.
 sentence-next
@@ -1651,19 +1622,6 @@ o-o
 don't lead to
 o-o
 new guilt.
-sentence-next
-o-o
-That shifts the focus
-o-o
-from resisting sin,
-o-o
-to adopting
-o-o
-high standards
-o-o
-of ethical
-o-o
-behavior.
 sentence-next
 o-o
 But attendance
