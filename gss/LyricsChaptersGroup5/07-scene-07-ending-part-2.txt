@@ -1,3 +1,394 @@
+ambee sings-desha amenn
+Movies and
+o-o
+video games
+o-o
+can get another
+o-o
+rating.
+sentence-next
+o-o
+The added rating
+o-o
+would indicate
+o-o
+how many years
+o-o
+a person would
+o-o
+spend in prison
+o-o
+if they did
+o-o
+everything
+o-o
+shown on the
+o-o
+screen.
+end-lyric
+
+ambee sings-vc amenn
+begin-explain Laughs. end-explain
+end-lyric
+
+ambee sings-fiance amenn
+begin-explain Laughs. end-explain
+end-lyric
+
+ambee sings-minister amenn
+begin-explain Laughs. end-explain
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Harrumph!
+sentence-next
+o-o
+That won't work.
+sentence-next
+o-o
+What we need
+o-o
+instead
+o-o
+is law and order!
+end-lyric
+
+ambee sings-desha amenn
+Yes we need
+o-o
+law and order.
+sentence-next
+o-o
+But not the kind
+o-o
+based on the
+o-o
+TV shows
+o-o
+with that name.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Those are based
+o-o
+on real police
+o-o
+cases.
+end-lyric
+
+ambee sings-desha amenn
+Yes,
+o-o
+but races are changed
+o-o
+to protect
+o-o
+white supremacy.
+sentence-next
+o-o
+In the TV
+o-o
+version
+o-o
+the person
+o-o
+arrested is
+o-o
+usually white,
+o-o
+always guilty,
+o-o
+and too poor
+o-o
+to afford a
+o-o
+lawyer.
+sentence-next
+o-o
+So on TV
+o-o
+you always see
+o-o
+district
+o-o
+attorneys
+o-o
+defending
+o-o
+guilty
+o-o
+criminals.
+sentence-next
+o-o
+But in real life
+o-o
+white criminals
+o-o
+hire expensive
+o-o
+lawyers
+o-o
+and often get off
+o-o
+with a money
+o-o
+penalty
+o-o
+they can
+o-o
+easily afford.
+sentence-next
+o-o
+It's underpaid
+o-o
+people of color
+o-o
+who get
+o-o
+arrested
+o-o
+even when they
+o-o
+aren't guilty.
+sentence-next
+o-o
+And they're stuck with
+o-o
+district
+o-o
+attorneys
+o-o
+who TV watchers
+o-o
+now
+o-o
+mistakenly
+o-o
+believe
+o-o
+are always
+o-o
+defending
+o-o
+the guilty.
+end-lyric
+
+ambee sings-damien-firstuse amenn
+begin-explain Door opens and closes. end-explain
+o-o
+begin-explain He now uses better, but not perfect, pronunciation. end-explain
+o-o
+Hello!
+end-lyric
+
+ambee sings-fiance amenn
+Sweetheart,
+o-o
+I need you to
+o-o
+give me a ride
+o-o
+home because this
+o-o
+nasty woman
+o-o
+is being
+o-o
+obnoxious
+o-o
+to me.
+end-lyric
+
+ambee sings-damien amenn
+Hi Desha.
+end-lyric
+
+ambee sings-fiance amenn
+You know this bitch?
+end-lyric
+
+ambee sings-damien amenn
+She's the woman
+o-o
+I've told you about.
+end-lyric
+
+ambee sings-fiance amenn
+You said that woman
+o-o
+was like a kid sister
+o-o
+to you.
+sentence-next
+o-o
+But she's looking
+o-o
+at you with love in
+o-o
+her eyes.
+end-lyric
+
+ambee sings-damien amenn
+Don't be ridiculous.
+sentence-next
+o-o
+She's got a boyfriend.
+end-lyric
+
+ambee sings-desha amenn
+I do not.
+end-lyric
+
+ambee sings-damien amenn
+Then who's the guy
+o-o
+named Willie?
+sentence-next
+o-o
+The guy you said
+o-o
+you're with.
+end-lyric
+
+ambee sings-desha amenn
+Willie is short for
+o-o
+Willamina.
+sentence-next
+o-o
+That's an awful
+o-o
+name to get stuck with.
+end-lyric
+
+ambee sings-damien amenn
+You said he,
+o-o
+er, she,
+o-o
+is your
+o-o
+partner.
+sentence-next
+o-o
+So are you,
+o-o
+well,
+o-o
+lesbians?
+end-lyric
+
+ambee sings-desha amenn
+We're both bisexual.
+end-lyric
+
+ambee sings-vc amenn
+Much much better
+o-o
+than Netflix.
+end-lyric
+
+ambee sings-fiance amenn
+You keep your claws
+o-o
+off of him!
+sentence-next
+o-o
+name-damien no-space ,
+o-o
+you are never
+o-o
+to see her
+o-o
+again!
+end-lyric
+
+ambee sings-damien amenn
+Well, ah,
+o-o
+I can't promise
+o-o
+anything.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+You're engaged
+o-o
+to my daughter
+o-o
+so I too forbid
+o-o
+you to ever see
+o-o
+this awful woman
+o-o
+again.
+end-lyric
+
+ambee sings-damien amenn
+She's helping me
+o-o
+to figure out
+o-o
+how I can earn
+o-o
+more money to
+o-o
+make your daughter
+o-o
+happy.
+end-lyric
+
+ambee sings-desha amenn
+I thought you were
+o-o
+trying to
+o-o
+figure out
+o-o
+how to reduce
+o-o
+corruption
+o-o
+in the
+o-o
+political
+o-o
+world.
+end-lyric
+
+ambee sings-damien amenn
+They're both the
+o-o
+same thing to me.
+sentence-next
+o-o
+I figured out
+o-o
+what's causing
+o-o
+endless waves
+o-o
+of corruption.
+sentence-next
+o-o
+Now I'm tryin'
+o-o
+to figure out
+o-o
+how to surf
+o-o
+those waves,
+o-o
+so I can start
+o-o
+my own business.
+sentence-next
+o-o
+I'll be the employer,
+o-o
+not the employee.
+end-lyric
 ambee sings-minister amenn
 Here's a
 o-o
@@ -29,9 +420,9 @@ end-lyric
 ambee sings-fiance amenn
 Mom does brag
 o-o
-that she has
+she has an
 o-o
-an entire closet
+entire closet
 o-o
 just for her shoes.
 end-lyric
@@ -1250,1295 +1641,4 @@ o-o
 I'll be the employer,
 o-o
 not the employee.
-end-lyric
-
-ambee sings-fiance amenn
-You've told me
-o-o
-some of what
-o-o
-you've learned,
-o-o
-but you haven't
-o-o
-yet said who's
-o-o
-to blame for
-o-o
-corruption.
-end-lyric
-
-ambee sings-damien amenn
-I'm the one
-o-o
-to blame.
-sentence-next
-o-o
-It's not
-o-o
-politicians,
-o-o
-not the big
-o-o
-campaign
-o-o
-contributors,
-o-o
-not the
-o-o
-lobbyists
-o-o
-'n other folks
-o-o
-who are hired to do
-o-o
-political tasks.
-sentence-next
-o-o
-I'm the one to blame.
-end-lyric
-
-ambee sings-fiance amenn
-How can you be
-o-o
-the one to blame?
-sentence-next
-o-o
-You haven't done
-o-o
-anything.
-end-lyric
-
-ambee sings-damien amenn
-Exactly.
-sentence-next
-o-o
-I failed.
-sentence-next
-o-o
-I failed to subtract
-o-o
-forty from
-o-o
-one hundred
-o-o
-'n realize
-o-o
-the result,
-o-o
-sixty,
-o-o
-is more than
-o-o
-fifty.
-end-lyric
-
-ambee sings-fiance amenn
-You said math was
-o-o
-made by the
-o-o
-devil.
-sentence-next
-o-o
-When he was in
-o-o
-a snit.
-sentence-next
-o-o
-And now you're
-o-o
-talking math?
-sentence-next
-o-o
-This doesn't fit.
-sentence-next
-o-o
-Not one bit.
-end-lyric
-
-ambee sings-damien amenn
-My fear of math
-o-o
-was blocking me.
-sentence-next
-o-o
-Now I know that
-o-o
-a candidate
-o-o
-who gets forty
-o-o
-percent support
-o-o
-is opposed by sixty
-o-o
-percent of voters.
-sentence-next
-o-o
-That's a majority.
-sentence-next
-o-o
-That means the
-o-o
-majority of voters
-o-o
-oppose a candidate
-o-o
-who has less than
-o-o
-fifty percent
-o-o
-support.
-sentence-next
-o-o
-To get fair
-o-o
-election
-o-o
-results
-o-o
-we need
-o-o
-ranked choice
-o-o
-ballots
-o-o
-'n pairwise
-o-o
-counting.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-What does counting
-o-o
-smart rabbits
-o-o
-have to do
-o-o
-with voting?
-end-lyric
-
-ambee sings-fiance amenn
-Father it's not
-o-o
-begin-italics wise hare end-italics
-o-o
-counting.
-sentence-next
-o-o
-It's pairwise
-o-o
-counting.
-end-lyric
-
-ambee sings-damien amenn
-Without that change
-o-o
-corruption in
-o-o
-Congress
-o-o
-will continue.
-end-lyric
-
-ambee sings-desha amenn
-When a news report
-o-o
-says one candidate
-o-o
-leads another by
-o-o
-say five percent,
-o-o
-that's meaningless,
-o-o
-unless there are
-o-o
-just two candidates
-o-o
-on the ballot.
-end-lyric
-
-ambee sings-vc amenn
-Hello name-damien no-space .
-end-lyric
-
-ambee sings-damien amenn
-Oh hi name-vc no-space .
-sentence-next
-o-o
-I didn't recognize
-o-o
-you with the
-o-o
-tubing mustache.
-sentence-next
-o-o
-Is this a good time
-o-o
-to thank you for
-o-o
-helping me
-o-o
-figure out how
-o-o
-the world of
-o-o
-business works?
-end-lyric
-
-ambee sings-vc amenn
-I was happy to help.
-sentence-next
-o-o
-name-father-of-fiance said you
-o-o
-deserved some help.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-What did you say
-o-o
-to this ungrateful
-o-o
-young man?
-end-lyric
-
-ambee sings-vc amenn
-As you requested
-o-o
-I told him how
-o-o
-the world of
-o-o
-business works.
-sentence-next
-o-o
-He had some
-o-o
-questions about
-o-o
-money in
-o-o
-politics that
-o-o
-I couldn't
-o-o
-answer so I
-o-o
-referred him
-o-o
-to a politician
-o-o
-I know.
-sentence-next
-o-o
-How did that go?
-end-lyric
-
-ambee sings-damien amenn
-He taught me a lot.
-sentence-next
-o-o
-Then later,
-o-o
-he suggested
-o-o
-that name-desha
-o-o
-and I meet
-o-o
-and collaborate.
-end-lyric
-
-ambee sings-vc amenn
-What was his
-o-o
-great wisdom?
-sentence-next
-o-o
-In a nutshell.
-end-lyric
-
-ambee sings-damien amenn
-He explained that
-o-o
-vote splitting's
-o-o
-why money has more
-o-o
-influence than votes.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Goats do not spit.
-sentence-next
-o-o
-You fool.
-end-lyric
-
-ambee sings-fiance amenn
-Father, it's not
-o-o
-goat spitting, it's
-o-o
-vote splitting.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Whatever!
-sentence-next
-o-o
-Votes are counted
-o-o
-in ways that are fair.
-sentence-next
-o-o
-So that's got not
-o-o
-a thing to do with
-o-o
-money in politics.
-end-lyric
-
-ambee sings-desha amenn
-I used to think that too.
-end-lyric
-
-ambee sings-damien amenn
-When you donate
-o-o
-money to political
-o-o
-candidates,
-o-o
-sometimes you give
-o-o
-to Democrats.
-sentence-next
-o-o
-Am I right?
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Never!
-sentence-next
-o-o
-I always vote
-o-o
-Republican.
-sentence-next
-o-o
-And I never give
-o-o
-money to Democrats.
-end-lyric
-
-ambee sings-fiance amenn
-But mother is a
-o-o
-Democrat, and
-o-o
-sometimes you
-o-o
-give her money
-o-o
-to donate to
-o-o
-a Democratic
-o-o
-candidate.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-That's only when
-o-o
-my political
-o-o
-consultant
-o-o
-tells me to.
-end-lyric
-
-ambee sings-damien amenn
-So when Barack
-o-o
-Obama and
-o-o
-Hillary Clinton ...
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Those are vile names
-o-o
-to me and my friends.
-sentence-next
-o-o
-Isn't that right
-o-o
-name-vc no-space ?
-end-lyric
-
-ambee sings-vc amenn
-Let him continue.
-sentence-next
-o-o
-This is interesting.
-end-lyric
-
-ambee sings-damien amenn
-Some political
-o-o
-strategists
-o-o
-recommended
-o-o
-that Republicans
-o-o
-give money to
-o-o
-Obama during
-o-o
-the Democratic
-o-o
-primary with
-o-o
-the idea that a
-o-o
-black man could not
-o-o
-possibly win
-o-o
-the general
-o-o
-election.
-sentence-next
-o-o
-With that strategy
-o-o
-they figured
-o-o
-a Republican
-o-o
-would win
-o-o
-easily.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-You can't prove
-o-o
-any of this.
-sentence-next
-o-o
-And without proof
-o-o
-there's no crime.
-end-lyric
-
-ambee sings-damien amenn
-The fight between
-o-o
-political
-o-o
-left and right
-o-o
-is an entertaining
-o-o
-distraction from
-o-o
-the real, bigger
-o-o
-fight between
-o-o
-political up
-o-o
-and political down.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-You're talking
-o-o
-more nonsense.
-end-lyric
-
-ambee sings-vc amenn
-Who is the
-o-o
-political up?
-end-lyric
-
-ambee sings-damien amenn
-Most of us voters.
-end-lyric
-
-ambee sings-vc amenn
-And who is the
-o-o
-political down?
-end-lyric
-
-ambee sings-damien amenn
-The people who
-o-o
-give the biggest
-o-o
-amounts of money
-o-o
-to politicians.
-end-lyric
-
-ambee sings-desha amenn
-That includes you,
-o-o
-name-father-of-fiance no-space ,
-o-o
-and you
-o-o
-name-vc no-space .
-end-lyric
-
-ambee sings-minister amenn
-Oh dear lord,
-o-o
-my own daughter
-o-o
-is undermining
-o-o
-my church.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-She's your daughter?
-end-lyric
-
-ambee sings-minister amenn
-Indeed.
-end-lyric
-
-ambee sings-desha amenn
-Why do you think
-o-o
-I call him father?
-end-lyric
-
-ambee sings-vc amenn
-We all call him
-o-o
-father.
-end-lyric
-
-ambee sings-damien amenn
-This explains why
-o-o
-I don't hear her
-o-o
-use profanity.
-end-lyric
-
-ambee sings-desha amenn
-Father is very
-o-o
-strict about that.
-end-lyric
-
-ambee sings-damien amenn
-Since I'm not in
-o-o
-your church,
-o-o
-what should I call you?
-end-lyric
-
-ambee sings-minister amenn
-You can call me
-o-o
-name-minister no-space .
-end-lyric
-
-ambee sings-damien amenn
-What?
-end-lyric
-
-ambee sings-minister amenn
-name-minister no-space ,
-o-o
-it's short for
-o-o
-Whittier.
-end-lyric
-
-ambee sings-fiance amenn
-Who are you
-o-o
-wittier than?
-end-lyric
-
-ambee sings-minister amenn
-It's spelled
-o-o
-W H I T.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-So in grade school
-o-o
-they called you
-o-o
-dimwit and
-o-o
-half hyphen-here wit?
-end-lyric
-
-ambee sings-minister amenn
-At that age
-o-o
-those nicknames
-o-o
-helped me learn to
-o-o
-identify
-o-o
-immaturity.
-end-lyric
-
-ambee sings-vc amenn
-name-damien no-space ,
-o-o
-you were saying
-o-o
-something about
-o-o
-political up
-o-o
-and political down.
-end-lyric
-
-ambee sings-damien amenn
-Vote splitting's
-o-o
-the reason
-o-o
-that money still
-o-o
-has so much
-o-o
-influence in
-o-o
-politics.
-sentence-next
-o-o
-In the early days
-o-o
-of the U.S.
-o-o
-there were no
-o-o
-primary
-o-o
-elections.
-sentence-next
-o-o
-Slowly voters
-o-o
-'n parties learned
-o-o
-that whichever
-o-o
-party had just one
-o-o
-candidate would
-o-o
-easily win over
-o-o
-parties that had
-o-o
-two or more
-o-o
-candidates.
-end-lyric
-
-ambee sings-desha amenn
-So primary elections
-o-o
-were added to ensure
-o-o
-each party offered
-o-o
-just one candidate
-o-o
-in what we now
-o-o
-call general
-o-o
-elections.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-And the point is?
-end-lyric
-
-ambee sings-damien amenn
-If we used
-o-o
-ranked choice
-o-o
-ballots
-o-o
-and pairwise
-o-o
-counting, then
-o-o
-Democrats could
-o-o
-have offered both
-o-o
-Obama and Clinton
-o-o
-as candidates
-o-o
-in the two
-o-o
-thousand eight
-o-o
-presidential
-o-o
-race.
-end-lyric
-
-ambee sings-vc amenn
-Oh,
-o-o
-so the tactic
-o-o
-of using Obama
-o-o
-to block Clinton
-o-o
-wouldn't have been
-o-o
-an option.
-end-lyric
-
-ambee sings-desha amenn
-And wealthy folks
-o-o
-like yourselves
-o-o
-would not have been
-o-o
-able to stop
-o-o
-Clinton from winning.
-end-lyric
-
-ambee sings-damien amenn
-Unless the second
-o-o
-Republican
-o-o
-nominee
-o-o
-was better
-o-o
-than McCain.
-sentence-next
-o-o
-Someone who
-o-o
-recognized
-o-o
-the rampant
-o-o
-corruption
-o-o
-and promised
-o-o
-some big
-o-o
-reforms.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-This is all nonsense!
-end-lyric
-
-ambee sings-vc amenn
-It's making sense
-o-o
-to me.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Who's side are you on?
-end-lyric
-
-ambee sings-vc amenn
-I am now on
-o-o
-the side of God.
-sentence-next
-o-o
-My heart attack
-o-o
-has woken me up
-o-o
-to what's really
-o-o
-important in life.
-sentence-next
-o-o
-And at the moment
-o-o
-I want the truth
-o-o
-to come out.
-sentence-next
-o-o
-If there are hidden
-o-o
-parts of politics
-o-o
-that get revealed
-o-o
-here we can judge
-o-o
-it at that time.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-I suppose you're
-o-o
-going to claim that
-o-o
-Donald Trump
-o-o
-won in twenty sixteen
-o-o
-because of money.
-sentence-next
-o-o
-Well he didn't.
-sentence-next
-o-o
-I didn't give him
-o-o
-even a dollar.
-end-lyric
-
-ambee sings-desha amenn
-But you do give
-o-o
-to the
-o-o
-Republican
-o-o
-party,
-o-o
-and they paid to
-o-o
-promote Trump
-o-o
-after he won the
-o-o
-primary.
-end-lyric
-
-ambee sings-damien amenn
-If the
-o-o
-twenty sixteen
-o-o
-Republican
-o-o
-begin-italics primary end-italics
-o-o
-election
-o-o
-had used ranked choice
-o-o
-ballots
-o-o
-and pairwise counting,
-o-o
-the winner would
-o-o
-have been the most
-o-o
-popular candidate,
-o-o
-and that was not
-o-o
-Donald Trump.
-end-lyric
-
-ambee sings-desha amenn
-There were sixteen
-o-o
-other
-o-o
-candidates
-o-o
-in that race.
-sentence-next
-o-o
-That split the votes
-o-o
-of the
-o-o
-majority
-o-o
-of
-o-o
-Republicans.
-sentence-next
-o-o
-They wanted
-o-o
-someone other
-o-o
-than Trump.
-end-lyric
-
-ambee sings-damien amenn
-All Trump and his
-o-o
-promoters,
-o-o
-including
-o-o
-Russian hackers,
-o-o
-needed was to
-o-o
-win more votes
-o-o
-than any one of
-o-o
-the other sixteen
-o-o
-candidates.
-end-lyric
-
-ambee sings-desha amenn
-None of whom were
-o-o
-very popular.
-end-lyric
-
-ambee sings-damien amenn
-Until the other
-o-o
-candidates
-o-o
-dropped out,
-o-o
-Trump was getting
-o-o
-less than half
-o-o
-the votes.
-sentence-next
-o-o
-And that's just
-o-o
-Republicans.
-sentence-next
-o-o
-He would have lost
-o-o
-under a fairer
-o-o
-election.
-end-lyric
-
-ambee sings-vc amenn
-Who would have won?
-end-lyric
-
-ambee sings-damien amenn
-We don't know
-o-o
-because even
-o-o
-opinion polls
-o-o
-don't ask voters
-o-o
-for more than
-o-o
-their favorite.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-But Trump won the
-o-o
-general election,
-o-o
-so that proves he
-o-o
-was more popular
-o-o
-than Hillary.
-end-lyric
-
-ambee sings-damien amenn
-But with ranked choice
-o-o
-ballots and
-o-o
-pairwise counting
-o-o
-there would have been
-o-o
-a second
-o-o
-Republican and
-o-o
-a second
-o-o
-Democrat
-o-o
-to win against.
-end-lyric
-
-ambee sings-desha amenn
-Plus Bernie Sanders
-o-o
-running as an
-o-o
-independent.
-end-lyric
-
-ambee sings-damien amenn
-Trump could not
-o-o
-have won such a
-o-o
-five hyphen-here way race.
-end-lyric
-
-ambee sings-vc amenn
-So you're saying
-o-o
-that if we used
-o-o
-ranked choice
-o-o
-ballots and
-o-o
-pairwise counting,
-o-o
-then voters would have
-o-o
-more choices on
-o-o
-the ballot?
-end-lyric
-
-ambee sings-damien amenn
-Even better than
-o-o
-more choices, the
-o-o
-choices would
-o-o
-include wise
-o-o
-problem hyphen-here solving
-o-o
-leaders.
-sentence-next
-o-o
-Now the only
-o-o
-choices are
-o-o
-special hyphen-here interest
-o-o
-puppets.
-end-lyric
-
-ambee sings-desha amenn
-Under current
-o-o
-conditions,
-o-o
-wise and
-o-o
-ethical
-o-o
-leaders
-o-o
-don't enter
-o-o
-elections
-o-o
-because they know
-o-o
-they won't get
-o-o
-support from
-o-o
-party
-o-o
-insiders,
-o-o
-who have to
-o-o
-cater to
-o-o
-people like you,
-o-o
-with lots of
-o-o
-money.
-end-lyric
-
-ambee sings-vc amenn
-These so hyphen-here called wise
-o-o
-leaders,
-o-o
-would they be liberal
-o-o
-or conservative?
-end-lyric
-
-ambee sings-desha amenn
-Neither.
-end-lyric
-
-ambee sings-damien amenn
-They would represent
-o-o
-the political up,
-o-o
-and would oppose
-o-o
-the political down.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-So they're
-o-o
-anti hyphen-here business.
-end-lyric
-
-ambee sings-damien amenn
-They would favor
-o-o
-fairness and
-o-o
-economic
-o-o
-efficiency,
-o-o
-er,
-o-o
-efficiency
-o-o
-in the
-o-o
-economy.
-sentence-next
-o-o
-That would bring
-o-o
-prosperity
-o-o
-much greater than
-o-o
-what we have today.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Prosperity to who?
-end-lyric
-
-ambee sings-damien amenn
-Widespread prosperity.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-That's impossible!
-sentence-next
-o-o
-In order to have
-o-o
-winners there must be
-o-o
-losers.
-end-lyric
-
-ambee sings-desha amenn
-That's what I used
-o-o
-to think. But
-o-o
-fighting wastes
-o-o
-precious resources.
-sentence-next
-o-o
-What yields better
-o-o
-results for the
-o-o
-most people is
-o-o
-cooperation,
-o-o
-teamwork, and
-o-o
-working together
-o-o
-against a foe.
-end-lyric
-
-ambee sings-minister amenn
-I like this shift.
-end-lyric
-
-ambee sings-vc amenn
-Did you just curse?
-end-lyric
-
-ambee sings-fiance amenn
-Not everyone
-o-o
-can afford to fly
-o-o
-to London and
-o-o
-Paris. I agree
-o-o
-with father that
-o-o
-for there to be
-o-o
-winners there have
-o-o
-to be losers.
-end-lyric
-
-ambee sings-damien amenn
-You want to fly
-o-o
-to London and Paris?
-end-lyric
-
-ambee sings-fiance amenn
-I've told you I
-o-o
-enjoy traveling.
-end-lyric
-
-ambee sings-damien amenn
-I thought you meant
-o-o
-mostly
-o-o
-by car.
 end-lyric

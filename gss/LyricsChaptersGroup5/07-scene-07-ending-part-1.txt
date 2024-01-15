@@ -1227,11 +1227,13 @@ o-o
 Not the memories.
 sentence-next
 o-o
-Just emotions,
+Just let go of
 o-o
-like expired
+expired emotions,
 o-o
-regret that you lied
+like guilt
+o-o
+that you lied
 o-o
 to a child.
 sentence-next
@@ -1246,9 +1248,11 @@ sentence-next
 o-o
 But let go of
 o-o
-the fear
+inconsequential
 o-o
-of being mocked
+fears,
+o-o
+like being mocked
 o-o
 for wearing socks
 o-o
