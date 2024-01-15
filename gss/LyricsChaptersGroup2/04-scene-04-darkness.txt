@@ -105,7 +105,9 @@ chocolate chips,
 o-o
 rolled oats,
 o-o
-sugar and stevia,
+stevia,
+o-o
+sugar,
 o-o
 and ghee,
 o-o
@@ -211,12 +213,11 @@ Yes politicians
 o-o
 do murder
 o-o
-innocent people.
-sentence-next
+innocent people
 o-o
-They write laws
+by writing laws
 o-o
-that come from
+that flush us down
 o-o
 Thomas Crapper's
 o-o
@@ -746,7 +747,7 @@ Or a lifetime
 o-o
 subscription
 o-o
-to Grouch Magazine.
+to begin-italics Grouch Magazine end-italics no-space .
 sentence-next
 o-o
 That'd leave

@@ -42,9 +42,6 @@ end-lyric
 ambee sings-desha amenn
 begin-bold name-desha end-bold no-space ,
 young adult female, alto voice.
-combee ****
-mixed race, wild hair, face is good hyphen-here looking but not beautiful, good hyphen-here looking body except for a non hyphen-here slim ass/bottom and thighs
-**** comenn
 sentence-next
 U.S. American accent, but voice sounds like racially she is mixed hyphen-here race with some African hyphen-here American ancestry in addition to European ancestry.
 sentence-next
@@ -77,9 +74,9 @@ ambee sings-minister amenn
 begin-bold name-minister end-bold (pronounced like "wit") no-space ,
 middle hyphen-here age male, tenor voice.
 sentence-next
-Voice sounds like he could be the father of name-desha no-space , who is of mixed hyphen-here race with both African hyphen-here American and European ancestry.
-sentence-next
 Sounds like a wise minister or clergyman.
+sentence-next
+Racially he sounds like he could be the father of name-desha no-space .
 sentence-next
 Clear enunciation is important.
 end-lyric
@@ -98,35 +95,35 @@ end-basic-paragraph
 begin-basic-paragraph
 begin-bold Voice suggestions for all characters: end-bold
 sentence-next
-The voices should be natural (full hyphen-here throated and conversational), lively (frequent pitch inflections and word hyphen-here specific loudness changes, although never in the middle of a syllable), and smiling (comedic, but not "funny").
+The voices should be natural (full hyphen-here throated and conversational), lively (with frequent emotion hyphen-here based pitch inflections although virtually never in the middle of a syllable, and with word hyphen-here specific loudness changes), and smiling (comedic, but not "funny"), without any shouting.
 sentence-next
 A good sense of rhythm, either as a singer or dancer, is desired.
 sentence-next
 When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsciously.
-sentence-next
-The dialog does not involve any shouting.
 sentence-next
 The voice acting should not be self hyphen-here conscious.
 end-basic-paragraph
 
 combee ****
 begin-basic-paragraph
-Find and hire voice actors (later singers) at: CastingCall.club ;
-pay $10 per month for a couple of months
+The number of beats per measure changes with each measure.
+sentence-next
+The dialog avoids one beat per measure, but this characteristic does occur.
+sentence-next
+Allow the voice actor to choose the rythmn.
+sentence-next
+Do not use a metronome or play drums at a regular tempo, and do not use standard written musical notation for the timing of either dialog or musical accompanyment.
+sentence-next
+Backgroud notes from stringed instruments such as piano, guitar, and harp can be used.
+sentence-next
+Avoid musical instruments with long durations such as wind instruments because they compete with the dialog.
+sentence-next
+Allow each character to be introduced by, or associated with, a different musical instrument.
 end-basic-paragraph
 
 begin-basic-paragraph
-The music notation will include many cases of 4/4 or 3/4 time
-switching to 2/4 or 1/4 time for just one measure,
-and then switching back to 4/4 or 3/4 time.
-This occurs when there should be just one or two beats of music,
-either silent or marked by a single note -- such as a percussion instrument or single clap --
-when switching from a singer to a different singer.
-end-basic-paragraph
-
-Lots of people don't have time to read, but do have time to listen to audiobooks, so I need to raise some money to pay voice actors to perform the dialog -- and it's all dialog.
-What credibility do I have for being creative?
-I'm the author of a book titled "The Creative Problem Solver's Toolbox" which has been published around the world in 10 languages.
+Find and hire voice actors (later singers) at: CastingCall.club ;
+pay $10 per month for access for a couple of months
 end-basic-paragraph
 
 sentence-next

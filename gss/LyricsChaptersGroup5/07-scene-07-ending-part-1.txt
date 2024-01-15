@@ -312,7 +312,9 @@ sentence-next
 o-o
 Yet I'm not yet
 o-o
-tired of being
+tired of
+o-o
+being
 o-o
 admired.
 end-lyric
@@ -326,7 +328,9 @@ priority?
 end-lyric
 
 ambee sings-vc amenn
-It's all important.
+It's all
+o-o
+important.
 end-lyric
 
 ambee sings-minister amenn
@@ -470,6 +474,23 @@ o-o
 laughter.
 sentence-next
 o-o
+Political
+o-o
+interviews
+o-o
+and speeches
+o-o
+portray
+o-o
+opponents
+o-o
+as evil,
+o-o
+but that evil
+o-o
+is imaginary.
+sentence-next
+o-o
 Sports reports
 o-o
 are about
@@ -491,40 +512,26 @@ o-o
 cooperation.
 sentence-next
 o-o
-Politicians
+Strip away the
 o-o
-shine a light
+imaginary
 o-o
-on evil
+evil and
 o-o
-in the fans
+exaggerated
 o-o
-of opposing
+drama
 o-o
-candidates,
+and you'll see
 o-o
-but that evil
+cooperation,
 o-o
-isn't real.
+which is seldom
+o-o
+newsworthy.
 sentence-next
 o-o
-Those are all
-o-o
-departures
-o-o
-from reality.
-sentence-next
-o-o
-What remains is
-o-o
-cooperation.
-sentence-next
-o-o
-Yes,
-o-o
-cooperation
-o-o
-is as boring
+It's as boring
 o-o
 as a gun
 o-o
@@ -533,15 +540,6 @@ o-o
 of a blind
 o-o
 pacifist.
-sentence-next
-o-o
-Yet that's
-o-o
-the foundation
-o-o
-of our crazy
-o-o
-civilization.
 end-lyric
 
 ambee sings-vc amenn
@@ -670,103 +668,96 @@ o-o
 New York City.
 sentence-next
 o-o
-But
+But surely
 o-o
-surely there's
+there's no excuse
 o-o
-no excuse for
+for the evil
 o-o
-the evil in
+in dictators,
 o-o
-the terrorists
+terrorists,
 o-o
-in the
+and mass
 o-o
-Middle East.
+murderers.
 end-lyric
 
 ambee sings-minister amenn
+Dictators
+o-o
+are addicted
+o-o
+to ego boosts
+o-o
+such as having
+o-o
+a harem.
+sentence-next
+o-o
 Terrorists
 o-o
 and soldiers
 o-o
-fight to help
+mostly fight
+o-o
+to protect
 o-o
 their family,
 o-o
-their comrades,
+friends and
 o-o
-and to earn
+comrades,
 o-o
-money.
+and protect
+o-o
+their culture
+o-o
+or religion,
+o-o
+or some aspect
+o-o
+of their
+o-o
+sexuality.
 sentence-next
 o-o
-An ideology
+For those folks
+o-o
+an ideology
 o-o
 is mostly
 o-o
-the frosting
+frosting on the
 o-o
-on the cookie.
-end-lyric
-
-ambee sings-vc amenn
-What if the
-o-o
-ideology is
-o-o
-money?
-end-lyric
-
-ambee sings-minister amenn
-Yes,
-o-o
-an
-o-o
-opportunity
-o-o
-to gain
-o-o
-money or wealth
-o-o
-is behind lots
-o-o
-and lots of
-o-o
-evil deeds.
+cookie.
 sentence-next
 o-o
-Like when
+Yes there are
 o-o
-Japanese
+a few evil
 o-o
-Americans
+people.
+sentence-next
 o-o
-were put into
+Most of that evil
 o-o
-concentration
+gets passed down
 o-o
-camps
+from generation
 o-o
-partly as
+to generation.
+sentence-next
 o-o
-a way to steal
+But it's not
 o-o
-the valuable
+genetic,
 o-o
-southern
+so eventually
 o-o
-California
+in a democracy
 o-o
-farmland
-o-o
-that lots of
-o-o
-Japanese
-o-o
-Americans
-o-o
-owned.
+that evil dies out.
 end-lyric
 
 ambee sings-vc amenn
