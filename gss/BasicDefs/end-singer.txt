@@ -6,7 +6,7 @@ ambee lyric-number amenn
 --> 
 comenn
 
-no-space :</span> no-space non-breaking-space
+no-space </span> no-space non-breaking-space
 
 ambee numeric-increment lyric-number amenn
 ambee copy-zero-pad-left-to-length lyric-number lyric-number 7 amenn

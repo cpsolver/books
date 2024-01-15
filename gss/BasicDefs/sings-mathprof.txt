@@ -1,4 +1,5 @@
 <p class="lyric"><span class="singer_mathprof singer_abbrev"> no-space
 abbrev-mathprof
 ambee end-singer amenn
+icon-mathprof
 begin-lyric

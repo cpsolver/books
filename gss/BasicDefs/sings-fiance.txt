@@ -1,4 +1,5 @@
 <p class="lyric"><span class="singer_fiance singer_abbrev"> no-space
 abbrev-fiance
 ambee end-singer amenn
+icon-fiance
 begin-lyric

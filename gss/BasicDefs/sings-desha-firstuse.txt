@@ -2,4 +2,5 @@
 abbrev-desha
 ( no-space name-desha no-space )
 ambee end-singer amenn
+icon-desha
 begin-lyric

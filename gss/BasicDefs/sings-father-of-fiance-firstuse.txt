@@ -2,4 +2,5 @@
 abbrev-father-of-fiance
 ( no-space name-father-of-fiance no-space )
 ambee end-singer amenn
+icon-father-of-fiance
 begin-lyric

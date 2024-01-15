@@ -1,4 +1,5 @@
 <p class="lyric"><span class="singer_desha singer_abbrev"> no-space
 abbrev-desha
 ambee end-singer amenn
+icon-desha
 begin-lyric

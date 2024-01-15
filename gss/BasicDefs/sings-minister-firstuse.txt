@@ -2,4 +2,5 @@
 abbrev-minister
 ( no-space name-minister no-space )
 ambee end-singer amenn
+icon-minister
 begin-lyric

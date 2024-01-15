@@ -2,4 +2,5 @@
 abbrev-damien
 ( no-space name-damien no-space )
 ambee end-singer amenn
+icon-damien
 begin-lyric
