@@ -1,5 +1,6 @@
-<p class="lyric"><span class="singer_politician singer_abbrev"> no-space
+<p class="lyric">
+icon-politician
+<span class="singer_politician singer_abbrev"> no-space
 abbrev-politician
 ambee end-singer amenn
-icon-politician
 begin-lyric

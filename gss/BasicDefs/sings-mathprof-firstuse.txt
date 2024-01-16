@@ -1,6 +1,7 @@
-<p class="lyric"><span class="singer_mathprof singer_abbrev"> no-space
+<p class="lyric">
+icon-mathprof
+<span class="singer_mathprof singer_abbrev"> no-space
 abbrev-mathprof
 ( no-space name-mathprof no-space )
 ambee end-singer amenn
-icon-mathprof
 begin-lyric

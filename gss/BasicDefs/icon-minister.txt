@@ -1,0 +1,3 @@
+begin-icon
+<img width="32" height="32" src="icon_minister.jpg"/>
+end-icon

@@ -1,0 +1,3 @@
+begin-icon
+<img width="24" height="32" src="icon_econhist.jpg"/>
+end-icon

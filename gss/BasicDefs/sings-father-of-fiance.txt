@@ -1,5 +1,6 @@
-<p class="lyric"><span class="singer_father_of_fiance singer_abbrev"> no-space
+<p class="lyric">
+icon-father-of-fiance
+<span class="singer_father_of_fiance singer_abbrev"> no-space
 abbrev-father-of-fiance
 ambee end-singer amenn
-icon-father-of-fiance
 begin-lyric

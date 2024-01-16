@@ -1,6 +1,7 @@
-<p class="lyric"><span class="singer_desha singer_abbrev"> no-space
+<p class="lyric">
+icon-desha
+<span class="singer_desha singer_abbrev"> no-space
 abbrev-desha
 ( no-space name-desha no-space )
 ambee end-singer amenn
-icon-desha
 begin-lyric

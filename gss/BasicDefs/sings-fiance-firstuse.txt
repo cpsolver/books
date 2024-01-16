@@ -1,6 +1,7 @@
-<p class="lyric"><span class="singer_fiance singer_abbrev"> no-space
+<p class="lyric">
+icon-fiance
+<span class="singer_fiance singer_abbrev"> no-space
 abbrev-fiance
 ( no-space name-fiance no-space )
 ambee end-singer amenn
-icon-fiance
 begin-lyric

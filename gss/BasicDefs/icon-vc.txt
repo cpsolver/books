@@ -1,0 +1,3 @@
+begin-icon
+<img width="50" height="32" src="icon_vc.jpg"/>
+end-icon

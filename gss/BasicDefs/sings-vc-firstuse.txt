@@ -1,6 +1,7 @@
-<p class="lyric"><span class="singer_vc singer_abbrev"> no-space
+<p class="lyric">
+icon-vc
+<span class="singer_vc singer_abbrev"> no-space
 abbrev-vc
 ( no-space name-vc name-vc-last no-space )
 ambee end-singer amenn
-icon-vc
 begin-lyric
