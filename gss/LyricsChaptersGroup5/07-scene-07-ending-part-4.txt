@@ -1064,7 +1064,183 @@ begin-italics Burger Not end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
-So do you see
+Yet another
+o-o
+benefit of
+o-o
+taxing takers
+o-o
+more than makers
+o-o
+is that very smart
+o-o
+well hyphen-here educated
+o-o
+people would be less
+o-o
+attracted to
+o-o
+soul hyphen-here sucking
+o-o
+jobs in
+o-o
+banks and
+o-o
+law firms.
+end-lyric
+
+ambee sings-desha amenn
+And real estate.
+end-lyric
+
+ambee sings-damien amenn
+Instead they'd
+o-o
+work where they
+o-o
+benefit customers,
+o-o
+and clients,
+o-o
+and the overall
+o-o
+economy.
+end-lyric
+
+ambee sings-desha amenn
+Well said!
+sentence-next
+o-o
+And to the teaching
+o-o
+profession, which
+o-o
+could use the very
+o-o
+best role models
+o-o
+for students.
+sentence-next
+o-o
+That's what Willie
+o-o
+does. She's a
+o-o
+teacher.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+So who's going to
+o-o
+believe this nonsense
+o-o
+that different ballots
+o-o
+and different ways
+o-o
+of counting votes
+o-o
+is really going
+o-o
+to make things better?
+end-lyric
+
+ambee sings-desha amenn
+This situation
+o-o
+is like when women
+o-o
+demanded the right
+o-o
+to vote.
+sentence-next
+o-o
+A few places,
+o-o
+like Canada,
+o-o
+Australia, and
+o-o
+New Zealand,
+o-o
+tried it.
+sentence-next
+o-o
+Then a few western
+o-o
+states tried it.
+sentence-next
+o-o
+The predicted
+o-o
+disasters didn't
+o-o
+follow,
+o-o
+so it was adopted
+o-o
+throughout the
+o-o
+United States.
+sentence-next
+o-o
+And don't you think
+o-o
+it's made things better?
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Sometimes I wonder.
+sentence-next
+o-o
+We don't seem to be
+o-o
+doing that well now
+o-o
+that women have
+o-o
+taken over.
+end-lyric
+
+ambee sings-desha amenn
+Without Rosie
+o-o
+the riveters
+o-o
+working in factories
+o-o
+during the war years
+o-o
+U.S. soldiers
+o-o
+and England
+o-o
+might have lost.
+sentence-next
+o-o
+And a woman in
+o-o
+the White House
+o-o
+couldn't possibly
+o-o
+be worse than
+o-o
+the ancient males
+o-o
+we've been getting.
+end-lyric
+
+ambee sings-damien amenn
+Getting back to
+o-o
+makers and
+o-o
+takers,
+o-o
+name-vc
+o-o
+do you see
 o-o
 that tax breaks
 o-o
@@ -1344,10 +1520,12 @@ o-o
 our influence.
 sentence-next
 o-o
-Yet I'm in favor!
+Yet I'm in favor
+o-o
+of this reform!
 sentence-next
 o-o
-Indeed there are
+There are
 o-o
 lots of people
 o-o
@@ -1361,7 +1539,7 @@ without assistance
 o-o
 from churches
 o-o
-or government.
+or governments.
 end-lyric
 
 ambee sings-desha amenn
@@ -1401,14 +1579,16 @@ o-o
 dinosaurs.
 sentence-next
 o-o
-Those jobs pay less.
+Currently
+o-o
+those jobs pay less.
 sentence-next
 o-o
 When those women
 o-o
 earn more,
 o-o
-they spend
+they will spend
 o-o
 more of it
 o-o
@@ -1484,34 +1664,48 @@ end-lyric
 ambee sings-desha amenn
 And it wouldn't
 o-o
+be getting
+o-o
+attention
+o-o
 if business
 o-o
-owners tighened
+owners reduced
 o-o
 the wage gap.
 sentence-next
 o-o
-It's about supply
+Remember
+o-o
+capitalism
+o-o
+is about supply
 o-o
 and demand.
 sentence-next
 o-o
-When you offer
+When you supply
 o-o
 better hyphen-here paying jobs
 o-o
 there will be lots
 o-o
-of better hyphen-here qualified
+of demand
+o-o
+for those jobs
+o-o
+so you'll get
+o-o
+better hyphen-here qualified
 o-o
 applicants.
 sentence-next
 o-o
-And less demand
+In other words
 o-o
-for workarounds.
+those tax credits
 o-o
-It will enforce
+incentivize
 o-o
 what the
 o-o
@@ -1521,18 +1715,16 @@ compassion.
 end-lyric
 
 ambee sings-minister amenn
-Wise insights
+Translating
 o-o
-from a wise
+the Dalai Lama's
 o-o
-religious
+wise insights
 o-o
-leader.
+into tax credits.
 sentence-next
 o-o
-The Dalai Lama
-o-o
-that is.
+I love it!
 end-lyric
 
 ambee sings-damien amenn
