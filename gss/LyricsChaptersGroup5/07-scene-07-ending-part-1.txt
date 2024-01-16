@@ -130,7 +130,11 @@ your behaviors,
 o-o
 that's what God
 o-o
-listens to.
+and most people
+o-o
+around you
+o-o
+listen to.
 end-lyric
 
 ambee sings-vc amenn
@@ -524,14 +528,16 @@ drama
 o-o
 and you'll see
 o-o
-cooperation,
-o-o
-which is seldom
-o-o
-newsworthy.
+cooperation.
 sentence-next
 o-o
-It's as boring
+That's not
+o-o
+newsworthy
+o-o
+because
+o-o
+it's as boring
 o-o
 as a gun
 o-o
@@ -688,11 +694,19 @@ Dictators
 o-o
 are addicted
 o-o
-to ego boosts
+to ego boosts,
 o-o
-such as having
+so they fight
 o-o
-a harem.
+to protect
+o-o
+having a harem
+o-o
+and sailing aboard
+o-o
+an ego hyphen-here inflated
+o-o
+yacht.
 sentence-next
 o-o
 Terrorists
@@ -951,21 +965,45 @@ Parents,
 o-o
 teachers,
 o-o
-managers,
+employers,
 o-o
-and employers
+the wine industry,
 o-o
-use winning
+and Broadway
+o-o
+all use the
+o-o
+winning of
 o-o
 prizes
 o-o
 to entice
 o-o
-kids and
+kids,
 o-o
-employees
+employees,
 o-o
-to learn skills.
+creative
+o-o
+artists,
+o-o
+and
+o-o
+entrepreneurs
+o-o
+to learn skills,
+o-o
+obey their
+o-o
+alarm clock,
+o-o
+and attract
+o-o
+customers
+o-o
+to high hyphen-here cost
+o-o
+luxuries.
 sentence-next
 o-o
 But with
@@ -997,11 +1035,15 @@ o-o
 your name.
 sentence-next
 o-o
-The real prize
+The real prizes
 o-o
-of learning
+are learning
 o-o
-remains.
+and doing
+o-o
+and benefitting
+o-o
+others.
 sentence-next
 o-o
 Now the skill

@@ -1,219 +1,3 @@
-ambee sings-damien-firstuse amenn
-begin-explain Door opens and closes. end-explain
-o-o
-begin-explain He now uses better, but not perfect, pronunciation. end-explain
-o-o
-Hello!
-end-lyric
-
-ambee sings-fiance amenn
-Sweetheart,
-o-o
-I need you to
-o-o
-give me a ride
-o-o
-home because this
-o-o
-nasty woman
-o-o
-is being
-o-o
-obnoxious
-o-o
-to me.
-end-lyric
-
-ambee sings-damien amenn
-Hi Desha.
-end-lyric
-
-ambee sings-fiance amenn
-You know this bitch?
-end-lyric
-
-ambee sings-damien amenn
-She's the woman
-o-o
-I've told you about.
-end-lyric
-
-ambee sings-fiance amenn
-You said that woman
-o-o
-was like a kid sister
-o-o
-to you.
-sentence-next
-o-o
-But she's looking
-o-o
-at you with love in
-o-o
-her eyes.
-end-lyric
-
-ambee sings-damien amenn
-Don't be ridiculous.
-sentence-next
-o-o
-She's got a boyfriend.
-end-lyric
-
-ambee sings-desha amenn
-I do not.
-end-lyric
-
-ambee sings-damien amenn
-Then who's the guy
-o-o
-named Willie?
-sentence-next
-o-o
-The guy you said
-o-o
-you're with.
-end-lyric
-
-ambee sings-desha amenn
-Willie is short for
-o-o
-Willamina.
-sentence-next
-o-o
-That's an awful
-o-o
-name to get stuck with.
-end-lyric
-
-ambee sings-damien amenn
-You said he,
-o-o
-er, she,
-o-o
-is your
-o-o
-partner.
-sentence-next
-o-o
-So are you,
-o-o
-well,
-o-o
-lesbians?
-end-lyric
-
-ambee sings-desha amenn
-We're both bisexual.
-end-lyric
-
-ambee sings-vc amenn
-Much much better
-o-o
-than Netflix.
-end-lyric
-
-ambee sings-fiance amenn
-You keep your claws
-o-o
-off of him!
-sentence-next
-o-o
-name-damien no-space ,
-o-o
-you are never
-o-o
-to see her
-o-o
-again!
-end-lyric
-
-ambee sings-damien amenn
-Well, ah,
-o-o
-I can't promise
-o-o
-anything.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-You're engaged
-o-o
-to my daughter
-o-o
-so I too forbid
-o-o
-you to ever see
-o-o
-this awful woman
-o-o
-again.
-end-lyric
-
-ambee sings-damien amenn
-She's helping me
-o-o
-to figure out
-o-o
-how I can earn
-o-o
-more money to
-o-o
-make your daughter
-o-o
-happy.
-end-lyric
-
-ambee sings-desha amenn
-I thought you were
-o-o
-trying to
-o-o
-figure out
-o-o
-how to reduce
-o-o
-corruption
-o-o
-in the
-o-o
-political
-o-o
-world.
-end-lyric
-
-ambee sings-damien amenn
-They're both the
-o-o
-same thing to me.
-sentence-next
-o-o
-I figured out
-o-o
-what's causing
-o-o
-endless waves
-o-o
-of corruption.
-sentence-next
-o-o
-Now I'm tryin'
-o-o
-to figure out
-o-o
-how to surf
-o-o
-those waves,
-o-o
-so I can start
-o-o
-my own business.
-sentence-next
-o-o
-I'll be the employer,
-o-o
-not the employee.
-end-lyric
 ambee sings-minister amenn
 Here's a
 o-o
@@ -1193,37 +977,37 @@ attorneys
 o-o
 defending
 o-o
-guilty
+criminals,
 o-o
-criminals.
+the guilty ones.
 sentence-next
 o-o
 But in real life
 o-o
 white criminals
 o-o
-hire expensive
-o-o
-lawyers
-o-o
-and often get off
+get off
 o-o
 with a money
 o-o
 penalty
 o-o
-they can
+because they can
 o-o
-easily afford.
+afford to
+o-o
+hire a slick
+o-o
+lawyer.
 sentence-next
 o-o
 It's underpaid
 o-o
 people of color
 o-o
-who get
+who more often
 o-o
-arrested
+get arrested,
 o-o
 even when they
 o-o
@@ -1238,15 +1022,13 @@ attorneys
 o-o
 who TV watchers
 o-o
-now
-o-o
 mistakenly
 o-o
 believe
 o-o
-are always
+typically
 o-o
-defending
+defend
 o-o
 the guilty.
 end-lyric
