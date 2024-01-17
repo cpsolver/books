@@ -69,7 +69,7 @@ o-o
 museum?
 end-lyric
 
-ambee sings-minister-firstuse amenn
+ambee sings-minister amenn
 The peak
 o-o
 must rest on a
@@ -101,8 +101,13 @@ ice cream?
 sentence-next
 o-o
 That's what you're sayin'?
-sentence-next
-o-o
+end-lyric
+
+ambee sings-minister amenn
+That's a great start.
+end-lyric
+
+ambee sings-vc amenn
 I promise I'll
 o-o
 do better.
@@ -114,21 +119,35 @@ some prayin'!
 end-lyric
 
 ambee sings-minister amenn
-It's not just what
+The pyramid's top
 o-o
-I say and
+is the
 o-o
-what your brain thinks.
+spiritual world.
 sentence-next
 o-o
-It's what you do.
+That layer
+o-o
+includes praying.
 sentence-next
 o-o
-It's your actions,
+The words
 o-o
-your behaviors,
+you and I think,
 o-o
-that's what God
+is lower down.
+sentence-next
+o-o
+Those rest on
+o-o
+the solid rock
+o-o
+of actions,
+o-o
+your behavior.
+sentence-next
+o-o
+That's what God
 o-o
 and most people
 o-o

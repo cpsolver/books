@@ -5,14 +5,10 @@ book-title
 end-italics
 end-title
 
-begin-subtitle
-begin-explain Draft 2024-January-6 end-explain
-end-subtitle
-
 begin-basic-paragraph
 This story is a comedy, written as dialog.
 sentence-next
-A young carpenter named name-damien struggles to understand why the worlds of business and politics are upside no-space down for himself, his word-fiance no-space , and for his generation.
+A young carpenter named name-damien struggles to understand why the worlds of business and politics are upside hyphen-here down for himself, his word-fiance no-space , and for his generation.
 sentence-next
 He flunked out of community college so he gets assistance from name-desha who is a wild young woman with a degree in political science.
 sentence-next

@@ -2,6 +2,10 @@ begin-heading
 Stuffy Info for Lawyers and Librarians
 end-heading
 
+begin-subtitle
+Draft version 2024-January-17
+end-subtitle
+
 begin-basic-paragraph
 Published by:
 line-break
@@ -39,7 +43,7 @@ end-basic-paragraph
 begin-basic-paragraph
 The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
 sentence-next
-To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest free) sources of information.
+To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free) sources of information.
 end-basic-paragraph
 
 

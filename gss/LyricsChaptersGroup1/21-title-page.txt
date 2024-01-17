@@ -18,9 +18,9 @@ begin-subtitle
 by Richard Fobes
 end-subtitle
 
-begin-basic-paragraph
+begin-subtitle
 Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
-end-basic-paragraph
+end-subtitle
 
 begin-subtitle
 non-breaking-space
