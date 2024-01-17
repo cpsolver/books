@@ -45,32 +45,30 @@ Such as?
 end-lyric
 
 ambee sings-damien amenn
-Did you know
+You taught me
 o-o
-we pay lots more
+about
 o-o
-for sugar
+commodities
 o-o
-compared to
+so you know
 o-o
-the rest of the
+there's two kinds
 o-o
-world?
+of sugar there.
 sentence-next
 o-o
-On the commodity
+I forgot
 o-o
-market there's
-o-o
-two kinds
-o-o
-of sugar.
+the numbers.
 end-lyric
 
-ambee sings-desha amenn
-Sugar number
+ambee sings-vc amenn
+You must mean
 o-o
-eleven,
+sugar number
+o-o
+eleven
 o-o
 and sugar
 o-o
@@ -80,17 +78,18 @@ sixteen.
 end-lyric
 
 ambee sings-damien amenn
-The price within
+The higher price
 o-o
-the U.S. is the
+is the one
 o-o
-higher price,
+in the U.S.
+sentence-next
 o-o
-and the lower price
+The rest of the
 o-o
-is what the rest
+world pays
 o-o
-of the world pays.
+the lower price.
 sentence-next
 o-o
 The people
@@ -101,13 +100,76 @@ that legal
 o-o
 monopoly
 o-o
-would lose income,
+would lose income.
+sentence-next
 o-o
-although they
+But all of us
 o-o
-would keep their
+would pay less
 o-o
-current wealth.
+for sugar
+o-o
+and sugarized
+o-o
+products.
+end-lyric
+
+ambee sings-vc amenn
+You're right.
+sentence-next
+o-o
+I've been
+o-o
+subsidizing
+o-o
+some wealthy guys
+o-o
+in Florida.
+sentence-next
+o-o
+I wasn't bothered
+o-o
+because that cost,
+o-o
+for sugar,
+o-o
+is so tiny,
+o-o
+even for me,
+o-o
+who ate a lot
+o-o
+of that sweet stuff.
+end-lyric
+
+ambee sings-desha amenn
+Each price squeeze,
+o-o
+considered
+o-o
+one at a time,
+o-o
+isn't
+o-o
+a big deal.
+sentence-next
+o-o
+But those price hikes
+o-o
+surround us.
+sentence-next
+o-o
+That's a big steal
+o-o
+from those of us
+o-o
+who can barely
+o-o
+afford rent
+o-o
+and food and
+o-o
+utilities.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -115,7 +177,7 @@ I'll bet that us
 o-o
 developers would
 o-o
-lose out.
+pay higher taxes.
 end-lyric
 
 ambee sings-desha amenn
@@ -269,7 +331,9 @@ Would taxes increase
 o-o
 on the businesses
 o-o
-I own?
+I own,
+o-o
+or own shares of?
 end-lyric
 
 ambee sings-damien amenn
@@ -498,13 +562,17 @@ destination
 o-o
 because
 o-o
-the city has
+they look forward
+o-o
+to dining out
+o-o
+at a
 o-o
 Burger King
 o-o
 franchise
 o-o
-locations.
+location.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -772,7 +840,7 @@ businesses?
 end-lyric
 
 ambee sings-damien amenn
-Maker businesses,
+Maker businesses
 o-o
 not only bring
 o-o
@@ -780,9 +848,9 @@ money into
 o-o
 a city or state,
 o-o
-they pass that
+they also pass
 o-o
-money to
+that money to
 o-o
 their employees.
 sentence-next
@@ -877,13 +945,15 @@ o-o
 business owners.
 sentence-next
 o-o
-Now I see
+I had overlooked
 o-o
-the employees
+the fact that
+o-o
+employees
 o-o
 of one business
 o-o
-are the customers
+are customers
 o-o
 of other
 o-o
@@ -1071,7 +1141,23 @@ sentence-next
 o-o
 The big ones,
 o-o
-like manufacturers,
+like Apple,
+o-o
+Boeing,
+o-o
+Disney,
+o-o
+General Motors,
+o-o
+Intel,
+o-o
+Johnson and Johnson,
+o-o
+Nike,
+and
+Hollywood
+o-o
+movie studios,
 o-o
 get tax breaks.
 sentence-next
@@ -1116,7 +1202,7 @@ begin-italics Burger Not end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
-Yet another
+Another
 o-o
 benefit of
 o-o
@@ -1457,9 +1543,9 @@ fewer rules,
 o-o
 and fewer
 o-o
-interactions
+verbal spankings
 o-o
-with the human
+from the human
 o-o
 relations
 o-o
@@ -1529,9 +1615,13 @@ to earn
 o-o
 more money
 o-o
-causes more
+typically
 o-o
-suffering.
+increase
+o-o
+suffering
+o-o
+for others.
 end-lyric
 
 ambee sings-minister amenn
@@ -1608,25 +1698,25 @@ sentence-next
 o-o
 Remember
 o-o
-women prefer
+women tend
 o-o
-jobs that do
+to choose jobs
 o-o
-good things,
+where they can help
 o-o
-like helping
+children,
 o-o
-customers,
-o-o
-helping children,
-o-o
-nursing folks
+nurse folks
 o-o
 to better health,
 o-o
+help
+o-o
+customers,
+o-o
 and
 o-o
-selling toy
+sell toy
 o-o
 dinosaurs.
 sentence-next
@@ -1668,11 +1758,17 @@ hunting trips,
 o-o
 and buying
 o-o
-stuff at sex shops
+stupid lingerie
 o-o
-where women get
+as if that
 o-o
-exploited.
+compensates
+o-o
+for their failure
+o-o
+to understand
+o-o
+what wives want.
 end-lyric
 
 ambee sings-damien amenn

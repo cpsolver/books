@@ -47,7 +47,7 @@ end-lyric
 ambee sings-minister-firstuse amenn
 The spiritual world
 o-o
-soars above
+rests on top of
 o-o
 the physical world
 o-o
@@ -190,9 +190,13 @@ My money brings pleasure,
 o-o
 and envy from others,
 o-o
-and attracts gold diggers
+and attracts gold diggers,
 o-o
-but not real lovers.
+but not
+o-o
+trustworthy
+o-o
+lovers.
 sentence-next
 o-o
 Who can I love?
@@ -382,9 +386,9 @@ Or just to feel
 o-o
 less guilt for
 o-o
-doing deeds
+doing what
 o-o
-that God would
+God would
 o-o
 frown on?
 end-lyric
@@ -492,7 +496,9 @@ as evil,
 o-o
 but that evil
 o-o
-is imaginary.
+is just
+o-o
+imaginary.
 sentence-next
 o-o
 Sports reports
@@ -1087,15 +1093,13 @@ o-o
 compass?
 sentence-next
 o-o
-And a flashlight
+Something that points
 o-o
-to illuminate
+in the direction
 o-o
-the sharp rocks
+of spiritual
 o-o
-longing to jab
-o-o
-my ass?
+progress?
 end-lyric
 
 ambee sings-minister amenn
@@ -1727,10 +1731,6 @@ o-o
 have your company.
 end-lyric
 
-ambee sings-minister amenn
-begin-explain There is a click of keys when name-minister types a short text message. end-explain
-end-lyric
-
 ambee sings-fiance amenn
 It's a pleasure
 o-o
@@ -2031,7 +2031,11 @@ sentence-next
 o-o
 I'm proud of what
 o-o
-I accomplish.
+I accomplish
+o-o
+while others
+o-o
+just daydream.
 sentence-next
 o-o
 The
