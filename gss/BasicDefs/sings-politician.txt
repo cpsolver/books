@@ -2,5 +2,6 @@
 icon-politician
 <span class="singer_politician singer_abbrev"> no-space
 abbrev-politician
+no-space :
 ambee end-singer amenn
 begin-lyric

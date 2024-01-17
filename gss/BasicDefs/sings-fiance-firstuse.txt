@@ -3,5 +3,6 @@ icon-fiance
 <span class="singer_fiance singer_abbrev"> no-space
 abbrev-fiance
 ( no-space name-fiance no-space )
+no-space :
 ambee end-singer amenn
 begin-lyric

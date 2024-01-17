@@ -3,5 +3,6 @@ icon-econhist
 <span class="singer_econhist singer_abbrev"> no-space
 abbrev-econhist
 ( no-space name-econhist no-space )
+no-space :
 ambee end-singer amenn
 begin-lyric

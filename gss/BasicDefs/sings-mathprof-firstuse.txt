@@ -3,5 +3,6 @@ icon-mathprof
 <span class="singer_mathprof singer_abbrev"> no-space
 abbrev-mathprof
 ( no-space name-mathprof no-space )
+no-space :
 ambee end-singer amenn
 begin-lyric

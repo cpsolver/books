@@ -3,5 +3,6 @@ icon-desha
 <span class="singer_desha singer_abbrev"> no-space
 abbrev-desha
 ( no-space name-desha no-space )
+no-space :
 ambee end-singer amenn
 begin-lyric

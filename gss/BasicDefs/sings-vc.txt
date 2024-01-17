@@ -2,5 +2,6 @@
 icon-vc
 <span class="singer_vc singer_abbrev"> no-space
 abbrev-vc
+no-space :
 ambee end-singer amenn
 begin-lyric

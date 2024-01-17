@@ -3,5 +3,6 @@ icon-minister
 <span class="singer_minister singer_abbrev"> no-space
 abbrev-minister
 ( no-space name-minister no-space )
+no-space :
 ambee end-singer amenn
 begin-lyric
