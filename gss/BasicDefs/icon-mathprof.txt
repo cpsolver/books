@@ -1,3 +1,0 @@
-begin-icon
-<img width="35" height="32" src="icon_mathprof.jpg"/>
-end-icon

@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-desha
+no-space
 <span class="singer_desha singer_abbrev"> no-space
 abbrev-desha
 ( no-space name-desha no-space )

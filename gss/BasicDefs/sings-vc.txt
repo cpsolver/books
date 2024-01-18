@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-vc
+no-space
 <span class="singer_vc singer_abbrev"> no-space
 abbrev-vc
 no-space :

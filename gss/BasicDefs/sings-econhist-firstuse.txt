@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-econhist
+no-space
 <span class="singer_econhist singer_abbrev"> no-space
 abbrev-econhist
 ( no-space name-econhist no-space )

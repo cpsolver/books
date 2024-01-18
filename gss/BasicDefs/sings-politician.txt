@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-politician
+no-space
 <span class="singer_politician singer_abbrev"> no-space
 abbrev-politician
 no-space :

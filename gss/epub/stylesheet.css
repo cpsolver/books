@@ -5,207 +5,148 @@ p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del,
 dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub,
 sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form,
 label, legend, table, caption, tbody, tfoot, thead, tr, th, td { 
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent; }
-
-/* end reset */
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent; }
 
 @page {
-  margin: 5px !important;
+margin: 5 px !important;
 }
 
 body {
-    font-size:100%;
-    margin-left:2%;
-    margin-right:2%;
-    margin-top:2%;
-    margin-bottom:2%;
-    padding-left:0;
-    padding-right:0;
-    padding-top:0;
-    padding-bottom:0;
-}
-
-img {
-    margin:0 auto;
-    padding:0;
-    max-width: 95%;
-    max-height: 95%;
-}
-
-h1 {
-    text-indent:0;
-    margin-left:0;
-    margin-right:0;
-    text-align:left;
-    orphans:3;
-    widows:3;
-    page-break-after:avoid;
-}
-
-h2 {
-    text-indent:0;
-    margin-left:0;
-    margin-right:0;
-    text-align:left;
-    orphans:3;
-    widows:3;
-    page-break-after:avoid;
-}
-
-h3 {
-    text-indent:0;
-    margin-left:0;
-    margin-right:0;
-    text-align:left;
-    orphans:3;
-    widows:3;
-    page-break-after:avoid;
-}
-
-h4 {
-    text-indent:0;
-    margin-left:0;
-    margin-right:0;
-    text-align:left;
-    orphans:3;
-    widows:3;
-    page-break-after:avoid;
-}
-
-p {
-    text-indent:20px;
-    margin-left:0;
-    margin-right:0;
-    margin-top:0;
-    margin-bottom:7px;
-    padding-left:0;
-    padding-right:0;
-    padding-top:0;
-    padding-bottom:0;
-    text-align:justify;
-    orphans:3;
-    widows:3;
-}
-
-.classTitle {
-    text-align:center;
-}
-
-.classHeadingCentered {
-    text-align:center;
-}
-
-.classHeadingBasic {
-    text-align:left;
-    page-break-after:avoid;
-}
-
-.classFirstPara {
-    text-indent:0;
-    font-size:106%;
-}
-
-.classBasic {
-    text-indent:0;
-    margin-left:0px;
-    font-size:106%;
-}
-
-.classCenteredBig {
-    text-align:center;
-    font-size:110%;
-}
-
-.classTocPart {
-    margin-left:0;
-    font-size:122%;
-}
-
-.classTocChapter {
-    margin-left:30px;
-    font-size:108%;
-}
-
-.classBigPara {
-    text-indent:0;
-    margin-left:20px;
-    margin-right:20px;
-    font-size:112%;
-}
-
-.classQuote {
-    page-break-after:avoid;
-    text-indent:0;
-    margin-left:20px;
-    margin-right:20px;
-    font-size:107%;
-}
-
-.classQuoteAuthor {
-    page-break-before:avoid;
-    text-indent:0;
-    margin-left:60px;
-    font-size:105%;
-}
-
-.classPageBreak {
-    page-break-before:always;
-    font-size:5pt;
-}
-
-.classImageFullPage {
-    margin-left:0;
-    margin-right:0;
-    margin-top:0;
-    margin-bottom:0;
-    padding-left:0;
-    padding-right:0;
-    padding-top:0;
-    padding-bottom:0;
-	text-align:center;
-    page-break-before:always;
-    page-break-after:always;
-}
-
-ul {
-    margin-top:0;
-    margin-bottom:5px;
-}
-
-ol {
-    margin-top:0;
-    margin-bottom:5px;
-}
-
-li {
-    margin-left:0;
-    margin-right:0;
-    margin-top:0;
-    margin-bottom:3px;
-    padding-left:0;
-    padding-right:0;
-    padding-top:0;
-    padding-bottom:0;
-    text-align:left;
-    orphans:3;
-    widows:3;
+font-family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans-serif;
+font-size:100%;
+margin-left:2%;
+margin-right:2%;
+margin-top:2%;
+margin-bottom:2%;
+padding-left:0;
+padding-right:0;
+padding-top:0;
+padding-bottom:0;
 }
 
 b {
-    font-size:104%;
+font-size:104%;
 }
 
 i {
-    font-size:102%;
+font-size:102%;
 }
 
-.classListItemExtraVerticalGap {
-    margin-top:8px;
-    margin-bottom:8px;
+img {
+margin:0 auto;
+padding:0;
+max-width: 95%;
+max-height: 95%;
+}
+
+h1, h2, h3, h4 {
+font-family:"Palatino","Georgia","Times",serif;
+font-weight: bold;
+text-align:center;
+text-indent:0;
+margin-left:4 em;
+margin-right:4 em;
+orphans:3;
+widows:3;
+page-break-after:avoid;
+}
+
+h1 {
+font-size:250%;
+}
+
+h2 {
+font-size:200%;
+}
+
+h3 {
+font-size:150%;
+}
+
+h4 {
+font-size:120%;
+}
+
+p {
+text-indent:-5 em;
+margin-left:5 em;
+margin-right:0;
+margin-top:5 em;
+margin-bottom:20 em;
+padding-left:0;
+padding-right:0;
+padding-top:0;
+padding-bottom:0;
+text-align:justify;
+orphans:3;
+widows:3;
+}
+
+.para_basic{
+text-align:justify;
+}
+
+.para_centered{
+text-align:center;
+}
+
+.singer_abbrev{
+font-size:110%;
+font-weight: bold;
+vertical-align: text-top;
+padding:2 em;
+margin-left:0;
+margin-right:3 em;
+margin-top:6 em;
+margin-bottom:6 em;
+}
+
+.singer_desha{
+background-color:coral;
+border-radius:3 em;
+}
+
+.singer_fiance{
+background-color:yellow;
+}
+
+.singer_mathprof{
+background-color:fuchsia;
+}
+
+.singer_damien{
+color:white;
+background-color:blue;
+border-radius:1 em;
+}
+
+.singer_vc{
+color:white;
+background-color:green;
+}
+
+.singer_politician{
+color:white;
+background-color:indigo;
+}
+
+.singer_minister{
+color:white;
+background-color:grey;
+}
+
+.singer_econhist{
+color:white;
+background-color:violet;
+}
+
+.singer_father_of_fiance{
+color:white;
+background-color:brown;
 }

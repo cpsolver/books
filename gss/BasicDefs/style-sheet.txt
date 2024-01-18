@@ -73,46 +73,46 @@ padding:6px 5px 5px 5px;
 margin:0px 0px 0px 0px;
 }
 
-.unused_singer_desha{
+.singer_desha{
 background-color:coral;
 border-radius:10px;
 }
 
-.unused_singer_fiance{
+.singer_fiance{
 background-color:yellow;
 }
 
-.unused_singer_mathprof{
+.singer_mathprof{
 background-color:fuchsia;
 }
 
-.unused_singer_damien{
+.singer_damien{
 color:white;
 background-color:blue;
 border-radius:20px;
 }
 
-.unused_singer_vc{
+.singer_vc{
 color:white;
 background-color:green;
 }
 
-.unused_singer_politician{
+.singer_politician{
 color:white;
 background-color:indigo;
 }
 
-.unused_singer_minister{
+.singer_minister{
 color:white;
 background-color:grey;
 }
 
-.unused_singer_econhist{
+.singer_econhist{
 color:white;
 background-color:violet;
 }
 
-.unused_singer_father_of_fiance{
+.singer_father_of_fiance{
 color:white;
 background-color:brown;
 }

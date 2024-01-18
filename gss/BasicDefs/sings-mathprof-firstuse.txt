@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-mathprof
+no-space
 <span class="singer_mathprof singer_abbrev"> no-space
 abbrev-mathprof
 ( no-space name-mathprof no-space )

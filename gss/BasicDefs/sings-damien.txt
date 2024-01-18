@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-damien
+no-space
 <span class="singer_damien singer_abbrev"> no-space
 abbrev-damien
 no-space :

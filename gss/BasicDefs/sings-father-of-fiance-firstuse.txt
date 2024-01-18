@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-father-of-fiance
+no-space
 <span class="singer_father_of_fiance singer_abbrev"> no-space
 abbrev-father-of-fiance
 ( no-space name-father-of-fiance no-space )

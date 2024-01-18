@@ -30,15 +30,6 @@
     <item id="segment_26" href="ogss_26.xhtml" media-type="application/xhtml+xml"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-    <item id="icon_damien" href="icon_damien.jpg" media-type="image/jpeg"/>
-    <item id="icon_desha" href="icon_desha.jpg" media-type="image/jpeg"/>
-    <item id="icon_fiance" href="icon_fiance.jpg" media-type="image/jpeg"/>
-    <item id="icon_vc" href="icon_vc.jpg" media-type="image/jpeg"/>
-    <item id="icon_politician" href="icon_politician.jpg" media-type="image/jpeg"/>
-    <item id="icon_mathprof" href="icon_mathprof.jpg" media-type="image/jpeg"/>
-    <item id="icon_econhist" href="icon_econhist.jpg" media-type="image/jpeg"/>
-    <item id="icon_minister" href="icon_minister.jpg" media-type="image/jpeg"/>
-    <item id="icon_father_of_fiance" href="icon_father_of_fiance.jpg" media-type="image/jpeg"/>
 </manifest>
 <spine toc="ncx">
   <itemref idref="coverpage"/>

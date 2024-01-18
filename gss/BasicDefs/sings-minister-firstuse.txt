@@ -1,5 +1,5 @@
 <p class="lyric">
-icon-minister
+no-space
 <span class="singer_minister singer_abbrev"> no-space
 abbrev-minister
 ( no-space name-minister no-space )
