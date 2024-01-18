@@ -2,9 +2,9 @@ begin-heading
 Stuffy Info for Lawyers and Librarians
 end-heading
 
-begin-subtitle
+begin-basic-paragraph
 Draft version 2024-January-17
-end-subtitle
+end-basic-paragraph
 
 begin-basic-paragraph
 Published by:

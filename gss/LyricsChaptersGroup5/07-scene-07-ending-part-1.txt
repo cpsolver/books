@@ -45,7 +45,9 @@ on my last breath.
 end-lyric
 
 ambee sings-minister-firstuse amenn
-The spiritual world
+Remember the
+o-o
+spiritual world
 o-o
 rests on top of
 o-o
@@ -119,39 +121,50 @@ some prayin'!
 end-lyric
 
 ambee sings-minister amenn
-The pyramid's top
+The best kinds of
 o-o
-is the
+prayers
 o-o
-spiritual world.
-sentence-next
+are upstairs
 o-o
-That layer
+at the
 o-o
-includes praying.
+pyramid's top.
 sentence-next
 o-o
 The words
 o-o
 you and I think,
 o-o
-is lower down.
+is down some stairs.
 sentence-next
 o-o
-Those rest on
+Those layers
 o-o
-the solid rock
+must be
 o-o
-of actions,
+supported by
 o-o
-your behavior.
+deep hyphen-here rooted
+o-o
+intentions,
+o-o
+which are
+o-o
+the engines
+o-o
+of your actions.
 sentence-next
 o-o
-That's what God
+It's your actions,
+o-o
+your behavior,
+o-o
+that God,
 o-o
 and most people
 o-o
-around you
+around you,
 o-o
 listen to.
 end-lyric
@@ -446,21 +459,15 @@ sentence-next
 o-o
 If you're thinking
 o-o
-of the
-o-o
-wickedness
-o-o
-in horror flicks,
-o-o
-in books like
-o-o
-begin-italics Lord Of The Flies end-italics no-space ,
-o-o
-and in
+of horror flicks,
 o-o
 super hyphen-here hero
 o-o
 comic books,
+o-o
+and murderous
+o-o
+Voldemort,
 o-o
 that's all
 o-o
@@ -794,7 +801,9 @@ genetic,
 o-o
 so eventually
 o-o
-in a democracy
+in a real
+o-o
+democracy
 o-o
 that evil dies out.
 end-lyric
@@ -1296,9 +1305,11 @@ Just let go of
 o-o
 expired emotions,
 o-o
-like guilt
+like guilt that
 o-o
-that you lied
+unintentionally
+o-o
+you lied
 o-o
 to a child.
 sentence-next

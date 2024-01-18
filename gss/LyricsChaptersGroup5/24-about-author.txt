@@ -27,7 +27,7 @@ Richard's understanding of vote counting started when he was in a small music hy
 sentence-next
 Initially there were two designs.
 sentence-next
-Richard submitted a third design that he regarded as an improvement on the better of the two original designs.
+Richard submitted a third design he regarded as an improvement on the better of the two original designs.
 sentence-next
 Although Richard's design was chosen because it got the most votes, the worst design came close to winning, which triggered his aha moment about vote splitting.
 sentence-next
