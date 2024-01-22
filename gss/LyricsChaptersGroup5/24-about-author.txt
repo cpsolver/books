@@ -2,27 +2,27 @@ begin-title
 About author Richard Fobes
 end-title
 
-begin-basic-paragraph
+begin-standard-paragraph
 Richard Fobes is the author of begin-italics The Creative Problem Solver's Toolbox end-italics which is a how hyphen-here to book on creative problem solving.
 sentence-next
 It has been published around the world in ten languages.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 The story of begin-italics The Goat Spitting Secret end-italics arose in Richard's mind as a dialog between different voices in his head.
 sentence-next
 These different voices arose because Richard has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Richard does not regard either the Republican party or the Democratic party to be representative of his political views.
 sentence-next
 He registers with one party or the other just so he can vote for candidates in primary elections.
 sentence-next
 He switches that registration periodically.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Richard's understanding of vote counting started when he was in a small music hyphen-here and hyphen-here dance organization that was voting on a new logo design.
 sentence-next
 Initially there were two designs.
@@ -32,18 +32,18 @@ sentence-next
 Although Richard's design was chosen because it got the most votes, the worst design came close to winning, which triggered his aha moment about vote splitting.
 sentence-next
 That insight led to creating an innovative vote hyphen-here counting method and including it in begin-italics The Creative Problem Solver's Toolbox end-italics no-space , developing further aspects of VoteFair Ranking and writing a book about it titled begin-italics Ending The Hidden Unfairness In U.S. Elections end-italics no-space , creating interactive websites at VoteFair.org and NegotiationTool.com no-space , and testifying to the Oregon state legislature and the City of Portland Charter Commission in support of well hyphen-here chosen ways to count begin-italics ranked choice ballots end-italics no-space .
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Richard started life in southern California (Oceanside, at the north end of San Diego county), then moved to central California (Davis, a university town), then to mid-valley Oregon (Corvallis, another university town), and finally to northern Oregon (Portland, a big city).
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 To see a list of projects created by Richard Fobes, including books, websites, software, and a new programming language, point your browser to SolutionsCreative dot com.
-end-basic-paragraph
+end-standard-paragraph
 
 combee
-begin-basic-paragraph
+begin-standard-paragraph
 Richard's plan during youth had been to become an inventor.
 sentence-next
 He learned how to invent, but then, as an adult, discovered the patent system is set up in a way that does not allow an individual to earn a living as an inventor.
@@ -63,6 +63,6 @@ sentence-next
 During a thinking session in a hammock Richard developed the idea that led to creating a demonstration em-dash at begin-italics NegotiationTool dot com end-italics em-dash that shows how legislatures, parliaments, and U.S. Congress should vote on proposed laws.
 sentence-next
 He pursued software projects to further develop additional details, as well as simplifications and insights that have been embraced worldwide and in Oregon.
-end-basic-paragraph
+end-standard-paragraph
 comenn
 

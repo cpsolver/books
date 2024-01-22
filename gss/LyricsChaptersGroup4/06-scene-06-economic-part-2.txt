@@ -365,7 +365,7 @@ unlocking
 o-o
 locked hyphen-here up
 o-o
-merchandise,
+nail clippers,
 o-o
 and loaning out
 o-o
@@ -438,13 +438,6 @@ o-o
 that are new
 o-o
 and have value.
-sentence-next
-o-o
-It's the opposite
-o-o
-of losing
-o-o
-knowledge.
 sentence-next
 o-o
 That's what gave
@@ -859,79 +852,24 @@ solution.
 end-lyric
 
 ambee sings-desha amenn
-Isn't
+Isn't the
 o-o
-socialism
+cooperation
 o-o
-better than
+of socialism
+o-o
+better than the
+o-o
+competition of
 o-o
 capitalism?
-sentence-next
-o-o
-Because it's
-o-o
-based on
-o-o
-cooperation?
 end-lyric
 
 ambee sings-econhist amenn
-No because
-o-o
-free markets
-o-o
-more quickly
-o-o
-respond to
-o-o
-fast changes in
-o-o
-supply and
-o-o
-demand.
+No.
 sentence-next
 o-o
-Socialism
-o-o
-attempts to
-o-o
-control
-o-o
-markets
-o-o
-from the top down
-o-o
-using constraints,
-o-o
-such as laws,
-o-o
-quotas,
-o-o
-penalties,
-o-o
-fixed prices,
-o-o
-and law hyphen-here based
-o-o
-transfers
-o-o
-of money.
-sentence-next
-o-o
-But those constraints
-o-o
-can't change as fast
-o-o
-as what happens
-o-o
-at the bottom
-o-o
-of the economy.
-sentence-next
-o-o
-Also
-o-o
-remember that
+Remember that
 o-o
 cooperation
 o-o
@@ -939,21 +877,93 @@ is the very
 o-o
 foundation of
 o-o
-capitalism,
+capitalism.
+sentence-next
 o-o
-where the buyer
+Capitalism
 o-o
-and seller
+is based on
 o-o
-cooperate
+buyers
+o-o
+and sellers
+o-o
+cooperating
 o-o
 based on
 o-o
 supply and
 o-o
-demand,
+demand.
+sentence-next
 o-o
-and fairness.
+It's the addition
+o-o
+of coercion,
+o-o
+unfair
+o-o
+monopolies,
+o-o
+cheating,
+o-o
+and corruption
+o-o
+you dislike.
+sentence-next
+o-o
+Those arise
+o-o
+because we use
+o-o
+a primitive
+o-o
+election system.
+sentence-next
+o-o
+As for
+o-o
+socialism,
+o-o
+it attempts to
+o-o
+control
+o-o
+markets
+o-o
+from the top down
+o-o
+using
+o-o
+law hyphen-here based
+o-o
+transfers
+o-o
+of money,
+o-o
+and quotas,
+o-o
+penalties,
+o-o
+and price fixing.
+sentence-next
+o-o
+Those constraints
+o-o
+are also
+o-o
+inefficient.
+sentence-next
+o-o
+And they are so
+o-o
+disliked that
+o-o
+black markets
+o-o
+arise to
+o-o
+compensate.
 end-lyric
 
 ambee sings-damien amenn
@@ -962,9 +972,6 @@ o-o
 if I'm
 o-o
 understanding.
-sentence-next
-o-o
-...
 sentence-next
 o-o
 A free and
@@ -1098,7 +1105,7 @@ Yes.
 o-o
 And sadly
 o-o
-those who
+lots of those who
 o-o
 fight for the
 o-o
@@ -1279,9 +1286,11 @@ corruption.
 end-lyric
 
 ambee sings-desha amenn
-Now we just
+Now we express
 o-o
-create
+our distress
+o-o
+by creating
 o-o
 animated
 o-o
@@ -1291,19 +1300,9 @@ about disliked
 o-o
 politicians
 o-o
-getting
+tumbling down
 o-o
-exposed as
-o-o
-criminals,
-o-o
-overweight
-o-o
-losers,
-o-o
-or at least
-o-o
-hypocrites.
+airplane stairs.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1684,27 +1683,27 @@ end-lyric
 ambee sings-econhist amenn
 No because
 o-o
-what they create
+they only sell to
 o-o
-is available
+local customers,
 o-o
-in any city.
-sentence-next
+they sure don't
 o-o
-And they send
+attract tourists,
+o-o
+and McDonalds
+o-o
+headquarters
+o-o
+extorts
 o-o
 lots of money
 o-o
-to McDonalds
+for milkshake
 o-o
-headquarters.
-sentence-next
+machine
 o-o
-Plus they only
-o-o
-sell to local
-o-o
-customers.
+repairs.
 sentence-next
 o-o
 In contrast,
@@ -1782,15 +1781,15 @@ composers,
 o-o
 and
 o-o
-writers,
-o-o
-because
-o-o
-they create
+writers.
+end-lyric
+
+ambee sings-damien amenn
+Because they create
 o-o
 valuable
 o-o
-things such as
+things like
 o-o
 songs,
 o-o
@@ -1800,13 +1799,27 @@ videos,
 o-o
 paintings,
 o-o
-and jewelry.
+and bizzare
+o-o
+jewelry?
+end-lyric
+
+ambee sings-desha amenn
+You've got it.
 end-lyric
 
 ambee sings-econhist amenn
-Yes if it's
+If the tax break
 o-o
-well designed.
+is well designed,
+o-o
+yes it will
+o-o
+benefit
+o-o
+those kinds of
+o-o
+businesses.
 end-lyric
 
 ambee sings-damien amenn
@@ -1870,9 +1883,15 @@ sentence-next
 o-o
 There might be times
 o-o
-when you think
+when you,
 o-o
-name-damien deserves to be
+name-desha no-space ,
+o-o
+think you,
+o-o
+name-damien no-space ,
+o-o
+deserves to be
 o-o
 spanked,
 o-o
@@ -1945,32 +1964,29 @@ And corporations,
 o-o
 even if they're small,
 o-o
-would pay much
+are taker
 o-o
-higher taxes,
+businesses,
 o-o
 right?
 end-lyric
 
 ambee sings-econhist amenn
-Only some corporations
-o-o
-would pay higher
-o-o
-taxes.
-sentence-next
-o-o
-Other corporations
+Some corporations
 o-o
 create lots of
 o-o
-valuable products
+valuable
+o-o
+products
 o-o
 and services,
 o-o
-and they would pay
+so those are
 o-o
-lower taxes.
+maker
+o-o
+businesses.
 end-lyric
 
 ambee sings-desha amenn

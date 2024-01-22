@@ -2,7 +2,7 @@ begin-title
 Thanks from the Author
 end-title
 
-begin-basic-paragraph
+begin-standard-paragraph
 Here's a big thank you to these skilled editors and reviewers:
 George "Vonnegut" (a comedy writing genius on Fiverr),
 Cynthia S.,
@@ -11,30 +11,30 @@ Eduard H.,
 Matt Y.,
 Mia M.,
 and probably other's I've forgotten.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Here's a big thank you to the artists who contributed to creating the cover images of name-damien and name-desha no-space :
 sentence-next
 @wassaykhan on Fiverr (line drawings of name-damien no-space 's head and name-desha no-space 's head),
 @ainoarts on Fiverr (2D visualization of 3D postures),
 Xoee C. (fashion and body sketch of Desha),
 Kate Dorokhova on Fiverr (final drawings)
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Thanks to the software volunteers who created and support the free hyphen-here to hyphen-here use Inkscape app (for vector graphic editing) and Gimp app (for pixel graphic editing), which the author used to create the non hyphen-here character parts of the cover art.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Thanks to the people who created these very useful websites:
 RhymeZone.com,
 Rhymer.com,
 TheFreeDictionary.com (thesaurus)
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Here's a special posthumous thank you to caregiver
 Lottie Klock
 who taught me joy by giving me unconditional love during infancy.
-end-basic-paragraph
+end-standard-paragraph

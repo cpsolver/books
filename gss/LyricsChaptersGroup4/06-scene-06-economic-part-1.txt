@@ -2889,14 +2889,18 @@ Ah,
 o-o
 fighting
 o-o
-also wastes
+wastes
 o-o
-time, money,
+resources,
 o-o
-resources, ...
+money,
+o-o
+and time.
 sentence-next
 o-o
-... and lives.
+Not just
+o-o
+lives.
 end-lyric
 
 ambee sings-damien amenn

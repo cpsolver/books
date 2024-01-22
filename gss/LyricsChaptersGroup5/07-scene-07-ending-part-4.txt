@@ -482,21 +482,30 @@ o-o
 the region.
 sentence-next
 o-o
-That includes
+Of course
 o-o
-businesses that
+that includes
 o-o
-involve software,
+manufacturing
 o-o
-art, making things,
+businesses.
+sentence-next
 o-o
-manufacturing,
+Also it can
+o-o
+be businesses
+o-o
+that involve
+o-o
+art,
+o-o
+software,
 o-o
 entertainment,
 o-o
-non hyphen-here chain restaurants,
+and non hyphen-here chain
 o-o
-and such.
+restaurants.
 end-lyric
 
 ambee sings-vc amenn
@@ -616,20 +625,26 @@ end-lyric
 ambee sings-vc amenn
 Oh, I think I'm
 o-o
-beginning to see.
+beginning
+o-o
+to see.
 sentence-next
 o-o
 Raise taxes on
 o-o
 activities that
 o-o
-drain the economy,
+drain the
+o-o
+local economy,
 o-o
 and reduce taxes
 o-o
 on activities
 o-o
 that enrich the
+o-o
+local
 o-o
 economy.
 end-lyric
@@ -711,19 +726,60 @@ o-o
 everyone.
 sentence-next
 o-o
-Yet we do
+Well,
 o-o
-promote
+maybe not
 o-o
-good deeds
+aliens,
 o-o
-and frown on
+the space kind.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+The aliens
 o-o
-exploitation.
+crossing from
+o-o
+Mexico
+o-o
+certainly
+o-o
+don't deserve
+o-o
+to be welcomed.
+end-lyric
+
+ambee sings-damien amenn
+I suppose
+o-o
+you would have
+o-o
+blocked Tesla,
+o-o
+and Einstein
+o-o
+too?
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Things would have
+o-o
+worked out fine.
 end-lyric
 
 ambee sings-desha amenn
-So the
+You'd be
+o-o
+in the dark
+o-o
+in more ways
+o-o
+than one.
+sentence-next
+o-o
+Anyway,
+o-o
+the
 o-o
 different
 o-o
@@ -1047,7 +1103,10 @@ now is the time
 o-o
 to prevent it
 o-o
-by caring
+from happening.
+sentence-next
+o-o
+By caring
 o-o
 about how many
 o-o
@@ -1218,7 +1277,9 @@ people would be less
 o-o
 attracted to
 o-o
-soul hyphen-here sucking
+higher paid,
+o-o
+but soul hyphen-here sucking,
 o-o
 jobs in
 o-o
@@ -1400,17 +1461,19 @@ I hadn't
 o-o
 realized
 o-o
-that what I pay
+that what other
 o-o
-to my employees
+businesses
 o-o
-would matter
+pay to their
 o-o
-to other
+employees
 o-o
-business
+matters
 o-o
-owners.
+to my
+o-o
+business.
 end-lyric
 
 ambee sings-damien amenn

@@ -2,11 +2,11 @@ begin-heading
 Stuffy Info for Lawyers and Librarians
 end-heading
 
-begin-basic-paragraph
+begin-standard-paragraph
 Draft version 2024-January-17
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Published by:
 line-break
 Solutions Through Innovation
@@ -16,9 +16,9 @@ line-break
 Portland, OR 97280-0003
 line-break
 www.SolutionsCreative.com
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 &#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.
 sentence-next
 No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.
@@ -26,35 +26,35 @@ sentence-next
 No text or images in this book may be used to train any artificial intelligence (AI) system without written permission from the publisher.
 sentence-next
 Permission to use excerpts in brief reviews is hereby permitted.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Also hereby permitted without cost is creating and publishing an audio or video recording of the dialog performed by actors organized by a non hyphen-here profit organization on the conditions that every published audio and video recording includes the full dialog from the most recent edition without any word changes and that all financial income after expenses exclusively goes to the non hyphen-here profit organization.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 The characters in this story are fictional, based on voices in the author's head, as clarified in the begin-italics About the Author end-italics section.
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
 The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
 sentence-next
 To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free) sources of information.
-end-basic-paragraph
+end-standard-paragraph
 
 
-begin-basic-paragraph
+begin-standard-paragraph
 First Edition, ePub edition, published 2024.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 ISBN 9780963222152
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 BISAC DRA000000 (Drama, General), FIC016000 (Fiction, Humorous, General), POL008000 (Political Science, Political Process, Campaigns &#38; Elections)
-end-basic-paragraph
+end-standard-paragraph

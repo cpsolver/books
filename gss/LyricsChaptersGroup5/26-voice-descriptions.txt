@@ -2,11 +2,11 @@ begin-title
 Voice Actor Casting Suggestions
 end-title
 
-begin-basic-paragraph
+begin-standard-paragraph
 These voice descriptions reveal the author's intention for the character voices.
 sentence-next
 At the end of the list are voice descriptions that apply to all characters.
-end-basic-paragraph
+end-standard-paragraph
 
 ambee sings-damien amenn
 begin-bold name-damien end-bold no-space ,
@@ -88,11 +88,11 @@ sentence-next
 Sounds like a pompous wealthy person.
 end-lyric
 
-begin-basic-paragraph
+begin-standard-paragraph
 Additional characteristics for specific characters are revealed in the dialog.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 begin-bold Voice suggestions for all characters: end-bold
 sentence-next
 The voices should be natural (full hyphen-here throated and conversational), lively (with frequent emotion hyphen-here based pitch inflections although virtually never in the middle of a syllable, and with word hyphen-here specific loudness changes), and smiling (comedic, but not "funny"), without any shouting.
@@ -102,10 +102,10 @@ sentence-next
 When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsciously.
 sentence-next
 The voice acting should not be self hyphen-here conscious.
-end-basic-paragraph
+end-standard-paragraph
 
 combee ****
-begin-basic-paragraph
+begin-standard-paragraph
 The number of beats per measure changes with each measure.
 sentence-next
 The dialog avoids one beat per measure, but this characteristic does occur.
@@ -119,12 +119,12 @@ sentence-next
 Avoid musical instruments with long durations such as wind instruments because they compete with the dialog.
 sentence-next
 Allow each character to be introduced by, or associated with, a different musical instrument.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Find and hire voice actors (later singers) at: CastingCall.club ;
 pay $10 per month for access for a couple of months
-end-basic-paragraph
+end-standard-paragraph
 
 sentence-next
 A directed session em-dash either a phone call or Zoom call em-dash initially may be needed, or else approval of samples is needed.

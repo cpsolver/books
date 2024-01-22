@@ -34,15 +34,28 @@ o-o
 as a base.
 sentence-next
 o-o
-That's what the
-o-o
-ancient
+The ancient
 o-o
 Babylonians
 o-o
-chose.
-sentence-next
+made that choice
 o-o
+to avoid
+o-o
+fractions.
+end-lyric
+
+ambee sings-desha amenn
+It's why an hour
+o-o
+has sixty minutes,
+o-o
+and a minute
+o-o
+has sixty seconds.
+end-lyric
+
+ambee sings-mathprof amenn
 Sixty divides
 o-o
 without remainders
@@ -56,16 +69,6 @@ o-o
 and fifteen and twenty
 o-o
 and thirty.
-sentence-next
-o-o
-That's why an hour
-o-o
-has sixty minutes.
-sentence-next
-o-o
-And why a minute
-o-o
-has sixty seconds.
 end-lyric
 
 ambee sings-damien amenn

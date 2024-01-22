@@ -5,7 +5,7 @@ book-title
 end-italics
 end-title
 
-begin-basic-paragraph
+begin-standard-paragraph
 This story is a comedy, written as dialog.
 sentence-next
 A young carpenter named name-damien struggles to understand why the worlds of business and politics are upside hyphen-here down for himself, his word-fiance no-space , and for his generation.
@@ -17,19 +17,19 @@ sentence-next
 What they learn reveals why the United States Congress lacks a backbone and couldn't escape from a soggy cardboard box lying on its side.
 sentence-next
 In the wild conclusion several worlds collide in surprising ways.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Here's what one reader wrote:
 sentence-next
 "Personally I found myself so much better informed about how the world works."
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 If you are angry at the craziness going on in U.S. politics, if you're frustrated that low wages aren't keeping up with high inflation, if you fear yet more school shootings, and if you recognize that Republican and Democratic members of Congress are acting like candy hyphen-here fueled kids in kindergarten just before nap time, please take time to learn the big secret you'll want to share with your friends.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 Can't wait to learn the secret?
 sentence-next
 The secret in a nutshell is called begin-italics pairwise vote counting end-italics no-space .
@@ -41,10 +41,10 @@ sentence-next
 Read the story to join name-damien and name-desha in their insightful adventure!
 sentence-next
 Then share this secret with your friends.
-end-basic-paragraph
+end-standard-paragraph
 
-begin-basic-paragraph
+begin-standard-paragraph
 To find out about audiobook recordings and video performances of this witty dialog, point your browser to: SolutionsCreative.com
-end-basic-paragraph
+end-standard-paragraph
 
 page-break

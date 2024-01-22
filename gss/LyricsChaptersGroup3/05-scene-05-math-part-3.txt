@@ -596,9 +596,9 @@ the Middle East.
 end-lyric
 
 ambee sings-mathprof amenn
-Paper ballots
+Paper ballots,
 o-o
-with ovals to mark
+with ovals to mark,
 o-o
 work just fine.
 sentence-next
@@ -881,7 +881,7 @@ Especially
 o-o
 in business
 o-o
-and politics.
+and Congress.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -915,6 +915,31 @@ o-o
 using the
 o-o
 clapping tactic.
+end-lyric
+
+ambee sings-damien amenn
+By avoiding
+o-o
+the middle
+o-o
+preference
+o-o
+levels?
+sentence-next
+o-o
+And mostly
+o-o
+using the
+o-o
+highest
+o-o
+and lowest
+o-o
+levels?
+end-lyric
+
+ambee sings-mathprof amenn
+Excellent!
 end-lyric
 
 ambee sings-desha amenn

@@ -1203,7 +1203,9 @@ o-o
 choice ballots.
 sentence-next
 o-o
-Using party
+Measuring
+o-o
+party
 o-o
 popularity
 o-o
