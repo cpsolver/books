@@ -74,22 +74,23 @@ font-size:120%;
 }
 
 p {
-text-indent:-5 em;
-margin-left:5 em;
+line-height:1.7em;
+text-indent:1.5em;
+text-align:left;
+margin-left:0;
 margin-right:0;
-margin-top:5 em;
-margin-bottom:20 em;
-padding-left:0;
-padding-right:0;
+margin-top:1em;
+margin-bottom:1em;
+padding-left:0.5;
+padding-right:0.5;
 padding-top:0;
 padding-bottom:0;
-text-align:justify;
-orphans:3;
-widows:3;
+orphans:2;
+widows:2;
 }
 
 .para_basic{
-text-align:justify;
+text-align:left;
 }
 
 .para_centered{
@@ -100,16 +101,22 @@ text-align:center;
 font-size:110%;
 font-weight: bold;
 vertical-align: text-top;
-padding:2 em;
+padding:0.1em;
 margin-left:0;
-margin-right:3 em;
-margin-top:6 em;
-margin-bottom:6 em;
+margin-right:0.2em;
+margin-top:0.5em;
+margin-bottom:0.8em;
+}
+
+.singer_damien{
+color:white;
+background-color:blue;
+border-radius:0.8em;
 }
 
 .singer_desha{
 background-color:coral;
-border-radius:3 em;
+border-radius:0.5em;
 }
 
 .singer_fiance{
@@ -118,12 +125,6 @@ background-color:yellow;
 
 .singer_mathprof{
 background-color:fuchsia;
-}
-
-.singer_damien{
-color:white;
-background-color:blue;
-border-radius:1 em;
 }
 
 .singer_vc{
