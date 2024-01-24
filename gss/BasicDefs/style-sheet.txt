@@ -77,8 +77,8 @@ font<hyphen_here>size:100%;
 line<hyphen_here>height:1.7em;
 text<hyphen_here>align:left;
 text<hyphen_here>indent:<hyphen_here>1.5em;
-margin<hyphen_here>left:2;
-margin<hyphen_here>right:0.5;
+margin<hyphen_here>left:2em;
+margin<hyphen_here>right:0.5em;
 margin<hyphen_here>top:1em;
 margin<hyphen_here>bottom:1em;
 orphans:2;
@@ -86,6 +86,10 @@ widows:2;
 }
 
 .para_standard{
+text<hyphen_here>indent:0;
+text<hyphen_here>align:left;
+margin<hyphen_here>top:2em;
+margin<hyphen_here>bottom:2em;
 }
 
 .para_centered{
@@ -104,6 +108,10 @@ margin<hyphen_here>left:0;
 margin<hyphen_here>right:0.2em;
 margin<hyphen_here>top:0.5em;
 margin<hyphen_here>bottom:0.8em;
+}
+
+.singer_colon{
+font<hyphen_here>weight: normal;
 }
 
 .singer_damien{

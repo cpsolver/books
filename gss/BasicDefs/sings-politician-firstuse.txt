@@ -3,6 +3,7 @@ no-space
 <span class="singer_politician singer_abbrev"> no-space
 abbrev-politician
 ( no-space Congressman name-politician name-politician-last no-space )
-no-space :
+no-space
+<span class="singer_colon">:</span>
 ambee end-singer amenn
 begin-lyric

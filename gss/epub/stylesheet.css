@@ -76,15 +76,18 @@ line-height:1.7em;
 text-align:left;
 text-indent:-1.5em;
 margin-left:2em;
-margin-right:0.5;
+margin-right:0.5em;
 margin-top:1em;
 margin-bottom:1em;
 orphans:2;
 widows:2;
 }
 
-.para_basic{
+.para_standard{
+text-indent:0;
 text-align:left;
+margin-top:2em;
+margin-bottom:2em;
 }
 
 .para_centered{
@@ -100,6 +103,10 @@ margin-left:0;
 margin-right:0.2em;
 margin-top:0.5em;
 margin-bottom:0.8em;
+}
+
+.singer_colon{
+font-weight: normal;
 }
 
 .singer_damien{

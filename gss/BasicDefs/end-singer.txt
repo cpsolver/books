@@ -1,10 +1,8 @@
-no-space
+no-space </span> no-space
 
 <!--
 ambee lyric-number amenn
 --> 
-
-no-space </span> no-space
 
 ambee numeric-increment lyric-number amenn
 ambee copy-zero-pad-left-to-length lyric-number lyric-number 7 amenn

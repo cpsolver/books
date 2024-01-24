@@ -3,6 +3,7 @@ no-space
 <span class="singer_father_of_fiance singer_abbrev"> no-space
 abbrev-father-of-fiance
 ( no-space name-father-of-fiance no-space )
-no-space :
+no-space
+<span class="singer_colon">:</span>
 ambee end-singer amenn
 begin-lyric

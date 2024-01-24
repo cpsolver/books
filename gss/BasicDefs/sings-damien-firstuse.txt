@@ -3,6 +3,7 @@ no-space
 <span class="singer_damien singer_abbrev"> no-space
 abbrev-damien
 ( no-space name-damien no-space )
-no-space :
+no-space
+<span class="singer_colon">:</span>
 ambee end-singer amenn
 begin-lyric

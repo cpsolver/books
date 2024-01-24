@@ -3,6 +3,7 @@ no-space
 <span class="singer_econhist singer_abbrev"> no-space
 abbrev-econhist
 ( no-space name-econhist no-space )
-no-space :
+no-space
+<span class="singer_colon">:</span>
 ambee end-singer amenn
 begin-lyric
