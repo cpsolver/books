@@ -536,13 +536,13 @@ to politicians.
 end-lyric
 
 ambee sings-desha amenn
-That includes you,
+That includes
 o-o
-name-father-of-fiance no-space ,
+you sir,
 o-o
-and you
+and especially
 o-o
-name-vc no-space .
+you.
 end-lyric
 
 ambee sings-minister amenn
@@ -569,8 +569,10 @@ o-o
 I call him father?
 end-lyric
 
-ambee sings-vc amenn
-We all call him
+ambee sings-fiance amenn
+We're all
+o-o
+calling him
 o-o
 father.
 end-lyric

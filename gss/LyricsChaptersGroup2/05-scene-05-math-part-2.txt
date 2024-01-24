@@ -45,14 +45,25 @@ o-o
 fractions.
 end-lyric
 
-ambee sings-desha amenn
-It's why an hour
+ambee sings-damien amenn
+Now it's clear
 o-o
-has sixty minutes,
+why an hour has
 o-o
-and a minute
+sixty minutes
 o-o
-has sixty seconds.
+and a
+o-o
+minute has
+o-o
+sixty seconds.
+sentence-next
+o-o
+That was done
+o-o
+to avoid
+o-o
+fractions!
 end-lyric
 
 ambee sings-mathprof amenn
@@ -135,11 +146,15 @@ sentence-next
 o-o
 From what I've heard,
 o-o
-algebra's
+learning
 o-o
-the fifth horseman
+algebra
 o-o
-of the apocalypse.
+is as dark
+o-o
+as the path to
+o-o
+Mount Doom.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -582,6 +597,8 @@ composing
 o-o
 beautiful music,
 o-o
+finding soulmates,
+o-o
 managing
 o-o
 employees,
@@ -590,7 +607,7 @@ and,
 o-o
 so far,
 o-o
-cooking.
+peeling oranges.
 end-lyric
 
 ambee sings-damien amenn
@@ -844,6 +861,12 @@ from just
 o-o
 mathematics?
 sentence-next
+o-o
+Now,
+o-o
+I'm shocked
+o-o
+to say,
 o-o
 I'm eager
 o-o

@@ -130,11 +130,9 @@ end-lyric
 ambee sings-mathprof amenn
 Before we
 o-o
-move on to what
+move on to
 o-o
-I think is the
-o-o
-best kind of
+better kinds of
 o-o
 vote counting,
 o-o
@@ -196,13 +194,23 @@ This sounds like
 o-o
 Facebook,
 o-o
-where people can
+where people
 o-o
 upvote
 o-o
-anything and
+entertaining
 o-o
-everything.
+pets and babies,
+o-o
+and fail to
+o-o
+upvote the
+o-o
+real naked truth,
+o-o
+well,
+o-o
+the real truth.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -325,7 +333,7 @@ end-lyric
 ambee sings-desha amenn
 But in general
 o-o
-elections,
+elections
 o-o
 the wrong party
 o-o
@@ -343,28 +351,47 @@ end-lyric
 
 ambee sings-mathprof amenn
 Right.
+end-lyric
+
+ambee sings-desha amenn
+And it seems
+o-o
+similar to
+o-o
+everyone
+o-o
+using the
+o-o
+clapping tactic.
 sentence-next
 o-o
-We need more
+Where clapping
 o-o
-than just one
+is approval,
 o-o
-column of
+and not clapping
 o-o
-ballot ovals
+is disapproval.
+end-lyric
+
+ambee sings-mathprof amenn
+Excellent!
 o-o
-to avoid
+You're understanding
 o-o
-criticism
+the concepts
 o-o
-of the results.
+without getting
+o-o
+distracted
+o-o
+by names.
 end-lyric
 
 ambee sings-damien amenn
-Wait a moment!
-sentence-next
+Wouldn't
 o-o
-Just changing
+just changing
 o-o
 written
 o-o
@@ -372,13 +399,9 @@ directions
 o-o
 on the ballot
 o-o
-would be
+be an easy
 o-o
-an easy change
-o-o
-to make,
-o-o
-right?
+change to make?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -402,17 +425,28 @@ ballot counting.
 end-lyric
 
 ambee sings-desha amenn
+Earlier
+o-o
+you said we need
+o-o
+more than just one
+o-o
+column of
+o-o
+ballot ovals.
+sentence-next
+o-o
 If we're gonna
 o-o
 fight,
 o-o
 let's get it
 o-o
-right!
+right.
 end-lyric
 
 ambee sings-damien amenn
-Then what's the best
+So what's the best
 o-o
 way to count
 o-o

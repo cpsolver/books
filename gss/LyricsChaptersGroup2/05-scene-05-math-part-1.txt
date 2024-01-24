@@ -1073,7 +1073,7 @@ end-lyric
 ambee sings-damien amenn
 Oh,
 o-o
-words can be
+math words can be
 o-o
 powerful.
 end-lyric
@@ -1123,17 +1123,22 @@ daylight hours.
 end-lyric
 
 ambee sings-desha amenn
-So that's why we have
+Needless to say
+o-o
+that's why we have
 o-o
 twenty four hours
 o-o
-per day?
+in a day.
+end-lyric
+
+ambee sings-damien amenn
+Then why did you
+o-o
+say that?
 end-lyric
 
 ambee sings-mathprof amenn
-Indeed.
-sentence-next
-o-o
 The number twelve
 o-o
 can be divided
@@ -1158,9 +1163,9 @@ time is measured
 o-o
 in numbers that
 o-o
-aren't in
+aren't,
 o-o
-multiples
+uh,
 o-o
-of ten.
+decimal.
 end-lyric

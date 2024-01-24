@@ -115,7 +115,9 @@ products.
 end-lyric
 
 ambee sings-vc amenn
-You're right.
+Hmm,
+o-o
+you're right.
 sentence-next
 o-o
 I've been
@@ -302,23 +304,38 @@ o-o
 camps was legal.
 sentence-next
 o-o
-That was done
+And so was
 o-o
-to steal farmland
-o-o
-from the many
-o-o
-Japanese
-o-o
-Americans
-o-o
-who owned lots of
-o-o
-farmland in
+stealing the
 o-o
 Southern
 o-o
-California.
+California
+o-o
+farmland
+o-o
+that was owned
+o-o
+by lots of those
+o-o
+Japanese
+o-o
+Americans.
+sentence-next
+o-o
+But even under
+o-o
+conditions now,
+o-o
+lots of laws
+o-o
+are not
+o-o
+based on ethics
+o-o
+or
+o-o
+morality.
 end-lyric
 
 ambee sings-vc amenn
@@ -1213,7 +1230,9 @@ o-o
 Johnson and Johnson,
 o-o
 Nike,
+o-o
 and
+o-o
 Hollywood
 o-o
 movie studios,
@@ -1474,6 +1493,51 @@ o-o
 to my
 o-o
 business.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Let those other
+o-o
+businesses
+o-o
+take care of
+o-o
+themselves.
+sentence-next
+o-o
+Don't fall for
+o-o
+this socialist
+o-o
+hogwash.
+sentence-next
+o-o
+Plus it will take
+o-o
+way too long
+o-o
+for tax credits
+o-o
+to make a
+o-o
+difference.
+end-lyric
+
+ambee sings-desha amenn
+In real estate
+o-o
+you plan
+o-o
+decades
+o-o
+in advance.
+sentence-next
+o-o
+What you say
+o-o
+and what you do
+o-o
+don't match.
 end-lyric
 
 ambee sings-damien amenn
@@ -1744,7 +1808,7 @@ without assistance
 o-o
 from churches
 o-o
-or governments.
+or government.
 end-lyric
 
 ambee sings-desha amenn
@@ -1835,7 +1899,7 @@ what wives want.
 end-lyric
 
 ambee sings-damien amenn
-Also there will be
+And there will be
 o-o
 fewer strikes
 o-o
@@ -2164,17 +2228,16 @@ a food prep
 o-o
 appliance
 o-o
-would reduce
+might reduce
 o-o
 labor costs
 o-o
 for my favorite
 o-o
-restaurants,
+restaurants.
+sentence-next
 o-o
-so maybe
-o-o
-that would make
+That would make
 o-o
 dining out
 o-o

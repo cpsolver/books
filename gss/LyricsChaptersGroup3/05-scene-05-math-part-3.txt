@@ -195,14 +195,21 @@ method won't work?
 end-lyric
 
 ambee sings-mathprof amenn
-Ah, I should
+Ah,
 o-o
-take a step back.
-sentence-next
+I should
 o-o
-There are two parts
+shine light
 o-o
-to any voting method.
+on the concept
+o-o
+that there are
+o-o
+two parts
+o-o
+to any
+o-o
+voting method.
 sentence-next
 o-o
 There's the ballot
@@ -872,16 +879,19 @@ sentence-next
 o-o
 It seems to be
 o-o
-getting less and less
+getting
 o-o
-fashionable.
-sentence-next
+less and less
 o-o
-Especially
+fashionable
 o-o
-in business
+in business,
 o-o
-and Congress.
+politics,
+o-o
+Congress,
+o-o
+and dating.
 end-lyric
 
 ambee sings-mathprof amenn

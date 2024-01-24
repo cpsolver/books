@@ -3229,7 +3229,9 @@ o-o
 corruption.
 sentence-next
 o-o
-One opposite is
+Yet in a sense
+o-o
+the opposite is
 o-o
 the free market.
 sentence-next
@@ -3244,9 +3246,13 @@ Yeah.
 end-lyric
 
 ambee sings-econhist amenn
-In an ideal free market,
+In an ideal
 o-o
-there are no barriers.
+free market,
+o-o
+there are no
+o-o
+barriers.
 sentence-next
 o-o
 People can choose
@@ -3266,15 +3272,21 @@ That's a fluid,
 o-o
 flexible,
 o-o
-and efficient,
+and efficient
 o-o
 economy.
-sentence-next
+end-lyric
+
+ambee sings-desha amenn
+I'd fight for that!
+end-lyric
+
+ambee sings-econhist amenn
+Unfortunately
 o-o
-But corruption?
-sentence-next
+corruption
 o-o
-That puts up barriers
+puts up barriers
 o-o
 that are chosen
 o-o
@@ -3311,25 +3323,19 @@ organizations,
 o-o
 black markets,
 o-o
-inbred
+inept
 o-o
 bureaucracy,
 o-o
-and basing
+basing
 o-o
 the economy
 o-o
 on trading favors,
 o-o
-like in Russia,
+and murdering
 o-o
-where the
-o-o
-rule of law
-o-o
-doesn't
-o-o
-always rule.
+political enemies.
 sentence-next
 o-o
 Those corrupt
@@ -3378,16 +3384,6 @@ o-o
 I'm glad of that.
 sentence-next
 o-o
-And thank goodness
-o-o
-the rule of law
-o-o
-mostly still works,
-o-o
-even in
-o-o
-New Jersey.
-o-o
 But is there really
 o-o
 less beer drinking
@@ -3405,28 +3401,93 @@ o-o
 fraternal
 o-o
 organization.
+sentence-next
+o-o
+I'll explain that
+o-o
+later.
 end-lyric
 
 ambee sings-damien amenn
-Oh.
+Also explain
+o-o
+later about
+o-o
+trading favors.
+end-lyric
+
+ambee sings-desha amenn
+That part I don't
+o-o
+understand
+o-o
+either.
+end-lyric
+
+ambee sings-econhist amenn
+Trading favors
+o-o
+is what they do
+o-o
+in places like
+o-o
+Russia
+o-o
+where the
+o-o
+rule of law
+o-o
+doesn't
+o-o
+always rule.
+end-lyric
+
+ambee sings-damien amenn
+Thank goodness
+o-o
+the rule of law
+o-o
+mostly
+o-o
+still works here,
+o-o
+even in
+o-o
+New Jersey.
+end-lyric
+
+ambee sings-desha amenn
+On weekdays.
 sentence-next
 o-o
+During daylight.
+end-lyric
+
+ambee sings-damien amenn
 Well,
 o-o
 I think I'm
 o-o
-getting it.
+getting the
+o-o
+general idea.
 sentence-next
 o-o
 Efficiency
 o-o
 and stealing from
 o-o
-foreigners is
+foreigners,
 o-o
-what brings money
+or selling to
 o-o
-into a region.
+foreigners,
+o-o
+is what brings
+o-o
+money into
+o-o
+a region.
 sentence-next
 o-o
 And corruption
@@ -3828,30 +3889,22 @@ Organized
 o-o
 crime is
 o-o
-another kind
+still strong
 o-o
-of corruption.
+in those nations.
 sentence-next
 o-o
-But those
+But name-econhist-nickname
 o-o
-organizations
+can't say that part
 o-o
-don't
+out loud
 o-o
-appreciate
+because he could
 o-o
-extra
+lose more than just
 o-o
-advertising,
-o-o
-so academic
-o-o
-professors
-o-o
-don't like to
-o-o
-talk about them.
+tenure.
 end-lyric
 
 ambee sings-econhist amenn
@@ -3968,38 +4021,17 @@ after most
 o-o
 Catholics and
 o-o
-Protestants,
+Protestants
 o-o
-except
+stopped fighting
 o-o
-the ones in
+one another,
+o-o
+except in
 o-o
 northern
 o-o
-Ireland,
-o-o
-realized
-o-o
-they needed
-o-o
-to abandon
-o-o
-fighting between
-o-o
-those two
-o-o
-religions.
-sentence-next
-o-o
-And they
-o-o
-abandoned
-o-o
-fighting over
-o-o
-language
-o-o
-differences.
+Ireland.
 end-lyric
 
 ambee sings-desha amenn
@@ -4010,37 +4042,39 @@ o-o
 about table
 o-o
 etiquette.
-sentence-next
-o-o
-And European
-o-o
-governments
-o-o
-now allow women
-o-o
-some seats in
-o-o
-parliament
-o-o
-after seeing
-o-o
-American Rosie
-o-o
-the riveters
-o-o
-bail them out
-o-o
-of their
-o-o
-foolish World War
-o-o
-Two.
 end-lyric
 
 ambee sings-econhist amenn
-They are
+And the French,
 o-o
-copying
+Italians,
+o-o
+and Germans
+o-o
+stopped
+o-o
+fighting over
+o-o
+language
+o-o
+supremecy
+o-o
+when they saw
+o-o
+the inferior
+o-o
+English
+o-o
+language was
+o-o
+winning that
+o-o
+fight.
+sentence-next
+o-o
+So basically
+o-o
+they're copying
 o-o
 the clear
 o-o

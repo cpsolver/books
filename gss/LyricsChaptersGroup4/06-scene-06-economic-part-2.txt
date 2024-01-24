@@ -140,40 +140,43 @@ o-o
 that failed
 o-o
 to cure the sick.
-end-lyric
-
-ambee sings-desha amenn
-And their
+sentence-next
 o-o
-version of
+And unknowingly
 o-o
-a trip to
+they spread
 o-o
-Disneyland
+disease faster
 o-o
-was a long
+because
 o-o
-pilgrimage
+their version of
 o-o
-to kneel before
+tourism
 o-o
-the pelvic
+was a trip to
 o-o
-bone of
+kneel before
 o-o
-martyred
+the tomb of
 o-o
-Saint Marty
+Saint Augustine
 o-o
-Sandinage.
-end-lyric
-
-ambee sings-econhist amenn
-Which spread
+of Hippo,
 o-o
-diseases
+rather than
 o-o
-even faster.
+traveling
+o-o
+to Disneyland
+o-o
+to meet
+o-o
+Mickey,
+o-o
+Minnie,
+o-o
+and Pluto.
 end-lyric
 
 ambee sings-damien amenn
@@ -848,7 +851,21 @@ And socialism
 o-o
 isn't a
 o-o
-solution.
+solution
+o-o
+because it yields
+o-o
+corruption
+o-o
+that's worse
+o-o
+than the
+o-o
+corruption
+o-o
+under
+o-o
+capitalism.
 end-lyric
 
 ambee sings-desha amenn
@@ -897,35 +914,23 @@ o-o
 demand.
 sentence-next
 o-o
-It's the addition
+What you dislike
 o-o
-of coercion,
+is the addition
 o-o
-unfair
+of corruption.
+end-lyric
+
+ambee sings-desha amenn
+That makes sense
 o-o
-monopolies,
+so far.
+end-lyric
+
+ambee sings-econhist amenn
+Socialism
 o-o
-cheating,
-o-o
-and corruption
-o-o
-you dislike.
-sentence-next
-o-o
-Those arise
-o-o
-because we use
-o-o
-a primitive
-o-o
-election system.
-sentence-next
-o-o
-As for
-o-o
-socialism,
-o-o
-it attempts to
+attempts to
 o-o
 control
 o-o
@@ -935,46 +940,76 @@ from the top down
 o-o
 using
 o-o
+quotas,
+o-o
+penalties,
+o-o
+subsidies,
+o-o
+price controls,
+o-o
+and other kinds of
+o-o
 law hyphen-here based
 o-o
 transfers
 o-o
-of money,
-o-o
-and quotas,
-o-o
-penalties,
-o-o
-and price fixing.
+of money.
 sentence-next
 o-o
-Those constraints
+It's like
 o-o
-are also
+housing
 o-o
-inefficient.
+associations.
 sentence-next
 o-o
-And they are so
+They adopt lots
 o-o
-disliked that
+of rules,
 o-o
-black markets
+but those
 o-o
-arise to
+constraints
 o-o
-compensate.
+yield lots of
+o-o
+complaints by
+o-o
+the people who
+o-o
+aren't in power.
+sentence-next
+o-o
+In a nation,
+o-o
+citizens
+o-o
+who suffer
+o-o
+economically
+o-o
+can't move out,
+o-o
+so they adopt
+o-o
+workarounds
+o-o
+such as gangs,
+o-o
+black markets,
+o-o
+drug cartels,
+o-o
+trading favors,
+o-o
+and lots of
+o-o
+nepotism.
 end-lyric
 
-ambee sings-damien amenn
-I wanna see
-o-o
-if I'm
-o-o
-understanding.
-sentence-next
-o-o
-A free and
+ambee sings-desha amenn
+So a free and
 o-o
 efficient
 o-o
@@ -987,16 +1022,23 @@ o-o
 to the ocean?
 sentence-next
 o-o
-Instead of
+And socialism
 o-o
-trying to
+is like trying
 o-o
-redirect
+to redirect
 o-o
-rivers.
-sentence-next
+the
 o-o
-Is that right?
+Mississippi
+o-o
+to flow through
+o-o
+Texas
+o-o
+instead of
+o-o
+Louisiana?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1005,38 +1047,20 @@ o-o
 metaphor.
 sentence-next
 o-o
-Where socialism
+Lots of
 o-o
-is like people
+socialists and
 o-o
-taking turns
+communists
 o-o
-trying to
+start out with
 o-o
-redirect
-o-o
-rivers.
+good intentions.
 sentence-next
 o-o
-And communism
+But those get
 o-o
-is like changing
-o-o
-who is in charge
-o-o
-of redirecting
-o-o
-all the rivers.
-o-o
-But typically
-o-o
-any
-o-o
-initially
-o-o
-good intentions
-o-o
-get subverted
+corrupted
 o-o
 by the greedy
 o-o
@@ -1101,19 +1125,72 @@ economy.
 end-lyric
 
 ambee sings-econhist amenn
-Yes.
+Excellent,
 o-o
-And sadly
+yes!
+end-lyric
+
+ambee sings-damien amenn
+So higher
+o-o
+levels of
+o-o
+democracy
+o-o
+will reduce
+o-o
+corruption?
+end-lyric
+
+ambee sings-econhist amenn
+Yes
+o-o
+because
+o-o
+most voters
+o-o
+will vote for
+o-o
+less corruption
+o-o
+when that option
+o-o
+shows up on
+o-o
+the ballot
+o-o
+and has a chance
+o-o
+of winning.
+end-lyric
+
+ambee sings-desha amenn
+Maybe a good
+o-o
+slogan could be
+o-o
+begin-italics
+Full democracy
+o-o
+reduces
+o-o
+corruption
+o-o
+and increases
+o-o
+prosperity end-italics no-space ?
+end-lyric
+
+ambee sings-econhist amenn
+As a word
+o-o
+of warning,
 o-o
 lots of those who
 o-o
-fight for the
+fight against
 o-o
-oppressed,
-o-o
-and against
-o-o
-corruption,
+corruption
 o-o
 get further
 o-o
@@ -1655,9 +1732,13 @@ own forests
 o-o
 for firewood,
 o-o
-so they now
+so now
 o-o
-value their trees.
+they greatly
+o-o
+value trees
+o-o
+and wood.
 end-lyric
 
 ambee sings-damien amenn
@@ -1909,7 +1990,9 @@ it's a fact.
 end-lyric
 
 ambee sings-econhist amenn
-The names I've read
+As for names,
+o-o
+the ones I've read
 o-o
 are maker
 o-o

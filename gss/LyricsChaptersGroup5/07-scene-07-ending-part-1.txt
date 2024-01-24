@@ -134,18 +134,18 @@ sentence-next
 o-o
 The words
 o-o
-you and I think,
+you and I
 o-o
-is down some stairs.
+recite
+o-o
+are down some stairs.
 sentence-next
 o-o
 Those layers
 o-o
-must be
+must rest upon
 o-o
-supported by
-o-o
-deep hyphen-here rooted
+wisely chosen
 o-o
 intentions,
 o-o
@@ -506,15 +506,41 @@ o-o
 and your
 o-o
 laughter.
+end-lyric
+
+ambee sings-vc amenn
+I thought I was
+o-o
+avoiding that
+o-o
+by paying for
+o-o
+no ads.
 sentence-next
 o-o
-Political
+I now realize
+o-o
+I'm still getting
+o-o
+the same news
+o-o
+as the morons
+o-o
+who those ads
+o-o
+are targeted to.
+end-lyric
+
+ambee sings-minister amenn
+Of course
+o-o
+political
 o-o
 interviews
 o-o
 and speeches
 o-o
-portray
+do portray
 o-o
 opponents
 o-o
@@ -781,31 +807,40 @@ sentence-next
 o-o
 Yes there are
 o-o
-a few evil
+a few
 o-o
-people.
+people who
+o-o
+hang onto
+o-o
+pure evil
+o-o
+after
+o-o
+a so hyphen-here called
+o-o
+adult
+o-o
+gave it to them
+o-o
+like a disease
+o-o
+when they were
+o-o
+joyful and young.
 sentence-next
 o-o
-Most of that evil
+Fortunately,
 o-o
-gets passed down
-o-o
-from generation
-o-o
-to generation.
-sentence-next
-o-o
-But it's not
-o-o
-genetic,
-o-o
-so eventually
+eventually,
 o-o
 in a real
 o-o
 democracy
 o-o
-that evil dies out.
+that evil
+o-o
+dies out.
 end-lyric
 
 ambee sings-vc amenn
@@ -966,6 +1001,69 @@ o-o
 you find that
 o-o
 path.
+end-lyric
+
+ambee sings-vc amenn
+Even when
+o-o
+women
+o-o
+seem to assume
+o-o
+every man is
+o-o
+a sexual pervert?
+sentence-next
+o-o
+Where do they get
+o-o
+those ideas?
+end-lyric
+
+ambee sings-minister amenn
+It's like you
+o-o
+having assumed
+o-o
+that evil
+o-o
+is hiding
+o-o
+in most people.
+sentence-next
+o-o
+What someone says
+o-o
+often has
+o-o
+ambiguity,
+o-o
+multiple
+o-o
+meanings.
+sentence-next
+o-o
+Too often we
+o-o
+assume they meant
+o-o
+what we expected.
+sentence-next
+o-o
+In life and
+o-o
+relationships
+o-o
+we need to ask
+o-o
+which meaning
+o-o
+they intended.
+sentence-next
+o-o
+That's why talking
+o-o
+is crucial.
 end-lyric
 
 ambee sings-vc amenn
@@ -1252,20 +1350,15 @@ sentence-next
 o-o
 Women say
 o-o
-they want me.
-sentence-next
+they want me,
 o-o
-But they want
+but actually
 o-o
-unemployment
+they want
 o-o
-and spending
+my money,
 o-o
-my money on
-o-o
-countless shoes,
-o-o
-and outings
+outings
 o-o
 without me,
 o-o
@@ -1537,7 +1630,7 @@ end-lyric
 ambee sings-minister amenn
 You can hear
 o-o
-him laughing
+God laughing
 o-o
 whenever
 o-o
@@ -2061,9 +2154,14 @@ sentence-next
 o-o
 I'm proud of what
 o-o
-I accomplish
+I accomplish.
+sentence-next
 o-o
-while others
+Especially
+o-o
+compared to
+o-o
+most people who
 o-o
 just daydream.
 sentence-next

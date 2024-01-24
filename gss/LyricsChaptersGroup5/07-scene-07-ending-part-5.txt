@@ -331,7 +331,7 @@ I want both.
 end-lyric
 
 ambee sings-damien amenn
-Then it's clear that
+Then it's clear
 o-o
 you value money
 o-o
@@ -977,7 +977,9 @@ o-o
 a lot today.
 sentence-next
 o-o
-Now I see that
+Now I better
+o-o
+realize
 o-o
 I mistook
 o-o
