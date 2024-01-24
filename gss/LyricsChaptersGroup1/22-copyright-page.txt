@@ -3,7 +3,7 @@ Stuffy Info for Lawyers and Librarians
 end-heading
 
 begin-standard-paragraph
-Draft version 2024-January-17
+Draft version 2024-January-23
 end-standard-paragraph
 
 begin-standard-paragraph

@@ -26,9 +26,9 @@ begin-standard-paragraph
 non-breaking-space
 end-standard-paragraph
 
-begin-subtitle
+begin-paragraph-centered
 Also by Richard Fobes
-end-subtitle
+end-paragraph-centered
 
 begin-subtitle
 begin-italics

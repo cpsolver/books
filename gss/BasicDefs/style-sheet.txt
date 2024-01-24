@@ -56,15 +56,16 @@ page<hyphen_here>break<hyphen_here>after:avoid;
 }
 
 h1 {
-font<hyphen_here>size:250%;
+font<hyphen_here>size:200%;
+break<hyphen_here>before:right;
 }
 
 h2 {
-font<hyphen_here>size:200%;
+font<hyphen_here>size:150%;
 }
 
 h3 {
-font<hyphen_here>size:150%;
+font<hyphen_here>size:130%;
 }
 
 h4 {
@@ -72,17 +73,14 @@ font<hyphen_here>size:120%;
 }
 
 p {
+font<hyphen_here>size:100%;
 line<hyphen_here>height:1.7em;
 text<hyphen_here>align:left;
 text<hyphen_here>indent:<hyphen_here>1.5em;
-margin<hyphen_here>left:0;
-margin<hyphen_here>right:0;
+margin<hyphen_here>left:2;
+margin<hyphen_here>right:0.5;
 margin<hyphen_here>top:1em;
 margin<hyphen_here>bottom:1em;
-padding<hyphen_here>left:0.5em;
-padding<hyphen_here>right:0.5em;
-padding<hyphen_here>top:0;
-padding<hyphen_here>bottom:0;
 orphans:2;
 widows:2;
 }

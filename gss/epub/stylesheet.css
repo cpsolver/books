@@ -13,10 +13,6 @@ font-size: 100%;
 vertical-align: baseline;
 background: transparent; }
 
-@page {
-margin: 5 px !important;
-}
-
 body {
 font-family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans-serif;
 font-size:100%;
@@ -58,15 +54,16 @@ page-break-after:avoid;
 }
 
 h1 {
-font-size:250%;
+font-size:200%;
+break-before:right;
 }
 
 h2 {
-font-size:200%;
+font-size:150%;
 }
 
 h3 {
-font-size:150%;
+font-size:130%;
 }
 
 h4 {
@@ -74,17 +71,14 @@ font-size:120%;
 }
 
 p {
+font-size:100%;
 line-height:1.7em;
-text-indent:1.5em;
 text-align:left;
-margin-left:0;
-margin-right:0;
+text-indent:-1.5em;
+margin-left:2em;
+margin-right:0.5;
 margin-top:1em;
 margin-bottom:1em;
-padding-left:0.5;
-padding-right:0.5;
-padding-top:0;
-padding-bottom:0;
 orphans:2;
 widows:2;
 }
