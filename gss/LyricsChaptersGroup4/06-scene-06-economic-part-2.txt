@@ -110,73 +110,49 @@ end-lyric
 ambee sings-econhist amenn
 Indeed,
 o-o
-priests lost
-o-o
-lots of
-o-o
-credibility,
-o-o
-plus their lives,
-o-o
 during the
 o-o
 European
 o-o
-black death
+black death,
+o-o
+priests lost their
+o-o
+credibility
+o-o
+by failing to
+o-o
+cure the sick with
+o-o
+holy water,
+o-o
+they lost their lives
 o-o
 by praying
 o-o
 at the bedside
 o-o
-of the dying.
-sentence-next
+of the dying,
 o-o
-And because
+and they lost their
 o-o
-they sold
+congregations
 o-o
-holy water
+when pilgrims
 o-o
-that failed
+caught the
 o-o
-to cure the sick.
-sentence-next
+disease on
 o-o
-And unknowingly
+pilgrimages
 o-o
-they spread
-o-o
-disease faster
-o-o
-because
-o-o
-their version of
-o-o
-tourism
-o-o
-was a trip to
-o-o
-kneel before
+to visit
 o-o
 the tomb of
 o-o
 Saint Augustine
 o-o
-of Hippo,
-o-o
-rather than
-o-o
-traveling
-o-o
-to Disneyland
-o-o
-to meet
-o-o
-Mickey,
-o-o
-Minnie,
-o-o
-and Pluto.
+of Hippo.
 end-lyric
 
 ambee sings-damien amenn
@@ -189,6 +165,21 @@ o-o
 medical
 o-o
 school.
+sentence-next
+o-o
+And they
+o-o
+couldn't go to
+o-o
+Disneyland
+o-o
+to meet
+o-o
+Mickey,
+o-o
+Minnie,
+o-o
+and Pluto.
 sentence-next
 o-o
 Got it.
@@ -212,6 +203,8 @@ o-o
 education,
 o-o
 government,
+o-o
+Disneyland,
 o-o
 and the
 o-o
@@ -364,13 +357,13 @@ I had to
 o-o
 deal with cash,
 o-o
-unlocking
+unlock
 o-o
 locked hyphen-here up
 o-o
 nail clippers,
 o-o
-and loaning out
+and loan out
 o-o
 the filthy
 o-o
@@ -420,11 +413,11 @@ Especially
 o-o
 because he
 o-o
-steals wages
+steals wages,
 o-o
-and
+bathroom breaks,
 o-o
-bathroom breaks
+and joy
 o-o
 from his
 o-o
@@ -443,13 +436,17 @@ o-o
 and have value.
 sentence-next
 o-o
-That's what gave
+The Islamic
 o-o
-strength to the
+Golden Age
 o-o
-Islamic
+demonstrated
 o-o
-Golden Age.
+the economic
+o-o
+benefits
+o-o
+of innovation.
 end-lyric
 
 ambee sings-damien amenn
@@ -966,11 +963,10 @@ sentence-next
 o-o
 They adopt lots
 o-o
-of rules,
+of rules.
+sentence-next
 o-o
-but those
-o-o
-constraints
+But constraints
 o-o
 yield lots of
 o-o
@@ -1031,6 +1027,8 @@ o-o
 the
 o-o
 Mississippi
+o-o
+River
 o-o
 to flow through
 o-o
@@ -1131,23 +1129,19 @@ yes!
 end-lyric
 
 ambee sings-damien amenn
-So higher
+How will higher
 o-o
 levels of
 o-o
 democracy
 o-o
-will reduce
+reduce
 o-o
 corruption?
 end-lyric
 
 ambee sings-econhist amenn
-Yes
-o-o
-because
-o-o
-most voters
+Most voters
 o-o
 will vote for
 o-o
@@ -1178,7 +1172,31 @@ corruption
 o-o
 and increases
 o-o
+widespread
+o-o
 prosperity end-italics no-space ?
+end-lyric
+
+ambee sings-damien amenn
+Don't most voters
+o-o
+think we
+o-o
+already have
+o-o
+democracy
+o-o
+because
+o-o
+everyone
+o-o
+can vote?
+end-lyric
+
+ambee sings-desha amenn
+Dang,
+o-o
+you're right.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1466,50 +1484,16 @@ sentence-next
 o-o
 State governments
 o-o
-use taxes to
+use alcohol taxes
 o-o
-discourage us
+to discourage us
 o-o
-from smoking
+from becoming
 o-o
-tobacco
-o-o
-and drinking
-o-o
-too much
-o-o
-alcohol.
-end-lyric
-
-ambee sings-damien amenn
-Ah.
+alcoholics.
 sentence-next
 o-o
-The IRS
-o-o
-uses tax breaks
-o-o
-to tell us
-o-o
-to get married,
-o-o
-buy a house,
-o-o
-save for
-o-o
-retirement,
-o-o
-and 
-o-o
-become a
-o-o
-back hyphen-here broken
-o-o
-farmer.
-end-lyric
-
-ambee sings-desha amenn
-Wall Street
+And Wall Street
 o-o
 executives
 o-o
@@ -1524,6 +1508,25 @@ o-o
 to financial
 o-o
 corruption.
+end-lyric
+
+ambee sings-damien amenn
+Ah.
+sentence-next
+o-o
+The IRS
+o-o
+wants us
+o-o
+to get married,
+o-o
+buy a house,
+o-o
+get pregnant,
+o-o
+and raise a
+o-o
+farmer.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1642,7 +1645,7 @@ end-lyric
 ambee sings-econhist amenn
 Under our current
 o-o
-election system
+election system,
 o-o
 lobbyists
 o-o
@@ -1720,7 +1723,7 @@ o-o
 the loss of trees.
 sentence-next
 o-o
-Speaking of which
+Speaking of which,
 o-o
 long ago
 o-o
@@ -1818,9 +1821,11 @@ end-lyric
 ambee sings-desha amenn
 What if the
 o-o
-place makes
+small restaurant
 o-o
-just jello,
+just makes
+o-o
+jello,
 o-o
 soggy fries,
 o-o
@@ -1862,13 +1867,11 @@ composers,
 o-o
 and
 o-o
-writers.
-end-lyric
-
-ambee sings-damien amenn
-Because they create
+writers
 o-o
-valuable
+because
+o-o
+those folks create
 o-o
 things like
 o-o
@@ -1882,11 +1885,7 @@ paintings,
 o-o
 and bizzare
 o-o
-jewelry?
-end-lyric
-
-ambee sings-desha amenn
-You've got it.
+jewelry.
 end-lyric
 
 ambee sings-econhist amenn
@@ -2017,7 +2016,7 @@ businesses.
 end-lyric
 
 ambee sings-desha amenn
-So the taker
+The taker
 o-o
 businesses
 o-o
@@ -2025,15 +2024,15 @@ would include
 o-o
 law firms,
 o-o
-real hyphen-here estate
-o-o
-developers,
+pawn shops,
 o-o
 payday loan
 o-o
 companies,
 o-o
-and pawn shops,
+and real hyphen-here estate
+o-o
+developers,
 o-o
 right?
 end-lyric
@@ -2063,13 +2062,14 @@ valuable
 o-o
 products
 o-o
-and services,
+and services.
+sentence-next
 o-o
-so those are
+That kind is a
 o-o
 maker
 o-o
-businesses.
+business.
 end-lyric
 
 ambee sings-desha amenn
@@ -2078,7 +2078,7 @@ o-o
 create value?
 sentence-next
 o-o
-I thought that all
+I thought all
 o-o
 corporations
 o-o
@@ -2292,7 +2292,7 @@ vacation
 o-o
 homes,
 o-o
-ego hyphen-here inflating
+ego hyphen-here inflated
 o-o
 yachts,
 o-o
@@ -2346,13 +2346,15 @@ end-lyric
 ambee sings-econhist amenn
 Can you not think
 o-o
-of any wealthy
+of any
 o-o
-people who deserve
+business owners
+o-o
+who deserve
 o-o
 to earn lots of
 o-o
-money for their work?
+money?
 end-lyric
 
 ambee sings-damien amenn
@@ -2949,23 +2951,34 @@ when they
 o-o
 criticize
 o-o
+corruption by
+o-o
 the people
 o-o
 in power.
 end-lyric
 
 ambee sings-econhist amenn
-Yes,
+Yes.
+sentence-next
 o-o
-and wannabe
+And why
+o-o
+wannabe
 o-o
 dictators
 o-o
-hire
+get assistance
+o-o
+from Russian
+o-o
+and Chinese
+o-o
+hackers
+o-o
+who exploit
 o-o
 social media
-o-o
-influencers
 o-o
 to spread
 o-o
@@ -2981,11 +2994,7 @@ memes
 o-o
 that support
 o-o
-politicians
-o-o
-who speak kindly
-o-o
-about those
+wannabe
 o-o
 dictators.
 end-lyric

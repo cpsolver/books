@@ -679,27 +679,30 @@ o-o
 business owners.
 sentence-next
 o-o
-If both
+It's likely 
 o-o
-of those winners
+that the winners
 o-o
-are male
+will include
 o-o
-and white,
+at least one
 o-o
-likely the
+woman.
+sentence-next
 o-o
-third seat
+In a typical
 o-o
-will be
+big city,
 o-o
-a woman
+at least one
 o-o
-or a
+minority
 o-o
-minority,
+candidate
 o-o
-or both.
+is likely to win
+o-o
+a seat.
 end-lyric
 
 ambee sings-desha amenn
@@ -1036,7 +1039,9 @@ campaign contributions.
 end-lyric
 
 ambee sings-mathprof amenn
-And you'll hear
+And you're likely
+o-o
+to hear
 o-o
 about
 o-o

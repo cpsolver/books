@@ -3246,16 +3246,48 @@ Yeah.
 end-lyric
 
 ambee sings-econhist amenn
-In an ideal
+An ideal
 o-o
-free market,
+free market
 o-o
-there are no
+is very
 o-o
-barriers.
+efficient
+o-o
+because it's
+o-o
+fluid and
+o-o
+flexible.
 sentence-next
 o-o
-People can choose
+It's also
+o-o
+impossible.
+o-o
+Yet we can get
+o-o
+much closer
+o-o
+than where
+o-o
+we are now.
+sentence-next
+o-o
+We just need to
+o-o
+remove
+o-o
+unfair
+o-o
+artificial
+o-o
+boundaries.
+sentence-next
+o-o
+Then people
+o-o
+are free to choose
 o-o
 what to buy,
 o-o
@@ -3266,15 +3298,6 @@ o-o
 and whatever else,
 o-o
 without fighting.
-sentence-next
-o-o
-That's a fluid,
-o-o
-flexible,
-o-o
-and efficient
-o-o
-economy.
 end-lyric
 
 ambee sings-desha amenn
@@ -3891,7 +3914,13 @@ crime is
 o-o
 still strong
 o-o
-in those nations.
+in those
+o-o
+economically
+o-o
+weaker
+o-o
+nations.
 sentence-next
 o-o
 But name-econhist-nickname

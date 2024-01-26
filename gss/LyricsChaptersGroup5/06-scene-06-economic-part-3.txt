@@ -442,7 +442,7 @@ o-o
 look like?
 sentence-next
 o-o
-How would it work?
+How will it work?
 end-lyric
 
 ambee sings-econhist amenn
@@ -450,7 +450,7 @@ Some kinds of
 o-o
 businesses
 o-o
-would get
+will get
 o-o
 a big extra
 o-o
@@ -591,7 +591,7 @@ are sharing
 o-o
 more of the profits
 o-o
-with the employees
+with their employees
 o-o
 who get the
 o-o
@@ -645,7 +645,7 @@ o-o
 gender gap.
 sentence-next
 o-o
-Remember that
+Remember,
 o-o
 a higher
 o-o
@@ -657,7 +657,7 @@ choose to become
 o-o
 dental hygienists
 o-o
-instead of
+rather than
 o-o
 dentists,
 o-o
@@ -667,7 +667,7 @@ performers
 o-o
 on Broadway
 o-o
-instead of
+rather than
 o-o
 traders
 o-o
@@ -679,51 +679,55 @@ And public
 o-o
 school teachers
 o-o
-instead of
+rather than
 o-o
-rich nitwits.
+rich nitwit
+o-o
+real estate
+o-o
+developers.
 sentence-next
 o-o
-Yeah,
+Yes,
 o-o
-I suppose
-o-o
-that fits.
+this fits.
 sentence-next
 o-o
-It could be
+Finally
 o-o
-a path to pushing
+women
 o-o
-business owners
+will get a
 o-o
-into sharing
+long overdue
 o-o
-more of their
+pay lift!
+sentence-next
 o-o
-profits
+I'm seeing
 o-o
-with their
+a bright
 o-o
-employees.
+future now.
 end-lyric
 
 ambee sings-damien amenn
-And it would
+And I bet
 o-o
-improve
-o-o
-efficiency
-o-o
-because there
-o-o
-would be
+there would be
 o-o
 fewer labor
 o-o
 strikes,
 o-o
 right?
+sentence-next
+o-o
+That would
+o-o
+further increase
+o-o
+efficiency.
 end-lyric
 
 ambee sings-econhist amenn
@@ -777,40 +781,39 @@ will spend
 o-o
 most of that
 o-o
-locally
+money
 o-o
-instead of in
+locally.
+sentence-next
+o-o
+Instead of
 o-o
 far away places,
 o-o
-like
+like trout hyphen-here fishing lakes,
+o-o
+cyberspace
+o-o
+shoestores,
+o-o
+and the
 o-o
 Disneyland
 o-o
-and
-o-o
-Paris.
-sentence-next
-o-o
-And buying stuff
-o-o
-that has to be
-o-o
-transported
-o-o
-from far away.
+in Paris.
 end-lyric
 
 ambee sings-desha amenn
-And women
+Women
 o-o
 will spend
 o-o
-the extra money
+the money less
 o-o
-less
+selfishly.
+sentence-next
 o-o
-selfishly,
+They'll use it
 o-o
 to benefit
 o-o
@@ -821,20 +824,43 @@ o-o
 community.
 end-lyric
 
+ambee sings-damien amenn
+Admittedly
+o-o
+lots of
+o-o
+single men
+o-o
+will waste it on
+o-o
+virtual
+o-o
+cyber
+o-o
+mistresses.
+end-lyric
+
 ambee sings-econhist amenn
-And it would
+There's another
 o-o
-reduce government
+advantage.
+sentence-next
 o-o
-costs for
+Smaller wage gaps
 o-o
-the handouts
+will reduce
+o-o
+the cost of
+o-o
+government
+o-o
+handouts
 o-o
 that
 o-o
-small hyphen-here government
+Republicans
 o-o
-advocates
+like to
 o-o
 complain about.
 end-lyric
@@ -844,11 +870,9 @@ Finally,
 o-o
 something
 o-o
-much better
+more useful
 o-o
-than just getting
-o-o
-named
+than getting named
 o-o
 employee
 o-o
@@ -1049,9 +1073,9 @@ open patent
 o-o
 system
 o-o
-would help.
+will help.
 o-o
-That could exist
+That will exist
 o-o
 alongside
 o-o
@@ -1465,16 +1489,16 @@ that's our
 o-o
 evil
 o-o
-enemy.
+enemy?
 sentence-next
 o-o
 And why Congress
 o-o
-has become
+follows
 o-o
-a circus
+the motto
 o-o
-full of clowns.
+begin-italics Keep Congress Weird end-italics no-space ?
 end-lyric
 
 ambee sings-econhist amenn
@@ -1554,14 +1578,14 @@ sentence-next
 o-o
 The process
 o-o
-would use sunlight
+will use sunlight
 o-o
 as the
 o-o
 energy source.
 sentence-next
 o-o
-It would get
+It will get
 o-o
 carbon from
 o-o
@@ -1575,7 +1599,7 @@ Which we have too much of.
 end-lyric
 
 ambee sings-econhist amenn
-... and it would get 
+... and it will get 
 o-o
 hydrogen
 o-o
@@ -2058,13 +2082,13 @@ concept?
 end-lyric
 
 ambee sings-desha amenn
-So shareholders
+Shareholders
 o-o
 are shooting
 o-o
-themselves
+bullets at
 o-o
-in their share of
+their share of
 o-o
 cherry pie
 o-o
@@ -2823,7 +2847,7 @@ The open patent
 o-o
 I mentioned
 o-o
-would help.
+will help.
 end-lyric
 
 ambee sings-damien amenn
@@ -3653,62 +3677,37 @@ o-o
 grandchildren.
 sentence-next
 o-o
-And get it right!
+And help spread it
+o-o
+around the world
+o-o
+where suffering
+o-o
+is even worse.
 sentence-next
 o-o
-Less corruption
+That will help
 o-o
-would help
+the future
 o-o
-nearly everyone.
-sentence-next
-o-o
-And the few who
-o-o
-lose will still
-o-o
-have their huge
-o-o
-bank accounts,
-o-o
-so they and their
-o-o
-families won't
-o-o
-suffer.
-sentence-next
-o-o
-And then it will
-o-o
-spread to other
-o-o
-countries around
-o-o
-the world where
-o-o
-suffering is
-o-o
-even worse.
-sentence-next
-o-o
-And that will help
-o-o
-the grandchildren
+grandchildren
 o-o
 of my cousins
 o-o
 who live in India.
 sentence-next
 o-o
-In advance
+The few who lose
 o-o
-thank you for
+will still have
 o-o
-helping their
+huge bank accounts,
 o-o
-offspring
+so they and their
 o-o
-and mine.
+families won't
+o-o
+suffer.
 end-lyric
 
 ambee sings-desha amenn

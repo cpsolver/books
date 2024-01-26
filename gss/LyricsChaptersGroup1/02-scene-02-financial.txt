@@ -1843,9 +1843,9 @@ ambee sings-vc amenn
 Indeed.
 sentence-next
 o-o
-And that has
+And that
 o-o
-qualified me
+qualifies me
 o-o
 to become a
 o-o
@@ -2599,7 +2599,7 @@ for a record deal?
 end-lyric
 
 ambee sings-vc amenn
-Sometimes
+Often
 o-o
 that was a perk.
 sentence-next
@@ -2636,7 +2636,11 @@ sentence-next
 o-o
 And with it went
 o-o
-lots of profit.
+lots of profit,
+o-o
+status,
+o-o
+and perks.
 sentence-next
 o-o
 Now,
@@ -3206,7 +3210,9 @@ like Turbo Tax
 o-o
 and Quickbooks
 o-o
-pay lobbyists
+pay members
+o-o
+of Congress
 o-o
 to keep tax laws
 o-o
@@ -3405,7 +3411,10 @@ profit.
 end-lyric
 
 ambee sings-damien amenn
-Could you teach me
+That sounds slick.
+sentence-next
+o-o
+Can you teach me
 o-o
 that trick?
 end-lyric

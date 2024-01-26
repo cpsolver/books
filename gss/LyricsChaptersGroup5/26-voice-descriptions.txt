@@ -135,9 +135,8 @@ Delivery must be high hyphen-here resolution WAV format.
 **** comenn
 
 combee ****
-Bug fix for some ebook readers, insert page break at end
+Below is bug fix for some ebook readers, inserts page break at end of book
 **** comenn
 
-begin-title
-non-breaking-space
-end-title
+<h1>&#160;</h1>
+<p>&#160;</p>
