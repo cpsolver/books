@@ -102,11 +102,14 @@ text<hyphen_here>align:center;
 .singer_abbrev{
 font<hyphen_here>size:110%;
 font<hyphen_here>weight: bold;
-vertical<hyphen_here>align: text<hyphen_here>top;
-padding:0.1em;
+vertical<hyphen_here>align: baseline;
+padding<hyphen_here>top:0.1em;
+padding<hyphen_here>bottom:0.2em;
+padding<hyphen_here>left:0.2em;
+padding<hyphen_here>right:0.2em
 margin<hyphen_here>left:0;
 margin<hyphen_here>right:0.2em;
-margin<hyphen_here>top:0.5em;
+margin<hyphen_here>top:0.4em;
 margin<hyphen_here>bottom:0.8em;
 }
 
