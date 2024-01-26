@@ -1274,9 +1274,13 @@ ambee sings-desha amenn
 Let me guess.
 sentence-next
 o-o
-Feedback loops are
+Feedback loops,
 o-o
-keeping those things
+bad ones,
+o-o
+are keeping
+o-o
+those things
 o-o
 from getting
 o-o
@@ -1316,7 +1320,9 @@ vote splitting
 o-o
 is just one part
 o-o
-of a feedback loop
+of a bad
+o-o
+feedback loop
 o-o
 that keeps owners
 o-o
@@ -1451,7 +1457,7 @@ o-o
 elections.
 sentence-next
 o-o
-So it's that
+So it's that bad
 o-o
 feedback loop
 o-o
@@ -1660,17 +1666,19 @@ research.
 end-lyric
 
 ambee sings-damien amenn
-Oh,
+Ah,
 o-o
-more feedback
+more bad feedback
 o-o
 loops.
 end-lyric
 
 ambee sings-desha amenn
-Instead it's
+This time it's
 o-o
 the lack of a
+o-o
+good
 o-o
 feedback loop.
 end-lyric
@@ -1800,7 +1808,7 @@ sentence-next
 o-o
 Look for a way
 o-o
-to break the
+to break the bad
 o-o
 feedback loops
 o-o
@@ -1901,6 +1909,8 @@ Democracy
 o-o
 itself is a
 o-o
+good
+o-o
 feedback loop.
 sentence-next
 o-o
@@ -1961,11 +1971,13 @@ a bad thing.
 end-lyric
 
 ambee sings-damien amenn
-Feedback loops
+I'm learning that
 o-o
-are not always
+feedback loops
 o-o
-bad?
+are sometimes bad
+o-o
+and sometimes good.
 end-lyric
 
 ambee sings-econhist amenn
@@ -2052,7 +2064,9 @@ are shooting
 o-o
 themselves
 o-o
-in the feet
+in their share of
+o-o
+cherry pie
 o-o
 by not
 o-o
@@ -2313,13 +2327,11 @@ end-lyric
 ambee sings-desha amenn
 But not the
 o-o
-stupid ones
+stupid asses
 o-o
-who put gaping
+who poked it full
 o-o
-security holes
-o-o
-in it.
+of security holes.
 end-lyric
 
 ambee sings-damien amenn
@@ -2444,15 +2456,13 @@ Who's got the
 o-o
 money it takes
 o-o
-to erect statues,
+to erect
 o-o
-produce
+statues and
 o-o
-biographic
+finance trusts
 o-o
-documentaries,
-o-o
-and archive
+that archive
 o-o
 the person's
 o-o
@@ -2460,11 +2470,25 @@ scribbled
 o-o
 notes on
 o-o
-napkins?
+napkins
+o-o
+for use in
+o-o
+biographic
+o-o
+documentaries?
 end-lyric
 
 ambee sings-damien amenn
-The people
+Edison,
+o-o
+Westinghouse,
+o-o
+Disney's brother,
+o-o
+and the other
+o-o
+front men
 o-o
 who win
 o-o
@@ -2472,11 +2496,13 @@ economically.
 end-lyric
 
 ambee sings-desha amenn
-The creative
+Creative
 o-o
 geniuses
 o-o
-who do the work
+who do the
+o-o
+magic
 o-o
 get left out.
 sentence-next
@@ -3484,7 +3510,7 @@ need to fight
 o-o
 against some
 o-o
-feedback
+bad feedback
 o-o
 loops.
 sentence-next
@@ -3667,16 +3693,11 @@ sentence-next
 o-o
 And that will help
 o-o
-the children
+the grandchildren
 o-o
-and grandchildren
+of my cousins
 o-o
-of my nieces
-o-o
-and nephews.
-sentence-next
-o-o
-They live in India.
+who live in India.
 sentence-next
 o-o
 In advance

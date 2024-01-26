@@ -106,7 +106,11 @@ That's what you're sayin'?
 end-lyric
 
 ambee sings-minister amenn
-That's a great start.
+Bingo!
+o-o
+I mean,
+o-o
+that's a great start.
 end-lyric
 
 ambee sings-vc amenn
@@ -175,25 +179,31 @@ o-o
 has me scared.
 sentence-next
 o-o
-I don't feel prepared.
+I don't feel
+o-o
+prepared
+o-o
+to meet death yet.
 sentence-next
 o-o
-Is there a
+Can you
 o-o
-spiritual
+instruct me
+o-o
+how to get
+o-o
+my life in
+o-o
+better shape?
+sentence-next
+o-o
+Maybe using
+o-o
+a spiritual
 o-o
 equivalent
 o-o
 of duct tape?
-sentence-next
-o-o
-Something to
-o-o
-compensate
-o-o
-for my
-o-o
-fear of death?
 end-lyric
 
 ambee sings-minister amenn
@@ -511,14 +521,16 @@ end-lyric
 ambee sings-vc amenn
 I thought I was
 o-o
-avoiding that
+outsmarting them
 o-o
 by paying for
 o-o
 no ads.
 sentence-next
 o-o
-I now realize
+Recently I
+o-o
+realized
 o-o
 I'm still getting
 o-o
@@ -526,7 +538,7 @@ the same news
 o-o
 as the morons
 o-o
-who those ads
+those ads
 o-o
 are targeted to.
 end-lyric
@@ -553,19 +565,19 @@ o-o
 imaginary.
 sentence-next
 o-o
-Sports reports
+Sports news
 o-o
-are about
+is about
 o-o
-games with
+games that
 o-o
 artificially
 o-o
-injected
+inject
 o-o
 scarcity,
 o-o
-with rules
+and follow rules
 o-o
 specifically
 o-o
@@ -589,13 +601,14 @@ o-o
 cooperation.
 sentence-next
 o-o
-That's not
+But that's not
 o-o
-newsworthy
+newsworthy.
+sentence-next
 o-o
-because
+Cooperation
 o-o
-it's as boring
+is as boring
 o-o
 as a gun
 o-o
@@ -1063,7 +1076,7 @@ sentence-next
 o-o
 That's why talking
 o-o
-is crucial.
+can never end.
 end-lyric
 
 ambee sings-vc amenn
@@ -1162,9 +1175,11 @@ and even the
 o-o
 dreams of fans
 o-o
-loudly chanting
+drunkenly
 o-o
-your name.
+chanting your
+o-o
+brand's name.
 sentence-next
 o-o
 The real prizes
@@ -1352,15 +1367,17 @@ Women say
 o-o
 they want me,
 o-o
-but actually
+but actually,
 o-o
-they want
+besides my
 o-o
-my money,
+money,
+o-o
+they crave
 o-o
 outings
 o-o
-without me,
+without me
 o-o
 and trips to
 o-o

@@ -105,6 +105,8 @@ sentence-next
 o-o
 But all of us
 o-o
+in the U.S.
+o-o
 would pay less
 o-o
 for sugar
@@ -222,62 +224,54 @@ o-o
 higher hyphen-here rent uses.
 sentence-next
 o-o
-Plus you arrange
+And sometimes
 o-o
-for trolley trains
-o-o
-to run on tracks
-o-o
-through a
-o-o
-so hyphen-here called
-o-o
-development
-o-o
-project
-o-o
-where you own
-o-o
-lots of property.
-sentence-next
-o-o
-You fight for
+you push for
 o-o
 expensive
 o-o
+trolley
+o-o
 train tracks
 o-o
-instead of
+that go right by
 o-o
-more efficient
+your property
+o-o
+even though
 o-o
 bus lines
 o-o
-so those lines
+would be more
 o-o
-won't later
-o-o
-get rerouted.
+efficient.
 sentence-next
 o-o
-When that's all
+Those train tracks
 o-o
-arranged,
+ensure the route
 o-o
-you build buildings
+won't get
 o-o
-that are rented
+rerouted.
+sentence-next
 o-o
-or sold at
+After using
+o-o
+those tricks you
+o-o
+build buildings
+o-o
+that rent
+o-o
+or sell at
 o-o
 jaw hyphen-here dropping
 o-o
 prices.
 sentence-next
 o-o
-Doing all that
-o-o
-doesn't require
+That doesn't require
 o-o
 brains,
 o-o
@@ -580,7 +574,7 @@ end-lyric
 ambee sings-desha amenn
 And nobody
 o-o
-drives to a city
+chooses a city
 o-o
 as their travel
 o-o
@@ -771,11 +765,18 @@ I suppose
 o-o
 you would have
 o-o
-blocked Tesla,
+blocked
 o-o
-and Einstein
+Nikola Tesla?
+o-o
+And Einstein
 o-o
 too?
+sentence-next
+o-o
+They arrived as
+o-o
+immigrants.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -937,32 +938,18 @@ o-o
 businesses.
 sentence-next
 o-o
-Those businesses
+Some of that wealth
 o-o
-then pass along
+gets to customers
 o-o
-that money
+who buy or rent
 o-o
-to yet other
-o-o
-businesses
-o-o
-that probably
-o-o
-employ
-o-o
-some of your
-o-o
-customers,
-o-o
-the people who
-o-o
-buy houses
-o-o
-and condos.
+from your business.
 sentence-next
 o-o
-If there were no
+Overall,
+o-o
+if there were no
 o-o
 maker businesses,
 o-o
@@ -1022,11 +1009,15 @@ I had overlooked
 o-o
 the fact that
 o-o
-employees
+my customers
 o-o
-of one business
+and employees
 o-o
-are customers
+also are
+o-o
+employees and
+o-o
+customers
 o-o
 of other
 o-o
@@ -1256,17 +1247,18 @@ pay the same
 o-o
 tax rate as
 o-o
-law firms,
+law firms and
 o-o
 insurance
 o-o
-agencies,
+agencies.
+sentence-next
 o-o
-and franchise
+And franchise
 o-o
 places,
 o-o
-like McDonalds,
+like Burger King,
 o-o
 which is not
 o-o
