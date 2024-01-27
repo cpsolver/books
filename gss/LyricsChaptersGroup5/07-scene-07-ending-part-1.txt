@@ -81,7 +81,7 @@ o-o
 that cannot be weak.
 sentence-next
 o-o
-So the golden rule
+The golden rule
 o-o
 of doing good deeds
 o-o
@@ -143,34 +143,37 @@ o-o
 recite
 o-o
 are down some stairs.
-sentence-next
+end-lyric
+
+ambee sings-vc amenn
+What does God
 o-o
-Those layers
-o-o
-must rest upon
-o-o
-wisely chosen
-o-o
-intentions,
-o-o
-which are
-o-o
-the engines
-o-o
-of your actions.
-sentence-next
-o-o
-It's your actions,
+most applaud?
+end-lyric
+
+ambee sings-minister amenn
+Your actions,
 o-o
 your behavior,
 o-o
-that God,
+that's what God,
 o-o
 and most people
 o-o
 around you,
 o-o
 listen to.
+sentence-next
+o-o
+The engines
+o-o
+of the best
+o-o
+actions are
+o-o
+wise
+o-o
+intentions.
 end-lyric
 
 ambee sings-vc amenn
@@ -183,27 +186,9 @@ I don't feel
 o-o
 prepared
 o-o
-to meet death yet.
-sentence-next
+to meet death,
 o-o
-Can you
-o-o
-instruct me
-o-o
-how to get
-o-o
-my life in
-o-o
-better shape?
-sentence-next
-o-o
-Maybe using
-o-o
-a spiritual
-o-o
-equivalent
-o-o
-of duct tape?
+not yet.
 end-lyric
 
 ambee sings-minister amenn
@@ -314,40 +299,38 @@ and reaching
 o-o
 the highest
 o-o
-kinds of love.
-sentence-next
+kinds of love,
 o-o
-That's far above
+far above
 o-o
 criminals
 o-o
 and lawyers,
 o-o
 ...
-sentence-next
 o-o
 I mean
 o-o
 sinners.
 sentence-next
 o-o
-That's why
+That's why the
 o-o
-the Bible says
+Bible declares
 o-o
-it's easier
+a camel
 o-o
-for a camel
-o-o
-to fit through
+can squeeze through
 o-o
 the eye of a
 o-o
-needle than
+needle
 o-o
-for a rich man
+easier than
 o-o
-to become
+a rich man
+o-o
+can become
 o-o
 a loving saint
 o-o
@@ -818,29 +801,38 @@ o-o
 cookie.
 sentence-next
 o-o
-Yes there are
+Alas,
 o-o
-a few
+a few people
 o-o
-people who
+do cling
 o-o
-hang onto
+to pure evil
 o-o
-pure evil
+long after they
 o-o
-after
+were infected,
 o-o
-a so hyphen-here called
+like a disease,
 o-o
-adult
+by a very
 o-o
-gave it to them
+immature
 o-o
-like a disease
+person
 o-o
-when they were
+who also
 o-o
-joyful and young.
+got infected.
+sentence-next
+o-o
+Yet all of us
+o-o
+begin our time
+o-o
+in the womb
+o-o
+filled with joy.
 sentence-next
 o-o
 Fortunately,

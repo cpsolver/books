@@ -29,7 +29,9 @@ Initially there were two designs.
 sentence-next
 Richard submitted a third design he regarded as an improvement on the better of the two original designs.
 sentence-next
-Although Richard's design was chosen because it got the most votes, the worst design came close to winning, which triggered his aha moment about vote splitting.
+Although Richard's design was chosen because it got the most votes, the worst design came close to winning.
+sentence-next
+This experience triggered his aha moment about vote splitting.
 sentence-next
 That insight led to creating an innovative vote hyphen-here counting method and including it in begin-italics The Creative Problem Solver's Toolbox end-italics no-space , developing further aspects of VoteFair Ranking and writing a book about it titled begin-italics Ending The Hidden Unfairness In U.S. Elections end-italics no-space , creating interactive websites at VoteFair.org and NegotiationTool.com no-space , and testifying to the Oregon state legislature and the City of Portland Charter Commission in support of well hyphen-here chosen ways to count begin-italics ranked choice ballots end-italics no-space .
 end-standard-paragraph

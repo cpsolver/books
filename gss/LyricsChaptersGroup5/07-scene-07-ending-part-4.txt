@@ -945,21 +945,27 @@ o-o
 who buy or rent
 o-o
 from your business.
+end-lyric
+
+ambee sings-desha amenn
+Imagine
+o-o
+an economic
+o-o
+apocalypse.
 sentence-next
 o-o
-Overall,
+If there were no
 o-o
-if there were no
+maker businesses
 o-o
-maker businesses,
+in our state,
 o-o
 no money would
 o-o
-enter the state
+enter our state,
 o-o
-or city,
-o-o
-and the local
+and our state's
 o-o
 economy
 o-o
@@ -1005,76 +1011,81 @@ o-o
 business owners.
 sentence-next
 o-o
-I had overlooked
+I had failed
 o-o
-the fact that
+to trace the flow
 o-o
-my customers
+of money back
 o-o
-and employees
+to the maker
 o-o
-also are
+businesses
 o-o
-employees and
+that first bring
 o-o
-customers
+money into
 o-o
-of other
+the region's
 o-o
-businesses.
+economy.
 end-lyric
 
 ambee sings-damien amenn
 And it affects
 o-o
-homelessness
-o-o
-and crime.
+homelessness.
 sentence-next
 o-o
-Even if an
+If less money
 o-o
-employee of
+enters the state
 o-o
-a maker
+through maker
 o-o
-business
+businesses,
 o-o
-doesn't buy
+high hyphen-here priced condos
 o-o
-one of your
+become
 o-o
-high hyphen-here priced condos,
+unaffordable,
 o-o
-they might rent
+everyone
 o-o
-an apartment
+eventually
 o-o
-that forces
+moves to
 o-o
-a lower hyphen-here paid
+smaller houses
+o-o
+and smaller
+o-o
+apartments,
+o-o
+and a low hyphen-here wage
 o-o
 employee
 o-o
-to rent a
+in a tiny
 o-o
-tiny studio
+studio
 o-o
-apartment,
+apartment
 o-o
-which in turn,
-o-o
-can force
-o-o
-a yet lower hyphen-here paid
-o-o
-employee into
+gets forced into
 o-o
 homelessness.
 end-lyric
 
 ambee sings-desha amenn
-And homeless
+And it affects
+o-o
+drug abuse
+o-o
+and crime.
+sentence-next
+o-o
+Homeless
 o-o
 people often
 o-o
@@ -1107,20 +1118,35 @@ So if you want
 o-o
 less crime,
 o-o
+less drug abuse,
+o-o
+and less
+o-o
+homelessness,
+o-o
 now is the time
 o-o
-to prevent it
-o-o
-from happening.
+to prevent it.
 sentence-next
 o-o
 By caring
 o-o
-about how many
+about not just
 o-o
-maker businesses
+big maker
 o-o
-are bringing
+businesses.
+sentence-next
+o-o
+Small maker
+o-o
+businesses,
+o-o
+all together,
+o-o
+attract huge
+o-o
+amounts of
 o-o
 money into
 o-o
@@ -1140,73 +1166,25 @@ o-o
 restaurant.
 sentence-next
 o-o
-He finds it
+He hires
 o-o
-difficult
+kitchen prep
 o-o
-to hire waiters
+employees,
 o-o
-and kitchen prep
+and cleanup crews,
 o-o
-employees.
-sentence-next
+and his stories
 o-o
-He says
+agree
 o-o
-some of his
-o-o
-former employees
-o-o
-are now homeless
-o-o
-or too drugged out
-o-o
-to hire again.
-sentence-next
-o-o
-So I'm
-o-o
-beginning
-o-o
-to see
-o-o
-the local
-o-o
-economy
-o-o
-is interconnected.
-sentence-next
-o-o
-The customers
-o-o
-of my businesses
-o-o
-are getting
-o-o
-their income
-o-o
-from being
-o-o
-employees of
-o-o
-other businesses.
+with your views.
 end-lyric
 
 ambee sings-damien amenn
-Maker
+The big maker
 o-o
 businesses
-o-o
-are what bring
-o-o
-money into
-o-o
-a city
-o-o
-or state.
-sentence-next
-o-o
-The big ones,
 o-o
 like Apple,
 o-o
@@ -1217,8 +1195,6 @@ o-o
 General Motors,
 o-o
 Intel,
-o-o
-Johnson and Johnson,
 o-o
 Nike,
 o-o
@@ -1231,7 +1207,9 @@ o-o
 get tax breaks.
 sentence-next
 o-o
-The small ones
+The small maker
+o-o
+businesses
 o-o
 get screwed.
 end-lyric
@@ -1239,34 +1217,35 @@ end-lyric
 ambee sings-desha amenn
 Yeah,
 o-o
-small maker
-o-o
-businesses
-o-o
-pay the same
+they pay the same
 o-o
 tax rate as
 o-o
-law firms and
+law firms,
 o-o
 insurance
 o-o
-agencies.
+agencies,
+o-o
+and franchise
+o-o
+places.
 sentence-next
 o-o
-And franchise
+Speaking of which,
 o-o
-places,
+places like
 o-o
-like Burger King,
+Burger King
 o-o
-which is not
+are not
 o-o
-a restaurant,
+restaurants.
+sentence-next
 o-o
-and probably
+A better name
 o-o
-should be called
+would be
 o-o
 begin-italics Burger Not end-italics no-space .
 end-lyric
@@ -1387,7 +1366,9 @@ disasters didn't
 o-o
 follow,
 o-o
-so it was adopted
+so it was
+o-o
+adopted
 o-o
 throughout the
 o-o
@@ -1605,7 +1586,9 @@ if I shared
 o-o
 some of my income
 o-o
-with all my employees,
+with all my
+o-o
+employees,
 o-o
 not just the ones
 o-o
@@ -1656,11 +1639,13 @@ employees
 o-o
 need fewer
 o-o
-incentives,
+incentives
 o-o
-fewer rules,
-o-o
-and fewer
+and fewer rules.
+end-lyric
+
+ambee sings-desha amenn
+And fewer
 o-o
 verbal spankings
 o-o
@@ -2234,4 +2219,14 @@ o-o
 dining out
 o-o
 cost less.
+end-lyric
+
+ambee sings-vc amenn
+And buying time
+o-o
+is something
+o-o
+I'd do
+o-o
+if I could.
 end-lyric

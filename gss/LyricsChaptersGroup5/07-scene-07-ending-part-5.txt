@@ -1,7 +1,15 @@
 ambee sings-father-of-fiance amenn
 So name-damien no-space ,
 o-o
-do you agree with her?
+do you agree with
+o-o
+this woman,
+o-o
+what's her name.
+end-lyric
+
+ambee sings-desha amenn
+name-desha no-space .
 end-lyric
 
 ambee sings-damien amenn
@@ -42,7 +50,9 @@ But how nice of
 o-o
 a lifestyle
 o-o
-do ya have in mind?
+do ya have
+o-o
+in mind?
 end-lyric
 
 ambee sings-fiance amenn
@@ -57,7 +67,9 @@ sentence-next
 o-o
 And of course
 o-o
-a big backyard
+a back yard,
+o-o
+or front yard,
 o-o
 for a dog.
 sentence-next
@@ -92,9 +104,9 @@ was to enjoy time
 o-o
 at home eating
 o-o
-healthy food, and
+healthy food,
 o-o
-relaxing on
+and relaxing on
 o-o
 the weekend,
 o-o
@@ -104,7 +116,9 @@ time with friends.
 end-lyric
 
 ambee sings-fiance amenn
-Of course all of that too.
+Of course
+o-o
+all of that too.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -227,7 +241,7 @@ have to think about
 o-o
 which to choose
 o-o
-tells me that it's
+tells me it's
 o-o
 me who should lose.
 sentence-next
@@ -240,13 +254,15 @@ financial
 o-o
 support
 o-o
-basically is
+basically
 o-o
-bribery
+is bribery
 o-o
-to cover up
+to distract me
 o-o
-corruption.
+from the issue
+o-o
+of corruption.
 end-lyric
 
 ambee sings-minister amenn
