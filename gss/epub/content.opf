@@ -28,6 +28,7 @@
     <item id="segment_24" href="ogss_24.xhtml" media-type="application/xhtml+xml"/>
     <item id="segment_25" href="ogss_25.xhtml" media-type="application/xhtml+xml"/>
     <item id="segment_26" href="ogss_26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_27" href="ogss_27.xhtml" media-type="application/xhtml+xml"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
 </manifest>
@@ -47,5 +48,6 @@
   <itemref idref="segment_24"/>
   <itemref idref="segment_25"/>
   <itemref idref="segment_26"/>
+  <itemref idref="segment_27"/>
 </spine>
 </package>

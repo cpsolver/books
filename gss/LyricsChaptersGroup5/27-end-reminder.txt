@@ -1,0 +1,13 @@
+combee ****
+This is a bug fix for some ebook readers that otherwise repeat the last paragraph of the book.
+**** comenn
+
+begin-title
+title-chapter-27
+end-title
+
+begin-standard-paragraph
+Please help get ranked choice ballots and pairwise vote counting adopted for use in United States general elections.
+sentence-next
+This path leads to widespread economic prosperity, solutions to global problems, and greater joy.
+end-standard-paragraph
