@@ -7,13 +7,14 @@ p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del,
 dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub,
 sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form,
 label, legend, table, caption, tbody, tfoot, thead, tr, th, td { 
-margin: 0;
-padding: 0;
-border: 0;
-outline: 0;
-font<hyphen_here>size: 100%;
-vertical<hyphen_here>align: baseline;
-background: transparent; }
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font<hyphen_here>size:100%;
+vertical<hyphen_here>align:baseline;
+background:transparent;
+}
 
 body {
 font<hyphen_here>family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans<hyphen_here>serif;
@@ -39,23 +40,33 @@ font<hyphen_here>size:102%;
 img {
 margin:0 auto;
 padding:0;
-max<hyphen_here>width: 95%;
-max<hyphen_here>height: 95%;
+max<hyphen_here>width:95%;
+max<hyphen_here>height:95%;
 }
 
 toc {
 font<hyphen_here>family:"Palatino","Georgia","Times",serif;
-font<hyphen_here>weight: bold;
+font<hyphen_here>weight:bold;
 font<hyphen_here>size:130%;
 text<hyphen_here>align:left;
 text<hyphen_here>indent:0;
-margin<hyphen_here>left:4 em;
-margin<hyphen_here>right:4 em;
+margin<hyphen_here>left:4em;
+margin<hyphen_here>right:4em;
+margin<hyphen_here>top:0.5em;
+margin<hyphen_here>bottom:4em;
+}
+
+para_gap_small {
+font<hyphen_here>size:40%;
+line<hyphen_here>height:0.4em;
+padding:0;
+margin<hyphen_here>top:0.4em;
+margin<hyphen_here>bottom:0.4em;
 }
 
 h1, h2, h3, h4 {
 font<hyphen_here>family:"Palatino","Georgia","Times",serif;
-font<hyphen_here>weight: bold;
+font<hyphen_here>weight:bold;
 text<hyphen_here>align:center;
 text<hyphen_here>indent:0;
 margin<hyphen_here>left:0.5em;
@@ -111,8 +122,8 @@ text<hyphen_here>align:center;
 
 .singer_abbrev{
 font<hyphen_here>size:110%;
-font<hyphen_here>weight: bold;
-vertical<hyphen_here>align: baseline;
+font<hyphen_here>weight:bold;
+vertical<hyphen_here>align:baseline;
 padding<hyphen_here>top:0.1em;
 padding<hyphen_here>bottom:0.2em;
 padding<hyphen_here>left:0.2em;
@@ -124,7 +135,7 @@ margin<hyphen_here>bottom:0.8em;
 }
 
 .singer_colon{
-font<hyphen_here>weight: normal;
+font<hyphen_here>weight:normal;
 }
 
 .singer_damien{

@@ -2,17 +2,13 @@ begin-title
 book-title
 end-title
 
-begin-standard-paragraph
-non-breaking-space
-end-standard-paragraph
+paragraph-gap-small
 
 begin-subtitle
 book-subtitle-with-line-breaks
 end-subtitle
 
-begin-standard-paragraph
-non-breaking-space
-end-standard-paragraph
+paragraph-gap-small
 
 begin-subtitle
 by Richard Fobes
@@ -22,9 +18,7 @@ begin-paragraph-centered
 Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
 end-paragraph-centered
 
-begin-standard-paragraph
-non-breaking-space
-end-standard-paragraph
+paragraph-gap-small
 
 begin-paragraph-centered
 Also by Richard Fobes
