@@ -44,53 +44,36 @@ max<hyphen_here>width:95%;
 max<hyphen_here>height:95%;
 }
 
-toc {
-font<hyphen_here>family:"Palatino","Georgia","Times",serif;
-font<hyphen_here>weight:bold;
-font<hyphen_here>size:130%;
-text<hyphen_here>align:left;
-text<hyphen_here>indent:0;
-margin<hyphen_here>left:4em;
-margin<hyphen_here>right:4em;
-margin<hyphen_here>top:0.5em;
-margin<hyphen_here>bottom:4em;
-}
-
-para_gap_small {
-font<hyphen_here>size:40%;
-line<hyphen_here>height:0.4em;
-padding:0;
-margin<hyphen_here>top:0.4em;
-margin<hyphen_here>bottom:0.4em;
-}
-
 h1, h2, h3, h4 {
 font<hyphen_here>family:"Palatino","Georgia","Times",serif;
 font<hyphen_here>weight:bold;
 text<hyphen_here>align:center;
 text<hyphen_here>indent:0;
-margin<hyphen_here>left:0.5em;
-margin<hyphen_here>right:0.5em;
+padding:0;
+margin<hyphen_here>left:2em;
+margin<hyphen_here>right:2em;
 orphans:3;
 widows:3;
 page<hyphen_here>break<hyphen_here>after:avoid;
 }
 
 h1 {
-font<hyphen_here>size:200%;
+font<hyphen_here>size:170%;
 break<hyphen_here>before:right;
+margin<hyphen_here>left:1em;
+margin<hyphen_here>right:1em;
 }
 
 h2 {
-font<hyphen_here>size:150%;
+font<hyphen_here>size:135%;
 }
 
 h3 {
-font<hyphen_here>size:130%;
+font<hyphen_here>size:115%;
 }
 
 h4 {
-font<hyphen_here>size:120%;
+font<hyphen_here>size:107%;
 }
 
 p {
@@ -98,12 +81,36 @@ font<hyphen_here>size:100%;
 line<hyphen_here>height:1.7em;
 text<hyphen_here>align:left;
 text<hyphen_here>indent:<hyphen_here>1.5em;
-margin<hyphen_here>left:2em;
+padding:0;
+margin<hyphen_here>left:1em;
 margin<hyphen_here>right:0.5em;
 margin<hyphen_here>top:1em;
 margin<hyphen_here>bottom:1em;
 orphans:2;
 widows:2;
+}
+
+toc_list {
+list<hyphen_here>style<hyphen_here>type:none;
+}
+
+toc {
+font<hyphen_here>family:"Palatino","Georgia","Times",serif;
+font<hyphen_here>weight:bold;
+font<hyphen_here>size:130%;
+text<hyphen_here>align:left;
+text<hyphen_here>indent:0;
+margin<hyphen_here>left:3em;
+margin<hyphen_here>right:3em;
+margin<hyphen_here>top:1em;
+margin<hyphen_here>bottom:3em;
+}
+
+para_gap_small {
+font<hyphen_here>size:10%;
+line<hyphen_here>height:1em;
+padding:0;
+margin:0;
 }
 
 .para_standard{
