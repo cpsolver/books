@@ -78,7 +78,7 @@ p {
 font-size:100%;
 line-height:1.7em;
 text-align:left;
-text-indent:-1.5em;
+text-indent:0;
 padding:0;
 margin-left:1em;
 margin-right:0.5em;
@@ -86,6 +86,15 @@ margin-top:1em;
 margin-bottom:1em;
 orphans:2;
 widows:2;
+}
+
+.para_standard{
+margin-top:2em;
+margin-bottom:2em;
+}
+
+.para_centered{
+text-align:center;
 }
 
 toc_list {
@@ -98,7 +107,7 @@ font-weight:bold;
 font-size:130%;
 text-align:left;
 text-indent:0;
-margin-left:3em;
+margin-left:5em;
 margin-right:3em;
 margin-top:1em;
 margin-bottom:3em;
@@ -111,15 +120,13 @@ padding:0;
 margin:0;
 }
 
-.para_standard{
-text-indent:0;
-text-align:left;
-margin-top:2em;
-margin-bottom:2em;
-}
-
-.para_centered{
-text-align:center;
+.lyric{
+text-indent:-1.5em;
+padding:0;
+margin-left:2.5em;
+margin-right:0.5em;
+margin-top:1em;
+margin-bottom:1em;
 }
 
 .singer_abbrev{
