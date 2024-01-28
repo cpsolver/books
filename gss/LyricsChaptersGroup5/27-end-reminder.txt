@@ -9,5 +9,5 @@ end-title
 begin-standard-paragraph
 Please help get ranked choice ballots and pairwise vote counting adopted for use in United States general elections.
 sentence-next
-This path leads to widespread economic prosperity, solutions to global problems, and greater joy.
+This path leads to widespread economic prosperity, effective solutions to global problems, and greater joy.
 end-standard-paragraph

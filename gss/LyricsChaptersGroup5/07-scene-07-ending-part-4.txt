@@ -344,7 +344,9 @@ the buying,
 o-o
 at a fraction
 o-o
-of its value.
+of the farm's
+o-o
+value.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -425,9 +427,15 @@ specific.
 end-lyric
 
 ambee sings-desha amenn
-Developers like you
+Developers
 o-o
-would pay higher
+like you
+o-o
+would be
+o-o
+forced to pay
+o-o
+higher
 o-o
 taxes.
 end-lyric
@@ -549,13 +557,16 @@ be businesses
 o-o
 that involve
 o-o
-art,
-o-o
 software,
 o-o
-entertainment,
+artists,
 o-o
-and non hyphen-here chain
+and
+o-o
+entertainment.
+sentence-next
+o-o
+Plus non hyphen-here chain
 o-o
 restaurants.
 end-lyric
@@ -1258,7 +1269,11 @@ end-lyric
 ambee sings-desha amenn
 Yeah,
 o-o
-they pay the same
+the small maker
+o-o
+businesses
+o-o
+pay the same
 o-o
 tax rate as
 o-o
@@ -1273,7 +1288,9 @@ o-o
 places.
 sentence-next
 o-o
-Speaking of which,
+Speaking of
+o-o
+franchises,
 o-o
 places like
 o-o
@@ -1530,7 +1547,7 @@ Plus it will take
 o-o
 way too long
 o-o
-for tax credits
+for tax breaks
 o-o
 to make a
 o-o
@@ -1555,15 +1572,19 @@ don't match.
 end-lyric
 
 ambee sings-damien amenn
-Speaking of which,
+Speaking of
+o-o
+tax breaks,
 o-o
 eventually
 o-o
-your business
+your business,
+o-o
+name-vc no-space ,
 o-o
 will get a
 o-o
-tax credit
+tax break
 o-o
 if you make
 o-o
@@ -1720,7 +1741,7 @@ for your business,
 o-o
 but a wage hyphen-here gap
 o-o
-tax credit
+tax break
 o-o
 might reduce
 o-o
@@ -1812,15 +1833,11 @@ o-o
 of this reform!
 sentence-next
 o-o
-There are
+People with jobs
 o-o
-lots of people
+surely deserve
 o-o
-with jobs
-o-o
-who deserve
-o-o
-food and warmth
+hot meals and warmth
 o-o
 without assistance
 o-o
@@ -1996,7 +2013,7 @@ sentence-next
 o-o
 In other words
 o-o
-those tax credits
+tax credits can
 o-o
 incentivize
 o-o
@@ -2057,7 +2074,7 @@ will give us
 o-o
 the wage hyphen-here gap
 o-o
-tax credit,
+tax break,
 o-o
 and the tax break
 o-o
@@ -2255,7 +2272,7 @@ o-o
 restaurants.
 sentence-next
 o-o
-That would make
+That might make
 o-o
 dining out
 o-o
@@ -2265,9 +2282,11 @@ end-lyric
 ambee sings-vc amenn
 And buying time
 o-o
-is something
+I do
 o-o
-I'd do
+whenever
 o-o
-if I could.
+that's on
+o-o
+the menu.
 end-lyric

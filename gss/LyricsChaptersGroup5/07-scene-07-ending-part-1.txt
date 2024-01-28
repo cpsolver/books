@@ -497,102 +497,89 @@ o-o
 and your
 o-o
 laughter.
-end-lyric
-
-ambee sings-vc amenn
-Admittedly
-o-o
-I'm getting
-o-o
-the same news
-o-o
-as the morons
-o-o
-those ads
-o-o
-are targeted to,
-o-o
-even though
-o-o
-I pay for
-o-o
-no ads.
-end-lyric
-
-ambee sings-minister amenn
-Remember that
-o-o
-political
-o-o
-interviews
-o-o
-and speeches
-o-o
-do portray
-o-o
-opponents
-o-o
-as evil,
-o-o
-but that evil
-o-o
-is just
-o-o
-imaginary.
 sentence-next
 o-o
-Sports news
+Politicians
 o-o
-is about
+use name hyphen-here calling,
 o-o
-games that
+lies,
 o-o
-artificially
+and
 o-o
-inject
+vilification
 o-o
-scarcity,
+to
 o-o
-while following rules
-o-o
-specifically
-o-o
-designed to block
-o-o
-cooperation.
-sentence-next
-o-o
-Strip away the
-o-o
-imaginary
-o-o
-evil and
-o-o
-exaggerated
+manufacture
 o-o
 drama
 o-o
-and you'll see
+that fits under
 o-o
-cooperation.
+that low
+o-o
+limbo bar
+o-o
+of news.
 sentence-next
 o-o
-But that's not
+Sports newscasters
 o-o
-newsworthy.
+report on games
+o-o
+where the drama
+o-o
+comes from
+o-o
+challenges,
+o-o
+such as
+o-o
+basketball nets
+o-o
+too high to
+o-o
+body block,
+o-o
+and forced
+o-o
+scarcity,
+o-o
+such as using
+o-o
+the smallest
+o-o
+number of balls.
 sentence-next
 o-o
-Cooperation
+What you won't hear
 o-o
-is as boring
+on the news
 o-o
-as a gun
+are reports on
+o-o
+civilized
+o-o
+behavior,
+o-o
+such as
+o-o
+resolving
+o-o
+conflicts
+o-o
+without lawyers,
+o-o
+and keeping
+o-o
+assault weapons
 o-o
 in the hands
 o-o
-of a blind
+of blind
 o-o
-pacifist.
+pacifists.
 end-lyric
 
 ambee sings-vc amenn
@@ -809,7 +796,6 @@ o-o
 getting
 o-o
 infected.
-o-o
 sentence-next
 o-o
 That infection
@@ -825,19 +811,6 @@ o-o
 to the disease.
 sentence-next
 o-o
-Yet all of us
-o-o
-begin our time
-o-o
-in the womb
-o-o
-filled with
-o-o
-unconditional
-o-o
-joy.
-sentence-next
-o-o
 Fortunately,
 o-o
 eventually,
@@ -849,6 +822,21 @@ o-o
 that evil
 o-o
 dies out.
+sentence-next
+o-o
+That's because
+o-o
+all of us
+o-o
+begin our time
+o-o
+in the womb
+o-o
+feeling
+o-o
+unconditional
+o-o
+joy.
 end-lyric
 
 ambee sings-vc amenn
@@ -1053,11 +1041,13 @@ o-o
 meanings.
 sentence-next
 o-o
-Too often we
+Too easily
 o-o
-assume they meant
+we assume
 o-o
-what we expected.
+they meant what
+o-o
+we expected.
 sentence-next
 o-o
 In life and
@@ -1713,7 +1703,7 @@ with others
 o-o
 who share
 o-o
-the same
+that same
 o-o
 perspective.
 sentence-next
@@ -1754,36 +1744,29 @@ we can't preach.
 end-lyric
 
 ambee sings-vc amenn
-Like what?
+What else
+o-o
+can you not say
+o-o
+aloud?
 end-lyric
 
 ambee sings-minister amenn
-If we speak out
+Speaking out
 o-o
-with boldness
+against warfare,
 o-o
-against war,
+such as saying
 o-o
-that would impair
+it's worse than
+o-o
+abortion,
+o-o
+would impair
 o-o
 our tax hyphen-here exempt
 o-o
 status.
-sentence-next
-o-o
-So we would lose
-o-o
-our religious
-o-o
-exemption
-o-o
-if we point out
-o-o
-that warfare
-o-o
-is worse than
-o-o
-abortion.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -2221,7 +2204,7 @@ money I earn
 o-o
 should make it clear
 o-o
-that I'm loved
+I'm loved
 o-o
 for what I do.
 end-lyric

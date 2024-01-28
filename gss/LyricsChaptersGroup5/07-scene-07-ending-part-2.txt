@@ -631,13 +631,21 @@ woman to trade sex
 o-o
 in exchange for
 o-o
-getting her husband
+getting her
 o-o
-to attend church
+husband to
 o-o
-and hear sermons
+attend church
 o-o
-about doing good.
+so he would hear
+o-o
+weekly sermons
+o-o
+about not
+o-o
+drinking so much
+o-o
+beer.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -727,19 +735,29 @@ advantage lost?
 end-lyric
 
 ambee sings-minister amenn
-Yes.
+Sadly,
+o-o
+for reasons of
+o-o
+attendance,
+o-o
+yes.
 end-lyric
 
 ambee sings-desha amenn
-Universities
+Originally
 o-o
-and schools
+schools and
+o-o
+universities
 o-o
 were founded
 o-o
 alongside
 o-o
-churches and mosques.
+churches
+o-o
+and mosques.
 sentence-next
 o-o
 Now,

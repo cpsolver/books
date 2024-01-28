@@ -44,6 +44,15 @@ begin-standard-paragraph
 To see a list of projects created by Richard Fobes, including books, websites, software, and a new programming language, point your browser to SolutionsCreative dot com.
 end-standard-paragraph
 
+begin-standard-paragraph
+<img width="200" height="196" src="author.jpg"/>
+end-standard-paragraph
+
+begin-standard-paragraph
+This photo of the author was taken in early 1993 while waiting for the first printing of begin-italics The Creative Problem Solver's Toolbox end-italics no-space .
+end-standard-paragraph
+
+
 combee
 begin-standard-paragraph
 Richard's plan during youth had been to become an inventor.
