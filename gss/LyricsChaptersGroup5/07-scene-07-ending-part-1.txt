@@ -165,13 +165,11 @@ o-o
 listen to.
 sentence-next
 o-o
-The engines
+The best actions
 o-o
-of the best
+arise from
 o-o
-actions are
-o-o
-wise
+the wisest
 o-o
 intentions.
 end-lyric
@@ -502,20 +500,9 @@ laughter.
 end-lyric
 
 ambee sings-vc amenn
-I thought I was
+Admittedly
 o-o
-outsmarting them
-o-o
-by paying for
-o-o
-no ads.
-sentence-next
-o-o
-Recently I
-o-o
-realized
-o-o
-I'm still getting
+I'm getting
 o-o
 the same news
 o-o
@@ -523,11 +510,17 @@ as the morons
 o-o
 those ads
 o-o
-are targeted to.
+are targeted to,
+o-o
+even though
+o-o
+I pay for
+o-o
+no ads.
 end-lyric
 
 ambee sings-minister amenn
-Of course
+Remember that
 o-o
 political
 o-o
@@ -560,7 +553,7 @@ inject
 o-o
 scarcity,
 o-o
-and follow rules
+while following rules
 o-o
 specifically
 o-o
@@ -607,15 +600,15 @@ When I was young
 o-o
 I heard priests
 o-o
-make a big deal
+yell in anger
 o-o
-about evil.
+against evil.
 end-lyric
 
 ambee sings-minister amenn
-That's because
+Drama and fear
 o-o
-that fear attracts
+attracts
 o-o
 bigger
 o-o
@@ -807,23 +800,29 @@ a few people
 o-o
 do cling
 o-o
-to pure evil
+to the disease
 o-o
-long after they
+of evil
 o-o
-were infected,
+long after
 o-o
-like a disease,
+getting
 o-o
-by a very
+infected.
 o-o
-immature
+sentence-next
 o-o
-person
+That infection
 o-o
-who also
+comes from
 o-o
-got infected.
+an immature
+o-o
+human who
+o-o
+also still clings
+o-o
+to the disease.
 sentence-next
 o-o
 Yet all of us
@@ -832,7 +831,11 @@ begin our time
 o-o
 in the womb
 o-o
-filled with joy.
+filled with
+o-o
+unconditional
+o-o
+joy.
 sentence-next
 o-o
 Fortunately,
@@ -983,7 +986,7 @@ But don't expect
 o-o
 you'll ever
 o-o
-find out
+fully find out
 o-o
 what's in the
 o-o
@@ -1696,13 +1699,23 @@ But if instead
 o-o
 you live your life
 o-o
-as if two plus two
+as if
 o-o
-equals four, then
+two plus two
 o-o
-life becomes
+equals four,
 o-o
-joyful.
+you'll live in
+o-o
+harmony
+o-o
+with others
+o-o
+who share
+o-o
+the same
+o-o
+perspective.
 sentence-next
 o-o
 That's how God
@@ -1756,6 +1769,21 @@ o-o
 our tax hyphen-here exempt
 o-o
 status.
+sentence-next
+o-o
+So we would lose
+o-o
+our religious
+o-o
+exemption
+o-o
+if we point out
+o-o
+that warfare
+o-o
+is worse than
+o-o
+abortion.
 end-lyric
 
 ambee sings-father-of-fiance amenn

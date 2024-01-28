@@ -11,7 +11,7 @@ end-standard-paragraph
 begin-standard-paragraph
 The story of begin-italics The Goat Spitting Secret end-italics arose in Richard's mind as a dialog between different voices in his head.
 sentence-next
-These different voices arose because Richard has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.
+These different voices arose because Richard has experienced, at least briefly, being a corporate CEO, homeless person, commodity trader, manual laborer, business owner, hardware store clerk, landlord, renter, only male or only native English speaker in a household, member of a Christian religion created by a woman, physics student, grad student, atmospheric scientist, software developer, contract technical writer, neighborhood organizer, election hyphen-here method expert, inventor, dance performance group leader, and dance instructor.
 end-standard-paragraph
 
 begin-standard-paragraph

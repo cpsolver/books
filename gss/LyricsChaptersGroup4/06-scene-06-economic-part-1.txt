@@ -3782,18 +3782,24 @@ o-o
 of indulgences.
 sentence-next
 o-o
-I'll explain those
+These were
 o-o
-later.
+documents
+o-o
+of forgiveness
+o-o
+purchased from
+o-o
+the church.
 sentence-next
 o-o
 The point is
 o-o
-the flow of money
+money flowing
 o-o
 into Rome
 o-o
-through Catholic
+from Catholic
 o-o
 churches
 o-o
@@ -3804,9 +3810,10 @@ o-o
 got way
 o-o
 too greedy.
-sentence-next
-o-o
-And back then
+end-lyric
+
+ambee sings-econhist amenn
+Back then
 o-o
 freedom of
 o-o
@@ -3815,6 +3822,41 @@ o-o
 was about money,
 o-o
 not just beliefs.
+sentence-next
+o-o
+And beliefs
+o-o
+and money
+o-o
+intertwined,
+o-o
+such as the ban
+o-o
+on abortions.
+end-lyric
+
+ambee sings-damien amenn
+What's the link
+o-o
+between money
+o-o
+and abortions?
+end-lyric
+
+ambee sings-desha amenn
+Less abortions
+o-o
+yielded bigger
+o-o
+congregations
+o-o
+paying more
+o-o
+donations,
+o-o
+and buying off
+o-o
+more sins.
 end-lyric
 
 ambee sings-damien amenn

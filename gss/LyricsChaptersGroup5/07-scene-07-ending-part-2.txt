@@ -1022,7 +1022,15 @@ district
 o-o
 attorneys
 o-o
-who TV watchers
+who TV
+o-o
+watchers,
+o-o
+including
+o-o
+some police
+o-o
+officers,
 o-o
 mistakenly
 o-o
@@ -1066,28 +1074,44 @@ Hi Desha.
 end-lyric
 
 ambee sings-fiance amenn
-You know this bitch?
-end-lyric
-
-ambee sings-damien amenn
-She's the woman
+This is
 o-o
-I've told you about.
-end-lyric
-
-ambee sings-fiance amenn
-You said that woman
+the name-desha
 o-o
-was like a kid sister
+you've been
 o-o
-to you.
+telling me
+o-o
+about?
 sentence-next
 o-o
-But she's looking
+The one you said
 o-o
-at you with love in
+was like a
+o-o
+kid sister?
+sentence-next
+o-o
+This bitch
+o-o
+is looking
+o-o
+at you
+o-o
+with love in
 o-o
 her eyes.
+sentence-next
+o-o
+She's a
+o-o
+foul hyphen-here mouthed
+o-o
+spoiled
+o-o
+whore,
+o-o
+not a sister!
 end-lyric
 
 ambee sings-damien amenn

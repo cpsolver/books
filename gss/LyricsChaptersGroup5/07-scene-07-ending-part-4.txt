@@ -315,21 +315,62 @@ o-o
 Japanese
 o-o
 Americans.
-sentence-next
+end-lyric
+
+ambee sings-father-of-fiance amenn
+That farmland
 o-o
-But even under
+was paid for,
 o-o
-conditions now,
+not stolen.
+end-lyric
+
+ambee sings-desha amenn
+Only having
 o-o
-lots of laws
+a few days
 o-o
-are not
+to find a buyer
 o-o
-based on ethics
+for a farm
 o-o
-or
+means vultures
 o-o
-morality.
+like you
+o-o
+did lots of
+o-o
+the buying,
+o-o
+at a fraction
+o-o
+of its value.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+That's water
+o-o
+under the bridge.
+end-lyric
+
+ambee sings-desha amenn
+Thank you for
+o-o
+admitting that
+o-o
+unethical laws
+o-o
+and immoral
+o-o
+executive orders
+o-o
+are still
+o-o
+flowing under
+o-o
+the bridge
+o-o
+of history.
 end-lyric
 
 ambee sings-vc amenn
