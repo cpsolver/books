@@ -93,5 +93,11 @@
       </navLabel>
       <content src="ogss_26.xhtml"/>
     </navPoint>
+    <navPoint id="segment_27" playOrder="14" class="chapter">
+      <navLabel>
+        <text>Reminder</text>
+      </navLabel>
+      <content src="ogss_27.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>
