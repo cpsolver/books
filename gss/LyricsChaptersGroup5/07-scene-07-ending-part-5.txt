@@ -410,9 +410,9 @@ o-o
 a mirror.
 sentence-next
 o-o
-So the critic's
+Usually
 o-o
-the one who
+the critic
 o-o
 deserves their own
 o-o
@@ -717,7 +717,7 @@ should get their
 o-o
 eyesight
 o-o
-checked.
+examined.
 end-lyric
 
 ambee sings-damien amenn

@@ -56,5 +56,5 @@ ISBN 9780963222152
 end-standard-paragraph
 
 begin-standard-paragraph
-BISAC DRA000000 (Drama, General), FIC016000 (Fiction, Humorous, General), POL008000 (Political Science, Political Process, Campaigns &#38; Elections)
+FIC016000 (Fiction, Humorous, General), POL008000 (Political Science, Political Process, Campaigns &#38; Elections), BISAC DRA000000 (Drama, General)
 end-standard-paragraph

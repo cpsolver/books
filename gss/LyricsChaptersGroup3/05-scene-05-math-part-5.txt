@@ -881,11 +881,23 @@ end-lyric
 ambee sings-mathprof amenn
 Fight it off with
 o-o
-a deep breath.
+a deep breath
+o-o
+...
 end-lyric
 
 ambee sings-damien amenn
 begin-explain Takes a deep breath. end-explain
+end-lyric
+
+ambee sings-mathprof amenn
+...
+o-o
+with a full
+o-o
+relaxing
+o-o
+exhale.
 end-lyric
 
 ambee sings-desha amenn

@@ -373,34 +373,27 @@ key.
 end-lyric
 
 ambee sings-damien amenn
-As I see it,
-o-o
-Amazon
-o-o
-uses computer
+So Amazon's
 o-o
 innovations
 o-o
-to eliminate
+eliminate
 o-o
 cash,
 o-o
 theft, and
 o-o
 restrooms.
-sentence-next
-o-o
-That increases
-o-o
-efficiency,
-o-o
-which brings
-o-o
-prosperity.
 end-lyric
 
 ambee sings-desha amenn
-It increases
+Yes,
+o-o
+which increases
+o-o
+efficiency,
+o-o
+which increases
 o-o
 prosperity
 o-o
@@ -409,11 +402,11 @@ o-o
 Bezos.
 sentence-next
 o-o
-Especially
+But selfishly
 o-o
-because he
+he steals
 o-o
-steals wages,
+wages,
 o-o
 bathroom breaks,
 o-o
@@ -748,9 +741,12 @@ promoted
 o-o
 based on
 o-o
-competence
+test hyphen-here based
 o-o
-instead of
+competence.
+o-o
+sentence-next
+Instead of
 o-o
 nepotism
 o-o
@@ -1184,9 +1180,10 @@ think we
 o-o
 already have
 o-o
-democracy
+full democracy?
+sentence-next
 o-o
-because
+Because
 o-o
 everyone
 o-o
@@ -1338,7 +1335,11 @@ sentence-next
 o-o
 Except in
 o-o
-Russia
+China and
+o-o
+North Korea,
+o-o
+and in Russia
 o-o
 where critics of
 o-o
@@ -1363,41 +1364,39 @@ o-o
 windows.
 sentence-next
 o-o
-In other words,
+So the
 o-o
-this pattern
-o-o
-of declining
+big picture is
 o-o
 cruelty
 o-o
-fits the
-o-o
-pattern of
+has been
 o-o
 declining
 o-o
-corruption.
+at the same time
+o-o
+as corruption.
 end-lyric
 
 ambee sings-desha amenn
-Now we express
+Now cruelty
 o-o
-our distress
+gets expressed
 o-o
-by creating
+as an
 o-o
 animated
 o-o
-fantasies
+fantasy
 o-o
-about disliked
+of a disliked
 o-o
-politicians
+politician
 o-o
 tumbling down
 o-o
-airplane stairs.
+steep stairs.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1415,13 +1414,19 @@ a very
 o-o
 effective
 o-o
-way for a
+way for an
+o-o
+uncorrupt
 o-o
 government
 o-o
 to increase
 o-o
-prosperity.
+prosperity
+o-o
+for nearly
+o-o
+everyone.
 end-lyric
 
 ambee sings-desha amenn
@@ -1516,17 +1521,25 @@ sentence-next
 o-o
 The IRS
 o-o
-wants us
+give tax breaks
 o-o
-to get married,
+for getting
 o-o
-buy a house,
+married
 o-o
-get pregnant,
+and buying
 o-o
-and raise a
+a house.
+end-lyric
+
+ambee sings-desha amenn
+Or buying
 o-o
-farmer.
+a farm
+o-o
+and getting
+o-o
+pregnant.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1745,81 +1758,95 @@ and wood.
 end-lyric
 
 ambee sings-damien amenn
-Does a
+Restaurants
 o-o
-McDonalds
+make things.
+sentence-next
 o-o
-franchise
-o-o
-location
-o-o
-create
-o-o
-something
-o-o
-with enough
-o-o
-value to get
+Would they get
 o-o
 that tax break?
 end-lyric
 
 ambee sings-econhist amenn
-No because
+If it's a
 o-o
-they only sell to
+single hyphen-here location
 o-o
-local customers,
+restaurant,
 o-o
-they sure don't
+yes,
 o-o
-attract tourists,
+because
 o-o
-and McDonalds
+they attract
 o-o
-headquarters
+customers
 o-o
-extorts
+to the city or
 o-o
-lots of money
-o-o
-for milkshake
-o-o
-machine
-o-o
-repairs.
+neighborhood.
 sentence-next
 o-o
-In contrast,
+But not if it's
 o-o
-a single hyphen-here location
+a chain
 o-o
-restaurant
+restaurant.
+end-lyric
+
+ambee sings-damien amenn
+What's the difference?
+end-lyric
+
+ambee sings-econhist amenn
+A chain business
 o-o
-usually creates
+extracts money
 o-o
-something so
+from the local
 o-o
-valuable
+economy
 o-o
-the business
+and sends it to
 o-o
-attracts
-o-o
-customers,
-o-o
-and their money,
-o-o
-from out of town.
+their headquarters.
 sentence-next
 o-o
-So they would get
+Plus,
 o-o
-the tax break.
+in the case of
+o-o
+McDonalds,
+o-o
+they have
+o-o
+an extortion
+o-o
+racket.
+sentence-next
+o-o
+They don't allow
+o-o
+anyone else
+o-o
+to repair
+o-o
+their milkshake
+o-o
+machines,
+o-o
+even though
+o-o
+the franchise
+o-o
+owner owns
+o-o
+the machine.
 end-lyric
 
 ambee sings-desha amenn
-What if the
+What if a
 o-o
 small restaurant
 o-o
@@ -1832,6 +1859,11 @@ o-o
 and fennel
 o-o
 milkshakes?
+sentence-next
+o-o
+That's not
+o-o
+valuable.
 end-lyric
 
 ambee sings-econhist amenn
@@ -2348,7 +2380,7 @@ Can you not think
 o-o
 of any
 o-o
-business owners
+rich people
 o-o
 who deserve
 o-o
@@ -2992,7 +3024,7 @@ and
 o-o
 memes
 o-o
-that support
+that support these
 o-o
 wannabe
 o-o
@@ -3229,7 +3261,7 @@ end-lyric
 ambee sings-desha amenn
 Because you've got
 o-o
-a reading
+a vision
 o-o
 disability
 o-o

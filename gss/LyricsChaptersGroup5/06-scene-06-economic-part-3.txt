@@ -841,7 +841,7 @@ mistresses.
 end-lyric
 
 ambee sings-econhist amenn
-There's another
+Here's another
 o-o
 advantage.
 sentence-next
@@ -1697,7 +1697,7 @@ o-o
 loops.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-econhist amenn
 This time it's
 o-o
 the lack of a
@@ -2508,11 +2508,11 @@ Edison,
 o-o
 Westinghouse,
 o-o
-Disney's brother,
+Marconi,
 o-o
-and the other
+and other
 o-o
-front men
+entrepreneurs
 o-o
 who win
 o-o
@@ -3354,30 +3354,6 @@ end-lyric
 
 ambee sings-desha amenn
 That's so sad.
-end-lyric
-
-ambee sings-damien amenn
-Especially
-o-o
-the loss of economic
-o-o
-prosperity
-o-o
-that financed
-o-o
-those
-o-o
-rocket hyphen-here science
-o-o
-creative
-o-o
-geniuses
-o-o
-who built
-o-o
-space hyphen-here exploration
-o-o
-technology.
 end-lyric
 
 ambee sings-econhist amenn

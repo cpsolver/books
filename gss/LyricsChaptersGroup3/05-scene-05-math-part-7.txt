@@ -72,23 +72,40 @@ o-o
 transferable
 o-o
 vote.
-end-lyric
-
-ambee sings-desha amenn
-That's confusing.
+sentence-next
+o-o
+And ranked choice
+o-o
+voting also
+o-o
+can refer to
+o-o
+any method
+o-o
+that uses
+o-o
+ranked choice
+o-o
+ballots.
 end-lyric
 
 ambee sings-damien amenn
-It's overwhelming
+That's
 o-o
-to me.
+overwhelmingly
+o-o
+confusing.
 end-lyric
 
 ambee sings-mathprof amenn
 Yes.
 sentence-next
 o-o
-It's another
+The picky
+o-o
+terminology
+o-o
+is another
 o-o
 reason we
 o-o
@@ -151,9 +168,9 @@ end-lyric
 ambee sings-mathprof amenn
 Plus adjustments
 o-o
-we've discussed that
+we've discussed
 o-o
-give fuller
+that give fuller
 o-o
 representation.
 end-lyric
@@ -666,7 +683,7 @@ owners,
 o-o
 the second hyphen-here seat
 o-o
-winner would
+winner will
 o-o
 represent
 o-o
@@ -679,20 +696,48 @@ o-o
 business owners.
 sentence-next
 o-o
-It's likely 
+The third seat
 o-o
-that the winners
+is won by
 o-o
-will include
+whoever
 o-o
-at least one
+is not well
 o-o
-woman.
+represented
+o-o
+by the first two
+o-o
+winners.
 sentence-next
 o-o
-In a typical
+That yields
 o-o
-big city,
+representative
+o-o
+diversity.
+end-lyric
+
+ambee sings-desha amenn
+Protection
+o-o
+against
+o-o
+getting just
+o-o
+males,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+end-lyric
+
+ambee sings-damien amenn
+And hopefully
+o-o
+in a big city
 o-o
 at least one
 o-o
@@ -700,21 +745,27 @@ minority
 o-o
 candidate
 o-o
-is likely to win
+will win a seat,
 o-o
-a seat.
+right?
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-mathprof amenn
+Usually
+o-o
+yes.
+end-lyric
+
+ambee sings-damien amenn
 Wow.
 sentence-next
 o-o
 Math is
 o-o
-magical.
+magical!
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 Wait.
 sentence-next
 o-o
@@ -729,7 +780,7 @@ o-o
 problem.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Yeah,
 o-o
 how do we avoid
@@ -936,7 +987,11 @@ of economics
 o-o
 is indeed boring,
 o-o
-for most of us.
+for everyone,
+o-o
+even econ
+o-o
+majors.
 sentence-next
 o-o
 But that's

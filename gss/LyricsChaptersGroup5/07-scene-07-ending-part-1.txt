@@ -1030,35 +1030,43 @@ o-o
 in most people.
 sentence-next
 o-o
-What someone says
+Talking involes
 o-o
-often has
+meanings that
+o-o
+are sloppy.
+end-lyric
+
+ambee sings-vc amenn
+Like when someone
+o-o
+says begin-italics next Friday end-italics
+o-o
+on a Wednesday?
+end-lyric
+
+ambee sings-minister amenn
+Yes,
 o-o
 ambiguity,
 o-o
 multiple
 o-o
-meanings.
-sentence-next
+meanings,
 o-o
-Too easily
+make it easy
 o-o
-we assume
+to assume
 o-o
-they meant what
+the words mean what
 o-o
-we expected.
-sentence-next
+we expect,
 o-o
-In life and
+instead of
 o-o
-relationships
+what the speaker
 o-o
-we need to ask
-o-o
-which meaning
-o-o
-they intended.
+intends.
 sentence-next
 o-o
 That's why talking

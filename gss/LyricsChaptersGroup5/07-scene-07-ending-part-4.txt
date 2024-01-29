@@ -122,28 +122,29 @@ o-o
 you're right.
 sentence-next
 o-o
-I've been
+I knew I was
 o-o
 subsidizing
 o-o
 some wealthy guys
 o-o
-in Florida.
+in Florida,
+o-o
+but I wasn't
+o-o
+bothered.
 sentence-next
 o-o
-I wasn't bothered
+That extra cost
 o-o
-because that cost,
+for sugar
 o-o
-for sugar,
+is tiny.
+sentence-next
 o-o
-is so tiny,
+Even for me,
 o-o
-even for me,
-o-o
-who ate a lot
-o-o
-of that sweet stuff.
+who isn't.
 end-lyric
 
 ambee sings-desha amenn
@@ -176,370 +177,46 @@ o-o
 utilities.
 end-lyric
 
-ambee sings-father-of-fiance amenn
-I'll bet us
+ambee sings-damien amenn
+In addition
 o-o
-developers would
+to ending
 o-o
-pay higher taxes.
-end-lyric
-
-ambee sings-desha amenn
-Indeed!
-sentence-next
+outright
 o-o
-Your business
+corruption,
 o-o
-taxes would
+there would be
 o-o
-be increased.
-sentence-next
+tax breaks
 o-o
-'N you deserve
+for some kinds
 o-o
-that 'cause
-o-o
-mostly
-o-o
-what you do is
-o-o
-buy land,
-o-o
-then use sneaky
-o-o
-election
-o-o
-tactics
-o-o
-to control
-o-o
-city councils
-o-o
-to change the
-o-o
-designation
-o-o
-of that land to
-o-o
-higher hyphen-here rent uses.
-sentence-next
-o-o
-And sometimes
-o-o
-you push for
-o-o
-expensive
-o-o
-trolley
-o-o
-train tracks
-o-o
-that go right by
-o-o
-your property
-o-o
-even though
-o-o
-bus lines
-o-o
-would be more
-o-o
-efficient.
-sentence-next
-o-o
-Those train tracks
-o-o
-ensure the route
-o-o
-won't get
-o-o
-rerouted.
-sentence-next
-o-o
-After using
-o-o
-those tricks you
-o-o
-build buildings
-o-o
-that rent
-o-o
-or sell at
-o-o
-jaw hyphen-here dropping
-o-o
-prices.
-sentence-next
-o-o
-That doesn't require
-o-o
-brains,
-o-o
-just
-o-o
-immorality.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-That's completely
-o-o
-legal.
-end-lyric
-
-ambee sings-desha amenn
-Putting
-o-o
-Japanese
-o-o
-Americans
-o-o
-in concentration
-o-o
-camps was legal.
-sentence-next
-o-o
-And so was
-o-o
-stealing the
-o-o
-Southern
-o-o
-California
-o-o
-farmland
-o-o
-that was owned
-o-o
-by lots of those
-o-o
-Japanese
-o-o
-Americans.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-That farmland
-o-o
-was paid for,
-o-o
-not stolen.
-end-lyric
-
-ambee sings-desha amenn
-Only having
-o-o
-a few days
-o-o
-to find a buyer
-o-o
-for a farm
-o-o
-means vultures
-o-o
-like you
-o-o
-did lots of
-o-o
-the buying,
-o-o
-at a fraction
-o-o
-of the farm's
-o-o
-value.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-That's water
-o-o
-under the bridge.
-end-lyric
-
-ambee sings-desha amenn
-Thank you for
-o-o
-admitting that
-o-o
-unethical laws
-o-o
-and immoral
-o-o
-executive orders
-o-o
-are still
-o-o
-flowing under
-o-o
-the bridge
-o-o
-of history.
+of businesses.
 end-lyric
 
 ambee sings-vc amenn
-So tell me what
-o-o
-I really want to know.
-sentence-next
-o-o
-Would taxes increase
-o-o
-on the businesses
-o-o
-I own,
-o-o
-or own shares of?
+Which businesses?
 end-lyric
 
 ambee sings-damien amenn
-Some would pay lower
+Businesses
 o-o
-taxes, and others
+that bring money
 o-o
-would pay higher
+into the
 o-o
-taxes.
-end-lyric
-
-ambee sings-vc amenn
-That's not specific.
-end-lyric
-
-ambee sings-desha amenn
-Businesses that
+region
 o-o
-exploit would pay
+from customers
 o-o
-higher taxes.
-end-lyric
-
-ambee sings-damien amenn
-Businesses that
+outside
 o-o
-bring benefits would
-o-o
-pay lower taxes.
-end-lyric
-
-ambee sings-vc amenn
-That's still not
-o-o
-specific.
-end-lyric
-
-ambee sings-desha amenn
-Developers
-o-o
-like you
-o-o
-would be
-o-o
-forced to pay
-o-o
-higher
-o-o
-taxes.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-On what basis?
-end-lyric
-
-ambee sings-desha amenn
-You do not bring
-o-o
-a net gain to the
-o-o
-local economy.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-On the contrary!
-sentence-next
-o-o
-People from elsewhere
-o-o
-move here.
-sentence-next
-o-o
-And they bring
-o-o
-their wealth
-o-o
-into the local
-o-o
-economy.
-end-lyric
-
-ambee sings-desha amenn
-That brings
-o-o
-money to you,
-o-o
-but it increases
-o-o
-traffic, and
-o-o
-increases
-o-o
-infrastructure
-o-o
-costs to those of us
-o-o
-already here.
-end-lyric
-
-ambee sings-damien amenn
-And it pushes up
-o-o
-the cost of
-o-o
-housing,
-o-o
-which pushes
-o-o
-more and more
-o-o
-people into
-o-o
-homelessness.
-end-lyric
-
-ambee sings-desha amenn
-Plus your business
-o-o
-requires lots of
-o-o
-regulation,
-o-o
-which is a drain
-o-o
-on city management
-o-o
-budgets.
-end-lyric
-
-ambee sings-vc amenn
-Tell me which kinds
-o-o
-of businesses
+the region
 o-o
 would get lower
 o-o
 taxes.
-end-lyric
-
-ambee sings-damien amenn
-The ones that bring
-o-o
-money into the
-o-o
-region from
-o-o
-customers
-o-o
-outside
-o-o
-the region.
 sentence-next
 o-o
 Of course
@@ -572,22 +249,91 @@ restaurants.
 end-lyric
 
 ambee sings-vc amenn
-They get lower taxes?
+Big
+o-o
+businesses
+o-o
+like Apple,
+o-o
+Boeing,
+o-o
+Disney,
+o-o
+General Motors,
+o-o
+Intel,
+o-o
+Nike,
+o-o
+and
+o-o
+Hollywood
+o-o
+movie studios,
+o-o
+already
+o-o
+get tax breaks.
 sentence-next
 o-o
-Why?
+Why should
+o-o
+they get more?
 end-lyric
 
 ambee sings-desha amenn
-Because they
+This new tax break
+o-o
+would be for
+o-o
+similar
+o-o
+businesses
+o-o
+that are small.
+sentence-next
+o-o
+They don't have
+o-o
+time and money
+o-o
+to lobby
+o-o
+for special
+o-o
+tax breaks.
+sentence-next
+o-o
+Yet they too
 o-o
 bring a net flow
 o-o
 of money into
 o-o
-the city
+a city
 o-o
-and county.
+or state.
+sentence-next
+o-o
+And there are
+o-o
+many
+o-o
+thousands
+o-o
+of them
+o-o
+in a big city,
+o-o
+so collectively
+o-o
+they too
+o-o
+greatly benefit
+o-o
+the local
+o-o
+economy.
 end-lyric
 
 ambee sings-vc amenn
@@ -648,41 +394,66 @@ location.
 end-lyric
 
 ambee sings-father-of-fiance amenn
-My business
+I often sell
 o-o
-hires lots of workers.
+condos
+o-o
+and homes
+o-o
+to people from
+o-o
+elsewhere.
+sentence-next
+o-o
+That brings
+o-o
+lots of wealth
+o-o
+into our local
+o-o
+economy.
 end-lyric
 
 ambee sings-desha amenn
-But only
+That brings
 o-o
-temporarily.
-sentence-next
+money to you,
 o-o
-After
+but it increases
 o-o
-development
+traffic,
 o-o
-the jobs are gone.
-sentence-next
+and reduces
 o-o
-The kinds of
+the land
 o-o
-businesses
+available
 o-o
-that get
+for homes
 o-o
-lower taxes
+that are more
 o-o
-continue to
+affordable,
 o-o
-employ people
+which is what
 o-o
-as long as
+we need more of.
+end-lyric
+
+ambee sings-damien amenn
+Pushing up
 o-o
-they stay in
+the cost of
 o-o
-business.
+housing
+o-o
+pushes
+o-o
+more and more
+o-o
+people into
+o-o
+homelessness.
 end-lyric
 
 ambee sings-vc amenn
@@ -693,15 +464,9 @@ o-o
 to see.
 sentence-next
 o-o
-Raise taxes on
+We could
 o-o
-activities that
-o-o
-drain the
-o-o
-local economy,
-o-o
-and reduce taxes
+reduce taxes
 o-o
 on activities
 o-o
@@ -710,6 +475,21 @@ o-o
 local
 o-o
 economy.
+sentence-next
+o-o
+Without giving
+o-o
+yet more tax breaks
+o-o
+to businesses
+o-o
+that do
+o-o
+activities that
+o-o
+drain the
+o-o
+local economy.
 end-lyric
 
 ambee sings-damien amenn
@@ -1207,69 +987,10 @@ o-o
 economy.
 end-lyric
 
-ambee sings-vc amenn
-I know the owner
-o-o
-of a restaurant.
-sentence-next
-o-o
-A single hyphen-here location
-o-o
-restaurant.
-sentence-next
-o-o
-He hires
-o-o
-kitchen prep
-o-o
-employees,
-o-o
-and cleanup crews,
-o-o
-and his stories
-o-o
-agree
-o-o
-with your views.
-end-lyric
-
-ambee sings-damien amenn
-The big maker
-o-o
-businesses
-o-o
-like Apple,
-o-o
-Boeing,
-o-o
-Disney,
-o-o
-General Motors,
-o-o
-Intel,
-o-o
-Nike,
-o-o
-and
-o-o
-Hollywood
-o-o
-movie studios,
-o-o
-get tax breaks.
-sentence-next
-o-o
-The small maker
-o-o
-businesses
-o-o
-get screwed.
-end-lyric
-
 ambee sings-desha amenn
-Yeah,
+Yet currently,
 o-o
-the small maker
+small maker
 o-o
 businesses
 o-o
@@ -1286,26 +1007,6 @@ o-o
 and franchise
 o-o
 places.
-sentence-next
-o-o
-Speaking of
-o-o
-franchises,
-o-o
-places like
-o-o
-Burger King
-o-o
-are not
-o-o
-restaurants.
-sentence-next
-o-o
-A better name
-o-o
-would be
-o-o
-begin-italics Burger Not end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
@@ -1509,92 +1210,71 @@ I admit I do.
 o-o
 I hadn't
 o-o
-realized
+noticed this
 o-o
-that what other
-o-o
-businesses
-o-o
-pay to their
-o-o
-employees
-o-o
-matters
-o-o
-to my
-o-o
-business.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Let those other
-o-o
-businesses
-o-o
-take care of
-o-o
-themselves.
+distinction.
 sentence-next
 o-o
-Don't fall for
+I can see
 o-o
-this socialist
+those small maker
 o-o
-hogwash.
-sentence-next
+businesses,
 o-o
-Plus it will take
+including
 o-o
-way too long
+restaurants
 o-o
-for tax breaks
+that attract
 o-o
-to make a
+tourists,
 o-o
-difference.
-end-lyric
-
-ambee sings-desha amenn
-In real estate
+don't have time
 o-o
-you plan
+to lobby for
 o-o
-decades
-o-o
-in advance.
-sentence-next
-o-o
-What you say
-o-o
-and what you do
-o-o
-don't match.
+these tax breaks.
 end-lyric
 
 ambee sings-damien amenn
-Speaking of
-o-o
-tax breaks,
-o-o
-eventually
-o-o
-your business,
-o-o
-name-vc no-space ,
-o-o
-will get a
+And there's another
 o-o
 tax break
 o-o
-if you make
+that will help
 o-o
-your wage gap
+improve the
 o-o
-smaller.
+local economy.
+sentence-next
+o-o
+It will go to
+o-o
+businesses
+o-o
+that have a
+o-o
+smaller wage gap
+o-o
+compared to
+o-o
+typical
+o-o
+businesses
+o-o
+that underpay
+o-o
+the workers
+o-o
+who do the work
+o-o
+that customers
+o-o
+pay for.
 end-lyric
 
 ambee sings-desha amenn
-That's the gap
+The wage gap is
 o-o
 between your
 o-o
@@ -1607,14 +1287,21 @@ o-o
 lower hyphen-here wage
 o-o
 employees.
+sentence-next
 o-o
-The ones who
+That gap
 o-o
-do the work
+gets smaller
 o-o
-your customers
+by increasing
 o-o
-acually pay for.
+the wages of
+o-o
+employees
+o-o
+at the bottom
+o-o
+of the business.
 end-lyric
 
 ambee sings-vc amenn
@@ -2280,13 +1967,13 @@ cost less.
 end-lyric
 
 ambee sings-vc amenn
-And buying time
+And buying time,
 o-o
-I do
+that's what I do
 o-o
 whenever
 o-o
-that's on
+it's on
 o-o
 the menu.
 end-lyric

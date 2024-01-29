@@ -41,7 +41,7 @@ Richard started life in southern California (Oceanside, at the north end of San 
 end-standard-paragraph
 
 begin-standard-paragraph
-To see a list of projects created by Richard Fobes, including books, websites, software, and a new programming language, point your browser to SolutionsCreative dot com.
+To see a list of projects created by Richard Fobes, including books, websites, software, and a new programming language, plus a video of him dancing, point your browser to SolutionsCreative dot com.
 end-standard-paragraph
 
 begin-paragraph-centered

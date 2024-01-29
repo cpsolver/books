@@ -1446,7 +1446,9 @@ o-o
 wealthy.
 sentence-next
 o-o
-For those
+Well,
+o-o
+at least for those
 o-o
 living in
 o-o
@@ -1967,20 +1969,18 @@ Home
 o-o
 ownership
 o-o
-disappeared
+is a fuzzy
 o-o
-from my view
+mirage
 o-o
-long ago.
+to me.
 sentence-next
 o-o
-Yet rent
+As for food
 o-o
-and food
+and ice cream,
 o-o
-and ice cream
-o-o
-are rising
+they're rising
 o-o
 like a rocket.
 sentence-next
@@ -2710,19 +2710,23 @@ merchants
 o-o
 didn't use
 o-o
-heavier weights
+lighter weights
 o-o
 to measure
 o-o
-what they bought,
+what they sell,
 o-o
-and lighter weights
+and heavier weights
 o-o
-to measure
+to measure what
 o-o
-the gold and gems
+the customer
 o-o
-they paid.
+pays in
+o-o
+silver or gems
+o-o
+or grain.
 sentence-next
 o-o
 That was a big
@@ -3444,7 +3448,7 @@ That part I don't
 o-o
 understand
 o-o
-either.
+myself.
 end-lyric
 
 ambee sings-econhist amenn
@@ -3944,7 +3948,7 @@ where there
 o-o
 is less
 o-o
-of some kinds
+of some kinds of
 o-o
 corruption.
 end-lyric
