@@ -141,11 +141,13 @@ some fruit for
 o-o
 the next
 o-o
-hungry woman
+hungry child,
 o-o
-or man who
+woman,
 o-o
-comes along?
+or man
+o-o
+who comes along?
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -246,7 +248,9 @@ o-o
 pick it up.
 sentence-next
 o-o
-I spoke up.
+I spoke up,
+o-o
+then she cursed.
 end-lyric
 
 ambee sings-fiance amenn
@@ -987,9 +991,11 @@ o-o
 lawyer.
 sentence-next
 o-o
-So on TV
+As a result,
 o-o
-you always see
+those TV shows
+o-o
+always show
 o-o
 district
 o-o
@@ -1004,21 +1010,13 @@ sentence-next
 o-o
 But in real life
 o-o
-white criminals
+most white criminals
 o-o
-get off
+can afford
 o-o
-with a money
+to hire slick
 o-o
-penalty
-o-o
-because they can
-o-o
-afford to
-o-o
-hire a slick
-o-o
-lawyer.
+lawyers.
 sentence-next
 o-o
 It's underpaid
@@ -1054,7 +1052,7 @@ mistakenly
 o-o
 believe
 o-o
-typically
+only
 o-o
 defend
 o-o

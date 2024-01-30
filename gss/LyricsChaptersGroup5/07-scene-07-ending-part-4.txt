@@ -757,7 +757,9 @@ sentence-next
 o-o
 Some of that wealth
 o-o
-gets to customers
+reaches your
+o-o
+customers
 o-o
 who buy or rent
 o-o
@@ -823,28 +825,24 @@ really does
 o-o
 trickle down
 o-o
-to us
+to other
 o-o
 business owners.
 sentence-next
 o-o
 I had failed
 o-o
-to trace the flow
+to see that
 o-o
-of money back
-o-o
-to the maker
+begin-italics small end-italics maker
 o-o
 businesses
 o-o
-that first bring
+also should be
 o-o
-money into
+getting
 o-o
-the region's
-o-o
-economy.
+tax breaks.
 end-lyric
 
 ambee sings-damien amenn
@@ -1564,7 +1562,7 @@ When those women
 o-o
 earn more,
 o-o
-they will spend
+they'll spend
 o-o
 more of it
 o-o
@@ -1915,17 +1913,36 @@ a kitchen
 o-o
 food prep machine
 o-o
-sounds like
+sounds good,
 o-o
-maybe a good
+now that
 o-o
-alternative
+getting takeout
 o-o
-to getting
+delivered
 o-o
-so much takeout
+must be rare,
 o-o
-delivered.
+and ice cream
+o-o
+is no longer
+o-o
+a food.
+sentence-next
+o-o
+Prepping
+o-o
+apples,
+o-o
+carrots,
+o-o
+oranges,
+o-o
+potatoes,
+o-o
+and such
+o-o
+could be handy.
 end-lyric
 
 ambee sings-father-of-fiance amenn

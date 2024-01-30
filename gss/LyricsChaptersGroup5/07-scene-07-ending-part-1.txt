@@ -959,11 +959,13 @@ o-o
 in most people.
 sentence-next
 o-o
-Talking involes
+Talking involves
 o-o
-meanings that
+word meanings
 o-o
-are sloppy.
+that are
+o-o
+sloppy.
 end-lyric
 
 ambee sings-vc amenn
@@ -1288,26 +1290,24 @@ o-o
 notices.
 sentence-next
 o-o
-Sadly, I've got
+Sadly,
 o-o
-no close friends
+I've not got a
 o-o
-in spite of my
+loving wife
 o-o
-great wealth.
+in my life.
 sentence-next
 o-o
-Women say
+Of course
+o-o
+women say
 o-o
 they want me,
 o-o
-but actually,
+but actually
 o-o
-besides my
-o-o
-money,
-o-o
-they crave
+what they crave are
 o-o
 outings
 o-o
@@ -1329,7 +1329,11 @@ o-o
 upside down.
 sentence-next
 o-o
-Got no close friends.
+Got no
+o-o
+loving spouse
+o-o
+or close friends.
 sentence-next
 o-o
 Who can I trust?
@@ -2006,35 +2010,39 @@ word in
 o-o
 ancient Greek
 o-o
-also could have
+is ambiguous.
+sentence-next
+o-o
+Besides
+o-o
+carpenter
+o-o
+it could have
 o-o
 referred to
 o-o
-a blacksmith,
+a stone mason,
 o-o
-a ship builder,
+ship builder,
 o-o
-or a stone mason.
-sentence-next
+or blacksmith,
 o-o
-Stone mason
+which back then,
 o-o
-makes the most
+were their versions
 o-o
-sense to me.
+of high tech.
 sentence-next
 o-o
 A crew of
 o-o
-thirteen
+stone masons
 o-o
-stone masons,
+and assistants,
 o-o
-plus the
+plus women
 o-o
-women who
-o-o
-did their cooking
+for cooking
 o-o
 and laundry,
 o-o
@@ -2046,48 +2054,63 @@ and well paid,
 o-o
 for constructing
 o-o
-stone buildings.
-sentence-next
+stone buildings
 o-o
-Especially
+with
 o-o
-ones with big
-o-o
-archways.
+arches.
 end-lyric
 
 ambee sings-vc amenn
-That does make
+Considering
+o-o
+geography,
+o-o
+portability,
+o-o
+and intelligence,
+o-o
+that makes
 o-o
 more sense.
 sentence-next
 o-o
-I too sometimes
+About the boasting,
 o-o
-find myself
+I admit
 o-o
-boasting,
+sometimes
 o-o
-so what's your
+I do it.
+sentence-next
 o-o
-wisdom on that?
+So what's your
+o-o
+wisdom on
+o-o
+self hyphen-here promoting?
 end-lyric
 
 ambee sings-minister amenn
-Boasting
+Boasting is a
 o-o
-is a sign of
+displayed
 o-o
-low self esteem.
+kind of pride.
 sentence-next
 o-o
-Yet the real kind
+Real self love
 o-o
-of self love is
+you build
 o-o
-essential.
+inside.
+sentence-next
 o-o
-That's because
+And it's
+o-o
+essential
+o-o
+because
 o-o
 you can't love
 o-o
@@ -2098,25 +2121,20 @@ o-o
 yourself.
 sentence-next
 o-o
-That kind of
+So usually
 o-o
-self love
+boasting
 o-o
-you build
+indicates
 o-o
-inside,
-o-o
-not as a
-o-o
-displayed
-o-o
-kind of pride.
+low self esteem.
 end-lyric
 
 ambee sings-father-of-fiance amenn
-I don't
+I disagree!
+sentence-next
 o-o
-suffer from
+I don't have
 o-o
 low self hyphen-here esteem!
 sentence-next
