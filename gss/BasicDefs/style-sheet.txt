@@ -59,7 +59,7 @@ page<hyphen_here>break<hyphen_here>after:avoid;
 
 h1 {
 font<hyphen_here>size:170%;
-break<hyphen_here>before:right;
+break<hyphen_here>before:left;
 margin<hyphen_here>left:1em;
 margin<hyphen_here>right:1em;
 }

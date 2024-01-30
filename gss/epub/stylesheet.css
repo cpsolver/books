@@ -57,7 +57,7 @@ page-break-after:avoid;
 
 h1 {
 font-size:170%;
-break-before:right;
+break-before:left;
 margin-left:1em;
 margin-right:1em;
 }
@@ -104,12 +104,12 @@ list-style-type:none;
 toc {
 font-family:"Palatino","Georgia","Times",serif;
 font-weight:bold;
-font-size:130%;
+font-size:140%;
 text-align:left;
 text-indent:0;
-margin-left:5em;
+margin-left:7em;
 margin-right:3em;
-margin-top:1em;
+margin-top:3em;
 margin-bottom:3em;
 }
 

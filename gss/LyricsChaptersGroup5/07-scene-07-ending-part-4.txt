@@ -212,11 +212,7 @@ from customers
 o-o
 outside
 o-o
-the region
-o-o
-would get lower
-o-o
-taxes.
+the region.
 sentence-next
 o-o
 Of course
@@ -249,9 +245,9 @@ restaurants.
 end-lyric
 
 ambee sings-vc amenn
-Big
+Those kinds of
 o-o
-businesses
+businesses,
 o-o
 like Apple,
 o-o
@@ -284,7 +280,7 @@ end-lyric
 ambee sings-desha amenn
 This new tax break
 o-o
-would be for
+will be for
 o-o
 similar
 o-o
@@ -295,7 +291,7 @@ sentence-next
 o-o
 They don't have
 o-o
-time and money
+time or money
 o-o
 to lobby
 o-o
@@ -304,18 +300,7 @@ o-o
 tax breaks.
 sentence-next
 o-o
-Yet they too
-o-o
-bring a net flow
-o-o
-of money into
-o-o
-a city
-o-o
-or state.
-sentence-next
-o-o
-And there are
+Yet there are
 o-o
 many
 o-o
@@ -323,17 +308,18 @@ thousands
 o-o
 of them
 o-o
-in a big city,
+in a big city.
+sentence-next
 o-o
-so collectively
+Collectively
 o-o
-they too
+they greatly
 o-o
-greatly benefit
+enrich
 o-o
-the local
+the city
 o-o
-economy.
+and state.
 end-lyric
 
 ambee sings-vc amenn
@@ -348,25 +334,24 @@ restaurants?
 end-lyric
 
 ambee sings-damien amenn
-They send lots
+Chain businesses
 o-o
-of their profits
+send lots of
+o-o
+their profits
 o-o
 to corporate
 o-o
-headquarters,
+headquarters.
+sentence-next
 o-o
-which drains
+That drains
 o-o
 money from
 o-o
-the city and
+the local
 o-o
-state where the
-o-o
-restaurant's
-o-o
-located.
+economy.
 end-lyric
 
 ambee sings-desha amenn

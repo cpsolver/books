@@ -486,7 +486,9 @@ so they choose
 o-o
 dramatic news
 o-o
-that excites
+and sound bites
+o-o
+that excite
 o-o
 your fears,
 o-o
@@ -497,81 +499,10 @@ o-o
 and your
 o-o
 laughter.
-sentence-next
-o-o
-Politicians
-o-o
-use name hyphen-here calling,
-o-o
-lies,
-o-o
-and
-o-o
-vilification
-o-o
-to
-o-o
-manufacture
-o-o
-drama
-o-o
-that fits under
-o-o
-that low
-o-o
-limbo bar
-o-o
-of news.
-sentence-next
-o-o
-Sports newscasters
-o-o
-report on games
-o-o
-where the drama
-o-o
-comes from
-o-o
-challenges,
-o-o
-such as
-o-o
-basketball nets
-o-o
-too high to
-o-o
-body block,
-o-o
-and forced
-o-o
-scarcity,
-o-o
-such as using
-o-o
-the smallest
-o-o
-number of balls.
-sentence-next
-o-o
-What you won't hear
-o-o
-on the news
-o-o
-are reports on
-o-o
-civilized
-o-o
-behavior,
-o-o
-such as
-o-o
-resolving
-o-o
-conflicts
-o-o
-without lawyers,
-o-o
-and keeping
+end-lyric
+
+ambee sings-vc amenn
+Ah yes,
 o-o
 assault weapons
 o-o
@@ -579,17 +510,34 @@ in the hands
 o-o
 of blind
 o-o
-pacifists.
-end-lyric
-
-ambee sings-vc amenn
-When I was young
+pacifists
 o-o
-I heard priests
+would never
 o-o
-yell in anger
+qualify
 o-o
-against evil.
+as newsworthy.
+sentence-next
+o-o
+Yet I still
+o-o
+vividly
+o-o
+remember
+o-o
+as a child
+o-o
+hearing priests
+o-o
+yelling in anger
+o-o
+against
+o-o
+the devil
+o-o
+to stop tempting
+o-o
+us mortal souls.
 end-lyric
 
 ambee sings-minister amenn
@@ -751,34 +699,15 @@ mostly fight
 o-o
 to protect
 o-o
-their family,
+their friends,
 o-o
-friends and
+family,
 o-o
-comrades,
+culture,
 o-o
-and protect
+money,
 o-o
-their culture
-o-o
-or religion,
-o-o
-or some aspect
-o-o
-of their
-o-o
-sexuality.
-sentence-next
-o-o
-For those folks
-o-o
-an ideology
-o-o
-is mostly
-o-o
-frosting on the
-o-o
-cookie.
+and sexuality.
 sentence-next
 o-o
 Alas,
