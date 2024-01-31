@@ -602,28 +602,13 @@ sentence-next
 o-o
 Ironically
 o-o
-part of the
+Jews became
 o-o
-reason Jews
+wealthy
 o-o
-had become
+because
 o-o
-wealthy is that
-o-o
-early Christians
-o-o
-were taught
-o-o
-they should not
-o-o
-charge interest
-o-o
-when lending
-o-o
-money.
-sentence-next
-o-o
-So early
+early
 o-o
 Christians
 o-o
@@ -633,9 +618,26 @@ living in
 o-o
 ghettos
 o-o
-to do the
+to lend money.
+sentence-next
 o-o
-lending.
+That was back when
+o-o
+early Christian
+o-o
+leaders
+o-o
+declared it was
+o-o
+a sin
+o-o
+for Christians
+o-o
+to charge
+o-o
+interest
+o-o
+on loans.
 end-lyric
 
 ambee sings-vc amenn
@@ -1072,11 +1074,11 @@ and
 o-o
 entrepreneurs
 o-o
-to learn skills,
+to wake up with
 o-o
-obey their
+an alarm clock,
 o-o
-alarm clock,
+learn lots of skills,
 o-o
 and attract
 o-o
@@ -1124,9 +1126,7 @@ are learning
 o-o
 and doing
 o-o
-and benefitting
-o-o
-others.
+and entertaining.
 sentence-next
 o-o
 Now the skill
@@ -2025,13 +2025,16 @@ a stone mason,
 o-o
 ship builder,
 o-o
-or blacksmith,
+or blacksmith.
+sentence-next
 o-o
-which back then,
+Back then,
 o-o
-were their versions
+those were
 o-o
-of high tech.
+high tech
+o-o
+vocations.
 sentence-next
 o-o
 A crew of
@@ -2039,6 +2042,14 @@ o-o
 stone masons
 o-o
 and assistants,
+o-o
+maybe including
+o-o
+a carpenter
+o-o
+to build forms
+o-o
+for stone arches,
 o-o
 plus women
 o-o
@@ -2092,42 +2103,40 @@ self hyphen-here promoting?
 end-lyric
 
 ambee sings-minister amenn
-Boasting is a
+Boasting reveals
 o-o
-displayed
+a big ego,
+o-o
+which conceals
+o-o
+low self esteem.
+sentence-next
+o-o
+It's a displayed
 o-o
 kind of pride.
 sentence-next
 o-o
-Real self love
+True self love
 o-o
-you build
+is built
 o-o
-inside.
+from inside.
 sentence-next
 o-o
 And it's
 o-o
-essential
+foundational
 o-o
 because
 o-o
 you can't love
 o-o
-someone else
+others
 o-o
 more than you love
 o-o
 yourself.
-sentence-next
-o-o
-So usually
-o-o
-boasting
-o-o
-indicates
-o-o
-low self esteem.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -2142,15 +2151,6 @@ o-o
 I'm proud of what
 o-o
 I accomplish.
-sentence-next
-o-o
-Especially
-o-o
-compared to
-o-o
-most people who
-o-o
-just daydream.
 sentence-next
 o-o
 The

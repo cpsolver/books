@@ -1,5 +1,5 @@
 combee ****
-This is a bug fix for some ebook readers that otherwise repeat the last paragraph of the book.
+This is a bug fix for some ebook readers that otherwise repeat the last paragraph of the book, or fail to show the last paragraph.
 **** comenn
 
 begin-title
@@ -10,4 +10,13 @@ begin-standard-paragraph
 Please help get ranked choice ballots and pairwise vote counting adopted for use in United States general elections.
 sentence-next
 This path leads to widespread economic prosperity, effective solutions to global problems, and greater joy.
+end-standard-paragraph
+
+
+begin-title
+The End
+end-title
+
+begin-standard-paragraph
+(Some ebook readers need this extra bookend.)
 end-standard-paragraph

@@ -13,7 +13,9 @@ end-lyric
 ambee sings-desha amenn
 Using fractions
 o-o
-as foreplay
+in romantic
+o-o
+situations
 o-o
 would solve
 o-o
@@ -45,10 +47,10 @@ o-o
 fractions.
 end-lyric
 
-ambee sings-damien amenn
-Now it's clear
+ambee sings-desha amenn
+That's why
 o-o
-why an hour has
+an hour has
 o-o
 sixty minutes
 o-o
@@ -57,17 +59,16 @@ o-o
 minute has
 o-o
 sixty seconds.
-sentence-next
-o-o
-That was done
-o-o
-to avoid
-o-o
-fractions!
 end-lyric
 
 ambee sings-mathprof amenn
-Sixty divides
+That avoids
+o-o
+fractions
+o-o
+because
+o-o
+sixty divides
 o-o
 without remainders
 o-o
@@ -258,17 +259,17 @@ o-o
 as a clown.
 end-lyric
 
-ambee sings-damien amenn
-Oh, I think
+ambee sings-desha amenn
+Here's a trick
 o-o
-I'm seein'
-o-o
-your point.
+I learned.
 sentence-next
 o-o
-Division
+A fraction
 o-o
-asks the question:
+is askin'
+o-o
+the question
 o-o
 begin-italics What number
 o-o
@@ -280,7 +281,7 @@ times the number
 o-o
 on the bottom
 o-o
-of a fraction
+of the fraction
 o-o
 to get the
 o-o
@@ -289,17 +290,13 @@ o-o
 top of the
 o-o
 fraction? end-italics
-o-o
-Is that right?
+end-lyric
+
+ambee sings-damien amenn
+That's a slick trick.
 end-lyric
 
 ambee sings-mathprof amenn
-Yes!
-sentence-next
-o-o
-Excellent!
-sentence-next
-o-o
 Now you
 o-o
 understand
@@ -322,61 +319,21 @@ o-o
 designed.
 sentence-next
 o-o
-There's lots more.
-sentence-next
+Of course
 o-o
-And yet,
-o-o
-so much of it
-o-o
-would make sense
-o-o
-if math history
-o-o
-were taught
-o-o
-with a
-o-o
-focus on
-o-o
-concepts.
-sentence-next
-o-o
-It even explains
-o-o
-why we say
-o-o
-fourteen and
-o-o
-thirteen but not
-o-o
-two hyphen-here teen
-o-o
-and one hyphen-here teen.
-end-lyric
-
-ambee sings-desha amenn
-I suppose
-o-o
-this explains
-o-o
-why hotel
-o-o
-elevators
-o-o
-can't count to
-o-o
-thirteen.
+there's lots more.
 end-lyric
 
 ambee sings-damien amenn
-I sure feel
+Now I won't feel
 o-o
 unlucky
 o-o
-when I'm stuck with
+when I'm stuck
 o-o
-a measurement
+with a
+o-o
+measurement
 o-o
 of thirteen
 o-o
@@ -712,22 +669,9 @@ o-o
 in college.
 sentence-next
 o-o
-Computers
+And computers
 o-o
 do it better.
-sentence-next
-o-o
-We really ought
-o-o
-to have a
-o-o
-revolution
-o-o
-in how math,
-o-o
-and more,
-o-o
-is taught.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -761,30 +705,18 @@ I love it!
 end-lyric
 
 ambee sings-mathprof amenn
-Definitions,
+Teachers and
 o-o
-terminology,
+professors
 o-o
-memorization
+teach what
 o-o
-of facts,
+textbooks
 o-o
-grammar rules,
-o-o
-math rules,
-o-o
-etcetera
-o-o
-are what professors
-o-o
-teach because
-o-o
-textbooks focus
-o-o
-on them.
+focus on.
 sentence-next
 o-o
-And standardized
+Standardized
 o-o
 tests test
 o-o

@@ -94,6 +94,8 @@ sentence-next
 o-o
 The people
 o-o
+in Florida
+o-o
 who exploit
 o-o
 that legal
@@ -845,39 +847,53 @@ o-o
 tax breaks.
 end-lyric
 
-ambee sings-damien amenn
-And it affects
+ambee sings-desha amenn
+Keep in mind that
 o-o
-homelessness.
+economic
+o-o
+prosperity,
+o-o
+the widespread kind,
+o-o
+reduces
+o-o
+unemployment,
+o-o
+homelessness,
+o-o
+drug abuse,
+o-o
+crime,
+o-o
+anger,
+o-o
+fighting,
+o-o
+and
+o-o
+probably
+o-o
+interest rates.
 sentence-next
 o-o
-If less money
+Each of those
 o-o
-enters the state
+feeds on
 o-o
-through maker
+the others
 o-o
-businesses,
+in a bad
 o-o
-high hyphen-here priced condos
+feedback loop.
+end-lyric
+
+ambee sings-damien amenn
+So if you
 o-o
-become
+don't want
 o-o
-unaffordable,
-o-o
-everyone
-o-o
-eventually
-o-o
-moves to
-o-o
-smaller houses
-o-o
-and smaller
-o-o
-apartments,
-o-o
-and a low hyphen-here wage
+a low hyphen-here wage
 o-o
 employee
 o-o
@@ -885,59 +901,15 @@ in a tiny
 o-o
 studio
 o-o
-apartment
+apartment to
 o-o
-gets forced into
-o-o
-homelessness.
-end-lyric
-
-ambee sings-desha amenn
-And it affects
-o-o
-drug abuse
-o-o
-and crime.
-sentence-next
-o-o
-Homeless
-o-o
-people often
-o-o
-numb the pain
-o-o
-of their
-o-o
-suffering
-o-o
-with drug abuse.
-sentence-next
-o-o
-That can lead to
-o-o
-stealing
-o-o
-from stores,
-o-o
-which hurts
-o-o
-the owners
-o-o
-of those
-o-o
-businesses.
-end-lyric
-
-ambee sings-damien amenn
-So if you want
-o-o
-less crime,
-o-o
-less drug abuse,
-o-o
-and less
+get forced into
 o-o
 homelessness,
+o-o
+then drugs,
+o-o
+then crime,
 o-o
 now is the time
 o-o
@@ -1352,7 +1324,11 @@ the work
 o-o
 your customers
 o-o
-care about.
+write about
+o-o
+on social
+o-o
+media.
 end-lyric
 
 ambee sings-damien amenn
@@ -1913,7 +1889,7 @@ a kitchen
 o-o
 food prep machine
 o-o
-sounds good,
+sounds useful,
 o-o
 now that
 o-o
@@ -1921,16 +1897,19 @@ getting takeout
 o-o
 delivered
 o-o
-must be rare,
+will be rare,
 o-o
-and ice cream
+ice cream
 o-o
 is no longer
 o-o
-a food.
-sentence-next
+a food,
 o-o
-Prepping
+and
+o-o
+automating
+o-o
+the prepping of
 o-o
 apples,
 o-o
@@ -1942,40 +1921,5 @@ potatoes,
 o-o
 and such
 o-o
-could be handy.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-I admit
-o-o
-a food prep
-o-o
-appliance
-o-o
-might reduce
-o-o
-labor costs
-o-o
-for my favorite
-o-o
-restaurants.
-sentence-next
-o-o
-That might make
-o-o
-dining out
-o-o
-cost less.
-end-lyric
-
-ambee sings-vc amenn
-And buying time,
-o-o
-that's what I do
-o-o
-whenever
-o-o
-it's on
-o-o
-the menu.
+will save time.
 end-lyric

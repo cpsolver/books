@@ -232,222 +232,40 @@ o-o
 end-lyric
 
 ambee sings-mathprof amenn
-Zero as a digit
-o-o
-was not known in
-o-o
-ancient Egypt,
-o-o
-Babylon, Greece,
-o-o
-and Rome.
-sentence-next
-o-o
-But in ancient
-o-o
-China they put
-o-o
-their counting marks
-o-o
-inside a square.
-sentence-next
-o-o
-So when no marks
-o-o
-are there,
-o-o
-it's an empty
-o-o
-square.
-sentence-next
-o-o
-That changed to
-o-o
-a circle as
-o-o
-the idea spread
-o-o
-to India then
-o-o
-Arabic-speaking
-o-o
-universities.
-sentence-next
-o-o
-And then a student
-o-o
-took it to Rome
-o-o
-and became pope.
-sentence-next
-o-o
-
-combee ************
-Pope Sylvestor II aka Gerbert of Aurillac brought decimal notation and calculation procedures to Europe, and he became pope in year 999.
-************ comenn
-
-He could
-o-o
-calculate
-o-o
-faster than the
-o-o
-Italians who
-o-o
-still used
-o-o
-counting marks,
-o-o
-the ones we call
-o-o
-Roman numerals.
-sentence-next
-o-o
-That's how the
-o-o
-digit zero
-o-o
-became part
-o-o
-of the Italian
-o-o
-Renaissance.
-end-lyric
-
-ambee sings-desha amenn
-That's when
-o-o
-Leonardo
-o-o
-painted the
-o-o
-Mona Lisa,
-o-o
-and Michelangelo
-o-o
-carved the
-o-o
-rock hyphen-here hard
-o-o
-anatomy of
-o-o
-David.
-end-lyric
-
-ambee sings-damien amenn
-Lisa and David.
-sentence-next
-o-o
-I think I've
-o-o
-heard about
-o-o
-those two.
-end-lyric
-
-ambee sings-mathprof amenn
-With that
+Without the
 o-o
 digit zero,
 o-o
-Portuguese
+scientists
 o-o
-sailors made
+and engineers
 o-o
-realistic maps,
+couldn't have put
 o-o
-and navigated
+a man on the moon,
 o-o
-far out into
+or put rovers
 o-o
-the Atlantic.
+on the
+o-o
+planet Mars.
 sentence-next
 o-o
-They bumped into
+And reporting
 o-o
-Brazil,
+election results
 o-o
-where they restocked
+with Roman
 o-o
-with food and water,
+numerals
 o-o
-then sailed
+would lead to
 o-o
-around the
+math hyphen-here based cults,
 o-o
-southern tip
+and widespread
 o-o
-of Africa.
-sentence-next
-o-o
-That bypassed
-o-o
-the north hyphen-here bound winds
-o-o
-along the
-o-o
-southwest
-o-o
-coast of
-o-o
-Africa.
-sentence-next
-o-o
-And it
-o-o
-bypassed the
-o-o
-monopoly that
-o-o
-Arabic-speaking
-o-o
-Muslims had
-o-o
-on the land hyphen-here based
-o-o
-silk road to China.
-end-lyric
-
-ambee sings-desha amenn
-So it was
-o-o
-the digit zero,
-o-o
-not Columbus,
-o-o
-that got us
-o-o
-to North
-o-o
-and South
-o-o
-America?
-end-lyric
-
-ambee sings-mathprof amenn
-Yes, in fact,
-o-o
-the Portuguese
-o-o
-discovered
-o-o
-Brazil before
-o-o
-fourteen ninety two.
-end-lyric
-
-ambee sings-damien amenn
-Oh, so that's why
-o-o
-people in Brazil
-o-o
-speak Portuguese
-o-o
-instead of Spanish.
-end-lyric
-
-ambee sings-desha amenn
-Interesting!
+suicide.
 end-lyric
 
 ambee sings-damien amenn
@@ -517,279 +335,22 @@ jump off.
 end-lyric
 
 ambee sings-mathprof amenn
-Without it,
-o-o
-scientists
-o-o
-and engineers
-o-o
-couldn't have put
-o-o
-a man on the moon,
-o-o
-or put rovers
-o-o
-on the
-o-o
-planet Mars,
-o-o
-or photographed
-o-o
-the rings of Saturn
-o-o
-from within
-o-o
-those rings.
-sentence-next
-o-o
-And those are just
-o-o
-a few of the things
-o-o
-that make
-o-o
-the digit zero
-o-o
-so incredibly
-o-o
-fantastic.
-end-lyric
-
-ambee sings-damien amenn
-I think my
-o-o
-confusions
-o-o
-'bout zero
-o-o
-are gone.
-sentence-next
-o-o
-But how's that
-o-o
-relate to
-o-o
-what happens
-o-o
-in gettin' fair
-o-o
-elections?
-end-lyric
-
-ambee sings-mathprof amenn
-There's something
-o-o
-in math that's
-o-o
-still very new.
-sentence-next
-o-o
-It's not yet taught
-o-o
-in public schools.
-sentence-next
-o-o
-Yet it can take
-o-o
-civilization,
-o-o
-humanity,
-o-o
-us,
-o-o
-to the next level
-o-o
-where elections
-o-o
-are fair.
-sentence-next
-o-o
-But to get there
-o-o
-you need to
-o-o
-appreciate
-o-o
-the power of a
-o-o
-name.
-end-lyric
-
-ambee sings-damien amenn
-OK, what's the name?
-end-lyric
-
-ambee sings-mathprof amenn
-A name without
-o-o
-it's meaning is
-o-o
-useless.
-sentence-next
-o-o
-Concepts come first.
-end-lyric
-
-ambee sings-damien amenn
-Every test I took
-o-o
-cared more about
-o-o
-the names than the
-o-o
-concepts.
-end-lyric
-
-ambee sings-desha amenn
-I learned to spell
-o-o
-begin-italics hypotenuse end-italics
-o-o
-before I learned
-o-o
-it had nothing
-o-o
-to do with
-o-o
-hippos.
-end-lyric
-
-ambee sings-mathprof amenn
-That's because names
-o-o
-and dates and such
-o-o
-are easier to test.
-end-lyric
-
-ambee sings-damien amenn
-Isn't that upside
-o-o
-down? Testin'
-o-o
-what's less
-o-o
-important?
-end-lyric
-
-ambee sings-mathprof amenn
-You seem to me
-o-o
-to be quite
-o-o
-intelligent.
-sentence-next
-o-o
-So let's
-o-o
-eliminate
-o-o
-your fear of
-o-o
-fractions.
-end-lyric
-
-ambee sings-damien amenn
-Is there a
-o-o
-rattlesnake
-o-o
-cage or
-o-o
-fallin' tree
-o-o
-nearby?
-end-lyric
-
-ambee sings-mathprof amenn
-Ancient
-o-o
-Babylonians
-o-o
-also disliked
-o-o
-fractions.
-sentence-next
-o-o
-And so did
-o-o
-the Romans.
-sentence-next
-o-o
-It's because
-o-o
-they lacked the
-o-o
-digit zero.
-sentence-next
-o-o
-That's no big deal
-o-o
-for addition
-o-o
-and subtraction
-o-o
-and multiplication.
-sentence-next
-o-o
-Those are just
-o-o
-shortcuts for
-o-o
-counting up,
-o-o
-counting down,
-o-o
-and a skipping
-o-o
-version of
-o-o
-counting up.
-sentence-next
-o-o
-But division,
-o-o
-without the
-o-o
-big hyphen-here deal zero,
-o-o
-that's muddled and
-o-o
-befuddled
-o-o
-confusion.
-sentence-next
-o-o
-So leaving
-o-o
-numbers as
-o-o
-fractions,
-o-o
-without doing the
-o-o
-division it
-o-o
-signifies,
-o-o
-that's what they did
-o-o
-until the
+And the
 o-o
 digit zero
 o-o
-arrived.
+eliminates
+o-o
+the use of
+o-o
+fractions.
 end-lyric
 
 ambee sings-damien amenn
-Now we've got
-o-o
-zero,
-o-o
-the digit.
+How so?
 sentence-next
 o-o
-Yet I've gotta
+I've gotta
 o-o
 use fractions
 o-o
@@ -916,12 +477,16 @@ where to aim.
 end-lyric
 
 ambee sings-mathprof amenn
-Use decimal numbers.
+Use decimal
+o-o
+numbers.
 sentence-next
 o-o
-That's what the whole
+That's what the
 o-o
-world uses, as part of
+rest of the world
+o-o
+uses as part of
 o-o
 the metric system.
 sentence-next
@@ -963,23 +528,18 @@ decimal
 o-o
 markings for
 o-o
-inches!
+inches.
 end-lyric
 
 ambee sings-damien amenn
-Oh, if only
-o-o
-I could do so.
-sentence-next
-o-o
-That'd be great!
-sentence-next
-o-o
-I could avoid
+I can avoid
 o-o
 the fractions
 o-o
-I hate!
+I hate?
+sentence-next
+o-o
+I can't wait.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -1027,10 +587,10 @@ o-o
 staircases.
 end-lyric
 
-ambee sings-desha amenn
-So a fraction
+ambee sings-mathprof amenn
+A fraction
 o-o
-is a
+is just a
 o-o
 division
 o-o
@@ -1079,17 +639,16 @@ powerful.
 end-lyric
 
 ambee sings-mathprof amenn
-You learn fast!
-sentence-next
+You're not alone
 o-o
-Now about your
-o-o
-fear of
+in fearing
 o-o
 fractions.
 sentence-next
 o-o
-Ancient Romans,
+Ancient Romans
+o-o
+had that fear,
 o-o
 even though they
 o-o
@@ -1101,44 +660,20 @@ Mediterranean
 o-o
 waterfront
 o-o
-property,
-o-o
-they too had
-o-o
-that fear.
+property.
 sentence-next
 o-o
-They liked the
+That's why they
 o-o
-number twelve.
+used twelve marks
+o-o
+to measure
+o-o
+daylight hours
+o-o
+on sundials.
 sentence-next
 o-o
-That's why sundials
-o-o
-have twelve marks
-o-o
-for the
-o-o
-daylight hours.
-end-lyric
-
-ambee sings-desha amenn
-Needless to say
-o-o
-that's why we have
-o-o
-twenty four hours
-o-o
-in a day.
-end-lyric
-
-ambee sings-damien amenn
-Then why did you
-o-o
-say that?
-end-lyric
-
-ambee sings-mathprof amenn
 The number twelve
 o-o
 can be divided
@@ -1157,9 +692,20 @@ three or two.
 end-lyric
 
 ambee sings-damien amenn
-I wondered why
+Ah,
 o-o
-time is measured
+that's why we have
+o-o
+twenty four hours
+o-o
+in a day!
+sentence-next
+o-o
+I had wondered
+o-o
+why time is
+o-o
+measured
 o-o
 in numbers that
 o-o

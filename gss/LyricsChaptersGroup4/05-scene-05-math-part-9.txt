@@ -148,32 +148,13 @@ end-lyric
 ambee sings-damien amenn
 Well,
 o-o
-we can work out
+we can work
 o-o
-that later.
-end-lyric
-
-ambee sings-desha amenn
-And we can hope
+those things
 o-o
-that Jon
+out later.
+sentence-next
 o-o
-Oliver
-o-o
-tells us
-o-o
-we're stupid
-o-o
-not to have
-o-o
-been using
-o-o
-pairwise
-o-o
-vote counting.
-end-lyric
-
-ambee sings-damien amenn
 name-mathprof no-space ,
 o-o
 you're a true
@@ -226,13 +207,6 @@ o-o
 Tik Tok videos.
 sentence-next
 o-o
-I see clarity
-o-o
-in your mental
-o-o
-ability.
-sentence-next
-o-o
 You even learn
 o-o
 with less delay
@@ -247,10 +221,14 @@ Hysteresis end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
-Wow, ...
+Wow.
 sentence-next
 o-o
-I think.
+I thought I was
+o-o
+just trying to
+o-o
+avoid stupidity.
 end-lyric
 
 ambee sings-desha amenn

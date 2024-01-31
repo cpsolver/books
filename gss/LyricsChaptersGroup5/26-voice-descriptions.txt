@@ -97,9 +97,9 @@ begin-bold Voice suggestions for all characters: end-bold
 sentence-next
 The voices should be natural (full hyphen-here throated and conversational), lively (with frequent emotion hyphen-here based pitch inflections although virtually never in the middle of a syllable, and with word hyphen-here specific loudness changes), and smiling (comedic, but not "funny"), without any shouting.
 sentence-next
-The rhythm should be freeform and improvisational based on experience as a dancer or singer, without being specified by written notation or metronome speed.
+The rhythm should be freeform and improvisational without being specified by written notation or metronome hyphen-here like timing.
 sentence-next
-When a word rhymes without being at the end of a sentence or phrase, use slight timing or emphasis adjustments to allow the rhyming to be heard at least subconsciously.
+When words rhyme without being at the ends of sentences or phrases, a slight timing or emphasis adjustment can help the rhyming to be heard at least subconsciously.
 sentence-next
 The voice acting should not be self hyphen-here conscious.
 end-standard-paragraph

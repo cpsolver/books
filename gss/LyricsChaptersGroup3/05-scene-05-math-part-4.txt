@@ -206,9 +206,10 @@ and fail to
 o-o
 upvote the
 o-o
-real naked truth,
+real naked truth.
+sentence-next
 o-o
-well,
+Well,
 o-o
 the real truth.
 end-lyric

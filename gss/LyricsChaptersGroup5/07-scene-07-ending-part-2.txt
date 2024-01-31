@@ -174,29 +174,23 @@ o-o
 family's share.
 sentence-next
 o-o
-I'm not
+I'm not a
 o-o
-one of those
+socialistic
+o-o
+dropout
+o-o
+waiting for
+o-o
+a handout,
+o-o
+or one of those
 o-o
 lazy 
 o-o
-immigrants,
+job hyphen-here stealing
 o-o
-or
-o-o
-criminal
-o-o
-protestors,
-o-o
-or
-o-o
-sociopathic
-o-o
-socialists,
-o-o
-who wait for
-o-o
-handouts.
+immigrants.
 end-lyric
 
 ambee sings-desha-firstuse amenn
@@ -480,7 +474,11 @@ o-o
 Slumbering Maples.
 sentence-next
 o-o
-Yes that's me.
+Yes,
+o-o
+I'm proud to say
+o-o
+that's me.
 end-lyric
 
 ambee sings-desha amenn
@@ -972,28 +970,7 @@ o-o
 white supremacy.
 sentence-next
 o-o
-In the TV
-o-o
-version
-o-o
-the person
-o-o
-arrested is
-o-o
-usually white,
-o-o
-always guilty,
-o-o
-and too poor
-o-o
-to afford a
-o-o
-lawyer.
-sentence-next
-o-o
-As a result,
-o-o
-those TV shows
+Those TV shows
 o-o
 always show
 o-o
@@ -1003,60 +980,43 @@ attorneys
 o-o
 defending
 o-o
-criminals,
+white criminals,
 o-o
-the guilty ones.
+the guilty ones,
+o-o
+who end up
+o-o
+in jail.
 sentence-next
 o-o
-But in real life
+Yet in real life
 o-o
-most white criminals
+people of color,
 o-o
-can afford
+who are underpaid,
 o-o
-to hire slick
+more often get
 o-o
-lawyers.
-sentence-next
+arrested,
 o-o
-It's underpaid
-o-o
-people of color
-o-o
-who more often
-o-o
-get arrested,
-o-o
-even when they
-o-o
-aren't guilty.
-sentence-next
-o-o
-And they're stuck with
+and they're stuck with
 o-o
 district
 o-o
-attorneys
+attorneys.
+sentence-next
 o-o
-who TV
+In the meantime,
 o-o
-watchers,
+real hyphen-here life
 o-o
-including
+white criminals
 o-o
-some police
+hire slick lawyers
 o-o
-officers,
+and get off
 o-o
-mistakenly
-o-o
-believe
-o-o
-only
-o-o
-defend
-o-o
-the guilty.
+with no jail time.
 end-lyric
 
 ambee sings-damien-firstuse amenn
