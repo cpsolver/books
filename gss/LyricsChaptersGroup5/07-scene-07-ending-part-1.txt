@@ -3,7 +3,7 @@ Scene 7,
 title-chapter-07
 end-title
 
-ambee put-into-phrase lyric-number 0800000 amenn
+ambee put-into-phrase lyric-number 0700000 amenn
 
 combee ************
 begin-comment Illustration:

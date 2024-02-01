@@ -376,7 +376,7 @@ is disapproval.
 end-lyric
 
 ambee sings-mathprof amenn
-Excellent!
+Exactly!
 o-o
 You're understanding
 o-o
@@ -772,32 +772,53 @@ Burlington,
 o-o
 in Vermont,
 o-o
-and it failed.
+and it failed
+o-o
+in their first
+o-o
+election for
+o-o
+mayor
+o-o
+during the
+oo
+final counting
+o-o
+round
+o-o
+because the
+o-o
+candidate
+o-o
+with the smallest
+o-o
+transferred
+o-o
+vote count
+o-o
+isn't always
+o-o
+the least popular
+o-o
+candidate.
 sentence-next
 o-o
-And it failed again
+And it made
 o-o
-in Alaska.
+a similar mistake
+o-o
+in one Alaska
+o-o
+election.
 sentence-next
 o-o
-In those two
+Although that's
 o-o
-elections
+just two failures
 o-o
-the candidate
+out of hundreds,
 o-o
-who won
-o-o
-was not
-o-o
-the one
-o-o
-who deserved
-o-o
-to win.
-sentence-next
-o-o
-We can do
+we can do
 o-o
 better.
 sentence-next

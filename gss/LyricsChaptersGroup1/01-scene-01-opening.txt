@@ -15,7 +15,7 @@ sentence-next
 Otherwise everything you need to know is in the dialog.
 end-standard-paragraph
 
-ambee put-into-phrase lyric-number 0200000 amenn
+ambee put-into-phrase lyric-number 0100000 amenn
 
 combee ************
 begin-comment Illustration:

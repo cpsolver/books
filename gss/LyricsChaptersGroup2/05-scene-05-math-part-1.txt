@@ -3,7 +3,7 @@ Scene 5,
 title-chapter-05
 end-title
 
-ambee put-into-phrase lyric-number 0600000 amenn
+ambee put-into-phrase lyric-number 0500000 amenn
 
 combee ************
 begin-comment
@@ -251,7 +251,20 @@ o-o
 planet Mars.
 sentence-next
 o-o
-And reporting
+And imagine
+o-o
+the alternative,
+o-o
+using Roman
+o-o
+numerals.
+end-lyric
+
+ambee sings-desha amenn
+Yikes!
+sentence-next
+o-o
+Reporting
 o-o
 election results
 o-o
@@ -261,15 +274,31 @@ numerals
 o-o
 would lead to
 o-o
-anti hyphen-here math cults,
-o-o
-and cross hyphen-here country
+cross hyphen-here country
 o-o
 hair loss.
 end-lyric
 
 ambee sings-damien amenn
-OK, zero's
+And an
+o-o
+anti hyphen-here math
+o-o
+cult.
+sentence-next
+o-o
+Which I would
+o-o
+have joined
+o-o
+before today.
+sentence-next
+o-o
+But now I
+o-o
+recognize
+o-o
+that zero's
 o-o
 a big hyphen-here deal number.
 end-lyric
@@ -288,6 +317,8 @@ o-o
 none, empty,
 o-o
 nobody,
+o-o
+vacant,
 o-o
 zilch, naked,
 o-o
@@ -529,20 +560,8 @@ o-o
 markings for
 o-o
 inches.
-end-lyric
-
-ambee sings-damien amenn
-I can avoid
-o-o
-the fractions
-o-o
-I hate?
 sentence-next
 o-o
-I can't wait.
-end-lyric
-
-ambee sings-mathprof amenn
 Here, look at this
 o-o
 tape measure.

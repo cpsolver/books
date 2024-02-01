@@ -1,3 +1,5 @@
+ambee put-into-phrase lyric-number 0620000 amenn
+
 ambee sings-damien amenn
 I thought a
 o-o

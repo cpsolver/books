@@ -1,3 +1,6 @@
+ambee put-into-phrase lyric-number 0510000 amenn
+
+
 ambee sings-mathprof amenn
 Let's try a
 o-o
@@ -574,21 +577,11 @@ o-o
 can be hacked.
 sentence-next
 o-o
-But
+And lots of
 o-o
-paper ballots
+people vote
 o-o
-can't be sacked
-o-o
-...
-sentence-next
-o-o
-except in bags.
-sentence-next
-o-o
-Lots of people
-o-o
-vote by mail.
+by mail.
 sentence-next
 o-o
 That's what my
@@ -757,7 +750,7 @@ some ways
 o-o
 of counting
 o-o
-those ballots
+these ballots
 o-o
 are better
 o-o
@@ -820,9 +813,17 @@ end-lyric
 ambee sings-desha amenn
 A computer
 o-o
-would take care of doing
+would take care of
 o-o
-that counting.
+converting
+o-o
+prefererence
+o-o
+levels
+o-o
+and counting
+o-o
+stars.
 sentence-next
 o-o
 You would just mark
@@ -837,37 +838,24 @@ end-lyric
 ambee sings-mathprof amenn
 Even hand counting
 o-o
-the ballots
-o-o
-that way
-o-o
-would be easy.
-sentence-next
-o-o
-For simple counting
-o-o
-the candidate
-o-o
-with the highest
-o-o
-such count
-o-o
-would win.
+can be done.
 sentence-next
 o-o
 If everyone
 o-o
 is honest,
 o-o
-and ranks just one
+and ranks or rates
+o-o
+just one
 o-o
 candidate
 o-o
 at each level,
 o-o
-then that
+that counting
 o-o
-works fine.
+is fair.
 end-lyric
 
 ambee sings-desha amenn
@@ -891,7 +879,9 @@ politics,
 o-o
 Congress,
 o-o
-and dating.
+and YouTube
+o-o
+videos.
 end-lyric
 
 ambee sings-mathprof amenn

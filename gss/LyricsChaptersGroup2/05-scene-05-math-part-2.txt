@@ -11,15 +11,15 @@ to sex?
 end-lyric
 
 ambee sings-desha amenn
-Speaking of
+Talking about
 o-o
 fractions
 o-o
-during a
+during
 o-o
 passionate
 o-o
-embrace
+embraces
 o-o
 would solve
 o-o
@@ -90,7 +90,7 @@ end-lyric
 ambee sings-damien amenn
 So we can
 o-o
-abandon
+demolish
 o-o
 fractions?
 sentence-next
@@ -109,15 +109,18 @@ now?
 end-lyric
 
 ambee sings-damien amenn
-Indeed,
+Indeed.
+sentence-next
 o-o
-now that I know
+Now I know
 o-o
-it's just
+fractions
+o-o
+are just
 o-o
 a lazy way
 o-o
-to do
+to handle
 o-o
 division.
 sentence-next
@@ -126,26 +129,23 @@ And a sneaky
 o-o
 way to hide
 o-o
-the word
+division
 o-o
-division.
+behind a
+o-o
+disguise.
 end-lyric
 
 ambee sings-mathprof amenn
-Here's another
+Other words
 o-o
-useful tip.
-sentence-next
+that disguise
 o-o
-Division
+division
 o-o
-is often
+are the words
 o-o
-disguised
-o-o
-with other words
-o-o
-like ratio,
+ratio,
 o-o
 rate,
 o-o
@@ -161,20 +161,24 @@ the word per.
 end-lyric
 
 ambee sings-desha amenn
-I wish you'd
+I wish my
 o-o
-been able to
+elementary
 o-o
-teach me this stuff
+teachers
 o-o
-when I was in
+had taught
 o-o
-your class.
+these concepts
+o-o
+so quickly.
 sentence-next
 o-o
-Along with
+And why didn't
 o-o
-why thirteen
+they explain
+o-o
+how thirteen
 o-o
 gained its
 o-o
@@ -182,7 +186,13 @@ reputation
 o-o
 for being
 o-o
-unlucky.
+unlucky?
+sentence-next
+That's not about
+o-o
+unscientific
+o-o
+superstition.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -202,10 +212,7 @@ o-o
 exams.
 end-lyric
 
-ambee sings-desha amenn
-Wait a minute.
-sentence-next
-o-o
+ambee sings-damien amenn
 It's almost like
 o-o
 schools are
@@ -219,24 +226,49 @@ o-o
 computers.
 end-lyric
 
-ambee sings-damien amenn
-At the same time
+ambee sings-desha amenn
+Meanwhile,
 o-o
-businesses
+in the world of
 o-o
-are trying to
+business,
 o-o
-begin-italics teach end-italics computers
+they're trying
 o-o
-how to think
+to put
 o-o
-like humans.
+artificial
+o-o
+intelligence
+o-o
+into computers.
+sentence-next
+o-o
+That's because
+o-o
+they always
+o-o
+try to replace
+o-o
+employees with
+o-o
+automation.
 end-lyric
 
-ambee sings-desha amenn
-Both of those
+ambee sings-damien amenn
+Programming
 o-o
-are as stupid
+students
+o-o
+and putting
+o-o
+intelligence
+o-o
+into computers
+o-o
+are both
+o-o
+as stupid
 o-o
 as someone
 o-o
@@ -247,12 +279,16 @@ o-o
 in a hammock.
 end-lyric
 
-ambee sings-damien amenn
-I think schools
+ambee sings-desha amenn
+Schools
 o-o
 deserve a
 o-o
-failing grade.
+failing grade!
+end-lyric
+
+ambee sings-damien amenn
+I love it!
 end-lyric
 
 ambee sings-mathprof amenn
@@ -304,7 +340,7 @@ You won't be scared
 o-o
 when zero
 o-o
-pops up.
+appears.
 sentence-next
 o-o
 And only one
