@@ -120,6 +120,11 @@ padding:0;
 margin:0;
 }
 
+.page_break_at_end {
+page-break-before:always;
+page-break-after:always;
+}
+
 .lyric{
 text-indent:-1.5em;
 padding:0;

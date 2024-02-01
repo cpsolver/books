@@ -13,10 +13,4 @@ This path leads to widespread economic prosperity, effective solutions to global
 end-standard-paragraph
 
 
-begin-title
-The End
-end-title
-
-begin-standard-paragraph
-(Some ebook readers need this extra bookend.)
-end-standard-paragraph
+<h1 class="page_break_at_end">The End</h1>

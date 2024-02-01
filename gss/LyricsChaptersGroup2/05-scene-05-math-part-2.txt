@@ -11,11 +11,15 @@ to sex?
 end-lyric
 
 ambee sings-desha amenn
-Using fractions
+Speaking of
 o-o
-in romantic
+fractions
 o-o
-situations
+during a
+o-o
+passionate
+o-o
+embrace
 o-o
 would solve
 o-o
@@ -23,7 +27,7 @@ the world's
 o-o
 overpopulation
 o-o
-problem.
+crisis.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -84,280 +88,64 @@ and thirty.
 end-lyric
 
 ambee sings-damien amenn
-So we could ditch
+So we can
+o-o
+abandon
 o-o
 fractions?
 sentence-next
 o-o
-That's a world
-o-o
-I'd like to see.
+Let's do it!
 end-lyric
 
 ambee sings-mathprof amenn
-So are fractions
+Are fractions
 o-o
-a bit less
+a bit
 o-o
-scary?
+less creepy
+o-o
+now?
 end-lyric
 
 ambee sings-damien amenn
-Yeah,
+Indeed,
 o-o
-my fraction
+now that I know
 o-o
-phobia's
+it's just
 o-o
-takin'
+a lazy way
 o-o
-a siesta.
+to do
+o-o
+division.
 sentence-next
 o-o
-But sometimes
+And a sneaky
 o-o
-I get stuck
+way to hide
 o-o
-not knowing when
+the word
 o-o
-to do division,
-o-o
-in the right
-o-o
-sequence with
-o-o
-addition 'n
-o-o
-subtraction.
-end-lyric
-
-ambee sings-mathprof amenn
-That's just the trick
-o-o
-of algebra.
-end-lyric
-
-ambee sings-damien amenn
-Oh dear lord
-o-o
-please forget
-o-o
-I said that!
-sentence-next
-o-o
-From what I've heard,
-o-o
-learning
-o-o
-algebra
-o-o
-is as dark
-o-o
-as the path to
-o-o
-Mount Doom.
-end-lyric
-
-ambee sings-mathprof amenn
-Albert Einstein,
-o-o
-when he was young,
-o-o
-also had trouble
-o-o
-with algebra.
-end-lyric
-
-ambee sings-desha amenn
-But he was a
-o-o
-genius.
-sentence-next
-o-o
-And best known
-o-o
-for E equals
-o-o
-M C squared,
-o-o
-the ultimate
-o-o
-celebrity
-o-o
-math equation.
-end-lyric
-
-ambee sings-mathprof amenn
-He struggled
-o-o
-until his
-o-o
-uncle told him
-o-o
-to think of
-o-o
-algebra as
-o-o
-a whodunnit
-o-o
-mystery.
-sentence-next
-o-o
-Where the
-o-o
-identity
-o-o
-of mister X
-o-o
-is unknown, and
-o-o
-the facts are clues,
-o-o
-and the goal is
-o-o
-to figure out
-o-o
-who is mister X?
-end-lyric
-
-ambee sings-desha amenn
-Why didn't my
-o-o
-algebra teacher
-o-o
-teach that trick?
-end-lyric
-
-ambee sings-mathprof amenn
-Because donning
-o-o
-a Sherlock Holmes
-o-o
-cap in class
-o-o
-would get you sent
-o-o
-to the principal's
-o-o
-office.
-sentence-next
-o-o
-And writing
-o-o
-begin-italics whodunnit end-italics
-o-o
-on a
-o-o
-standardized
-o-o
-test would
-o-o
-get you sent to
-o-o
-the circus
-o-o
-as a clown.
-end-lyric
-
-ambee sings-desha amenn
-Here's a trick
-o-o
-I learned.
-sentence-next
-o-o
-A fraction
-o-o
-is askin'
-o-o
-the question
-o-o
-begin-italics What number
-o-o
-needs to be
-o-o
-multiplied
-o-o
-times the number
-o-o
-on the bottom
-o-o
-of the fraction
-o-o
-to get the
-o-o
-number on the
-o-o
-top of the
-o-o
-fraction? end-italics
-end-lyric
-
-ambee sings-damien amenn
-That's a slick trick.
-end-lyric
-
-ambee sings-mathprof amenn
-Now you
-o-o
-understand
-o-o
-some key ideas
-o-o
-of math.
-sentence-next
-o-o
-Not enough
-o-o
-for me to
-o-o
-be inclined
-o-o
-to drive over
-o-o
-a bridge you
-o-o
-designed.
-sentence-next
-o-o
-Of course
-o-o
-there's lots more.
-end-lyric
-
-ambee sings-damien amenn
-Now I won't feel
-o-o
-unlucky
-o-o
-when I'm stuck
-o-o
-with a
-o-o
-measurement
-o-o
-of thirteen
-o-o
-instead of
-o-o
-twelve 'n have to
-o-o
-divide it.
+division.
 end-lyric
 
 ambee sings-mathprof amenn
 Here's another
 o-o
-useful secret.
+useful tip.
 sentence-next
 o-o
-Division is
+Division
 o-o
-disguised under
+is often
 o-o
-other names.
-sentence-next
+disguised
 o-o
-Like ratio,
+with other words
+o-o
+like ratio,
 o-o
 rate,
 o-o
@@ -370,372 +158,57 @@ o-o
 percent, and
 o-o
 the word per.
-sentence-next
-o-o
-And of course
-o-o
-fractions.
-end-lyric
-
-ambee sings-damien amenn
-So a fraction's
-o-o
-just a lazy
-o-o
-way to deal with
-o-o
-division?
-end-lyric
-
-ambee sings-mathprof amenn
-You've got it.
 end-lyric
 
 ambee sings-desha amenn
-It sounds like we
+I wish you'd
 o-o
-need a revolution
+been able to
 o-o
-in how math is taught.
-end-lyric
-
-ambee sings-damien amenn
-Another revolution?
+teach me this stuff
+o-o
+when I was in
+o-o
+your class.
 sentence-next
 o-o
-How many do you want?
+Along with
+o-o
+why thirteen
+o-o
+gained its
+o-o
+reputation
+o-o
+for being
+o-o
+unlucky.
+end-lyric
+
+ambee sings-mathprof amenn
+Alas.
+sentence-next
+o-o
+We have to teach
+o-o
+what's in
+o-o
+textbooks,
+o-o
+and what's
+o-o
+on standardized
+o-o
+exams.
 end-lyric
 
 ambee sings-desha amenn
-As many as it takes
-o-o
-to get things
-o-o
-right side up.
-end-lyric
-
-ambee sings-mathprof amenn
-Oh I do wish
-o-o
-there was more time
-o-o
-so we could talk
-o-o
-about beautiful
-o-o
-balanced equations,
-o-o
-and what's behind
-o-o
-calculus, and
-o-o
-why quadratic equations
-o-o
-....
-end-lyric
-
-ambee sings-damien amenn
-Fortunately
-o-o
-we don't have
-o-o
-that much time.
-end-lyric
-
-ambee sings-mathprof amenn
-Of course,
-o-o
-of course!
+Wait a minute.
 sentence-next
 o-o
-And anyway,
+It's almost like
 o-o
-computers can do
-o-o
-math better than
-o-o
-students.
-end-lyric
-
-ambee sings-desha amenn
-Wait a minute!
-sentence-next
-o-o
-Math textbooks
-o-o
-and math professors
-o-o
-are teaching us
-o-o
-thinking skills
-o-o
-that computers
-o-o
-can easily handle?
-sentence-next
-o-o
-Why is that?
-end-lyric
-
-ambee sings-mathprof amenn
-Ironic isn't it?
-sentence-next
-o-o
-Computers are better
-o-o
-than humans
-o-o
-at spelling,
-o-o
-grammar,
-o-o
-arithmetic,
-o-o
-algebra,
-o-o
-trigonometry,
-o-o
-calculus,
-o-o
-history,
-o-o
-geography,
-o-o
-flying
-o-o
-airplanes,
-o-o
-and
-o-o
-diplomatically
-o-o
-insulting you
-o-o
-for missing a
-o-o
-right turn.
-sentence-next
-o-o
-Yet we
-o-o
-try to teach
-o-o
-most of that
-o-o
-in school.
-end-lyric
-
-ambee sings-damien amenn
-What're computers
-o-o
-not good at doing?
-end-lyric
-
-ambee sings-mathprof amenn
-Inventing,
-o-o
-creating new
-o-o
-solutions to
-o-o
-real hyphen-here life
-o-o
-problems,
-o-o
-writing books
-o-o
-worth reading,
-o-o
-scripting videos
-o-o
-worth watching,
-o-o
-composing
-o-o
-beautiful music,
-o-o
-finding soulmates,
-o-o
-managing
-o-o
-employees,
-o-o
-and,
-o-o
-so far,
-o-o
-peeling oranges.
-end-lyric
-
-ambee sings-damien amenn
-Would that include
-o-o
-designing
-o-o
-custom staircases?
-end-lyric
-
-ambee sings-mathprof amenn
-Definitely.
-end-lyric
-
-ambee sings-damien amenn
-Those are the skills
-o-o
-that employers
-o-o
-desire.
-sentence-next
-o-o
-My boss says
-o-o
-it's hard to hire
-o-o
-workers who
-o-o
-can do much more
-o-o
-than loiter
-o-o
-in the general
-o-o
-vicinity
-o-o
-of a staircase.
-end-lyric
-
-ambee sings-desha amenn
-So schools teach
-o-o
-what computers
-o-o
-can do better?
-sentence-next
-o-o
-And schools fail
-o-o
-to teach the skills
-o-o
-that computers
-o-o
-are not good at,
-o-o
-but that
-o-o
-businesses
-o-o
-really want?
-sentence-next
-o-o
-Wow!
-sentence-next
-o-o
-The academic
-o-o
-world is
-o-o
-upside down!
-end-lyric
-
-ambee sings-mathprof amenn
-Alas,
-o-o
-the
-o-o
-academic
-o-o
-world,
-o-o
-the one based on
-o-o
-standardized tests,
-o-o
-is upside down
-o-o
-for students
-o-o
-and teachers
-o-o
-and employers.
-end-lyric
-
-ambee sings-desha amenn
-No wonder I often
-o-o
-recall so little
-o-o
-of what I learned
-o-o
-in college.
-sentence-next
-o-o
-And computers
-o-o
-do it better.
-end-lyric
-
-ambee sings-mathprof amenn
-Computers
-o-o
-lack the ability
-o-o
-to understand
-o-o
-concepts.
-sentence-next
-o-o
-Yet too often
-o-o
-that's what
-o-o
-academia
-o-o
-fails to teach.
-end-lyric
-
-ambee sings-damien amenn
-So schools
-o-o
-deserve a
-o-o
-failing grade!
-sentence-next
-o-o
-I love it!
-end-lyric
-
-ambee sings-mathprof amenn
-Teachers and
-o-o
-professors
-o-o
-teach what
-o-o
-textbooks
-o-o
-focus on.
-sentence-next
-o-o
-Standardized
-o-o
-tests test
-o-o
-those things.
-sentence-next
-o-o
-But really it's
-o-o
-the concepts
-o-o
-that schools
-o-o
-most need
-o-o
-to teach.
-end-lyric
-
-ambee sings-desha amenn
-So schools are
+schools are
 o-o
 trying to
 o-o
@@ -744,9 +217,12 @@ o-o
 as if we were
 o-o
 computers.
-sentence-next
+end-lyric
+
+ambee sings-damien amenn
+At the same time
 o-o
-While businesses
+businesses
 o-o
 are trying to
 o-o
@@ -755,17 +231,28 @@ o-o
 how to think
 o-o
 like humans.
-sentence-next
+end-lyric
+
+ambee sings-desha amenn
+Both of those
 o-o
-They're both
+are as stupid
 o-o
-as stupid as
+as someone
 o-o
-someone who
+who tries
 o-o
-tries to stand up
+to stand up
 o-o
 in a hammock.
+end-lyric
+
+ambee sings-damien amenn
+I think schools
+o-o
+deserve a
+o-o
+failing grade.
 end-lyric
 
 ambee sings-mathprof amenn

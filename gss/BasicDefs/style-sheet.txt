@@ -122,6 +122,11 @@ padding:0;
 margin:0;
 }
 
+.page_break_at_end {
+page<hyphen_here>break<hyphen_here>before:always;
+page<hyphen_here>break<hyphen_here>after:always;
+}
+
 .lyric{
 text<hyphen_here>indent:<hyphen_here>1.5em;
 margin<hyphen_here>left:2.5em;
