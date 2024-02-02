@@ -258,11 +258,19 @@ ambee sings-mathprof amenn
 Right.
 sentence-next
 o-o
-And there's just
+And in a
 o-o
-one way to count
+simple election
 o-o
-that kind of ballot.
+there's just
+o-o
+one way
+o-o
+to count
+o-o
+that kind
+o-o
+of ballot.
 sentence-next
 o-o
 Which is why
@@ -330,7 +338,7 @@ Imagine protesting
 o-o
 with a sign that says
 o-o
-begin-italics End That Unnamed
+begin-italics End That Nameless
 o-o
 Bad Kind Of
 o-o
@@ -836,16 +844,28 @@ candidate.
 end-lyric
 
 ambee sings-mathprof amenn
-Even hand counting
+Even
+o-o
+hand counting,
+o-o
+without a
+o-o
+computer,
 o-o
 can be done.
 sentence-next
 o-o
-If everyone
+Using this simple
 o-o
-is honest,
+counting method
 o-o
-and ranks or rates
+the results
+o-o
+would be fair
+o-o
+if everyone
+o-o
+ranked or rated
 o-o
 just one
 o-o
@@ -853,9 +873,11 @@ candidate
 o-o
 at each level,
 o-o
-that counting
+and if
 o-o
-is fair.
+everyone
+o-o
+was honest.
 end-lyric
 
 ambee sings-desha amenn
@@ -879,9 +901,11 @@ politics,
 o-o
 Congress,
 o-o
-and YouTube
+YouTube
 o-o
-videos.
+videos,
+o-o
+and dating apps.
 end-lyric
 
 ambee sings-mathprof amenn

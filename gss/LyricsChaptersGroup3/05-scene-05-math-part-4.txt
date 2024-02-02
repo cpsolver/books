@@ -132,9 +132,11 @@ Before we
 o-o
 move on to
 o-o
-better kinds of
+better ways to
 o-o
-vote counting,
+count those
+o-o
+better ballots,
 o-o
 here's an
 o-o
@@ -161,13 +163,16 @@ sentence-next
 o-o
 But change the
 o-o
-instructions
+instructions.
+sentence-next
 o-o
-and allow the voter
+Allow the voter
 o-o
 to mark more than
 o-o
-just one candidate.
+just one
+o-o
+candidate.
 sentence-next
 o-o
 That's called
@@ -200,7 +205,11 @@ upvote
 o-o
 entertaining
 o-o
-pets and babies,
+kitten videos
+o-o
+and awesome
+o-o
+dance moves,
 o-o
 and fail to
 o-o
@@ -317,11 +326,23 @@ might be fair?
 end-lyric
 
 ambee sings-mathprof amenn
-It would work OK in
+It's useful as
 o-o
-begin-italics
-primary
-end-italics
+a simple way
+o-o
+for friends
+o-o
+to choose
+o-o
+a movie.
+sentence-next
+o-o
+And it would work
+o-o
+OK in
+o-o
+begin-italics primary end-italics
+o-o
 elections
 o-o
 because the winner
@@ -781,7 +802,7 @@ o-o
 mayor
 o-o
 during the
-oo
+o-o
 final counting
 o-o
 round

@@ -220,9 +220,11 @@ Oh, zero.
 end-lyric
 
 ambee sings-mathprof amenn
-Ah yes, wonderful
+Yes.
 o-o
-magical zero!
+Magical
+o-o
+zero.
 end-lyric
 
 ambee sings-damien amenn
@@ -232,133 +234,78 @@ o-o
 end-lyric
 
 ambee sings-mathprof amenn
-Without the
+Even better
 o-o
-digit zero,
+than the number
 o-o
-scientists
+zero,
 o-o
-and engineers
+there's the
 o-o
-couldn't have put
-o-o
-a man on the moon,
-o-o
-or put rovers
-o-o
-on the
-o-o
-planet Mars.
-sentence-next
-o-o
-And imagine
-o-o
-the alternative,
-o-o
-using Roman
-o-o
-numerals.
-end-lyric
-
-ambee sings-desha amenn
-Yikes!
-sentence-next
-o-o
-Reporting
-o-o
-election results
-o-o
-with Roman
-o-o
-numerals
-o-o
-would lead to
-o-o
-cross hyphen-here country
-o-o
-hair loss.
-end-lyric
-
-ambee sings-damien amenn
-And an
-o-o
-anti hyphen-here math
-o-o
-cult.
-sentence-next
-o-o
-Which I would
-o-o
-have joined
-o-o
-before today.
-sentence-next
-o-o
-But now I
-o-o
-recognize
-o-o
-that zero's
-o-o
-a big hyphen-here deal number.
-end-lyric
-
-ambee sings-mathprof amenn
-Not just zero.
-sentence-next
-o-o
-The digit zero.
+digit zero.
 sentence-next
 o-o
 There have always
 o-o
 been words like
 o-o
-none, empty,
+none,
 o-o
-nobody,
+zilch,
+o-o
+empty,
 o-o
 vacant,
 o-o
-zilch, naked,
+nobody,
+o-o
+naked,
 o-o
 hungry, and
 o-o
 moron.
 sentence-next
 o-o
-But writing
+It's the digit
 o-o
-four zero
+zero that
+o-o
+gave math a path
+o-o
+away from
+o-o
+Roman numerals.
+sentence-next
+o-o
+Now
 o-o
 instead of
 o-o
-X X X X,
+writing
 o-o
-that's magic.
-end-lyric
-
-ambee sings-damien amenn
-So the digit zero's
+X X X X
 o-o
-a big deal.
+we write
+o-o
+four zero.
 end-lyric
 
 ambee sings-desha amenn
-Without it
-o-o
-bridges would
-o-o
-be filled with
-o-o
-long lines of
-o-o
-accountants
-o-o
-...
+Thank goodness!
 sentence-next
 o-o
-waiting for
+Otherwise
+o-o
+our bridges
+o-o
+would be filled
+o-o
+with long lines of
+o-o
+accountants.
+sentence-next
+o-o
+Waiting for
 o-o
 their turn to
 o-o
@@ -366,15 +313,101 @@ jump off.
 end-lyric
 
 ambee sings-mathprof amenn
-Even better,
+Those bridges
 o-o
-the digit zero
+were built by
 o-o
-eliminates
+scientists
 o-o
-the use of
+and engineers
 o-o
-fractions.
+using the
+o-o
+digit zero.
+sentence-next
+o-o
+And the digit
+o-o
+zero guided
+o-o
+Portuguese ships
+o-o
+to Brazil
+o-o
+using longitude
+o-o
+calculations,
+o-o
+put a man
+o-o
+on the moon,
+o-o
+put rovers
+o-o
+on the
+o-o
+planet Mars,
+o-o
+and saves
+o-o
+megajoules of
+o-o
+electricity
+o-o
+tracking
+o-o
+bitcoins.
+end-lyric
+
+ambee sings-desha amenn
+Imagine
+o-o
+reporting
+o-o
+election results
+o-o
+using Roman
+o-o
+numerals!
+sentence-next
+o-o
+That would lead to
+o-o
+nationwide
+o-o
+hair loss.
+end-lyric
+
+ambee sings-damien amenn
+Plus an
+o-o
+anti hyphen-here math
+o-o
+cult
+o-o
+I would have
+o-o
+joined.
+end-lyric
+
+ambee sings-mathprof amenn
+So do you
+o-o
+appreciate
+o-o
+that the digit
+o-o
+zero allows
+o-o
+us to quickly
+o-o
+calculate
+o-o
+without using
+o-o
+the fractions
+o-o
+you hate?
 end-lyric
 
 ambee sings-damien amenn
@@ -607,6 +640,9 @@ staircases.
 end-lyric
 
 ambee sings-mathprof amenn
+Remember this.
+sentence-next
+o-o
 A fraction
 o-o
 is just a
@@ -658,7 +694,12 @@ powerful.
 end-lyric
 
 ambee sings-mathprof amenn
-You're not alone
+Indeed.
+sentence-next
+o-o
+Yet you shouldn't
+o-o
+feel alone
 o-o
 in fearing
 o-o
@@ -710,16 +751,49 @@ o-o
 three or two.
 end-lyric
 
+ambee sings-desha amenn
+Now I
+o-o
+realize
+o-o
+how long
+o-o
+thirteen
+o-o
+has been
+o-o
+unlucky.
+end-lyric
+
 ambee sings-damien amenn
-Ah,
+I sure feel
 o-o
-that's why we have
+unlucky when
 o-o
-twenty four hours
+I get thirteen
 o-o
-in a day!
-sentence-next
+instead of twelve
 o-o
+and have to
+o-o
+divide it.
+end-lyric
+
+ambee sings-desha amenn
+And I'll say
+o-o
+that having
+o-o
+twenty four
+o-o
+hours per day
+o-o
+certainly
+o-o
+simplifies time.
+end-lyric
+
+ambee sings-damien amenn
 I had wondered
 o-o
 why time is

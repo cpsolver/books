@@ -167,32 +167,13 @@ elementary
 o-o
 teachers
 o-o
+long ago
+o-o
 had taught
 o-o
 these concepts
 o-o
 so quickly.
-sentence-next
-o-o
-And why didn't
-o-o
-they explain
-o-o
-how thirteen
-o-o
-gained its
-o-o
-reputation
-o-o
-for being
-o-o
-unlucky?
-sentence-next
-That's not about
-o-o
-unscientific
-o-o
-superstition.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -213,11 +194,11 @@ exams.
 end-lyric
 
 ambee sings-damien amenn
-It's almost like
+It's like
 o-o
-schools are
+schools
 o-o
-trying to
+try to
 o-o
 begin-italics program end-italics students,
 o-o
@@ -235,24 +216,15 @@ business,
 o-o
 they're trying
 o-o
-to put
+to fire workers
+o-o
+by putting
 o-o
 artificial
 o-o
 intelligence
 o-o
 into computers.
-sentence-next
-o-o
-That's because
-o-o
-they always
-o-o
-try to replace
-o-o
-employees with
-o-o
-automation.
 end-lyric
 
 ambee sings-damien amenn
@@ -280,7 +252,14 @@ in a hammock.
 end-lyric
 
 ambee sings-desha amenn
-Schools
+I agree.
+sentence-next
+o-o
+I think
+o-o
+this means
+o-o
+schools
 o-o
 deserve a
 o-o
@@ -294,11 +273,19 @@ end-lyric
 ambee sings-mathprof amenn
 Alas,
 o-o
-it's like someone
+sometimes our
 o-o
-who gargles
+education
 o-o
-instead of drinks
+system
+o-o
+does seem to
+o-o
+teach kids
+o-o
+to gargle
+o-o
+instead of drink
 o-o
 at the fountain
 o-o

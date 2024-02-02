@@ -1044,43 +1044,49 @@ o-o
 winning.
 sentence-next
 o-o
-Parents,
+Parents and
 o-o
-teachers,
+teachers
 o-o
-employers,
-o-o
-the wine industry,
-o-o
-and Broadway
-o-o
-all use the
-o-o
-winning of
-o-o
-prizes
+use gold stars
 o-o
 to entice
 o-o
-kids,
+kids to learn
 o-o
-employees,
+to write.
+sentence-next
 o-o
-creative
+Employers use
 o-o
-artists,
+employee hyphen-here of hyphen-here the hyphen-here month
 o-o
-and
+perks to
 o-o
-entrepreneurs
+motivate
 o-o
-to wake up with
+employees
 o-o
-an alarm clock,
+to obey their
 o-o
-learn lots of skills,
+alarm clocks.
+sentence-next
 o-o
-and attract
+And the wine
+o-o
+industry
+o-o
+and Broadway
+o-o
+use award galas
+o-o
+to inspire
+o-o
+alcoholics
+o-o
+and singers
+o-o
+to attract
 o-o
 customers
 o-o
@@ -1115,9 +1121,9 @@ dreams of fans
 o-o
 drunkenly
 o-o
-chanting your
+chanting
 o-o
-brand's name.
+your name.
 sentence-next
 o-o
 The real prizes
@@ -1126,7 +1132,9 @@ are learning
 o-o
 and doing
 o-o
-and entertaining.
+and making
+o-o
+people smile.
 sentence-next
 o-o
 Now the skill
