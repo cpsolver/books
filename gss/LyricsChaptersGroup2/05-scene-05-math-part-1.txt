@@ -234,13 +234,15 @@ o-o
 end-lyric
 
 ambee sings-mathprof amenn
-Even better
+Even more
+o-o
+remarkable
 o-o
 than the number
 o-o
-zero,
+zero
 o-o
-there's the
+is the
 o-o
 digit zero.
 sentence-next
@@ -334,6 +336,8 @@ Portuguese ships
 o-o
 to Brazil
 o-o
+then China
+o-o
 using longitude
 o-o
 calculations,
@@ -348,50 +352,35 @@ on the
 o-o
 planet Mars,
 o-o
-and saves
+and prevents
 o-o
-megajoules of
+hair loss
 o-o
-electricity
-o-o
-tracking
-o-o
-bitcoins.
-end-lyric
-
-ambee sings-desha amenn
-Imagine
-o-o
-reporting
-o-o
-election results
-o-o
-using Roman
-o-o
-numerals!
-sentence-next
-o-o
-That would lead to
-o-o
-nationwide
-o-o
-hair loss.
+on election night.
 end-lyric
 
 ambee sings-damien amenn
-Plus an
+Using Roman
 o-o
-anti hyphen-here math
+numerals
+o-o
+to report
+o-o
+election results
+o-o
+would have inspired
+o-o
+an anti hyphen-here math
 o-o
 cult
 o-o
-I would have
+that I
 o-o
-joined.
+would have joined.
 end-lyric
 
 ambee sings-mathprof amenn
-So do you
+Do you
 o-o
 appreciate
 o-o
@@ -752,21 +741,17 @@ three or two.
 end-lyric
 
 ambee sings-desha amenn
-Now I
-o-o
-realize
-o-o
-how long
-o-o
-thirteen
+So thirteen
 o-o
 has been
 o-o
-unlucky.
+unlucky
+o-o
+for millenia.
 end-lyric
 
 ambee sings-damien amenn
-I sure feel
+I still feel
 o-o
 unlucky when
 o-o
@@ -780,11 +765,7 @@ divide it.
 end-lyric
 
 ambee sings-desha amenn
-And I'll say
-o-o
-that having
-o-o
-twenty four
+Twenty four
 o-o
 hours per day
 o-o
@@ -807,4 +788,114 @@ o-o
 uh,
 o-o
 decimal.
+end-lyric
+
+ambee sings-mathprof amenn
+Sexagesimal.
+end-lyric
+
+ambee sings-damien amenn
+We're jumpin'
+o-o
+from fractions
+o-o
+to sex?
+end-lyric
+
+ambee sings-desha amenn
+Talking about
+o-o
+fractions
+o-o
+during
+o-o
+passionate
+o-o
+embraces
+o-o
+would solve
+o-o
+the world's
+o-o
+overpopulation
+o-o
+crisis.
+end-lyric
+
+ambee sings-mathprof amenn
+Sexagesimal
+o-o
+is the name for
+o-o
+using sixty
+o-o
+as a base.
+sentence-next
+o-o
+The ancient
+o-o
+Babylonians
+o-o
+made that choice
+o-o
+to avoid
+o-o
+fractions.
+end-lyric
+
+ambee sings-desha amenn
+That's why
+o-o
+an hour has
+o-o
+sixty minutes
+o-o
+and a
+o-o
+minute has
+o-o
+sixty seconds.
+end-lyric
+
+ambee sings-mathprof amenn
+That avoids
+o-o
+fractions
+o-o
+because
+o-o
+sixty divides
+o-o
+without remainders
+o-o
+by two and three and
+o-o
+four and five and six
+o-o
+and ten and twelve
+o-o
+and fifteen and twenty
+o-o
+and thirty.
+end-lyric
+
+ambee sings-damien amenn
+So we can
+o-o
+demolish
+o-o
+fractions?
+sentence-next
+o-o
+Let's do it!
+end-lyric
+
+ambee sings-mathprof amenn
+Are fractions
+o-o
+a bit
+o-o
+less creepy
+o-o
+now?
 end-lyric

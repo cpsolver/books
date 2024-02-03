@@ -127,9 +127,9 @@ del %DirGss%goat_spitting_secret.html
 copy %DirExpand%goat_spitting_secret.html %DirGss%goat_spitting_secret.html
 
 
-rem ---------- check HTML tags ----------
+rem ---------- check HTML tags of problem chapter ----------
 
-%PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%goat_spitting_secret.html > %DirExpand%output_check_html_tags.txt
+%PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%ogss_05.xhtml > %DirExpand%output_check_html_tags.txt
 
 
 rem ---------- check epub file ----------

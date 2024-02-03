@@ -1,61 +1,92 @@
-ambee sings-damien amenn
-I thought
+ambee sings-desha amenn
+Do we have to
+o-o
+amend the
+o-o
+Constitution
+o-o
+to fix
 o-o
 presidential
 o-o
-elections
-o-o
-were the most
-o-o
-important
-o-o
-to get right.
+elections?
 end-lyric
 
 ambee sings-mathprof amenn
-Yes and no.
+Getting
+o-o
+begin-italics congressional end-italics
+o-o
+elections
+o-o
+right,
+o-o
+er, correct,
+o-o
+must happen first.
 sentence-next
 o-o
-If Congress
+Then when some states
 o-o
-were filled with
+are using
 o-o
-leaders
+ranked choice ballots,
 o-o
-instead of
+an interstate
 o-o
-puppets
+compact can
 o-o
-they would pass laws
+correct the
 o-o
-and tax changes
+electoral college
 o-o
-that are
+mess.
+end-lyric
+
+ambee sings-desha amenn
+There's already
 o-o
-well hyphen-here designed.
+an interstate
+o-o
+compact getting
+o-o
+adopted.
+end-lyric
+
+ambee sings-mathprof amenn
+That one says
+o-o
+the winner is
+o-o
+the one with
+o-o
+the most votes.
 sentence-next
 o-o
-And the job of
+Do you see
 o-o
-President
-o-o
-would be
-o-o
-to enforce
-o-o
-those laws.
+what that means?
 end-lyric
 
 ambee sings-damien amenn
-I see that
+That's plurality
+o-o
+voting.
+sentence-next
+o-o
+I suppose
 o-o
 until we get
 o-o
 better elections
 o-o
-we're stuck
+using ranked
 o-o
-with vote splitting.
+choice ballots
+o-o
+we're stuck with
+o-o
+vote splitting.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -70,9 +101,11 @@ o-o
 is to vote in
 o-o
 begin-italics both end-italics
+o-o
 primary
 o-o
 begin-italics and end-italics
+o-o
 general
 o-o
 elections.
@@ -221,14 +254,18 @@ Hysteresis end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
-Wow.
-sentence-next
+Admittedly
 o-o
-I thought I was
-o-o
-just trying to
+I just try to
 o-o
 avoid stupidity.
+sentence-next
+o-o
+Thanks again
+o-o
+for your candid
+o-o
+clarity.
 end-lyric
 
 ambee sings-desha amenn

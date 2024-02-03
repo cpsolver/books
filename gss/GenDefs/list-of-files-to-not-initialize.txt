@@ -1,3 +1,7 @@
+02-scene-02-financial-part-2
+02-scene-02-financial-part-3
+03-scene-03-political-part-2
+03-scene-03-political-part-3
 05-scene-05-math-part-2
 05-scene-05-math-part-3
 05-scene-05-math-part-4
@@ -6,9 +10,17 @@
 05-scene-05-math-part-7
 05-scene-05-math-part-8
 05-scene-05-math-part-9
+05-scene-05-math-part-10
 06-scene-06-economic-part-2
 06-scene-06-economic-part-3
+06-scene-06-economic-part-4
+06-scene-06-economic-part-5
+06-scene-06-economic-part-6
+06-scene-06-economic-part-7
+06-scene-06-economic-part-8
+06-scene-06-economic-part-9
 07-scene-07-ending-part-2
 07-scene-07-ending-part-3
 07-scene-07-ending-part-4
 07-scene-07-ending-part-5
+07-scene-07-ending-part-6

@@ -1,0 +1,1285 @@
+begin-title
+Scene 2,
+title-chapter-02
+end-title
+
+ambee put-into-phrase lyric-number 0200000 amenn
+
+combee ************
+begin-comment Illustration:
+Den of wealthy man.
+Damien is on left side sitting on edge of expensive chair and facing other person who is venture capitalist.
+Venture capitalist is wearing very casual yet expensive clothes and is reclining in fancy recliner chair with feet propped up on footstool (or equivent).
+Adjacent to venture capitalist is a small table on which he has his smartphone and a TV remote control and a glass of red wine and a snack of chips.
+end-comment
+************ comenn
+
+ambee sings-damien-firstuse amenn
+'ello mister
+o-o
+name-vc-last no-space .
+end-lyric
+
+ambee sings-vc-firstuse amenn
+Welcome to
+o-o
+my home.
+sentence-next
+o-o
+'N just call me
+o-o
+name-vc no-space .
+end-lyric
+
+ambee sings-damien amenn
+Mister name-father-of-fiance-last no-space ,
+o-o
+my fiance's father,
+o-o
+said you make money dance.
+sentence-next
+o-o
+'N I'd like to advance
+o-o
+my state of finance.
+sentence-next
+o-o
+Could ya teach me some tricks?
+end-lyric
+
+ambee sings-vc amenn
+Shall we start
+o-o
+with some licks?
+sentence-next
+o-o
+In the fridge
+o-o
+is some mint
+o-o
+chocolate chip
+o-o
+ice cream.
+sentence-next
+o-o
+Want some?
+end-lyric
+
+ambee sings-damien amenn
+That's too rich
+o-o
+a taste for me.
+sentence-next
+o-o
+Risin' out of
+o-o
+serfdom.
+sentence-next
+o-o
+That's my dream.
+sentence-next
+o-o
+I wanna pass to
+o-o
+the middle class.
+sentence-next
+o-o
+I long to be
+o-o
+financially
+o-o
+secure,
+o-o
+as an
+o-o
+entrepreneur.
+end-lyric
+
+ambee sings-vc amenn
+I applaud
+o-o
+your taste
+o-o
+for money.
+sentence-next
+o-o
+Lots of folks
+o-o
+are fond of
+o-o
+stuffed bears,
+o-o
+warm and fuzzy.
+sentence-next
+o-o
+But a wallet
+o-o
+that's fat,
+o-o
+just like me,
+o-o
+what's better
+o-o
+than that?
+end-lyric
+
+ambee sings-damien amenn
+Without money
+o-o
+my world feels
+o-o
+upside down,
+o-o
+like a turtle
+o-o
+on it's back.
+end-lyric
+
+ambee sings-vc amenn
+With money,
+o-o
+my world feels
+o-o
+right side up.
+sentence-next
+o-o
+I've got a knack
+o-o
+for acquiring
+o-o
+riches.
+sentence-next
+o-o
+Sometimes
+o-o
+it seems like
+o-o
+obscene
+o-o
+amounts,
+o-o
+almost like
+o-o
+payouts spilling
+o-o
+onto the floor
+o-o
+from a slot
+o-o
+machine.
+sentence-next
+o-o
+Yet I want more.
+sentence-next
+o-o
+I can't afford
+o-o
+my own jet,
+o-o
+or a yacht.
+sentence-next
+o-o
+Not there yet.
+sentence-next
+o-o
+I've not yet got
+o-o
+all I want.
+end-lyric
+
+ambee sings-damien amenn
+So,
+o-o
+what's the trick?
+sentence-next
+o-o
+Of gettin' money
+o-o
+to fund a life
+o-o
+not wrecked?
+end-lyric
+
+ambee sings-vc amenn
+You've got to treat
+o-o
+other people
+o-o
+with respect,
+o-o
+begin-italics before end-italics you step
+o-o
+on their toes.
+sentence-next
+o-o
+Then anything goes.
+sentence-next
+o-o
+That's the
+begin-italics
+trick
+end-italics
+no-space .
+sentence-next
+o-o
+That's how I
+o-o
+act like a
+o-o
+...
+o-o
+an entrepreneur.
+end-lyric
+
+ambee sings-damien amenn
+So you put Benjamins
+o-o
+before humans?
+end-lyric
+
+ambee sings-vc amenn
+Think about this.
+sentence-next
+o-o
+The love
+o-o
+of money
+o-o
+is built into
+o-o
+our language.
+sentence-next
+o-o
+We have zillions
+o-o
+of words for
+o-o
+money.
+sentence-next
+o-o
+There's
+alimony,
+annuities,
+o-o
+assets,
+bonds,
+and
+bonus,
+o-o
+bounty,
+bribe,
+and
+capital,
+o-o
+cash,
+and
+commodities,
+o-o
+credit,
+currency,
+debit,
+o-o
+discount,
+expense,
+and funds,
+o-o
+income,
+interest,
+investment,
+o-o
+options,
+pension,
+ransom,
+o-o
+rebate,
+and
+remittance,
+o-o
+rent,
+revenue,
+securities,
+o-o
+shares,
+subsidy,
+and wage,
+o-o
+and even those
+o-o
+awful words like
+o-o
+charity and
+o-o
+donation.
+end-lyric
+
+combee ************
+begin-comment
+(more words: account, receipts, cash, deposit, check, balance, expenditure, salary, payment, liability, stake, duty, price, cost, tax, untaxed, appraisal, discount, depreciation, allowance, cost, paid, unpaid, free)
+end-comment
+************ comenn
+
+ambee sings-damien amenn
+I see.
+sentence-next
+o-o
+'N besides words
+o-o
+for mula and dough,
+o-o
+there're words
+o-o
+like banker,
+o-o
+accountant,
+o-o
+economist,
+o-o
+miser,
+o-o
+embezzler,
+o-o
+'n vulture
+o-o
+capitalist.
+end-lyric
+
+ambee sings-vc amenn
+And investor,
+o-o
+and venture capitalist,
+o-o
+and part hyphen-here time
+o-o
+commodity
+o-o
+trader,
+o-o
+plus business
+o-o
+owner,
+o-o
+which are
+o-o
+what I am.
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+money's damn
+o-o
+important.
+end-lyric
+
+ambee sings-vc amenn
+Did you know
+o-o
+that long ago,
+o-o
+when writing
+o-o
+was new,
+o-o
+writing was used
+o-o
+for banking
+o-o
+and accounting?
+end-lyric
+
+ambee sings-damien amenn
+That was before
+o-o
+my time.
+end-lyric
+
+ambee sings-vc amenn
+That way money
+o-o
+was stored in banks,
+o-o
+not in pockets
+o-o
+nor in bags
+o-o
+anymore.
+sentence-next
+o-o
+That protected
+o-o
+traders from
+o-o
+pirates,
+o-o
+thieves, and
+o-o
+marauding
+o-o
+desperadoes.
+o-o
+end-lyric
+
+ambee sings-damien amenn
+Ah, pirates.
+sentence-next
+o-o
+That was a
+o-o
+profession
+o-o
+back when
+o-o
+swashbuckling exams
+o-o
+were open
+o-o
+to the poor.
+end-lyric
+
+ambee sings-vc amenn
+Pickpockets,
+o-o
+pirates, and
+o-o
+highway robbers
+o-o
+have become
+o-o
+as uncommon as
+o-o
+blue hyphen-here footed boobies.
+sentence-next
+o-o
+Now that money
+o-o
+travels out of
+o-o
+sight at the
+o-o
+speed of light.
+end-lyric
+
+ambee sings-damien amenn
+'N the modern
+o-o
+version of pirates
+o-o
+is lawyers?
+end-lyric
+
+ambee sings-vc amenn
+Oh no,
+o-o
+today's lawyers
+o-o
+are like
+o-o
+ancient scribes.
+sentence-next
+o-o
+They write
+o-o
+documents,
+o-o
+but on paper
+o-o
+instead of on
+o-o
+parchment,
+o-o
+or clay tablets,
+o-o
+or pyramid
+o-o
+walls.
+end-lyric
+
+ambee sings-damien amenn
+So how do you
+o-o
+choose where to
+o-o
+put the money
+o-o
+you've got,
+o-o
+to get more?
+sentence-next
+o-o
+So you don't
+o-o
+end up singing
+o-o
+the blues.
+end-lyric
+
+ambee sings-vc amenn
+Besides side hyphen-here stepping
+o-o
+traps set by
+o-o
+gold diggers,
+o-o
+I only invest
+o-o
+in high hyphen-here profit
+o-o
+deals.
+sentence-next
+o-o
+The ones where I
+o-o
+become an
+o-o
+even bigger
+o-o
+winner.
+end-lyric
+
+ambee sings-damien amenn
+How come you
+o-o
+don't invest in
+o-o
+businesses
+o-o
+that sell products
+o-o
+and services
+o-o
+that are the best?
+end-lyric
+
+ambee sings-vc amenn
+The high-profit one
+o-o
+has to compensate
+o-o
+for the other eight,
+o-o
+the ones that flop.
+sentence-next
+o-o
+Like Enron,
+o-o
+Theranos,
+o-o
+and America
+o-o
+Offline
+o-o
+diskettes.
+end-lyric
+
+ambee sings-damien amenn
+So you're seekin'
+o-o
+the one big standout
+o-o
+you can brag about?
+end-lyric
+
+ambee sings-vc amenn
+Ah, yes,
+o-o
+the unicorn.
+sentence-next
+o-o
+The one that
+o-o
+swells my pockets
+o-o
+til they burst.
+sentence-next
+o-o
+Missing out on
+o-o
+one of those
+o-o
+would be the worst.
+sentence-next
+o-o
+Yes, one unicorn
+o-o
+in the forest
+o-o
+is worth more than
+o-o
+five zebras
+o-o
+in the brush.
+end-lyric
+
+ambee sings-damien amenn
+Zebras?
+end-lyric
+
+ambee sings-vc amenn
+Those are the
+o-o
+small businesses
+o-o
+that march to
+o-o
+riches slowly,
+o-o
+by making
+o-o
+something that
+o-o
+consumers
+o-o
+readily want,
+o-o
+and selling
+o-o
+a quality
+o-o
+version at an
+o-o
+affordable
+o-o
+price.
+sentence-next
+o-o
+They don't need our
+o-o
+venture capital
+o-o
+for big
+o-o
+marketing
+o-o
+blitzes.
+end-lyric
+
+ambee sings-damien amenn
+Isn't the whole
+o-o
+business scene
+o-o
+about selling what
+o-o
+customers want?
+sentence-next
+o-o
+Or crave,
+o-o
+like nicotine,
+o-o
+...
+o-o
+'n chocolate
+o-o
+milk
+o-o
+with Cheerios?
+end-lyric
+
+ambee sings-vc amenn
+Sure money
+o-o
+can be used
+o-o
+to oppose
+o-o
+customer
+o-o
+dissatisfaction.
+end-lyric
+
+ambee sings-damien amenn
+What I mean is,
+o-o
+well,
+o-o
+I'd like to
+o-o
+find fundin'
+o-o
+for a business
+o-o
+venture.
+sentence-next
+o-o
+I've invented a
+o-o
+tool for cleanin'
+o-o
+leaf gutters,
+o-o
+without gettin'
+o-o
+on a ladder.
+sentence-next
+o-o
+So I'll ask,
+o-o
+would ya invest
+o-o
+in a business
+o-o
+that sells the best
+o-o
+kind of tool
+o-o
+for that task?
+end-lyric
+
+ambee sings-vc amenn
+Nah, that would
+o-o
+be harder
+o-o
+to advertise
+o-o
+than a cordless
+o-o
+bungee hyphen-here jumping
+o-o
+franchise.
+end-lyric
+
+ambee sings-damien amenn
+Lots of people
+o-o
+get hurt
+o-o
+when they hit
+o-o
+the dirt
+o-o
+from fallin' off
+o-o
+a ladder while
+o-o
+cleanin'
+o-o
+a gutter.
+sentence-next
+o-o
+Some land on
+o-o
+their head,
+o-o
+and end up dead.
+end-lyric
+
+ambee sings-vc amenn
+That's a great spin!
+sentence-next
+o-o
+Fear of fallin'.
+sentence-next
+o-o
+That's a fear that
+o-o
+would sell lots of
+o-o
+product.
+sentence-next
+o-o
+Do you have
+o-o
+a patent?
+end-lyric
+
+ambee sings-damien amenn
+I can't afford
+o-o
+that expense.
+sentence-next
+o-o
+At thousands
+o-o
+of dollars,
+o-o
+that cost
+o-o
+is way too
+o-o
+immense.
+end-lyric
+
+ambee sings-vc amenn
+Many tens of
+o-o
+thousands of
+o-o
+bucks.
+end-lyric
+
+ambee sings-damien amenn
+That sucks.
+sentence-next
+o-o
+I couldn't afford
+o-o
+even a few hundred
+o-o
+dollars to ...
+end-lyric
+
+ambee sings-vc amenn
+Why would I
+o-o
+invest?
+sentence-next
+o-o
+Not unless
+o-o
+there's a
+o-o
+barrier
+o-o
+against
+o-o
+competitors.
+sentence-next
+o-o
+There's gotta
+o-o
+be a
+o-o
+monopoly.
+sentence-next
+o-o
+Either
+o-o
+a legal
+o-o
+monopoly,
+o-o
+or some kind of
+o-o
+virtual
+o-o
+monopoly.
+sentence-next
+o-o
+That way my
+o-o
+investment
+o-o
+doesn't
+o-o
+evaporate
+o-o
+like a raindrop
+o-o
+falling into
+o-o
+Death Valley.
+end-lyric
+
+ambee sings-damien amenn
+So a workin'
+o-o
+prototype's
+o-o
+not enough?
+end-lyric
+
+ambee sings-vc amenn
+Sorry to sound
+o-o
+tough,
+o-o
+but that's too
+o-o
+rough.
+sentence-next
+o-o
+That's as useless
+o-o
+as a machine hyphen-here gun mount
+o-o
+on the back of
+o-o
+a golf cart.
+sentence-next
+o-o
+What the biz needs
+o-o
+to succeed
+o-o
+is a big amount
+o-o
+of income,
+o-o
+plus customers and
+o-o
+testimonials.
+sentence-next
+o-o
+Then we might
+o-o
+lay out some
+o-o
+funds.
+end-lyric
+
+ambee sings-damien amenn
+If income I
+o-o
+already had,
+o-o
+I could self hyphen-here fund it.
+sentence-next
+o-o
+'N with that
+o-o
+I could go to
+o-o
+a bank 'n ask
+o-o
+for a loan.
+end-lyric
+
+ambee sings-vc amenn
+Ha,
+o-o
+the bank
+o-o
+officials
+o-o
+might nod
+o-o
+earnestly
+o-o
+instead of
+o-o
+groan
+o-o
+...
+o-o
+out loud.
+sentence-next
+o-o
+They might even
+o-o
+encourage
+o-o
+you to open
+o-o
+an account,
+o-o
+and get you to
+o-o
+fill out a
+o-o
+few forms.
+sentence-next
+o-o
+But when you've
+o-o
+stepped out
+o-o
+the door,
+o-o
+they'll wet
+o-o
+themselves with
+o-o
+laughter.
+end-lyric
+
+ambee sings-damien amenn
+If I were to
+o-o
+buy a house
+o-o
+they'd loan for that.
+end-lyric
+
+ambee sings-vc amenn
+A mortgage,
+o-o
+hah.
+sentence-next
+o-o
+It doesn't work
+o-o
+like that.
+sentence-next
+o-o
+Instead
+o-o
+the bank
+o-o
+buys the
+o-o
+house.
+sentence-next
+o-o
+Your down payment's
+o-o
+big enough
+o-o
+to pay for
+o-o
+a year of
+o-o
+law school.
+sentence-next
+o-o
+So if soon
+o-o
+you lose your job
+o-o
+and miss a
+o-o
+payment,
+o-o
+a remittance,
+o-o
+or two,
+o-o
+they sell the house.
+sentence-next
+o-o
+Then you and a
+o-o
+couple of
+o-o
+other
+o-o
+homeowners
+o-o
+have paid for a
+o-o
+banker's kid
+o-o
+to become
+o-o
+a lawyer.
+sentence-next
+o-o
+That path leads to
+o-o
+homelessness,
+o-o
+unless you have
+o-o
+trustworthy
+o-o
+income.
+end-lyric
+
+ambee sings-damien amenn
+So banks
+o-o
+don't loan
+o-o
+money?
+end-lyric
+
+ambee sings-vc amenn
+They still do
+o-o
+a bit,
+o-o
+occasionally.
+sentence-next
+o-o
+Mostly now they're
+o-o
+high hyphen-here rolling gamblers
+o-o
+that make casinos
+o-o
+look like kids
+o-o
+playing a game
+o-o
+of Monopoly.
+sentence-next
+o-o
+They make
+o-o
+big money
+o-o
+by buying and
+o-o
+selling, ah,
+o-o
+another word
+o-o
+for money,
+o-o
+derivatives.
+sentence-next
+o-o
+Big things,
+o-o
+not small things.
+end-lyric
+
+ambee sings-damien amenn
+What're
+o-o
+derivatives?
+end-lyric
+
+ambee sings-vc amenn
+Those are contracts
+o-o
+on paper, or the
+o-o
+cyberspace
+o-o
+equivalent,
+o-o
+written by lawyers.
+sentence-next
+o-o
+Lots of times
+o-o
+they're promises
+o-o
+to pay money if
+o-o
+something happens,
+o-o
+like if interest
+o-o
+rates rise or fall.
+end-lyric
+
+ambee sings-damien amenn
+That sounds
+o-o
+a lot like
+o-o
+gamblin'.
+end-lyric
+
+ambee sings-vc amenn
+It is.
+sentence-next
+o-o
+And gambling,
+o-o
+that's what we
+o-o
+venture
+o-o
+capitalists
+o-o
+do too.
+sentence-next
+o-o
+We supply
+o-o
+capital.
+sentence-next
+o-o
+It's like those
+o-o
+ancient sea
+o-o
+voyages.
+sentence-next
+o-o
+Someone had to
+o-o
+buy the ship,
+o-o
+pay sailors,
+o-o
+and stock up
+o-o
+on gruel
+o-o
+and limes,
+o-o
+before they could
+o-o
+sail from the dock.
+sentence-next
+o-o
+Then, on return,
+o-o
+if they returned,
+o-o
+the cargo was
+o-o
+sold, and the
+o-o
+backer got his
+o-o
+share of the
+o-o
+gold.
+end-lyric
+
+ambee sings-damien amenn
+'N the captain
+o-o
+'n crew got what?
+end-lyric
+
+ambee sings-vc amenn
+What they got was
+o-o
+a temporary pass
+o-o
+to the middle class.
+sentence-next
+o-o
+Until they got
+o-o
+swindled,
+o-o
+badly beaten
+o-o
+in a
+o-o
+casino,
+o-o
+or stuck with
+o-o
+alimony
+o-o
+payments
+o-o
+that would fund
+o-o
+a small bank.
+end-lyric
+
+ambee sings-damien amenn
+But the backer
+o-o
+got more?
+end-lyric
+
+ambee sings-vc amenn
+Of course, 'cause
+o-o
+he took the
+o-o
+biggest risk.
+sentence-next
+o-o
+Remember there
+o-o
+were pirates.
+sentence-next
+o-o
+And sometimes
+o-o
+the winds
+o-o
+were not brisk.
+end-lyric
+
+ambee sings-damien amenn
+Those times
+o-o
+were cruel,
+o-o
+barbaric,
+o-o
+and excitin'.
+end-lyric

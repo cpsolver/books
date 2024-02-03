@@ -1,4 +1,6 @@
-05-scene-05-math-part-8
-05-scene-05-math-part-9
 06-scene-06-economic-part-1
 06-scene-06-economic-part-2
+06-scene-06-economic-part-3
+06-scene-06-economic-part-4
+06-scene-06-economic-part-5
+06-scene-06-economic-part-6

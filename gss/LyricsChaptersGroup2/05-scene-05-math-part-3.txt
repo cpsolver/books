@@ -1,428 +1,5 @@
 ambee put-into-phrase lyric-number 0510000 amenn
 
-
-ambee sings-mathprof amenn
-Let's try a
-o-o
-different
-o-o
-scenario.
-sentence-next
-o-o
-Let's suppose
-o-o
-you're in the
-o-o
-audience at
-o-o
-a talent contest,
-o-o
-and the emcee
-o-o
-announces
-o-o
-the loudness
-o-o
-of clapping
-o-o
-will determine
-o-o
-who wins.
-sentence-next
-o-o
-How can you get
-o-o
-extra influence?
-end-lyric
-
-ambee sings-damien amenn
-I dunno.
-end-lyric
-
-ambee sings-desha amenn
-Nor do I.
-end-lyric
-
-ambee sings-mathprof amenn
-You could clap
-o-o
-really loud for
-o-o
-your favorites,
-o-o
-and just pretend
-o-o
-to clap for the
-o-o
-others.
-end-lyric
-
-ambee sings-damien amenn
-That'd be
-o-o
-cheating.
-end-lyric
-
-ambee sings-mathprof amenn
-In a talent
-o-o
-contest, maybe,
-o-o
-maybe not.
-sentence-next
-o-o
-At theater
-o-o
-events, that's
-o-o
-disrespectful.
-sentence-next
-o-o
-But in an
-o-o
-election, with
-o-o
-money on the line,
-o-o
-that's just freedom
-o-o
-of expression.
-sentence-next
-o-o
-It's voting,
-o-o
-but with an unfair
-o-o
-kind of vote
-o-o
-counting.
-end-lyric
-
-ambee sings-desha amenn
-Ah, it's fighting!
-sentence-next
-o-o
-Done on ballots.
-end-lyric
-
-ambee sings-damien amenn
-So when I rate
-o-o
-things on Amazon
-o-o
-I should only
-o-o
-use one star
-o-o
-or five stars?
-end-lyric
-
-ambee sings-mathprof amenn
-If you do that
-o-o
-on Amazon
-o-o
-you're being a
-o-o
-jerk.
-sentence-next
-o-o
-But if that star
-o-o
-rating were used
-o-o
-in elections,
-o-o
-where so much
-o-o
-is at stake,
-o-o
-that tactic
-o-o
-would make
-o-o
-your ballot
-o-o
-have more impact
-o-o
-than ballots
-o-o
-marked
-o-o
-honestly.
-end-lyric
-
-ambee sings-damien amenn
-I'm still following
-o-o
-things to here.
-sentence-next
-o-o
-Too bad I can't
-o-o
-celebrate with
-o-o
-a beer.
-end-lyric
-
-ambee sings-mathprof amenn
-Bravo!
-sentence-next
-o-o
-You see that
-o-o
-just collecting
-o-o
-more information
-o-o
-isn't enough.
-sentence-next
-o-o
-How the information
-o-o
-is counted to
-o-o
-identify a
-o-o
-winner is so
-o-o
-important to
-o-o
-get right.
-end-lyric
-
-ambee sings-damien amenn
-So the five star
-o-o
-method won't work?
-end-lyric
-
-ambee sings-mathprof amenn
-Ah,
-o-o
-I should
-o-o
-shine light
-o-o
-on the concept
-o-o
-that there are
-o-o
-two parts
-o-o
-to any
-o-o
-voting method.
-sentence-next
-o-o
-There's the ballot
-o-o
-and there's the
-o-o
-counting of those
-o-o
-ballots.
-end-lyric
-
-ambee sings-damien amenn
-What kind'a ballot
-o-o
-do we use
-o-o
-now?
-end-lyric
-
-ambee sings-mathprof amenn
-Almost
-o-o
-every nation in the
-o-o
-world uses what's
-o-o
-increasingly called
-o-o
-the single hyphen-here choice
-o-o
-ballot.
-end-lyric
-
-ambee sings-desha amenn
-'Cause we can
-o-o
-only mark a
-o-o
-single choice?
-end-lyric
-
-ambee sings-mathprof amenn
-Right.
-sentence-next
-o-o
-And in a
-o-o
-simple election
-o-o
-there's just
-o-o
-one way
-o-o
-to count
-o-o
-that kind
-o-o
-of ballot.
-sentence-next
-o-o
-Which is why
-o-o
-until recently
-o-o
-that ballot didn't
-o-o
-have a name.
-sentence-next
-o-o
-The counting method
-o-o
-has different names.
-sentence-next
-o-o
-It's the enemy
-o-o
-of fair voting
-o-o
-so it's worth
-o-o
-learning its names.
-sentence-next
-o-o
-In the academic
-o-o
-world it's called
-o-o
-begin-italics plurality voting end-italics no-space .
-sentence-next
-o-o
-In Canada
-o-o
-and other
-o-o
-British places
-o-o
-it's called
-o-o
-begin-italics first past the post end-italics no-space .
-end-lyric
-
-ambee sings-damien amenn
-What's it called
-o-o
-here in the states?
-end-lyric
-
-ambee sings-mathprof amenn
-It's just called
-o-o
-voting.
-end-lyric
-
-ambee sings-desha amenn
-Ah! With no name
-o-o
-it becomes harder
-o-o
-to fight against!
-sentence-next
-o-o
-Imagine protesting
-o-o
-with a sign that says
-o-o
-begin-italics End That Nameless
-o-o
-Bad Kind Of
-o-o
-Vote Counting end-italics no-space .
-end-lyric
-
-ambee sings-damien amenn
-So that's the
-o-o
-enemy?
-sentence-next
-o-o
-Plurality?
-sentence-next
-o-o
-And it uses
-o-o
-the
-o-o
-single hyphen-here choice
-o-o
-ballot?
-end-lyric
-
-ambee sings-mathprof amenn
-Yes.
-sentence-next
-o-o
-Using those for
-o-o
-democracy
-o-o
-is like
-o-o
-using a stick
-o-o
-attached to
-o-o
-a round piece of
-o-o
-cardboard
-o-o
-as an
-o-o
-umbrella.
-sentence-next
-o-o
-It works
-o-o
-for a bit,
-o-o
-until it
-o-o
-doesn't.
-end-lyric
-
-ambee sings-desha amenn
-So what's the name
-o-o
-of a ballot where
-o-o
-each candidate
-o-o
-can be ranked at
-o-o
-a different level,
-o-o
-like on Amazon?
-end-lyric
-
-ambee sings-mathprof amenn
-Academically
-o-o
-that's called a
-o-o
-ranked ballot,
-o-o
-or a score ballot,
-o-o
-depending on
-o-o
-how it's counted.
-end-lyric
-
 ambee sings-damien amenn
 Brain freeze
 o-o
@@ -1149,4 +726,153 @@ end-lyric
 
 ambee sings-damien amenn
 Let's keep goin'.
+end-lyric
+
+ambee sings-desha amenn
+You said the
+o-o
+five star Amazon
+o-o
+kind of ballot
+o-o
+has two names.
+sentence-next
+o-o
+Which name applies
+o-o
+to the kind of
+o-o
+simple counting
+o-o
+we've been talking
+o-o
+about?
+end-lyric
+
+ambee sings-mathprof amenn
+That kind of
+o-o
+ballot is asking
+o-o
+for a score
+o-o
+or a rating.
+sentence-next
+o-o
+It's called
+o-o
+a score ballot.
+sentence-next
+o-o
+It allows a voter
+o-o
+to indicate
+o-o
+how strongly the
+o-o
+voter feels about
+o-o
+who they like and
+o-o
+dislike.
+sentence-next
+o-o
+Like the grades
+o-o
+A through F.
+end-lyric
+
+ambee sings-desha amenn
+Most politicians
+o-o
+deserve an F,
+o-o
+for
+o-o
+...
+sentence-next
+o-o
+fails to care
+o-o
+about most
+o-o
+voters.
+end-lyric
+
+ambee sings-damien amenn
+We gotta
+o-o
+grade 'em
+o-o
+on a curve.
+end-lyric
+
+ambee sings-desha amenn
+'N that's why
+o-o
+marking just the
+o-o
+highest and
+o-o
+lowest scores,
+o-o
+is such a
+o-o
+big deal?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes,
+o-o
+because some
+o-o
+voters will use
+o-o
+the clapping
+o-o
+tactic
+o-o
+and others
+o-o
+won't.
+end-lyric
+
+ambee sings-damien amenn
+So how should we
+o-o
+be countin'
+o-o
+ballots?
+sentence-next
+o-o
+For elections.
+sentence-next
+o-o
+Where voters
+o-o
+will try
+o-o
+to increase
+o-o
+their influence.
+end-lyric
+
+ambee sings-mathprof amenn
+Before we
+o-o
+move on to
+o-o
+better ways to
+o-o
+count those
+o-o
+better ballots,
+o-o
+here's an
+o-o
+interesting
+o-o
+simple kind of
+o-o
+improvement.
 end-lyric

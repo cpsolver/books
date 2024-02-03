@@ -1,0 +1,1286 @@
+begin-title
+Scene 3,
+title-chapter-03
+end-title
+
+ambee put-into-phrase lyric-number 0300000 amenn
+
+combee ************
+begin-comment
+Illustration:
+Political-party headquarters, with banner in background that says "PRUITT" in large letters and says "Let's put corruption behind us" in smaller letters.
+Damien is standing on left side, facing politician.
+Politician is standing on right side facing Damien, and is dressed in coat and tie.
+Politician is white male, tall, very good looking, about age 55.
+end-comment
+************ comenn
+
+ambee sings-damien-firstuse amenn
+begin-explain Speaks to himself. end-explain
+sentence-next
+o-o
+Hmm.
+sentence-next
+o-o
+That's an odd
+o-o
+campaign
+o-o
+slogan.
+sentence-next
+o-o
+...
+o-o
+begin-italics Let's put
+o-o
+corruption
+o-o
+behind us. end-italics
+sentence-next
+o-o
+...
+o-o
+Ah, maybe this
+o-o
+is him.
+end-lyric
+
+ambee sings-politician-firstuse amenn
+Thank you for waiting.
+end-lyric
+
+ambee sings-damien amenn
+Thank you for your time Congressman name-politician-last no-space .
+end-lyric
+
+ambee sings-politician amenn
+Come into my
+o-o
+office
+o-o
+...
+o-o
+and pardon
+o-o
+the mess.
+sentence-next
+o-o
+I keep hearing
+o-o
+promises
+o-o
+...
+o-o
+that someone
+o-o
+will clean
+o-o
+this all up.
+sentence-next
+o-o
+Alas,
+o-o
+it was hit by
+o-o
+a fresh tomato.
+sentence-next
+o-o
+I mean
+o-o
+tornado.
+end-lyric
+
+ambee sings-damien amenn
+I knew
+o-o
+politics
+o-o
+was messy.
+end-lyric
+
+ambee sings-politician amenn
+While I'm looking
+o-o
+for bugs,
+o-o
+would you like
+o-o
+some cold pizza?
+sentence-next
+o-o
+The sausage
+o-o
+is pork.
+end-lyric
+
+ambee sings-damien amenn
+Not if that's where
+o-o
+the bugs have been
+o-o
+holdin' their
+o-o
+rallies.
+sentence-next
+o-o
+'N the cheese
+o-o
+looks more
+o-o
+counterfeit
+o-o
+than a spray hyphen-here on tan.
+end-lyric
+
+ambee sings-politician amenn
+Oh man,
+o-o
+not those
+o-o
+kinds of bugs.
+sentence-next
+o-o
+We politicians
+o-o
+need to keep
+o-o
+our secrets
+o-o
+unknown
+o-o
+...
+o-o
+from
+o-o
+political
+o-o
+spies.
+sentence-next
+o-o
+In fact,
+o-o
+turn off
+o-o
+your phone,
+o-o
+and I'll
+o-o
+tell you
+o-o
+no lies.
+end-lyric
+
+ambee sings-damien amenn
+Deal!
+sentence-next
+o-o
+Powering down,
+o-o
+no live feed,
+o-o
+no recording.
+end-lyric
+
+ambee sings-politician amenn
+name-vc 
+o-o
+told me to
+o-o
+trust you with
+o-o
+behind hyphen-here the hyphen-here curtain
+o-o
+and
+o-o
+under hyphen-here the hyphen-here trap hyphen-here door
+o-o
+kinds of magic
+o-o
+we use on
+o-o
+the political
+o-o
+stage.
+end-lyric
+
+ambee sings-damien amenn
+What a treat!
+sentence-next
+o-o
+A wise sage!
+end-lyric
+
+ambee sings-politician amenn
+Of course
+o-o
+you realize
+o-o
+we have to
+o-o
+tell lies
+o-o
+...
+o-o
+to voters.
+sentence-next
+o-o
+If we told
+o-o
+the dumb voters
+o-o
+what we tell
+o-o
+our rich donors,
+o-o
+we'd never win
+o-o
+our prize,
+o-o
+re hyphen-here election.
+end-lyric
+
+ambee sings-damien amenn
+I suspect
+o-o
+your donors
+o-o
+don't forget
+o-o
+your promises.
+end-lyric
+
+ambee sings-politician amenn
+Indeed they don't.
+sentence-next
+o-o
+They hire
+o-o
+lobbyists
+o-o
+to keep track
+o-o
+of us.
+sentence-next
+o-o
+And they make
+o-o
+such a fuss
+o-o
+if we just
+o-o
+vote for a bill
+o-o
+that might drop
+o-o
+their gross income
+o-o
+by the price of
+o-o
+one chocolate mousse.
+end-lyric
+
+ambee sings-damien amenn
+That is gross.
+end-lyric
+
+ambee sings-politician amenn
+Yet the biggest
+o-o
+political
+o-o
+trick isn't
+o-o
+deceit.
+sentence-next
+o-o
+It's distraction.
+end-lyric
+
+ambee sings-damien amenn
+You've got my full
+o-o
+attention.
+end-lyric
+
+ambee sings-politician amenn
+As you know
+o-o
+there are names
+o-o
+for the
+o-o
+political
+o-o
+right such as
+o-o
+conservatives,
+o-o
+capitalists,
+o-o
+two percenters,
+o-o
+pro hyphen-here lifers,
+o-o
+and racists.
+sentence-next
+o-o
+On the
+o-o
+political
+o-o
+left
+o-o
+there are
+o-o
+names like
+o-o
+liberals,
+o-o
+socialists,
+o-o
+abortionists,
+o-o
+tree huggers,
+o-o
+and bitches.
+sentence-next
+o-o
+Those
+o-o
+right hyphen-here and hyphen-here left names
+o-o
+entertainingly
+o-o
+distract
+o-o
+from the fact
+o-o
+there's a bigger
+o-o
+conflict.
+end-lyric
+
+ambee sings-damien amenn
+What's bigger than
+o-o
+the fight
+o-o
+between left 'n
+o-o
+right?
+end-lyric
+
+ambee sings-politician amenn
+Allow me to
+o-o
+introduce you
+o-o
+to a new way
+o-o
+to view the
+o-o
+political
+o-o
+terrain.
+end-lyric
+
+ambee sings-damien amenn
+My brain
+o-o
+is open wide
+o-o
+'n ready to be
+o-o
+stupefied.
+end-lyric
+
+ambee sings-politician amenn
+The much bigger
+o-o
+fight is
+o-o
+between the
+o-o
+political up
+o-o
+and the
+o-o
+political down.
+end-lyric
+
+ambee sings-damien amenn
+Political up?
+sentence-next
+o-o
+Political down?
+sentence-next
+o-o
+Where did
+o-o
+left and right
+o-o
+go to?
+sentence-next
+o-o
+What's up?
+end-lyric
+
+ambee sings-politician amenn
+The political up,
+o-o
+that's where most
+o-o
+voters are.
+end-lyric
+
+ambee sings-damien amenn
+Voters of which
+o-o
+party?
+end-lyric
+
+ambee sings-politician amenn
+Both parties.
+end-lyric
+
+ambee sings-damien amenn
+How can that be?
+sentence-next
+o-o
+Both Republicans
+o-o
+and Democrats
+o-o
+are in the
+o-o
+political up?
+end-lyric
+
+ambee sings-politician amenn
+Stop thinking of
+o-o
+voters as
+o-o
+Republicans
+o-o
+and
+o-o
+Democrats.
+sentence-next
+o-o
+It's us
+o-o
+politicians,
+o-o
+and the party
+o-o
+insiders,
+o-o
+who are
+o-o
+Republicans
+o-o
+and
+o-o
+Democrats.
+end-lyric
+
+ambee sings-damien amenn
+So is this like
+o-o
+Star begin-italics Wars end-italics fans
+o-o
+also can be
+o-o
+Star begin-italics Trek end-italics
+o-o
+fans?
+sentence-next
+o-o
+And the
+o-o
+opposite?
+end-lyric
+
+ambee sings-politician amenn
+Heck,
+o-o
+if this is news
+o-o
+to you,
+o-o
+maybe you too
+o-o
+have failed to
+o-o
+recognize
+o-o
+that both
+o-o
+parties are
+o-o
+controlled by
+o-o
+people who
+o-o
+utilize
+o-o
+money.
+end-lyric
+
+ambee sings-damien amenn
+That part I knew.
+end-lyric
+
+ambee sings-politician amenn
+The biggest
+o-o
+campaign
+o-o
+contributors
+o-o
+are in the
+o-o
+political down.
+end-lyric
+
+ambee sings-damien amenn
+The biggest
+o-o
+contributors?
+sentence-next
+o-o
+Should we
+o-o
+be puttin' down
+o-o
+fat people?
+end-lyric
+
+ambee sings-politician amenn
+Not that kind
+o-o
+of biggest.
+sentence-next
+o-o
+They give the
+o-o
+biggest amounts
+o-o
+of money.
+sentence-next
+o-o
+They provide
+o-o
+the money source
+o-o
+that lifts us
+o-o
+politicians
+o-o
+high in the polls.
+sentence-next
+o-o
+They've bought
+o-o
+our souls.
+sentence-next
+o-o
+Without their dough
+o-o
+we get dashed
+o-o
+against the rocks
+o-o
+during a
+o-o
+primary.
+end-lyric
+
+ambee sings-damien amenn
+You're talkin' 'bout
+o-o
+rich folks,
+o-o
+right?
+end-lyric
+
+ambee sings-politician amenn
+Of course they're
+o-o
+all rich.
+sentence-next
+o-o
+But some
+o-o
+of the rich
+o-o
+are in the
+o-o
+political
+o-o
+up.
+end-lyric
+
+ambee sings-damien amenn
+How can that be?
+sentence-next
+o-o
+I'm as confused
+o-o
+as if I just
+o-o
+stepped out from an
+o-o
+industrial
+o-o
+laundry
+o-o
+washer
+o-o
+during the
+o-o
+high hyphen-here spin
+o-o
+cycle.
+end-lyric
+
+ambee sings-politician amenn
+Confused by
+o-o
+the spin.
+sentence-next
+o-o
+That's the state
+o-o
+most voters
+o-o
+are in.
+sentence-next
+o-o
+That's the aim
+o-o
+of the
+o-o
+political
+o-o
+down.
+sentence-next
+o-o
+So of course
+o-o
+they resist
+o-o
+adopting
+o-o
+a name.
+end-lyric
+
+ambee sings-damien amenn
+But among themselves
+o-o
+they call themselves
+o-o
+the political down?
+end-lyric
+
+ambee sings-politician amenn
+No, that's just
+o-o
+how I think of
+o-o
+them.
+end-lyric
+
+ambee sings-damien amenn
+This
+o-o
+upfront
+o-o
+lowdown is
+o-o
+blindingly
+o-o
+illuminatin'.
+end-lyric
+
+ambee sings-politician amenn
+Of course
+o-o
+lots of wealthy
+o-o
+folks in the
+o-o
+political down
+o-o
+prefer our party,
+o-o
+the Republican
+o-o
+party.
+end-lyric
+
+ambee sings-damien amenn
+Even I can see that.
+end-lyric
+
+ambee sings-politician amenn
+Yet many people
+o-o
+in the
+o-o
+political down
+o-o
+have infiltrated
+o-o
+the Democratic
+o-o
+party.
+end-lyric
+
+ambee sings-damien amenn
+Voting in both parties?
+sentence-next
+o-o
+That's illegal.
+end-lyric
+
+ambee sings-politician amenn
+You're thinking of votes.
+sentence-next
+o-o
+I'm talking about money.
+end-lyric
+
+ambee sings-damien amenn
+Whoa!
+sentence-next
+o-o
+How come the
+o-o
+political
+o-o
+down
+o-o
+gives money
+o-o
+to both
+o-o
+left and right
+o-o
+parties?
+sentence-next
+o-o
+That's as stupid
+o-o
+as placin' bets
+o-o
+on both horses
+o-o
+in a
+o-o
+two hyphen-here horse race.
+end-lyric
+
+ambee sings-politician amenn
+Ah, here's a
+o-o
+big secret.
+sentence-next
+o-o
+They assist
+o-o
+horses,
+o-o
+er, candidates,
+o-o
+in their
+o-o
+disliked
+o-o
+party
+o-o
+only during
+o-o
+begin-italics primary end-italics
+o-o
+elections.
+sentence-next
+o-o
+Of course I'm
+o-o
+dumbing things down.
+end-lyric
+
+ambee sings-damien amenn
+That fits my brain.
+sentence-next
+o-o
+Now I see!
+sentence-next
+o-o
+They use money
+o-o
+to influence
+o-o
+who wins each
+o-o
+Democratic
+o-o
+begin-italics primary end-italics no-space !
+sentence-next
+o-o
+But in the general
+o-o
+election
+o-o
+they just embrace
+o-o
+their puppet
+o-o
+candidate?
+end-lyric
+
+ambee sings-politician amenn
+Isn't it
+o-o
+brilliant?
+sentence-next
+o-o
+Yet seductive.
+sentence-next
+o-o
+Like the
+o-o
+gleaming smile
+o-o
+of a fetching lass
+o-o
+in an auto ad.
+end-lyric
+
+ambee sings-damien amenn
+Now I'm
+o-o
+beginnin' to see
+o-o
+how come we,
+o-o
+er,
+o-o
+most voters,
+o-o
+dislike both
+o-o
+candidates,
+o-o
+the Republican
+o-o
+begin-italics and end-italics the Democrat.
+sentence-next
+o-o
+I don't mean
+o-o
+any
+o-o
+disrespect.
+end-lyric
+
+ambee sings-politician amenn
+A lack of
+o-o
+respect
+o-o
+is what we
+o-o
+politicians
+o-o
+expect.
+sentence-next
+o-o
+We know
+o-o
+we're stuck
+o-o
+in the middle,
+o-o
+between voters
+o-o
+and our biggest
+o-o
+campaign
+o-o
+contributors.
+sentence-next
+o-o
+Now do you see
+o-o
+why voters
+o-o
+are distracted
+o-o
+by the
+o-o
+entertaining
+o-o
+conflict
+o-o
+between left
+o-o
+and right?
+end-lyric
+
+ambee sings-damien amenn
+Instead of words
+o-o
+I need a
+o-o
+picture.
+end-lyric
+
+ambee sings-politician amenn
+It's sort of like
+o-o
+when ancient
+o-o
+Roman rulers
+o-o
+distracted their
+o-o
+plebeians
+o-o
+with dramatic
+o-o
+bloody fighting
+o-o
+in their colossal
+o-o
+Colosseum.
+end-lyric
+
+ambee sings-damien amenn
+Oh,
+o-o
+your point
+o-o
+is beginning
+o-o
+to stick.
+sentence-next
+o-o
+It's like the
+o-o
+insurrection
+o-o
+on January sixth.
+sentence-next
+o-o
+The fighters who
+o-o
+attacked Congress
+o-o
+believed they were
+o-o
+in sort of a cult
+o-o
+to defend
+o-o
+democracy.
+sentence-next
+o-o
+Yet in reality
+o-o
+they were defending
+o-o
+the political down,
+o-o
+the biggest
+o-o
+campaign contributors.
+sentence-next
+o-o
+They were duped
+o-o
+by the fake fight
+o-o
+between left
+o-o
+and right.
+end-lyric
+
+ambee sings-politician amenn
+That's the picture.
+sentence-next
+o-o
+Nowadays,
+o-o
+modern hyphen-here day
+o-o
+plebeians
+o-o
+get to vote
+o-o
+which puppet
+o-o
+wins the fight
+o-o
+on the stage
+o-o
+we call
+o-o
+elections.
+end-lyric
+
+ambee sings-damien amenn
+So it's like
+o-o
+funding
+o-o
+two cults,
+o-o
+or two gangs,
+o-o
+that fight
+o-o
+each other
+o-o
+on stage,
+o-o
+while the
+o-o
+funders
+o-o
+quietly
+o-o
+remove money
+o-o
+from our
+o-o
+wallets?
+end-lyric
+
+ambee sings-politician amenn
+That's a bit rough.
+sentence-next
+o-o
+But close enough.
+end-lyric
+
+ambee sings-damien amenn
+With their clout,
+o-o
+what's the
+o-o
+political down
+o-o
+really care
+o-o
+about?
+end-lyric
+
+ambee sings-politician amenn
+Profits for the
+o-o
+businesses
+o-o
+they own.
+sentence-next
+o-o
+What especially
+o-o
+delights them
+o-o
+are biz tax breaks.
+sentence-next
+o-o
+And when they can
+o-o
+get a legal
+o-o
+monopoly
+o-o
+they grasp
+o-o
+onto that
+o-o
+like a
+o-o
+Titanic
+o-o
+passenger
+o-o
+would cling
+o-o
+to a spare
+o-o
+life vest.
+end-lyric
+
+ambee sings-damien amenn
+Wow!
+sentence-next
+o-o
+Those business
+o-o
+owners pay
+o-o
+politicians
+o-o
+for lower taxes
+o-o
+'n no
+o-o
+competition.
+sentence-next
+o-o
+That deal's sweet!
+sentence-next
+o-o
+But that's
+o-o
+cheatin'.
+sentence-next
+o-o
+It's corrupt.
+sentence-next
+o-o
+Am I wrong?
+end-lyric
+
+ambee sings-politician amenn
+You're right.
+end-lyric
+
+ambee sings-damien amenn
+I'm confused.
+sentence-next
+o-o
+On the
+o-o
+political
+o-o
+right,
+o-o
+the Republican
+o-o
+party seems to
+o-o
+care about some
+o-o
+non-business
+o-o
+issues like
+o-o
+abortions, and
+o-o
+gay marriage,
+o-o
+Christian values,
+o-o
+immigration,
+o-o
+'n such,
+o-o
+right?
+end-lyric
+
+ambee sings-politician amenn
+They do glorify
+o-o
+those things on the
+o-o
+flag they fly.
+sentence-next
+o-o
+But taxes, and
+o-o
+subsidies, and
+o-o
+monopolies
+o-o
+are their
+o-o
+real priorities.
+sentence-next
+o-o
+That's because
+o-o
+party insiders,
+o-o
+in both parties,
+o-o
+get their
+o-o
+marching orders
+o-o
+from the biggest
+o-o
+campaign
+o-o
+contributors.
+end-lyric
+
+ambee sings-damien amenn
+Now I think I'm
+o-o
+seein' how come
+o-o
+neither
+o-o
+political
+o-o
+party
+o-o
+really
+o-o
+gives a damn
+o-o
+'bout givin' 
+o-o
+homeless folks
+o-o
+an assist,
+o-o
+endin' school
+o-o
+shootings,
+o-o
+helpin'
+o-o
+latinos who
+o-o
+don't vote,
+o-o
+or listenin'
+o-o
+to what dolphins
+o-o
+have to say
+o-o
+about us
+o-o
+dumpin' trash
+o-o
+into their
+o-o
+swimmin' pool.
+sentence-next
+o-o
+I see the
+o-o
+down folks
+o-o
+are usin'
+o-o
+religious
+o-o
+'n racial
+o-o
+'n gender
+o-o
+issues
+o-o
+to divide 'n
+o-o
+distract.
+end-lyric

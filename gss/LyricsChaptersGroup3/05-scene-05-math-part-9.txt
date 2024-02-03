@@ -1,5 +1,3 @@
-ambee put-into-phrase lyric-number 0520000 amenn
-
 ambee sings-mathprof amenn
 One more tip.
 sentence-next
@@ -333,11 +331,11 @@ my research projects.
 end-lyric
 
 ambee sings-damien amenn
-Oh, 'n some of your
+Some of your
 o-o
 funds come from the
 o-o
-government, right?
+government?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -723,45 +721,44 @@ That's an
 o-o
 important
 o-o
-exception.
+exception
+o-o
+because of three
+o-o
+complications.
 sentence-next
 o-o
-In a
+The number gap
 o-o
-presidential
-o-o
-election
-o-o
-the popular
-o-o
-vote still
-o-o
-matters.
-sentence-next
-o-o
-In fact,
-o-o
-the gap between
-o-o
-the
+between the
 o-o
 Republican
 o-o
-and the
-o-o
-Democrat
+and Democrat
 o-o
 is put under
 o-o
-a microscope
+a microscope,
 o-o
-to compare
-o-o
-those counts
-o-o
-with the
+the
 o-o
 electoral
 o-o
-vote count.
+vote count
+o-o
+matters too,
+o-o
+and the House
+o-o
+of Represenatives
+o-o
+gets to choose
+o-o
+who wins if
+o-o
+neither candidate
+o-o
+gets half the
+o-o
+electoral votes.
 end-lyric
