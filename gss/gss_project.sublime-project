@@ -8,19 +8,37 @@
 			"path": "GenDefs"
 		},
 		{
-			"path": "LyricsChaptersGroup1"
+			"path": "LyricsChaptersGroup01"
 		},
 		{
-			"path": "LyricsChaptersGroup2"
+			"path": "LyricsChaptersGroup02"
 		},
 		{
-			"path": "LyricsChaptersGroup3"
+			"path": "LyricsChaptersGroup03"
 		},
 		{
-			"path": "LyricsChaptersGroup4"
+			"path": "LyricsChaptersGroup04"
 		},
 		{
-			"path": "LyricsChaptersGroup5"
+			"path": "LyricsChaptersGroup05"
+		},
+		{
+			"path": "LyricsChaptersGroup06"
+		},
+		{
+			"path": "LyricsChaptersGroup07"
+		},
+		{
+			"path": "LyricsChaptersGroup08"
+		},
+		{
+			"path": "LyricsChaptersGroup09"
+		},
+		{
+			"path": "LyricsChaptersGroup10"
+		},
+		{
+			"path": "LyricsChaptersGroup11"
 		},
 		{
 			"path": "epub"
