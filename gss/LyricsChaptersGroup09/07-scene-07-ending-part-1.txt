@@ -81,7 +81,9 @@ o-o
 that cannot be weak.
 sentence-next
 o-o
-The golden rule
+That means
+o-o
+the golden rule
 o-o
 of doing good deeds
 o-o
@@ -92,6 +94,21 @@ o-o
 foundation of
 o-o
 not doing bad deeds.
+sentence-next
+o-o
+Just to seek
+o-o
+less guilt
+o-o
+for doing what
+o-o
+God would
+o-o
+frown on
+o-o
+is an attempt
+o-o
+to cheat.
 end-lyric
 
 ambee sings-vc amenn
@@ -143,35 +160,6 @@ o-o
 recite
 o-o
 are down some stairs.
-end-lyric
-
-ambee sings-vc amenn
-What does God
-o-o
-most applaud?
-end-lyric
-
-ambee sings-minister amenn
-Your actions,
-o-o
-your behavior,
-o-o
-that's what God,
-o-o
-and most people
-o-o
-around you,
-o-o
-listen to.
-sentence-next
-o-o
-The best actions
-o-o
-arise from
-o-o
-the wisest
-o-o
-intentions.
 end-lyric
 
 ambee sings-vc amenn
@@ -336,6 +324,19 @@ on earth.
 end-lyric
 
 ambee sings-vc amenn
+Thank God
+o-o
+it's the camel,
+o-o
+not me,
+o-o
+who has to fit
+o-o
+inside
+o-o
+that slit.
+sentence-next
+o-o
 I do want
 o-o
 to be loved.
@@ -377,49 +378,6 @@ important.
 end-lyric
 
 ambee sings-vc amenn
-It's now
-o-o
-important
-o-o
-that I live.
-sentence-next
-o-o
-I now believe
-o-o
-religion can
-o-o
-give me more than
-o-o
-what I had
-o-o
-before my
-o-o
-heart attack.
-end-lyric
-
-ambee sings-minister amenn
-Do you embrace
-o-o
-religion to
-o-o
-do good deeds?
-sentence-next
-o-o
-Or just to feel
-o-o
-less guilt for
-o-o
-doing what
-o-o
-God would
-o-o
-frown on?
-end-lyric
-
-ambee sings-vc amenn
-I'm a bit lost.
-sentence-next
-o-o
 I'm in a fog.
 sentence-next
 o-o
@@ -1122,9 +1080,10 @@ The real prizes
 o-o
 are learning
 o-o
-and doing
+and doing.
+sentence-next
 o-o
-and making
+And making
 o-o
 people smile.
 sentence-next

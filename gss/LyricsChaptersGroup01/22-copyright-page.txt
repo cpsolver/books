@@ -3,10 +3,6 @@ Stuffy Info for Lawyers and Librarians
 end-heading
 
 begin-standard-paragraph
-Draft version 2024-February-3
-end-standard-paragraph
-
-begin-standard-paragraph
 Published by:
 line-break
 Solutions Through Innovation
@@ -48,6 +44,10 @@ sentence-next
 To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free) sources of information.
 end-standard-paragraph
 
+
+begin-standard-paragraph
+Version 2024-February-4
+end-standard-paragraph
 
 begin-standard-paragraph
 First Edition, ePub edition, published 2024.

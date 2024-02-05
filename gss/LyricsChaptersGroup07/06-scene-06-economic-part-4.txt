@@ -130,7 +130,7 @@ ambee sings-econhist amenn
 A plus plus.
 sentence-next
 o-o
-And that empire
+Later that empire
 o-o
 became weak
 o-o
@@ -1162,32 +1162,20 @@ small
 o-o
 businesses
 o-o
-don't get those breaks.
+don't get those
+o-o
+tax breaks.
 sentence-next
 o-o
 Not even if they
 o-o
-sell something
+make something
 o-o
-to customers
+and sell it to
 o-o
-around the world
+customers
 o-o
-and bring
-o-o
-lots of money
-o-o
-into the
-o-o
-region
-o-o
-without also
-o-o
-losing
-o-o
-anything
-o-o
-significant.
+around the world.
 sentence-next
 o-o
 Yet if those small

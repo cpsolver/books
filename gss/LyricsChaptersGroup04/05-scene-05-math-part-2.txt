@@ -81,6 +81,29 @@ o-o
 on standardized
 o-o
 exams.
+sentence-next
+o-o
+Even when
+o-o
+concepts
+o-o
+are more
+o-o
+important.
+end-lyric
+
+ambee sings-desha amenn
+I learned to spell
+o-o
+begin-italics hypotenuse end-italics
+o-o
+before I learned
+o-o
+it had nothing
+o-o
+to do with
+o-o
+hippos.
 end-lyric
 
 ambee sings-damien amenn
@@ -100,21 +123,19 @@ end-lyric
 ambee sings-desha amenn
 Meanwhile,
 o-o
-in the world of
+businesses
 o-o
-business,
-o-o
-they keep trying
-o-o
-to fire workers
-o-o
-by putting
+try to put
 o-o
 artificial
 o-o
 intelligence
 o-o
-into computers.
+into computers
+o-o
+so they can
+o-o
+fire more workers.
 end-lyric
 
 ambee sings-damien amenn

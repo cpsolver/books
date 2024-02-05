@@ -741,30 +741,6 @@ three or two.
 end-lyric
 
 ambee sings-desha amenn
-So thirteen
-o-o
-has been
-o-o
-unlucky
-o-o
-for millenia.
-end-lyric
-
-ambee sings-damien amenn
-I still feel
-o-o
-unlucky when
-o-o
-I get thirteen
-o-o
-instead of twelve
-o-o
-and have to
-o-o
-divide it.
-end-lyric
-
-ambee sings-desha amenn
 Twenty four
 o-o
 hours per day
@@ -775,13 +751,32 @@ simplifies time.
 end-lyric
 
 ambee sings-damien amenn
-I had wondered
+Getting a
+o-o
+measurement
+o-o
+of thirteen
+o-o
+inches
+o-o
+sure is
+o-o
+unlucky
+o-o
+when I want to
+o-o
+divide it
+o-o
+mentally.
+sentence-next
+o-o
+Now I see
 o-o
 why time is
 o-o
-measured
+measured in
 o-o
-in numbers that
+numbers that
 o-o
 aren't,
 o-o
@@ -880,14 +875,22 @@ and thirty.
 end-lyric
 
 ambee sings-damien amenn
-So we can
+Let's demolish
 o-o
-demolish
+those damned
 o-o
-fractions?
+fractions!
 sentence-next
 o-o
-Let's do it!
+Along with their
+o-o
+doubly damned
+o-o
+denominators
+o-o
+and
+o-o
+numerators.
 end-lyric
 
 ambee sings-mathprof amenn

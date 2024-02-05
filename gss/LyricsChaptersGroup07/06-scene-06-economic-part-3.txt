@@ -1049,13 +1049,11 @@ end-lyric
 ambee sings-desha amenn
 Organized
 o-o
-crime is
+crime
 o-o
-still strong
+is still strong
 o-o
-in those
-o-o
-economically
+in some of those
 o-o
 weaker
 o-o
@@ -1678,15 +1676,15 @@ at the bedside
 o-o
 of the dying,
 o-o
-and they lost their
+and their
 o-o
 congregations
 o-o
-when pilgrims
+declined
 o-o
-caught the
+if they
 o-o
-disease on
+promoted
 o-o
 pilgrimages
 o-o
@@ -1711,6 +1709,9 @@ o-o
 school.
 sentence-next
 o-o
+Got it.
+sentence-next
+o-o
 And tourists
 o-o
 couldn't go to
@@ -1724,9 +1725,6 @@ o-o
 Minnie,
 o-o
 and Pluto.
-sentence-next
-o-o
-Got it.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1868,7 +1866,7 @@ Amazon
 o-o
 created
 o-o
-lots of software
+selling software
 o-o
 and uses the
 o-o

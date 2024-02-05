@@ -650,17 +650,12 @@ in their first
 o-o
 election for
 o-o
-mayor
+mayor.
+sentence-next
 o-o
-during the
+That's because
 o-o
-final counting
-o-o
-round
-o-o
-because the
-o-o
-candidate
+the candidate
 o-o
 with the smallest
 o-o

@@ -126,25 +126,27 @@ we can't preach.
 end-lyric
 
 ambee sings-vc amenn
-What else
+What else can
 o-o
-can you not say
+you not say in
 o-o
-aloud?
+church?
 end-lyric
 
 ambee sings-minister amenn
-Speaking out
+We can't speak out
 o-o
-against warfare,
+against warfare.
+sentence-next
 o-o
-such as saying
+Not even to say
 o-o
 it's worse than
 o-o
-abortion,
+abortion.
+sentence-next
 o-o
-would impair
+That would impair
 o-o
 our tax hyphen-here exempt
 o-o
@@ -157,7 +159,9 @@ sentence-next
 o-o
 Churches don't pay
 o-o
-property taxes.
+property
+o-o
+taxes.
 sentence-next
 o-o
 Maybe I should
@@ -165,56 +169,6 @@ o-o
 form a church to
 o-o
 get that sweet deal.
-end-lyric
-
-ambee sings-vc amenn
-What else can
-o-o
-you not say in
-o-o
-church?
-end-lyric
-
-ambee sings-minister amenn
-Many ministers
-o-o
-manipulate
-o-o
-their flock by
-o-o
-transforming
-o-o
-guilt into shame.
-sentence-next
-o-o
-But the best
-o-o
-ministers
-o-o
-transform guilt
-o-o
-into choosing
-o-o
-actions that
-o-o
-don't lead to
-o-o
-new guilt.
-sentence-next
-o-o
-But attendance
-o-o
-would suffer
-o-o
-even more
-o-o
-if we preached
-o-o
-at that higher
-o-o
-spiritual
-o-o
-level.
 end-lyric
 
 ambee sings-fiance-firstuse amenn
@@ -286,68 +240,25 @@ o-o
 talking about.
 end-lyric
 
-ambee sings-vc amenn
-Father, why
+ambee sings-father-of-fiance amenn
+Father,
 o-o
-in church do you
+may I ask
 o-o
-not talk more about
-o-o
-what you've said here?
-sentence-next
-o-o
-Instead you refer
-o-o
-so much to the
-o-o
-names and words
-o-o
-in the Bible.
+a question?
 end-lyric
 
 ambee sings-minister amenn
-Our hands are tied.
-sentence-next
+If name-vc
 o-o
-Especially
-o-o
-we can't
-o-o
-conflict with
-o-o
-politics.
+doesn't mind.
 end-lyric
 
 ambee sings-vc amenn
-Oh,
-o-o
-so you can't
-o-o
-criticize
-o-o
-politicians
-o-o
-who lack
-o-o
-morality.
-end-lyric
-
-ambee sings-minister amenn
-We each do
-o-o
-the best we can
-o-o
-within our
-o-o
-limitations.
+Go ahead.
 end-lyric
 
 ambee sings-father-of-fiance amenn
-I've got a
-o-o
-question.
-sentence-next
-o-o
 My wife
 o-o
 tells me
@@ -1101,10 +1012,15 @@ this is it!
 end-lyric
 
 ambee sings-fiance amenn
-Go ahead and swear.
-sentence-next
+I dare you
 o-o
-I dare you to.
+to swear
+o-o
+you wicked
+o-o
+vixenous
+o-o
+hussy.
 end-lyric
 
 ambee sings-minister amenn
@@ -1230,13 +1146,17 @@ worship hall.
 end-lyric
 
 ambee sings-desha amenn
-And long ago marriage
+And long ago
 o-o
-in a church was
+marriage
 o-o
-a way for a young
+in a church
 o-o
-woman to trade sex
+was a way for
+o-o
+a young woman
+o-o
+to trade sex
 o-o
 in exchange for
 o-o
@@ -1260,32 +1180,27 @@ end-lyric
 ambee sings-father-of-fiance amenn
 I must admit
 o-o
-my wife has wanted
+my wife
 o-o
-me to attend
+has wanted me
 o-o
-church with her.
+to attend church
+o-o
+with her.
 end-lyric
 
 ambee sings-desha amenn
-Then governments
+Now governments
 o-o
-copied that idea
+perform marriage
 o-o
-and now marriage
+as a civil
 o-o
-is done as a
+ceremony,
 o-o
-civil ceremony.
-sentence-next
+and back up
 o-o
-Plus courts
-o-o
-and the
-o-o
-IRS
-o-o
-force
+the promise with
 o-o
 child support
 o-o
@@ -1293,13 +1208,9 @@ and
 o-o
 alimony
 o-o
-payments from men
+payments
 o-o
-who abandon
-o-o
-their children
-o-o
-or their wives.
+when needed.
 end-lyric
 
 ambee sings-minister amenn
@@ -1327,15 +1238,11 @@ sentence-next
 o-o
 Now grocery stores
 o-o
-give out food
+get paid by
 o-o
-ingredients
+taxpayers
 o-o
-in exchange
-o-o
-for payments
-o-o
-from the government.
+to do it.
 sentence-next
 o-o
 So that's one more
@@ -1351,6 +1258,14 @@ o-o
 attendance,
 o-o
 yes.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Damn handouts!
+o-o
+At my expense
+o-o
+no less.
 end-lyric
 
 ambee sings-desha amenn
@@ -1437,34 +1352,7 @@ from your wisdom.
 end-lyric
 
 ambee sings-minister amenn
-Alas,
-o-o
-with low attendance,
-o-o
-there are fewer funds,
-o-o
-so churches can't
-o-o
-be as picky
-o-o
-about choosing
-o-o
-ministers.
-sentence-next
-o-o
-And those of us
-o-o
-with the highest
-o-o
-ethics don't get
-o-o
-paid much more than
-o-o
-beginners.
-end-lyric
-
-ambee sings-fiance amenn
-And the clergy sinners.
+Alas yes.
 end-lyric
 
 ambee sings-desha amenn
@@ -1579,7 +1467,7 @@ sentence-next
 o-o
 Those TV shows
 o-o
-always show
+always portray
 o-o
 district
 o-o
@@ -1589,35 +1477,38 @@ defending
 o-o
 white criminals,
 o-o
-the guilty ones,
-o-o
-who end up
-o-o
-in jail.
+the guilty ones.
 sentence-next
 o-o
-Yet in real life
+Yet in real life,
 o-o
-people of color,
+underpaid people
 o-o
-who are underpaid,
+of color
 o-o
 more often get
 o-o
-arrested,
+arrested.
+sentence-next
 o-o
-and they're stuck with
+And they,
+o-o
+not rich whites,
+o-o
+are stuck with
 o-o
 district
 o-o
 attorneys.
 sentence-next
 o-o
-In the meantime,
+The white
 o-o
-real hyphen-here life
+criminals,
 o-o
-white criminals
+the ones guilty
+o-o
+of money crimes,
 o-o
 hire slick lawyers
 o-o
