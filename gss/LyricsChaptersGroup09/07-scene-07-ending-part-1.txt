@@ -72,43 +72,21 @@ museum?
 end-lyric
 
 ambee sings-minister amenn
-The peak
+At the top
+o-o
+the golden rule
+o-o
+of trying
+o-o
+to do good deeds
 o-o
 must rest on a
 o-o
 solid foundation
 o-o
-that cannot be weak.
-sentence-next
+of not doing
 o-o
-That means
-o-o
-the golden rule
-o-o
-of doing good deeds
-o-o
-must rest on
-o-o
-a strong
-o-o
-foundation of
-o-o
-not doing bad deeds.
-sentence-next
-o-o
-Just to seek
-o-o
-less guilt
-o-o
-for doing what
-o-o
-God would
-o-o
-frown on
-o-o
-is an attempt
-o-o
-to cheat.
+bad deeds.
 end-lyric
 
 ambee sings-vc amenn
@@ -128,53 +106,21 @@ o-o
 I mean,
 o-o
 that's a great start.
+sentence-next
+Have you been
+o-o
+praying?
 end-lyric
 
 ambee sings-vc amenn
-I promise I'll
-o-o
-do better.
+I've been trying.
 sentence-next
 o-o
-So please do
+But this
 o-o
-some prayin'!
-end-lyric
-
-ambee sings-minister amenn
-The best kinds of
-o-o
-prayers
-o-o
-are upstairs
-o-o
-at the
-o-o
-pyramid's top.
-sentence-next
-o-o
-The words
-o-o
-you and I
-o-o
-recite
-o-o
-are down some stairs.
-end-lyric
-
-ambee sings-vc amenn
-This heart attack
+heart attack
 o-o
 has me scared.
-sentence-next
-o-o
-I don't feel
-o-o
-prepared
-o-o
-to meet death,
-o-o
-not yet.
 end-lyric
 
 ambee sings-minister amenn
@@ -194,28 +140,47 @@ o-o
 and no real friends.
 sentence-next
 o-o
-I do love Benjamins,
+My money
 o-o
-but that's where it ends.
+brings pleasures,
+o-o
+but that's where
+o-o
+it ends.
 sentence-next
 o-o
-My money brings pleasure,
+Sadly,
 o-o
-and envy from others,
+I've not got a
 o-o
-and attracts gold diggers,
+loving wife
 o-o
-but not
-o-o
-trustworthy
-o-o
-lovers.
+in my life.
 sentence-next
 o-o
-Who can I love?
-sentence-next
+Of course
 o-o
-How does that feel?
+women say
+o-o
+they want me,
+o-o
+but actually
+o-o
+what they crave are
+o-o
+outings
+o-o
+without me
+o-o
+and trips to
+o-o
+the mall to buy
+o-o
+cosmetics
+o-o
+that signal
+o-o
+begin-italics don't touch me end-italics no-space .
 sentence-next
 o-o
 Is there time to love?
@@ -399,16 +364,11 @@ people?
 end-lyric
 
 ambee sings-minister amenn
-Wickedness
-o-o
-is not always
-o-o
-hiding in us.
-sentence-next
-o-o
 If you're thinking
 o-o
-of horror flicks,
+of wickedness
+o-o
+in horror flicks,
 o-o
 super hyphen-here hero
 o-o
@@ -640,13 +600,13 @@ to ego boosts,
 o-o
 so they fight
 o-o
-to protect
+to own
 o-o
-having a harem
+mistresses
 o-o
-and sailing aboard
+and an
 o-o
-an ego hyphen-here inflated
+ego hyphen-here inflated
 o-o
 yacht.
 sentence-next
@@ -861,35 +821,36 @@ sentence-next
 o-o
 But don't expect
 o-o
-you'll ever
+to fully
 o-o
-fully find out
+unveil
 o-o
-what's in the
+the other
 o-o
-other person's
+person's
 o-o
-mind.
+fantasies.
 sentence-next
 o-o
-Your goal should be
+Instead your goal
 o-o
-to seek a path
+for talking
 o-o
-that benefits
+is to reveal
 o-o
-both sides.
-sentence-next
+a single path
 o-o
-Talking helps
+both of you
 o-o
-you find that
+can walk,
 o-o
-path.
+side by side,
+o-o
+in harmony.
 end-lyric
 
 ambee sings-vc amenn
-Even when
+Even though
 o-o
 women
 o-o
@@ -908,38 +869,71 @@ those ideas?
 end-lyric
 
 ambee sings-minister amenn
-It's like you
+It's like how you
 o-o
-having assumed
+believe evil
 o-o
-that evil
-o-o
-is hiding
-o-o
-in most people.
+lurks in jerks.
 sentence-next
 o-o
-Talking involves
+Some folks,
 o-o
-word meanings
+instead of evil,
 o-o
-that are
+hear evidence
 o-o
-sloppy.
+of financial greed,
+o-o
+or horniness.
+sentence-next
+o-o
+Other folks ascribe
+o-o
+the same words
+o-o
+to stupidity.
+sentence-next
+o-o
+Yet others fear
+o-o
+they are the ones
+o-o
+who are queer,
+o-o
+I mean odd.
+sentence-next
+o-o
+Talking reveals
+o-o
+which fantasy
+o-o
+the other
+o-o
+person mistakes
+o-o
+for reality.
 end-lyric
 
 ambee sings-vc amenn
+Ah yes,
+o-o
+word meanings
+o-o
+are sloppy.
+sentence-next
+o-o
 Like when someone
 o-o
 says begin-italics next Friday end-italics
 o-o
-on a Wednesday?
+on a Wednesday.
 end-lyric
 
 ambee sings-minister amenn
-Yes,
+Exactly.
+sentence-next
 o-o
-ambiguity,
+Ambiguity,
 o-o
 multiple
 o-o
@@ -951,7 +945,7 @@ to assume
 o-o
 the words mean what
 o-o
-we expect,
+you expect,
 o-o
 instead of
 o-o
@@ -1030,7 +1024,7 @@ o-o
 alarm clocks.
 sentence-next
 o-o
-And the movie
+The movie
 o-o
 industry
 o-o
@@ -1059,14 +1053,6 @@ the shiny
 o-o
 trophies,
 o-o
-the memory
-o-o
-of being
-o-o
-employee
-o-o
-of the month,
-o-o
 and even the
 o-o
 dream of
@@ -1086,21 +1072,38 @@ o-o
 And making
 o-o
 people smile.
-sentence-next
+end-lyric
+
+ambee sings-vc amenn
+How do I win
 o-o
-Now the skill
+the game of
 o-o
-you seek is
+spirituality?
+end-lyric
+
+ambee sings-minister amenn
+Spirituality's
 o-o
-spirituality.
-sentence-next
-o-o
-It's trophy
+trophy
 o-o
 is joy.
 sentence-next
 o-o
-But it's not a
+Unlike money
+o-o
+and power,
+o-o
+joy is not
+o-o
+a limited
+o-o
+resource.
+sentence-next
+o-o
+It's a skill,
+o-o
+not a
 o-o
 competition.
 sentence-next
@@ -1115,27 +1118,11 @@ more of it.
 end-lyric
 
 ambee sings-vc amenn
-You're ripping
-o-o
-away what's
-o-o
-familiar.
-sentence-next
-o-o
 Can you give me
 o-o
-a second
+a spiritual
 o-o
 compass?
-sentence-next
-o-o
-Something that points
-o-o
-in the direction
-o-o
-of spiritual
-o-o
-progress?
 end-lyric
 
 ambee sings-minister amenn
@@ -1249,53 +1236,16 @@ o-o
 notices.
 sentence-next
 o-o
-Sadly,
-o-o
-I've not got a
-o-o
-loving wife
-o-o
-in my life.
-sentence-next
-o-o
-Of course
-o-o
-women say
-o-o
-they want me,
-o-o
-but actually
-o-o
-what they crave are
-o-o
-outings
-o-o
-without me
-o-o
-and trips to
-o-o
-the mall to buy
-o-o
-cosmetics
-o-o
-that signal
-o-o
-begin-italics don't touch me end-italics no-space .
-sentence-next
-o-o
 My world is
 o-o
 upside down.
 sentence-next
 o-o
-Got no
+How do I
 o-o
-loving spouse
+turn it
 o-o
-or close friends.
-sentence-next
-o-o
-Who can I trust?
+right hyphen-here side up?
 end-lyric
 
 ambee sings-minister amenn
@@ -1337,9 +1287,11 @@ fears,
 o-o
 like being mocked
 o-o
-for wearing socks
+for wearing
 o-o
-with sandals
+wool socks
+o-o
+with sandals,
 o-o
 in public.
 sentence-next

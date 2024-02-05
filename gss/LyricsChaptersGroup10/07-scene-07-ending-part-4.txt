@@ -247,11 +247,16 @@ restaurants.
 end-lyric
 
 ambee sings-vc amenn
-Those kinds of
+Tax breaks
 o-o
-businesses,
+already go to
 o-o
-like Apple,
+businesses
+o-o
+like that.
+sentence-next
+o-o
+You mean Apple,
 o-o
 Boeing,
 o-o
@@ -263,15 +268,13 @@ Intel,
 o-o
 Nike,
 o-o
-and
-o-o
 Hollywood
 o-o
 movie studios,
 o-o
-already
+and such,
 o-o
-get tax breaks.
+right?
 sentence-next
 o-o
 Why should
@@ -847,16 +850,99 @@ o-o
 tax breaks.
 end-lyric
 
+ambee sings-minister amenn
+So maker
+o-o
+businesses
+o-o
+are at the
+o-o
+bottom level
+o-o
+of a
+o-o
+pyramid,
+o-o
+right?
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Pointless?
+end-lyric
+
+ambee sings-minister amenn
+If I understand
+o-o
+correctly,
+o-o
+maker businesses
+o-o
+provide the
+o-o
+financial
+o-o
+support
+o-o
+for all other
+o-o
+kinds of
+o-o
+businesses.
+end-lyric
+
+ambee sings-damien amenn
+That's a good
+o-o
+perspective.
+sentence-next
+o-o
+Right now
+o-o
+the pyramid
+o-o
+is upside down.
+sentence-next
+o-o
+Taker businesses
+o-o
+get low tax burdens
+o-o
+while small maker
+o-o
+businesses
+o-o
+crumble under
+o-o
+the burden of
+o-o
+the highest
+o-o
+tax rates.
+end-lyric
+
 ambee sings-desha amenn
-Keep in mind that
+Yeah,
 o-o
-economic
+the same
 o-o
-prosperity,
+tax rates as
 o-o
-the widespread kind,
+law firms,
 o-o
-reduces
+insurance
+o-o
+agencies,
+o-o
+and franchise
+o-o
+places.
+sentence-next
+o-o
+And the symptoms
+o-o
+of that burden
+o-o
+include
 o-o
 unemployment,
 o-o
@@ -874,22 +960,13 @@ and
 o-o
 probably
 o-o
+high
+o-o
 interest rates.
-sentence-next
-o-o
-Each of those
-o-o
-feeds on
-o-o
-the others
-o-o
-in a bad
-o-o
-feedback loop.
 end-lyric
 
 ambee sings-damien amenn
-So if you
+If you
 o-o
 don't want
 o-o
@@ -907,9 +984,9 @@ get forced into
 o-o
 homelessness,
 o-o
-then drugs,
+then into drugs,
 o-o
-then crime,
+then into crime,
 o-o
 now is the time
 o-o
@@ -920,12 +997,12 @@ By caring
 o-o
 about not just
 o-o
-big maker
+begin-italics big end-italics maker
 o-o
 businesses.
 sentence-next
 o-o
-Small maker
+begin-italics Small end-italics maker
 o-o
 businesses,
 o-o
@@ -940,28 +1017,6 @@ o-o
 the local
 o-o
 economy.
-end-lyric
-
-ambee sings-desha amenn
-Yet currently,
-o-o
-small maker
-o-o
-businesses
-o-o
-pay the same
-o-o
-tax rate as
-o-o
-law firms,
-o-o
-insurance
-o-o
-agencies,
-o-o
-and franchise
-o-o
-places.
 end-lyric
 
 ambee sings-damien amenn

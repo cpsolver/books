@@ -855,13 +855,14 @@ a kitchen
 o-o
 food prep machine
 o-o
-sounds useful,
+sounds useful.
+sentence-next
+o-o
+Especially
 o-o
 now that
 o-o
-getting takeout
-o-o
-delivered
+ordering takeout
 o-o
 will be rare,
 o-o
