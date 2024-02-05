@@ -1196,21 +1196,20 @@ perform marriage
 o-o
 as a civil
 o-o
-ceremony,
+ceremony.
+sentence-next
 o-o
-and back up
+And they back up
 o-o
-the promise with
+the man's promise
 o-o
-child support
+with child support
 o-o
-and
-o-o
-alimony
+and alimony
 o-o
 payments
 o-o
-when needed.
+if necessary.
 end-lyric
 
 ambee sings-minister amenn

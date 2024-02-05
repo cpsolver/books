@@ -256,32 +256,27 @@ will outlaw
 o-o
 lots of
 o-o
-corruption
-o-o
-that blocks
-o-o
-widespread
-o-o
-economic
-o-o
-prosperity.
+corruption.
 sentence-next
 o-o
-And tax reforms
+And there will be
+o-o
+tax reforms
 o-o
 and other
 o-o
 new laws
 o-o
-will
+that will
 o-o
 unblock
 o-o
 overdue
 o-o
-innovations,
+innovations.
+sentence-next
 o-o
-which will
+Those changes will
 o-o
 dramatically
 o-o
@@ -593,9 +588,10 @@ Of course some
 o-o
 politicians
 o-o
-lack souls,
+lack souls.
+sentence-next
 o-o
-and they'll
+They'll
 o-o
 persist
 o-o
