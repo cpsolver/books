@@ -326,11 +326,12 @@ sentence-next
 o-o
 He grew up in
 o-o
-Nazareth,
+Nazareth.
+sentence-next
 o-o
-where there are
+Trees do not
 o-o
-no trees.
+grow there.
 end-lyric
 
 ambee sings-vc amenn

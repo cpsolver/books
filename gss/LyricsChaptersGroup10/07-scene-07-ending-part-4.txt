@@ -313,7 +313,7 @@ thousands
 o-o
 of them
 o-o
-in a big city.
+in our city.
 sentence-next
 o-o
 Collectively
@@ -322,9 +322,9 @@ they greatly
 o-o
 enrich
 o-o
-the city
+our local
 o-o
-and state.
+economy.
 end-lyric
 
 ambee sings-vc amenn
@@ -830,7 +830,7 @@ really does
 o-o
 trickle down
 o-o
-to other
+to local
 o-o
 business owners.
 sentence-next
@@ -851,19 +851,13 @@ tax breaks.
 end-lyric
 
 ambee sings-minister amenn
-So maker
+So they're like
 o-o
-businesses
+the bottom
 o-o
-are at the
+level of a
 o-o
-bottom level
-o-o
-of a
-o-o
-pyramid,
-o-o
-right?
+pyramid?
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -871,29 +865,25 @@ Pointless?
 end-lyric
 
 ambee sings-minister amenn
-If I understand
+Maker
 o-o
-correctly,
+businesses,
 o-o
-maker businesses
+of all sizes,
 o-o
-provide the
+are the
 o-o
-financial
+foundation
 o-o
-support
+for the local
 o-o
-for all other
-o-o
-kinds of
-o-o
-businesses.
+economy?
 end-lyric
 
 ambee sings-damien amenn
 That's a good
 o-o
-perspective.
+metaphor.
 sentence-next
 o-o
 Right now
@@ -903,15 +893,25 @@ o-o
 is upside down.
 sentence-next
 o-o
-Taker businesses
+All taker
 o-o
-get low tax burdens
+businesses,
 o-o
-while small maker
+big and small,
 o-o
-businesses
+get low tax burdens.
+sentence-next
 o-o
-crumble under
+That crushes the
+o-o
+small maker
+o-o
+businesses.
+sentence-next
+o-o
+They crumble
+o-o
+under
 o-o
 the burden of
 o-o

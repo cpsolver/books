@@ -1133,9 +1133,7 @@ use award galas
 o-o
 to promote
 o-o
-high hyphen-here cost
-o-o
-forms of
+high hyphen-here priced
 o-o
 entertainment.
 sentence-next
@@ -1193,21 +1191,7 @@ Unlike money
 o-o
 and power,
 o-o
-joy is not
-o-o
-a limited
-o-o
-resource.
-sentence-next
-o-o
-It's a skill,
-o-o
-not a
-o-o
-competition.
-sentence-next
-o-o
-Ripping joy
+ripping joy
 o-o
 from someone
 o-o
@@ -1217,18 +1201,17 @@ more of it.
 end-lyric
 
 ambee sings-vc amenn
-How do I
-o-o
-turn my world
-o-o
-right hyphen-here side up?
-sentence-next
-o-o
 Can you give me
 o-o
 a spiritual
 o-o
-compass?
+compass
+o-o
+to help me
+o-o
+turn my world
+o-o
+right hyphen-here side up?
 end-lyric
 
 ambee sings-minister amenn
@@ -1243,7 +1226,9 @@ sentence-next
 o-o
 Just let go of
 o-o
-expired emotions,
+expired
+o-o
+emotions,
 o-o
 like guilt that
 o-o
@@ -1262,13 +1247,13 @@ o-o
 and wise goals.
 sentence-next
 o-o
-But let go of
+Just let go of
 o-o
-inconsequential
+distracting emotions,
 o-o
-fears,
+like a fear of
 o-o
-like being mocked
+being mocked
 o-o
 for wearing
 o-o
@@ -1286,6 +1271,13 @@ o-o
 is where joy
 o-o
 resides.
+sentence-next
+o-o
+It's not in
+o-o
+the past
+o-o
+or the future.
 sentence-next
 o-o
 Appreciate
@@ -1342,7 +1334,11 @@ beautiful flowers.
 end-lyric
 
 ambee sings-vc amenn
-Ah, name-father-of-fiance
+Ah,
+o-o
+Mister
+o-o
+name-father-of-fiance no-space ,
 o-o
 indeed welcome.
 sentence-next
