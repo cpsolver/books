@@ -1,0 +1,853 @@
+begin-title
+Scene 4,
+title-chapter-04
+end-title
+
+ambee put-into-phrase lyric-number 0400000 amenn
+
+combee ****
+begin-comment Illustration:
+Cemetery with a few vertical gravestones, a granite bench, two small trees in background (one on each side of scene).
+Damien is standing on left side, facing Desha who is on right side sitting on a granite bench.
+Desha is slightly taller than Damien, is racially mixed with at least some African ancestry, is dressed casually in jeans and simple shirt, has badass attitude, loves to fight verbally.
+end-comment
+************ comenn
+
+
+ambee sings-desha-firstuse amenn
+You're way late. And don't call this a date.
+end-lyric
+
+ambee sings-damien-firstuse amenn
+Are you name-desha no-space ?
+end-lyric
+
+ambee sings-desha amenn
+Who else would be
+o-o
+in this spot
+o-o
+in this cemetery
+o-o
+at this time?
+end-lyric
+
+ambee sings-damien amenn
+Nice to meet ya.
+sentence-next
+o-o
+I'm name-damien no-space .
+end-lyric
+
+ambee sings-desha amenn
+Of course.
+end-lyric
+
+ambee sings-damien amenn
+Thanks for meetin'
+o-o
+with me.
+end-lyric
+
+ambee sings-desha amenn
+For nothing.
+end-lyric
+
+ambee sings-damien amenn
+Huh?
+end-lyric
+
+ambee sings-desha amenn
+That's the meaning
+o-o
+of begin-italics de nada end-italics
+o-o
+in Spanish.
+end-lyric
+
+ambee sings-damien amenn
+Yeah I know.
+sentence-next
+o-o
+My mom's
+o-o
+begin-italics Puerto Rican end-italics begin-explain pronounced with a Spanish hyphen-here language accent end-explain no-space .
+end-lyric
+
+ambee sings-desha amenn
+Then why did you
+o-o
+ask?
+end-lyric
+
+ambee sings-damien amenn
+Is there cannabis
+o-o
+in that cookie?
+end-lyric
+
+ambee sings-desha amenn
+No you can't
+o-o
+have one.
+end-lyric
+
+ambee sings-damien amenn
+I just wondered
+o-o
+what's in it.
+end-lyric
+
+ambee sings-desha amenn
+Dried cherries,
+o-o
+chocolate chips,
+o-o
+rolled oats,
+o-o
+stevia,
+o-o
+sugar,
+o-o
+and ghee,
+o-o
+but nothing
+o-o
+funny.
+end-lyric
+
+ambee sings-damien amenn
+Ya said you
+o-o
+wanted to meet
+o-o
+with me.
+end-lyric
+
+ambee sings-desha amenn
+Congressman
+o-o
+name-politician-last
+o-o
+said I should meet
+o-o
+with you.
+end-lyric
+
+ambee sings-damien amenn
+To talk about
+o-o
+how come
+o-o
+politics is so
+o-o
+dysfunctional,
+o-o
+you said
+o-o
+in your text.
+end-lyric
+
+ambee sings-desha amenn
+Damn right!
+sentence-next
+o-o
+It's so so so
+o-o
+dysfunctional.
+end-lyric
+
+ambee sings-damien amenn
+So,
+o-o
+do you know
+o-o
+about vote
+o-o
+splittin'?
+end-lyric
+
+ambee sings-desha amenn
+What do goats
+o-o
+have to do with
+o-o
+politics?
+end-lyric
+
+ambee sings-damien amenn
+Not goats.
+sentence-next
+o-o
+Not spitting.
+sentence-next
+o-o
+Vote splitting.
+end-lyric
+
+ambee sings-desha amenn
+Splitting votes
+o-o
+in half?
+sentence-next
+o-o
+That's a half hyphen-here wit
+o-o
+idea.
+end-lyric
+
+ambee sings-damien amenn
+Not splitting
+o-o
+ballots.
+sentence-next
+o-o
+Splitting voters.
+end-lyric
+
+ambee sings-desha amenn
+That's murder.
+sentence-next
+o-o
+Yes politicians
+o-o
+do murder
+o-o
+innocent people
+o-o
+by writing laws
+o-o
+that flush us down
+o-o
+Thomas Crapper's
+o-o
+invention.
+end-lyric
+
+ambee sings-damien amenn
+That's not what
+o-o
+vote splitting
+o-o
+is.
+end-lyric
+
+ambee sings-desha amenn
+Then it sounds quite
+o-o
+esoteric.
+sentence-next
+o-o
+What's important
+o-o
+is that the world
+o-o
+is suffering
+o-o
+under an
+o-o
+epidemic
+o-o
+of toxic
+o-o
+corruption.
+end-lyric
+
+ambee sings-damien amenn
+Yeah,
+o-o
+corruption's
+o-o
+so selfish
+o-o
+and unfair.
+sentence-next
+o-o
+It's like leavin'
+o-o
+just four squares
+o-o
+of toilet
+o-o
+paper onna
+o-o
+toilet paper
+o-o
+roll.
+end-lyric
+
+ambee sings-desha amenn
+It's zillions
+o-o
+of times worse
+o-o
+than that.
+sentence-next
+o-o
+Corruption
+o-o
+kills through
+o-o
+economic suffering
+o-o
+that leads to
+o-o
+suicide,
+o-o
+homicide,
+o-o
+and slow death
+o-o
+by fast food.
+sentence-next
+o-o
+Corruption
+o-o
+kills by letting
+o-o
+gun makers push
+o-o
+assault rifles
+o-o
+into the hands of
+o-o
+clueless kids
+o-o
+who use them
+o-o
+to take the lives
+o-o
+of schoolkids,
+o-o
+minorities,
+o-o
+and even
+o-o
+the police
+o-o
+officers
+o-o
+who protect
+o-o
+us.
+sentence-next
+o-o
+And corruption
+o-o
+gives the green light
+o-o
+to cars killing
+o-o
+pedestrians.
+sentence-next
+o-o
+And the companion
+o-o
+of corruption
+o-o
+is despair.
+sentence-next
+o-o
+Life is so unfair.
+end-lyric
+
+ambee sings-damien amenn
+begin-italics The companion
+o-o
+of corruption
+o-o
+is despair. end-italics
+o-o
+If that's from
+o-o
+the Bible
+o-o
+I've never
+o-o
+heard it,
+o-o
+but I agree.
+end-lyric
+
+ambee sings-desha amenn
+Skip the sermons.
+end-lyric
+
+ambee sings-damien amenn
+Vote splittin's
+o-o
+at the root of
+o-o
+unfair elections,
+o-o
+so do ya wanna
+o-o
+hear about it?
+end-lyric
+
+ambee sings-desha amenn
+Tell me how you
+o-o
+think it makes
+o-o
+a difference.
+end-lyric
+
+ambee sings-damien amenn
+For instance,
+o-o
+suppose there's
+o-o
+four politicians.
+end-lyric
+
+ambee sings-desha amenn
+What are their names?
+end-lyric
+
+ambee sings-damien amenn
+I dunno.
+sentence-next
+o-o
+This is just a
+o-o
+generic
+o-o
+for instance.
+end-lyric
+
+ambee sings-desha amenn
+Generic is dead,
+o-o
+like the people here.
+sentence-next
+o-o
+Let's bring them
+o-o
+to life.
+end-lyric
+
+ambee sings-damien amenn
+Ya can raise
+o-o
+the dead?
+end-lyric
+
+ambee sings-desha amenn
+Not those thems.
+sentence-next
+o-o
+You describe
+o-o
+your begin-italics for
+o-o
+instance end-italics
+o-o
+politicians,
+o-o
+I'll give them
+o-o
+names.
+end-lyric
+
+ambee sings-damien amenn
+Two of them are
+o-o
+puppets of
+o-o
+wealthy
+o-o
+business
+o-o
+owners.
+sentence-next
+o-o
+The other two
+o-o
+promise to
+o-o
+reduce
+o-o
+corruption,
+o-o
+so they're more
+o-o
+well hyphen-here liked.
+end-lyric
+
+ambee sings-desha amenn
+The names of the
+o-o
+first two are
+o-o
+Pinoke and
+o-o
+Oscar.
+end-lyric
+
+ambee sings-damien amenn
+Could you explain
+o-o
+what's in your brain?
+end-lyric
+
+ambee sings-desha amenn
+Pinoke is a
+o-o
+nickname for
+o-o
+Pinocchio,
+o-o
+the puppet
+o-o
+whose nose grows
+o-o
+when he lies.
+sentence-next
+o-o
+And Oscar's last
+o-o
+name is the Grouch.
+sentence-next
+o-o
+He's swimming
+o-o
+in trash
+o-o
+just like corrupt
+o-o
+politicians.
+end-lyric
+
+ambee sings-damien amenn
+'Kay.
+end-lyric
+
+ambee sings-desha amenn
+The other two are
+o-o
+named Barack,
+o-o
+'cause we can hope
+o-o
+for change,
+o-o
+and Hypatia
+o-o
+'cause women
+o-o
+should rule.
+end-lyric
+
+ambee sings-damien amenn
+With these live
+o-o
+candidates,
+o-o
+two cruel,
+o-o
+'n two cool,
+o-o
+who'd win?
+end-lyric
+
+ambee sings-desha amenn
+Either Barack
+o-o
+or Hypatia,
+o-o
+the cool ones,
+o-o
+obviously.
+sentence-next
+o-o
+'Cause voters want
+o-o
+less corruption.
+sentence-next
+o-o
+Voters don't want
+o-o
+Pinoke,
+o-o
+don't want Oscar.
+sentence-next
+o-o
+Don't want the
+o-o
+cruel ones.
+sentence-next
+o-o
+They're the puppets
+o-o
+of money hyphen-here obsessed,
+o-o
+short hyphen-here sighted,
+o-o
+large hyphen-here mouthed
+o-o
+bass.
+sentence-next
+o-o
+The turds.
+end-lyric
+
+ambee sings-damien amenn
+Right.
+sentence-next
+o-o
+The voters
+o-o
+get who they
+o-o
+favored.
+sentence-next
+o-o
+But then
+o-o
+big hyphen-here money
+o-o
+donors
+o-o
+arrive.
+end-lyric
+
+ambee sings-desha amenn
+Now you'll say
+o-o
+their money
+o-o
+buys ads.
+sentence-next
+o-o
+Filled with lies.
+sentence-next
+o-o
+Ones that
+o-o
+hypnotize.
+sentence-next
+o-o
+The way a car's
+o-o
+headlights
+o-o
+freeze
+o-o
+a bumpkin
+o-o
+rabbit.
+end-lyric
+
+ambee sings-damien amenn
+Only the
+o-o
+terminally
+o-o
+stupid'd
+o-o
+fall for those.
+end-lyric
+
+ambee sings-desha amenn
+So tell me
+o-o
+how you think
+o-o
+it goes.
+sentence-next
+o-o
+Why money
+o-o
+alters the
+o-o
+winners.
+end-lyric
+
+ambee sings-damien amenn
+Wealthy business
+o-o
+owners,
+o-o
+who're the biggest
+o-o
+campaign donors,
+o-o
+in private they choose
+o-o
+which puppet gets
+o-o
+their dollars.
+sentence-next
+o-o
+If they like
+o-o
+the look of
+o-o
+Pinoke's nose,
+o-o
+then they propose
+o-o
+to Oscar
+o-o
+that he take
+o-o
+a hike
+o-o
+on the
+o-o
+Appalachian
+o-o
+trail.
+end-lyric
+
+ambee sings-desha amenn
+That wouldn't fail
+o-o
+to make Oscar
+o-o
+a grouch.
+sentence-next
+o-o
+What if he
+o-o
+should refuse?
+end-lyric
+
+ambee sings-damien amenn
+They point out
+o-o
+he'll lose.
+sentence-next
+o-o
+Without their
+o-o
+funds.
+sentence-next
+o-o
+Or they bribe him
+o-o
+with favors,
+o-o
+if that's what
+o-o
+it takes.
+end-lyric
+
+ambee sings-desha amenn
+A dumpster full
+o-o
+of cookies
+o-o
+and cakes?
+end-lyric
+
+ambee sings-damien amenn
+Or a lifetime
+o-o
+subscription
+o-o
+to begin-italics Grouch Magazine end-italics no-space .
+sentence-next
+o-o
+That'd leave
+o-o
+Pinoke and
+o-o
+Hypatia
+o-o
+and Barack.
+sentence-next
+o-o
+Who'd win that
+o-o
+three hyphen-here way race?
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+lots of voters
+o-o
+would split their votes
+o-o
+between Barack
+o-o
+and Hypatia.
+sentence-next
+o-o
+That would make
+o-o
+it easier for
+o-o
+Pinoke to reach
+o-o
+victory.
+end-lyric
+
+ambee sings-damien amenn
+Plus Koch begin-explain mistakenly pronounced as begin-italics cock end-italics end-explain Brothers
+o-o
+'n Forbes
+o-o
+levels of
+o-o
+dollars,
+o-o
+those'd
+o-o
+pay for ads
+o-o
+that attack
+o-o
+Hypatia
+o-o
+and Barack.
+sentence-next
+o-o
+Plus photos
+o-o
+of Pinoke
+o-o
+would be
+o-o
+photoshopped
+o-o
+to make his nose
+o-o
+look normal size
+o-o
+to hide his lies.
+sentence-next
+o-o
+That'd tip the
+o-o
+three hyphen-here way balance
+o-o
+enough
+o-o
+to rig the race.
+end-lyric
+
+ambee sings-desha amenn
+A puppet wins.
+sentence-next
+o-o
+That's unfair!
+sentence-next
+o-o
+The winner's
+o-o
+chosen by
+o-o
+millionaires.
+sentence-next
+o-o
+Yet,
+o-o
+more voters prefer
+o-o
+either Hypatia
+o-o
+or Barack.
+end-lyric
