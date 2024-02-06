@@ -600,11 +600,11 @@ to ego boosts,
 o-o
 so they fight
 o-o
-to own
+to earn
 o-o
 mistresses
 o-o
-and an
+and own an
 o-o
 ego hyphen-here inflated
 o-o
@@ -912,9 +912,7 @@ o-o
 and memories.
 sentence-next
 o-o
-Because
-o-o
-everyone
+Everyone
 o-o
 thinks
 o-o
@@ -935,23 +933,6 @@ o-o
 has waiting
 o-o
 for us.
-sentence-next
-o-o
-Your goal
-o-o
-for talking
-o-o
-is to reveal
-o-o
-a single path
-o-o
-both of you
-o-o
-can walk along,
-o-o
-side by side,
-o-o
-in harmony.
 end-lyric
 
 ambee sings-vc amenn
@@ -973,33 +954,32 @@ unless he's gay.
 end-lyric
 
 ambee sings-minister amenn
-It's like how you
+That's similar
+o-o
+to how you
 o-o
 believe evil
 o-o
 lurks in jerks.
 sentence-next
 o-o
-Some folks,
+Other popular
 o-o
-instead of evil,
+interpretations,
 o-o
-might ascribe
+besides evil
 o-o
-the same
+intentions
 o-o
-behaviors
+or horniness,
 o-o
-as stupidity.
-sentence-next
+are meekness,
 o-o
-Yet others fear
+selfishness,
 o-o
-they are the ones
+and
 o-o
-who are queer,
-o-o
-I mean odd.
+stupidity.
 sentence-next
 o-o
 Talking reveals
@@ -1051,25 +1031,10 @@ o-o
 what the speaker
 o-o
 intends.
-sentence-next
-o-o
-That's why talking
-o-o
-should be
-o-o
-two hyphen-here sided,
-o-o
-with a desire
-o-o
-to understand
-o-o
-the other person's
-o-o
-fantasy.
 end-lyric
 
 ambee sings-vc amenn
-My head is
+Now my head is
 o-o
 spinning.
 sentence-next

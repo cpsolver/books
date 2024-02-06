@@ -1018,7 +1018,16 @@ I mistook
 o-o
 jealousy
 o-o
-for love.
+for admiration.
+sentence-next
+o-o
+And I mistook
+o-o
+admiration
+o-o
+to be a weak
+o-o
+kind of love.
 sentence-next
 o-o
 People want a
@@ -1062,7 +1071,9 @@ sentence-next
 o-o
 I want love
 o-o
-like everyone else.
+like
+o-o
+everyone else.
 sentence-next
 o-o
 I too want to help

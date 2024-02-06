@@ -865,7 +865,9 @@ Pointless?
 end-lyric
 
 ambee sings-minister amenn
-Maker
+It sounds to me
+o-o
+like maker
 o-o
 businesses,
 o-o
@@ -875,9 +877,9 @@ are the
 o-o
 foundation
 o-o
-for the local
+of the local
 o-o
-economy?
+economy.
 end-lyric
 
 ambee sings-damien amenn
@@ -936,9 +938,10 @@ o-o
 and franchise
 o-o
 places.
-sentence-next
-o-o
-And the symptoms
+end-lyric
+
+ambee sings-damien amenn
+Some bad symptoms
 o-o
 of that burden
 o-o
@@ -950,15 +953,19 @@ homelessness,
 o-o
 drug abuse,
 o-o
-crime,
+and crime.
+end-lyric
+
+ambee sings-desha amenn
+Not to mention
 o-o
 anger,
 o-o
-fighting,
+despair,
 o-o
-and
+hopelessness,
 o-o
-probably
+and probably
 o-o
 high
 o-o
@@ -966,7 +973,7 @@ interest rates.
 end-lyric
 
 ambee sings-damien amenn
-If you
+So if you
 o-o
 don't want
 o-o
@@ -987,6 +994,8 @@ o-o
 then into drugs,
 o-o
 then into crime,
+o-o
+then into despair,
 o-o
 now is the time
 o-o
@@ -1019,7 +1028,7 @@ o-o
 economy.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 Another
 o-o
 benefit of
@@ -1042,13 +1051,11 @@ but soul hyphen-here sucking,
 o-o
 jobs in
 o-o
-banks and
+banks,
 o-o
-law firms.
-end-lyric
-
-ambee sings-desha amenn
-And real estate.
+and law firms,
+o-o
+and real estate.
 end-lyric
 
 ambee sings-damien amenn

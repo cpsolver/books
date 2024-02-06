@@ -302,7 +302,6 @@ o-o
 promise,
 o-o
 ...
-sentence-next
 o-o
 that you won't
 o-o
@@ -602,32 +601,46 @@ sentence-next
 o-o
 Instead a
 o-o
-voter needs to
+single hyphen-here choice
 o-o
-hold their nose
+ballot invites
 o-o
-and mark a
+tactical
 o-o
-candidate
+voting,
 o-o
-who has a chance
+as if the voter
 o-o
-of winning.
+is choosing
+o-o
+which army
+o-o
+to fight with.
 sentence-next
 o-o
-Otherwise
+Choosing to join
 o-o
-they weaken
+a small army
 o-o
-the candidate
+that will lose
 o-o
-they prefer
+makes it easier
 o-o
-who does have
+for the biggest
 o-o
-a chance of
+army
 o-o
-winning.
+to destroy
+o-o
+a large army
+o-o
+you like
+o-o
+more than
+o-o
+the biggest
+o-o
+army.
 end-lyric
 
 ambee sings-desha amenn
@@ -648,26 +661,7 @@ ambee sings-mathprof amenn
 No.
 sentence-next
 o-o
-You can vote for
-o-o
-a third hyphen-here party
-o-o
-candidate
-o-o
-if the
-o-o
-candidate
-o-o
-you most despise
-o-o
-will easily
-o-o
-win.
-sentence-next
-o-o
-That means
-o-o
-none of the
+If none of the
 o-o
 opposition
 o-o
@@ -675,13 +669,13 @@ candidates
 o-o
 has a chance
 o-o
-of winning,
+of winning
 o-o
-so then it
+against the one
 o-o
-makes sense
+you most dislike,
 o-o
-to mark your
+you can mark your
 o-o
 favorite
 o-o
@@ -691,9 +685,9 @@ candidate,
 o-o
 which can be
 o-o
-from a third
+a third hyphen-here party
 o-o
-party.
+candidate.
 end-lyric
 
 ambee sings-damien amenn

@@ -157,59 +157,50 @@ o-o
 these tax breaks.
 end-lyric
 
+ambee sings-desha amenn
+Tell him about
+o-o
+the wage hyphen-here gap
+o-o
+tax break.
+end-lyric
+
 ambee sings-damien amenn
-And there's another
+An additional
 o-o
 tax break
 o-o
-that will help
+would go to
 o-o
-improve the
+businesses
 o-o
-local economy.
+that pay their
+o-o
+workers better.
 sentence-next
 o-o
-It will go to
+It's measured
 o-o
-businesses
+as the gap
 o-o
-that have a
+in wages
 o-o
-smaller wage gap
-o-o
-compared to
-o-o
-typical
-o-o
-businesses
-o-o
-that underpay
-o-o
-the workers
-o-o
-who do the work
-o-o
-that customers
-o-o
-pay for.
-end-lyric
-
-ambee sings-desha amenn
-The wage gap is
-o-o
-between your
+between the
 o-o
 better hyphen-here paid
 o-o
 employees
 o-o
-and your
+and the
 o-o
-lower hyphen-here wage
+other half
+o-o
+of the
 o-o
 employees.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-desha amenn
 That gap
 o-o
 gets smaller
@@ -364,11 +355,21 @@ o-o
 pays.
 sentence-next
 o-o
-And you might get
+And it would
 o-o
-sued less
+reduce the need
 o-o
-if you cared more.
+for the
+o-o
+taxpayer hyphen-here supported
+o-o
+food hyphen-here assistance
+o-o
+handouts
+o-o
+you complain
+o-o
+about.
 end-lyric
 
 ambee sings-vc amenn
@@ -525,10 +526,6 @@ o-o
 buying bigger 
 o-o
 fishing boats,
-o-o
-paying for
-o-o
-hunting trips,
 o-o
 and buying
 o-o
