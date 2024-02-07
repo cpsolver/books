@@ -855,9 +855,9 @@ sentence-next
 o-o
 But don't expect
 o-o
-to fully
+talking will
 o-o
-unveil
+fully unveil
 o-o
 the other
 o-o
@@ -882,106 +882,6 @@ o-o
 of fantasies.
 sentence-next
 o-o
-I mean something
-o-o
-like you believing
-o-o
-evil hides
-o-o
-in most other
-o-o
-people.
-sentence-next
-o-o
-I'm using
-o-o
-the word
-o-o
-fantasy
-o-o
-instead of
-o-o
-words like
-o-o
-beliefs,
-o-o
-expectations,
-o-o
-assumptions,
-o-o
-and memories.
-sentence-next
-o-o
-Everyone
-o-o
-thinks
-o-o
-they fully grasp
-o-o
-reality,
-o-o
-yet none of us
-o-o
-can do that,
-o-o
-especially
-o-o
-not what
-o-o
-the future
-o-o
-has waiting
-o-o
-for us.
-end-lyric
-
-ambee sings-vc amenn
-Ah,
-o-o
-I know some
-o-o
-women who have
-o-o
-the fantasy
-o-o
-that every male
-o-o
-is a
-o-o
-sexual wolf
-o-o
-unless he's gay.
-end-lyric
-
-ambee sings-minister amenn
-That's similar
-o-o
-to how you
-o-o
-believe evil
-o-o
-lurks in jerks.
-sentence-next
-o-o
-Other popular
-o-o
-interpretations,
-o-o
-besides evil
-o-o
-intentions
-o-o
-or horniness,
-o-o
-are meekness,
-o-o
-selfishness,
-o-o
-and
-o-o
-stupidity.
-sentence-next
-o-o
 Talking reveals
 o-o
 which fantasy
@@ -991,46 +891,17 @@ o-o
 person mistakes
 o-o
 for reality.
-end-lyric
-
-ambee sings-vc amenn
-Ah yes,
-o-o
-word meanings
-o-o
-are sloppy.
 sentence-next
 o-o
-Like when someone
+Like you
 o-o
-says begin-italics next Friday end-italics
+believing
 o-o
-on a Wednesday.
-end-lyric
-
-ambee sings-minister amenn
-Exactly.
-sentence-next
+evil is in
 o-o
-Ambiguity,
+most other
 o-o
-multiple
-o-o
-meanings,
-o-o
-make it easy
-o-o
-to assume
-o-o
-the words mean what
-o-o
-you expect,
-o-o
-instead of
-o-o
-what the speaker
-o-o
-intends.
+people.
 end-lyric
 
 ambee sings-vc amenn
@@ -1183,40 +1054,39 @@ ambee sings-minister amenn
 Live in the present.
 sentence-next
 o-o
-Let go of the past.
+When you focus
+o-o
+on the past,
+o-o
+recall information
+o-o
+without getting
+o-o
+distracted by
+o-o
+anger or
+o-o
+guilt.
 sentence-next
 o-o
-Not the memories.
+When you focus
+o-o
+on the future,
+o-o
+consider
+o-o
+your choices
+o-o
+without getting
+o-o
+distracted by
+o-o
+daydreams
+o-o
+and fear.
 sentence-next
 o-o
-Just let go of
-o-o
-expired
-o-o
-emotions,
-o-o
-like guilt that
-o-o
-unintentionally
-o-o
-you lied
-o-o
-to a child.
-sentence-next
-o-o
-Let go of the future.
-sentence-next
-o-o
-Hold on to wise plans
-o-o
-and wise goals.
-sentence-next
-o-o
-Just let go of
-o-o
-distracting emotions,
-o-o
-like a fear of
+Such as fearing
 o-o
 being mocked
 o-o
@@ -1235,14 +1105,7 @@ the present,
 o-o
 is where joy
 o-o
-resides.
-sentence-next
-o-o
-It's not in
-o-o
-the past
-o-o
-or the future.
+hides.
 sentence-next
 o-o
 Appreciate

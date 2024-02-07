@@ -211,7 +211,9 @@ sentence-next
 o-o
 Do you own
 o-o
-a Tesla
+a cracked
+o-o
+crystal ball
 o-o
 and a home
 o-o

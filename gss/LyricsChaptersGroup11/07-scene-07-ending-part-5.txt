@@ -646,65 +646,84 @@ o-o
 I love it!
 end-lyric
 
+ambee sings-vc amenn
+name-minister no-space ,
+o-o
+also
+o-o
+you were right
+o-o
+about talking.
+sentence-next
+o-o
+Before today
+o-o
+I thought
+o-o
+Democrats
+o-o
+were evil.
+sentence-next
+o-o
+Now I see
+o-o
+it's not that
+o-o
+simple.
+end-lyric
+
 ambee sings-damien amenn
-This is why,
+I don't like
 o-o
-with the
-o-o
-worlds of business
-o-o
-and government
-o-o
-recently
-o-o
-declining
-o-o
-in ethics,
-o-o
-we the voters
-o-o
-need to fight
-o-o
-for fairness!
+either party.
 sentence-next
 o-o
-That fairness
+They're both
 o-o
-means less
+controlled
 o-o
-corruption.
+by money.
+end-lyric
+
+ambee sings-desha amenn
+Recently
+o-o
+I switched
+o-o
+to vote in
+o-o
+Republican
+o-o
+primaries.
 sentence-next
 o-o
-And wiser
+Now I can
 o-o
-elected politicians
+vote against
 o-o
-will give us
+the worst
 o-o
-the wage hyphen-here gap
+Republican
 o-o
-tax break,
+candidates
 o-o
-and the tax break
+before they reach
 o-o
-for small maker
+the general
 o-o
-businesses.
-sentence-next
+election.
+end-lyric
+
+ambee sings-damien amenn
+I look forward
 o-o
-The reduced
+to less
 o-o
 corruption,
 o-o
-and the increased
+more fairness,
 o-o
-efficiency
-o-o
-in the economy,
-o-o
-will bring us
-o-o
-widespread
+and widespread
 o-o
 economic
 o-o
