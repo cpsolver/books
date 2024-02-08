@@ -958,12 +958,13 @@ The real prizes
 o-o
 are learning
 o-o
-and doing.
-sentence-next
+and putting
 o-o
-And making
+smiles
 o-o
-people smile.
+in people's
+o-o
+eyes.
 end-lyric
 
 ambee sings-vc amenn
@@ -1017,7 +1018,9 @@ When you focus
 o-o
 on the past,
 o-o
-recall information
+recall useful
+o-o
+information
 o-o
 without getting
 o-o
@@ -1034,7 +1037,9 @@ on the future,
 o-o
 consider
 o-o
-your choices
+your possible
+o-o
+choices
 o-o
 without getting
 o-o
@@ -1042,10 +1047,12 @@ distracted by
 o-o
 daydreams
 o-o
-and fear.
+and fears.
 sentence-next
 o-o
-Such as fearing
+Such as
+o-o
+a fear of
 o-o
 being mocked
 o-o

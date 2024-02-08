@@ -6,13 +6,13 @@ end-title
 begin-standard-paragraph
 begin-bold Upfront end-bold no-space :
 sentence-next
-Talented voice actors eventually will transform this dialog into an audiobook edition.
+Talented voice actors eventually will transform this dialog into an audiobook.
 sentence-next
 In the meantime, during this crazy 2024 election year, this dialog is available here and now to help you make sense of U.S. politics and understand what it will take to uncrazify the political world.
 sentence-next
-The copyright notice includes permission for a non hyphen-here profit organization to make an audiobook version with zero royalties, and voice casting details are at the end of this book.
+Everything you need to know for reading is in the dialog.
 sentence-next
-Otherwise everything you need to know is in the dialog.
+Voice casting details are at the end of this book because the copyright notice includes permission for a non hyphen-here profit organization to transform this dialog into an audiobook with zero royalties.
 end-standard-paragraph
 
 ambee put-into-phrase lyric-number 0100000 amenn
