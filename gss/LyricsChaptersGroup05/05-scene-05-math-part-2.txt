@@ -83,13 +83,23 @@ o-o
 exams.
 sentence-next
 o-o
-Even when
+Even though
 o-o
-concepts
+key concepts
 o-o
 are more
 o-o
-important.
+important
+o-o
+than spelling,
+o-o
+historical
+o-o
+battle details,
+o-o
+and how to add
+o-o
+two fractions.
 end-lyric
 
 ambee sings-desha amenn
@@ -113,9 +123,10 @@ schools
 o-o
 try to
 o-o
-begin-italics program end-italics students,
+begin-italics program end-italics students.
+sentence-next
 o-o
-as if we were
+As if we were
 o-o
 computers.
 end-lyric
@@ -126,6 +137,8 @@ o-o
 businesses
 o-o
 try to put
+o-o
+remedial
 o-o
 artificial
 o-o
@@ -144,6 +157,8 @@ o-o
 students
 o-o
 and putting
+o-o
+fake
 o-o
 intelligence
 o-o

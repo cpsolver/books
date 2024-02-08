@@ -17,4 +17,4 @@ end-standard-paragraph
 
 <p class="para_standard page_break_at_end">This is the end of this book, yet the beginning of a widely prosperous future.</p>
 
-<p class="para_standard page_break_at_end"> no-space non-breaking-space no-space </p>
+<p class="para_standard page_break_at_end">...</p>

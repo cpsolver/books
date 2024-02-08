@@ -117,7 +117,7 @@ margin<hyphen_here>bottom:3em;
 
 para_gap_small {
 font<hyphen_here>size:10%;
-line<hyphen_here>height:1em;
+line<hyphen_here>height:0.2em;
 padding:0;
 margin:0;
 }

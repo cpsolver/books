@@ -328,11 +328,15 @@ o-o
 digit zero.
 sentence-next
 o-o
-And the digit
+When it was new,
+o-o
+the digit
 o-o
 zero guided
 o-o
-Portuguese ships
+Portuguese
+o-o
+sailing ships
 o-o
 to Brazil
 o-o
@@ -340,19 +344,27 @@ then China
 o-o
 using longitude
 o-o
-calculations,
+calculations.
+sentence-next
 o-o
-put a man
+And they put
+o-o
+a man
 o-o
 on the moon,
 o-o
-put rovers
+and put rovers
 o-o
 on the
 o-o
-planet Mars,
+planet Mars.
+sentence-next
 o-o
-and prevents
+And the digit
+o-o
+zero
+o-o
+prevents
 o-o
 hair loss
 o-o
@@ -360,23 +372,19 @@ on election night.
 end-lyric
 
 ambee sings-damien amenn
-Using Roman
+Still using Roman
 o-o
 numerals
-o-o
-to report
-o-o
-election results
 o-o
 would have inspired
 o-o
 an anti hyphen-here math
 o-o
-cult
+cult,
 o-o
-that I
+which I would have
 o-o
-would have joined.
+joined.
 end-lyric
 
 ambee sings-mathprof amenn

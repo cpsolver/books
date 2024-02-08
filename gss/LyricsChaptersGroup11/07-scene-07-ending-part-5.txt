@@ -712,48 +712,80 @@ by money.
 end-lyric
 
 ambee sings-desha amenn
-Recently
+I'm now
 o-o
-I switched
+registered
 o-o
-to vote in
+as a
+o-o
+Republican.
+sentence-next
+o-o
+So I can vote in
 o-o
 Republican
 o-o
 primaries.
-sentence-next
+end-lyric
+
+ambee sings-vc amenn
+So you're a
 o-o
-Now I can
+Republican?
+end-lyric
+
+ambee sings-desha amenn
+I'll still vote for
 o-o
-vote against
-o-o
-the worst
-o-o
-Republican
+Democratic
 o-o
 candidates
 o-o
-before they reach
+in general
 o-o
-the general
+elections.
+sentence-next
 o-o
-election.
+But now,
+o-o
+in the primary,
+o-o
+I'll vote for
+o-o
+the least
+o-o
+repugnant
+o-o
+Republican
+o-o
+contestant
+o-o
+who has a chance
+o-o
+of getting
+o-o
+nominated.
 end-lyric
 
 ambee sings-damien amenn
-I look forward
+I might
 o-o
-to less
+do that too.
+sentence-next
 o-o
-corruption,
+Until we can get
 o-o
-more fairness,
+fairness
 o-o
 and widespread
 o-o
 economic
 o-o
-prosperity.
+prosperity
+o-o
+using ranked
+o-o
+choice ballots.
 end-lyric
 
 ambee sings-fiance amenn

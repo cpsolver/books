@@ -417,6 +417,31 @@ o-o
 and your
 o-o
 laughter.
+sentence-next
+o-o
+That includes
+o-o
+social media
+o-o
+where social
+o-o
+influencers
+o-o
+are like paid
+o-o
+reporters,
+o-o
+and instead
+o-o
+of advertising
+o-o
+products,
+o-o
+memes advertise
+o-o
+political
+o-o
+agendas.
 end-lyric
 
 ambee sings-vc amenn
@@ -434,16 +459,18 @@ would never
 o-o
 qualify
 o-o
-as newsworthy.
+as newsworthy,
+o-o
+not even on
+o-o
+social media.
 sentence-next
 o-o
-Yet I still
-o-o
-vividly
-o-o
-remember
+Yet vividly
 o-o
 as a child
+o-o
+I remember
 o-o
 hearing priests
 o-o
