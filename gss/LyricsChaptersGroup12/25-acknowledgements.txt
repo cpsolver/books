@@ -12,7 +12,7 @@ Matt Y.,
 Mia M.,
 and probably other's who've been forgotten.
 sentence-next
-Last names are omitted to clarify the author's political views do not reflect the political views of anyone listed here. 
+Last names are omitted so the author's political views are not confused with the political views of anyone listed here.
 end-standard-paragraph
 
 begin-standard-paragraph
