@@ -1,4 +1,3 @@
+04-scene-04-darkness-part-2
+04-scene-04-darkness-part-3
 05-scene-05-math-part-1
-05-scene-05-math-part-2
-05-scene-05-math-part-3
-05-scene-05-math-part-4
