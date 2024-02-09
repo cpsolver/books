@@ -1,476 +1,1002 @@
-ambee sings-desha amenn
-I hope
+ambee sings-damien amenn
+So the
 o-o
-the tax break
+Protestant
 o-o
-goes to small
+religions
 o-o
-businesses
+ended
 o-o
-that hire artists,
+the Italian
 o-o
-actors,
-o-o
-composers,
-o-o
-and
-o-o
-writers
-o-o
-because
-o-o
-those folks create
-o-o
-things like
-o-o
-songs,
-o-o
-books,
-o-o
-videos,
-o-o
-paintings,
-o-o
-and odd
-o-o
-jewelry.
+Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
-If the tax break
+That's not quite right.
+sentence-next
 o-o
-is well designed,
+The economic
 o-o
-yes it will
+reforms that
 o-o
-benefit
+created the
 o-o
-those kinds of
+efficiency
 o-o
-businesses.
+of the
+o-o
+Italian
+o-o
+Renaissance
+o-o
+have spread
+o-o
+that basis
+o-o
+for wealth
+o-o
+around the world.
+sentence-next
+o-o
+In the meantime
+o-o
+Italy is still
+o-o
+unwinding
+o-o
+other kinds of
+o-o
+corruption.
+sentence-next
+o-o
+The same slow
+o-o
+progress is
+o-o
+happening
+o-o
+in Greece
+o-o
+and Spain,
+o-o
+and Portugal,
+o-o
+and elsewhere.
+sentence-next
+o-o
+Those
+o-o
+economies
+o-o
+are still weak
+o-o
+compared to
+o-o
+Germany,
+o-o
+France, and
+o-o
+Britain
+o-o
+where there
+o-o
+is less
+o-o
+of some kinds of
+o-o
+corruption.
+end-lyric
+
+ambee sings-desha amenn
+Organized
+o-o
+crime
+o-o
+is still strong
+o-o
+in some of those
+o-o
+weaker
+o-o
+nations.
+sentence-next
+o-o
+But name-econhist-nickname
+o-o
+can't say that part
+o-o
+out loud
+o-o
+because he could
+o-o
+lose more than just
+o-o
+tenure.
+end-lyric
+
+ambee sings-econhist amenn
+Most importantly
+o-o
+the
+o-o
+economic
+o-o
+success
+o-o
+in
+o-o
+America
+o-o
+exposed
+o-o
+Europe's
+o-o
+corruption.
+sentence-next
+o-o
+And revealed
+o-o
+that democracy
+o-o
+has less
+o-o
+corruption.
 end-lyric
 
 ambee sings-damien amenn
-Under current
+I think
 o-o
-conditions
+I'm seeing
 o-o
-small
-o-o
-businesses
-o-o
-have to fill out
-o-o
-lots of paperwork
-o-o
-to get
-o-o
-any kind of
-o-o
-tax break.
+the pattern.
 sentence-next
 o-o
-So I hope
+Higher levels
 o-o
-it's super easy
+of democracy
 o-o
-to get
+yield less
 o-o
-these tax breaks.
+corruption,
+o-o
+which causes
+o-o
+less waste,
+o-o
+which increases
+o-o
+efficiency,
+o-o
+which increases
+o-o
+productivity,
+o-o
+which yields
+o-o
+much better
+o-o
+economic
+o-o
+prosperity.
+sentence-next
 end-lyric
 
 ambee sings-econhist amenn
-Yes if it's
-o-o
-well designed.
-end-lyric
-
-ambee sings-damien amenn
-Is there a name
-o-o
-for the kinds
-o-o
-of businesses
-o-o
-that deserve,
-o-o
-and don't deserve,
-o-o
-the tax break?
-end-lyric
-
-ambee sings-econhist amenn
-The word begin-italics deserve end-italics
-o-o
-is judgmental,
-o-o
-so that's a matter
-o-o
-of opinion.
+You've got it!
 sentence-next
 o-o
-There might be times
+One last bit
 o-o
-when you,
+here is that
 o-o
-name-desha no-space ,
+America
 o-o
-think you,
+was far away
 o-o
-name-damien no-space ,
+from big
 o-o
-deserves to be
+armies
 o-o
-spanked,
+and navies.
+sentence-next
 o-o
-but that would be
+That allowed
 o-o
-a judgment,
+democracy
 o-o
-not a fact.
+a place to grow.
+sentence-next
+o-o
+That success
+o-o
+created
+o-o
+jealousy in
+o-o
+Europeans.
+sentence-next
+o-o
+Eventually
+o-o
+they formed the
+o-o
+European
+o-o
+Union
+o-o
+after most
+o-o
+Catholics and
+o-o
+Protestants
+o-o
+stopped fighting
+o-o
+one another,
+o-o
+except in
+o-o
+northern
+o-o
+Ireland.
 end-lyric
 
 ambee sings-desha amenn
-In this case
+And they stopped
 o-o
-it's a fact.
+having food fights
+o-o
+about table
+o-o
+etiquette.
 end-lyric
 
 ambee sings-econhist amenn
-As for names,
+And the French,
 o-o
-the ones I've read
+Italians,
 o-o
-are maker
+and Germans
 o-o
-businesses
+stopped
 o-o
-and taker
+fighting over
 o-o
-businesses.
-end-lyric
-
-ambee sings-damien amenn
-I like that.
+language
+o-o
+supremecy
+o-o
+when they saw
+o-o
+the inferior
+o-o
+English
+o-o
+language was
+o-o
+winning that
+o-o
+fight.
 sentence-next
 o-o
-People like me
+So basically
 o-o
-who make things
+they're copying
 o-o
-work for maker
+the clear
 o-o
-businesses.
-end-lyric
-
-ambee sings-desha amenn
-The taker
+success of
 o-o
-businesses
+cooperation
 o-o
-would include
-o-o
-law firms,
-o-o
-pawn shops,
-o-o
-payday loan
-o-o
-companies,
-o-o
-and real hyphen-here estate
-o-o
-developers,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-end-lyric
-
-ambee sings-desha amenn
-And corporations,
-o-o
-even if they're small,
-o-o
-are taker
-o-o
-businesses,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Some corporations
-o-o
-create lots of
-o-o
-valuable
-o-o
-products
-o-o
-and services.
-sentence-next
-o-o
-That kind is a
-o-o
-maker
-o-o
-business.
-end-lyric
-
-ambee sings-desha amenn
-Which corporations
-o-o
-create value?
-sentence-next
-o-o
-I thought all
-o-o
-corporations
-o-o
-are predatory.
-end-lyric
-
-ambee sings-econhist amenn
-Admittedly
-o-o
-big corporations
-o-o
-do tend to be
-o-o
-greedy.
-sentence-next
-o-o
-Yet when a biz
-o-o
-is young
-o-o
-and small
-o-o
-and sparsely
-o-o
-funded,
-o-o
-it can't grow
-o-o
-if it doesn't
-o-o
-offer something
-o-o
-that benefits
-o-o
-lots of people.
-end-lyric
-
-ambee sings-desha amenn
-I have my doubts
-o-o
-about that.
-end-lyric
-
-ambee sings-damien amenn
-Are there
-o-o
-examples?
-sentence-next
-o-o
-Something from
-o-o
-history?
-end-lyric
-
-ambee sings-econhist amenn
-Back when Google
-o-o
-started out,
-o-o
-it gave better
-o-o
-search results,
-o-o
-and fewer ads,
-o-o
-especially
-o-o
-on the first
-o-o
-results page.
-end-lyric
-
-ambee sings-desha amenn
-Now Google
-o-o
-hides its ads
-o-o
-on the websites
-o-o
-it sends people to.
-end-lyric
-
-ambee sings-econhist amenn
-Amazon
-o-o
-started as
-o-o
-a bookstore
-o-o
-that gave
-o-o
-beginning
-o-o
-book authors
-o-o
-a way to
-o-o
-bypass the
-o-o
-monopolistic
-o-o
-New York City
-o-o
-book publishers
-o-o
-who were
-o-o
-inefficiently
-o-o
-renting
-o-o
-New York City
-o-o
-office space.
-sentence-next
-o-o
-Bank of
-o-o
-America,
-o-o
-when it was
-o-o
-started in San
-o-o
-Francisco,
-o-o
-it catered to
-o-o
-the special needs
-o-o
-of wealthy
-o-o
-Chinese
-o-o
-Americans
-o-o
-in Chinatown,
-o-o
-back when
-o-o
-other banks
-o-o
-shunned Asian
-o-o
-Americans as
-o-o
-customers.
-sentence-next
-o-o
-What's important
-o-o
-to realize
-o-o
-is there are lots
-o-o
-of begin-italics small end-italics
-o-o
-corporations
-o-o
-you've never
-o-o
-heard of
-o-o
-that benefit
-o-o
-lots of people
-o-o
-in lots of
-o-o
-wonderful
-o-o
-ways.
-end-lyric
-
-ambee sings-damien amenn
-So it's like with
-o-o
-rich people?
-sentence-next
-o-o
-Some
-o-o
-corporations
-o-o
-are good,
-o-o
-and some are bad?
-end-lyric
-
-ambee sings-econhist amenn
-Exactly.
-sentence-next
-o-o
-And I'm glad
-o-o
-you see that
-o-o
-simply taxing
-o-o
-wealthy individuals
-o-o
-isn't the key.
-end-lyric
-
-ambee sings-damien amenn
-I learned
-o-o
-they can hide
-o-o
-vacation
-o-o
-homes,
-o-o
-ego hyphen-here inflated
-o-o
-yachts,
-o-o
-and
-o-o
-rendezvouz
-o-o
-condos
+that works so well
 o-o
 in the
 o-o
+United States.
+end-lyric
+
+ambee sings-desha amenn
+Wait a minute.
+sentence-next
+o-o
+You said warfare
+o-o
+undermines the
+o-o
+economy.
+sentence-next
+o-o
+Yet political hawks,
+o-o
+who are mostly
+o-o
+conservatives,
+o-o
+promote warfare
+o-o
+as a way to
+o-o
+increase
+o-o
+prosperity.
+sentence-next
+o-o
+And competition
+o-o
+between
+o-o
+nations,
+o-o
+and between
+o-o
+businesses,
+o-o
+is the basis
+o-o
+of prosperity
+o-o
+in a free market,
+o-o
+right?
+end-lyric
+
+ambee sings-damien amenn
+I'm lost.
+sentence-next
+o-o
+I feel like I'm
+o-o
+in a maze and
+o-o
+someone turned off
+o-o
+the lights.
+end-lyric
+
+ambee sings-econhist amenn
+Competition
+o-o
+between
+o-o
 businesses
 o-o
-n' trusts
+provides
 o-o
-they own.
+motivation
+o-o
+to work hard.
 sentence-next
 o-o
-So they can evade
+But what gets
 o-o
-individual
+overlooked is
 o-o
-taxation.
+the teamwork
+o-o
+among
+o-o
+employees.
 sentence-next
 o-o
-'N exploit tax
+That cooperation
 o-o
-deductions
+yields
 o-o
-in their
+efficiency.
+sentence-next
 o-o
-businesses.
+The same kind of
+o-o
+cooperation
+o-o
+happens among
+o-o
+citizens
+o-o
+within the same
+o-o
+nation.
+end-lyric
+
+ambee sings-damien amenn
+Hmm.
+sentence-next
+o-o
+So teamwork
+o-o
+is more than
+o-o
+touchy hyphen-here feely
+o-o
+games?
+end-lyric
+
+ambee sings-desha amenn
+Ah, employees
+o-o
+getting along,
+o-o
+who wouldn't
+o-o
+normally get along.
+sentence-next
+o-o
+Like employees
+o-o
+ignoring
+o-o
+racial differences,
+o-o
+religious
+o-o
+differences,
+o-o
+and gender
+o-o
+differences.
+end-lyric
+
+ambee sings-damien amenn
+Oh, and Republicans
+o-o
+and Democrats
+o-o
+ignoring their
+o-o
+differences
+o-o
+while at work.
+end-lyric
+
+ambee sings-desha amenn
+I see!
+sentence-next
+o-o
+When these
+o-o
+conflicts
+o-o
+are ignored,
+o-o
+that's cooperation.
+sentence-next
+o-o
+And that increases
+o-o
+efficiency
+o-o
+begin-italics within end-italics
+o-o
+the business.
+end-lyric
+
+ambee sings-damien amenn
+So cooperation
+o-o
+within a business
+o-o
+makes the business
+o-o
+strong,
+o-o
+so it can better
+o-o
+compete against
+o-o
+other
+o-o
+businesses?
+sentence-next
+o-o
+The lights are
+o-o
+coming back on.
+sentence-next
+o-o
+I think I see.
+end-lyric
+
+ambee sings-desha amenn
+So fighting
+o-o
+between groups
+o-o
+of people
+o-o
+inspires,
+o-o
+motivates,
+o-o
+cooperation
+o-o
+within each
+o-o
+group?
+end-lyric
+
+ambee sings-econhist amenn
+That's not a bad
+o-o
+simplification.
+end-lyric
+
+ambee sings-desha amenn
+And a lack
+o-o
+of cooperation
+o-o
+is why
+o-o
+climate change
+o-o
+is turning
+o-o
+our planet
+o-o
+into toast.
+end-lyric
+
+ambee sings-econhist amenn
+In the past,
+o-o
+higher levels
+o-o
+of cooperation
+o-o
+came from
+o-o
+churches and
+o-o
+religions.
+sentence-next
+o-o
+They originated
+o-o
+public schools,
+o-o
+hospitals,
+o-o
+food for the poor,
+o-o
+orphanages,
+o-o
+and
+o-o
+uplifting
+o-o
+songs.
+sentence-next
+o-o
+But
+o-o
+climate change
+o-o
+is a topic
+o-o
+that's too hot
+o-o
+for churches
+o-o
+to touch.
+end-lyric
+
+ambee sings-damien amenn
+Religions
+o-o
+can be good?
+end-lyric
+
+ambee sings-econhist amenn
+Ancient priests
+o-o
+in Egypt earned
+o-o
+their grain and beer
+o-o
+by predicting
+o-o
+eclipses
+o-o
+so their boss,
+o-o
+the pharaoh,
+o-o
+could pretend
+o-o
+to be powerful.
+sentence-next
+o-o
+And they
+o-o
+predicted
+o-o
+when the Nile
+o-o
+River would
+o-o
+flood and recede.
+sentence-next
+o-o
+Plus each year
+o-o
+priests used
+o-o
+mathematics
+o-o
+and surveying
+o-o
+to lay out
+o-o
+that year's
+o-o
+farming
+o-o
+boundaries.
+sentence-next
+o-o
+All of that was
+o-o
+like magic
+o-o
+to people who
+o-o
+didn't understand
+o-o
+astronomy,
+o-o
+weather,
+o-o
+geometry,
+o-o
+and fractions.
+end-lyric
+
+ambee sings-desha amenn
+That's why
+o-o
+Galileo
+o-o
+was a threat to the
+o-o
+Catholic Church.
+end-lyric
+
+ambee sings-damien amenn
+Because
+o-o
+he made
+o-o
+ditsy
+o-o
+people
+o-o
+dizzy?
+end-lyric
+
+ambee sings-desha amenn
+He showed that
+o-o
+science
+o-o
+was better than
+o-o
+priests
+o-o
+at those
+o-o
+brainy
+o-o
+skills.
+end-lyric
+
+ambee sings-econhist amenn
+Indeed,
+o-o
+during the
+o-o
+European
+o-o
+black death,
+o-o
+priests lost their
+o-o
+credibility
+o-o
+by failing to
+o-o
+cure the sick with
+o-o
+holy water,
+o-o
+they lost their lives
+o-o
+by praying
+o-o
+at the bedside
+o-o
+of the dying,
+o-o
+and their
+o-o
+congregations
+o-o
+declined
+o-o
+if they
+o-o
+promoted
+o-o
+pilgrimages
+o-o
+to visit
+o-o
+the tomb of
+o-o
+Saint Augustine
+o-o
+of Hippo.
+end-lyric
+
+ambee sings-damien amenn
+Those priests
+o-o
+would have flunked
+o-o
+out of
+o-o
+medical
+o-o
+school.
+sentence-next
+o-o
+Got it.
+sentence-next
+o-o
+And tourists
+o-o
+couldn't go to
+o-o
+Disneyland
+o-o
+to meet
+o-o
+Mickey,
+o-o
+Minnie,
+o-o
+and Pluto.
+end-lyric
+
+ambee sings-econhist amenn
+Lots of what
+o-o
+was once done by
+o-o
+religion
+o-o
+has split into
+o-o
+science,
+o-o
+engineering,
+o-o
+public
+o-o
+education,
+o-o
+government,
+o-o
+Disneyland,
+o-o
+and the
+o-o
+Hallmark
+o-o
+TV channel.
+end-lyric
+
+ambee sings-damien amenn
+So I'm
+o-o
+seeing that
+o-o
+if we,
+o-o
+the majority
+o-o
+of voters,
+o-o
+can elect
+o-o
+leaders who care,
+o-o
+those leaders
+o-o
+will reduce
+o-o
+corruption.
+sentence-next
+o-o
+And that will
+o-o
+increase
+o-o
+efficiency,
+o-o
+which will
+o-o
+increase
+o-o
+prosperity.
+sentence-next
+o-o
+And there
+o-o
+will be more
+o-o
+cooperation.
+sentence-next
+o-o
+What else
+o-o
+will change?
+end-lyric
+
+ambee sings-econhist amenn
+When Congress
+o-o
+and state
+o-o
+legislatures
+o-o
+become free
+o-o
+to do what
+o-o
+benefits
+o-o
+the majority,
+o-o
+what opens up
+o-o
+are many
+o-o
+opportunities
+o-o
+for new kinds of
+o-o
+business
+o-o
+based on
+o-o
+innovation.
+sentence-next
+o-o
+This is like
+o-o
+baking extra
+o-o
+cherry pies.
+sentence-next
+o-o
+The overall
+o-o
+economy
+o-o
+will grow
+o-o
+like it did
+o-o
+in the U.S.
+o-o
+after World
+o-o
+War Two.
+end-lyric
+
+ambee sings-damien amenn
+Oh,
+o-o
+I think
+o-o
+I see.
+sentence-next
+o-o
+Amazon
+o-o
+created
+o-o
+selling software
+o-o
+and uses the
+o-o
+internet
+o-o
+to replace the
+o-o
+inefficiency
+o-o
+of people
+o-o
+selling stuff
+o-o
+in retail
+o-o
+stores.
+end-lyric
+
+ambee sings-desha amenn
+Retail stores
+o-o
+have megatons of
+o-o
+inefficiency.
+sentence-next
+o-o
+In my retail job
+o-o
+I had to
+o-o
+deal with cash,
+o-o
+loan out
+o-o
+the filthy
+o-o
+restroom key,
+o-o
+and do security
+o-o
+by unlocking
+o-o
+locked hyphen-here up
+o-o
+nail clippers.
+end-lyric
+
+ambee sings-damien amenn
+So Amazon's
+o-o
+innovations
+o-o
+eliminate
+o-o
+cash,
+o-o
+theft, and
+o-o
+restrooms.
+end-lyric
+
+ambee sings-desha amenn
+Yes,
+o-o
+which increases
+o-o
+efficiency,
+o-o
+which increases
+o-o
+prosperity
+o-o
+for Jeff
+o-o
+Bezos.
+sentence-next
+o-o
+But selfishly
+o-o
+he steals
+o-o
+wages,
+o-o
+bathroom breaks,
+o-o
+and joy
+o-o
+from his
+o-o
+employees.
 end-lyric

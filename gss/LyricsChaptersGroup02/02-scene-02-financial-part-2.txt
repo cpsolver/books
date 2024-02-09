@@ -1,3 +1,303 @@
+ambee sings-damien amenn
+If I were to
+o-o
+buy a house
+o-o
+they'd loan for that.
+end-lyric
+
+ambee sings-vc amenn
+A mortgage,
+o-o
+hah.
+sentence-next
+o-o
+It doesn't work
+o-o
+like that.
+sentence-next
+o-o
+Instead
+o-o
+the bank
+o-o
+buys the
+o-o
+house.
+sentence-next
+o-o
+Your down payment's
+o-o
+big enough
+o-o
+to pay for
+o-o
+a year of
+o-o
+law school.
+sentence-next
+o-o
+So if soon
+o-o
+you lose your job
+o-o
+and miss a
+o-o
+payment,
+o-o
+a remittance,
+o-o
+or two,
+o-o
+they sell the house.
+sentence-next
+o-o
+Then you and a
+o-o
+couple of
+o-o
+other
+o-o
+homeowners
+o-o
+have paid for a
+o-o
+banker's kid
+o-o
+to become
+o-o
+a lawyer.
+sentence-next
+o-o
+That path leads to
+o-o
+homelessness,
+o-o
+unless you have
+o-o
+trustworthy
+o-o
+income.
+end-lyric
+
+ambee sings-damien amenn
+So banks
+o-o
+don't loan
+o-o
+money?
+end-lyric
+
+ambee sings-vc amenn
+They still do
+o-o
+a bit,
+o-o
+occasionally.
+sentence-next
+o-o
+Mostly now they're
+o-o
+high hyphen-here rolling gamblers
+o-o
+that make casinos
+o-o
+look like kids
+o-o
+playing a game
+o-o
+of Monopoly.
+sentence-next
+o-o
+They make
+o-o
+big money
+o-o
+by buying and
+o-o
+selling, ah,
+o-o
+another word
+o-o
+for money,
+o-o
+derivatives.
+sentence-next
+o-o
+Big things,
+o-o
+not small things.
+end-lyric
+
+ambee sings-damien amenn
+What're
+o-o
+derivatives?
+end-lyric
+
+ambee sings-vc amenn
+Those are contracts
+o-o
+on paper, or the
+o-o
+cyberspace
+o-o
+equivalent,
+o-o
+written by lawyers.
+sentence-next
+o-o
+Lots of times
+o-o
+they're promises
+o-o
+to pay money if
+o-o
+something happens,
+o-o
+like if interest
+o-o
+rates rise or fall.
+end-lyric
+
+ambee sings-damien amenn
+That sounds
+o-o
+a lot like
+o-o
+gamblin'.
+end-lyric
+
+ambee sings-vc amenn
+It is.
+sentence-next
+o-o
+And gambling,
+o-o
+that's what we
+o-o
+venture
+o-o
+capitalists
+o-o
+do too.
+sentence-next
+o-o
+We supply
+o-o
+capital.
+sentence-next
+o-o
+It's like those
+o-o
+ancient sea
+o-o
+voyages.
+sentence-next
+o-o
+Someone had to
+o-o
+buy the ship,
+o-o
+pay sailors,
+o-o
+and stock up
+o-o
+on gruel
+o-o
+and limes,
+o-o
+before they could
+o-o
+sail from the dock.
+sentence-next
+o-o
+Then, on return,
+o-o
+if they returned,
+o-o
+the cargo was
+o-o
+sold, and the
+o-o
+backer got his
+o-o
+share of the
+o-o
+gold.
+end-lyric
+
+ambee sings-damien amenn
+'N the captain
+o-o
+'n crew got what?
+end-lyric
+
+ambee sings-vc amenn
+What they got was
+o-o
+a temporary pass
+o-o
+to the middle class.
+sentence-next
+o-o
+Until they got
+o-o
+swindled,
+o-o
+badly beaten
+o-o
+in a
+o-o
+casino,
+o-o
+or stuck with
+o-o
+alimony
+o-o
+payments
+o-o
+that would fund
+o-o
+a small bank.
+end-lyric
+
+ambee sings-damien amenn
+But the backer
+o-o
+got more?
+end-lyric
+
+ambee sings-vc amenn
+Of course, 'cause
+o-o
+he took the
+o-o
+biggest risk.
+sentence-next
+o-o
+Remember there
+o-o
+were pirates.
+sentence-next
+o-o
+And sometimes
+o-o
+the winds
+o-o
+were not brisk.
+end-lyric
+
+ambee sings-damien amenn
+Those times
+o-o
+were cruel,
+o-o
+barbaric,
+o-o
+and excitin'.
+end-lyric
+
 ambee sings-vc amenn
 They were.
 sentence-next
@@ -760,724 +1060,4 @@ o-o
 we pay off
 o-o
 politicians.
-end-lyric
-
-ambee sings-damien amenn
-Don't lawyers
-o-o
-also assist?
-end-lyric
-
-ambee sings-vc amenn
-Yes our lawyers
-o-o
-fight battles
-o-o
-in court.
-sentence-next
-o-o
-They exterminate
-o-o
-our enemies.
-sentence-next
-o-o
-But nowadays
-o-o
-no blood is shed.
-sentence-next
-o-o
-The loser
-o-o
-only suffers
-o-o
-financially.
-end-lyric
-
-ambee sings-damien amenn
-It seems the
-o-o
-lawyers at the
-o-o
-top of the
-o-o
-legal
-o-o
-food chain
-o-o
-always win.
-sentence-next
-o-o
-Why's that?
-end-lyric
-
-ambee sings-vc amenn
-They write the bills
-o-o
-that get passed
-o-o
-into law.
-sentence-next
-o-o
-So of course they
-o-o
-know where the
-o-o
-loopholes are.
-sentence-next
-o-o
-It's all a big
-o-o
-family.
-sentence-next
-o-o
-I do love it.
-end-lyric
-
-ambee sings-damien amenn
-When you get
-o-o
-tax breaks,
-o-o
-or legal
-o-o
-monopolies,
-o-o
-how big are they?
-end-lyric
-
-ambee sings-vc amenn
-Usually
-o-o
-at least
-o-o
-three dollars.
-sentence-next
-o-o
-Often twenty.
-sentence-next
-o-o
-Sometimes,
-o-o
-oh the really
-o-o
-really good ones,
-o-o
-they're more than
-o-o
-a hundred.
-end-lyric
-
-ambee sings-damien amenn
-Is that all?
-sentence-next
-o-o
-Only about twenty
-o-o
-dollars?
-sentence-next
-o-o
-After donating
-o-o
-hundreds or
-o-o
-even thousands
-o-o
-of dollars?
-end-lyric
-
-ambee sings-vc amenn
-Three or twenty
-o-o
-or a hundred
-o-o
-dollars is
-o-o
-per dollar spent.
-end-lyric
-
-ambee sings-damien amenn
-You mean ...
-o-o
-for each dollar
-o-o
-you contribute ....
-sentence-next
-o-o
-You mean, ...
-o-o
-let's say some
-o-o
-corporate
-o-o
-executives
-o-o
-give
-o-o
-fifty thousand
-o-o
-dollars, ...
-sentence-next
-o-o
-to the right
-o-o
-politicians.
-sentence-next
-o-o
-That corporation
-o-o
-can get
-o-o
-a million
-o-o
-dollars in
-o-o
-extra profits
-o-o
-because of a
-o-o
-tax break,
-o-o
-subsidy, or
-o-o
-legal
-o-o
-monopoly?
-end-lyric
-
-ambee sings-vc amenn
-Yup!
-sentence-next
-o-o
-It's a great
-o-o
-ROI.
-sentence-next
-o-o
-That's
-o-o
-return on
-o-o
-investment.
-end-lyric
-
-ambee sings-damien amenn
-Wow!
-sentence-next
-o-o
-That makes
-o-o
-a roulette wheel
-o-o
-in Las Vegas
-o-o
-seem like a
-o-o
-painfully slow
-o-o
-way to make
-o-o
-money.
-end-lyric
-
-ambee sings-vc amenn
-Another trick
-o-o
-is to own
-o-o
-newspapers and
-o-o
-TV stations.
-end-lyric
-
-ambee sings-damien amenn
-Those make out
-o-o
-like bandits?
-end-lyric
-
-ambee sings-vc amenn
-It's not for
-o-o
-their meager
-o-o
-profits.
-sentence-next
-o-o
-That's so when there's
-o-o
-dirty linen
-o-o
-in a biz
-o-o
-we own
-o-o
-it doesn't
-o-o
-become known.
-end-lyric
-
-ambee sings-damien amenn
-How about
-o-o
-news sources
-o-o
-you don't own?
-end-lyric
-
-ambee sings-vc amenn
-The business buys
-o-o
-advertising spaces
-o-o
-from those places.
-sentence-next
-o-o
-Have you noticed
-o-o
-that embarrassing
-o-o
-stories about
-o-o
-grocery stores
-o-o
-never appear
-o-o
-in newspapers?
-sentence-next
-o-o
-That's because
-o-o
-grocery stores
-o-o
-pay for lots
-o-o
-of those
-o-o
-colorful
-o-o
-newspaper
-o-o
-ads.
-end-lyric
-
-ambee sings-damien amenn
-That protection
-o-o
-racket's not
-o-o
-what a small store
-o-o
-can afford to pay.
-end-lyric
-
-ambee sings-vc amenn
-My dear boy,
-o-o
-there's no money
-o-o
-to be made by
-o-o
-aiming low.
-sentence-next
-o-o
-It's big businesses
-o-o
-that earn the dough.
-sentence-next
-o-o
-The really big
-o-o
-ones are chains
-o-o
-that use mass media
-o-o
-to broadcast their ads
-o-o
-across a big city,
-o-o
-or even a state.
-end-lyric
-
-ambee sings-damien amenn
-I know someone
-o-o
-who wants to start
-o-o
-a restaurant.
-sentence-next
-o-o
-Can't he buy ads
-o-o
-for just a neighborhood?
-end-lyric
-
-ambee sings-vc amenn
-Only costly
-o-o
-printed ads
-o-o
-sent by mail
-o-o
-cover small
-o-o
-neighborhoods.
-sentence-next
-o-o
-Well, 'til
-o-o
-recently,
-o-o
-when NextDoor and
-o-o
-News Here Now
-o-o
-came along.
-end-lyric
-
-ambee sings-damien amenn
-Are there yet
-o-o
-other tricks?
-end-lyric
-
-ambee sings-vc amenn
-Doing tricks
-o-o
-keeps a corporation
-o-o
-as busy as
-o-o
-an escort
-o-o
-in Las Vegas
-o-o
-during convention season.
-sentence-next
-o-o
-Another trick is
-o-o
-big corporations
-o-o
-hire the big four
-o-o
-accounting firms
-o-o
-to get around laws
-o-o
-that were co-written
-o-o
-by those big four
-o-o
-accounting firms.
-end-lyric
-
-ambee sings-damien amenn
-That's, er,
-o-o
-a sweet deal.
-sentence-next
-o-o
-For the
-o-o
-corporations.
-sentence-next
-o-o
-But thinkin'
-o-o
-of me,
-o-o
-what's the best
-o-o
-kind of biz
-o-o
-to be?
-sentence-next
-o-o
-I wanna
-o-o
-become an
-o-o
-entrepreneur.
-sentence-next
-o-o
-What's the best
-o-o
-strategy?
-end-lyric
-
-ambee sings-vc amenn
-To become
-o-o
-a big cheese,
-o-o
-put the squeeze
-o-o
-on customers.
-sentence-next
-o-o
-Become the
-o-o
-bottleneck
-o-o
-between supply
-o-o
-and demand.
-end-lyric
-
-ambee sings-damien amenn
-So you mean
-o-o
-extortion's
-o-o
-the best kind of
-o-o
-plan?
-end-lyric
-
-ambee sings-vc amenn
-To see what
-o-o
-I mean,
-o-o
-consider the
-o-o
-music industry.
-sentence-next
-o-o
-The way it was
-o-o
-years ago,
-o-o
-before a
-o-o
-recording
-o-o
-studio
-o-o
-got squeezed
-o-o
-into a
-o-o
-laptop
-o-o
-computer.
-sentence-next
-o-o
-Back then,
-o-o
-cutting
-o-o
-a record,
-o-o
-literally,
-o-o
-meant cutting grooves
-o-o
-on a master
-o-o
-disk.
-sentence-next
-o-o
-That process
-o-o
-used very
-o-o
-expensive
-o-o
-equipment
-o-o
-to transform
-o-o
-sound waves
-o-o
-into vibrations
-o-o
-of the cutting
-o-o
-needle.
-sentence-next
-o-o
-That equipment
-o-o
-was so rare
-o-o
-that musicians
-o-o
-would work for cheap.
-end-lyric
-
-ambee sings-damien amenn
-Or trade sex
-o-o
-for a record deal?
-end-lyric
-
-ambee sings-vc amenn
-Often
-o-o
-that was a perk.
-sentence-next
-o-o
-But times have changed.
-sentence-next
-o-o
-Now a
-o-o
-microphone
-o-o
-and an iPad
-o-o
-plus some apps
-o-o
-can do it all.
-sentence-next
-o-o
-From making
-o-o
-an album to
-o-o
-selling it
-o-o
-online.
-sentence-next
-o-o
-So that pinch point,
-o-o
-that bottleneck,
-o-o
-is gone.
-sentence-next
-o-o
-And with it went
-o-o
-lots of profit,
-o-o
-status,
-o-o
-and perks.
-sentence-next
-o-o
-Now,
-o-o
-music hyphen-here industry
-o-o
-lawyers
-o-o
-hold their grip
-o-o
-by threatening
-o-o
-to sue any pub,
-o-o
-tavern, bar, or
-o-o
-restaurant
-o-o
-that doesn't buy
-o-o
-a license
-o-o
-to play the
-o-o
-copyrighted
-o-o
-music those
-o-o
-lawyers control.
-end-lyric
-
-ambee sings-damien amenn
-Oh,
-o-o
-that's why we
-o-o
-can't sing the
-o-o
-Beatles song
-o-o
-begin-italics
-Let It Be
-end-italics
-o-o
-in public.
-sentence-next
-o-o
-Now I see.
-sentence-next
-o-o
-Record labels
-o-o
-lost their
-o-o
-bottleneck
-o-o
-because they
-o-o
-used to
-o-o
-monopolize
-o-o
-the
-o-o
-technology
-o-o
-that now fits
-o-o
-inside
-o-o
-a tablet
-o-o
-app.
-sentence-next
-o-o
-Aren't newspapers
-o-o
-losing their
-o-o
-grip too?
-end-lyric
-
-ambee sings-vc amenn
-And movie
-o-o
-producers.
-sentence-next
-o-o
-And book
-o-o
-publishers.
-sentence-next
-o-o
-And radio
-o-o
-and TV
-o-o
-stations.
-sentence-next
-o-o
-They lost their
-o-o
-monopolies.
-sentence-next
-o-o
-Now those
-o-o
-industries
-o-o
-are like airplanes
-o-o
-dropping from
-o-o
-the sky in a
-o-o
-tailspin.
-sentence-next
-o-o
-So the trick
-o-o
-is to find
-o-o
-a new
-o-o
-bottleneck.
 end-lyric

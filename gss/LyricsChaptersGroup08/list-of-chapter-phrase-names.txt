@@ -3,3 +3,5 @@
 06-scene-06-economic-part-3
 06-scene-06-economic-part-4
 06-scene-06-economic-part-5
+06-scene-06-economic-part-6
+06-scene-06-economic-part-7
