@@ -171,17 +171,18 @@ usually right?
 end-lyric
 
 ambee sings-econhist amenn
-Sometimes yes,
+Sometimes yes.
+sentence-next
 o-o
-and then we
+Then we use that
 o-o
-use that to
+success
 o-o
-rise up in our
+to rise up
 o-o
-hierarchy,
+in our
 o-o
-our academic
+academic
 o-o
 game of thrones,
 o-o
@@ -192,9 +193,9 @@ sentence-next
 o-o
 Sometimes no,
 o-o
-and then we
+so we apply
 o-o
-apply for a
+for a
 o-o
 research grant
 o-o
@@ -217,7 +218,7 @@ crystal ball
 o-o
 and a home
 o-o
-that has a
+with a
 o-o
 panoramic
 o-o
