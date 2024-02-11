@@ -1,0 +1,403 @@
+ambee sings-vc amenn
+Father, name-minister no-space ,
+o-o
+was just telling me
+o-o
+I need more love
+o-o
+in my life.
+sentence-next
+o-o
+You've brought your love
+o-o
+here for me to
+o-o
+appreciate.
+sentence-next
+o-o
+So go for it
+o-o
+you wise and also
+o-o
+stupid fools!
+end-lyric
+
+ambee sings-desha amenn
+In so many ways,
+o-o
+for far too long,
+o-o
+the world has been
+o-o
+upside down.
+sentence-next
+o-o
+Now it's time to
+o-o
+fight
+o-o
+for what's right.
+sentence-next
+o-o
+And turn the world
+o-o
+right hyphen-here side up!
+end-lyric
+
+ambee sings-vc amenn
+If it would help me,
+o-o
+or might inspire
+o-o
+a better eulogy
+o-o
+for me,
+o-o
+then perhaps
+o-o
+I can help make
+o-o
+that happen.
+sentence-next
+o-o
+Let's discuss this
+o-o
+some more at my
+o-o
+lonely home.
+end-lyric
+
+ambee sings-desha amenn
+Can my
+o-o
+Willie come?
+end-lyric
+
+ambee sings-vc amenn
+Of course!
+sentence-next
+o-o
+A party!
+sentence-next
+o-o
+And not the
+o-o
+political kind.
+sentence-next
+o-o
+I'll pay for
+o-o
+Chinese takeout.
+end-lyric
+
+ambee sings-desha amenn
+Father knows a
+o-o
+good place for
+o-o
+Chinese takeout.
+end-lyric
+
+ambee sings-minister amenn
+Oh yes,
+o-o
+Foo Ken Good
+o-o
+Palace.
+sentence-next
+o-o
+It's on southeast
+o-o
+Ashinhole Avenue.
+end-lyric
+
+ambee sings-vc amenn
+begin-explain Chuckles. end-explain
+o-o
+name-minister
+o-o
+do you want
+o-o
+to come too?
+end-lyric
+
+ambee sings-minister amenn
+More sparks for
+o-o
+the fireworks?
+sentence-next
+o-o
+I'll decline.
+sentence-next
+o-o
+Yet I'm all in favor
+o-o
+of turning the world
+o-o
+right hyphen-here side up.
+sentence-next
+o-o
+After all,
+o-o
+turning things
+o-o
+right hyphen-here side up
+o-o
+is the purpose
+o-o
+of religion.
+end-lyric
+
+ambee sings-damien amenn
+Holy guacamole!
+sentence-next
+o-o
+I never
+o-o
+realized
+o-o
+that's
+o-o
+religion's
+o-o
+grand prize.
+end-lyric
+
+ambee sings-desha amenn
+Of course
+o-o
+some churches
+o-o
+need to
+o-o
+subtract out
+o-o
+the corrupt
+o-o
+bits
+o-o
+for that
+o-o
+description
+o-o
+to fit.
+end-lyric
+
+ambee sings-vc amenn
+I'm learning
+o-o
+a lot today.
+sentence-next
+o-o
+Now I better
+o-o
+realize
+o-o
+I mistook
+o-o
+jealousy
+o-o
+for admiration.
+sentence-next
+o-o
+And I mistook
+o-o
+admiration
+o-o
+to be a weak
+o-o
+kind of love.
+sentence-next
+o-o
+People want a
+o-o
+financial
+o-o
+connection
+o-o
+with me,
+o-o
+but then they'd
+o-o
+be happy to
+o-o
+push me aside,
+o-o
+or even
+o-o
+wish me dead,
+o-o
+to transfer some
+o-o
+of my wealth
+o-o
+to themselves.
+sentence-next
+o-o
+Alas,
+o-o
+my world has been
+o-o
+upside down.
+sentence-next
+o-o
+It's not the way
+o-o
+I want things
+o-o
+to be.
+sentence-next
+o-o
+I want love
+o-o
+like
+o-o
+everyone else.
+sentence-next
+o-o
+I too want to help
+o-o
+begin to turn
+o-o
+the world
+o-o
+right hyphen-here side up.
+end-lyric
+
+ambee sings-desha amenn
+I see you have
+o-o
+a good heart.
+sentence-next
+o-o
+Now you can make
+o-o
+a wiser start.
+end-lyric
+
+ambee sings-damien amenn
+Yes we'll visit
+o-o
+you at your home.
+sentence-next
+o-o
+Surely there's
+o-o
+a way to merge
+o-o
+what we all want.
+sentence-next
+o-o
+Hopefully
+o-o
+we can find a way
+o-o
+to promote
+o-o
+pairwise vote
+o-o
+counting
+o-o
+to turn the world
+o-o
+right hyphen-here side up!
+end-lyric
+
+ambee sings-desha amenn
+Yes!
+sentence-next
+o-o
+And let's start
+o-o
+by joining forces
+o-o
+together!
+sentence-next
+o-o
+begin-explain They kiss again. end-explain
+end-lyric
+
+ambee sings-minister amenn
+I can see
+o-o
+the sparks
+o-o
+flying
+o-o
+already.
+end-lyric
+
+ambee sings-vc amenn
+I do enjoy
+o-o
+fireworks.
+end-lyric
+
+ambee sings-desha amenn
+So do I!
+sentence-next
+o-o
+begin-explain name-desha reaches out and holds a hand with name-vc no-space . end-explain
+o-o
+Speaking of which,
+o-o
+...
+sentence-next
+o-o
+name-vc no-space ,
+o-o
+I won't stop
+o-o
+kicking
+o-o
+your ass.
+sentence-next
+o-o
+But in fairness
+o-o
+you're welcome
+o-o
+to try to
+o-o
+kick mine.
+end-lyric
+
+ambee sings-vc amenn
+You can try to
+o-o
+step on my toes.
+sentence-next
+o-o
+Anything goes.
+end-lyric
+
+ambee sings-desha amenn
+Deal!
+sentence-next
+o-o
+begin-explain name-desha goes back to put arm behind name-damien no-space . end-explain
+end-lyric
+
+ambee sings-damien amenn
+Speaking of
+o-o
+kicking ass,
+o-o
+I still want
+o-o
+to see your
+o-o
+begin-italics kick ass end-italics
+o-o
+tattoo.
+end-lyric
+
+ambee sings-desha amenn
+A private
+o-o
+showing of her
+o-o
+is in your
+o-o
+future.
+end-lyric

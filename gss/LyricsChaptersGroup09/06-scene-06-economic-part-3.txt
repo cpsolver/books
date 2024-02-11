@@ -1,3 +1,166 @@
+ambee sings-econhist amenn
+name-desha no-space ,
+o-o
+do you
+o-o
+remember from
+o-o
+econ one oh one
+o-o
+what determines
+o-o
+interest rates?
+end-lyric
+
+ambee sings-desha amenn
+The federal
+o-o
+reserve chooses
+o-o
+when to increase
+o-o
+and decrease the
+o-o
+interest rate,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+That's the rate
+o-o
+talked about
+o-o
+in the news.
+sentence-next
+o-o
+But more important
+o-o
+is the rate
+o-o
+determined by
+o-o
+auctioning
+o-o
+treasuries.
+end-lyric
+
+ambee sings-damien amenn
+Auctions,
+o-o
+that means
+o-o
+sold to the
+o-o
+highest bidder,
+o-o
+right?
+end-lyric
+
+ambee sings-desha amenn
+Yes.
+o-o
+But I don't
+o-o
+remember
+o-o
+learning about
+o-o
+those
+o-o
+auctions.
+end-lyric
+
+ambee sings-econhist amenn
+It's not taught to
+o-o
+undergrads.
+end-lyric
+
+ambee sings-desha amenn
+I'll bet textbooks
+o-o
+don't include it
+o-o
+because schools
+o-o
+are funded by
+o-o
+the government.
+sentence-next
+o-o
+So textbooks can't
+o-o
+reveal secrets
+o-o
+the government
+o-o
+wants to hide.
+end-lyric
+
+ambee sings-econhist amenn
+In economically
+o-o
+optimistic
+o-o
+times
+o-o
+those auctioned
+o-o
+U.S.
+o-o
+treasuries
+o-o
+sell for
+o-o
+higher prices,
+o-o
+closer to the
+o-o
+amount the
+o-o
+government pays
+o-o
+when they reach their
+o-o
+redemption date.
+end-lyric
+
+ambee sings-desha amenn
+Ah, but in
+o-o
+economically
+o-o
+pessimistic
+o-o
+times the buyers
+o-o
+pay much less.
+end-lyric
+
+ambee sings-econhist amenn
+Yes,
+o-o
+then the gap
+o-o
+between
+o-o
+purchase price
+o-o
+and redemption
+o-o
+payment
+o-o
+increases.
+sentence-next
+o-o
+So that
+o-o
+brings up rates
+o-o
+of interest.
+end-lyric
+
 ambee sings-damien amenn
 Optimism?
 sentence-next

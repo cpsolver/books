@@ -1,4 +1,118 @@
 ambee sings-minister amenn
+May I request
+o-o
+that you give
+o-o
+less stress to
+o-o
+name-vc
+o-o
+while he
+o-o
+gets rest
+o-o
+after his
+o-o
+heart attack?
+end-lyric
+
+ambee sings-desha amenn
+I apologize for
+o-o
+the stress.
+end-lyric
+
+ambee sings-fiance amenn
+Of course I
+o-o
+apologize.
+end-lyric
+
+ambee sings-vc amenn
+I have to admit
+o-o
+this is better
+o-o
+than Netflix
+o-o
+or TV.
+sentence-next
+o-o
+So it's not
+o-o
+bothering
+o-o
+me.
+end-lyric
+
+ambee sings-fiance amenn
+In that case
+o-o
+I'll say
+o-o
+you're a witch
+o-o
+for attacking
+o-o
+me.
+end-lyric
+
+ambee sings-desha amenn
+I was
+o-o
+attacking
+o-o
+stupidity.
+sentence-next
+o-o
+Since you're
+o-o
+pleading guilty
+o-o
+it's a case of
+o-o
+double
+o-o
+stupidity.
+end-lyric
+
+ambee sings-minister amenn
+Even if name-vc
+o-o
+doesn't mind,
+o-o
+let's have
+o-o
+serenity
+o-o
+and sanity
+o-o
+shall we?
+end-lyric
+
+ambee sings-fiance amenn
+I'll text
+o-o
+name-damien no-space .
+sentence-next
+o-o
+He can take me
+o-o
+home so I won't
+o-o
+trouble you
+o-o
+further father,
+o-o
+or you father,
+o-o
+or you Jordon.
+sentence-next
+o-o
+begin-explain Click of keys as name-fiance types text message. end-explain
+end-lyric
+
+ambee sings-minister amenn
 Do you remember
 o-o
 name-vc no-space ?
