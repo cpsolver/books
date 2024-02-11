@@ -614,6 +614,127 @@ o-o
 with no jail time.
 end-lyric
 
+ambee sings-father-of-fiance amenn
+You still haven't
+o-o
+answered my
+o-o
+question.
+sentence-next
+o-o
+Why do churches
+o-o
+not pay property
+o-o
+taxes?
+end-lyric
+
+ambee sings-minister amenn
+Cities
+o-o
+with churches
+o-o
+have better
+o-o
+widespread
+o-o
+economic
+o-o
+prosperity.
+sentence-next
+o-o
+That follows
+o-o
+naturally
+o-o
+from what
+o-o
+churches do,
+o-o
+or used to do.
+sentence-next
+o-o
+More prosperity
+o-o
+yielded
+o-o
+higher tax
+o-o
+revenues
+o-o
+for the
+o-o
+city's mayor
+o-o
+and the region's
+o-o
+king.
+sentence-next
+o-o
+That's why they get
+o-o
+tax breaks.
+sentence-next
+o-o
+In return,
+o-o
+churches
+o-o
+must be silent
+o-o
+about things
+o-o
+that might reduce
+o-o
+tax revenues.
+sentence-next
+o-o
+Especially
+o-o
+about warfare
+o-o
+and politics.
+end-lyric
+
+ambee sings-desha amenn
+And abortion
+o-o
+in the case of
+o-o
+antiquated
+o-o
+Catholic churches.
+sentence-next
+o-o
+That reduces
+o-o
+the future
+o-o
+population
+o-o
+by one
+o-o
+taxpayer.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I wish my
+o-o
+business
+o-o
+was rewarded
+o-o
+with low taxes
+o-o
+to thank me
+o-o
+for the benefits
+o-o
+I bring
+o-o
+to this city.
+end-lyric
+
 ambee sings-damien-firstuse amenn
 begin-explain Door opens and closes. end-explain
 o-o

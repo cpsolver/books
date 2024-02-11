@@ -140,47 +140,6 @@ zero.
 end-lyric
 
 ambee sings-mathprof amenn
-It took our
-o-o
-ancestors
-o-o
-hundreds of years
-o-o
-to make the leap
-o-o
-from the number
-o-o
-zero
-o-o
-to the digit
-o-o
-zero.
-sentence-next
-o-o
-To us,
-o-o
-in hindsight,
-o-o
-that's slow.
-sentence-next
-o-o
-In a similar way
-o-o
-folks in the
-o-o
-distant future
-o-o
-will marvel that
-o-o
-it took so long
-o-o
-for us to use
-o-o
-pairwise counting
-o-o
-for counting votes.
-sentence-next
-o-o
 Zero as a digit
 o-o
 changed the world
@@ -190,11 +149,113 @@ sentence-next
 o-o
 Similarly
 o-o
-pairwise vote counting
+pairwise
+o-o
+vote counting
 o-o
 will change the world
 o-o
 in marvelous ways.
+sentence-next
+o-o
+Yet it took our
+o-o
+ancestors
+o-o
+centuries
+o-o
+to make the leap
+o-o
+from the abacus
+o-o
+in China
+o-o
+to what we see
+o-o
+as obvious,
+o-o
+the benefits
+o-o
+of the digits
+o-o
+zero through nine.
+sentence-next
+o-o
+And more
+o-o
+centuries
+o-o
+passed as the
+o-o
+digit zero
+o-o
+traveled
+o-o
+along the
+o-o
+silk road
+o-o
+through Muslims
+o-o
+in the
+o-o
+Middle East,
+o-o
+then to
+o-o
+northern
+o-o
+Africa,
+o-o
+then to a
+o-o
+future Pope
+o-o
+who overturned
+o-o
+the previous
+o-o
+belief
+o-o
+that using them
+o-o
+was a sin.
+sentence-next
+o-o
+In a similar way
+o-o
+pairwise
+o-o
+vote counting
+o-o
+was known
+o-o
+centuries
+o-o
+before Condorcet,
+o-o
+who died
+o-o
+in the French
+o-o
+Revolution.
+sentence-next
+o-o
+Humans in the
+o-o
+distant future
+o-o
+will marvel that
+o-o
+it took us
+o-o
+sooo long
+o-o
+to adopt a
+o-o
+well hyphen-here designed
+o-o
+election system
 end-lyric
 
 ambee sings-damien amenn

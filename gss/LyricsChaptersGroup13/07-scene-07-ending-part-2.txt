@@ -317,7 +317,7 @@ Jesus
 o-o
 probably
 o-o
-was not a
+was not just a
 o-o
 lowly
 o-o
@@ -396,13 +396,17 @@ stone masons
 o-o
 and assistants,
 o-o
-maybe including
+including a
 o-o
-a carpenter
+carpenter
 o-o
-to build forms
+to build
 o-o
-for stone arches,
+temporary
+o-o
+wooden forms
+o-o
+for arches,
 o-o
 plus women
 o-o
@@ -423,6 +427,23 @@ o-o
 with
 o-o
 arches.
+sentence-next
+o-o
+More likely
+o-o
+the Greek to
+o-o
+Latin translator
+o-o
+was clueless
+o-o
+about
+o-o
+Jesus's
+o-o
+non hyphen-here spiritual
+o-o
+skills.
 end-lyric
 
 ambee sings-vc amenn

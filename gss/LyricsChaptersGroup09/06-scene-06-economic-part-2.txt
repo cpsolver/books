@@ -5,7 +5,8 @@ the silk road was?
 end-lyric
 
 ambee sings-damien amenn
-Yeah,
+Yeah.
+sentence-next
 o-o
 Marco Polo
 o-o
@@ -20,52 +21,20 @@ o-o
 from China.
 end-lyric
 
-ambee sings-desha amenn
-That means
-o-o
-China was getting
-o-o
-lots of valuable
-o-o
-things flowing
-o-o
-into their country
-o-o
-to pay for the silk.
-end-lyric
-
-ambee sings-damien amenn
-So that made
-o-o
-China rich?
-end-lyric
-
 ambee sings-econhist amenn
-Enormously
-o-o
-wealthy.
-sentence-next
-o-o
-Well,
-o-o
-at least for those
-o-o
-living in
-o-o
-and near
-o-o
-the Forbidden
-o-o
-City.
-sentence-next
-o-o
-And instead of
+Instead of
 o-o
 just selling
 o-o
 spools of silk,
 o-o
-they wove it into
+the Chinese
+o-o
+in the
+o-o
+Forbidden city
+o-o
+wove it into
 o-o
 begin-italics beautiful end-italics
 o-o
@@ -80,31 +49,25 @@ o-o
 in gold.
 sentence-next
 o-o
-And they wisely
+To protect
 o-o
-kept their special
+their monopoly
+o-o
+they kept their
+o-o
+special
 o-o
 silkworms within
 o-o
 the Forbidden
 o-o
-City to
-o-o
-protect their
-o-o
-monopoly.
+City.
 end-lyric
 
 ambee sings-desha amenn
-The Forbidden
-o-o
-City's the
-o-o
-fortress where
+Which is where
 o-o
 the emperor
-o-o
-of China
 o-o
 lived.
 end-lyric
