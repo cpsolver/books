@@ -667,7 +667,15 @@ o-o
 gunpowder.
 sentence-next
 o-o
-And the digit zero.
+And the idea
+o-o
+for the digits
+o-o
+zero through nine,
+o-o
+from the Chinese
+o-o
+abacus.
 end-lyric
 
 ambee sings-econhist amenn

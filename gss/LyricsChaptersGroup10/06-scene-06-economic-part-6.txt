@@ -803,7 +803,9 @@ de Condorcet?
 end-lyric
 
 ambee sings-damien amenn
-Just that his name
+I remember
+o-o
+his name
 o-o
 rhymes with
 o-o
@@ -858,9 +860,9 @@ o-o
 ahead of his time.
 sentence-next
 o-o
-Did he get
+Did he make
 o-o
-much success?
+much progress?
 end-lyric
 
 ambee sings-econhist amenn
@@ -874,31 +876,24 @@ criticizing
 o-o
 the
 o-o
+French
+o-o
 politicians
 o-o
 in power.
 sentence-next
 o-o
-So he died
+They put him
 o-o
-in prison.
-sentence-next
+in prison,
 o-o
-That was during
+where he died
 o-o
-the time when
+before they could
 o-o
-Frenchmen
+chop off his head
 o-o
-had an
-o-o
-excessive
-o-o
-fetish of
-o-o
-chopping off
-o-o
-heads with the
+with the
 o-o
 newly invented
 o-o

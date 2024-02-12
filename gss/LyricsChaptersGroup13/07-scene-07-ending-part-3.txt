@@ -744,91 +744,78 @@ taxes?
 end-lyric
 
 ambee sings-minister amenn
-Cities
+Long ago
+o-o
+it was clear
+o-o
+that cities
 o-o
 with churches
 o-o
-have better
-o-o
-widespread
+had better
 o-o
 economic
 o-o
 prosperity.
 sentence-next
 o-o
-That follows
+That followed
 o-o
 naturally
 o-o
 from what
 o-o
-churches do,
-o-o
-or used to do.
-sentence-next
-o-o
-More prosperity
-o-o
-yielded
-o-o
-higher tax
-o-o
-revenues
-o-o
-for the
-o-o
-city's mayor
-o-o
-and the region's
-o-o
-king.
-sentence-next
-o-o
-That's why they get
-o-o
-tax breaks.
-sentence-next
-o-o
-In return,
-o-o
 churches
 o-o
-must be silent
-o-o
-about things
-o-o
-that might reduce
-o-o
-tax revenues.
+used to do.
 sentence-next
 o-o
-Especially
+Which included
 o-o
-about warfare
+teaching
 o-o
-and politics.
+respect
+o-o
+for laws
+o-o
+written by
+o-o
+mayors and
+o-o
+kings.
 end-lyric
 
 ambee sings-desha amenn
-And abortion
+There was always
 o-o
-in the case of
+a law against
 o-o
-antiquated
+littering
 o-o
-Catholic churches.
+...
+o-o
+of human
+o-o
+turds.
 sentence-next
 o-o
-That reduces
+And against
 o-o
-the future
+abortion
 o-o
-population
+of a male
 o-o
-by one
+because that
 o-o
-taxpayer.
+would diminish
+o-o
+the king's
+o-o
+future army
+o-o
+size by one
+o-o
+soldier.
 end-lyric
 
 ambee sings-father-of-fiance amenn
