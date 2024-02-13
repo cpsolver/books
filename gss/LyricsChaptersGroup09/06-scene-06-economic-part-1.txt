@@ -784,9 +784,9 @@ end-lyric
 ambee sings-desha amenn
 Probably
 o-o
-whoever
+the person
 o-o
-said
+who said
 o-o
 history
 o-o
@@ -852,23 +852,40 @@ lots of the time.
 end-lyric
 
 ambee sings-econhist amenn
-About cults,
+About info
 o-o
-including
-o-o
-religious,
-o-o
-political,
-o-o
-racial,
-o-o
-and
-o-o
-corporate
+related to
 o-o
 cults,
 o-o
 sure.
+sentence-next
+o-o
+That includes
+o-o
+religious cults,
+o-o
+racial and
+o-o
+language hyphen-here based cults,
+o-o
+the pharmaceutical
+o-o
+industry,
+o-o
+the fossil fuel
+o-o
+industry,
+o-o
+and the
+o-o
+Republican
+o-o
+and
+o-o
+Democratic
+o-o
+cults.
 sentence-next
 o-o
 But Wikipedia

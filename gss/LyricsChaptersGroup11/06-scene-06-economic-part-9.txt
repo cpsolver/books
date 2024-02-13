@@ -803,7 +803,9 @@ Disneyland,
 o-o
 Paris,
 o-o
+cyberspace,
+o-o
 and
 o-o
-cyberspace.
+outer space.
 end-lyric

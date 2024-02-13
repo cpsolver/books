@@ -981,9 +981,22 @@ any of this from me.
 end-lyric
 
 ambee sings-desha amenn
-We know how this works,
+We know
 o-o
-so we promise!
+how this works.
+sentence-next
+o-o
+We promise
+o-o
+we won't drop
+o-o
+any rocks
+o-o
+on the thin ice
+o-o
+where you're
+o-o
+standing.
 end-lyric
 
 ambee sings-damien amenn

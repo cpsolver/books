@@ -400,25 +400,7 @@ hackers
 o-o
 who exploit
 o-o
-social media
-o-o
-to spread
-o-o
-fake news,
-o-o
-conspiracy
-o-o
-theories,
-o-o
-and
-o-o
-memes
-o-o
-that support these
-o-o
-wannabe
-o-o
-dictators.
+social media.
 end-lyric
 
 ambee sings-damien amenn
@@ -447,7 +429,9 @@ sentence-next
 o-o
 'N the owners
 o-o
-of maker businesses,
+of small maker
+o-o
+businesses,
 o-o
 like the one
 o-o
@@ -568,13 +552,9 @@ would use U.S.
 o-o
 brainpower
 o-o
-more efficiently,
+much more
 o-o
-for better
-o-o
-widespread
-o-o
-prosperity.
+efficiently.
 end-lyric
 
 ambee sings-damien amenn

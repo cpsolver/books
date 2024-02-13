@@ -575,27 +575,36 @@ are shooting
 o-o
 bullets at
 o-o
-their share of
+people reaching
+o-o
+for the
 o-o
 cherry pie
 o-o
-by not
+without
 o-o
 realizing
 o-o
-that some
+those people
 o-o
-employees
+include
 o-o
-and customers
+the company's
 o-o
-are also
+customers.
+end-lyric
+
+ambee sings-econhist amenn
+And sometimes
 o-o
-shareholders
+their employees.
+sentence-next
 o-o
-of their
+And sometimes
 o-o
-company.
+their fellow
+o-o
+shareholders.
 end-lyric
 
 ambee sings-damien amenn
@@ -1007,7 +1016,9 @@ economically.
 end-lyric
 
 ambee sings-desha amenn
-Creative
+I see that
+o-o
+creative
 o-o
 geniuses
 o-o
@@ -1015,14 +1026,21 @@ who do the
 o-o
 magic
 o-o
-get left out.
-sentence-next
+frequently
 o-o
-Both from profits
+get burned
 o-o
-and historical
+when it comes to
 o-o
-recognition.
+the money
+o-o
+they earn,
+o-o
+and overlooked
+o-o
+in autobiographic
+o-o
+history books.
 end-lyric
 
 ambee sings-econhist amenn
