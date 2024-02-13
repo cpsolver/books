@@ -229,7 +229,9 @@ o-o
 In the future.
 sentence-next
 o-o
-And at the moment
+And at
+o-o
+the moment
 o-o
 something makes
 o-o
@@ -240,9 +242,9 @@ Interest rates
 o-o
 have been low
 o-o
-during my
+most of my
 o-o
-lifetime.
+life.
 sentence-next
 o-o
 That means

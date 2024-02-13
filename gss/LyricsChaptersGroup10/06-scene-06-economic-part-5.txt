@@ -654,13 +654,45 @@ and fractions.
 end-lyric
 
 ambee sings-desha amenn
-That's why
+And selfies.
+end-lyric
+
+ambee sings-damien amenn
+Your time machine
+o-o
+just crashed.
+end-lyric
+
+ambee sings-desha amenn
+The pharaohs
+o-o
+commissioned
+o-o
+statues
+o-o
+of themselves.
+sentence-next
+o-o
+That too
+o-o
+was magical.
+sentence-next
+o-o
+Leaping ahead
+o-o
+in time,
+o-o
+that's why
 o-o
 Galileo
 o-o
-was a threat to the
+was a
 o-o
-Catholic Church.
+threat to the
+o-o
+Catholic
+o-o
+Church.
 end-lyric
 
 ambee sings-damien amenn
@@ -722,11 +754,11 @@ and their
 o-o
 congregations
 o-o
-declined
+shrank in size
 o-o
 if they
 o-o
-promoted
+inspired
 o-o
 pilgrimages
 o-o
@@ -788,9 +820,13 @@ education,
 o-o
 government,
 o-o
-Disneyland,
+and
 o-o
-and the
+Disneyland.
+end-lyric
+
+ambee sings-desha amenn
+Plus the
 o-o
 Hallmark
 o-o
@@ -953,7 +989,9 @@ by unlocking
 o-o
 locked hyphen-here up
 o-o
-nail clippers.
+cans of
+o-o
+spray paint.
 end-lyric
 
 ambee sings-damien amenn
