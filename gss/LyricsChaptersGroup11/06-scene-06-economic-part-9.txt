@@ -1,3 +1,367 @@
+ambee sings-desha amenn
+So stocks are
+o-o
+like an
+o-o
+over-inflated
+o-o
+balloon.
+sentence-next
+o-o
+Does that mean our
+o-o
+roller coaster
+o-o
+ride will soon
+o-o
+plummet?
+sentence-next
+o-o
+And the poor
+o-o
+will all die?
+end-lyric
+
+ambee sings-econhist amenn
+It's difficult
+o-o
+to predict when
+o-o
+it will drop
+o-o
+from its
+o-o
+recent
+o-o
+top.
+end-lyric
+
+ambee sings-damien amenn
+You said
+o-o
+economists
+o-o
+predict the future.
+end-lyric
+
+ambee sings-econhist amenn
+Knowing begin-italics what end-italics will
+o-o
+happen is
+o-o
+different
+o-o
+from knowing begin-italics when end-italics
+o-o
+those whats will
+o-o
+happen.
+sentence-next
+o-o
+Professors
+o-o
+of economics
+o-o
+focus on
+o-o
+rational
+o-o
+behavior.
+sentence-next
+o-o
+But successful
+o-o
+investors earn
+o-o
+lots of money
+o-o
+by knowing the
+o-o
+stock market
+o-o
+can stay
+o-o
+irrational
+o-o
+longer than
+o-o
+investors
+o-o
+can stay
+o-o
+solvent.
+end-lyric
+
+ambee sings-desha amenn
+Ah.
+sentence-next
+o-o
+Economists
+o-o
+assume people
+o-o
+are smart.
+sentence-next
+o-o
+This explains why
+o-o
+they,
+o-o
+and you,
+o-o
+probably
+o-o
+aren't wealthy.
+end-lyric
+
+ambee sings-econhist amenn
+Our math proofs
+o-o
+do have
+o-o
+some goofs.
+sentence-next
+o-o
+After all,
+o-o
+measuring
+o-o
+stupidity
+o-o
+is tricky.
+end-lyric
+
+ambee sings-damien amenn
+Speaking of
+o-o
+morons,
+o-o
+why doesn't
+o-o
+the economy
+o-o
+work for
+o-o
+hard workers
+o-o
+like me?
+sentence-next
+o-o
+The numbers lie.
+sentence-next
+o-o
+They say
+o-o
+everything's
+o-o
+hunky dory.
+sentence-next
+o-o
+Is this an example
+o-o
+of mathiness?
+end-lyric
+
+ambee sings-econhist amenn
+I don't know what
+o-o
+mathiness is.
+sentence-next
+o-o
+But numbers can
+o-o
+be deceptive.
+sentence-next
+o-o
+What many people
+o-o
+overlook is that
+o-o
+the unemployment
+o-o
+rate that's in the news
+o-o
+just counts people
+o-o
+who are now getting
+o-o
+unemployment
+o-o
+benefits.
+end-lyric
+
+ambee sings-desha amenn
+Those benefits
+o-o
+run out after a
+o-o
+few months of having
+o-o
+no job. I've learned
+o-o
+that from
+o-o
+experience.
+sentence-next
+o-o
+So unemployment
+o-o
+is actually higher,
+o-o
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes, it's higher.
+end-lyric
+
+ambee sings-damien amenn
+Why don't economists
+o-o
+measure that?
+sentence-next
+o-o
+The real unemployment
+o-o
+rate.
+end-lyric
+
+ambee sings-econhist amenn
+The government
+o-o
+does measure that
+o-o
+as well.
+sentence-next
+o-o
+But most
+o-o
+newspapers and
+o-o
+TV stations
+o-o
+report the
+o-o
+unemployment
+o-o
+rate
+o-o
+that
+o-o
+government
+o-o
+officials call
+o-o
+attention to.
+end-lyric
+
+ambee sings-desha amenn
+Since wealthy
+o-o
+business owners
+o-o
+own news sources,
+o-o
+they probably
+o-o
+tell their
+o-o
+reporters
+o-o
+to report the
+o-o
+lower rate.
+sentence-next
+o-o
+That gives
+o-o
+consumers
+o-o
+the confidence
+o-o
+to spend dollars
+o-o
+more freely.
+sentence-next
+o-o
+And that gives
+o-o
+the wealthy
+o-o
+more sales,
+o-o
+more money.
+end-lyric
+
+ambee sings-damien amenn
+I thought it was
+o-o
+just the
+o-o
+government
+o-o
+being sneaky.
+end-lyric
+
+ambee sings-econhist amenn
+It's both.
+sentence-next
+o-o
+The government
+o-o
+knows that if they
+o-o
+call attention
+o-o
+to the higher
+o-o
+actual
+o-o
+unemployment
+o-o
+rate,
+o-o
+then consumers
+o-o
+will have less
+o-o
+optimism.
+sentence-next
+o-o
+And when there's
+o-o
+less optimism
+o-o
+consumers
+o-o
+spend less money,
+o-o
+and that loops
+o-o
+back through
+o-o
+businesses
+o-o
+to fewer jobs
+o-o
+and lower
+o-o
+salaries
+o-o
+for other
+o-o
+employees,
+o-o
+who then spend
+o-o
+less money.
+sentence-next
+o-o
+That's a powerful
+o-o
+feedback loop.
+end-lyric
+
 ambee sings-damien amenn
 I thought a
 o-o
@@ -605,207 +969,4 @@ o-o
 with a bigger
 o-o
 tax break.
-end-lyric
-
-ambee sings-damien amenn
-Brilliant!
-sentence-next
-o-o
-name-desha
-o-o
-you can put on those
-o-o
-sunglasses now.
-end-lyric
-
-ambee sings-desha amenn
-Almost.
-sentence-next
-o-o
-The wage gap
-o-o
-between women
-o-o
-and men
-o-o
-also must
-o-o
-be crushed.
-end-lyric
-
-ambee sings-econhist amenn
-This wage hyphen-here gap
-o-o
-calculation
-o-o
-also covers
-o-o
-most of that
-o-o
-gender gap.
-sentence-next
-o-o
-Remember,
-o-o
-a higher
-o-o
-percentage
-o-o
-of women
-o-o
-choose to become
-o-o
-dental hygienists
-o-o
-rather than
-o-o
-dentists,
-o-o
-and become
-o-o
-performers
-o-o
-on Broadway
-o-o
-rather than
-o-o
-traders
-o-o
-on Wall Street.
-end-lyric
-
-ambee sings-desha amenn
-And public
-o-o
-school teachers
-o-o
-rather than
-o-o
-rich nitwit
-o-o
-real estate
-o-o
-developers.
-sentence-next
-o-o
-Yes,
-o-o
-this fits.
-sentence-next
-o-o
-Finally
-o-o
-women
-o-o
-will get a
-o-o
-long overdue
-o-o
-pay lift!
-sentence-next
-o-o
-I'm seeing
-o-o
-a bright
-o-o
-future now.
-end-lyric
-
-ambee sings-damien amenn
-And I bet
-o-o
-there would be
-o-o
-fewer labor
-o-o
-strikes,
-o-o
-right?
-sentence-next
-o-o
-That would
-o-o
-further increase
-o-o
-efficiency.
-end-lyric
-
-ambee sings-econhist amenn
-You're the one
-o-o
-who is brilliant
-o-o
-now.
-sentence-next
-o-o
-Also it will
-o-o
-better reward
-o-o
-employees
-o-o
-who make life
-o-o
-better for
-o-o
-customers,
-o-o
-clients, and
-o-o
-patients,
-o-o
-instead of
-o-o
-mostly
-o-o
-increasing
-o-o
-financial
-o-o
-income to
-o-o
-shareholders,
-o-o
-owners, and
-o-o
-managers.
-sentence-next
-o-o
-Plus,
-o-o
-lower hyphen-here paid
-o-o
-employees
-o-o
-tend to spend
-o-o
-more money
-o-o
-locally.
-sentence-next
-o-o
-Whereas
-o-o
-higher hyphen-here wage
-o-o
-managers
-o-o
-transfer
-o-o
-more money
-o-o
-to distant places.
-sentence-next
-o-o
-Like 
-o-o
-Disneyland,
-o-o
-Paris,
-o-o
-cyberspace,
-o-o
-and
-o-o
-outer space.
 end-lyric

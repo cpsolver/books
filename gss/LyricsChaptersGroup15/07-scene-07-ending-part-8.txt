@@ -1,403 +1,925 @@
-ambee sings-vc amenn
-Father, name-minister no-space ,
-o-o
-was just telling me
-o-o
-I need more love
-o-o
-in my life.
-sentence-next
-o-o
-You've brought your love
-o-o
-here for me to
-o-o
-appreciate.
-sentence-next
-o-o
-So go for it
-o-o
-you wise and also
-o-o
-stupid fools!
-end-lyric
-
 ambee sings-desha amenn
-In so many ways,
+Plus,
 o-o
-for far too long,
+more of the money
 o-o
-the world has been
+will go into
 o-o
-upside down.
+the local
+o-o
+economy.
 sentence-next
 o-o
-Now it's time to
+Remember
 o-o
-fight
+women tend
 o-o
-for what's right.
+to choose jobs
+o-o
+where they can help
+o-o
+children,
+o-o
+nurse folks
+o-o
+to better health,
+o-o
+help
+o-o
+customers,
+o-o
+and
+o-o
+sell toy
+o-o
+dinosaurs.
 sentence-next
 o-o
-And turn the world
+Currently
 o-o
-right hyphen-here side up!
-end-lyric
-
-ambee sings-vc amenn
-If it would help me,
-o-o
-or might inspire
-o-o
-a better eulogy
-o-o
-for me,
-o-o
-then perhaps
-o-o
-I can help make
-o-o
-that happen.
+those jobs pay less.
 sentence-next
 o-o
-Let's discuss this
+When those women
 o-o
-some more at my
+earn more,
 o-o
-lonely home.
-end-lyric
-
-ambee sings-desha amenn
-Can my
+they'll spend
 o-o
-Willie come?
-end-lyric
-
-ambee sings-vc amenn
-Of course!
+more of it
+o-o
+doing good things
+o-o
+for their family
+o-o
+and the
+o-o
+community.
 sentence-next
+That's way better
 o-o
-A party!
-sentence-next
+than managers
 o-o
-And not the
+and executives
 o-o
-political kind.
-sentence-next
+buying bigger 
 o-o
-I'll pay for
+fishing boats,
 o-o
-Chinese takeout.
-end-lyric
-
-ambee sings-desha amenn
-Father knows a
+and buying
 o-o
-good place for
+stupid lingerie
 o-o
-Chinese takeout.
-end-lyric
-
-ambee sings-minister amenn
-Oh yes,
+as if that
 o-o
-Foo Ken Good
+compensates
 o-o
-Palace.
-sentence-next
+for their failure
 o-o
-It's on southeast
+to understand
 o-o
-Ashinhole Avenue.
-end-lyric
-
-ambee sings-vc amenn
-begin-explain Chuckles. end-explain
-o-o
-name-minister
-o-o
-do you want
-o-o
-to come too?
-end-lyric
-
-ambee sings-minister amenn
-More sparks for
-o-o
-the fireworks?
-sentence-next
-o-o
-I'll decline.
-sentence-next
-o-o
-Yet I'm all in favor
-o-o
-of turning the world
-o-o
-right hyphen-here side up.
-sentence-next
-o-o
-After all,
-o-o
-turning things
-o-o
-right hyphen-here side up
-o-o
-is the purpose
-o-o
-of religion.
+what wives want.
 end-lyric
 
 ambee sings-damien amenn
-Holy guacamole!
+And there will be
+o-o
+fewer strikes
+o-o
+by workers.
 sentence-next
 o-o
-I never
+And fewer voters
 o-o
-realized
+pushing for,
 o-o
-that's
+what's that called,
 o-o
-religion's
+something like
 o-o
-grand prize.
+guaranteed income?
 end-lyric
 
 ambee sings-desha amenn
-Of course
+Universal basic income.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Finally
 o-o
-some churches
+we agree
 o-o
-need to
+on something.
+sentence-next
 o-o
-subtract out
+That idea doesn't
 o-o
-the corrupt
+deserve to
 o-o
-bits
+exist.
+end-lyric
+
+ambee sings-desha amenn
+And it wouldn't
 o-o
-for that
+be getting
 o-o
-description
+attention
 o-o
-to fit.
+if business
+o-o
+owners reduced
+o-o
+the wage gap.
+sentence-next
+o-o
+Remember
+o-o
+capitalism
+o-o
+is about supply
+o-o
+and demand.
+sentence-next
+o-o
+When you supply
+o-o
+better hyphen-here paying jobs
+o-o
+there will be lots
+o-o
+of demand
+o-o
+for those jobs
+o-o
+so you'll get
+o-o
+better hyphen-here qualified
+o-o
+applicants.
+sentence-next
+o-o
+In other words
+o-o
+tax credits can
+o-o
+incentivize
+o-o
+what the
+o-o
+Dalai Lama calls
+o-o
+compassion.
+end-lyric
+
+ambee sings-minister amenn
+Translating
+o-o
+the Dalai Lama's
+o-o
+wise insights
+o-o
+into tax credits.
+sentence-next
+o-o
+I love it!
 end-lyric
 
 ambee sings-vc amenn
-I'm learning
+name-minister no-space ,
 o-o
-a lot today.
+also
+o-o
+you were right
+o-o
+about talking.
 sentence-next
 o-o
-Now I better
+Before today
 o-o
-realize
+I thought
 o-o
-I mistook
+Democrats
 o-o
-jealousy
-o-o
-for admiration.
+were evil.
 sentence-next
 o-o
-And I mistook
+Now I see
 o-o
-admiration
+it's not that
 o-o
-to be a weak
+simple.
+end-lyric
+
+ambee sings-damien amenn
+There are
 o-o
-kind of love.
+nut jobs
+o-o
+in both parties.
+end-lyric
+
+ambee sings-desha amenn
+I'm now
+o-o
+registered
+o-o
+as a
+o-o
+Republican.
 sentence-next
 o-o
-People want a
+So I can vote in
+o-o
+Republican
+o-o
+primaries.
+end-lyric
+
+ambee sings-vc amenn
+So you're a
+o-o
+Republican?
+end-lyric
+
+ambee sings-desha amenn
+I'll still vote for
+o-o
+Democratic
+o-o
+candidates
+o-o
+in general
+o-o
+elections.
+sentence-next
+o-o
+But now,
+o-o
+in the primary,
+o-o
+I'll vote for
+o-o
+the least
+o-o
+repugnant
+o-o
+Republican
+o-o
+contestant
+o-o
+who has a chance
+o-o
+of getting
+o-o
+nominated.
+end-lyric
+
+ambee sings-damien amenn
+I might
+o-o
+do that too.
+sentence-next
+o-o
+Until we can get
+o-o
+fairness
+o-o
+and widespread
+o-o
+economic
+o-o
+prosperity
+o-o
+using ranked
+o-o
+choice ballots.
+end-lyric
+
+ambee sings-fiance amenn
+So is fairness
+o-o
+or economic
+o-o
+prosperity
+o-o
+more important
+o-o
+to you?
+end-lyric
+
+ambee sings-damien amenn
+Why can't we
+o-o
+get both?
+end-lyric
+
+ambee sings-fiance amenn
+Getting to the
+o-o
+point, do you want
+o-o
+to earn more money
+o-o
+so we can afford
+o-o
+maybe a few
+o-o
+luxuries in life?
+end-lyric
+
+ambee sings-damien amenn
+I want to build
+o-o
+a business that
+o-o
+provides something
+o-o
+that benefits the
+o-o
+customers.
+sentence-next
+o-o
+My original
+o-o
+plan was to
+o-o
+manufacture
+o-o
+my leaf gutter
+o-o
+cleaning tool
+o-o
+so that fewer
+o-o
+people fall off
+o-o
+ladders
+o-o
+when cleaning their
+o-o
+gutters.
+sentence-next
+o-o
+Yet lately,
+o-o
+other inventions
+o-o
+have been popping
+o-o
+into my mind.
+sentence-next
+o-o
+Most are for the
+o-o
+kitchen food prep
+o-o
+appliance
+o-o
+someone told us
+o-o
+about.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Your mind is in
+o-o
+the gutter.
+sentence-next
+o-o
+None of that
+o-o
+makes sense.
+end-lyric
+
+ambee sings-vc amenn
+Mmm, I'm
+o-o
+beginning
+o-o
+to see the
+o-o
+value of
+o-o
+creating
+o-o
+that kind of
+o-o
+business
+o-o
+if it gets
+o-o
+taxed less.
+end-lyric
+
+ambee sings-desha amenn
+And fewer toes
+o-o
+would get
+o-o
+stepped on.
+end-lyric
+
+ambee sings-damien amenn
+And fewer fingers
+o-o
+would get cut
+o-o
+doing food prep.
+end-lyric
+
+ambee sings-vc amenn
+As a
+o-o
+bachelor,
+o-o
+a kitchen
+o-o
+food prep machine
+o-o
+sounds useful.
+sentence-next
+o-o
+Especially
+o-o
+now that
+o-o
+takeout orders
+o-o
+will be rare,
+o-o
+ice cream
+o-o
+no longer
+o-o
+counts as food,
+o-o
+and I'll
+o-o
+consume more
+o-o
+carrots
+o-o
+and fruit
+o-o
+smoothies.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+So name-damien no-space ,
+o-o
+do you agree with
+o-o
+this woman,
+o-o
+what's her name.
+end-lyric
+
+ambee sings-desha amenn
+name-desha no-space .
+end-lyric
+
+ambee sings-damien amenn
+It makes sense to me sir.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+So name-fiance no-space ,
+o-o
+do you still want
+o-o
+this guy as your
+o-o
+future husband?
+end-lyric
+
+ambee sings-fiance amenn
+So name-damien no-space ,
+o-o
+do you still want
+o-o
+to work hard so
+o-o
+we can enjoy a
+o-o
+nice lifestyle?
+end-lyric
+
+ambee sings-damien amenn
+Willin' to work hard,
+o-o
+that I'm willin'
+o-o
+to do.
+sentence-next
+o-o
+But how nice of
+o-o
+a lifestyle
+o-o
+do ya have
+o-o
+in mind?
+end-lyric
+
+ambee sings-fiance amenn
+Just a cute
+o-o
+three hyphen-here bedroom
+o-o
+house with a
+o-o
+fireplace.
+sentence-next
+o-o
+And of course
+o-o
+a back yard,
+o-o
+or front yard,
+o-o
+for a dog.
+sentence-next
+o-o
+But it can be
+o-o
+smaller than a
+o-o
+Saint Bernard.
+sentence-next
+o-o
+And a
+o-o
+comfortable car
+o-o
+for road trips
+o-o
+and errands.
+sentence-next
+o-o
+And sometimes a
+o-o
+trip to London
+o-o
+or Paris.
+end-lyric
+
+ambee sings-damien amenn
+I thought our plan
+o-o
+was to enjoy time
+o-o
+at home eating
+o-o
+healthy food,
+o-o
+and relaxing on
+o-o
+the weekend,
+o-o
+plus spending
+o-o
+time with friends.
+end-lyric
+
+ambee sings-fiance amenn
+Of course
+o-o
+all of that too.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+And of course
+o-o
+your mother and I
+o-o
+want grandchildren.
+end-lyric
+
+ambee sings-damien amenn
+If the worlds of
+o-o
+politics,
+o-o
+and business,
+o-o
+and the economy,
+o-o
+were not so
+o-o
+upside down,
+o-o
+then all of that,
+o-o
+plus a tiara,
+o-o
+would be within
+o-o
+our reach.
+sentence-next
+o-o
+But now we're living
+o-o
+during a time
+o-o
+of transition.
+sentence-next
+o-o
+I'm afraid
+o-o
+we could enter
+o-o
+a new dark age
+o-o
+if we stay on
+o-o
+the path we're on.
+sentence-next
+o-o
+Instead I want
+o-o
+to help make
+o-o
+the world a
+o-o
+better place
+o-o
+for everyone's
+o-o
+grandkids,
+o-o
+even if that means
+o-o
+I, or we,
+o-o
+have to make
+o-o
+a few
+o-o
+sacrifices.
+end-lyric
+
+ambee sings-fiance amenn
+Oh father, what should
+o-o
+I do?
+sentence-next
+o-o
+This isn't
+o-o
+the way I want
+o-o
+things to be.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+You are my precious
+o-o
+princess so I'll
+o-o
+continue to give
+o-o
+you money if
+o-o
+that's what it takes
+o-o
+to keep you happy.
+sentence-next
+o-o
+I'll even help
+o-o
+support the two of you
+o-o
+financially
+o-o
+if that's necessary.
+end-lyric
+
+ambee sings-fiance amenn
+This puts me in
+o-o
+an awkward place.
+end-lyric
+
+ambee sings-damien amenn
+The fact that you
+o-o
+have to think about
+o-o
+which to choose
+o-o
+tells me it's
+o-o
+me who should lose.
+sentence-next
+o-o
+And your father's
+o-o
+offer of
 o-o
 financial
 o-o
-connection
+support
 o-o
-with me,
+basically
 o-o
-but then they'd
+is bribery
 o-o
-be happy to
+to distract me
 o-o
-push me aside,
+from the issue
 o-o
-or even
-o-o
-wish me dead,
-o-o
-to transfer some
-o-o
-of my wealth
-o-o
-to themselves.
-sentence-next
-o-o
-Alas,
-o-o
-my world has been
-o-o
-upside down.
-sentence-next
-o-o
-It's not the way
-o-o
-I want things
-o-o
-to be.
-sentence-next
-o-o
-I want love
-o-o
-like
-o-o
-everyone else.
-sentence-next
-o-o
-I too want to help
-o-o
-begin to turn
-o-o
-the world
-o-o
-right hyphen-here side up.
-end-lyric
-
-ambee sings-desha amenn
-I see you have
-o-o
-a good heart.
-sentence-next
-o-o
-Now you can make
-o-o
-a wiser start.
-end-lyric
-
-ambee sings-damien amenn
-Yes we'll visit
-o-o
-you at your home.
-sentence-next
-o-o
-Surely there's
-o-o
-a way to merge
-o-o
-what we all want.
-sentence-next
-o-o
-Hopefully
-o-o
-we can find a way
-o-o
-to promote
-o-o
-pairwise vote
-o-o
-counting
-o-o
-to turn the world
-o-o
-right hyphen-here side up!
-end-lyric
-
-ambee sings-desha amenn
-Yes!
-sentence-next
-o-o
-And let's start
-o-o
-by joining forces
-o-o
-together!
-sentence-next
-o-o
-begin-explain They kiss again. end-explain
+of corruption.
 end-lyric
 
 ambee sings-minister amenn
-I can see
+It's clear to me
 o-o
-the sparks
+that you love one
 o-o
-flying
+another, so
 o-o
-already.
-end-lyric
-
-ambee sings-vc amenn
-I do enjoy
+don't have doubt
 o-o
-fireworks.
+about your love.
 end-lyric
 
 ambee sings-desha amenn
-So do I!
+There are plenty
+o-o
+of single jerks
+o-o
+with lots of money.
 sentence-next
-o-o
-begin-explain name-desha reaches out and holds a hand with name-vc no-space . end-explain
-o-o
-Speaking of which,
 o-o
 ...
-sentence-next
 o-o
 name-vc no-space ,
 o-o
-I won't stop
+I'm not
 o-o
-kicking
-o-o
-your ass.
-sentence-next
-o-o
-But in fairness
-o-o
-you're welcome
-o-o
-to try to
-o-o
-kick mine.
+including you.
 end-lyric
 
 ambee sings-vc amenn
-You can try to
-o-o
-step on my toes.
+No offense taken.
 sentence-next
 o-o
-Anything goes.
+And perhaps you're
+o-o
+a bit right.
 end-lyric
 
 ambee sings-desha amenn
-Deal!
+It's easy
+o-o
+to find a guy
+o-o
+who earns
+o-o
+good money
+o-o
+stepping on
+o-o
+people's toes.
 sentence-next
 o-o
-begin-explain name-desha goes back to put arm behind name-damien no-space . end-explain
+But if he's young
+o-o
+he'll pick you up
+o-o
+in a pickup truck
+o-o
+double parked,
+o-o
+engine revving,
+o-o
+and honking
+o-o
+his horn.
+sentence-next
+o-o
+Young mature men
+o-o
+are hard to find.
+sentence-next
+o-o
+So do you want
+o-o
+money or maturity?
+end-lyric
+
+ambee sings-fiance amenn
+I want both.
 end-lyric
 
 ambee sings-damien amenn
-Speaking of
+Then it's clear
 o-o
-kicking ass,
+you value money
 o-o
-I still want
+more than you value
 o-o
-to see your
+who I really am.
+sentence-next
 o-o
-begin-italics kick ass end-italics
+I'll clear out my
 o-o
-tattoo.
+things in a few days.
+end-lyric
+
+ambee sings-fiance amenn
+Can we still be friends?
+end-lyric
+
+ambee sings-damien amenn
+Of course, provided
+o-o
+I can also remain
+o-o
+friends with name-desha no-space .
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Since you won't become
+o-o
+my son hyphen-here in hyphen-here law
+o-o
+I won't insist
+o-o
+on you not being
+o-o
+friends with this ...
+end-lyric
+
+ambee sings-fiance amenn
+Skank.
+sentence-next
+o-o
+That's the word
+o-o
+I think you want.
 end-lyric
 
 ambee sings-desha amenn
-A private
+Father taught me
 o-o
-showing of her
+long ago that when
 o-o
-is in your
+someone criticizes
 o-o
-future.
+another it's
+o-o
+as if they're
+o-o
+pointing into
+o-o
+a mirror.
+sentence-next
+o-o
+Usually
+o-o
+the critic
+o-o
+deserves their own
+o-o
+criticism.
+end-lyric
+
+ambee sings-vc amenn
+Father, name-minister no-space ,
+o-o
+you've raised a great
+o-o
+daughter.
+sentence-next
+o-o
+name-father-of-fiance no-space ,
+o-o
+after I'm recovered
+o-o
+we can talk more
+o-o
+about our project.
+sentence-next
+o-o
+In the meantime,
+o-o
+I hate awkward
+o-o
+conversations,
+o-o
+and misty eyes
+o-o
+and tears that flow,
+o-o
+so it's time for
+o-o
+you,
+o-o
+name-father-of-fiance no-space ,
+o-o
+and your daughter
+o-o
+to go.
 end-lyric

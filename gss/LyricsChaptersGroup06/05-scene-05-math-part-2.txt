@@ -89,13 +89,13 @@ key concepts
 o-o
 are more
 o-o
-important
-o-o
-than spelling,
+important than
 o-o
 historical
 o-o
 battle details,
+o-o
+spelling,
 o-o
 and how to add
 o-o
@@ -497,13 +497,18 @@ You could clap
 o-o
 really loud for
 o-o
-your favorites,
+your favorites.
+sentence-next
 o-o
-and just pretend
+And just pretend
 o-o
 to clap for the
 o-o
-others.
+others,
+o-o
+without making
+o-o
+any sound.
 end-lyric
 
 ambee sings-damien amenn

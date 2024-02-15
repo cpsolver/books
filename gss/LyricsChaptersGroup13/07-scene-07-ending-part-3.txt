@@ -1,3 +1,235 @@
+ambee sings-father-of-fiance amenn
+She spends
+o-o
+way too much
+o-o
+of my hard hyphen-here earned
+o-o
+money buying
+o-o
+more and more
+o-o
+gawd hyphen-here da....
+sentence-next
+o-o
+er, ...
+sentence-next
+o-o
+overpriced
+o-o
+foolish
+o-o
+footwear!
+sentence-next
+o-o
+She thinks
+o-o
+the money
+o-o
+I earn
+o-o
+grows on trees!
+end-lyric
+
+ambee sings-vc amenn
+This is
+o-o
+interesting.
+sentence-next
+o-o
+She criticizes you
+o-o
+for something she does.
+sentence-next
+o-o
+And you're
+o-o
+criticizing
+o-o
+her for thinking
+o-o
+money grows
+o-o
+on trees.
+sentence-next
+o-o
+So,
+o-o
+according
+o-o
+to what father
+o-o
+just said,
+o-o
+you think that
+o-o
+money grows
+o-o
+on trees.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I work hard
+o-o
+to discover
+o-o
+which trees
+o-o
+have fruit
+o-o
+waiting to be
+o-o
+harvested.
+sentence-next
+o-o
+And I do
+o-o
+the hard work
+o-o
+of doing that
+o-o
+harvesting.
+end-lyric
+
+ambee sings-minister amenn
+Do you pick
+o-o
+as much as you can?
+sentence-next
+o-o
+Or do you leave
+o-o
+some fruit for
+o-o
+the next
+o-o
+hungry child,
+o-o
+woman,
+o-o
+or man
+o-o
+who comes along?
+end-lyric
+
+ambee sings-father-of-fiance amenn
+My family
+o-o
+needs as
+o-o
+much as I
+o-o
+can harvest.
+sentence-next
+o-o
+Other people
+o-o
+are too greedy.
+sentence-next
+o-o
+So I have to
+o-o
+work hard
+o-o
+to earn my
+o-o
+family's share.
+sentence-next
+o-o
+I'm not a
+o-o
+socialistic
+o-o
+dropout
+o-o
+waiting for
+o-o
+a handout,
+o-o
+or one of those
+o-o
+lazy 
+o-o
+job hyphen-here stealing
+o-o
+immigrants.
+end-lyric
+
+ambee sings-desha-firstuse amenn
+begin-explain Door opens and closes. end-explain
+o-o
+...
+sentence-next
+o-o
+Father what did
+o-o
+you mean by texting
+o-o
+the words
+o-o
+begin-italics Causing trouble
+o-o
+again? end-italics
+end-lyric
+
+ambee sings-fiance amenn
+She's the one!
+sentence-next
+o-o
+She's the nasty,
+o-o
+perverse,
+o-o
+foul hyphen-here mouthed bitch
+o-o
+who yelled at me.
+end-lyric
+
+ambee sings-minister amenn
+Did you curse?
+end-lyric
+
+ambee sings-desha amenn
+Quite the reverse.
+sentence-next
+o-o
+She threw some trash
+o-o
+toward the trash can
+o-o
+and it missed,
+o-o
+but she didn't
+o-o
+pick it up.
+sentence-next
+o-o
+I spoke up,
+o-o
+then she cursed.
+end-lyric
+
+ambee sings-fiance amenn
+As I told you then,
+o-o
+this hospital has
+o-o
+janitors whose job
+o-o
+it is to pick up
+o-o
+pieces of trash.
+sentence-next
+o-o
+Speaking of which,
+o-o
+maybe I should have
+o-o
+tossed you in with
+o-o
+the other trash.
+end-lyric
+
 ambee sings-minister amenn
 May I request
 o-o
@@ -664,414 +896,4 @@ o-o
 on real police
 o-o
 cases.
-end-lyric
-
-ambee sings-desha amenn
-Yes,
-o-o
-but races are changed
-o-o
-to protect
-o-o
-white supremacy.
-sentence-next
-o-o
-Those TV shows
-o-o
-always portray
-o-o
-district
-o-o
-attorneys
-o-o
-defending
-o-o
-white criminals,
-o-o
-the guilty ones.
-sentence-next
-o-o
-Yet in real life,
-o-o
-underpaid people
-o-o
-of color
-o-o
-more often get
-o-o
-arrested.
-sentence-next
-o-o
-And they,
-o-o
-not rich whites,
-o-o
-are stuck with
-o-o
-district
-o-o
-attorneys.
-sentence-next
-o-o
-The white
-o-o
-criminals,
-o-o
-the ones guilty
-o-o
-of money crimes,
-o-o
-hire slick lawyers
-o-o
-and get off
-o-o
-with no jail time.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-You still haven't
-o-o
-answered my
-o-o
-question.
-sentence-next
-o-o
-Why do churches
-o-o
-not pay property
-o-o
-taxes?
-end-lyric
-
-ambee sings-minister amenn
-Long ago
-o-o
-it was clear
-o-o
-that cities
-o-o
-with churches
-o-o
-had better
-o-o
-economic
-o-o
-prosperity.
-sentence-next
-o-o
-That followed
-o-o
-naturally
-o-o
-from what
-o-o
-churches
-o-o
-used to do.
-sentence-next
-o-o
-Which included
-o-o
-teaching
-o-o
-respect
-o-o
-for laws
-o-o
-written by
-o-o
-mayors and
-o-o
-kings.
-end-lyric
-
-ambee sings-desha amenn
-Remember
-o-o
-those laws
-o-o
-punished
-o-o
-tax evaders,
-o-o
-anyone
-o-o
-who littered
-o-o
-...
-o-o
-bare ground with
-o-o
-human turds,
-o-o
-and any
-o-o
-pregnant woman
-o-o
-who aborted
-o-o
-a male,
-o-o
-because that
-o-o
-would diminish
-o-o
-the king's
-o-o
-future army
-o-o
-size by one
-o-o
-soldier.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-I wish my
-o-o
-business
-o-o
-was rewarded
-o-o
-with low taxes
-o-o
-to thank me
-o-o
-for the benefits
-o-o
-I bring
-o-o
-to this city.
-end-lyric
-
-ambee sings-damien-firstuse amenn
-begin-explain Door opens and closes. end-explain
-o-o
-begin-explain He now uses better, but not perfect, pronunciation. end-explain
-o-o
-Hello!
-end-lyric
-
-ambee sings-fiance amenn
-Sweetheart,
-o-o
-I need you to
-o-o
-give me a ride
-o-o
-home because this
-o-o
-nasty woman
-o-o
-is being
-o-o
-obnoxious
-o-o
-to me.
-end-lyric
-
-ambee sings-damien amenn
-Hi Desha.
-end-lyric
-
-ambee sings-fiance amenn
-This is
-o-o
-the name-desha
-o-o
-you've been
-o-o
-telling me
-o-o
-about?
-sentence-next
-o-o
-The one you said
-o-o
-was like a
-o-o
-kid sister?
-sentence-next
-o-o
-This bitch
-o-o
-is looking
-o-o
-at you
-o-o
-with love in
-o-o
-her eyes.
-sentence-next
-o-o
-She's a
-o-o
-foul hyphen-here mouthed
-o-o
-spoiled
-o-o
-whore,
-o-o
-not a sister!
-end-lyric
-
-ambee sings-damien amenn
-Don't be ridiculous.
-sentence-next
-o-o
-She's got a boyfriend.
-end-lyric
-
-ambee sings-desha amenn
-I do not.
-end-lyric
-
-ambee sings-damien amenn
-Then who's the guy
-o-o
-named Willie?
-sentence-next
-o-o
-The guy you said
-o-o
-you're with.
-end-lyric
-
-ambee sings-desha amenn
-Willie is short for
-o-o
-Willamina.
-sentence-next
-o-o
-That's an awful
-o-o
-name to get stuck with.
-end-lyric
-
-ambee sings-damien amenn
-You said he,
-o-o
-er, she,
-o-o
-is your
-o-o
-partner.
-sentence-next
-o-o
-So are you,
-o-o
-well,
-o-o
-lesbians?
-end-lyric
-
-ambee sings-desha amenn
-We're both bisexual.
-end-lyric
-
-ambee sings-vc amenn
-Much much better
-o-o
-than Netflix.
-end-lyric
-
-ambee sings-fiance amenn
-You keep your claws
-o-o
-off of him!
-sentence-next
-o-o
-name-damien no-space ,
-o-o
-you are never
-o-o
-to see her
-o-o
-again!
-end-lyric
-
-ambee sings-damien amenn
-Well, ah,
-o-o
-I can't promise
-o-o
-anything.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-You're engaged
-o-o
-to my daughter
-o-o
-so I too forbid
-o-o
-you to ever see
-o-o
-this awful woman
-o-o
-again.
-end-lyric
-
-ambee sings-damien amenn
-She's helping me
-o-o
-to figure out
-o-o
-how I can earn
-o-o
-more money to
-o-o
-make your daughter
-o-o
-happy.
-end-lyric
-
-ambee sings-desha amenn
-I thought you were
-o-o
-trying to
-o-o
-figure out
-o-o
-how to reduce
-o-o
-corruption
-o-o
-in the
-o-o
-political
-o-o
-world.
-end-lyric
-
-ambee sings-damien amenn
-They're both the
-o-o
-same thing to me.
-sentence-next
-o-o
-I figured out
-o-o
-what's causing
-o-o
-endless waves
-o-o
-of corruption.
-sentence-next
-o-o
-Now I'm tryin'
-o-o
-to figure out
-o-o
-how to surf
-o-o
-those waves,
-o-o
-so I can start
-o-o
-my own business.
-sentence-next
-o-o
-I'll be the employer,
-o-o
-not the employee.
 end-lyric

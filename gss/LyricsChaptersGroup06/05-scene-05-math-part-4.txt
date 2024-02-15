@@ -416,9 +416,10 @@ arrest
 o-o
 for cerebral
 o-o
-torment
+torment.
+sentence-next
 o-o
-without written
+Without written
 o-o
 consent.
 sentence-next
@@ -508,12 +509,14 @@ That counting
 o-o
 method has
 o-o
-many
+several
 o-o
 different names.
 sentence-next
 o-o
-Here let's call it
+In the U.S.
+o-o
+it's called
 o-o
 instant runoff
 o-o
@@ -747,12 +750,10 @@ Fortunately
 o-o
 my fraction fears
 o-o
-have disappeared,
-o-o
-...
+have disappeared.
 sentence-next
 o-o
-for now.
+For now.
 end-lyric
 
 ambee sings-desha amenn

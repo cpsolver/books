@@ -594,7 +594,7 @@ sentence-next
 o-o
 Here, look at this
 o-o
-tape measure.
+ruler.
 end-lyric
 
 ambee sings-damien amenn
@@ -609,9 +609,10 @@ When I measure
 o-o
 I could write the
 o-o
-numbers as tenths
+numbers as tenths.
+sentence-next
 o-o
-or hundredths.
+Or hundredths.
 end-lyric
 
 ambee sings-mathprof amenn

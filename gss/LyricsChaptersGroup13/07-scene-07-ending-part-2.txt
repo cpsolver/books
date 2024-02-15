@@ -1,4 +1,137 @@
 ambee sings-vc amenn
+Now my head is
+o-o
+spinning.
+sentence-next
+o-o
+Without money
+o-o
+as a compass
+o-o
+I'm lost.
+sentence-next
+o-o
+And winning.
+sentence-next
+o-o
+That's the only
+o-o
+goal I know.
+end-lyric
+
+ambee sings-minister amenn
+Ah, yes,
+o-o
+winning.
+sentence-next
+o-o
+Parents and
+o-o
+teachers
+o-o
+use gold stars
+o-o
+to entice
+o-o
+kids to learn
+o-o
+to write.
+sentence-next
+o-o
+Employers use
+o-o
+employee hyphen-here of hyphen-here the hyphen-here month
+o-o
+perks to
+o-o
+motivate
+o-o
+employees
+o-o
+to obey their
+o-o
+alarm clocks.
+sentence-next
+o-o
+The movie
+o-o
+industry
+o-o
+and Broadway
+o-o
+use award galas
+o-o
+to promote
+o-o
+high hyphen-here priced
+o-o
+entertainment.
+sentence-next
+o-o
+But with
+o-o
+maturity
+o-o
+we leave behind
+o-o
+the gold stars,
+o-o
+the shiny
+o-o
+trophies,
+o-o
+and even the
+o-o
+dream of
+o-o
+attracting a
+o-o
+huge audience.
+sentence-next
+o-o
+The real prizes
+o-o
+are learning
+o-o
+and putting
+o-o
+smiles
+o-o
+in people's
+o-o
+eyes.
+end-lyric
+
+ambee sings-vc amenn
+How do I win
+o-o
+the game of
+o-o
+spirituality?
+end-lyric
+
+ambee sings-minister amenn
+Spirituality's
+o-o
+trophy
+o-o
+is joy.
+sentence-next
+o-o
+Unlike money
+o-o
+and power,
+o-o
+ripping joy
+o-o
+from someone
+o-o
+doesn't give you
+o-o
+more of it.
+end-lyric
+
+ambee sings-vc amenn
 Can you give me
 o-o
 a spiritual
@@ -819,236 +952,4 @@ o-o
 entire closet
 o-o
 just for her shoes.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-She spends
-o-o
-way too much
-o-o
-of my hard hyphen-here earned
-o-o
-money buying
-o-o
-more and more
-o-o
-gawd hyphen-here da....
-sentence-next
-o-o
-er, ...
-sentence-next
-o-o
-overpriced
-o-o
-foolish
-o-o
-footwear!
-sentence-next
-o-o
-She thinks
-o-o
-the money
-o-o
-I earn
-o-o
-grows on trees!
-end-lyric
-
-ambee sings-vc amenn
-This is
-o-o
-interesting.
-sentence-next
-o-o
-She criticizes you
-o-o
-for something she does.
-sentence-next
-o-o
-And you're
-o-o
-criticizing
-o-o
-her for thinking
-o-o
-money grows
-o-o
-on trees.
-sentence-next
-o-o
-So,
-o-o
-according
-o-o
-to what father
-o-o
-just said,
-o-o
-you think that
-o-o
-money grows
-o-o
-on trees.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-I work hard
-o-o
-to discover
-o-o
-which trees
-o-o
-have fruit
-o-o
-waiting to be
-o-o
-harvested.
-sentence-next
-o-o
-And I do
-o-o
-the hard work
-o-o
-of doing that
-o-o
-harvesting.
-end-lyric
-
-ambee sings-minister amenn
-Do you pick
-o-o
-as much as you can?
-sentence-next
-o-o
-Or do you leave
-o-o
-some fruit for
-o-o
-the next
-o-o
-hungry child,
-o-o
-woman,
-o-o
-or man
-o-o
-who comes along?
-end-lyric
-
-ambee sings-father-of-fiance amenn
-My family
-o-o
-needs as
-o-o
-much as I
-o-o
-can harvest.
-sentence-next
-o-o
-Other people
-o-o
-are too greedy.
-sentence-next
-o-o
-So I have to
-o-o
-work hard
-o-o
-to earn my
-o-o
-family's share.
-sentence-next
-o-o
-I'm not a
-o-o
-socialistic
-o-o
-dropout
-o-o
-waiting for
-o-o
-a handout,
-o-o
-or one of those
-o-o
-lazy 
-o-o
-job hyphen-here stealing
-o-o
-immigrants.
-end-lyric
-
-ambee sings-desha-firstuse amenn
-begin-explain Door opens and closes. end-explain
-o-o
-...
-sentence-next
-o-o
-Father what did
-o-o
-you mean by texting
-o-o
-the words
-o-o
-begin-italics Causing trouble
-o-o
-again? end-italics
-end-lyric
-
-ambee sings-fiance amenn
-She's the one!
-sentence-next
-o-o
-She's the nasty,
-o-o
-perverse,
-o-o
-foul hyphen-here mouthed bitch
-o-o
-who yelled at me.
-end-lyric
-
-ambee sings-minister amenn
-Did you curse?
-end-lyric
-
-ambee sings-desha amenn
-Quite the reverse.
-sentence-next
-o-o
-She threw some trash
-o-o
-toward the trash can
-o-o
-and it missed,
-o-o
-but she didn't
-o-o
-pick it up.
-sentence-next
-o-o
-I spoke up,
-o-o
-then she cursed.
-end-lyric
-
-ambee sings-fiance amenn
-As I told you then,
-o-o
-this hospital has
-o-o
-janitors whose job
-o-o
-it is to pick up
-o-o
-pieces of trash.
-sentence-next
-o-o
-Speaking of which,
-o-o
-maybe I should have
-o-o
-tossed you in with
-o-o
-the other trash.
 end-lyric
