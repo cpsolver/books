@@ -130,10 +130,36 @@ o-o
 begin-italics none of the above end-italics no-space ?
 end-lyric
 
-ambee sings-mathprof amenn
-Promote the
+ambee sings-desha amenn
+Maybe I should
 o-o
-adoption of
+register
+o-o
+as a Republican
+o-o
+since they
+o-o
+always win here.
+sentence-next
+o-o
+That way I get
+o-o
+influence
+o-o
+in Republican
+o-o
+primaries.
+end-lyric
+
+ambee sings-mathprof amenn
+That might help.
+sentence-next
+o-o
+Yet ultimately
+o-o
+the best way
+o-o
+is to promote
 o-o
 ranked choice ballots
 o-o
@@ -143,19 +169,11 @@ vote counting.
 end-lyric
 
 ambee sings-desha amenn
-So we should
+What should
 o-o
-protest!
-sentence-next
+our protest
 o-o
-With signs that say
-o-o
-...
-sentence-next
-o-o
-uh,
-o-o
-what should they say?
+signs say?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -238,19 +256,6 @@ o-o
 number of
 o-o
 Tik Tok videos.
-sentence-next
-o-o
-You even learn
-o-o
-with less delay
-o-o
-than some students
-o-o
-who take my class
-o-o
-named begin-italics Math
-o-o
-Hysteresis end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
@@ -298,5 +303,5 @@ the
 o-o
 political
 o-o
-status quo.
+status quo!
 end-lyric

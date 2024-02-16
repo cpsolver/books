@@ -528,7 +528,6 @@ o-o
 wouldn't lie
 o-o
 ...
-sentence-next
 o-o
 as much.
 end-lyric

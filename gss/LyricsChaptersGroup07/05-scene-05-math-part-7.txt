@@ -776,36 +776,40 @@ that promotes
 o-o
 what they call
 o-o
-begin-italics ranked choice end-italics
+begin-italics ranked choice
 o-o
-voting,
+voting end-italics no-space ,
 o-o
-but that name
+but they use
 o-o
-actually
+that name
 o-o
-covers two methods,
+with a very
 o-o
-instant runoff
+limited
 o-o
-voting and
+meaning
 o-o
-something called
+that confusingly
 o-o
-the single
+covers
 o-o
-transferable
+two counting
 o-o
-vote.
+methods.
 sentence-next
 o-o
-And ranked choice
+The broader
 o-o
-voting also
+meaning of
 o-o
-can refer to
+ranked choice
 o-o
-any method
+voting is
+o-o
+any counting
+o-o
+method
 o-o
 that uses
 o-o

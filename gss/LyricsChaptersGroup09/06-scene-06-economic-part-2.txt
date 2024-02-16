@@ -272,7 +272,7 @@ got so many votes.
 end-lyric
 
 ambee sings-damien amenn
-But he blames
+He blames
 o-o
 immigrants
 o-o
@@ -298,14 +298,16 @@ from India,
 o-o
 I too think
 o-o
-that's ironic.
+that's darkly
+o-o
+comic.
 sentence-next
 o-o
 Even worse,
 o-o
 for voters,
 o-o
-it's foolish
+it's moronic
 o-o
 to think
 o-o
@@ -480,13 +482,13 @@ lived.
 end-lyric
 
 ambee sings-damien amenn
-With a harem,
+I presume
 o-o
-not just with
+with a harem
 o-o
-worms and weavers,
+in addition to
 o-o
-I presume.
+weavers and worms.
 end-lyric
 
 ambee sings-econhist amenn

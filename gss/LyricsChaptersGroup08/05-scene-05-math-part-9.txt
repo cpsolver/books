@@ -158,7 +158,7 @@ o-o
 in marvelous ways.
 sentence-next
 o-o
-Yet it took our
+It took our
 o-o
 ancestors
 o-o
@@ -179,47 +179,6 @@ o-o
 of the digits
 o-o
 zero through nine.
-sentence-next
-o-o
-And more
-o-o
-centuries
-o-o
-passed as the
-o-o
-digit zero
-o-o
-traveled
-o-o
-along the
-o-o
-silk road
-o-o
-through Muslims
-o-o
-in the
-o-o
-Middle East,
-o-o
-then to
-o-o
-northern
-o-o
-Africa,
-o-o
-then to a
-o-o
-future Pope
-o-o
-who overturned
-o-o
-the previous
-o-o
-belief
-o-o
-that using them
-o-o
-was a sin.
 sentence-next
 o-o
 In a similar way
@@ -811,7 +770,9 @@ gets to choose
 o-o
 who wins if
 o-o
-neither candidate
+neither major
+o-o
+candidate
 o-o
 gets half the
 o-o

@@ -630,7 +630,7 @@ Yet this
 o-o
 counting method
 o-o
-is flawed.
+isn't flawless.
 sentence-next
 o-o
 Instant
@@ -682,26 +682,19 @@ o-o
 election.
 sentence-next
 o-o
-Although that's
+So when
 o-o
-just two failures
+eliminating
 o-o
-out of hundreds,
+candidates
 o-o
-we can do
+one by one,
 o-o
-better.
-sentence-next
+which candidate
 o-o
-So which
+is always the
 o-o
-candidate
-o-o
-should be the
-o-o
-first to be
-o-o
-eliminated?
+least popular?
 end-lyric
 
 ambee sings-damien amenn

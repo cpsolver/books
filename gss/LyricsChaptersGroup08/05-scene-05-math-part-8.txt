@@ -101,51 +101,17 @@ by.
 end-lyric
 
 ambee sings-desha amenn
-Of course
+You're
 o-o
-the biggest
+disinfected
 o-o
-campaign
-o-o
-contributors
-o-o
-don't want
-o-o
-anyone
-o-o
-to cut the
-o-o
-puppet strings
-o-o
-they use to
-o-o
-control
-o-o
-politicians.
-sentence-next
-o-o
-And their minions,
-o-o
-the insiders
-o-o
-within the two
-o-o
-political
-o-o
-parties,
-o-o
-don't want to
-o-o
-get fired.
-sentence-next
-o-o
-Or lose their
-o-o
-perks.
+now.
 end-lyric
 
 ambee sings-damien amenn
-Why isn't the
+Now I wonder
+o-o
+why doesn't the
 o-o
 benefit
 o-o
@@ -153,7 +119,7 @@ of greater
 o-o
 fairness
 o-o
-attracting
+attract
 o-o
 voters like a
 o-o
@@ -279,17 +245,13 @@ Right.
 end-lyric
 
 ambee sings-desha amenn
-But you haven't
+What's so special
 o-o
-explained why
-o-o
-you're pointing
-o-o
-out these nine
+about these nine
 o-o
 stacks of
 o-o
-colored blocks.
+colored blocks?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -352,7 +314,7 @@ matters.
 end-lyric
 
 ambee sings-mathprof amenn
-Definitely.
+Exactly.
 sentence-next
 o-o
 And yet,
@@ -532,7 +494,7 @@ diversity.
 end-lyric
 
 ambee sings-desha amenn
-Protection
+So this protects
 o-o
 against
 o-o
@@ -545,6 +507,15 @@ end-lyric
 
 ambee sings-mathprof amenn
 Right.
+end-lyric
+
+ambee sings-desha amenn
+Representation
+o-o
+for women!
+sentence-next
+o-o
+Finally!
 end-lyric
 
 ambee sings-damien amenn
@@ -579,7 +550,10 @@ magical!
 end-lyric
 
 ambee sings-desha amenn
-Wait.
+I love it!
+sentence-next
+o-o
+But wait.
 sentence-next
 o-o
 You haven't
@@ -617,13 +591,15 @@ If a party
 o-o
 dominates
 o-o
-any district,
+more than their share
 o-o
-the oppressed
+of districts,
+o-o
+the other
 o-o
 parties
 o-o
-will win more
+win all the
 o-o
 statewide
 o-o
