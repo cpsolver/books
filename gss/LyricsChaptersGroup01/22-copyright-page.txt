@@ -50,7 +50,7 @@ Version 2024-February-14
 end-standard-paragraph
 
 begin-standard-paragraph
-First Edition, ePub edition, published 2024.
+First Edition, ebook edition, published 2024.
 end-standard-paragraph
 
 begin-standard-paragraph

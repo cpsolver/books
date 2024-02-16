@@ -374,7 +374,7 @@ Plus,
 o-o
 in the case of
 o-o
-McDonalds,
+McDonald's,
 o-o
 they have
 o-o
@@ -887,7 +887,7 @@ yachts,
 o-o
 and
 o-o
-rendezvouz
+rendezvous
 o-o
 condos
 o-o

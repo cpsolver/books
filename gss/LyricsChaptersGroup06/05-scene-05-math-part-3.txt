@@ -225,9 +225,44 @@ ballot.
 end-lyric
 
 ambee sings-desha amenn
-What happens
+Is this what's called
 o-o
-if a joker
+ranked choice voting?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes and no.
+sentence-next
+o-o
+Different
+o-o
+people
+o-o
+use the words
+o-o
+begin-italics ranked choice voting end-italics
+o-o
+to mean different
+o-o
+things,
+o-o
+but those
+o-o
+differences
+o-o
+won't make sense
+o-o
+just yet.
+end-lyric
+
+ambee sings-desha amenn
+On this ranked
+o-o
+choice ballot,
+o-o
+what happens
+o-o
+when a joker
 o-o
 or dumb ass
 o-o
@@ -402,7 +437,7 @@ would take care of
 o-o
 converting
 o-o
-prefererence
+preference
 o-o
 levels
 o-o
