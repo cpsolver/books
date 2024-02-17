@@ -384,9 +384,11 @@ in the case of
 o-o
 McDonald's,
 o-o
-they have
+the corporation
 o-o
-an extortion
+has an
+o-o
+extortion
 o-o
 racket.
 sentence-next
@@ -432,19 +434,13 @@ valuable.
 end-lyric
 
 ambee sings-econhist amenn
-The supply
+Their tax break
 o-o
-and demand
+will be tiny,
 o-o
-of capitalism
+just like
 o-o
-will put that
-o-o
-business
-o-o
-out of
-o-o
-business.
+their income.
 end-lyric
 
 ambee sings-desha amenn

@@ -222,6 +222,16 @@ o-o
 community.
 end-lyric
 
+ambee sings-damien amenn
+And their
+o-o
+favorite
+o-o
+local
+o-o
+hair salon.
+end-lyric
+
 ambee sings-econhist amenn
 Here's another
 o-o
@@ -297,9 +307,58 @@ o-o
 vote counting.
 sentence-next
 o-o
-That will end
+So far it's
 o-o
-the big bad
+not yet been done
+o-o
+anywhere
+o-o
+in the states.
+sentence-next
+o-o
+And instant
+o-o
+runoff voting
+o-o
+has only been
+o-o
+adopted for
+o-o
+Congressional
+o-o
+elections
+o-o
+in just a few
+o-o
+states.
+sentence-next
+o-o
+And not yet for
+o-o
+any state
+o-o
+legislatures,
+o-o
+which is the
+o-o
+other place
+o-o
+where tax changes
+o-o
+can be
+o-o
+adopted.
+sentence-next
+o-o
+When election
+o-o
+reform is
+o-o
+done wisely,
+o-o
+that will end
+o-o
+the beastly
 o-o
 feedback
 o-o
@@ -307,9 +366,7 @@ loop that
 o-o
 controls
 o-o
-politicians,
-o-o
-if it's done right.
+politicians.
 end-lyric
 
 ambee sings-damien amenn
@@ -321,7 +378,7 @@ explanation
 o-o
 for how it should
 o-o
-be done right?
+be done wisely?
 end-lyric
 
 ambee sings-econhist amenn

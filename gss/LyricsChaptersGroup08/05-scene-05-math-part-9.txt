@@ -635,32 +635,44 @@ is choosing
 o-o
 which army
 o-o
-to fight with.
-sentence-next
+to join,
 o-o
-Choosing to join
+and fight with.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+voting for a
+o-o
+candidate
+o-o
+who can't win
+o-o
+is like
+o-o
+choosing to join
 o-o
 a small army
 o-o
-that will lose
+that will lose.
+sentence-next
+o-o
+That battle plan
 o-o
 makes it easier
 o-o
-for the biggest
+for a large
 o-o
-army
+disliked army
 o-o
 to destroy
 o-o
-a large army
+the large army
 o-o
 you like
 o-o
-more than
-o-o
-the biggest
-o-o
-army.
+better.
 end-lyric
 
 ambee sings-desha amenn
@@ -717,32 +729,52 @@ presidential
 o-o
 election,
 o-o
-if the incumbent
+if one of the two
 o-o
 will easily
 o-o
-get re hyphen-here elected,
+get elected,
 o-o
 I can vote
 o-o
 for a third hyphen-here party
 o-o
-candidate?
+candidate,
+o-o
+right?
 end-lyric
 
 ambee sings-mathprof amenn
-That's an
+No,
+o-o
+that's an
 o-o
 important
 o-o
-exception
+exception.
+sentence-next
 o-o
-because of three
+Presidential
+o-o
+elections
+o-o
+involve three
 o-o
 complications.
 sentence-next
 o-o
-The number gap
+Of course
+o-o
+electoral
+o-o
+votes
+o-o
+matter too.
+sentence-next
+o-o
+As a result,
+o-o
+the number gap
 o-o
 between the
 o-o
@@ -752,29 +784,34 @@ and Democrat
 o-o
 is put under
 o-o
-a microscope,
+a microscope.
+sentence-next
 o-o
-the
+And there's a
 o-o
-electoral
+hidden provision.
+sentence-next
 o-o
-vote count
+If none of the
 o-o
-matters too,
-o-o
-and the House
-o-o
-of Representatives
-o-o
-gets to choose
-o-o
-who wins if
-o-o
-neither major
-o-o
-candidate
+candidates
 o-o
 gets half the
 o-o
-electoral votes.
+electoral votes,
+o-o
+the House of
+o-o
+Representatives
+o-o
+gets to pick
+o-o
+the winner.
+sentence-next
+o-o
+And in that case
+o-o
+each state
+o-o
+gets just one vote.
 end-lyric
