@@ -286,9 +286,14 @@ o-o
 politicians.
 sentence-next
 o-o
-Like puppets,
+Like puppets.
+sentence-next
 o-o
-er, well, like
+Er,
+o-o
+well,
+o-o
+like
 o-o
 I'm not sure what.
 end-lyric
@@ -649,9 +654,10 @@ sentence-next
 o-o
 There was just
 o-o
-one election,
+one election.
+sentence-next
 o-o
-the one we
+The one we
 o-o
 now call the
 o-o

@@ -128,9 +128,10 @@ Without money
 o-o
 my world feels
 o-o
-upside down,
+upside down.
+sentence-next
 o-o
-like a turtle
+Like a turtle
 o-o
 on it's back.
 end-lyric
@@ -156,9 +157,10 @@ it seems like
 o-o
 obscene
 o-o
-amounts,
+amounts.
+sentence-next
 o-o
-almost like
+Almost like
 o-o
 payouts spilling
 o-o
@@ -174,9 +176,10 @@ sentence-next
 o-o
 I can't afford
 o-o
-my own jet,
+my own jet.
+sentence-next
 o-o
-or a yacht.
+Or a yacht.
 sentence-next
 o-o
 Not there yet.
@@ -205,9 +208,10 @@ You've got to treat
 o-o
 other people
 o-o
-with respect,
+with respect.
+sentence-next
 o-o
-begin-italics before end-italics you step
+begin-italics Before end-italics you step
 o-o
 on their toes.
 sentence-next
@@ -344,21 +348,27 @@ capitalist.
 end-lyric
 
 ambee sings-vc amenn
-And investor,
+And investor.
+sentence-next
 o-o
-and venture capitalist,
+And venture
 o-o
-and part hyphen-here time
+capitalist.
+sentence-next
+o-o
+And part hyphen-here time
 o-o
 commodity
 o-o
-trader,
+trader.
+sentence-next
 o-o
-plus business
+Plus business
 o-o
-owner,
+owner.
+sentence-next
 o-o
-which are
+Those are
 o-o
 what I am.
 end-lyric
@@ -396,9 +406,10 @@ end-lyric
 ambee sings-vc amenn
 That way money
 o-o
-was stored in banks,
+was stored in banks.
+sentence-next
 o-o
-not in pockets
+Not in pockets
 o-o
 nor in bags
 o-o
@@ -416,7 +427,6 @@ o-o
 marauding
 o-o
 desperadoes.
-o-o
 end-lyric
 
 ambee sings-damien amenn
@@ -429,7 +439,9 @@ profession
 o-o
 back when
 o-o
-swashbuckling exams
+swashbuckling
+o-o
+exams
 o-o
 were open
 o-o
@@ -468,9 +480,10 @@ is lawyers?
 end-lyric
 
 ambee sings-vc amenn
-Oh no,
+Oh no.
+sentence-next
 o-o
-today's lawyers
+Today's lawyers
 o-o
 are like
 o-o
@@ -479,15 +492,16 @@ sentence-next
 o-o
 They write
 o-o
-documents,
+documents
 o-o
-but on paper
+on paper.
+sentence-next
 o-o
-instead of on
+That's much more
 o-o
-parchment,
+portable
 o-o
-or clay tablets,
+than clay tablets
 o-o
 or pyramid
 o-o
@@ -501,9 +515,10 @@ choose where to
 o-o
 put the money
 o-o
-you've got,
+you've got?
+sentence-next
 o-o
-to get more?
+To get more?
 sentence-next
 o-o
 So you don't
@@ -555,9 +570,10 @@ The high-profit one
 o-o
 has to compensate
 o-o
-for the other eight,
+for the other eight.
+sentence-next
 o-o
-the ones that flop.
+The ones that flop.
 sentence-next
 o-o
 Like Enron,
@@ -574,15 +590,20 @@ end-lyric
 ambee sings-damien amenn
 So you're seekin'
 o-o
-the one big standout
+the one big
 o-o
-you can brag about?
+standout
+o-o
+you can
+o-o
+brag about?
 end-lyric
 
 ambee sings-vc amenn
-Ah, yes,
+Ah, yes.
+sentence-next
 o-o
-the unicorn.
+The unicorn.
 sentence-next
 o-o
 The one that
@@ -599,7 +620,9 @@ o-o
 would be the worst.
 sentence-next
 o-o
-Yes, one unicorn
+Yes,
+o-o
+one unicorn
 o-o
 in the forest
 o-o
@@ -621,17 +644,19 @@ small businesses
 o-o
 that march to
 o-o
-riches slowly,
+riches slowly.
+sentence-next
 o-o
-by making
+By making
 o-o
 something that
 o-o
 consumers
 o-o
-readily want,
+readily want.
+sentence-next
 o-o
-and selling
+And selling
 o-o
 a quality
 o-o
@@ -663,11 +688,10 @@ o-o
 customers want?
 sentence-next
 o-o
-Or crave,
+Or crave?
+sentence-next
 o-o
-like nicotine,
-o-o
-...
+Like nicotine,
 o-o
 'n chocolate
 o-o
@@ -706,9 +730,10 @@ I've invented a
 o-o
 tool for cleanin'
 o-o
-leaf gutters,
+leaf gutters.
+sentence-next
 o-o
-without gettin'
+Without gettin'
 o-o
 on a ladder.
 sentence-next
@@ -727,11 +752,13 @@ for that task?
 end-lyric
 
 ambee sings-vc amenn
-Nah, that would
+Nah.
+sentence-next
+That would be
 o-o
-be harder
+harder to
 o-o
-to advertise
+advertise
 o-o
 than a cordless
 o-o
@@ -747,13 +774,14 @@ get hurt
 o-o
 when they hit
 o-o
-the dirt
+the dirt.
+sentence-next
 o-o
-from fallin' off
+From fallin' off
 o-o
-a ladder while
-o-o
-cleanin'
+a ladder.
+sentence-next
+While cleanin'
 o-o
 a gutter.
 sentence-next
@@ -905,9 +933,12 @@ to succeed
 o-o
 is a big amount
 o-o
-of income,
+of income.
+sentence-next
 o-o
-plus customers and
+Plus customers
+o-o
+and
 o-o
 testimonials.
 sentence-next
@@ -937,9 +968,10 @@ for a loan.
 end-lyric
 
 ambee sings-vc amenn
-Ha,
+Ha!
+sentence-next
 o-o
-the bank
+The bank
 o-o
 officials
 o-o
@@ -949,11 +981,10 @@ earnestly
 o-o
 instead of
 o-o
-groan
+groan.
+sentence-next
 o-o
-...
-o-o
-out loud.
+Out loud.
 sentence-next
 o-o
 They might even
@@ -962,9 +993,10 @@ encourage
 o-o
 you to open
 o-o
-an account,
+an account.
+sentence-next
 o-o
-and get you to
+And get you to
 o-o
 fill out a
 o-o

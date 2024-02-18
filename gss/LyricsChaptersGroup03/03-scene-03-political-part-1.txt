@@ -50,28 +50,32 @@ Thank you for waiting.
 end-lyric
 
 ambee sings-damien amenn
-Thank you for your time Congressman name-politician-last no-space .
+Thank you
+o-o
+for your time
+o-o
+Congressman
+o-o
+name-politician-last no-space .
 end-lyric
 
 ambee sings-politician amenn
 Come into my
 o-o
-office
+office.
+sentence-next
 o-o
-...
-o-o
-and pardon
+And pardon
 o-o
 the mess.
 sentence-next
 o-o
 I keep hearing
 o-o
-promises
+promises.
+sentence-next
 o-o
-...
-o-o
-that someone
+That someone
 o-o
 will clean
 o-o
@@ -146,11 +150,10 @@ need to keep
 o-o
 our secrets
 o-o
-unknown
+unknown.
+sentence-next
 o-o
-...
-o-o
-from
+From
 o-o
 political
 o-o
@@ -174,11 +177,13 @@ ambee sings-damien amenn
 Deal!
 sentence-next
 o-o
-Powering down,
+Powering down.
+sentence-next
 o-o
-no live feed,
+No live feed.
+sentence-next
 o-o
-no recording.
+No recording.
 end-lyric
 
 ambee sings-politician amenn
@@ -217,11 +222,10 @@ you realize
 o-o
 we have to
 o-o
-tell lies
+tell lies.
+sentence-next
 o-o
-...
-o-o
-to voters.
+To voters.
 sentence-next
 o-o
 If we told
@@ -311,7 +315,10 @@ for the
 o-o
 political
 o-o
-right such as
+right.
+sentence-next
+o-o
+Such as
 o-o
 conservatives,
 o-o
@@ -685,7 +692,10 @@ the political down?
 end-lyric
 
 ambee sings-politician amenn
-No, that's just
+No.
+sentence-next
+o-o
+That's just
 o-o
 how I think of
 o-o
@@ -721,7 +731,9 @@ party.
 end-lyric
 
 ambee sings-damien amenn
-Even I can see that.
+Even I
+o-o
+can see that.
 end-lyric
 
 ambee sings-politician amenn

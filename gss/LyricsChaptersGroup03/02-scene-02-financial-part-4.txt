@@ -430,7 +430,9 @@ so freely.
 end-lyric
 
 ambee sings-damien amenn
-Ah yes, money
+Ah yes,
+o-o
+money
 o-o
 in politics.
 sentence-next
@@ -530,7 +532,7 @@ In the
 o-o
 general
 o-o
-election
+election,
 o-o
 Republican
 o-o
@@ -540,9 +542,10 @@ assume
 o-o
 Democrats
 o-o
-are dimwits,
+are dimwits.
+sentence-next
 o-o
-and Democratic
+And Democratic
 o-o
 voters
 o-o

@@ -139,9 +139,10 @@ o-o
 you contribute ....
 sentence-next
 o-o
-You mean, ...
+You mean, ....
+sentence-next
 o-o
-let's say some
+Let's say some
 o-o
 corporate
 o-o
@@ -151,10 +152,10 @@ give
 o-o
 fifty thousand
 o-o
-dollars, ...
+dollars.
 sentence-next
 o-o
-to the right
+To the right
 o-o
 politicians.
 sentence-next
@@ -408,7 +409,9 @@ accounting firms.
 end-lyric
 
 ambee sings-damien amenn
-That's, er,
+That's,
+o-o
+er,
 o-o
 a sweet deal.
 sentence-next
@@ -939,7 +942,9 @@ sweeteners.
 end-lyric
 
 ambee sings-damien amenn
-So cookies
+So sugar hyphen-here free
+o-o
+cookies
 o-o
 could be made
 o-o

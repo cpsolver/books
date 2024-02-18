@@ -1,7 +1,7 @@
 ambee sings-damien amenn
 If I were to
 o-o
-buy a house
+buy a house,
 o-o
 they'd loan for that.
 end-lyric
@@ -73,9 +73,10 @@ sentence-next
 o-o
 That path leads to
 o-o
-homelessness,
+homelessness.
+sentence-next
 o-o
-unless you have
+Unless you have
 o-o
 trustworthy
 o-o
@@ -93,9 +94,10 @@ end-lyric
 ambee sings-vc amenn
 They still do
 o-o
-a bit,
+a bit.
+sentence-next
 o-o
-occasionally.
+Occasionally.
 sentence-next
 o-o
 Mostly now they're
@@ -157,9 +159,10 @@ they're promises
 o-o
 to pay money if
 o-o
-something happens,
+something happens.
+sentence-next
 o-o
-like if interest
+Like if interest
 o-o
 rates rise or fall.
 end-lyric
@@ -216,19 +219,23 @@ o-o
 sail from the dock.
 sentence-next
 o-o
-Then, on return,
+Then,
+o-o
+on return,
 o-o
 if they returned,
 o-o
 the cargo was
 o-o
-sold, and the
+sold.
+sentence-next
+That's when
 o-o
-backer got his
+the backer got
 o-o
-share of the
+his share of
 o-o
-gold.
+the gold.
 end-lyric
 
 ambee sings-damien amenn
@@ -247,15 +254,16 @@ sentence-next
 o-o
 Until they got
 o-o
-swindled,
+swindled or
 o-o
 badly beaten
 o-o
 in a
 o-o
-casino,
+casino.
+sentence-next
 o-o
-or stuck with
+Or stuck with
 o-o
 alimony
 o-o
@@ -273,11 +281,14 @@ got more?
 end-lyric
 
 ambee sings-vc amenn
-Of course, 'cause
+Of course.
+sentence-next
 o-o
-he took the
+'Cause he took
 o-o
-biggest risk.
+the biggest
+o-o
+risk.
 sentence-next
 o-o
 Remember there
@@ -295,11 +306,12 @@ end-lyric
 ambee sings-damien amenn
 Those times
 o-o
-were cruel,
+were cruel and
 o-o
-barbaric,
+barbaric.
+sentence-next
 o-o
-and excitin'.
+And excitin'.
 end-lyric
 
 ambee sings-vc amenn
@@ -324,9 +336,10 @@ sentence-next
 o-o
 It's done by
 o-o
-lawyers
+lawyers.
+sentence-next
 o-o
-fighting with
+They fight with
 o-o
 legal
 o-o
@@ -349,9 +362,10 @@ they wear
 o-o
 colorful
 o-o
-neckties,
+neckties.
+sentence-next
 o-o
-or Victoria's
+Or Victoria's
 o-o
 Secret
 o-o
@@ -389,9 +403,10 @@ sentence-next
 o-o
 Some success,
 o-o
-financially,
+financially.
+sentence-next
 o-o
-so I can buy
+So I can buy
 o-o
 a fixer hyphen-here upper house,
 o-o
@@ -529,15 +544,17 @@ would put you
 o-o
 on the wealthy
 o-o
-map
+map.
+sentence-next
 o-o
-if you shift
+If you shift
 o-o
 the idolatry
 o-o
-to money,
+to money.
+sentence-next
 o-o
-instead of
+Instead of
 o-o
 focusing
 o-o
@@ -730,7 +747,9 @@ in politics,
 o-o
 what do ya get
 o-o
-from the politicians
+from the
+o-o
+politicians
 o-o
 you buy?
 end-lyric
@@ -887,6 +906,20 @@ getting bored?
 end-lyric
 
 ambee sings-vc amenn
+Not that kind
+o-o
+of board.
+end-lyric
+
+ambee sings-damien amenn
+Is it like
+o-o
+redwood or
+o-o
+cardboard?
+end-lyric
+
+ambee sings-vc amenn
 A board
 o-o
 of directors
@@ -903,13 +936,36 @@ o-o
 We represent
 o-o
 the shareholders.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+board is the name
+o-o
+of the table
+o-o
+where deciders
+o-o
+decide.
 sentence-next
 o-o
+I mean,
+o-o
+where
+o-o
+directors
+o-o
+direct.
+end-lyric
+
+ambee sings-vc amenn
 We can even fire
 o-o
-the CEO,
+the CEO.
+sentence-next
 o-o
-that's chief
+That's chief
 o-o
 executive
 o-o
@@ -1007,7 +1063,9 @@ before and after
 o-o
 at a fancy spot
 o-o
-with a date who's hot.
+with a date
+o-o
+who's hot.
 sentence-next
 o-o
 Or at least I
@@ -1050,9 +1108,10 @@ sentence-next
 o-o
 The paperwork's
 o-o
-a hassle,
+a hassle.
+sentence-next
 o-o
-but those sly tricks
+But those sly tricks
 o-o
 are legal.
 sentence-next

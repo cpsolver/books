@@ -73,11 +73,10 @@ Or my head.
 end-lyric
 
 ambee sings-fiance amenn
-That would put a dent
+That would put a dent.
+sentence-next
 o-o
-...
-o-o
-in paying next month's rent.
+In paying next month's rent.
 sentence-next
 o-o
 What's the matter?
@@ -88,11 +87,13 @@ I'm feelin' sadder
 o-o
 than a limpin'
 o-o
-seagull
+seagull.
+sentence-next
 o-o
-in winter
+In winter.
+sentence-next
 o-o
-in Seattle.
+In Seattle.
 end-lyric
 
 ambee sings-fiance amenn
@@ -133,7 +134,9 @@ the middle class.
 end-lyric
 
 ambee sings-fiance amenn
-Yeah, to gain
+Yeah.
+sentence-next
+To gain
 o-o
 that entrance
 o-o
@@ -169,13 +172,15 @@ in trouble?
 end-lyric
 
 ambee sings-damien amenn
-Nah,
+Nah.
+sentence-next
 o-o
-but he told me
+But he told me
 o-o
-some stuff,
+some stuff.
+sentence-next
 o-o
-about some
+About some
 o-o
 laws that're rough.
 end-lyric
@@ -189,9 +194,10 @@ can avoid?
 end-lyric
 
 ambee sings-damien amenn
-Yeah,
+Yeah.
+sentence-next
 o-o
-it's got me
+It's got me
 o-o
 annoyed.
 end-lyric
@@ -201,11 +207,12 @@ Some corporations
 o-o
 are sneakier than
 o-o
-pickpockets,
+pickpockets
 o-o
-con artists,
+and con artists.
+sentence-next
 o-o
-and kids giving
+And kids giving
 o-o
 away free
 o-o
@@ -261,13 +268,15 @@ democracy!
 end-lyric
 
 ambee sings-fiance amenn
-Yes we can vote,
+Yes we can vote.
+sentence-next
 o-o
-but most candidates
+But most candidates
 o-o
-are wimpy puppets,
+are wimpy puppets.
+sentence-next
 o-o
-or slimy con artists.
+Or slimy con artists.
 end-lyric
 
 ambee sings-damien amenn
@@ -282,7 +291,9 @@ the lesser fink.
 end-lyric
 
 ambee sings-fiance amenn
-Yeah it's a big kink
+Yeah.
+sentence-next
+It's a big kink
 o-o
 in democracy.
 end-lyric
@@ -295,9 +306,10 @@ o-o
 wealthy?
 sentence-next
 o-o
-We make a big fuss,
+We make a big fuss.
+sentence-next
 o-o
-yet the few rich
+Yet the few rich
 o-o
 outvote us.
 end-lyric
@@ -335,6 +347,7 @@ end-lyric
 
 ambee sings-fiance amenn
 Maybe it's hypnosis.
+sentence-next
 o-o
 Or the political ads
 o-o
@@ -470,7 +483,10 @@ Something's not right.
 end-lyric
 
 ambee sings-damien amenn
-Damn I wanna know
+Damn.
+sentence-next
+o-o
+I wanna know
 o-o
 whose hand
 o-o
@@ -492,9 +508,10 @@ end-lyric
 ambee sings-damien amenn
 I wanna be an
 o-o
-employer,
+employer.
+sentence-next
 o-o
-but I'm just an
+But I'm just an
 o-o
 employee.
 end-lyric
@@ -523,9 +540,10 @@ end-lyric
 ambee sings-fiance amenn
 My dental smile
 o-o
-gives us cheer,
+gives us cheer.
+sentence-next
 o-o
-but now when
+But now when
 o-o
 dining out we
 o-o
@@ -575,15 +593,17 @@ sentence-next
 o-o
 Maybe it does,
 o-o
-temporarily,
+temporarily.
+sentence-next
 o-o
-but not as fast
+But not as fast
 o-o
 as it drains
 o-o
-from our wallet
+from our wallet.
+sentence-next
 o-o
-just for the bare
+Just for the bare
 o-o
 necessities.
 sentence-next
@@ -637,7 +657,9 @@ behind our backs.
 end-lyric
 
 ambee sings-fiance amenn
-Yes, right in front
+Yes,
+o-o
+right in front
 o-o
 of our eyes.
 end-lyric

@@ -1,0 +1,77 @@
+begin-heading
+Special Preview Edition
+end-heading
+
+begin-standard-paragraph
+If you are not a resident of Oregon, please purchase the full ebook edition of
+begin-italics book-title end-italics
+through the usual ebook sources.
+sentence-next
+To find it by ISBN, search for
+book-isbn-no-hyphens
+no-space .
+end-standard-paragraph
+
+begin-standard-paragraph
+This special PDF version of
+begin-italics book-title end-italics
+is available to Oregonians at no cost to help Oregon voters learn about ranked choice voting.
+sentence-next
+The November 2024 Oregon ballot will include a referendum to adopt ranked choice voting for use in Oregon's elections for governor and Oregon's representatives in Congress!
+sentence-next
+Please vote to approve this referendum!
+end-standard-paragraph
+
+begin-standard-paragraph
+Oregon is making history as the first state in which the state legislature passed the bill to put this referendum on the ballot.
+sentence-next
+In all other states where ranked choice voting is used, voters had to gather signatures to get this reform on the ballot.
+sentence-next
+This referendum is wisely worded.
+sentence-next
+Election hyphen-here method experts throughout Oregon, including the author of this book, participated to ensure this referendum is well hyphen-here designed.
+sentence-next
+Adopting it is the first step toward dramatically increasing Oregon's economic prosperity far beyond relying on money spilling over from California and Washington.
+end-standard-paragraph
+
+begin-standard-paragraph
+Published by:
+line-break
+Solutions Through Innovation
+line-break
+PO Box 19003
+line-break
+Portland, OR 97280-0003
+line-break
+www.SolutionsCreative.com
+end-standard-paragraph
+
+begin-standard-paragraph
+&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.
+sentence-next
+No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means.
+sentence-next
+No text or images in this book may be used to train any artificial intelligence (AI) system.
+sentence-next
+The copyright notice in the full ebook edition does not apply to this PDF preview version.
+sentence-next
+So, really, begin-italics all rights are reserved end-italics for this PDF preview version!
+end-standard-paragraph
+
+begin-standard-paragraph
+The characters in this story are fictional, based on voices in the author's head, as clarified in the begin-italics About the Author end-italics section.
+sentence-next
+Any resemblance to actual people, other than the author, is entirely coincidental.
+sentence-next
+The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
+end-standard-paragraph
+
+begin-standard-paragraph
+The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
+sentence-next
+To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free) sources of information.
+end-standard-paragraph
+
+begin-standard-paragraph
+PDF preview version, 2024-February-17
+end-standard-paragraph

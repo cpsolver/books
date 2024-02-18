@@ -154,7 +154,9 @@ how do ya know
 o-o
 which candidates
 o-o
-to fund, 'n by
+to fund,
+o-o
+'n by
 o-o
 how much?
 end-lyric
@@ -263,9 +265,10 @@ end-lyric
 ambee sings-damien amenn
 Satisfaction
 o-o
-brought her back,
+brought her back.
+sentence-next
 o-o
-carryin' a rat.
+Carryin' a rat.
 sentence-next
 o-o
 Perhaps there's
@@ -463,9 +466,10 @@ o-o
 o-o
 person showing
 o-o
-respect,
+respect.
+sentence-next
 o-o
-then
+Then
 o-o
 step on toes,
 o-o
@@ -482,9 +486,10 @@ to you making
 o-o
 my wallet
 o-o
-even fatter,
+even fatter.
+sentence-next
 o-o
-so there's an
+So there's an
 o-o
 even bigger
 o-o
@@ -499,7 +504,7 @@ indulge in
 o-o
 some ice cream
 o-o
-right now
+right now,
 o-o
 to celebrate
 o-o

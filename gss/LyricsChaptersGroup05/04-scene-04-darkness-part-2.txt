@@ -313,8 +313,9 @@ end-lyric
 ambee sings-desha amenn
 At the age of
 o-o
-fourteen, ...
-sentence-next
+fourteen,
+o-o
+...
 o-o
 my mother died.
 sentence-next
@@ -486,7 +487,6 @@ o-o
 tons of that
 o-o
 ...
-sentence-next
 o-o
 shit.
 end-lyric
@@ -553,12 +553,10 @@ sentence-next
 o-o
 Not to mention
 o-o
-lying,
-o-o
-...
+lying.
 sentence-next
 o-o
-and littering.
+And littering.
 end-lyric
 
 ambee sings-damien amenn
@@ -683,7 +681,6 @@ ambee sings-damien amenn
 What the
 o-o
 ...
-sentence-next
 o-o
 poo?
 end-lyric
@@ -761,12 +758,10 @@ o-o
 in
 o-o
 ...
-sentence-next
 o-o
 super pupper
 o-o
 ...
-sentence-next
 o-o
 pooper
 o-o

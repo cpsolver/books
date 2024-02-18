@@ -15,7 +15,14 @@ end-comment
 
 
 ambee sings-desha-firstuse amenn
-You're way late. And don't call this a date.
+You're way late.
+sentence-next
+o-o
+And don't
+o-o
+call this
+o-o
+a date.
 end-lyric
 
 ambee sings-damien-firstuse amenn
@@ -364,9 +371,10 @@ the Bible
 o-o
 I've never
 o-o
-heard it,
+heard it.
+sentence-next
 o-o
-but I agree.
+But I agree.
 end-lyric
 
 ambee sings-desha amenn
@@ -378,9 +386,10 @@ Vote splittin's
 o-o
 at the root of
 o-o
-unfair elections,
+unfair elections.
+sentence-next
 o-o
-so do ya wanna
+So do ya wanna
 o-o
 hear about it?
 end-lyric
@@ -673,7 +682,9 @@ who're the biggest
 o-o
 campaign donors,
 o-o
-in private they choose
+in private
+o-o
+they choose
 o-o
 which puppet gets
 o-o

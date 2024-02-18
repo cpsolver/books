@@ -244,15 +244,17 @@ That blocks you
 o-o
 from rising
 o-o
-spiritually,
+spiritually.
+sentence-next
 o-o
-and reaching
+And reaching
 o-o
 the highest
 o-o
-kinds of love,
+kinds of love.
+sentence-next
 o-o
-far above
+Far above
 o-o
 criminals
 o-o
@@ -398,9 +400,10 @@ eyeballs and
 o-o
 ears to
 o-o
-advertisers,
+advertisers.
+sentence-next
 o-o
-so they choose
+So they choose
 o-o
 dramatic news
 o-o
@@ -443,16 +446,17 @@ would never
 o-o
 qualify
 o-o
-as newsworthy,
+as newsworthy.
+sentence-next
 o-o
-not even on
+Not even on
 o-o
 social media.
 sentence-next
 o-o
 Yet vividly
 o-o
-as a child
+in childhood
 o-o
 I remember
 o-o
@@ -476,9 +480,10 @@ attracts
 o-o
 bigger
 o-o
-congregations
+congregations.
+sentence-next
 o-o
-and bigger
+And bigger
 o-o
 donations.
 end-lyric
@@ -580,9 +585,10 @@ minority
 o-o
 in the banking
 o-o
-industry
+industry.
+sentence-next
 o-o
-and in
+And in
 o-o
 New York City.
 sentence-next
@@ -603,15 +609,18 @@ and dictators.
 end-lyric
 
 ambee sings-minister amenn
-Yes,
+Alas,
 o-o
-they do cling
+those few people
 o-o
-to the disease
+do cling to
 o-o
-of evil
+the disease
 o-o
-long after
+of evil.
+sentence-next
+o-o
+Long after
 o-o
 getting
 o-o
@@ -653,9 +662,10 @@ What other kind
 o-o
 of democracy
 o-o
-is there,
+is there?
+sentence-next
 o-o
-besides a
+Besides a
 o-o
 real one?
 end-lyric

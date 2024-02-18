@@ -94,9 +94,10 @@ We know
 o-o
 we're stuck
 o-o
-in the middle,
+in the middle.
+sentence-next
 o-o
-between voters
+Between voters
 o-o
 and our biggest
 o-o
@@ -236,9 +237,10 @@ that fight
 o-o
 each other
 o-o
-on stage,
+on stage.
+sentence-next
 o-o
-while the
+While the
 o-o
 funders
 o-o
@@ -441,9 +443,10 @@ helpin'
 o-o
 Latinos who
 o-o
-don't vote,
+don't vote.
+sentence-next
 o-o
-or listenin'
+Or listenin'
 o-o
 to what dolphins
 o-o

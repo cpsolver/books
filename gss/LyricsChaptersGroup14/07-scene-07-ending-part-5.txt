@@ -560,7 +560,12 @@ She's your daughter?
 end-lyric
 
 ambee sings-minister amenn
-Indeed.
+Amen.
+sentence-next
+o-o
+I mean,
+o-o
+indeed.
 end-lyric
 
 ambee sings-desha amenn

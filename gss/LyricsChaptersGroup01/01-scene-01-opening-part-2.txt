@@ -3,21 +3,26 @@ Work 'n cash
 o-o
 should come as
 o-o
-a pair, but
+a pair.
+sentence-next
+But one without
 o-o
-one without
+the other.
+sentence-next
 o-o
-the other,
-o-o
-that's not effin' fair!
+That's not effin' fair!
 end-lyric
 
 ambee sings-fiance amenn
-Yeah, we're indentured
+Yeah.
+sentence-next
 o-o
-to jerks
+We're indentured
 o-o
-and getting only
+to jerks.
+sentence-next
+o-o
+And getting only
 o-o
 table hyphen-here scrap
 o-o
@@ -26,6 +31,7 @@ end-lyric
 
 ambee sings-damien amenn
 It ain't right.
+sentence-next
 o-o
 The boss I've got's
 o-o
@@ -36,13 +42,16 @@ Yet he says
 o-o
 he's drownin'
 o-o
-in taxes,
+in taxes.
+sentence-next
 o-o
-'n licenses,
+'N licenses.
+sentence-next
 o-o
-'n insurance,
+'N insurance.
+sentence-next
 o-o
-'n extra fees.
+'N extra fees.
 sentence-next
 o-o
 Just keepin'
@@ -85,9 +94,10 @@ sentence-next
 o-o
 I know how
 o-o
-to invent
+to invent.
+sentence-next
 o-o
-but that don't
+But that don't
 o-o
 pay the rent.
 sentence-next
@@ -120,9 +130,10 @@ o-o
 railing.
 sentence-next
 o-o
-I fret
+I fret.
+sentence-next
 o-o
-'cause I've read that
+'Cause I've read that
 o-o
 suicide is
 o-o
@@ -154,9 +165,10 @@ so complex.
 end-lyric
 
 ambee sings-fiance amenn
-Yeah,
+Yeah.
+sentence-next
 o-o
-everything
+Everything
 o-o
 interconnects.
 end-lyric
@@ -174,17 +186,19 @@ yoga pose
 o-o
 on a high
 o-o
-mountaintop,
+mountaintop.
+sentence-next
 o-o
-or kneelin'
+Or kneelin'
 o-o
 at an altar
 o-o
 in a Gothic
 o-o
-cathedral,
+cathedral.
+sentence-next
 o-o
-or standin'
+Or standin'
 o-o
 behind a
 o-o
@@ -196,11 +210,14 @@ cheesy
 o-o
 garlic bread
 o-o
-with your pasta? end-italics no-space ,
+with your pasta? end-italics no-space .
+sentence-next
 o-o
-there's just gotta
+There's just
 o-o
-be a geek,
+gotta be
+o-o
+a geek,
 o-o
 or geekette,
 o-o
@@ -218,11 +235,14 @@ white grain
 o-o
 of truth
 o-o
-in an
-o-o
-albino cat's
+in the
 o-o
 litter box.
+sentence-next
+o-o
+Of an
+o-o
+albino cat.
 end-lyric
 
 ambee sings-damien amenn
@@ -249,9 +269,10 @@ sentence-next
 o-o
 What'd be
 o-o
-your query,
+your query?
+sentence-next
 o-o
-specifically?
+Specifically.
 end-lyric
 
 ambee sings-damien amenn
@@ -263,6 +284,7 @@ democracy?
 sentence-next
 o-o
 ...
+sentence-next
 o-o
 Wait.
 sentence-next
@@ -270,7 +292,8 @@ o-o
 Not that.
 sentence-next
 o-o
-Ah yes,
+Ah yes.
+sentence-next
 o-o
 I'd ask
 o-o
@@ -305,19 +328,25 @@ er,
 o-o
 electoral
 o-o
-college, and
+college.
+sentence-next
 o-o
-German dating,
+And German
 o-o
-er,
+dating.
+sentence-next
 o-o
-gerrymandation,
+Er,
 o-o
-and such.
+gerrymandation.
+sentence-next
+o-o
+And such.
 end-lyric
 
 ambee sings-damien amenn
 name-fiance no-space .
+sentence-next
 o-o
 You know
 o-o
@@ -353,9 +382,10 @@ try to drag me
 o-o
 through dates 'n
 o-o
-definitions,
+definitions.
+sentence-next
 o-o
-'n the names
+'N the names
 o-o
 of Thomas
 o-o
@@ -364,11 +394,14 @@ o-o
 pets.
 sentence-next
 o-o
-'N tests, those
+'N tests,
 o-o
-effin' devils,
+those
 o-o
-just rat out
+effin' devils.
+sentence-next
+o-o
+They just rat out
 o-o
 those of us
 o-o
@@ -385,9 +418,10 @@ sentence-next
 o-o
 Textbooks and tests
 o-o
-are in bed together,
+are in bed together.
+sentence-next
 o-o
-making baby
+Making baby
 o-o
 test questions.
 end-lyric
@@ -403,13 +437,15 @@ like I've stepped
 o-o
 into a
 o-o
-boxin' ring,
+boxin' ring.
+sentence-next
 o-o
-wearing not
+Wearing not
 o-o
-boxing gloves,
+boxing gloves.
+sentence-next
 o-o
-but instead
+But instead
 o-o
 holding
 o-o
@@ -417,9 +453,10 @@ pom poms.
 end-lyric
 
 ambee sings-fiance amenn
-Ah yes,
+Ah yes.
+sentence-next
 o-o
-community
+Community
 o-o
 college classes
 o-o
@@ -438,13 +475,14 @@ History's just
 o-o
 fat with notes
 o-o
-from the past
-o-o
-that's gone.
+from the past.
 end-lyric
 
 ambee sings-fiance amenn
-Just like
+Yup.
+sentence-next
+o-o
+Like
 o-o
 an Elvis
 o-o
@@ -473,17 +511,17 @@ o-o
 on his tests.
 sentence-next
 o-o
-'N fractions,
+'N fractions.
+sentence-next
 o-o
-those were
+Those were
 o-o
 created
 o-o
-by the devil
+by the devil!
+sentence-next
 o-o
-...
-o-o
-when he was
+When he was
 o-o
 in a snit!
 end-lyric
@@ -491,15 +529,17 @@ end-lyric
 ambee sings-fiance amenn
 I have to
 o-o
-admit,
+admit.
+sentence-next
 o-o
-sometimes
+Sometimes
 o-o
 I slipped
 o-o
-just a bit
+just a bit.
+sentence-next
 o-o
-in the
+In the
 o-o
 academic
 o-o
@@ -539,6 +579,7 @@ o-o
 would better
 o-o
 the economy.
+sentence-next
 o-o
 'N then we
 o-o
@@ -552,9 +593,10 @@ muck.
 end-lyric
 
 ambee sings-fiance amenn
-Yeah,
+I agree.
+sentence-next
 o-o
-political
+Political
 o-o
 scientists
 o-o
@@ -577,9 +619,10 @@ ambee sings-damien amenn
 Who should I fight?
 sentence-next
 o-o
-Where's that thing,
+Where's that thing?
+sentence-next
 o-o
-the tiltin' place?
+The tiltin' place?
 end-lyric
 
 ambee sings-fiance amenn
@@ -587,9 +630,10 @@ The tipping point?
 end-lyric
 
 ambee sings-damien amenn
-Yeah,
+Yeah.
+sentence-next
 o-o
-how can we,
+How can we,
 o-o
 the majority,
 o-o
@@ -607,11 +651,10 @@ end-lyric
 ambee sings-fiance amenn
 Father knows
 o-o
-some jet setters
+some jet setters.
+sentence-next
 o-o
-...
-o-o
-from a distance.
+From a distance.
 sentence-next
 o-o
 I'll ask him
@@ -637,9 +680,10 @@ should be
 o-o
 a really
 o-o
-sharp banana,
+sharp banana.
+sentence-next
 o-o
-someone maybe
+Someone maybe
 o-o
 who can tell me,
 o-o
@@ -668,9 +712,10 @@ right
 o-o
 side
 o-o
-up
+up!
+sentence-next
 o-o
-so I can earn
+So I can earn
 o-o
 more dough.
 end-lyric
@@ -728,15 +773,17 @@ sentence-next
 o-o
 It might take
 o-o
-awhile,
+awhile.
+sentence-next
 o-o
-but I'll jump
+But I'll jump
 o-o
 back on the
 o-o
-crocodile
+crocodile.
+sentence-next
 o-o
-'n keep on
+'N keep on
 o-o
 ridin'.
 sentence-next
@@ -772,6 +819,7 @@ o-o
 But it's not
 o-o
 OK.
+sentence-next
 o-o
 It's not fair!
 sentence-next
@@ -794,9 +842,10 @@ We wanna elect
 o-o
 problem hyphen-here solving
 o-o
-leaders,
+leaders.
+sentence-next
 o-o
-but what
+But what
 o-o
 do we get?
 sentence-next
@@ -805,11 +854,10 @@ Egotistic
 o-o
 special hyphen-here interest
 o-o
-puppets
+puppets.
+sentence-next
 o-o
-...
-o-o
-whose masters
+Whose masters
 o-o
 treat us like
 o-o

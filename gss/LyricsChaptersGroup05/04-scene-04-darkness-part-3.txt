@@ -450,7 +450,6 @@ o-o
 You and your
 o-o
 ...
-sentence-next
 o-o
 Willie?
 end-lyric
@@ -592,9 +591,9 @@ speak.
 end-lyric
 
 ambee sings-desha amenn
-I think she can
+I think she can be
 o-o
-be OK with that.
+OK with that.
 sentence-next
 o-o
 'N maybe I can
@@ -775,7 +774,6 @@ o-o
 the circus
 o-o
 ...
-sentence-next
 o-o
 of elephants
 o-o
@@ -783,7 +781,9 @@ and donkeys
 o-o
 and stupid
 o-o
-goats, ...
+goats
+o-o
+....
 sentence-next
 o-o
 I mean

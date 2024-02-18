@@ -3,6 +3,7 @@ set PerlPath=F:\Important\Tools\
 set DirGss=F:\Important\GitHub\books\gss\
 set DirExpand=F:\Important\GitHub\books\gss\Expand\
 set DirEpub=F:\Important\GitHub\books\gss\epub\
+set DirPdf=F:\Important\GitHub\books\gss\pdf\
 set DirMimetype=F:\Important\GitHub\books\gss\mimetype_only\
 
 
@@ -26,6 +27,12 @@ dir /b /s .\*.txt > %DirExpand%temp_list_of_file_paths.txt
 rem ---------- remove old epub files from epub folder ----------
 
 cd %DirEpub%
+del ogss_??.xhtml
+
+
+rem ---------- remove old pdf files from pdf folder ----------
+
+cd %DirPdf%
 del ogss_??.xhtml
 
 
@@ -259,6 +266,20 @@ type executable_expand_libretto.pl | %PerlPath%perl -pe "s/900000000/90000000000
 copy output_trace.txt output_trace_group_16.txt
 
 
+rem ---------- generate epub file for PDF version ----------
+
+copy %DirEpub%ogss_??.xhtml %DirPdf%
+del %DirPdf%ogss_31.xhtml
+copy %DirEpub%ogss_31.xhtml %DirPdf%ogss_22.xhtml
+del %DirEpub%ogss_31.xhtml
+del %DirGss%GoatSpittingSecret_pdf_version.epub
+cd %DirMimetype%
+"C:\Program Files\7-Zip\7z.exe" a -tzip %DirGss%GoatSpittingSecret_pdf_version.epub !mimetype_first_then_rename
+cd %DirPdf%
+"C:\Program Files\7-Zip\7z.exe" a %DirGss%GoatSpittingSecret_pdf_version.epub *
+"C:\Program Files\7-Zip\7z.exe" rn %DirGss%GoatSpittingSecret_pdf_version.epub !mimetype_first_then_rename mimetype
+
+
 rem ---------- generate epub version ----------
 
 del %DirGss%GoatSpittingSecret.epub
@@ -286,7 +307,9 @@ rem ---------- check HTML tags of problem chapter ----------
 %PerlPath%perl %PerlPath%CheckHtmlTags.pl < %DirExpand%ogss_05.xhtml > %DirExpand%output_check_html_tags.txt
 
 
-rem ---------- check epub file ----------
+rem ---------- check epub files ----------
+
+java -jar %PerlPath%epubcheck\epubcheck.jar %DirGss%GoatSpittingSecret_pdf_version.epub 2> %DirExpand%output_epub_errors_pdf_version.txt
 
 java -jar %PerlPath%epubcheck\epubcheck.jar %DirGss%GoatSpittingSecret.epub 2> %DirExpand%output_epub_errors.txt
 

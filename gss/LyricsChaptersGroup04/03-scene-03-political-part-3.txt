@@ -61,9 +61,10 @@ convention
 o-o
 doesn't sell
 o-o
-anything,
+anything.
+sentence-next
 o-o
-at least not
+At least not
 o-o
 directly.
 sentence-next
@@ -172,9 +173,10 @@ until one
 o-o
 candidate
 o-o
-gets a majority,
+gets a majority.
+sentence-next
 o-o
-that's half
+That's half
 o-o
 the votes.
 end-lyric
@@ -295,9 +297,10 @@ the delegates.
 end-lyric
 
 ambee sings-politician amenn
-Yes,
+Yes.
+sentence-next
 o-o
-sometimes
+Sometimes
 o-o
 literally.
 sentence-next
@@ -348,9 +351,11 @@ kinds of helpers
 o-o
 to influence
 o-o
-those of us in
+everyone
 o-o
-government.
+who's involved
+o-o
+in politics.
 end-lyric
 
 ambee sings-damien amenn
@@ -499,9 +504,10 @@ sentence-next
 o-o
 It's splitting,
 o-o
-vote splitting,
+vote splitting.
+sentence-next
 o-o
-and it's the
+It's the
 o-o
 election version
 o-o
@@ -551,7 +557,10 @@ aloner?
 end-lyric
 
 ambee sings-politician amenn
-Yes, and in fact,
+Yes.
+sentence-next
+o-o
+In fact,
 o-o
 voting is
 o-o
