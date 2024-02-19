@@ -210,7 +210,7 @@ cheesy
 o-o
 garlic bread
 o-o
-with your pasta? end-italics no-space .
+with your pasta? end-italics
 sentence-next
 o-o
 There's just
@@ -237,10 +237,9 @@ of truth
 o-o
 in the
 o-o
-litter box.
-sentence-next
+litter box,
 o-o
-Of an
+of an
 o-o
 albino cat.
 end-lyric
@@ -440,12 +439,12 @@ o-o
 boxin' ring.
 sentence-next
 o-o
-Wearing not
+Without wearing
 o-o
 boxing gloves.
 sentence-next
 o-o
-But instead
+Instead
 o-o
 holding
 o-o

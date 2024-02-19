@@ -161,24 +161,25 @@ without getting
 o-o
 distracted by
 o-o
-guilt,
+anger
 o-o
-embarassment,
-o-o
-anger, or
-o-o
-disappointment.
+or guilt.
 sentence-next
 o-o
-Such as the
+Or the
 o-o
-disappointment
+memory
 o-o
-you didn't get
+of being mocked
 o-o
-the closest
+for wearing
 o-o
-parking spot.
+wool socks
+o-o
+with sandals.
+sentence-next
+o-o
+In public.
 sentence-next
 o-o
 When you focus
@@ -195,24 +196,13 @@ without getting
 o-o
 distracted by
 o-o
+superhero
+o-o
 daydreams
 o-o
-or fears.
-sentence-next
+or childish
 o-o
-Such as
-o-o
-the fear of
-o-o
-being mocked
-o-o
-for wearing
-o-o
-wool socks
-o-o
-with sandals,
-o-o
-in public.
+fears.
 sentence-next
 o-o
 Now,

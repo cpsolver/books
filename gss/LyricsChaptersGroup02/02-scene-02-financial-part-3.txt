@@ -942,13 +942,17 @@ sweeteners.
 end-lyric
 
 ambee sings-damien amenn
-So sugar hyphen-here free
-o-o
-cookies
+So cookies
 o-o
 could be made
 o-o
-cheaper?
+sweet
+o-o
+naturally
+o-o
+with less
+o-o
+sugar?
 end-lyric
 
 ambee sings-vc amenn

@@ -46,7 +46,7 @@ end-standard-paragraph
 
 
 begin-standard-paragraph
-Version 2024-February-17
+Version edition-date
 end-standard-paragraph
 
 begin-standard-paragraph

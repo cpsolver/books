@@ -83,6 +83,7 @@ their services.
 sentence-next
 o-o
 ...
+sentence-next
 o-o
 So now,
 o-o

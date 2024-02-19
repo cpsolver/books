@@ -2,41 +2,31 @@ ambee sings-damien amenn
 Is there time?
 end-lyric
 
+ambee sings-damien amenn
+Is there hope?
+end-lyric
+
 ambee sings-econhist amenn
-Solutions
-o-o
-are waiting.
-sentence-next
-o-o
 World war three
 o-o
-is widely
+started
 o-o
-known to be
+years ago in
 o-o
-a very stupid
-o-o
-idea,
-o-o
-for self hyphen-here interest
-o-o
-reasons.
+cyberspace.
 sentence-next
 o-o
-So there's time
-o-o
-to get
-o-o
-pairwise
-o-o
-vote counting
-o-o
-adopted in
-o-o
-elections.
+And in the news.
 sentence-next
 o-o
-And doing that
+Those fights
+o-o
+don't risk
+o-o
+your life.
+sentence-next
+o-o
+Your fight
 o-o
 should be
 o-o
@@ -87,33 +77,35 @@ o-o
 from England.
 sentence-next
 o-o
-Now the fights
+Remember,
 o-o
-occur in
+dictators
 o-o
-cyberspace
+and wannabe
 o-o
-and in the news.
+dictators
+o-o
+are vastly
+o-o
+outnumbered
+o-o
+by voters and
+o-o
+citizens
+o-o
+who want to
+o-o
+overturn
+o-o
+dictatorships.
 sentence-next
 o-o
-Those fights
+So your fight
 o-o
-don't risk
-o-o
-your life.
-sentence-next
-o-o
-And they're
-o-o
-winnable.
+is winnable.
 end-lyric
 
 ambee sings-desha amenn
-I think I see
-o-o
-some light ahead.
-sentence-next
-o-o
 You've shown us
 o-o
 a path to
@@ -144,19 +136,18 @@ burns down.
 end-lyric
 
 ambee sings-damien amenn
-Now I see hope
+I see
 o-o
-for creating
+light ahead.
+sentence-next
 o-o
-ways to earn
+Both for
 o-o
-more money
+civilization,
 o-o
-by making
+and for me,
 o-o
-things of
-o-o
-value.
+professionally.
 sentence-next
 o-o
 But now my head's

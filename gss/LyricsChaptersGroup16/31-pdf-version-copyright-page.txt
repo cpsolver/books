@@ -3,7 +3,7 @@ Special Preview Edition
 end-heading
 
 begin-standard-paragraph
-If you are not a resident of Oregon, please purchase the full ebook edition of
+If you are not a resident of Oregon (or southern Washington state), please purchase the full ebook edition of
 begin-italics book-title end-italics
 through the usual ebook sources.
 sentence-next
@@ -13,28 +13,33 @@ no-space .
 end-standard-paragraph
 
 begin-standard-paragraph
+begin-bold
 This special PDF version of
 begin-italics book-title end-italics
 is available to Oregonians at no cost to help Oregon voters learn about ranked choice voting.
+end-bold
 sentence-next
 The November 2024 Oregon ballot will include a referendum to adopt ranked choice voting for use in Oregon's elections for governor and Oregon's representatives in Congress!
 sentence-next
+begin-bold
 Please vote to approve this referendum!
+end-bold
 end-standard-paragraph
 
 begin-standard-paragraph
-Oregon is making history as the first state in which the state legislature passed the bill to put this referendum on the ballot.
+Oregon is making history as the first state where the state legislature put a referendum for ranked choice voting on the ballot.
 sentence-next
-In all other states where ranked choice voting is used, voters had to gather signatures to get this reform on the ballot.
-sentence-next
-This referendum is wisely worded.
-sentence-next
+In all other states where ranked choice voting has been adopted, voters had to gather signatures to get this reform on the ballot.
+end-standard-paragraph
+
+begin-standard-paragraph
 Election hyphen-here method experts throughout Oregon, including the author of this book, participated to ensure this referendum is well hyphen-here designed.
 sentence-next
 Adopting it is the first step toward dramatically increasing Oregon's economic prosperity far beyond relying on money spilling over from California and Washington.
 end-standard-paragraph
 
-begin-standard-paragraph
+
+<p class="para_standard classPageBreak">&#160;</p>
 Published by:
 line-break
 Solutions Through Innovation
@@ -73,5 +78,12 @@ To check the validity of their opinions please consult Wikipedia and other non h
 end-standard-paragraph
 
 begin-standard-paragraph
-PDF preview version, 2024-February-17
+PDF preview version, edition-date
+end-standard-paragraph
+
+
+<p class="para_standard classPageBreak">&#160;</p>
+begin-bold
+On the Oregon 2024 November ballot, remember to vote in favor of the referendum to adopt ranked choice voting for electing our governor and Congressional representatives!
+end-bold
 end-standard-paragraph

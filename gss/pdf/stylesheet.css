@@ -1,0 +1,197 @@
+@charset "UTF-8";
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del,
+dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub,
+sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form,
+label, legend, table, caption, tbody, tfoot, thead, tr, th, td { 
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+body {
+font-family:"Verdana","Tahoma","Calibri","Lucida Grande","Lucida Sans Unicode",sans-serif;
+font-size:100%;
+margin-left:2%;
+margin-right:2%;
+margin-top:2%;
+margin-bottom:2%;
+padding-left:0;
+padding-right:0;
+padding-top:0;
+padding-bottom:0;
+}
+
+b {
+font-size:104%;
+}
+
+i {
+font-size:102%;
+}
+
+img {
+margin:0 auto;
+padding:0;
+max-width:95%;
+max-height:95%;
+}
+
+h1, h2, h3, h4 {
+font-family:"Palatino","Georgia","Times",serif;
+font-weight:bold;
+text-align:center;
+text-indent:0;
+padding:0;
+margin-left:2em;
+margin-right:2em;
+orphans:3;
+widows:3;
+page-break-after:avoid;
+}
+
+h1 {
+font-size:170%;
+break-before:left;
+margin-left:1em;
+margin-right:1em;
+}
+
+h2 {
+font-size:135%;
+}
+
+h3 {
+font-size:115%;
+}
+
+h4 {
+font-size:107%;
+}
+
+p {
+font-size:100%;
+line-height:1.7em;
+text-align:left;
+text-indent:0;
+padding:0;
+margin-left:1em;
+margin-right:0.5em;
+margin-top:1em;
+margin-bottom:1em;
+orphans:2;
+widows:2;
+}
+
+.para_standard{
+margin-top:2em;
+margin-bottom:2em;
+}
+
+.para_centered{
+text-align:center;
+}
+
+toc_list {
+list-style-type:none;
+}
+
+toc {
+font-family:"Palatino","Georgia","Times",serif;
+font-weight:bold;
+font-size:140%;
+text-align:left;
+text-indent:0;
+margin-left:7em;
+margin-right:3em;
+margin-top:3em;
+margin-bottom:3em;
+}
+
+para_gap_small {
+font-size:10%;
+line-height:0.2em;
+padding:0;
+margin:0;
+}
+
+.page_break_at_end {
+page-break-before:always;
+page-break-after:always;
+}
+
+.lyric{
+text-indent:-1.5em;
+padding:0;
+margin-left:2.5em;
+margin-right:0.5em;
+margin-top:1em;
+margin-bottom:1em;
+}
+
+.singer_abbrev{
+font-size:110%;
+font-weight:bold;
+vertical-align:baseline;
+padding-top:0.1em;
+padding-bottom:0.2em;
+padding-left:0.4em;
+padding-right:0.4em;
+margin-left:0;
+margin-right:0.2em;
+margin-top:0.4em;
+margin-bottom:0.8em;
+}
+
+.singer_colon{
+font-weight:normal;
+}
+
+.singer_damien{
+color:white;
+background-color:blue;
+border-radius:0.8em;
+}
+
+.singer_desha{
+background-color:coral;
+border-radius:0.5em;
+}
+
+.singer_fiance{
+background-color:yellow;
+}
+
+.singer_mathprof{
+background-color:fuchsia;
+}
+
+.singer_vc{
+color:white;
+background-color:green;
+}
+
+.singer_politician{
+color:white;
+background-color:indigo;
+}
+
+.singer_minister{
+color:white;
+background-color:grey;
+}
+
+.singer_econhist{
+color:white;
+background-color:violet;
+}
+
+.singer_father_of_fiance{
+color:white;
+background-color:brown;
+}

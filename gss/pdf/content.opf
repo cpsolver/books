@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="isbn">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="isbn">urn:isbn:9780963222152</dc:identifier>
+    <dc:title id="title">The Goat Spitting Secret</dc:title>
+    <meta refines="#title" property="title-type">main</meta>
+    <dc:creator id="author">Richard Fobes</dc:creator>
+    <meta refines="#author" scheme="marc:relators" property="role">aut</meta>
+    <dc:publisher>Solutions Through Innovation</dc:publisher>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2024-02-01T10:00:00Z</meta>
+    <meta name="cover" content="cover.jpg" />
+</metadata>
+<manifest>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
+    <item id="author_img" href="author.jpg" media-type="image/jpeg"/>
+    <item id="coverpage" href="coverpage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tableofcontents" href="tableofcontents.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="segment_01" href="ogss_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_02" href="ogss_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_03" href="ogss_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_04" href="ogss_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_05" href="ogss_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_06" href="ogss_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_07" href="ogss_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_21" href="ogss_21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_22" href="ogss_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_23" href="ogss_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_24" href="ogss_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segment_25" href="ogss_25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="ncx">
+  <itemref idref="coverpage"/>
+  <itemref idref="segment_21"/>
+  <itemref idref="segment_22"/>
+  <itemref idref="tableofcontents"/>
+  <itemref idref="segment_23"/>
+  <itemref idref="segment_01"/>
+  <itemref idref="segment_02"/>
+  <itemref idref="segment_03"/>
+  <itemref idref="segment_04"/>
+  <itemref idref="segment_05"/>
+  <itemref idref="segment_06"/>
+  <itemref idref="segment_07"/>
+  <itemref idref="segment_24"/>
+  <itemref idref="segment_25"/>
+</spine>
+</package>
