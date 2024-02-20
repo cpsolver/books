@@ -1,2 +1,9 @@
 /gss/output_*.musicxml
 *.odt
+/gss/pdf/
+/gss/Expand/
+/gss/Archive/
+/drafts/
+/gss/gss_project.sublime-workspace
+/gss/test*
+/gss/*.lnk
