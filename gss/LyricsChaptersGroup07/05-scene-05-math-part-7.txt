@@ -821,57 +821,36 @@ organization
 o-o
 that promotes
 o-o
-what they call
+two different
+o-o
+counting
+o-o
+methods,
+o-o
+instant runoff
+o-o
+voting and
+o-o
+something called
+o-o
+the single
+o-o
+transferable
+o-o
+vote.
+sentence-next
+o-o
+But they use
+o-o
+the name
 o-o
 begin-italics ranked choice
 o-o
-voting end-italics no-space .
+voting end-italics
 o-o
-sentence-next
-But they use
+to cover
 o-o
-that name
-o-o
-with a very
-o-o
-limited
-o-o
-meaning.
-sentence-next
-o-o
-And confusingly
-o-o
-it covers
-o-o
-two counting
-o-o
-methods.
-sentence-next
-o-o
-Mathematically
-o-o
-it makes more sense
-o-o
-to use the
-o-o
-broader
-o-o
-meaning for
-o-o
-ranked choice
-o-o
-voting.
-sentence-next
-o-o
-It's any
-o-o
-counting method
-o-o
-that uses
-o-o
-ranked choice
-o-o
-ballots.
+both methods.
 end-lyric
 
 ambee sings-damien amenn
@@ -904,37 +883,103 @@ o-o
 graduate
 o-o
 students.
+sentence-next
+o-o
+Mathematically
+o-o
+what makes more sense
+o-o
+is to use
+o-o
+ranked choice
+o-o
+voting
+o-o
+to mean any
+o-o
+counting method
+o-o
+that uses
+o-o
+ranked choice
+o-o
+ballots.
 end-lyric
 
 ambee sings-desha amenn
-OK, you like
+Is that other
 o-o
-VoteFair something.
+name important?
 sentence-next
 o-o
-Is there a
+Transfer
 o-o
-less hyphen-here specific
-o-o
-name?
+something.
 end-lyric
 
 ambee sings-mathprof amenn
-Pairwise
+You've already
 o-o
-vote counting.
+learned the
+o-o
+basic concept.
 sentence-next
 o-o
-That's the most
+It uses
 o-o
-important part.
+ranked
+o-o
+choice ballots
+o-o
+to elect
+o-o
+two or more
+o-o
+winners
+o-o
+from the same
+o-o
+bigger district.
+sentence-next
+The more
+o-o
+important point
+o-o
+is that
+o-o
+VoteFair ranking
+o-o
+has multiple
+o-o
+components that
+o-o
+cover lots of
+o-o
+what we've been
+o-o
+discussing.
 sentence-next
 o-o
-Because pairwise counts
+Yet all you need
 o-o
-reveal not just support
+to remember
 o-o
-but opposition.
+is pairwise
+o-o
+vote counting
+o-o
+and ranked choice
+o-o
+ballots.
+sentence-next
+o-o
+And that
+o-o
+pairwise counts
+o-o
+reveal opposition,
+o-o
+not just support.
 end-lyric
 
 ambee sings-damien amenn

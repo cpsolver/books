@@ -82,7 +82,7 @@ PDF preview version, edition-date
 end-standard-paragraph
 
 
-<p class="para_standard classPageBreak">&#160;</p>
+<p class="para_standard classPageBreak">
 begin-bold
 On the Oregon 2024 November ballot, remember to vote in favor of the referendum to adopt ranked choice voting for electing our governor and Congressional representatives!
 end-bold
