@@ -430,19 +430,37 @@ developer.
 end-lyric
 
 ambee sings-damien amenn
-If voting
+If the election
 o-o
-were done
+was smaller,
 o-o
-in person,
+...
+o-o
+and the candidates
+o-o
+were standing
+o-o
+along one side
+o-o
+of a
+o-o
+football field,
+o-o
+...
+o-o
+and if we voted
 o-o
 by standing
 o-o
-in lines
+in line
 o-o
-behind the
+behind
 o-o
-candidates,
+the candidate
+o-o
+we support,
+o-o
+...
 o-o
 I'd tell name-desha
 o-o
@@ -462,9 +480,10 @@ name-damien
 o-o
 to stand in
 o-o
-Pinoke's line,
+Pinoke's line.
+sentence-next
 o-o
-cause I'd rather
+I'd rather
 o-o
 deal with Oscar's
 o-o
@@ -631,9 +650,10 @@ people in lots
 o-o
 of nations do
 o-o
-on their ballots,
+on their ballots.
+sentence-next
 o-o
-although not yet
+Although not yet
 o-o
 using ranked
 o-o
@@ -646,7 +666,7 @@ party
 o-o
 popularity
 o-o
-results
+that way
 o-o
 gives us a
 o-o
@@ -661,47 +681,74 @@ o-o
 from each party.
 end-lyric
 
-ambee sings-damien amenn
-So the least popular
+ambee sings-desha amenn
+So the very
 o-o
-parties
+unpopular
 o-o
-can get
+parties get
 o-o
 excluded?
 end-lyric
 
 ambee sings-mathprof amenn
-That makes sense to me.
+That makes sense
+o-o
+to me.
 end-lyric
 
-ambee sings-damien amenn
-And the biggest
+ambee sings-desha amenn
+Would the biggest
 o-o
 third parties
 o-o
-would get
+get just one
 o-o
-one candidate
+candidate
 o-o
-each, right?
+each?
 end-lyric
 
 ambee sings-mathprof amenn
-That gives small
+That makes sense.
+sentence-next
 o-o
-parties an
+That would give
+o-o
+small parties
+o-o
+an
 o-o
 opportunity
 o-o
 to grow.
 sentence-next
 o-o
-And even to
+And maybe
 o-o
-overtake
+even overtake
 o-o
-big parties.
+a big party.
+end-lyric
+
+ambee sings-desha amenn
+I love it!
+sentence-next
+o-o
+Competition!
+sentence-next
+o-o
+I hope I live
+o-o
+to see the
+o-o
+Republican
+o-o
+and Democratic
+o-o
+parties
+o-o
+obliterated!
 end-lyric
 
 ambee sings-damien amenn
@@ -778,9 +825,10 @@ what they call
 o-o
 begin-italics ranked choice
 o-o
-voting end-italics no-space ,
+voting end-italics no-space .
 o-o
-but they use
+sentence-next
+But they use
 o-o
 that name
 o-o
@@ -788,28 +836,36 @@ with a very
 o-o
 limited
 o-o
-meaning
+meaning.
+sentence-next
 o-o
-that confusingly
+And confusingly
 o-o
-covers
+it covers
 o-o
 two counting
 o-o
 methods.
 sentence-next
 o-o
-The broader
+Mathematically
 o-o
-meaning of
+it makes more sense
+o-o
+to use the
+o-o
+broader
+o-o
+meaning for
 o-o
 ranked choice
 o-o
-voting is
+voting.
+sentence-next
 o-o
-any counting
+It's any
 o-o
-method
+counting method
 o-o
 that uses
 o-o
@@ -840,11 +896,14 @@ reason we
 o-o
 don't teach
 o-o
-this stuff,
+this stuff.
+sentence-next
 o-o
-even in
+Except to some
 o-o
-college courses.
+graduate
+o-o
+students.
 end-lyric
 
 ambee sings-desha amenn

@@ -47,19 +47,24 @@ ambee sings-mathprof amenn
 Excellent!
 sentence-next
 o-o
+That's called
+o-o
+a pairwise
+o-o
+losing
+o-o
+candidate.
+sentence-next
+o-o
 Keep going.
 end-lyric
 
 ambee sings-desha amenn
-So the loser
-o-o
-of all the
-o-o
-pairwise contests
+So that loser
 o-o
 would get
 o-o
-eliminated.
+booted.
 end-lyric
 
 ambee sings-damien amenn
@@ -98,9 +103,10 @@ That pairwise
 o-o
 elimination
 o-o
-process would work,
+process would work.
+sentence-next
 o-o
-up to a point.
+Up to a point.
 sentence-next
 o-o
 A simple shortcut

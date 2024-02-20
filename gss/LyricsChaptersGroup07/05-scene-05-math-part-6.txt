@@ -948,9 +948,11 @@ European
 o-o
 nations
 o-o
-do it that way,
+do it that way.
+sentence-next
 o-o
-but you're right,
+But you're right.
+sentence-next
 o-o
-it's not fair.
+It's not fair.
 end-lyric

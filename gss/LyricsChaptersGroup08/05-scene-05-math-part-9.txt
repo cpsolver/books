@@ -423,9 +423,10 @@ This is all seeming
 o-o
 like a giant
 o-o
-conspiracy,
+conspiracy.
+sentence-next
 o-o
-except that it's
+Except it's
 o-o
 in plain view.
 end-lyric
@@ -437,9 +438,10 @@ behind the
 o-o
 curtain of
 o-o
-mathematics,
+mathematics.
+sentence-next
 o-o
-under the
+Under the
 o-o
 unmarked
 o-o

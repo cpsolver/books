@@ -240,9 +240,16 @@ sentence-next
 o-o
 Where clapping
 o-o
-is approval,
+loudly is
 o-o
-and not clapping
+approval.
+sentence-next
+o-o
+And just
+o-o
+pretending
+o-o
+to clap
 o-o
 is disapproval.
 end-lyric

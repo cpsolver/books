@@ -39,7 +39,7 @@ Adopting it is the first step toward dramatically increasing Oregon's economic p
 end-standard-paragraph
 
 
-<p class="para_standard classPageBreak">&#160;</p>
+<p class="para_standard classPageBreak">
 Published by:
 line-break
 Solutions Through Innovation
