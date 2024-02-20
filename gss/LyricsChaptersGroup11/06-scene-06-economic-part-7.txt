@@ -1,3 +1,5 @@
+ambee put-into-phrase lyric-number 0670000 amenn
+
 ambee sings-desha amenn
 Bring it on!
 end-lyric

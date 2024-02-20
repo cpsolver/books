@@ -891,6 +891,8 @@ what makes more sense
 o-o
 is to use
 o-o
+the name
+o-o
 ranked choice
 o-o
 voting
@@ -971,15 +973,55 @@ o-o
 and ranked choice
 o-o
 ballots.
+end-lyric
+
+ambee sings-damien amenn
+Isn't pairwise
+o-o
+vote counting
+o-o
+too complex
+o-o
+for math hyphen-here phobic
+o-o
+voters
+o-o
+to understand?
+end-lyric
+
+ambee sings-mathprof amenn
+Instant runoff
+o-o
+voting
+o-o
+pole vaults
+o-o
+over what
+o-o
+we use now,
+o-o
+but that uses
+o-o
+a short pole.
 sentence-next
 o-o
-And that
+Eliminating
 o-o
-pairwise counts
+pairwise losing
 o-o
-reveal opposition,
+candidates
 o-o
-not just support.
+when they occur
+o-o
+is an easy way
+o-o
+to extend the
+o-o
+length of the
+o-o
+vaulting pole
+o-o
+to full length.
 end-lyric
 
 ambee sings-damien amenn

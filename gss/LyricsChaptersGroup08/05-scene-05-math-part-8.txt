@@ -1,4 +1,4 @@
-ambee put-into-phrase lyric-number 0520000 amenn
+ambee put-into-phrase lyric-number 0580000 amenn
 
 ambee sings-damien amenn
 So how hard's it
@@ -370,6 +370,10 @@ or a
 o-o
 parliament,
 o-o
+or a state
+o-o
+legislature,
+o-o
 will vote to
 o-o
 decide which
@@ -557,6 +561,8 @@ ambee sings-desha amenn
 I love it!
 sentence-next
 o-o
+...
+o-o
 But wait.
 sentence-next
 o-o
@@ -569,20 +575,19 @@ o-o
 gerrymander
 o-o
 problem.
-end-lyric
-
-ambee sings-damien amenn
-Yeah,
+sentence-next
 o-o
-how do we avoid
+How do we avoid
 o-o
-district shapes
+a district shape
 o-o
-that look like
+that looks like a
 o-o
-balloon animals
+balloon animal
 o-o
-made by a clown?
+made by a
+o-o
+drunk lawyer?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -778,11 +783,13 @@ The history
 o-o
 of economics
 o-o
-is indeed boring,
+is indeed boring.
+sentence-next
 o-o
-for everyone,
+For everyone.
+sentence-next
 o-o
-even econ
+Even econ
 o-o
 majors.
 sentence-next

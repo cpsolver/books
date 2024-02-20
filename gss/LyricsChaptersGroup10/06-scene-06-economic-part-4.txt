@@ -1,4 +1,4 @@
-ambee put-into-phrase lyric-number 0620000 amenn
+ambee put-into-phrase lyric-number 0640000 amenn
 
 ambee sings-damien amenn
 Since efficiency

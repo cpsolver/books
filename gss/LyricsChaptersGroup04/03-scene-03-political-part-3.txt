@@ -1,3 +1,5 @@
+ambee put-into-phrase lyric-number 0330000 amenn
+
 ambee sings-politician amenn
 A delegate
 o-o

@@ -1,3 +1,5 @@
+ambee put-into-phrase lyric-number 0750000 amenn
+
 ambee sings-fiance amenn
 You've told me
 o-o

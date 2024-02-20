@@ -629,9 +629,10 @@ ballot invites
 o-o
 tactical
 o-o
-voting,
+voting.
+sentence-next
 o-o
-as if the voter
+As if the voter
 o-o
 is choosing
 o-o
@@ -657,24 +658,13 @@ choosing to join
 o-o
 a small army
 o-o
-that will lose.
-sentence-next
+that watches while
 o-o
-That battle plan
+two big armies
 o-o
-makes it easier
+clash
 o-o
-for a large
-o-o
-disliked army
-o-o
-to destroy
-o-o
-the large army
-o-o
-you like
-o-o
-better.
+without you.
 end-lyric
 
 ambee sings-desha amenn
@@ -695,33 +685,23 @@ ambee sings-mathprof amenn
 No.
 sentence-next
 o-o
-If none of the
+If the army
 o-o
-opposition
+you like better
 o-o
-candidates
+will lose,
 o-o
-has a chance
+even with your
 o-o
-of winning
+bayonet,
 o-o
-against the one
-o-o
-you most dislike,
-o-o
-you can mark your
-o-o
-favorite
-o-o
-opposition
-o-o
-candidate,
-o-o
-which can be
+you can mark
 o-o
 a third hyphen-here party
 o-o
-candidate.
+candidate
+o-o
+without regret.
 end-lyric
 
 ambee sings-damien amenn
@@ -760,7 +740,7 @@ Presidential
 o-o
 elections
 o-o
-involve three
+involve some
 o-o
 complications.
 sentence-next
@@ -774,9 +754,9 @@ o-o
 matter too.
 sentence-next
 o-o
-As a result,
+So the
 o-o
-the number gap
+number gap
 o-o
 between the
 o-o

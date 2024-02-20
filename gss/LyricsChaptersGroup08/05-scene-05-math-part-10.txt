@@ -102,28 +102,40 @@ help defeat
 o-o
 vote splitting
 o-o
-is to vote in
+is to pay
 o-o
-begin-italics both end-italics
+more attention
 o-o
-primary
-o-o
-begin-italics and end-italics
-o-o
-general
+to primary
 o-o
 elections.
+end-italics
+
+ambee sings-desha amenn
+Republicans
+o-o
+always win here.
 sentence-next
 o-o
-And especially
+Maybe I should
 o-o
-primary
+register as
 o-o
-elections
+a Republican.
+end-italics
+
+ambee sings-mathprof amenn
+That will give you
 o-o
-for members
+influence
 o-o
-of Congress.
+in the
+o-o
+primaries
+o-o
+that matter
+o-o
+here.
 end-lyric
 
 ambee sings-damien amenn
@@ -134,34 +146,8 @@ o-o
 begin-italics none of the above end-italics no-space ?
 end-lyric
 
-ambee sings-desha amenn
-Maybe I should
-o-o
-register
-o-o
-as a Republican
-o-o
-since they
-o-o
-always win here.
-sentence-next
-o-o
-That way I'll get
-o-o
-influence
-o-o
-in Republican
-o-o
-primaries.
-end-lyric
-
 ambee sings-mathprof amenn
-That might help.
-sentence-next
-o-o
-Yet ultimately
-o-o
-the best way
+The best way
 o-o
 is to promote
 o-o
