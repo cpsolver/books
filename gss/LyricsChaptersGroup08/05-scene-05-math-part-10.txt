@@ -109,7 +109,7 @@ o-o
 to primary
 o-o
 elections.
-end-italics
+end-lyric
 
 ambee sings-desha amenn
 Republicans
@@ -122,7 +122,7 @@ o-o
 register as
 o-o
 a Republican.
-end-italics
+end-lyric
 
 ambee sings-mathprof amenn
 That will give you
