@@ -562,13 +562,15 @@ who suffer
 o-o
 economically
 o-o
-can't move out,
+can't move out.
+sentence-next
 o-o
-so they adopt
+So they adopt
 o-o
-workarounds
+workarounds.
+sentence-next
 o-o
-such as gangs,
+Such as gangs,
 o-o
 black markets,
 o-o
@@ -958,19 +960,26 @@ end-lyric
 ambee sings-desha amenn
 Now cruelty
 o-o
-comes out on
+pops up on
 o-o
-football fields,
+Twitter,
 o-o
 in reality
 o-o
-TV shows,
+TV,
 o-o
-and as
 o-o
-political
+at convenience
 o-o
-attack ads.
+stores on
+o-o
+Saturday nights,
+o-o
+and every day
+o-o
+on school
+o-o
+playgrounds.
 end-lyric
 
 ambee sings-econhist amenn

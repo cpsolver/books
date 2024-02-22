@@ -207,9 +207,10 @@ that lie beneath
 o-o
 puzzling
 o-o
-mysteries,
+mysteries.
+sentence-next
 o-o
-of why things are
+Of why things are
 o-o
 the way they are.
 sentence-next
@@ -335,7 +336,7 @@ o-o
 You'll need it.
 sentence-next
 o-o
-And remember that
+And remember
 o-o
 you didn't learn
 o-o

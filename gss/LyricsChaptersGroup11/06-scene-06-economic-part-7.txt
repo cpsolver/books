@@ -380,38 +380,27 @@ o-o
 their headquarters.
 sentence-next
 o-o
-Plus,
-o-o
-in the case of
+In the case of
 o-o
 McDonald's,
 o-o
 the corporation
 o-o
-has an
+extorts extra
 o-o
-extortion
+money by not
 o-o
-racket.
-sentence-next
+allowing
 o-o
-They don't allow
-o-o
-anyone else
+franchise owners
 o-o
 to repair
 o-o
-their milkshake
+their own
 o-o
-machines,
+milkshake
 o-o
-even though
-o-o
-the franchise
-o-o
-owner owns
-o-o
-the machine.
+machines.
 end-lyric
 
 ambee sings-desha amenn

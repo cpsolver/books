@@ -206,8 +206,19 @@ o-o
 democracy
 o-o
 a place to grow.
-sentence-next
+end-lyric
+
+ambee sings-desha amenn
+Without
 o-o
+the burden
+o-o
+of church
+o-o
+taxation.
+end-lyric
+
+ambee sings-econhist amenn
 That success
 o-o
 created
@@ -223,9 +234,10 @@ they formed the
 o-o
 European
 o-o
-Union
+Union.
+sentence-next
 o-o
-after most
+After
 o-o
 Catholics and
 o-o
@@ -233,9 +245,12 @@ Protestants
 o-o
 stopped fighting
 o-o
-one another,
+one another
 o-o
-except in
+on battlefields.
+sentence-next
+o-o
+Except in
 o-o
 northern
 o-o
@@ -285,6 +300,8 @@ o-o
 they're copying
 o-o
 the clear
+o-o
+economic
 o-o
 success of
 o-o

@@ -451,26 +451,7 @@ taxes for
 o-o
 vulture
 o-o
-businesses
-o-o
-that earn their
-o-o
-money from
-o-o
-local customers?
-sentence-next
-o-o
-Like law firms,
-o-o
-Wall Street banks,
-o-o
-insurance
-o-o
-companies,
-and
-real-estate
-o-o
-developers?
+businesses?
 end-lyric
 
 ambee sings-econhist amenn
@@ -609,6 +590,8 @@ o-o
 block news
 o-o
 that reveals
+o-o
+better
 o-o
 economic
 o-o
@@ -778,29 +761,22 @@ their path to
 o-o
 soul hyphen-here sucking
 o-o
-jobs as lawyers,
+jobs as lawyers.
+sentence-next
 o-o
-and instead choose
+Instead they'd choose
 o-o
-career paths
+careers
 o-o
-that lead to
-o-o
-maker
-o-o
-businesses,
-o-o
-where their
-o-o
-salaries would be
-o-o
-better than now
-o-o
-because maker
+in maker
 o-o
 businesses
 o-o
-would be taxed less.
+that offer
+o-o
+higher salaries
+o-o
+than now.
 sentence-next
 o-o
 That job migration

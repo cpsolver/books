@@ -304,7 +304,7 @@ sentence-next
 o-o
 The government
 o-o
-knows that if they
+knows if they
 o-o
 call attention
 o-o
@@ -316,22 +316,23 @@ unemployment
 o-o
 rate,
 o-o
-then consumers
+consumers
 o-o
 will have less
 o-o
 optimism.
 sentence-next
 o-o
-And when there's
+When there's
 o-o
-less optimism
+less optimism,
 o-o
 consumers
 o-o
-spend less money,
+spend less money.
+sentence-next
 o-o
-and that loops
+That loops
 o-o
 back through
 o-o
@@ -345,9 +346,10 @@ salaries
 o-o
 for other
 o-o
-employees,
+employees.
+sentence-next
 o-o
-who then spend
+Who then spend
 o-o
 less money.
 sentence-next
@@ -440,9 +442,10 @@ the first effect
 o-o
 becomes a
 o-o
-second cause,
+second cause.
+sentence-next
 o-o
-and the
+And the
 o-o
 second effect
 o-o
@@ -523,11 +526,12 @@ what they
 o-o
 themselves
 o-o
-want,
+want.
+sentence-next
 o-o
-without caring
+Without caring
 o-o
-about what
+what
 o-o
 others want.
 end-lyric
@@ -656,9 +660,10 @@ sentence-next
 o-o
 No wonder
 o-o
-I'm hungry,
+I'm hungry.
+sentence-next
 o-o
-economically.
+Economically.
 end-lyric
 
 ambee sings-econhist amenn
@@ -678,14 +683,17 @@ depression
 o-o
 is
 o-o
-depressing and
+depressing.
+sentence-next
+o-o
+And
 o-o
 discouraging.
 sentence-next
 o-o
 I need some
 o-o
-optimism.
+optimism!
 sentence-next
 o-o
 Is there even
@@ -837,9 +845,10 @@ That would give
 o-o
 consumers more
 o-o
-spending money,
+spending money.
+sentence-next
 o-o
-which fuels
+And that would fuel
 o-o
 a feedback loop
 o-o
@@ -847,9 +856,10 @@ that benefits
 o-o
 other
 o-o
-businesses,
+businesses.
+sentence-next
 o-o
-right?
+Right?
 end-lyric
 
 ambee sings-econhist amenn

@@ -52,9 +52,10 @@ dental hygienists
 o-o
 rather than
 o-o
-dentists,
+dentists.
+sentence-next
 o-o
-and become
+And become
 o-o
 performers
 o-o
@@ -145,9 +146,10 @@ customers,
 o-o
 clients, and
 o-o
-patients,
+patients.
+sentence-next
 o-o
-instead of
+Instead of
 o-o
 mostly
 o-o
@@ -157,9 +159,10 @@ financial
 o-o
 income to
 o-o
-shareholders,
+shareholders.
+sentence-next
 o-o
-owners, and
+And owners and
 o-o
 managers.
 sentence-next
@@ -217,9 +220,10 @@ They'll use it
 o-o
 to benefit
 o-o
-their family
+their family.
+sentence-next
 o-o
-and their
+And their
 o-o
 community.
 end-lyric
@@ -248,21 +252,23 @@ the cost of
 o-o
 government
 o-o
-handouts
+handouts.
+sentence-next
 o-o
-that
+The ones
 o-o
 Republicans
 o-o
-like to
+love to
 o-o
 complain about.
 end-lyric
 
 ambee sings-damien amenn
-Finally,
+Finally!
+sentence-next
 o-o
-something
+Something
 o-o
 more useful
 o-o
@@ -339,17 +345,16 @@ And not yet for
 o-o
 any state
 o-o
-legislatures,
+legislatures.
+sentence-next
 o-o
-which is the
+Yet those are
 o-o
-other place
+the places
 o-o
-where tax changes
+that can adopt
 o-o
-can be
-o-o
-adopted.
+tax changes.
 sentence-next
 o-o
 When election
@@ -378,9 +383,13 @@ a one hyphen-here sentence
 o-o
 explanation
 o-o
-for how it should
+for how
 o-o
-be done wisely?
+elections
+o-o
+can be done
+o-o
+wisely?
 end-lyric
 
 ambee sings-econhist amenn
@@ -401,9 +410,9 @@ are even messier
 o-o
 than your
 o-o
-dog pooper
+dog poop
 o-o
-scooper loop.
+loop.
 sentence-next
 o-o
 name-mathprof
@@ -420,49 +429,19 @@ vote counting.
 end-lyric
 
 ambee sings-damien amenn
-And you've explained
+In that case,
 o-o
-why better
-o-o
-vote counting
-o-o
-will increase
-o-o
-economic
-o-o
-prosperity.
-sentence-next
-o-o
-Because of less
-o-o
-money hyphen-here draining
-o-o
-corruption,
-o-o
-and more
-o-o
-money hyphen-here growing
-o-o
-innovations.
-sentence-next
-o-o
-What else will change
-o-o
-when elections are
-o-o
-done right?
-end-lyric
-
-ambee sings-desha amenn
-Yeah, what other
+what other
 o-o
 solutions
 o-o
-are waiting
+are blocked?
+end-lyric
+
+ambee sings-desha amenn
+And needing a
 o-o
-for a
-o-o
-revolution?
+revolution!
 end-lyric
 
 ambee sings-econhist amenn
@@ -699,9 +678,10 @@ to read about
 o-o
 why things are
 o-o
-the way they are,
+the way they are.
+sentence-next
 o-o
-which includes
+That includes
 o-o
 lots of
 o-o
@@ -739,17 +719,10 @@ ambee sings-desha amenn
 Let me guess.
 sentence-next
 o-o
-Feedback loops,
+Feedback loops.
+sentence-next
 o-o
-bad ones,
-o-o
-are keeping
-o-o
-those things
-o-o
-from getting
-o-o
-developed.
+Bad ones.
 end-lyric
 
 ambee sings-econhist amenn

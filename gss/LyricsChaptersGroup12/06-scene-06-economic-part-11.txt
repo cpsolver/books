@@ -94,13 +94,23 @@ from water.
 end-lyric
 
 ambee sings-damien amenn
-So doing what plants do?
+So doing
+o-o
+what plants do?
 end-lyric
 
 ambee sings-econhist amenn
-Yes, but much more
+Yes.
+sentence-next
+o-o
+But much more
 o-o
 efficiently.
+sentence-next
+o-o
+For just storing
+o-o
+energy.
 sentence-next
 o-o
 Especially
@@ -109,9 +119,10 @@ compared to
 o-o
 using crops to
 o-o
-generate ethanol,
+generate ethanol.
+sentence-next
 o-o
-which enriches
+That enriches
 o-o
 a few wealthy
 o-o
@@ -254,9 +265,10 @@ At that time
 o-o
 color darkrooms
 o-o
-were completely dark,
+were completely dark.
+sentence-next
 o-o
-so there was no way
+There was no way
 o-o
 to see a timer.
 sentence-next
@@ -266,13 +278,19 @@ o-o
 was very time hyphen-here critical.
 sentence-next
 o-o
-So they sang songs together
+So they
 o-o
-and used the timing of songs
+sang songs together
+o-o
+and used the
+o-o
+timing of songs
 o-o
 as their timer
 o-o
-for chemical reactions.
+for chemical
+o-o
+reactions.
 end-lyric
 
 ambee sings-desha amenn
@@ -528,9 +546,10 @@ both good and bad
 o-o
 for the same
 o-o
-person,
+person.
+sentence-next
 o-o
-like when
+Like when
 o-o
 Henry Ford
 o-o
@@ -543,19 +562,21 @@ sentence-next
 o-o
 That increased
 o-o
-his labor costs,
+his labor costs.
+sentence-next
 o-o
-but those
+But those
 o-o
 employees
 o-o
 could then afford
 o-o
-to buy Ford cars,
+to buy Ford cars.
+sentence-next
 o-o
-which brought in
+That increased
 o-o
-more profits.
+his profits.
 end-lyric
 
 ambee sings-damien amenn
@@ -579,9 +600,10 @@ people reaching
 o-o
 for the
 o-o
-cherry pie
+cherry pie.
+sentence-next
 o-o
-without
+Without
 o-o
 realizing
 o-o
@@ -820,18 +842,20 @@ and renamed it
 o-o
 Microsoft
 o-o
-DOS,
+DOS.
+sentence-next
 o-o
-so there were
+Besides the
 o-o
-creators
+creative
+o-o
+genius
 o-o
 behind that
 o-o
-product.
-sentence-next
+software,
 o-o
-Later there were
+there were
 o-o
 more creative
 o-o
@@ -847,11 +871,17 @@ end-lyric
 ambee sings-desha amenn
 But not the
 o-o
-stupid asses
+ass
 o-o
-who poked it full
+trolls
 o-o
-of security holes.
+who poked it
+o-o
+full of 
+o-o
+security
+o-o
+holes.
 end-lyric
 
 ambee sings-damien amenn

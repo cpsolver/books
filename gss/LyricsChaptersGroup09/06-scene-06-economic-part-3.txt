@@ -414,9 +414,10 @@ end-lyric
 ambee sings-damien amenn
 So being in debt
 o-o
-isn't a big deal,
+isn't a big deal.
+sentence-next
 o-o
-but a growing
+But a growing
 o-o
 debt, that's
 o-o
@@ -753,6 +754,9 @@ o-o
 Less corruption.
 sentence-next
 o-o
+Slower highways.
+sentence-next
+o-o
 Got it.
 end-lyric
 
@@ -805,20 +809,22 @@ right?
 end-lyric
 
 ambee sings-econhist amenn
-Yes,
+Yes.
+sentence-next
 o-o
-there will be
+There will be
 o-o
 lots more
 o-o
-efficiency
+efficiency.
+sentence-next
 o-o
-and
+And
 o-o
 productivity.
 sentence-next
 o-o
-And that increases
+Which increases
 o-o
 economic
 o-o
