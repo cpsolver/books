@@ -1,7 +1,8 @@
 ambee sings-desha amenn
-Yes,
+Yes.
+sentence-next
 o-o
-but races are changed
+But races are changed
 o-o
 to protect
 o-o
@@ -91,62 +92,36 @@ o-o
 prosperity.
 sentence-next
 o-o
-That followed
+So kings
 o-o
-naturally
-o-o
-from what
+rewarded
 o-o
 churches
 o-o
-used to do.
-sentence-next
-o-o
-Which included
-o-o
-teaching
-o-o
-respect
-o-o
-for laws
-o-o
-written by
-o-o
-mayors and
-o-o
-kings.
+with no taxes.
 end-lyric
 
 ambee sings-desha amenn
-Remember
+In addition
 o-o
-those laws
+to what we just
 o-o
-punished
+talked about,
 o-o
-tax evaders,
+churches
 o-o
-anyone
+discouraged
 o-o
-who littered
+tax evasion.
+sentence-next
 o-o
-...
+Discouraged
 o-o
-bare ground with
-o-o
-human turds,
-o-o
-and any
-o-o
-pregnant woman
-o-o
-who aborted
-o-o
-a male,
+abortion
 o-o
 because that
 o-o
-would diminish
+could diminish
 o-o
 the king's
 o-o
@@ -155,6 +130,21 @@ o-o
 size by one
 o-o
 soldier.
+sentence-next
+o-o
+And they
+o-o
+reduced disease
+o-o
+by speaking out
+o-o
+against
+o-o
+littering
+o-o
+bare ground with
+o-o
+human turds.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -346,7 +336,7 @@ end-lyric
 ambee sings-damien amenn
 She's helping me
 o-o
-to figure out
+figure out
 o-o
 how I can earn
 o-o

@@ -48,27 +48,43 @@ myself.
 end-lyric
 
 ambee sings-damien amenn
-So, we've
+So we've
 o-o
 learned that
 o-o
-ranked choice ballots
-o-o
-and
-o-o
-pairwise vote
-o-o
-counting
-o-o
-is the key
-o-o
-to less corruption,
-o-o
-in Washington
-o-o
-DC.
+ranked choice ballots.
 sentence-next
 o-o
+And pairwise
+o-o
+vote counting.
+sentence-next
+o-o
+And
+o-o
+two or three seats
+o-o
+per district.
+sentence-next
+o-o
+Those are the keys
+o-o
+to less corruption.
+sentence-next
+o-o
+In Congress.
+sentence-next
+o-o
+Right?
+end-lyric
+
+ambee sings-econhist amenn
+You've aced
+o-o
+this course!
+end-lyric
+
+ambee sings-damien amenn
 But do we need
 o-o
 to remember
@@ -97,9 +113,10 @@ includes
 o-o
 Condorcet
 o-o
-methods,
+methods.
+sentence-next
 o-o
-and some
+And some
 o-o
 non hyphen-here Condorcet
 o-o
@@ -193,7 +210,7 @@ centuries
 o-o
 before Condorcet,
 o-o
-who died
+who died during
 o-o
 in the French
 o-o
@@ -214,7 +231,7 @@ to adopt a
 o-o
 well hyphen-here designed
 o-o
-election system
+election system.
 end-lyric
 
 ambee sings-damien amenn
@@ -447,7 +464,7 @@ unmarked
 o-o
 trap door
 o-o
-of pairwise
+of plurality
 o-o
 vote counting.
 end-lyric

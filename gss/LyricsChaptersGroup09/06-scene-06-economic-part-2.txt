@@ -747,15 +747,16 @@ o-o
 It means division.
 sentence-next
 o-o
-And the number
+The number
 o-o
 of pixels in
 o-o
 a camera
 o-o
-are going up,
+are going up.
+sentence-next
 o-o
-so dividing by
+So dividing by
 o-o
 that bigger number
 o-o

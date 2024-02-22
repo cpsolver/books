@@ -24,11 +24,14 @@ I'll pack some
 o-o
 clothes and such
 o-o
-in a box,
+in a box.
+sentence-next
 o-o
-and I'll text you
+I'll text you
 o-o
-when it's in the hall.
+when it's
+o-o
+in the hall.
 end-lyric
 
 ambee sings-damien amenn
@@ -136,9 +139,10 @@ sentence-next
 o-o
 But I've been told
 o-o
-I'm a bad hyphen-here ass,
+I'm a bad hyphen-here ass.
+sentence-next
 o-o
-and that's not going
+That's not going
 o-o
 to change.
 sentence-next
@@ -189,9 +193,10 @@ for me in your eyes?
 end-lyric
 
 ambee sings-desha amenn
-You are very smart,
+You are very smart.
+sentence-next
 o-o
-but sometimes you
+But sometimes you
 o-o
 can be so dense.
 end-lyric
@@ -583,13 +588,15 @@ but then they'd
 o-o
 be happy to
 o-o
-push me aside,
+push me aside.
+sentence-next
 o-o
-or even
+Or even
 o-o
-wish me dead,
+wish me dead.
+sentence-next
 o-o
-to transfer some
+To transfer some
 o-o
 of my wealth
 o-o

@@ -66,9 +66,10 @@ and executives
 o-o
 buying bigger 
 o-o
-fishing boats,
+fishing boats.
+sentence-next
 o-o
-and buying
+And buying
 o-o
 stupid lingerie
 o-o
@@ -278,12 +279,26 @@ nominated.
 end-lyric
 
 ambee sings-damien amenn
-I might
+I figure I'll
 o-o
 do that too.
 sentence-next
 o-o
-Until we can get
+Although sometimes
+o-o
+I'll vote for
+o-o
+Republicans.
+sentence-next
+o-o
+Mostly I'll push
+o-o
+for ranked
+o-o
+choice ballots.
+sentence-next
+o-o
+So we can get
 o-o
 fairness
 o-o
@@ -292,10 +307,6 @@ o-o
 economic
 o-o
 prosperity
-o-o
-using ranked
-o-o
-choice ballots.
 end-lyric
 
 ambee sings-fiance amenn
@@ -648,9 +659,10 @@ better place
 o-o
 for everyone's
 o-o
-grandkids,
+grandkids.
+sentence-next
 o-o
-even if that means
+Even if that means
 o-o
 I, or we,
 o-o
@@ -739,9 +751,10 @@ It's clear to me
 o-o
 that you love one
 o-o
-another, so
+another.
+sentence-next
 o-o
-don't have doubt
+So don't have doubt
 o-o
 about your love.
 end-lyric

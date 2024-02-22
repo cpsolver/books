@@ -170,9 +170,10 @@ what they crave are
 o-o
 outings
 o-o
-without me
+without me.
+sentence-next
 o-o
-and trips to
+And trips to
 o-o
 the mall to buy
 o-o
@@ -432,9 +433,10 @@ priority.
 end-lyric
 
 ambee sings-vc amenn
-Ah yes,
+Ah yes.
+sentence-next
 o-o
-assault weapons
+Assault weapons
 o-o
 in the hands
 o-o
@@ -456,7 +458,7 @@ sentence-next
 o-o
 Yet vividly
 o-o
-in childhood
+from childhood
 o-o
 I remember
 o-o

@@ -618,9 +618,10 @@ one bigger army.
 end-lyric
 
 ambee sings-politician amenn
-Yes,
+Yes.
+sentence-next
 o-o
-if the big army
+If the big army
 o-o
 can fight just one
 o-o

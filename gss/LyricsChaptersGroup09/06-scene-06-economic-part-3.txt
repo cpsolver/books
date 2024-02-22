@@ -139,9 +139,10 @@ pay much less.
 end-lyric
 
 ambee sings-econhist amenn
-Yes,
+Yes.
+sentence-next
 o-o
-then the gap
+Then the gap
 o-o
 between
 o-o
@@ -194,13 +195,17 @@ Economists
 o-o
 measure
 o-o
-those feelings,
+those feelings.
+sentence-next
 o-o
-even the
+Even the
 o-o
-holiday ones,
+holiday ones.
+sentence-next
 o-o
-to predict
+It helps to
+o-o
+predict
 o-o
 the future.
 sentence-next
@@ -217,16 +222,17 @@ right?
 end-lyric
 
 ambee sings-damien amenn
-I'm a consumer,
-o-o
-or I try to be,
-o-o
-but I have no
-o-o
-confidence.
+I'm a consumer.
 sentence-next
 o-o
-In the future.
+Or I try to be.
+sentence-next
+o-o
+But I have no
+o-o
+confidence
+o-o
+in the future.
 sentence-next
 o-o
 And at
@@ -303,9 +309,10 @@ The government
 o-o
 buying its own
 o-o
-money,
+money?
+sentence-next
 o-o
-that makes
+That makes
 o-o
 no sense.
 sentence-next

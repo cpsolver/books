@@ -124,9 +124,6 @@ o-o
 percent of voters.
 sentence-next
 o-o
-That's a majority.
-sentence-next
-o-o
 That means the
 o-o
 majority of voters
@@ -386,9 +383,10 @@ end-lyric
 ambee sings-fiance amenn
 But mother is a
 o-o
-Democrat, and
+Democrat.
+sentence-next
 o-o
-sometimes you
+And sometimes you
 o-o
 give her money
 o-o
@@ -617,9 +615,10 @@ What?
 end-lyric
 
 ambee sings-minister amenn
-name-minister no-space ,
+name-minister no-space .
+sentence-next
 o-o
-it's short for
+It's short for
 o-o
 Whittier.
 end-lyric
@@ -641,9 +640,10 @@ So in grade school
 o-o
 they called you
 o-o
-dimwit and
+dimwit?
+sentence-next
 o-o
-half hyphen-here wit?
+And half hyphen-here wit?
 end-lyric
 
 ambee sings-minister amenn
@@ -921,9 +921,10 @@ the winner would
 o-o
 have been the most
 o-o
-popular candidate,
+popular candidate.
+sentence-next
 o-o
-and that was not
+And that was not
 o-o
 Donald Trump.
 end-lyric

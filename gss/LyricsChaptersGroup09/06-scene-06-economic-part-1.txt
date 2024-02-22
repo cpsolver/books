@@ -900,13 +900,13 @@ sentence-next
 o-o
 Also about
 o-o
-non hyphen-here medical
-o-o
-biochemistry,
-o-o
 basic
 o-o
 mathematics,
+o-o
+non hyphen-here medical
+o-o
+biochemistry,
 o-o
 and movie plots.
 end-lyric

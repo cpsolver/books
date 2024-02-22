@@ -497,15 +497,17 @@ as us.
 end-lyric
 
 ambee sings-mathprof amenn
-Yes,
+Yes.
+sentence-next
 o-o
-they focus on
+They focus on
 o-o
 the balance of power
 o-o
-between parties,
+between parties.
+sentence-next
 o-o
-but they allow
+But they allow
 o-o
 party insiders
 o-o
@@ -741,9 +743,9 @@ Democrat.
 end-lyric
 
 ambee sings-mathprof amenn
-Typically yes,
+Typically yes.
 o-o
-assuming both
+Assuming both
 o-o
 parties offer
 o-o

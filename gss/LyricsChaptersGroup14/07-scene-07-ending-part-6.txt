@@ -19,9 +19,12 @@ end-lyric
 ambee sings-father-of-fiance amenn
 But Trump won the
 o-o
-general election,
+general
 o-o
-so that proves he
+election.
+sentence-next
+o-o
+That proves he
 o-o
 was more popular
 o-o
@@ -29,7 +32,7 @@ than Hillary.
 end-lyric
 
 ambee sings-damien amenn
-But with ranked choice
+With ranked choice
 o-o
 ballots and
 o-o
@@ -283,9 +286,10 @@ end-lyric
 ambee sings-damien amenn
 I thought you meant
 o-o
-mostly by car,
+mostly by car.
+sentence-next
 o-o
-and only going
+And only going
 o-o
 to Europe
 o-o
@@ -312,17 +316,21 @@ were more fair.
 end-lyric
 
 ambee sings-damien amenn
-Yes, there are some
+Yes.
+sentence-next
+o-o
+There are some
 o-o
 businesses
 o-o
 that exploit
 o-o
-begin-italics unfairness end-italics
+begin-italics unfairness end-italics no-space .
+sentence-next
 o-o
-and they would have
+They would have
 o-o
-their profits reduced
+less profit
 o-o
 because of
 o-o
@@ -428,9 +436,10 @@ some business
 o-o
 owners in
 o-o
-Florida,
+Florida.
+sentence-next
 o-o
-but I wasn't
+But I wasn't
 o-o
 bothered.
 sentence-next
@@ -605,8 +614,6 @@ sentence-next
 o-o
 Yet there are
 o-o
-many
-o-o
 thousands
 o-o
 of them
@@ -705,13 +712,15 @@ end-lyric
 ambee sings-desha amenn
 That brings
 o-o
-money to you,
+money to you.
+sentence-next
 o-o
-but it increases
+But it increases
 o-o
-traffic,
+traffic.
+sentence-next
 o-o
-and reduces
+And reduces
 o-o
 the land
 o-o
@@ -861,9 +870,10 @@ Well,
 o-o
 maybe not
 o-o
-aliens,
+aliens.
+sentence-next
 o-o
-the space kind.
+The space kind.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -938,9 +948,10 @@ sentence-next
 o-o
 A word-resume
 o-o
-values money,
+values money.
+sentence-next
 o-o
-a eulogy
+A eulogy
 o-o
 values
 o-o

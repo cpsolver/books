@@ -501,7 +501,9 @@ to climb.
 end-lyric
 
 ambee sings-econhist amenn
-Yes, alas.
+Yes,
+o-o
+alas.
 sentence-next
 o-o
 Under current

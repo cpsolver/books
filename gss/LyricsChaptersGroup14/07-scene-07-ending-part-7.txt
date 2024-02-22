@@ -89,9 +89,10 @@ not only bring
 o-o
 money into
 o-o
-a city or state,
+a city or state.
+sentence-next
 o-o
-they also pass
+Also they pass
 o-o
 that money to
 o-o
@@ -107,7 +108,9 @@ o-o
 businesses.
 sentence-next
 o-o
-Some of that wealth
+As a result,
+o-o
+some of that wealth
 o-o
 reaches your
 o-o
@@ -134,9 +137,10 @@ in our state,
 o-o
 no money would
 o-o
-enter our state,
+enter our state.
+sentence-next
 o-o
-and our state's
+Then our state's
 o-o
 economy
 o-o
@@ -242,7 +246,7 @@ o-o
 is upside down.
 sentence-next
 o-o
-All taker
+Most taker
 o-o
 businesses,
 o-o
@@ -398,11 +402,15 @@ but soul hyphen-here sucking,
 o-o
 jobs in
 o-o
-banks,
+banks.
+sentence-next
 o-o
-and law firms,
+And law firms.
+sentence-next
 o-o
-and real estate.
+And in
+o-o
+real estate.
 end-lyric
 
 ambee sings-damien amenn
@@ -570,7 +578,8 @@ Getting back to
 o-o
 makers and
 o-o
-takers,
+takers.
+sentence-next
 o-o
 name-vc
 o-o
@@ -691,9 +700,10 @@ sentence-next
 o-o
 Yeah I've gotten
 o-o
-to be too fat,
+to be too fat.
+sentence-next
 o-o
-which is why
+That's why
 o-o
 I'm here.
 sentence-next
@@ -712,9 +722,10 @@ some of my income
 o-o
 with all my
 o-o
-employees,
+employees.
+sentence-next
 o-o
-not just the ones
+Not just the ones
 o-o
 in management.
 end-lyric
@@ -921,9 +932,10 @@ some hot meals,
 o-o
 and a stuffed
 o-o
-toy for a child
+toy for a child.
+sentence-next
 o-o
-without assistance
+Without assistance
 o-o
 from churches
 o-o

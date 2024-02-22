@@ -146,7 +146,9 @@ I'll bet.
 end-lyric
 
 ambee sings-econhist amenn
-Yes, including
+Yes,
+o-o
+including
 o-o
 a dismissal
 o-o
@@ -792,9 +794,10 @@ corruption
 o-o
 get further
 o-o
-oppressed,
+oppressed.
+sentence-next
 o-o
-or killed.
+Or killed.
 sentence-next
 o-o
 Do you know about

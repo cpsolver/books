@@ -496,9 +496,10 @@ within a business
 o-o
 makes the business
 o-o
-strong,
+strong.
+sentence-next
 o-o
-so it can better
+So it can better
 o-o
 compete against
 o-o
@@ -675,7 +676,9 @@ And selfies.
 end-lyric
 
 ambee sings-damien amenn
-Your time machine
+name-desha no-space ,
+o-o
+your time machine
 o-o
 just crashed.
 end-lyric
@@ -693,8 +696,9 @@ o-o
 That too
 o-o
 was magical.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-econhist amenn
 Leaping ahead
 o-o
 in time,
@@ -715,11 +719,9 @@ end-lyric
 ambee sings-damien amenn
 Because
 o-o
-he took selfies
+he drew portraits
 o-o
-with ditsy
-o-o
-dizzy
+of dizzy
 o-o
 stargazers?
 end-lyric
@@ -741,9 +743,10 @@ skills.
 end-lyric
 
 ambee sings-econhist amenn
-Indeed,
+Indeed.
+sentence-next
 o-o
-during the
+During the
 o-o
 European
 o-o
@@ -757,17 +760,19 @@ by failing to
 o-o
 cure the sick with
 o-o
-holy water,
+holy water.
+sentence-next
 o-o
-they lost their lives
+They lost their lives
 o-o
 by praying
 o-o
 at the bedside
 o-o
-of the dying,
+of the dying.
+sentence-next
 o-o
-and their
+And their
 o-o
 congregations
 o-o
@@ -843,7 +848,7 @@ Disneyland.
 end-lyric
 
 ambee sings-desha amenn
-Plus the
+And the
 o-o
 Hallmark
 o-o
@@ -872,24 +877,17 @@ o-o
 corruption.
 sentence-next
 o-o
-And that will
+Which will
 o-o
 increase
 o-o
 efficiency,
 o-o
-which will
+cooperation,
 o-o
-increase
+and
 o-o
 prosperity.
-sentence-next
-o-o
-And there
-o-o
-will be more
-o-o
-cooperation.
 sentence-next
 o-o
 What else
@@ -959,23 +957,20 @@ sentence-next
 o-o
 Amazon
 o-o
-created
+pioneered
 o-o
-selling software
+online buying
 o-o
-and uses the
+and
 o-o
-internet
+free shipping.
+sentence-next
 o-o
-to replace the
+That replaces the
 o-o
 inefficiency
 o-o
-of people
-o-o
-selling stuff
-o-o
-in retail
+of retail
 o-o
 stores.
 end-lyric
@@ -1026,13 +1021,14 @@ restrooms.
 end-lyric
 
 ambee sings-desha amenn
-Yes,
+Yes.
 o-o
-which increases
+Which increases
 o-o
-efficiency,
+efficiency.
+sentence-next
 o-o
-which increases
+Which increases
 o-o
 prosperity
 o-o

@@ -25,7 +25,9 @@ Kate Dorokhova on Fiverr (final drawings)
 end-standard-paragraph
 
 begin-standard-paragraph
-Thanks to the software volunteers who created and support the free hyphen-here to hyphen-here use Inkscape app (for vector graphic editing) and Gimp app (for pixel graphic editing), which the author used to create the non hyphen-here character parts of the cover art.
+Thanks to the software volunteers who created and support the free hyphen-here to hyphen-here use Inkscape app (for vector graphic editing) and Gimp app (for pixel graphic editing).
+sentence-next
+The author used these tools to create the non hyphen-here character parts of the cover art.
 end-standard-paragraph
 
 begin-standard-paragraph

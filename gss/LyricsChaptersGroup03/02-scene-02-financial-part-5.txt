@@ -51,7 +51,10 @@ ambee sings-vc amenn
 You are bright!
 sentence-next
 o-o
-Yes, we pay news sources
+Yes.
+sentence-next
+o-o
+We pay news sources
 o-o
 to entertain and
 o-o

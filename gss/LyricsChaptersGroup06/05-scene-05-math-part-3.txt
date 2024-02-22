@@ -867,9 +867,10 @@ big deal?
 end-lyric
 
 ambee sings-mathprof amenn
-Yes,
+Yes.
+sentence-next
 o-o
-because some
+Because some
 o-o
 voters will use
 o-o

@@ -342,9 +342,10 @@ single hyphen-here location
 o-o
 restaurant,
 o-o
-yes,
+yes.
+sentence-next
 o-o
-because
+Because
 o-o
 they attract
 o-o
@@ -538,9 +539,10 @@ end-lyric
 ambee sings-econhist amenn
 The word begin-italics deserve end-italics
 o-o
-is judgmental,
+is judgmental.
+sentence-next
 o-o
-so that's a matter
+So it's a matter
 o-o
 of opinion.
 sentence-next
@@ -557,9 +559,10 @@ name-damien no-space ,
 o-o
 deserves to be
 o-o
-spanked,
+spanked.
+sentence-next
 o-o
-but that would be
+But that would be
 o-o
 a judgment,
 o-o
