@@ -673,29 +673,68 @@ party
 o-o
 popularity
 o-o
-that way
+with better
 o-o
-gives us a
+ballots
 o-o
-fair way
+will give us a
 o-o
-to limit
+way to limit
 o-o
 the number of
 o-o
 candidates
 o-o
 from each party.
+sentence-next
+o-o
+In a way
+o-o
+that's fair.
+end-lyric
+
+ambee sings-damien amenn
+So the
+o-o
+ballot doesn't
+o-o
+become my worst
+o-o
+nightmare?
+sentence-next
+o-o
+With endless
+o-o
+ovals,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+sentence-next
+o-o
+Having six or
+o-o
+seven
+o-o
+choice columns
+o-o
+is much better than
+o-o
+twelve.
 end-lyric
 
 ambee sings-desha amenn
-So the very
+This means
 o-o
-unpopular
+very unpopular
 o-o
 parties get
 o-o
-excluded?
+excluded,
+o-o
+right?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -705,11 +744,11 @@ to me.
 end-lyric
 
 ambee sings-desha amenn
-Would the biggest
+Can big
 o-o
 third parties
 o-o
-get just one
+get at least one
 o-o
 candidate
 o-o
@@ -717,25 +756,25 @@ each?
 end-lyric
 
 ambee sings-mathprof amenn
-That makes sense.
+Yes.
 sentence-next
 o-o
-That would give
+That allows a
 o-o
-small parties
+small party
 o-o
-an
+to grow and
 o-o
-opportunity
-o-o
-to grow.
-sentence-next
-o-o
-And maybe
-o-o
-even overtake
+maybe overtake
 o-o
 a big party.
+sentence-next
+o-o
+That's how
+o-o
+elections
+o-o
+used to work.
 end-lyric
 
 ambee sings-desha amenn
@@ -958,44 +997,42 @@ from the same
 o-o
 bigger district.
 sentence-next
-The more
 o-o
-important point
+All you need
 o-o
-is that
+to remember,
 o-o
-VoteFair ranking
+besides ranked choice
 o-o
-has multiple
-o-o
-components that
-o-o
-cover lots of
-o-o
-what we've been
-o-o
-discussing.
-sentence-next
-o-o
-Yet all you need
-o-o
-to remember
-o-o
-is ranked choice
-o-o
-ballots,
+ballots and
 o-o
 pairwise
 o-o
 vote counting,
 o-o
-two seats per
+is two seats per
 o-o
 district,
 o-o
-plus a few
+and a few
 o-o
 statewide seats.
+end-lyric
+
+ambee sings-desha amenn
+That's the
+o-o
+proportional
+o-o
+representation
+o-o
+part,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+You've got it!
 end-lyric
 
 ambee sings-damien amenn

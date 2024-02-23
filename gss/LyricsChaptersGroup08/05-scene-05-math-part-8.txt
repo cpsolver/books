@@ -567,8 +567,6 @@ ambee sings-desha amenn
 I love it!
 sentence-next
 o-o
-...
-o-o
 But wait.
 sentence-next
 o-o
@@ -591,7 +589,7 @@ that looks like a
 o-o
 balloon animal
 o-o
-made by a
+crafted by a
 o-o
 drunk lawyer?
 end-lyric

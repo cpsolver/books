@@ -804,53 +804,26 @@ for research
 o-o
 about
 o-o
-dinosaurs.
-end-lyric
-
-ambee sings-desha amenn
-And
-o-o
-research in
-o-o
 mathematics.
 end-lyric
 
 ambee sings-mathprof amenn
-For math,
+Most of that
 o-o
-most of that
+funding
 o-o
-funding comes from
+comes from
 o-o
 the government.
 sentence-next
 o-o
-For dinosaurs,
+Based on
 o-o
-oil companies
+priorities
 o-o
-fund lots of that
+established in
 o-o
-research.
-sentence-next
-o-o
-Of course the
-o-o
-people who have
-o-o
-power
-o-o
-don't want to pay
-o-o
-for research
-o-o
-that reveals the
-o-o
-unfairness
-o-o
-that underpins
-o-o
-their power.
+Congress.
 end-lyric
 
 ambee sings-desha amenn
