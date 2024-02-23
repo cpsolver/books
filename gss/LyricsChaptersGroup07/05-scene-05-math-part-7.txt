@@ -147,9 +147,13 @@ end-lyric
 ambee sings-desha amenn
 That means
 o-o
-no more blocking,
+no more blocking.
+sentence-next
 o-o
-like how
+Right?
+sentence-next
+o-o
+Like how
 o-o
 Hillary
 o-o
@@ -157,10 +161,7 @@ Clinton
 o-o
 got blocked
 o-o
-in two thousand eight.
-sentence-next
-o-o
-Right?
+in two thousand eight?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -257,13 +258,14 @@ they've been using
 o-o
 paper ballots
 o-o
-for ranked choice
+for instant runoff
 o-o
 voting
 o-o
-for many decades,
+for many decades.
+sentence-next
 o-o
-long before
+Long before
 o-o
 computer
 o-o
@@ -299,9 +301,10 @@ by hand
 o-o
 on election night
 o-o
-was a lot of work,
+was a lot of work.
+sentence-next
 o-o
-so they created
+So they created
 o-o
 a shortcut.
 sentence-next
@@ -310,15 +313,16 @@ They called that
 o-o
 ranking pattern
 o-o
-an begin-italics overvote end-italics no-space ,
+an begin-italics overvote end-italics no-space .
+sentence-next
 o-o
-and when
+When
 o-o
-the counting
+counting
 o-o
 reached
 o-o
-an overvote
+an overvote,
 o-o
 they tossed
 o-o
@@ -572,9 +576,12 @@ who are worse
 o-o
 than my first few
 o-o
-choices,
+choices.
+sentence-next
 o-o
-but not as evil
+But who aren't
+o-o
+as evil
 o-o
 as the
 o-o
@@ -769,32 +776,40 @@ this mess?
 end-lyric
 
 ambee sings-mathprof amenn
-It is sort of like
+It is
+o-o
+sort of like
 o-o
 a jigsaw puzzle
 o-o
-with lots of pieces,
+with lots of
 o-o
-and different
+pieces.
+sentence-next
 o-o
-pieces would work,
+And different
 o-o
-and they have lots
+pieces
+o-o
+would work.
+sentence-next
+o-o
+And they have lots
 o-o
 of names.
 sentence-next
 o-o
-The method
+Yet the method
 o-o
-that reaches farthest
+that reaches
 o-o
-toward what
+farthest toward
 o-o
-I've described
+what I've described
 o-o
 is called
 o-o
-VoteFair Ranking.
+VoteFair ranking.
 end-lyric
 
 ambee sings-desha amenn
@@ -966,13 +981,21 @@ Yet all you need
 o-o
 to remember
 o-o
-is pairwise
+is ranked choice
 o-o
-vote counting
+ballots,
 o-o
-and ranked choice
+pairwise
 o-o
-ballots.
+vote counting,
+o-o
+two seats per
+o-o
+district,
+o-o
+plus a few
+o-o
+statewide seats.
 end-lyric
 
 ambee sings-damien amenn
@@ -990,74 +1013,27 @@ to understand?
 end-lyric
 
 ambee sings-mathprof amenn
-Instant runoff
-o-o
-voting
-o-o
-pole vaults
-o-o
-over what
-o-o
-we use now,
-o-o
-but that uses
-o-o
-a short pole.
-sentence-next
-o-o
 Eliminating
 o-o
 pairwise losing
 o-o
 candidates
 o-o
-when they occur
+when they occur,
 o-o
-is an easy way
+combined with
 o-o
-to extend the
+instant runoff
 o-o
-length of the
+voting,
 o-o
-vaulting pole
+is like
 o-o
-to full length.
-end-lyric
-
-ambee sings-damien amenn
-So it's
+pole vaulting
 o-o
-ranked choice
+with a pole
 o-o
-ballots and
+that's almost
 o-o
-pairwise vote
-o-o
-counting
-o-o
-that you
-o-o
-recommend?
-end-lyric
-
-ambee sings-mathprof amenn
-Plus adjustments
-o-o
-we've discussed
-o-o
-that give fuller
-o-o
-representation.
-end-lyric
-
-ambee sings-desha amenn
-To the sheep
-o-o
-and goats and pigs
-o-o
-defending
-o-o
-themselves against
-o-o
-the wolves.
+full length.
 end-lyric

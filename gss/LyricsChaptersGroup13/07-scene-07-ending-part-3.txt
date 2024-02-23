@@ -721,11 +721,11 @@ schools and
 o-o
 universities
 o-o
+and hospitals
+o-o
 were founded
 o-o
-alongside
-o-o
-churches
+by churches
 o-o
 and mosques.
 sentence-next
@@ -735,6 +735,21 @@ o-o
 governments
 o-o
 fund those too.
+sentence-next
+o-o
+And there was
+o-o
+less disease
+o-o
+because priests
+o-o
+reminded folks
+o-o
+not to litter
+o-o
+bare ground with
+o-o
+human turds.
 end-lyric
 
 ambee sings-vc amenn
@@ -744,7 +759,11 @@ is taking over
 o-o
 increasing
 o-o
-morality?
+morality
+o-o
+and
+o-o
+civility?
 end-lyric
 
 ambee sings-minister amenn

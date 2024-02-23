@@ -816,11 +816,22 @@ mathematics.
 end-lyric
 
 ambee sings-mathprof amenn
-Most of that
+For math,
+o-o
+most of that
 o-o
 funding comes from
 o-o
 the government.
+sentence-next
+o-o
+For dinosaurs,
+o-o
+oil companies
+o-o
+fund lots of that
+o-o
+research.
 sentence-next
 o-o
 Of course the

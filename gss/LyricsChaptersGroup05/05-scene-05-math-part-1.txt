@@ -372,19 +372,19 @@ on election night.
 end-lyric
 
 ambee sings-damien amenn
-Still using Roman
+If we still used
+o-o
+Roman
 o-o
 numerals
 o-o
-would have inspired
+I'd join the
 o-o
-an anti hyphen-here math
+most radical
 o-o
-cult,
+anti hyphen-here math
 o-o
-which I would have
-o-o
-joined.
+klan.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -592,7 +592,9 @@ o-o
 inches.
 sentence-next
 o-o
-Here, look at this
+Here,
+o-o
+look at this
 o-o
 ruler.
 end-lyric

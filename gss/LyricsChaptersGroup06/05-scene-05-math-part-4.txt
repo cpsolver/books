@@ -48,9 +48,10 @@ end-lyric
 ambee sings-damien amenn
 This sounds like
 o-o
-Facebook,
+Facebook.
+sentence-next
 o-o
-where people
+Where people
 o-o
 upvote
 o-o
@@ -60,9 +61,10 @@ kitten videos
 o-o
 and awesome
 o-o
-dance moves,
+dance moves.
+sentence-next
 o-o
-and fail to
+And fail to
 o-o
 upvote the
 o-o
@@ -389,11 +391,12 @@ that holds up
 o-o
 under
 o-o
-scrutiny,
+scrutiny?
+sentence-next
 o-o
-without
+Without
 o-o
-mutiny?
+mutiny.
 end-lyric
 
 ambee sings-damien amenn
@@ -866,14 +869,19 @@ Aren't teams ranked
 o-o
 based on,
 o-o
-... well, ...
+...
+o-o
+well,
+o-o
+....
 sentence-next
 o-o
 I think they get
 o-o
-points,
+points.
+sentence-next
 o-o
-or maybe lose points,
+Or maybe lose points,
 o-o
 from each game.
 end-lyric

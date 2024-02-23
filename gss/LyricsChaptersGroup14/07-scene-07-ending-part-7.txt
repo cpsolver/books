@@ -466,11 +466,17 @@ to make things better?
 end-lyric
 
 ambee sings-desha amenn
-This situation
+This
 o-o
-is like when women
+situation
 o-o
-demanded the right
+is like when
+o-o
+women
+o-o
+demanded
+o-o
+the right
 o-o
 to vote.
 sentence-next
@@ -479,7 +485,9 @@ A few places,
 o-o
 like Canada,
 o-o
-Australia, and
+Australia,
+o-o
+and
 o-o
 New Zealand,
 o-o
@@ -493,9 +501,9 @@ sentence-next
 o-o
 The predicted
 o-o
-disasters didn't
+disasters
 o-o
-follow,
+didn't follow,
 o-o
 so it was
 o-o
@@ -508,18 +516,24 @@ sentence-next
 o-o
 And don't you think
 o-o
-it's made things better?
+it's made things
+o-o
+better?
 end-lyric
 
 ambee sings-father-of-fiance amenn
-Sometimes I wonder.
+Sometimes
+o-o
+I wonder.
 sentence-next
 o-o
 We don't seem to be
 o-o
-doing that well now
+doing that well
 o-o
-that women have
+now that women
+o-o
+have
 o-o
 taken over.
 end-lyric

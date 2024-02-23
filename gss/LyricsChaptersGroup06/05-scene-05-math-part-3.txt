@@ -141,7 +141,10 @@ of extra votes
 o-o
 by changing
 o-o
-their name to
+their name.
+sentence-next
+o-o
+To
 o-o
 Click Here.
 end-lyric
@@ -244,9 +247,10 @@ begin-italics ranked choice voting end-italics
 o-o
 to mean different
 o-o
-things,
+things.
+sentence-next
 o-o
-but those
+But those
 o-o
 differences
 o-o
@@ -493,9 +497,10 @@ just one
 o-o
 candidate
 o-o
-at each level,
+at each level.
+sentence-next
 o-o
-and if
+And if
 o-o
 everyone
 o-o
@@ -830,12 +835,10 @@ end-lyric
 ambee sings-desha amenn
 Most politicians
 o-o
-deserve an F,
-o-o
-for
-o-o
-...
+deserve an F.
 sentence-next
+o-o
+For
 o-o
 fails to care
 o-o

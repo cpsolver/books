@@ -287,9 +287,10 @@ end-lyric
 ambee sings-damien amenn
 Oh,
 o-o
-I see,
+I see.
+sentence-next
 o-o
-lots of tricks
+Lots of tricks
 o-o
 go on
 o-o

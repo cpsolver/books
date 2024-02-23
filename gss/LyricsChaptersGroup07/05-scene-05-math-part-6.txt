@@ -898,30 +898,36 @@ we make the
 o-o
 districts a little
 o-o
-bigger. And we
+bigger.
+sentence-next
 o-o
-reserve a few
+And we reserve
 o-o
-extra seats,
+a few special
 o-o
-which are called
+seats.
+sentence-next
+o-o
+Those are called
 o-o
 statewide seats.
 sentence-next
 o-o
-Then we can do
+The party hyphen-here based
 o-o
-the party hyphen-here based
+measurements
 o-o
-adjustment to
+tell us which
 o-o
-figure out which
+party deserves
 o-o
-party deserves to win
+to win each
 o-o
-each of those
+of those
 o-o
-statewide seats.
+statewide
+o-o
+seats.
 end-lyric
 
 ambee sings-desha amenn

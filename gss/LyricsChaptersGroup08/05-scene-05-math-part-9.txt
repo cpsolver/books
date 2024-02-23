@@ -50,7 +50,7 @@ end-lyric
 ambee sings-damien amenn
 So we've
 o-o
-learned that
+learned about
 o-o
 ranked choice ballots.
 sentence-next
@@ -67,15 +67,20 @@ o-o
 per district.
 sentence-next
 o-o
-Those are the keys
+And statewide
 o-o
-to less corruption.
+seats.
 sentence-next
 o-o
-In Congress.
-sentence-next
+That's what will
 o-o
-Right?
+stomp out
+o-o
+corruption
+o-o
+in Congress,
+o-o
+right?
 end-lyric
 
 ambee sings-econhist amenn
@@ -210,9 +215,9 @@ centuries
 o-o
 before Condorcet,
 o-o
-who died during
+who died in
 o-o
-in the French
+the French
 o-o
 Revolution.
 sentence-next

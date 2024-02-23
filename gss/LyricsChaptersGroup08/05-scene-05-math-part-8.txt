@@ -1,9 +1,11 @@
 ambee put-into-phrase lyric-number 0580000 amenn
 
 ambee sings-damien amenn
-So how hard's it
+How hard's it
 o-o
-to do pairwise
+to do that
+o-o
+pairwise
 o-o
 counting?
 end-lyric
@@ -11,9 +13,10 @@ end-lyric
 ambee sings-mathprof amenn
 All the counting
 o-o
-is done by computer,
+is done by computer.
+sentence-next
 o-o
-so a mouse click
+So a mouse click
 o-o
 is all you need
 o-o
@@ -304,9 +307,12 @@ loses.
 end-lyric
 
 ambee sings-damien amenn
-Oh, I see
+Oh,
 o-o
-the counting
+I see.
+sentence-next
+o-o
+The counting
 o-o
 method
 o-o
@@ -516,7 +522,7 @@ end-lyric
 ambee sings-desha amenn
 Representation
 o-o
-for women!
+for more women!
 sentence-next
 o-o
 Finally!
@@ -535,7 +541,7 @@ at least one
 o-o
 minority
 o-o
-candidate
+politician
 o-o
 will be
 o-o
@@ -889,12 +895,14 @@ kickbacks,
 o-o
 payoffs,
 o-o
-payola,
-o-o
-and ...
+payola.
 sentence-next
 o-o
-campaign contributions.
+And
+o-o
+campaign
+o-o
+contributions.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -910,9 +918,18 @@ end-lyric
 ambee sings-desha amenn
 Which just means
 o-o
-division
+moving the
 o-o
-by one hundred.
+decimal point
+o-o
+right by
+o-o
+two places.
+sentence-next
+o-o
+To avoid
+o-o
+tiny numbers.
 end-lyric
 
 ambee sings-mathprof amenn

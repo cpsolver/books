@@ -114,9 +114,10 @@ working in
 o-o
 public
 o-o
-libraries,
+libraries.
+sentence-next
 o-o
-and the delayed
+And the delayed
 o-o
 benefits
 o-o
@@ -260,10 +261,16 @@ end-lyric
 ambee sings-econhist amenn
 Yes.
 sentence-next
+Plus better roads
 o-o
-Basically
+led to
 o-o
-that's the kids' book
+pandemics.
+sentence-next
+o-o
+That's basically
+o-o
+the kids' book
 o-o
 version of the
 o-o
@@ -342,6 +349,7 @@ o-o
 It's also
 o-o
 impossible.
+sentence-next
 o-o
 Yet we can get
 o-o
@@ -550,9 +558,10 @@ the rule of law
 o-o
 mostly
 o-o
-still works here,
+still works here.
+sentence-next
 o-o
-even in
+Even in
 o-o
 New Jersey.
 end-lyric
@@ -945,4 +954,20 @@ o-o
 yet more money
 o-o
 to the Vatican.
+end-lyric
+
+ambee sings-econhist amenn
+Plus
+o-o
+abortions
+o-o
+of males
+o-o
+diminished
+o-o
+the size
+o-o
+of the king's
+o-o
+son's army.
 end-lyric

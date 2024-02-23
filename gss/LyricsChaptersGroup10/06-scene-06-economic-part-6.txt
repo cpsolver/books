@@ -538,31 +538,35 @@ o-o
 housing
 o-o
 associations.
-sentence-next
+end-lyric
+
+ambee sings-desha amenn
+Lots of
 o-o
+passive
+o-o
+aggression?
+end-lyric
+
+ambee sings-econhist amenn
 They adopt lots
 o-o
-of rules.
-sentence-next
+of rules
 o-o
-But constraints
+and constraints,
 o-o
-yield lots of
+which yield
 o-o
-complaints by
+complaints
 o-o
-the people who
+by people
 o-o
-aren't in power.
+not in power.
 sentence-next
 o-o
 In a nation,
 o-o
-citizens
-o-o
-who suffer
-o-o
-economically
+those who suffer
 o-o
 can't move out.
 sentence-next
@@ -580,9 +584,15 @@ drug cartels,
 o-o
 trading favors,
 o-o
-and lots of
+nepotism,
 o-o
-nepotism.
+and
+o-o
+military coups
+o-o
+by wannabe
+o-o
+dictators.
 end-lyric
 
 ambee sings-desha amenn

@@ -93,11 +93,13 @@ are more
 o-o
 important than
 o-o
+remembering
+o-o
 historical
 o-o
 battle details,
 o-o
-spelling,
+how to spell,
 o-o
 and how to add
 o-o
@@ -196,6 +198,13 @@ end-lyric
 
 ambee sings-damien amenn
 I love it!
+sentence-next
+o-o
+Schools are flunking
+o-o
+basic
+o-o
+education.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -301,7 +310,13 @@ end-lyric
 ambee sings-mathprof amenn
 Or fifty
 o-o
-percent.
+percent
+o-o
+when we want to
+o-o
+avoid the
+o-o
+decimal point.
 sentence-next
 o-o
 Now you're ready!
