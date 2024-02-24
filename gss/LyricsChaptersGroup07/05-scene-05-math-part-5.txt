@@ -842,7 +842,7 @@ o-o
 needed.
 sentence-next
 o-o
-Ranked hyphen-here choice ballots
+Ranked choice ballots
 o-o
 and pairwise
 o-o

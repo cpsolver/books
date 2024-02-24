@@ -452,7 +452,7 @@ sentence-next
 o-o
 just the top
 o-o
-part.
+part?
 sentence-next
 o-o
 The top hyphen-here most
@@ -461,7 +461,7 @@ candidate
 o-o
 on each
 o-o
-ballot.
+ballot?
 sentence-next
 o-o
 ...

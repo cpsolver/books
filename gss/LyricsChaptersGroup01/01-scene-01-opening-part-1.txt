@@ -38,6 +38,9 @@ end-comment
 ************ comenn
 
 ambee sings-fiance-firstuse amenn
+begin-explain name-damien no-space 's word-fiance end-explain
+sentence-next
+o-o
 name-damien no-space !
 sentence-next
 o-o
