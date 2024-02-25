@@ -62,15 +62,17 @@ plus postin'
 o-o
 the Spanish
 o-o
-version of the
+translation of
 o-o
-pregnancy
+the pregnancy
 o-o
 accommodation
 o-o
-rules for
+rules for dogs
 o-o
-dogs and cats,
+brought to work by
+o-o
+employees,
 o-o
 adds another
 o-o
@@ -560,9 +562,10 @@ how come
 o-o
 politics's
 o-o
-so perverted,
+so perverted?
+sentence-next
 o-o
-so inverted?
+So inverted?
 sentence-next
 o-o
 Surely,

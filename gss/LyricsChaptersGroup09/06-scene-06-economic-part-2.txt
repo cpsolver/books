@@ -288,24 +288,27 @@ we have now.
 end-lyric
 
 ambee sings-econhist amenn
-As the son of
+I'm the son of
 o-o
-an immigrant
+immigrant
 o-o
-family,
+parents,
 o-o
-from India,
+from India.
+sentence-next
 o-o
-I too think
+So I know
 o-o
-that's darkly
+that makes
 o-o
-comic.
+as much sense
+o-o
+as standing up
+o-o
+in a hammock.
 sentence-next
 o-o
 Even worse,
-o-o
-for voters,
 o-o
 it's moronic
 o-o

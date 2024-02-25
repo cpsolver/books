@@ -245,9 +245,11 @@ o-o
 end-lyric
 
 ambee sings-vc amenn
-What they got was
+Most of them got
 o-o
-a temporary pass
+just a
+o-o
+temporary pass
 o-o
 to the middle class.
 sentence-next
@@ -265,13 +267,17 @@ sentence-next
 o-o
 Or stuck with
 o-o
+child hyphen-here support and
+o-o
 alimony
 o-o
 payments
 o-o
-that would fund
+that could have bought
 o-o
-a small bank.
+a nice house
+o-o
+on a hilltop.
 end-lyric
 
 ambee sings-damien amenn

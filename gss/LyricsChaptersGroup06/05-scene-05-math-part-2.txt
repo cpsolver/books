@@ -162,49 +162,54 @@ students
 o-o
 and putting
 o-o
-fake
+ant hyphen-here brained
 o-o
 intelligence
 o-o
 into computers
 o-o
-are both
+is like
 o-o
-as stupid
+asking
 o-o
-as someone
+opera singers
 o-o
-who tries
+to learn dance
 o-o
-to stand up
+choreography,
 o-o
-in a hammock.
+and asking
+o-o
+break dancers
+o-o
+to sing in a
+o-o
+symphony
+o-o
+chorus.
 end-lyric
 
 ambee sings-desha amenn
-I agree.
-sentence-next
-o-o
-I think
-o-o
-this means
+This means
 o-o
 schools
 o-o
-deserve a
+are doubly
 o-o
-failing grade!
+flunking
+o-o
+basic
+o-o
+education.
 end-lyric
 
 ambee sings-damien amenn
 I love it!
 sentence-next
 o-o
-Schools are flunking
+Schools are
 o-o
-basic
-o-o
-education.
+flunking!
 end-lyric
 
 ambee sings-mathprof amenn
