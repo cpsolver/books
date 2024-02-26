@@ -112,15 +112,22 @@ now.
 end-lyric
 
 ambee sings-damien amenn
+The bleach scent
+o-o
+isn't evident.
+sentence-next
+o-o
 Now I wonder
 o-o
-why doesn't the
+why
 o-o
-benefit
+the awareness
 o-o
 of greater
 o-o
 fairness
+o-o
+doesn't
 o-o
 attract
 o-o
@@ -927,7 +934,11 @@ sentence-next
 o-o
 To avoid
 o-o
-tiny numbers.
+numbers
+o-o
+between one
+o-o
+and zero.
 end-lyric
 
 ambee sings-mathprof amenn

@@ -82,15 +82,16 @@ o-o
 voting.
 sentence-next
 o-o
+Yuck!
+sentence-next
+o-o
 I suppose
 o-o
 until we get
 o-o
-better elections
+ranked choice
 o-o
-using ranked
-o-o
-choice ballots
+ballots
 o-o
 we're stuck with
 o-o
@@ -224,9 +225,20 @@ sentence-next
 o-o
 Especially,
 o-o
-thanks for teaching me
+thanks for
 o-o
-I'm not a third hyphen-here wit loser.
+teaching me
+o-o
+my use of
+o-o
+fractions was
+o-o
+irrational.
+sentence-next
+o-o
+And that I'm not
+o-o
+a third hyphen-here wit loser.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -239,15 +251,11 @@ your brain
 o-o
 does not contain
 o-o
-cobwebs,
-o-o
-or sawdust,
-o-o
-or an
-o-o
-unreal
+an unreal
 o-o
 number of
+o-o
+useless
 o-o
 Tik Tok videos.
 end-lyric

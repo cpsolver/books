@@ -341,11 +341,10 @@ end-lyric
 ambee sings-mathprof amenn
 Remember your
 o-o
-promise,
+promise.
+sentence-next
 o-o
-...
-o-o
-that you won't
+That you won't
 o-o
 reveal where
 o-o
@@ -415,9 +414,10 @@ they require
 o-o
 academic
 o-o
-references,
+references.
+sentence-next
 o-o
-especially
+Especially
 o-o
 for
 o-o
@@ -707,7 +707,7 @@ ambee sings-mathprof amenn
 No.
 sentence-next
 o-o
-If the army
+If the big army
 o-o
 you like better
 o-o

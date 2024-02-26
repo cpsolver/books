@@ -89,29 +89,31 @@ would fill that
 o-o
 party's
 o-o
-extra seat.
+statewide seat.
 sentence-next
 o-o
 Then just repeat
 o-o
 that process
 o-o
-for each next seat.
+for each
+o-o
+statewide seat.
 end-lyric
 
 ambee sings-desha amenn
 That sounds like
 o-o
-it would rip
+it would
 o-o
-control away from
+pressure hyphen-here wash away
 o-o
 party insiders.
 sentence-next
 o-o
 And empower
 o-o
-the voters.
+voters.
 end-lyric
 
 ambee sings-damien amenn
@@ -258,7 +260,7 @@ they've been using
 o-o
 paper ballots
 o-o
-for instant runoff
+and instant runoff
 o-o
 voting
 o-o
@@ -761,7 +763,7 @@ sentence-next
 o-o
 That allows a
 o-o
-small party
+third party
 o-o
 to grow and
 o-o
@@ -1058,19 +1060,28 @@ candidates
 o-o
 when they occur,
 o-o
-combined with
+and using
 o-o
 instant runoff
 o-o
-voting,
+voting
 o-o
-is like
+otherwise,
 o-o
-pole vaulting
+would work great.
+sentence-next
 o-o
-with a pole
+That simple
 o-o
-that's almost
+combination
 o-o
-full length.
+would pole vault us
+o-o
+almost as high
+o-o
+as the best
+o-o
+counting
+o-o
+methods.
 end-lyric

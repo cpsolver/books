@@ -3,7 +3,7 @@ Special Preview Edition
 end-heading
 
 begin-standard-paragraph
-If you are not a resident of Oregon (or southern Washington state), please purchase the full ebook edition of
+If you are not a resident of Oregon (or at least somehow affiliated with Oregon), please purchase the full ebook edition of
 begin-italics book-title end-italics
 through the usual ebook sources.
 sentence-next

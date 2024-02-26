@@ -851,13 +851,11 @@ lots of the time.
 end-lyric
 
 ambee sings-econhist amenn
-About info
+Information
 o-o
-related to
+about cults,
 o-o
-cults,
-o-o
-sure.
+of course.
 sentence-next
 o-o
 That includes
@@ -868,23 +866,15 @@ racial and
 o-o
 language hyphen-here based cults,
 o-o
-the pharmaceutical
+the Republican cult,
 o-o
-industry,
-o-o
-the fossil fuel
-o-o
-industry,
+the Democratic cult,
 o-o
 and the
 o-o
-Republican
+fossil fuel
 o-o
-and
-o-o
-Democratic
-o-o
-cults.
+industry.
 sentence-next
 o-o
 But Wikipedia

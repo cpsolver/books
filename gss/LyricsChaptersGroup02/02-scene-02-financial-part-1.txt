@@ -261,8 +261,14 @@ o-o
 money.
 sentence-next
 o-o
-There's
+Besides
+o-o
+Benjamins
+o-o
+there's
+o-o
 alimony,
+o-o
 annuities,
 o-o
 assets,
@@ -328,7 +334,9 @@ sentence-next
 o-o
 'N besides words
 o-o
-for mula and dough,
+for mula, dough,
+o-o
+and paycheck,
 o-o
 there're words
 o-o
@@ -490,20 +498,21 @@ o-o
 ancient scribes.
 sentence-next
 o-o
-They write
+But they write
 o-o
 documents
 o-o
-on paper.
-sentence-next
+on computer
 o-o
-That's much more
+screens
 o-o
-portable
+and paper
 o-o
-than clay tablets
+instead of
 o-o
-or pyramid
+clay tablets
+o-o
+and pyramid
 o-o
 walls.
 end-lyric
@@ -523,9 +532,9 @@ sentence-next
 o-o
 So you don't
 o-o
-end up singing
+end up singin'
 o-o
-the blues.
+the blues?
 end-lyric
 
 ambee sings-vc amenn
@@ -701,11 +710,21 @@ with Cheerios?
 end-lyric
 
 ambee sings-vc amenn
-Sure money
+Sure.
+sentence-next
 o-o
-can be used
+And yet money
 o-o
-to oppose
+also can be
+o-o
+used to oppose
+o-o
+customer
+o-o
+resistance.
+sentence-next
+o-o
+And even
 o-o
 customer
 o-o
