@@ -833,7 +833,7 @@ another guy.
 end-lyric
 
 ambee sings-econhist amenn
-Yes, Paul Allen.
+Yes.
 sentence-next
 o-o
 They bought code
@@ -842,30 +842,15 @@ and renamed it
 o-o
 Microsoft
 o-o
-DOS.
-sentence-next
+DOS,
 o-o
-Besides the
+so there was a
 o-o
-creative
-o-o
-genius
+creative genius
 o-o
 behind that
 o-o
-software,
-o-o
-there were
-o-o
-more creative
-o-o
-geniuses
-o-o
-behind
-o-o
-Microsoft
-o-o
-Windows.
+software.
 end-lyric
 
 ambee sings-desha amenn

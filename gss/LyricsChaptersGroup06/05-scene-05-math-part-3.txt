@@ -306,17 +306,23 @@ That candidate
 o-o
 is ranked at
 o-o
-the bottom.
+the bottom
+o-o
+choice level.
 sentence-next
 o-o
-In this case
+Or lower than
 o-o
-that's the
+all the ranked ones.
+sentence-next
 o-o
-begin-italics
-seventh choice
-end-italics
-no-space .
+Depending on
+o-o
+how write hyphen-here in
+o-o
+candidates
+o-o
+are handled.
 end-lyric
 
 ambee sings-damien amenn
@@ -514,9 +520,7 @@ o-o
 Honesty I mean.
 sentence-next
 o-o
-It seems to be
-o-o
-getting
+It's getting
 o-o
 less and less
 o-o
@@ -541,6 +545,8 @@ o-o
 as it is in
 o-o
 politics,
+o-o
+and perhaps dating,
 o-o
 that simple way
 o-o

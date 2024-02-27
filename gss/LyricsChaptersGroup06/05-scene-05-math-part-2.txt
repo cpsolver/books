@@ -172,25 +172,25 @@ is like
 o-o
 asking
 o-o
-opera singers
-o-o
-to learn dance
-o-o
-choreography,
-o-o
-and asking
-o-o
-break dancers
+street dancers
 o-o
 to sing in a
 o-o
 symphony
 o-o
-chorus.
+chorus,
+o-o
+and asking
+o-o
+opera singers
+o-o
+to learn dance
+o-o
+choreography.
 end-lyric
 
 ambee sings-desha amenn
-This means
+Does this mean
 o-o
 schools
 o-o
@@ -200,16 +200,7 @@ flunking
 o-o
 basic
 o-o
-education.
-end-lyric
-
-ambee sings-damien amenn
-I love it!
-sentence-next
-o-o
-Schools are
-o-o
-flunking!
+education?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -674,15 +665,13 @@ method won't work?
 end-lyric
 
 ambee sings-mathprof amenn
-Ah,
+To keep your
 o-o
-I should
+perspective,
 o-o
-shine light
+consider
 o-o
-on the concept
-o-o
-that there are
+there are
 o-o
 two parts
 o-o
@@ -691,9 +680,10 @@ o-o
 voting method.
 sentence-next
 o-o
-There's the ballot
+There's the ballot.
+sentence-next
 o-o
-and there's the
+And there's the
 o-o
 counting of those
 o-o

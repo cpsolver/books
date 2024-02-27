@@ -315,19 +315,6 @@ jump off.
 end-lyric
 
 ambee sings-mathprof amenn
-Those bridges
-o-o
-were built by
-o-o
-scientists
-o-o
-and engineers
-o-o
-using the
-o-o
-digit zero.
-sentence-next
-o-o
 When it was new,
 o-o
 the digit
@@ -347,24 +334,16 @@ o-o
 calculations.
 sentence-next
 o-o
-And they put
+Now they put
 o-o
-a man
+rovers on
 o-o
-on the moon,
+the planet
 o-o
-and put rovers
-o-o
-on the
-o-o
-planet Mars.
+Mars.
 sentence-next
 o-o
-And the digit
-o-o
-zero
-o-o
-prevents
+And prevent
 o-o
 hair loss
 o-o
@@ -392,7 +371,7 @@ Do you
 o-o
 appreciate
 o-o
-that the digit
+the digit
 o-o
 zero allows
 o-o
@@ -736,29 +715,11 @@ sentence-next
 o-o
 The number twelve
 o-o
-can be divided
+is easy to divide
 o-o
 by two and three
 o-o
-and four and six,
-o-o
-and yield a nice
-o-o
-result of
-o-o
-six or four or
-o-o
-three or two.
-end-lyric
-
-ambee sings-desha amenn
-Twenty four
-o-o
-hours per day
-o-o
-certainly
-o-o
-simplifies time.
+and four and six.
 end-lyric
 
 ambee sings-damien amenn
@@ -862,13 +823,7 @@ sixty seconds.
 end-lyric
 
 ambee sings-mathprof amenn
-That avoids
-o-o
-fractions
-o-o
-because
-o-o
-sixty divides
+Sixty divides
 o-o
 without remainders
 o-o
@@ -881,6 +836,11 @@ o-o
 and fifteen and twenty
 o-o
 and thirty.
+sentence-next
+o-o
+That avoids
+o-o
+fractions.
 end-lyric
 
 ambee sings-damien amenn
