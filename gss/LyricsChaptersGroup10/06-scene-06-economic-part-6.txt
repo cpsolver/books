@@ -545,17 +545,18 @@ Lots of
 o-o
 passive
 o-o
-aggression?
+aggressive
+o-o
+manipulation?
 end-lyric
 
 ambee sings-econhist amenn
-They adopt lots
+Lots of rules
 o-o
-of rules
+and constraints.
+sentence-next
 o-o
-and constraints,
-o-o
-which yield
+Those yield
 o-o
 complaints
 o-o
@@ -980,7 +981,6 @@ o-o
 in reality
 o-o
 TV,
-o-o
 o-o
 at convenience
 o-o

@@ -48,29 +48,22 @@ consumption.
 end-lyric
 
 ambee sings-econhist amenn
-What else?
-end-lyric
-
-ambee sings-damien amenn
-I wasn't around,
+Shift your focus
 o-o
-so I don't know.
+from consumption
+o-o
+to production.
 end-lyric
 
 ambee sings-desha amenn
-Does this have
+Does this relate
 o-o
-anything to do with
+to factories
 o-o
-not getting bombed
+not getting bombed?
+sentence-next
 o-o
-here in the U.S.?
-end-lyric
-
-ambee sings-damien amenn
-Except at Pearl
-o-o
-Harbor.
+Here in the U.S.?
 end-lyric
 
 ambee sings-econhist amenn
@@ -310,7 +303,7 @@ sentence-next
 o-o
 Even worse,
 o-o
-it's moronic
+it's simplistic
 o-o
 to think
 o-o
@@ -489,9 +482,9 @@ I presume
 o-o
 with a harem
 o-o
-in addition to
+in addition
 o-o
-weavers and worms.
+to the worms.
 end-lyric
 
 ambee sings-econhist amenn
@@ -700,7 +693,6 @@ o-o
 why it's full of
 o-o
 ...
-sentence-next
 o-o
 corruption.
 end-lyric

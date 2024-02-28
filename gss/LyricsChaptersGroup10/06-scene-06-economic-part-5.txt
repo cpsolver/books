@@ -32,10 +32,6 @@ Renaissance
 o-o
 have spread
 o-o
-that basis
-o-o
-for wealth
-o-o
 around the world.
 sentence-next
 o-o
@@ -58,11 +54,9 @@ happening
 o-o
 in Greece
 o-o
-and Spain,
+and Spain
 o-o
-and Portugal,
-o-o
-and elsewhere.
+and Portugal.
 sentence-next
 o-o
 Those
@@ -95,11 +89,9 @@ crime
 o-o
 is still strong
 o-o
-in some of those
+in Italy
 o-o
-weaker
-o-o
-nations.
+and elsewhere.
 sentence-next
 o-o
 But name-econhist-nickname
@@ -721,7 +713,7 @@ He drew
 o-o
 charactures
 o-o
-stargazing
+of stargazing
 o-o
 popes?
 end-lyric
@@ -743,16 +735,13 @@ skills.
 end-lyric
 
 ambee sings-econhist amenn
-Indeed.
-sentence-next
-o-o
 During the
 o-o
 European
 o-o
 black death,
 o-o
-priests lost their
+priests lost more
 o-o
 credibility
 o-o

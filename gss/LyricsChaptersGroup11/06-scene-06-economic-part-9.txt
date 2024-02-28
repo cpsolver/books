@@ -5,10 +5,10 @@ like an
 o-o
 over-inflated
 o-o
-balloon.
+balloon?
 sentence-next
 o-o
-Does that mean our
+Does this mean our
 o-o
 roller coaster
 o-o
@@ -360,101 +360,6 @@ feedback loop.
 end-lyric
 
 ambee sings-damien amenn
-I thought a
-o-o
-feedback loop
-o-o
-was going back
-o-o
-for seconds
-o-o
-and thirds
-o-o
-at an
-o-o
-all hyphen-here you hyphen-here can hyphen-here eat
-o-o
-buffet.
-sentence-next
-o-o
-Apparently
-o-o
-I need to
-o-o
-better
-o-o
-understand
-o-o
-what a feedback
-o-o
-loop really is.
-end-lyric
-
-ambee sings-desha amenn
-A feedback loop
-o-o
-is what makes
-o-o
-a hurricane
-o-o
-so powerful.
-end-lyric
-
-ambee sings-damien amenn
-Lots of hot air?
-sentence-next
-o-o
-There's lots of it
-o-o
-in politics.
-sentence-next
-o-o
-It's in
-o-o
-economics
-o-o
-too?
-end-lyric
-
-ambee sings-desha amenn
-No,
-o-o
-you airhead!
-sentence-next
-o-o
-A feedback loop
-o-o
-is when a cause
-o-o
-and effect
-o-o
-becomes
-o-o
-a circle.
-end-lyric
-
-ambee sings-econhist amenn
-Basically
-o-o
-it's as if
-o-o
-the first effect
-o-o
-becomes a
-o-o
-second cause.
-sentence-next
-o-o
-And the
-o-o
-second effect
-o-o
-becomes the
-o-o
-first cause.
-end-lyric
-
-ambee sings-damien amenn
 So this loop
 o-o
 between optimism
@@ -790,13 +695,13 @@ o-o
 low salaries.
 sentence-next
 o-o
-Those would rise
+Those will rise
 o-o
 significantly
 o-o
-if businesses
+when businesses
 o-o
-were given
+are given
 o-o
 a well hyphen-here designed
 o-o

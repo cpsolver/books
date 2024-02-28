@@ -849,7 +849,21 @@ history fun.
 end-lyric
 
 ambee sings-damien amenn
-Can that be done?
+I'm done
+o-o
+with the past.
+sentence-next
+o-o
+It's gone.
+sentence-next
+o-o
+Why do people
+o-o
+dwell on that
+o-o
+old stuffy
+o-o
+stuff?
 sentence-next
 o-o
 'N economics,
@@ -898,12 +912,7 @@ bribes,
 o-o
 kickbacks,
 o-o
-payoffs,
-o-o
-payola.
-sentence-next
-o-o
-And
+and
 o-o
 campaign
 o-o

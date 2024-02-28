@@ -796,19 +796,17 @@ sentence-next
 o-o
 Less corruption
 o-o
-means that
-o-o
-more time,
+means more time,
 o-o
 and more money,
 o-o
-goes into
+is available
 o-o
-building things,
+for building
 o-o
-and buying things,
+and buying
 o-o
-that are
+things that are
 o-o
 valuable,
 o-o
@@ -819,19 +817,13 @@ ambee sings-econhist amenn
 Yes.
 sentence-next
 o-o
-There will be
+More efficiency
 o-o
-lots more
+and more
 o-o
-efficiency.
-sentence-next
+productivity
 o-o
-And
-o-o
-productivity.
-sentence-next
-o-o
-Which increases
+yield more
 o-o
 economic
 o-o

@@ -676,273 +676,21 @@ history.
 end-lyric
 
 ambee sings-damien amenn
-Oh dear,
+This might be
 o-o
-not silly
+tricky
 o-o
-wonky
+'cause my memory
 o-o
-history.
-sentence-next
+is faulty
 o-o
-I learned some.
-sentence-next
+about things
 o-o
-But I'm done
+that happened
 o-o
-with the past.
-sentence-next
+before I
 o-o
-It's gone.
-sentence-next
-o-o
-Why do people
-o-o
-dwell on that
-o-o
-old stuffy
-o-o
-stuff?
-sentence-next
-o-o
-Other than
-o-o
-using it
-o-o
-to play
-o-o
-trivia
-o-o
-games.
-end-lyric
-
-ambee sings-econhist amenn
-Here I'm walking
-o-o
-backwards.
-sentence-next
-o-o
-Imagine that
-o-o
-this is like
-o-o
-moving forward
-o-o
-in time.
-sentence-next
-o-o
-The future
-o-o
-is behind me
-o-o
-where I
-o-o
-cannot see.
-sentence-next
-o-o
-So I look
-o-o
-where I've been.
-sentence-next
-o-o
-That's the past.
-sentence-next
-o-o
-The patterns
-o-o
-give me clues
-o-o
-about
-o-o
-that which is
-o-o
-yet to be.
-sentence-next
-o-o
-So history
-o-o
-is like a
-o-o
-crystal ball.
-end-lyric
-
-ambee sings-damien amenn
-Now I see!
-sentence-next
-o-o
-History
-o-o
-is a preview
-o-o
-of the future.
-sentence-next
-o-o
-Who knew?
-end-lyric
-
-ambee sings-desha amenn
-Probably
-o-o
-the person
-o-o
-who said
-o-o
-history
-o-o
-doesn't always
-o-o
-repeat itself,
-o-o
-but usually
-o-o
-it rhymes.
-end-lyric
-
-ambee sings-econhist amenn
-Many people
-o-o
-mistakenly
-o-o
-think history
-o-o
-is mostly
-o-o
-recalling
-o-o
-facts about
-o-o
-the past.
-end-lyric
-
-ambee sings-damien amenn
-In a history
-o-o
-trivia contest
-o-o
-Wikipedia
-o-o
-would beat me
-o-o
-like the loudest
-o-o
-drum in a
-o-o
-marchin' band.
-end-lyric
-
-ambee sings-econhist amenn
-Reading
-o-o
-Wikipedia
-o-o
-would be
-o-o
-a great way
-o-o
-to learn
-o-o
-history.
-end-lyric
-
-ambee sings-desha amenn
-Wikipedia is wrong
-o-o
-lots of the time.
-end-lyric
-
-ambee sings-econhist amenn
-Information
-o-o
-about cults,
-o-o
-of course.
-sentence-next
-o-o
-That includes
-o-o
-religious cults,
-o-o
-racial and
-o-o
-language hyphen-here based cults,
-o-o
-the Republican cult,
-o-o
-the Democratic cult,
-o-o
-and the
-o-o
-fossil fuel
-o-o
-industry.
-sentence-next
-o-o
-But Wikipedia
-o-o
-is usually
-o-o
-right about
-o-o
-non hyphen-here recent
-o-o
-history.
-sentence-next
-o-o
-Also about
-o-o
-basic
-o-o
-mathematics,
-o-o
-non hyphen-here medical
-o-o
-biochemistry,
-o-o
-and movie plots.
-end-lyric
-
-ambee sings-damien amenn
-My eyes are
-o-o
-cryin'
-o-o
-just thinkin'
-o-o
-about reading
-o-o
-Wikipedia
-o-o
-so much.
-end-lyric
-
-ambee sings-desha amenn
-You said that
-o-o
-reading glasses
-o-o
-with a blue tint
-o-o
-helps with books.
-sentence-next
-o-o
-A good browser
-o-o
-can change
-o-o
-Wikipedia's
-o-o
-white background
-o-o
-to blue.
-sentence-next
-o-o
-See how that looks.
-end-lyric
-
-ambee sings-damien amenn
-I'll give that
-o-o
-trick a try.
+was around.
 end-lyric
 
 ambee sings-econhist amenn
@@ -960,28 +708,105 @@ o-o
 Cause and effect.
 sentence-next
 o-o
-And the ones
+Insights
 o-o
-that involve
+about the ones
 o-o
-a surprise
+in feedback loops
 o-o
-are the insights
+are especially
 o-o
-you should
+useful.
+sentence-next
 o-o
-prize.
+Do you know
+o-o
+what a feedback
+o-o
+loop is?
 end-lyric
 
 ambee sings-damien amenn
-Can ya translate
+Going back
 o-o
-that into a
+for seconds
 o-o
-for instance?
+and thirds
+o-o
+at an
+o-o
+all hyphen-here you hyphen-here can hyphen-here eat
+o-o
+buffet?
+end-lyric
+
+ambee sings-desha amenn
+You're stuck
+o-o
+in the wrong
+o-o
+loop.
+sentence-next
+o-o
+A feedback loop
+o-o
+is what makes
+o-o
+a hurricane
+o-o
+so powerful.
+end-lyric
+
+ambee sings-damien amenn
+Lots of hot air?
+sentence-next
+o-o
+There's lots of it
+o-o
+in politics.
+sentence-next
+o-o
+It's in
+o-o
+economics
+o-o
+too?
+end-lyric
+
+ambee sings-desha amenn
+No,
+o-o
+you airhead!
+sentence-next
+o-o
+A feedback loop
+o-o
+is when a cause
+o-o
+and effect
+o-o
+becomes
+o-o
+a circle.
+end-lyric
+
+ambee sings-damien amenn
+Can we start
+o-o
+with cause
+o-o
+and effect?
+sentence-next
+o-o
+The economic
+o-o
+kind?
 end-lyric
 
 ambee sings-econhist amenn
+Sure.
+sentence-next
+o-o
 Let's start with the
 o-o
 nineteen fifties
