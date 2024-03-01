@@ -63,7 +63,7 @@ middle hyphen-here age male, tenor voice.
 sentence-next
 Slight Indian accent, as if he is the son of immigrants from India.
 sentence-next
-(At least pronounces "the" as "thee" rather than "thuh".)
+(At least pronounces begin-italics the end-italics as begin-italics thee end-italics rather than begin-italics thuh end-italics no-space .)
 sentence-next
 Sounds like a university professor.
 sentence-next
@@ -71,7 +71,7 @@ Clear enunciation is important.
 end-lyric
 
 ambee sings-minister amenn
-begin-bold name-minister end-bold (pronounced like "wit") no-space ,
+begin-bold name-minister end-bold (pronounced like begin-italics wit end-italics no-space ) no-space ,
 middle hyphen-here age male, tenor voice.
 sentence-next
 Sounds like a wise minister or clergyman.
@@ -95,7 +95,7 @@ end-standard-paragraph
 begin-standard-paragraph
 begin-bold Voice suggestions for all characters: end-bold
 sentence-next
-The voices should be natural (full hyphen-here throated and conversational), lively (with frequent emotion hyphen-here based pitch inflections although virtually never in the middle of a syllable, and with word hyphen-here specific loudness changes), and smiling (comedic, but not "funny"), without any shouting.
+The voices should be natural (full hyphen-here throated and conversational), lively (with frequent emotion hyphen-here based pitch inflections although virtually never in the middle of a syllable, and with word hyphen-here specific loudness changes), and smiling (comedic, but not begin-italics funny end-italics no-space ), without any shouting.
 sentence-next
 The rhythm should be freeform and improvisational without being specified by written notation or metronome hyphen-here like timing.
 sentence-next

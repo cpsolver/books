@@ -745,11 +745,6 @@ o-o
 the kitchen.
 sentence-next
 o-o
-Watching ads
-o-o
-on YouTube.
-sentence-next
-o-o
 And scrolling
 o-o
 past Facebook ads
@@ -777,29 +772,19 @@ in the economy
 o-o
 will disappear
 o-o
-after we adopt
-o-o
-better laws.
-sentence-next
-o-o
-But that requires
-o-o
-increasing
+after we reduce
 o-o
 the influence
 o-o
-of voters.
-sentence-next
+of money
 o-o
-Which requires
+in elections
 o-o
-decreasing
+for Congress
 o-o
-the influence
+and state
 o-o
-of money in
-o-o
-politics.
+legislatures.
 end-lyric
 
 ambee sings-desha amenn

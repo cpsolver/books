@@ -316,9 +316,7 @@ despair,
 o-o
 hopelessness,
 o-o
-and probably
-o-o
-high
+and higher
 o-o
 interest rates.
 end-lyric
@@ -580,7 +578,7 @@ cat fights,
 o-o
 mistresses,
 o-o
-drugs, vice,
+drugs,
 o-o
 and
 o-o
@@ -652,38 +650,21 @@ tax break.
 end-lyric
 
 ambee sings-damien amenn
-An additional
+Another
 o-o
-tax break
+kind of tax break
 o-o
-would go to
+will reward
 o-o
-businesses
+a business
 o-o
-that pay their
+that pays their
 o-o
 workers better.
 sentence-next
+The ones who get
 o-o
-It's measured
-o-o
-as the gap
-o-o
-in wages
-o-o
-between the
-o-o
-better hyphen-here paid
-o-o
-employees
-o-o
-and the
-o-o
-other half
-o-o
-of the
-o-o
-employees.
+lower wages.
 end-lyric
 
 ambee sings-desha amenn

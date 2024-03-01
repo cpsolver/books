@@ -873,7 +873,7 @@ o-o
 o-o
 well,
 o-o
-....
+...
 sentence-next
 o-o
 I think they get

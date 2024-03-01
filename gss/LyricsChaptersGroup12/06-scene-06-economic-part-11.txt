@@ -582,7 +582,7 @@ end-lyric
 ambee sings-damien amenn
 So this is the
 o-o
-cherry pie
+savory pie
 o-o
 slicing
 o-o
@@ -598,9 +598,9 @@ bullets at
 o-o
 people reaching
 o-o
-for the
+for
 o-o
-cherry pie.
+savory pie.
 sentence-next
 o-o
 Without
@@ -724,8 +724,6 @@ sentence-next
 o-o
 Steve Jobs,
 o-o
-Bill Gates,
-o-o
 Elon Musk,
 o-o
 Thomas Edison,
@@ -820,53 +818,6 @@ o-o
 who is a design
 o-o
 genius.
-end-lyric
-
-ambee sings-damien amenn
-Bill Gates
-o-o
-co hyphen-here founded
-o-o
-Microsoft with
-o-o
-another guy.
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-sentence-next
-o-o
-They bought code
-o-o
-and renamed it
-o-o
-Microsoft
-o-o
-DOS,
-o-o
-so there was a
-o-o
-creative genius
-o-o
-behind that
-o-o
-software.
-end-lyric
-
-ambee sings-desha amenn
-But not the
-o-o
-ass
-o-o
-trolls
-o-o
-who poked it
-o-o
-full of 
-o-o
-security
-o-o
-holes.
 end-lyric
 
 ambee sings-damien amenn

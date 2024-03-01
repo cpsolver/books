@@ -165,7 +165,9 @@ It's like the
 o-o
 insurrection
 o-o
-on January sixth.
+on January
+o-o
+sixth.
 sentence-next
 o-o
 The fighters who
@@ -174,7 +176,9 @@ attacked Congress
 o-o
 believed they were
 o-o
-in sort of a cult
+in sort of a
+o-o
+cult
 o-o
 to defend
 o-o

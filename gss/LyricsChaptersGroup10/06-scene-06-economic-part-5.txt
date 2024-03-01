@@ -713,7 +713,7 @@ He drew
 o-o
 charactures
 o-o
-of stargazing
+of starstruck
 o-o
 popes?
 end-lyric
@@ -866,17 +866,14 @@ o-o
 corruption.
 sentence-next
 o-o
-Which will
+Of all kinds.
+sentence-next
 o-o
-increase
+Including
 o-o
-efficiency,
+religious
 o-o
-cooperation,
-o-o
-and
-o-o
-prosperity.
+corruption.
 sentence-next
 o-o
 What else
@@ -918,7 +915,7 @@ This is like
 o-o
 baking extra
 o-o
-cherry pies.
+savory pies.
 sentence-next
 o-o
 The overall

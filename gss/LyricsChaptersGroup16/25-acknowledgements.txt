@@ -6,11 +6,12 @@ begin-standard-paragraph
 Here's a big thank you to these skilled editors and reviewers:
 George "Vonnegut" (a comedy writing genius on Fiverr),
 Cynthia S.,
+Eliza R.,
 Andrew W.,
 Eduard H.,
 Matt Y.,
 Mia M.,
-and others who prefer to remain anonymous.
+and others who choose to remain anonymous.
 sentence-next
 Last names are omitted so the author's political views are not confused with the political views of anyone listed here.
 end-standard-paragraph

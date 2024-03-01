@@ -800,19 +800,15 @@ o-o
 than McCain.
 sentence-next
 o-o
-Someone who
+And promised
 o-o
-recognized
+big reforms
 o-o
-the rampant
+like Obama's
 o-o
-corruption
+slogan of
 o-o
-and promised
-o-o
-some big
-o-o
-reforms.
+begin-italics hope and change end-italics no-space .
 end-lyric
 
 ambee sings-father-of-fiance amenn

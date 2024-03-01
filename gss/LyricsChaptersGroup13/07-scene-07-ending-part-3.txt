@@ -737,19 +737,29 @@ o-o
 fund those too.
 sentence-next
 o-o
-And there was
+Public service
 o-o
-less disease
+announcements
 o-o
-because priests
+used to come
 o-o
-reminded folks
+from a pulpit.
+sentence-next
 o-o
-not to litter
+Such as
+o-o
+reminders to
+o-o
+not litter
 o-o
 bare ground with
 o-o
 human turds.
+sentence-next
+o-o
+That reduced
+o-o
+disease.
 end-lyric
 
 ambee sings-vc amenn

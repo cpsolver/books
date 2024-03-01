@@ -324,7 +324,7 @@ your name.
 end-lyric
 
 ambee sings-minister amenn
-My name ....
+My name ...
 end-lyric
 
 ambee sings-vc amenn

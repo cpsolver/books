@@ -31,17 +31,13 @@ end-lyric
 ambee sings-damien amenn
 My boss,
 o-o
-and other
+and owners of
 o-o
-owners of small
+similar small
 o-o
 construction
 o-o
-businesses
-o-o
-like the one
-o-o
-I work in.
+businesses.
 sentence-next
 o-o
 And maybe
@@ -480,7 +476,7 @@ So it would
 o-o
 make lots more
 o-o
-cherry pies!
+savory pies!
 sentence-next
 o-o
 Then there'd be
@@ -495,7 +491,7 @@ slices
 o-o
 from just one
 o-o
-cherry pie.
+savory pie.
 sentence-next
 o-o
 Then everyone
@@ -673,13 +669,11 @@ of small maker
 o-o
 businesses,
 o-o
-like the one
+including
 o-o
-I work in,
+the one I'd like
 o-o
-'n the one
-o-o
-I'd like to build,
+to build,
 o-o
 they're in the
 o-o
@@ -932,6 +926,11 @@ interest.
 end-lyric
 
 ambee sings-damien amenn
+Because of those
+o-o
+auctions.
+sentence-next
+o-o
 I suppose
 o-o
 that gives

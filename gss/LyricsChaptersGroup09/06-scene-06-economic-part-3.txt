@@ -155,11 +155,16 @@ o-o
 increases.
 sentence-next
 o-o
-So that
+That's the gap
 o-o
-brings up rates
+that controls
 o-o
-of interest.
+interest rates.
+sentence-next
+o-o
+The one in the news
+o-o
+has to follow it.
 end-lyric
 
 ambee sings-damien amenn
@@ -291,7 +296,7 @@ So lately the
 o-o
 federal
 o-o
-reserve
+government
 o-o
 has been buying
 o-o
@@ -557,7 +562,7 @@ o-o
 commerce.
 sentence-next
 o-o
-And they used
+They used
 o-o
 soldiers and
 o-o
@@ -583,14 +588,16 @@ o-o
 weights and sizes.
 sentence-next
 o-o
-And they built roads
+They built roads
 o-o
 and patrolled them
 o-o
 with soldiers.
 sentence-next
 o-o
-They built aqueducts
+And they built
+o-o
+aqueducts
 o-o
 to channel water
 o-o
@@ -779,7 +786,7 @@ o-o
 shoelaces together.
 sentence-next
 o-o
-That
+It
 o-o
 suppresses
 o-o
@@ -794,21 +801,15 @@ o-o
 sense to me.
 sentence-next
 o-o
-Less corruption
+Less crime and
 o-o
-means more time,
+corruption
 o-o
-and more money,
+means there's more time
 o-o
-is available
+for construction
 o-o
-for building
-o-o
-and buying
-o-o
-things that are
-o-o
-valuable,
+and consumption,
 o-o
 right?
 end-lyric

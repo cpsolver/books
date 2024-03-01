@@ -655,20 +655,38 @@ sentence-next
 o-o
 It started with
 o-o
-efficient banking.
+efficient banking
+o-o
+between cities.
 sentence-next
 o-o
-Plus improved ships
+That put yet more
 o-o
-and navigation
+highway robbers
 o-o
-using technology
+out of
+o-o
+business.
+sentence-next
+o-o
+And it financed
+o-o
+improved ships
+o-o
+with better
+o-o
+navigation.
+sentence-next
+o-o
+Using technology
 o-o
 from China.
 end-lyric
 
 ambee sings-desha amenn
-The compass, right?
+The compass,
+o-o
+right?
 end-lyric
 
 ambee sings-econhist amenn
@@ -683,15 +701,19 @@ o-o
 gunpowder.
 sentence-next
 o-o
-And the idea
+And did that
 o-o
-for the digits
+better banking
 o-o
-zero through nine,
+use the digits
 o-o
-from the Chinese
+zero through nine
 o-o
-abacus.
+that came from
+o-o
+the Chinese
+o-o
+abacus?
 end-lyric
 
 ambee sings-econhist amenn

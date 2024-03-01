@@ -31,7 +31,7 @@ it will drop
 o-o
 from its
 o-o
-recent
+current
 o-o
 top.
 end-lyric
@@ -216,12 +216,16 @@ Yes, it's higher.
 end-lyric
 
 ambee sings-damien amenn
-Why don't economists
+Why don't
+o-o
+economists
 o-o
 measure that?
 sentence-next
 o-o
-The real unemployment
+The real
+o-o
+unemployment
 o-o
 rate.
 end-lyric
@@ -229,63 +233,27 @@ end-lyric
 ambee sings-econhist amenn
 The government
 o-o
-does measure that
+measures that
 o-o
 as well.
-sentence-next
-o-o
-But most
-o-o
-newspapers and
-o-o
-TV stations
-o-o
-report the
-o-o
-unemployment
-o-o
-rate
-o-o
-that
-o-o
-government
-o-o
-officials call
-o-o
-attention to.
 end-lyric
 
 ambee sings-desha amenn
-Since wealthy
+But owners
 o-o
-business owners
+of news sources
 o-o
-own news sources,
+get more money
 o-o
-they probably
+from advertisers
 o-o
-tell their
+when consumers
 o-o
-reporters
-o-o
-to report the
-o-o
-lower rate.
-sentence-next
-o-o
-That gives
-o-o
-consumers
-o-o
-confidence
+have confidence
 o-o
 to spend dollars
 o-o
-more freely
-o-o
-at businesses
-o-o
-that advertise.
+more freely.
 end-lyric
 
 ambee sings-damien amenn
@@ -354,7 +322,9 @@ o-o
 less money.
 sentence-next
 o-o
-That's a powerful
+That's a
+o-o
+powerful
 o-o
 feedback loop.
 end-lyric
@@ -362,9 +332,13 @@ end-lyric
 ambee sings-damien amenn
 So this loop
 o-o
-between optimism
+between
 o-o
-and consumption
+optimism
+o-o
+and
+o-o
+consumption
 o-o
 is like
 o-o
@@ -376,131 +350,62 @@ scooper loop?
 end-lyric
 
 ambee sings-desha amenn
-That's a different
+That poop loop
 o-o
-kind of
-o-o
-feedback loop.
-sentence-next
-o-o
-Dog owners
-o-o
-have to care
-o-o
-about the health
-o-o
-of other dogs
-o-o
-to protect
-o-o
-their own dog's
-o-o
-health.
-sentence-next
-o-o
-Here, in
-o-o
-economic
-o-o
-kinds of
-o-o
-feedback loops,
-o-o
-monetary ...
-sentence-next
-o-o
-money hyphen-here based
-o-o
-begin-italics self hyphen-here interest end-italics
-o-o
-is the
-o-o
-motivation.
+is different.
 end-lyric
 
 ambee sings-econhist amenn
-In economic
+Economic
 o-o
 feedback loops
 o-o
-each person
+are based on
 o-o
-focuses on
-o-o
-what they
-o-o
-themselves
-o-o
-want.
+begin-italics self hyphen-here interest end-italics
+no-space .
 sentence-next
 o-o
-Without caring
+Where
 o-o
-what
+everyone
 o-o
-others want.
-end-lyric
-
-ambee sings-damien amenn
-I see.
-sentence-next
+selfishly
 o-o
-Dog owners,
+competes
 o-o
-the pooper
+for limited
 o-o
-scooper ones,
+valuable
 o-o
-care how many
-o-o
-piles of dog poop
-o-o
-their dog
-o-o
-can sniff.
-sentence-next
-o-o
-But that's
-o-o
-affected by
-o-o
-other dog
-o-o
-owners.
-sentence-next
-o-o
-There's no
-o-o
-benefit
-o-o
-to poop
-o-o
-scooping
-o-o
-if other
-o-o
-dog owners
-o-o
-don't scoop
-o-o
-too.
+resources.
 end-lyric
 
 ambee sings-desha amenn
-You've got it.
+In a dog owner
+o-o
+feedback loop,
+o-o
+the selfish
+o-o
+choice would be
+o-o
+to not pick up
+o-o
+any dog poop.
+sentence-next
+o-o
+A dog doesn't
+o-o
+get sick from
+o-o
+nosing its own
+o-o
+doo doo.
 end-lyric
 
 ambee sings-damien amenn
 Hey!
-sentence-next
-o-o
-...
-sentence-next
-o-o
-Wait a moment.
-sentence-next
-o-o
-...
 sentence-next
 o-o
 Feedback loops
@@ -549,7 +454,7 @@ and bigger
 o-o
 slices of
 o-o
-cherry pie.
+savory pie.
 sentence-next
 o-o
 And they don't

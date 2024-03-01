@@ -189,13 +189,12 @@ hillside.
 sentence-next
 o-o
 It's long gone.
-sentence-next
+end-lyric
+
+ambee sings-damien amenn
+What you've
 o-o
-But this,
-o-o
-what you're
-o-o
-teaching us,
+taught us
 o-o
 reveals
 o-o
@@ -210,18 +209,20 @@ o-o
 mysteries.
 sentence-next
 o-o
-Of why things are
+Why things are
 o-o
 the way they are.
 sentence-next
 o-o
-So I think
+I believe
 o-o
 I'll remember
 o-o
 most of it
 o-o
-for a long time.
+for a very
+o-o
+long time.
 end-lyric
 
 ambee sings-econhist amenn

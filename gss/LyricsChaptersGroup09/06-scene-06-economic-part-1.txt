@@ -361,50 +361,75 @@ explain why?
 end-lyric
 
 ambee sings-econhist amenn
-Imagine the economy
+Imagine
 o-o
-as a strawberry pie.
+the economy
+o-o
+as a
+o-o
+very berry
+o-o
+pie.
+sentence-next
+o-o
+Shall we say
+o-o
+strawberry?
 end-lyric
 
 ambee sings-desha amenn
-I'm not fond of
+Sweet pies
 o-o
-strawberry pie.
+are tasty,
+o-o
+but not filling.
 sentence-next
 o-o
-And apple pie
+I'd rather fight
 o-o
-is tasteless
+for a pie
 o-o
-to me as a
-o-o
-metaphor.
+with meat.
 sentence-next
 o-o
-Can we make it
+How about a
 o-o
-tastier
+chicken
 o-o
-and fill it
+pot pie?
+end-lyric
+
+ambee sings-damien amenn
+That's a mouthful.
+end-lyric
+
+ambee sings-desha amenn
+Then let's
 o-o
-with cherries?
+generalize
+o-o
+to
+o-o
+savory pie.
 end-lyric
 
 ambee sings-econhist amenn
-Of course. Now
+So imagine
 o-o
-imagine the economy
+the economy
 o-o
-is a cherry pie.
+is a savory pie.
 sentence-next
 o-o
 If some people
 o-o
 cut themselves
 o-o
-a slice that is
+a slice that's
 o-o
-too big, then other
+too big,
+o-o
+then other
 o-o
 people end up with
 o-o
@@ -623,7 +648,7 @@ creating
 o-o
 more
 o-o
-cherry pies.
+savory pies.
 end-lyric
 
 ambee sings-damien amenn
@@ -631,9 +656,13 @@ I'd jump to
 o-o
 the second
 o-o
-and third pies
+or third pie
 o-o
-right away.
+right away
+o-o
+to get my
+o-o
+fair share.
 sentence-next
 o-o
 And I have to say,
@@ -679,6 +708,8 @@ ambee sings-damien amenn
 This might be
 o-o
 tricky
+o-o
+for me
 o-o
 'cause my memory
 o-o
@@ -745,7 +776,7 @@ You're stuck
 o-o
 in the wrong
 o-o
-loop.
+cycle.
 sentence-next
 o-o
 A feedback loop
@@ -791,16 +822,18 @@ a circle.
 end-lyric
 
 ambee sings-damien amenn
-Can we start
+Before I get
+o-o
+dizzy,
+o-o
+let's start
 o-o
 with cause
 o-o
-and effect?
+and effect.
 sentence-next
 o-o
-The economic
-o-o
-kind?
+Is that OK?
 end-lyric
 
 ambee sings-econhist amenn

@@ -713,7 +713,7 @@ you like better
 o-o
 will lose,
 o-o
-even with your
+even begin-italics with end-italics your
 o-o
 bayonet,
 o-o
@@ -749,36 +749,28 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-No,
-o-o
-that's an
-o-o
-important
-o-o
-exception.
+Not there.
 sentence-next
 o-o
 Presidential
 o-o
 elections
 o-o
-involve some
+involve
+o-o
+exceptional
 o-o
 complications.
 sentence-next
 o-o
-Of course
-o-o
-electoral
+Electoral
 o-o
 votes
 o-o
 matter too.
 sentence-next
 o-o
-So the
-o-o
-number gap
+And number gap
 o-o
 between the
 o-o
@@ -791,7 +783,7 @@ o-o
 a microscope.
 sentence-next
 o-o
-And there's a
+Plus there's a
 o-o
 hidden provision.
 sentence-next

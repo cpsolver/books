@@ -17,7 +17,11 @@ Constitution?
 end-lyric
 
 ambee sings-mathprof amenn
-Getting
+Yes,
+o-o
+but first we
+o-o
+have to get
 o-o
 begin-italics congressional end-italics
 o-o
@@ -25,28 +29,31 @@ elections
 o-o
 right,
 o-o
-er, correct,
+er,
 o-o
-must happen first.
+correct.
 sentence-next
 o-o
-Then when some states
+That means some states
 o-o
-are using
+already
 o-o
-ranked choice ballots
+must be using
 o-o
-for presidential
+ranked choice ballots.
+sentence-next
 o-o
-elections,
+Then an
 o-o
-an interstate
+interstate
 o-o
 compact can
 o-o
 correct the
 o-o
-electoral college
+electoral
+o-o
+college
 o-o
 mess.
 end-lyric
@@ -184,21 +191,26 @@ o-o
 sentence-next
 o-o
 begin-italics
-pairwise vote
+Don't put your
 o-o
-counting
+ballot in the
 o-o
-cuts puppet strings end-italics no-space ?
+blender,
+o-o
+we can do better
+o-o
+with ranked
+o-o
+candidates
+end-italics no-space ?
 end-lyric
 
 ambee sings-damien amenn
-Well,
+We can work
 o-o
-we can work
+that out
 o-o
-those things
-o-o
-out later.
+later.
 sentence-next
 o-o
 name-mathprof no-space ,
@@ -255,7 +267,7 @@ an unreal
 o-o
 number of
 o-o
-useless
+nonsensical
 o-o
 Tik Tok videos.
 end-lyric
