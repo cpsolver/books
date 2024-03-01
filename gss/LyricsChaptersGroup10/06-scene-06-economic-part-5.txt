@@ -211,7 +211,7 @@ taxation.
 end-lyric
 
 ambee sings-econhist amenn
-That success
+Our success
 o-o
 created
 o-o
@@ -709,7 +709,9 @@ Church.
 end-lyric
 
 ambee sings-damien amenn
-He drew
+He sketched
+o-o
+insultin'
 o-o
 charactures
 o-o

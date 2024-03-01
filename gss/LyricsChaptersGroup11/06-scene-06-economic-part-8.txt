@@ -928,7 +928,9 @@ end-lyric
 ambee sings-damien amenn
 Because of those
 o-o
-auctions.
+auctions,
+o-o
+right?
 sentence-next
 o-o
 I suppose

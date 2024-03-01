@@ -334,7 +334,18 @@ right?
 end-lyric
 
 ambee sings-damien amenn
-Yeah.
+I know it's not
+o-o
+a store with signs
+o-o
+sayin' everything
+o-o
+is free.
+sentence-next
+o-o
+But I can't
+o-o
+define it.
 end-lyric
 
 ambee sings-econhist amenn
@@ -558,8 +569,51 @@ o-o
 always rule.
 end-lyric
 
+ambee sings-desha amenn
+That's why
+o-o
+Vladimir Putin
+o-o
+has a big smile
+o-o
+after he meets with
+o-o
+Donald Trump.
+sentence-next
+o-o
+And why Trump
+o-o
+hides his taxes.
+sentence-next
+o-o
+They would reveal
+o-o
+his big debt to
+o-o
+Russian
+o-o
+oligarchs,
+o-o
+arranged by
+o-o
+Putin.
+end-lyric
+
 ambee sings-damien amenn
+And why Trump blocked
+o-o
+aid to Ukraine
+o-o
+his first day
+o-o
+in the
+o-o
+White House.
+sentence-next
+o-o
 Thank goodness
+o-o
+otherwise
 o-o
 the rule of law
 o-o

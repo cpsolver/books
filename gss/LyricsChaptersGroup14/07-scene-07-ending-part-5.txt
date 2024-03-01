@@ -43,7 +43,31 @@ o-o
 political tasks.
 sentence-next
 o-o
-I'm the one to blame.
+There is no
+o-o
+conspiracy,
+o-o
+just feedback loops
+o-o
+powered by
+o-o
+self hyphen-here interest.
+sentence-next
+o-o
+And one big bad
+o-o
+feedback loop
+o-o
+in elections
+o-o
+where I'm
+o-o
+the weak link.
+sentence-next
+o-o
+I'm the one
+o-o
+to blame.
 end-lyric
 
 ambee sings-fiance amenn
