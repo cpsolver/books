@@ -206,17 +206,19 @@ ranked choice
 o-o
 ballots because
 o-o
-they don't
+they fail to
 o-o
-understand
+understand a
 o-o
-an important
+counting detail
 o-o
-counting detail.
+that's not
+o-o
+trivial.
 end-lyric
 
-ambee sings-damien amenn
-What detail?
+ambee sings-desha amenn
+Please do tell us.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -524,13 +526,16 @@ That's the right
 o-o
 concept,
 o-o
-and it's fair,
+and it's fair.
+sentence-next
 o-o
-but a textbook
+However
 o-o
-would never use
+a textbook
 o-o
-your
+would never
+o-o
+use your
 o-o
 terminology.
 end-lyric
@@ -543,28 +548,67 @@ o-o
 useful.
 sentence-next
 o-o
-When there are
+If there were
 o-o
-lots of
+lots of candidates
 o-o
-candidates
+who couldn't share
 o-o
-from lots
+the same choice
 o-o
-of parties,
+column,
 o-o
-I'd want to mark
+the ballot
 o-o
-the most evil
+could become
 o-o
-candidate
+a nightmare.
+sentence-next
 o-o
-as my last choice.
+With rows and rows
+o-o
+and columns
+o-o
+and columns
+o-o
+of ovals.
+end-lyric
+
+ambee sings-mathprof amenn
+Having six or
+o-o
+seven
+o-o
+choice columns
+o-o
+would be
+o-o
+sufficient.
+end-lyric
+
+ambee sings-damien amenn
+Also I see
+o-o
+if there was
+o-o
+an evil candidate,
+o-o
+...
+sentence-next
+o-o
+Well I'd need to
+o-o
+mark him lowest.
+sentence-next
+o-o
+Beneath all the
+o-o
+others.
 sentence-next
 o-o
 That means
 o-o
-I need to use
+I'd need to use
 o-o
 the next hyphen-here to hyphen-here last
 o-o
@@ -594,27 +638,8 @@ end-lyric
 
 ambee sings-mathprof amenn
 Great thinking!
-o-o
-That would handle
-o-o
-lots of
-o-o
-candidates
-o-o
-from multiple
-o-o
-parties,
-o-o
-without asking
-o-o
-a voter
-o-o
-to use each
-o-o
-choice column
-o-o
-only once.
 sentence-next
+o-o
 Another
 o-o
 ballot
@@ -695,48 +720,23 @@ o-o
 that's fair.
 end-lyric
 
-ambee sings-damien amenn
-So the
-o-o
-ballot doesn't
-o-o
-become my worst
-o-o
-nightmare?
-sentence-next
-o-o
-With endless
-o-o
-ovals,
-o-o
-right?
-end-lyric
-
-ambee sings-mathprof amenn
-Right.
-sentence-next
-o-o
-Having six or
-o-o
-seven
-o-o
-choice columns
-o-o
-is much better than
-o-o
-twelve.
-end-lyric
-
 ambee sings-desha amenn
-This means
+Ah,
 o-o
 very unpopular
 o-o
-parties get
+parties would get
 o-o
 excluded,
 o-o
 right?
+sentence-next
+o-o
+So they don't
+o-o
+waste space
+o-o
+on the ballot?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -746,15 +746,19 @@ to me.
 end-lyric
 
 ambee sings-desha amenn
-Can big
+Yet big
 o-o
 third parties
 o-o
-get at least one
+would get
+o-o
+at least one
 o-o
 candidate
 o-o
-each?
+each,
+o-o
+right?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -998,27 +1002,6 @@ o-o
 from the same
 o-o
 bigger district.
-sentence-next
-o-o
-All you need
-o-o
-to remember,
-o-o
-besides ranked choice
-o-o
-ballots and
-o-o
-pairwise
-o-o
-vote counting,
-o-o
-is two seats per
-o-o
-district,
-o-o
-and a few
-o-o
-statewide seats.
 end-lyric
 
 ambee sings-desha amenn

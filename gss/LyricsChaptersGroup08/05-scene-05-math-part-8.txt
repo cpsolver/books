@@ -420,7 +420,7 @@ a migraine.
 end-lyric
 
 ambee sings-mathprof amenn
-And you should know
+Yet you should know
 o-o
 that electing
 o-o
@@ -572,8 +572,37 @@ end-lyric
 
 ambee sings-desha amenn
 I love it!
-sentence-next
+end-lyric
+
+ambee sings-mathprof amenn
+If someone claims
 o-o
+four or five
+o-o
+seats per district
+o-o
+would be
+o-o
+better than two,
+o-o
+they're not
+o-o
+considering
+o-o
+how that would
+o-o
+interfere
+o-o
+with how
+o-o
+legislatures
+o-o
+will vote
+o-o
+eventually.
+end-lyric
+
+ambee sings-desha amenn
 But wait.
 sentence-next
 o-o

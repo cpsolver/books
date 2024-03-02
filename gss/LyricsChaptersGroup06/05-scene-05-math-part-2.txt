@@ -665,13 +665,12 @@ method won't work?
 end-lyric
 
 ambee sings-mathprof amenn
-To keep your
+I should
 o-o
-perspective,
+clarify.
+sentence-next
 o-o
-consider
-o-o
-there are
+There are
 o-o
 two parts
 o-o
@@ -808,7 +807,7 @@ begin-italics End That Nameless
 o-o
 Bad Kind Of
 o-o
-Vote Counting end-italics no-space .
+Election Ballot end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn

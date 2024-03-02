@@ -40,7 +40,9 @@ already
 o-o
 must be using
 o-o
-ranked choice ballots.
+ranked choice
+o-o
+ballots.
 sentence-next
 o-o
 Then an
@@ -195,13 +197,14 @@ Don't put your
 o-o
 ballot in the
 o-o
-blender,
+shredder,
 o-o
-we can do better
+we can do better.
+sentence-next
 o-o
-with ranked
+Let's rank our
 o-o
-candidates
+candidates!
 end-italics no-space ?
 end-lyric
 

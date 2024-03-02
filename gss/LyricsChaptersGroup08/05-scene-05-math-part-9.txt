@@ -477,7 +477,9 @@ end-lyric
 ambee sings-damien amenn
 Fear of math
 o-o
-keeps it well hidden.
+keeps it
+o-o
+well hidden.
 end-lyric
 
 ambee sings-desha amenn
@@ -523,9 +525,10 @@ tests would allow
 o-o
 me to teach more
 o-o
-like this,
+like this.
+sentence-next
 o-o
-without as much
+Without as much
 o-o
 notation
 o-o
@@ -770,7 +773,9 @@ o-o
 matter too.
 sentence-next
 o-o
-And number gap
+And the
+o-o
+number gap
 o-o
 between the
 o-o
