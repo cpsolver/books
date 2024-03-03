@@ -24,72 +24,137 @@ of innovation.
 end-lyric
 
 ambee sings-damien amenn
-What's that?
-end-lyric
-
-ambee sings-desha amenn
-That's when Baghdad
+I know that
 o-o
-was the center
+people who
 o-o
-of an empire
+believe in
 o-o
-of people who
+Islam
 o-o
-spoke Arabic
+are called
 o-o
-and followed
-o-o
-the religion
-o-o
-of Islam.
+Muslims.
 sentence-next
 o-o
-A wise ruler,
+And that
 o-o
-whose name I don't
+Muslims and
 o-o
-remember ...
+Christians
+o-o
+have been
+o-o
+fighting
+o-o
+for centuries.
+sentence-next
+o-o
+But what does
+o-o
+Islam
+o-o
+have to do with
+o-o
+innovation?
 end-lyric
 
 ambee sings-econhist amenn
-...
+A few centuries
+o-o
+after the height
+o-o
+of the
+o-o
+Roman Empire,
+o-o
+the new religion
+o-o
+of Islam
+o-o
+spread through
+o-o
+the middle east
+o-o
+and northern
+o-o
+Africa.
 sentence-next
+o-o
+That also spread
+o-o
+the Arabic
+o-o
+language.
+end-lyric
+
+ambee sings-desha amenn
+Because their
+o-o
+holy book,
+o-o
+the Qur'an,
+o-o
+isn't translated
+o-o
+into other
+o-o
+languages.
+sentence-next
+o-o
+Unlike the
+o-o
+Bible.
+end-lyric
+
+ambee sings-econhist amenn
+One of the
+o-o
+leaders of that
+o-o
+Islamic empire,
 o-o
 Harun al hyphen-here Rashid,
 o-o
-at the end of
+in Bagdad,
 o-o
-the seven hundreds ...
-end-lyric
-
-ambee sings-desha amenn
-...
+collected
+o-o
+non hyphen-here fiction books
+o-o
+from around the world.
 sentence-next
 o-o
-collected books
+Including
 o-o
-and gathered
+Ancient Greece
+o-o
+and China.
+sentence-next
+o-o
+And he hired
 o-o
 wise scholars
 o-o
-from around the world,
+to develop
 o-o
-and paid smart people
+yet more
 o-o
-to develop things
+knowledge.
+sentence-next
 o-o
-like algebra,
+And technology.
+sentence-next
+o-o
+They developed
+o-o
+what we know as
+o-o
+algebra,
 o-o
 geometry,
 o-o
-and ...,
-o-o
-I forget what else.
-end-lyric
-
-ambee sings-econhist amenn
-Medicine,
+medicine,
 o-o
 three D drawings,
 o-o
@@ -97,7 +162,20 @@ robotic mechanisms,
 o-o
 paper making,
 o-o
-and much more.
+and weapons
+o-o
+of warfare.
+sentence-next
+o-o
+Those innovations
+o-o
+gave Muslims
+o-o
+economic
+o-o
+strength and
+o-o
+prosperity.
 end-lyric
 
 ambee sings-damien amenn
@@ -105,13 +183,20 @@ Is that when
 o-o
 the digit zero
 o-o
-made its way
+and gunpowder
+o-o
+made their way
 o-o
 closer to Europe?
 end-lyric
 
 ambee sings-desha amenn
-Yes, and why
+Yes about
+o-o
+the digit zero.
+sentence-next
+o-o
+That's why
 o-o
 Europeans
 o-o
@@ -127,67 +212,41 @@ numerals.
 end-lyric
 
 ambee sings-econhist amenn
-A plus plus.
+Under later
+o-o
+rulers,
+o-o
+corruption
+o-o
+increased.
 sentence-next
 o-o
-Later that empire
+And science
 o-o
-became weak
+stopped being
 o-o
-as a result
+valued.
+sentence-next
 o-o
-of what?
+That's basically
+o-o
+why that empire
+o-o
+declined.
 end-lyric
 
 ambee sings-damien amenn
-Corruption
-o-o
-I'll bet.
-end-lyric
-
-ambee sings-econhist amenn
-Yes,
-o-o
-including
-o-o
-a dismissal
-o-o
-of science.
-end-lyric
-
-ambee sings-desha amenn
-People who
-o-o
-dismiss science
-o-o
-are doubly stupid.
+Sounds familiar.
 sentence-next
 o-o
-And I'll bet
+With what's
 o-o
-some of them
+going on now.
+sentence-next
 o-o
-are capitalists
+How come
 o-o
-who fail to see
-o-o
-that the loss of
-o-o
-science leads the
-o-o
-economy
-o-o
-into a death
-o-o
-spiral.
-end-lyric
-
-ambee sings-damien amenn
-About
-o-o
-stupidity,
-o-o
-how come it
+stupidity
 o-o
 so often wins
 o-o
@@ -259,81 +318,150 @@ end-lyric
 ambee sings-econhist amenn
 Chinese emperors
 o-o
-feared losing
+feared floods,
 o-o
-what they called
+earthquakes,
 o-o
-the mandate
+and crop failures
 o-o
-of heaven.
-sentence-next
+because
 o-o
-What we call
+those often
 o-o
-the right to rule.
-sentence-next
-o-o
-Especially
-o-o
-they feared
-o-o
-natural
-o-o
-disasters.
-sentence-next
-o-o
-That's because
-o-o
-too many deaths
-o-o
-caused by flood,
-o-o
-or earthquakes,
-o-o
-or crop failure,
-o-o
-would lead to
+lead to
 o-o
 rebellion and
 o-o
 revolution.
-end-lyric
-
-ambee sings-damien amenn
-I think
+sentence-next
 o-o
-Congress lost
+So Chinese leaders
 o-o
-the mandate
+wisely chose
 o-o
-of heaven
+government
 o-o
-long ago.
-end-lyric
-
-ambee sings-econhist amenn
-To prevent
+officials
 o-o
-catastrophes
-o-o
-Chinese leaders
-o-o
-hired and
-o-o
-promoted
-o-o
-based on
+using
 o-o
 test hyphen-here based
 o-o
 competence.
-o-o
 sentence-next
+o-o
 Instead of
 o-o
 nepotism
 o-o
 and favoritism.
+sentence-next
+o-o
+That innovation,
+o-o
+plus adopting
+o-o
+a single
+o-o
+writing system,
+o-o
+helped
+o-o
+ancient China
+o-o
+grow in
+o-o
+greatness.
+end-lyric
+
+ambee sings-damien amenn
+How is this
+o-o
+connected to
+o-o
+elections
+o-o
+and democracy?
+end-lyric
+
+ambee sings-econhist amenn
+A wisely governed
+o-o
+nation
+o-o
+leads to
+o-o
+yet more
+o-o
+innovation.
+sentence-next
+o-o
+That's partly why
+o-o
+computer
+o-o
+technology
+o-o
+arose on the
+o-o
+west coast of the
+o-o
+United States.
+sentence-next
+o-o
+Businesses
+o-o
+and state
+o-o
+governments
+o-o
+in eastern
+o-o
+states
+o-o
+had less
+o-o
+flexibility.
+sentence-next
+o-o
+Including bias
+o-o
+against non hyphen-here whites,
+o-o
+who were key
+o-o
+contributors
+o-o
+in developing
+o-o
+that technology.
+end-lyric
+
+ambee sings-desha amenn
+Will they
+o-o
+never learn?
+end-lyric
+
+ambee sings-econhist amenn
+Valuable
+o-o
+innovations
+o-o
+lead to
+o-o
+economic
+o-o
+prosperity.
+sentence-next
+o-o
+Until other
+o-o
+countries
+o-o
+copy those
+o-o
+innovations.
 end-lyric
 
 ambee sings-damien amenn
