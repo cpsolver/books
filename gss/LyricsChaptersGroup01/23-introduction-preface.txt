@@ -40,7 +40,11 @@ What does this mean?
 sentence-next
 Read the story to join name-damien and name-desha in their insightful adventure!
 sentence-next
-Then share this secret with your friends.
+Or if you prefer to immediately jump to details about ranked choice voting,
+here's a link to
+<a href="ogss_05.xhtml"> no-space begin-italics Scene 5, Math Breakthrough end-italics no-space</a>.
+sentence-next
+Remember to share this secret with your friends!
 end-standard-paragraph
 
 begin-standard-paragraph

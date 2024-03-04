@@ -359,11 +359,13 @@ numerals
 o-o
 today
 o-o
-I would have been
+I would have jumped
 o-o
-first in line
+to first in line
 o-o
-at that bridge.
+at the nearest
+o-o
+bridge.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -764,27 +766,31 @@ end-lyric
 ambee sings-damien amenn
 We're jumpin'
 o-o
-from fractions
+from decimals
 o-o
 to sex?
 end-lyric
 
 ambee sings-desha amenn
-Talking about
+Reciting
 o-o
-fractions
+infinitesimal
 o-o
-during
+decimal
 o-o
-passionate
+numbers during
 o-o
-embraces
+...
 o-o
-would solve
+sensual moments
 o-o
-our planet's
+would give rise to
 o-o
-biggest crises.
+maximal
+o-o
+population
+o-o
+decline.
 end-lyric
 
 ambee sings-mathprof amenn

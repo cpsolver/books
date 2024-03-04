@@ -235,7 +235,7 @@ reach a point where
 o-o
 none of the candidates
 o-o
-loses all its
+loses all their
 o-o
 pairwise contests.
 end-lyric
@@ -525,7 +525,7 @@ And each cell
 o-o
 would contain
 o-o
-a count.
+one pairwise count.
 end-lyric
 
 ambee sings-desha amenn

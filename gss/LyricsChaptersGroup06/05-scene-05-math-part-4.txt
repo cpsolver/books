@@ -1,5 +1,5 @@
 ambee sings-desha amenn
-What's that?
+I like simple.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -268,6 +268,9 @@ o-o
 distracted
 o-o
 by names.
+sentence-next
+o-o
+Bravo!
 end-lyric
 
 ambee sings-damien amenn

@@ -523,16 +523,62 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-Right.
+It protects
+o-o
+against
+o-o
+excessive
+o-o
+influence
+o-o
+from campaign
+o-o
+contributions
+o-o
+that just come from
+o-o
+male hyphen-here dominated
+o-o
+origins.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+because it's
+o-o
+possible
+o-o
+a male politician
+o-o
+might better
+o-o
+represent
+o-o
+what women want
+o-o
+than a female
+o-o
+politician
+o-o
+who's just a puppet
+o-o
+controlled
+o-o
+by male
+o-o
+campaign
+o-o
+contributors?
 end-lyric
 
 ambee sings-desha amenn
+Finally!
+sentence-next
+o-o
 Representation
 o-o
 for more women!
-sentence-next
-o-o
-Finally!
 end-lyric
 
 ambee sings-damien amenn
@@ -556,9 +602,17 @@ one of the three?
 end-lyric
 
 ambee sings-mathprof amenn
-Usually
+If that's what
 o-o
-yes.
+at least
+o-o
+two thirds,
+o-o
+er,
+o-o
+most of the
+o-o
+voters want.
 end-lyric
 
 ambee sings-damien amenn
@@ -575,9 +629,19 @@ I love it!
 end-lyric
 
 ambee sings-mathprof amenn
-If someone claims
+Going back to
 o-o
-four or five
+elections that
+o-o
+involve
+o-o
+political
+o-o
+parties,
+o-o
+if anyone claims
+o-o
+that four or five
 o-o
 seats per district
 o-o
@@ -597,13 +661,11 @@ with how
 o-o
 legislatures
 o-o
-will vote
-o-o
-eventually.
+vote on bills.
 end-lyric
 
 ambee sings-desha amenn
-But wait.
+Wait a minute.
 sentence-next
 o-o
 You haven't
@@ -636,11 +698,13 @@ o-o
 take care of that.
 sentence-next
 o-o
-If a party
+If any
 o-o
-dominates
+single party
 o-o
-more than their share
+wins more
+o-o
+than their share
 o-o
 of districts,
 o-o
@@ -951,15 +1015,12 @@ end-lyric
 ambee sings-mathprof amenn
 And you're likely
 o-o
-to hear
-o-o
-about
+to hear about
 o-o
 percentages.
-end-lyric
-
-ambee sings-desha amenn
-Which just means
+sentence-next
+o-o
+That just means
 o-o
 moving the
 o-o
@@ -970,16 +1031,16 @@ o-o
 two places.
 sentence-next
 o-o
-To avoid
+That slick trick
 o-o
-numbers
+avoids decimal
 o-o
-between one
+numbers between
 o-o
-and zero.
+one and zero.
 end-lyric
 
-ambee sings-mathprof amenn
+ambee sings-desha amenn
 You can
 o-o
 handle it.

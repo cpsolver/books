@@ -43,22 +43,34 @@ o-o
 political tasks.
 sentence-next
 o-o
-There is no
+What I thought
 o-o
-conspiracy,
+might be
 o-o
-just feedback loops
+conspiracy
 o-o
-powered by
+turns out to be
+o-o
+bad feedback loops
+o-o
+in which each
+o-o
+person is
+o-o
+controlled by
+o-o
+their own
 o-o
 self hyphen-here interest.
 sentence-next
 o-o
-And one big bad
+The biggest
+o-o
+baddest
 o-o
 feedback loop
 o-o
-in elections
+is in elections
 o-o
 where I'm
 o-o

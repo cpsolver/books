@@ -681,14 +681,17 @@ end-lyric
 ambee sings-econhist amenn
 Lots of rules
 o-o
-and constraints.
+and constraints
+o-o
+that cause
+o-o
+suffering.
 sentence-next
 o-o
-Those yield
+And complaints.
+sentence-next
 o-o
-complaints
-o-o
-by people
+From people
 o-o
 not in power.
 sentence-next
@@ -965,7 +968,9 @@ vote counting.
 end-lyric
 
 ambee sings-econhist amenn
-He wrote
+In addition
+o-o
+to writing
 o-o
 articles
 o-o
@@ -977,57 +982,24 @@ women also
 o-o
 being allowed
 o-o
-to vote.
-end-lyric
-
-ambee sings-desha amenn
-He doesn't sound
+to vote,
 o-o
-so stuffy
+and opposing
 o-o
-anymore.
-end-lyric
-
-ambee sings-econhist amenn
-And he opposed
+slavery,
 o-o
-slavery.
-end-lyric
-
-ambee sings-damien amenn
-Wow,
+he wrote
 o-o
-it sounds like
+criticisms
 o-o
-he was way
-o-o
-ahead of his time.
-sentence-next
-o-o
-Did he make
-o-o
-much progress?
-end-lyric
-
-ambee sings-econhist amenn
-He wrote
-o-o
-articles
-o-o
-and books
-o-o
-criticizing
-o-o
-the
-o-o
-French
+of the French
 o-o
 politicians
 o-o
 in power.
 sentence-next
 o-o
-They put him
+So they put him
 o-o
 in prison,
 o-o

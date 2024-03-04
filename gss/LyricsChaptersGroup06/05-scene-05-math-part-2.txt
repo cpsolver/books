@@ -698,15 +698,17 @@ now?
 end-lyric
 
 ambee sings-mathprof amenn
-Almost
+Most elections
 o-o
-every nation in the
+in most nations
 o-o
-world uses what's
+use what's
 o-o
-increasingly called
+increasingly
 o-o
-the single hyphen-here choice
+called the
+o-o
+single hyphen-here choice
 o-o
 ballot.
 end-lyric
@@ -803,11 +805,17 @@ Imagine protesting
 o-o
 with a sign that says
 o-o
-begin-italics End That Nameless
+begin-italics We Demand
+o-o
+To Stop Using
+o-o
+That Nameless
 o-o
 Bad Kind Of
 o-o
-Election Ballot end-italics no-space .
+Election
+o-o
+Ballot end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn

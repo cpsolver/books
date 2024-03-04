@@ -671,10 +671,19 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-Right.
+Only to know
+o-o
+it involves
+o-o
+division.
 end-lyric
 
 ambee sings-damien amenn
+Divide and
+o-o
+conquer!
+sentence-next
+o-o
 Sweet!
 end-lyric
 
@@ -729,9 +738,11 @@ district.
 end-lyric
 
 ambee sings-desha amenn
-I'm guessing the
+I'm guessing
 o-o
-effect would be
+the tendency
+o-o
+would be
 o-o
 to elect one
 o-o
@@ -739,11 +750,16 @@ Republican
 o-o
 and one
 o-o
-Democrat.
+Democrat?
 end-lyric
 
 ambee sings-mathprof amenn
-Typically yes.
+Under current
+o-o
+conditions,
+o-o
+usually yes.
+sentence-next
 o-o
 Assuming both
 o-o
@@ -753,13 +769,9 @@ good candidates.
 end-lyric
 
 ambee sings-damien amenn
-That means
+So there will be
 o-o
-there would be
-o-o
-more than just
-o-o
-one
+more than just one
 o-o
 Republican
 o-o
@@ -775,46 +787,19 @@ Yes because
 o-o
 vote splitting
 o-o
+within a party
+o-o
 can't happen.
-sentence-next
-o-o
-So we need
-o-o
-to allow
-o-o
-for the
-o-o
-possibility
-o-o
-that one
-o-o
-of the
-o-o
-parties
-o-o
-only offers
-o-o
-disliked
-o-o
-candidates,
-o-o
-while the other
-o-o
-party offers
-o-o
-better
-o-o
-candidates.
 end-lyric
 
 ambee sings-damien amenn
-Oh, if, say,
+If the
 o-o
-the Republican
+Republican
 o-o
 party only
 o-o
-offered puppet
+offers puppet
 o-o
 candidates,
 o-o
@@ -824,7 +809,7 @@ o-o
 o-o
 'n the Democratic
 o-o
-party offered
+party offers
 o-o
 anti hyphen-here corruption
 o-o

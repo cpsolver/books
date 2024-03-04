@@ -222,37 +222,54 @@ sentence-next
 o-o
 Eventually
 o-o
-they formed the
-o-o
-European
-o-o
-Union.
-sentence-next
-o-o
-After
-o-o
-Catholics and
-o-o
 Protestants
+o-o
+and Catholics
 o-o
 stopped fighting
 o-o
-one another
+over religious
 o-o
-on battlefields.
+supremacy
+o-o
+in Europe
+o-o
+when they saw
+o-o
+that churches
+o-o
+without any
+o-o
+required taxation
+o-o
+were winning
+o-o
+that fight.
 sentence-next
 o-o
-Except in
+Although that fight
+o-o
+continues in
 o-o
 northern
 o-o
-Ireland.
+Ireland
+o-o
+where religious
+o-o
+oppression
+o-o
+used to be
+o-o
+horrific.
 end-lyric
 
 ambee sings-desha amenn
-And they stopped
+And Europeans
 o-o
-having food fights
+stopped having
+o-o
+food fights
 o-o
 about table
 o-o
@@ -260,7 +277,7 @@ etiquette.
 end-lyric
 
 ambee sings-econhist amenn
-And the French,
+Also the French,
 o-o
 Italians,
 o-o
@@ -709,15 +726,15 @@ Church.
 end-lyric
 
 ambee sings-damien amenn
-He sketched
+He used his
 o-o
-insultin'
+telescope
 o-o
-charactures
+to sketch the sin
 o-o
-of starstruck
+going on in the
 o-o
-popes?
+Vatican?
 end-lyric
 
 ambee sings-desha amenn
@@ -915,7 +932,9 @@ sentence-next
 o-o
 This is like
 o-o
-baking extra
+baking
+o-o
+additional
 o-o
 savory pies.
 sentence-next

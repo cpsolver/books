@@ -104,16 +104,18 @@ end-lyric
 ambee sings-desha amenn
 That sounds like
 o-o
-it would
+it will
 o-o
 pressure hyphen-here wash away
+o-o
+the slime of
 o-o
 party insiders.
 sentence-next
 o-o
-And empower
+And make our
 o-o
-voters.
+elections clean.
 end-lyric
 
 ambee sings-damien amenn
@@ -212,17 +214,21 @@ understand a
 o-o
 counting detail
 o-o
-that's not
+that's quite
 o-o
-trivial.
+significant.
 end-lyric
 
 ambee sings-desha amenn
-Please do tell us.
+What's that
+o-o
+wonky
+o-o
+quirk?
 end-lyric
 
 ambee sings-mathprof amenn
-They will claim
+They'll claim
 o-o
 you can't mark
 o-o
@@ -264,9 +270,15 @@ paper ballots
 o-o
 and instant runoff
 o-o
-voting
+voting for
 o-o
-for many decades.
+many decades,
+o-o
+although under
+o-o
+a different
+o-o
+name.
 sentence-next
 o-o
 Long before
@@ -550,13 +562,13 @@ sentence-next
 o-o
 If there were
 o-o
-lots of candidates
+lots of candidates,
 o-o
-who couldn't share
+and they couldn't
 o-o
-the same choice
+share the same
 o-o
-column,
+choice column,
 o-o
 the ballot
 o-o
@@ -565,13 +577,22 @@ o-o
 a nightmare.
 sentence-next
 o-o
-With rows and rows
+It would look like
 o-o
-and columns
+a minefield.
+sentence-next
 o-o
-and columns
+With too many
 o-o
-of ovals.
+ovals.
+sentence-next
+o-o
+In too many rows.
+sentence-next
+o-o
+And too many
+o-o
+columns.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -579,11 +600,17 @@ Having six or
 o-o
 seven
 o-o
-choice columns
+choice columns is
 o-o
-would be
+sufficient
 o-o
-sufficient.
+when so hyphen-here called
+o-o
+overvotes
+o-o
+are counted
+o-o
+correctly.
 end-lyric
 
 ambee sings-damien amenn
@@ -640,13 +667,32 @@ ambee sings-mathprof amenn
 Great thinking!
 sentence-next
 o-o
-Another
+Now are you
 o-o
-ballot
+ready to learn
 o-o
-refinement
+a way to limit
 o-o
-will be to add
+candidates,
+o-o
+so there aren't
+o-o
+too many?
+end-lyric
+
+ambee sings-damien amenn
+If it doesn't
+o-o
+involve a
+o-o
+glass ceiling.
+sentence-next
+o-o
+Or glass slippers.
+end-lyric
+
+ambee sings-mathprof amenn
+We can add
 o-o
 a separate
 o-o
@@ -672,9 +718,7 @@ ambee sings-damien amenn
 Voting for parties?
 sentence-next
 o-o
-Is that really
-o-o
-a thing?
+That seems strange.
 end-lyric
 
 ambee sings-mathprof amenn

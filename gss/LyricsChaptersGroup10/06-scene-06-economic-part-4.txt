@@ -353,45 +353,11 @@ An ideal
 o-o
 free market
 o-o
-is very
+happens when
 o-o
-efficient
+people are free
 o-o
-because it's
-o-o
-fluid and
-o-o
-flexible.
-sentence-next
-o-o
-It's also
-o-o
-impossible.
-sentence-next
-o-o
-Yet we can get
-o-o
-much closer
-o-o
-than where
-o-o
-we are now.
-sentence-next
-o-o
-We just need to
-o-o
-remove
-o-o
-unfair
-o-o
-artificial
-o-o
-boundaries.
-sentence-next
-o-o
-Then people
-o-o
-are free to choose
+to choose
 o-o
 what to buy,
 o-o
@@ -402,6 +368,21 @@ o-o
 and whatever else,
 o-o
 without fighting.
+sentence-next
+o-o
+It's fluid and
+o-o
+flexible.
+sentence-next
+o-o
+And very
+o-o
+efficient.
+sentence-next
+o-o
+It's also
+o-o
+impossible.
 end-lyric
 
 ambee sings-desha amenn
@@ -409,17 +390,30 @@ I'd fight for that!
 end-lyric
 
 ambee sings-econhist amenn
-Unfortunately
+Yet we can get
 o-o
-corruption
+much closer
 o-o
-puts up barriers
+than where
 o-o
-that are chosen
+we are now.
+sentence-next
 o-o
-to channel money
+But we need to
 o-o
-into specific pockets.
+remove corrupt
+o-o
+artificial
+o-o
+boundaries
+o-o
+that channel
+o-o
+money into
+o-o
+specific
+o-o
+pockets.
 sentence-next
 o-o
 Those kinds of
@@ -463,15 +457,6 @@ o-o
 and murdering
 o-o
 political enemies.
-sentence-next
-o-o
-Those corrupt
-o-o
-barriers
-o-o
-reduce
-o-o
-efficiency.
 end-lyric
 
 ambee sings-damien amenn
@@ -572,16 +557,7 @@ end-lyric
 ambee sings-desha amenn
 That's why
 o-o
-Vladimir Putin
-o-o
-has a big smile
-o-o
-after he meets with
-o-o
-Donald Trump.
-sentence-next
-o-o
-And why Trump
+Donald Trump
 o-o
 hides his taxes.
 sentence-next
@@ -596,11 +572,12 @@ oligarchs,
 o-o
 arranged by
 o-o
+Vladimir
+o-o
 Putin.
-end-lyric
-
-ambee sings-damien amenn
-And why Trump blocked
+sentence-next
+o-o
+That's why Trump blocked
 o-o
 aid to Ukraine
 o-o
@@ -611,9 +588,27 @@ o-o
 White House.
 sentence-next
 o-o
-Thank goodness
+And that's what's
 o-o
-otherwise
+puttin'
+o-o
+a big smile
+o-o
+on Putin,
+o-o
+after he meets with
+o-o
+Trump.
+end-lyric
+
+ambee sings-damien amenn
+Thank goodness,
+o-o
+outside the
+o-o
+White House,
+o-o
+and Congress,
 o-o
 the rule of law
 o-o
@@ -631,7 +626,7 @@ ambee sings-desha amenn
 On weekdays.
 sentence-next
 o-o
-During daylight.
+In daylight.
 end-lyric
 
 ambee sings-damien amenn
