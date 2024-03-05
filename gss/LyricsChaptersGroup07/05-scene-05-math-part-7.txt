@@ -852,7 +852,7 @@ I don't like names,
 o-o
 but this is
 o-o
-getting
+gettin'
 o-o
 complex.
 sentence-next

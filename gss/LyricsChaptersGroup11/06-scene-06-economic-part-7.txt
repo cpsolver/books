@@ -94,11 +94,11 @@ The IRS
 o-o
 gives tax breaks
 o-o
-for getting
+for gettin'
 o-o
 married
 o-o
-and buying
+and buyin'
 o-o
 a house.
 end-lyric
@@ -707,7 +707,7 @@ o-o
 examples?
 sentence-next
 o-o
-Something from
+Somethin' from
 o-o
 history?
 end-lyric

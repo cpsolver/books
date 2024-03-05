@@ -272,7 +272,7 @@ Something
 o-o
 more useful
 o-o
-than getting named
+than gettin' named
 o-o
 employee
 o-o
@@ -308,53 +308,44 @@ the biggest
 o-o
 overlooked
 o-o
-solution
+solutions
 o-o
-is pairwise
+are pairwise
 o-o
-vote counting.
+vote counting
+o-o
+and electing
+o-o
+more than one
+o-o
+politician
+o-o
+to represent
+o-o
+each district.
 sentence-next
 o-o
-So far it's
+So far neither
 o-o
-not yet been done
+reform
 o-o
-anywhere
+has been done
 o-o
-in the states.
+in any state
+o-o
+legislature.
 sentence-next
 o-o
-And instant
+And of course not
 o-o
-runoff voting
-o-o
-has only been
-o-o
-adopted for
-o-o
-Congressional
-o-o
-elections
-o-o
-in just a few
-o-o
-states.
+in Congress.
 sentence-next
 o-o
-And not yet for
+Yet that's where
 o-o
-any state
+tax changes
 o-o
-legislatures.
-sentence-next
-o-o
-Yet those are
-o-o
-the places
-o-o
-that can adopt
-o-o
-tax changes.
+have to happen.
 sentence-next
 o-o
 When election
@@ -522,7 +513,7 @@ kitchen prep
 o-o
 machine
 o-o
-than a self hyphen-here driving
+than a self hyphen-here drivin'
 o-o
 car.
 end-lyric
@@ -711,13 +702,13 @@ disadvantages.
 end-lyric
 
 ambee sings-damien amenn
-So what's blocking
+So what's blockin'
 o-o
 those future
 o-o
 solutions from
 o-o
-happening?
+happenin'?
 end-lyric
 
 ambee sings-desha amenn
@@ -739,7 +730,7 @@ So there's lots
 o-o
 of feedback loops
 o-o
-blocking progress.
+blockin' progress.
 sentence-next
 o-o
 What's the

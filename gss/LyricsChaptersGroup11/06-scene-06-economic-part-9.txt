@@ -239,7 +239,9 @@ as well.
 end-lyric
 
 ambee sings-desha amenn
-But owners
+Ah,
+o-o
+owners
 o-o
 of news sources
 o-o
@@ -406,6 +408,9 @@ end-lyric
 
 ambee sings-damien amenn
 Hey!
+sentence-next
+o-o
+I see!
 sentence-next
 o-o
 Feedback loops

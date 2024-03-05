@@ -46,24 +46,7 @@ o-o
 corruption.
 sentence-next
 o-o
-The same slow
-o-o
-progress is
-o-o
-happening
-o-o
-in Greece
-o-o
-and Spain
-o-o
-and Portugal.
-sentence-next
-o-o
-Those
-o-o
-economies
-o-o
-are still weak
+That makes it weak
 o-o
 compared to
 o-o
@@ -89,9 +72,7 @@ crime
 o-o
 is still strong
 o-o
-in Italy
-o-o
-and elsewhere.
+in Italy.
 sentence-next
 o-o
 But name-econhist-nickname
@@ -139,7 +120,7 @@ end-lyric
 ambee sings-damien amenn
 I think
 o-o
-I'm seeing
+I'm seein'
 o-o
 the pattern.
 sentence-next
@@ -171,7 +152,6 @@ o-o
 economic
 o-o
 prosperity.
-sentence-next
 end-lyric
 
 ambee sings-econhist amenn
@@ -234,20 +214,24 @@ supremacy
 o-o
 in Europe
 o-o
-when they saw
+after they saw
 o-o
-that churches
+churches
 o-o
 without any
 o-o
-required taxation
+required
+o-o
+taxation
 o-o
 were winning
 o-o
 that fight.
 sentence-next
 o-o
-Although that fight
+Notably
+o-o
+that fight
 o-o
 continues in
 o-o
@@ -255,9 +239,11 @@ northern
 o-o
 Ireland
 o-o
-where religious
+because
 o-o
-oppression
+religious
+o-o
+oppression there
 o-o
 used to be
 o-o

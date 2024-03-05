@@ -126,7 +126,7 @@ politics.
 end-lyric
 
 ambee sings-damien amenn
-They're all
+They're both
 o-o
 in the political
 o-o
@@ -640,7 +640,10 @@ social media.
 end-lyric
 
 ambee sings-damien amenn
-Hey! I see a pattern.
+Hey!
+sentence-next
+o-o
+I see a pattern.
 sentence-next
 o-o
 The owners of

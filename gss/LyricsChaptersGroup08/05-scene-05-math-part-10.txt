@@ -218,9 +218,11 @@ o-o
 we can do better.
 sentence-next
 o-o
-Let's rank our
+Candidates
 o-o
-candidates!
+should be
+o-o
+ranked!
 end-italics
 end-lyric
 

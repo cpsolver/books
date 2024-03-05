@@ -634,7 +634,7 @@ Well,
 o-o
 I think I'm
 o-o
-getting the
+gettin' the
 o-o
 general idea.
 sentence-next
@@ -1048,4 +1048,21 @@ o-o
 of the king's
 o-o
 son's army.
+sentence-next
+o-o
+That could affect
+o-o
+winning or losing
+o-o
+fights,
+o-o
+which was the
+o-o
+basis for
+o-o
+economic
+o-o
+gains and
+o-o
+losses.
 end-lyric

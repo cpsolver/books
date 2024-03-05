@@ -94,7 +94,7 @@ from water.
 end-lyric
 
 ambee sings-damien amenn
-So doing
+So doin'
 o-o
 what plants do?
 end-lyric
@@ -148,7 +148,7 @@ end-lyric
 ambee sings-damien amenn
 ... is such a good thing,
 o-o
-what's blocking that
+what's blockin' that
 o-o
 from happening?
 end-lyric
@@ -584,7 +584,7 @@ So this is the
 o-o
 savory pie
 o-o
-slicing
+slicin'
 o-o
 concept?
 end-lyric

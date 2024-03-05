@@ -379,7 +379,10 @@ government?
 end-lyric
 
 ambee sings-mathprof amenn
-Yes. Lots.
+Yes.
+sentence-next
+o-o
+Lots.
 end-lyric
 
 ambee sings-desha amenn
