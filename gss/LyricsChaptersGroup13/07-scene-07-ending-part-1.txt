@@ -66,19 +66,28 @@ end-lyric
 ambee sings-vc amenn
 Too big
 o-o
-to fit in a
+to fit inside
 o-o
-museum?
+a museum?
+sentence-next
+o-o
+I'm not
+o-o
+begin-italics that end-italics fat!
 end-lyric
 
 ambee sings-minister amenn
-At the top
+At the
+o-o
+pyramid's top,
 o-o
 the golden rule
 o-o
-of trying
+of doing
 o-o
-to do good deeds
+good deeds
+o-o
+spiritually
 o-o
 must rest on a
 o-o
@@ -86,7 +95,9 @@ solid foundation
 o-o
 of not doing
 o-o
-bad deeds.
+bad deeds
+o-o
+physically.
 end-lyric
 
 ambee sings-vc amenn
@@ -678,13 +689,10 @@ Citizens
 o-o
 in Russia
 o-o
-and some other
+can vote.
+sentence-next
 o-o
-countries
-o-o
-can vote,
-o-o
-but popular
+But popular
 o-o
 alternate
 o-o
@@ -692,18 +700,19 @@ candidates
 o-o
 are jailed
 o-o
-or killed,
+or killed.
+sentence-next
 o-o
-and the results
+And the results
 o-o
 are rigged.
 sentence-next
 o-o
-Those aren't
+That isn't
 o-o
-real
+a real
 o-o
-democracies.
+democracy.
 end-lyric
 
 ambee sings-vc amenn

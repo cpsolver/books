@@ -47,6 +47,7 @@ font-family:"Palatino","Georgia","Times",serif;
 font-weight:bold;
 text-align:center;
 text-indent:0;
+line-height:1.5em;
 padding:0;
 margin-left:2em;
 margin-right:2em;
@@ -91,6 +92,7 @@ widows:2;
 .para_standard{
 margin-top:2em;
 margin-bottom:2em;
+line-height:1.4em;
 }
 
 .para_centered{
@@ -114,8 +116,8 @@ margin-bottom:3em;
 }
 
 para_gap_small {
-font-size:10%;
-line-height:0.2em;
+font-size:7%;
+line-height:0.03em;
 padding:0;
 margin:0;
 }

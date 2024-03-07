@@ -287,21 +287,29 @@ spectrum from
 o-o
 makers to takers
 o-o
-would be something
-o-o
-like this.
-sentence-next
-o-o
-It starts with
+starts with
 o-o
 farming and ranching.
 sentence-next
 o-o
-Then to manufacturing,
+They already
 o-o
-cooking, brewing,
+get tax breaks,
 o-o
-entertaining,
+regardless
+o-o
+of size.
+sentence-next
+o-o
+The other
+o-o
+main maker
+o-o
+businesses
+o-o
+include
+o-o
+manufacturing,
 o-o
 engineering,
 o-o
@@ -309,56 +317,57 @@ inventing,
 o-o
 software developing,
 o-o
-oil refining,
+cooking,
 o-o
-research if it isn't
+brewing,
 o-o
-market research,
+and
 o-o
-and other such
-o-o
-making activities.
+entertaining.
 sentence-next
 o-o
-Then to
+There are lots
 o-o
-teaching and training.
-sentence-next
+of intermediate
 o-o
-Then to healthcare,
+categories
 o-o
-grocery sales,
+such as teaching,
 o-o
-meat packing,
+healthcare,
 o-o
-canning,
+maintenance,
 o-o
-and maintenance.
-sentence-next
+transportation,
 o-o
-Then to shipping,
-o-o
-retail stores,
+retail,
 o-o
 hospitality,
 o-o
-and more.
+and
+o-o
+marketing.
 sentence-next
 o-o
-Then to advertising
+At the full
 o-o
-and marketing.
-sentence-next
+taker end
 o-o
-Then finally to
+there's
 o-o
-banking, insurance,
+banking,
+o-o
+insurance,
 o-o
 legal services,
 o-o
-real estate developers,
+real estate
 o-o
-logging, mining,
+developers,
+o-o
+logging,
+o-o
+mining,
 o-o
 casinos,
 o-o

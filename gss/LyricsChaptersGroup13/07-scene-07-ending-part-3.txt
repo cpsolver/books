@@ -708,6 +708,7 @@ end-lyric
 
 ambee sings-father-of-fiance amenn
 Damn handouts!
+sentence-next
 o-o
 At my expense
 o-o
@@ -735,31 +736,6 @@ o-o
 governments
 o-o
 fund those too.
-sentence-next
-o-o
-Public service
-o-o
-announcements
-o-o
-used to come
-o-o
-from a pulpit.
-sentence-next
-o-o
-Such as
-o-o
-reminders to
-o-o
-not litter
-o-o
-bare ground with
-o-o
-human turds.
-sentence-next
-o-o
-That reduced
-o-o
-disease.
 end-lyric
 
 ambee sings-vc amenn
@@ -780,36 +756,17 @@ ambee sings-minister amenn
 Only some of it!
 sentence-next
 o-o
-We still serve a
+What goes on
 o-o
-very useful service.
-sentence-next
+in Washington
 o-o
-We remind folks
+DC is
 o-o
-to act in ways
+very far from
 o-o
-that are fair
+spiritual
 o-o
-and benevolent.
-sentence-next
-o-o
-But religion
-o-o
-is about much more
-o-o
-than just ending
-o-o
-bad behavior.
-sentence-next
-o-o
-That's just
-o-o
-the beginning
-o-o
-of the spiritual
-o-o
-world.
+maturity.
 end-lyric
 
 ambee sings-fiance amenn

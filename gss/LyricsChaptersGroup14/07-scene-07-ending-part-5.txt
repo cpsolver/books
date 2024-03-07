@@ -55,11 +55,11 @@ bad feedback loops
 o-o
 in which each
 o-o
-person is
+person
 o-o
-controlled by
+independently
 o-o
-their own
+pursues their own
 o-o
 self hyphen-here interest.
 sentence-next

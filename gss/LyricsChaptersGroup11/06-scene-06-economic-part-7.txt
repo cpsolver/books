@@ -725,13 +725,15 @@ and fewer ads.
 end-lyric
 
 ambee sings-desha amenn
-Now Google
+Now the results
 o-o
-hides its ads
+prioritize
 o-o
-on the websites
+websites
 o-o
-it sends people to.
+that host
+o-o
+Google ads.
 end-lyric
 
 ambee sings-econhist amenn

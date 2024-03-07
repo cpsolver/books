@@ -416,11 +416,17 @@ o-o
 pockets.
 sentence-next
 o-o
-Those kinds of
+Back during
+o-o
+the Roman
+o-o
+empire,
+o-o
+those kinds of
 o-o
 corruption
 o-o
-include
+included
 o-o
 nepotism,
 o-o
@@ -586,11 +592,12 @@ o-o
 in the
 o-o
 White House.
-sentence-next
+end-lyric
+
+ambee sings-damien amenn
+That explains
 o-o
-And that's what's
-o-o
-puttin'
+what's been puttin'
 o-o
 a big smile
 o-o
@@ -599,9 +606,8 @@ o-o
 after he meets with
 o-o
 Trump.
-end-lyric
-
-ambee sings-damien amenn
+sentence-next
+o-o
 Thank goodness,
 o-o
 outside the

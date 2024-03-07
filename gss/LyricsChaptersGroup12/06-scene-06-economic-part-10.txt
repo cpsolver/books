@@ -341,11 +341,13 @@ o-o
 in Congress.
 sentence-next
 o-o
-Yet that's where
+Yet those two
+o-o
+places are where
 o-o
 tax changes
 o-o
-have to happen.
+must happen.
 sentence-next
 o-o
 When election

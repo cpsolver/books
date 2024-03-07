@@ -79,26 +79,41 @@ end-lyric
 ambee sings-minister amenn
 Long ago
 o-o
-it was clear
-o-o
-that cities
-o-o
-with churches
-o-o
-had better
-o-o
-economic
-o-o
-prosperity.
-sentence-next
-o-o
-So kings
+kings
 o-o
 rewarded
 o-o
 churches
 o-o
-with no taxes.
+with no taxes
+o-o
+because churches
+o-o
+attracted
+o-o
+economic
+o-o
+prosperity
+o-o
+to a city.
+sentence-next
+o-o
+In the ways
+o-o
+we just
+o-o
+talked about.
+sentence-next
+o-o
+Plus singing
+o-o
+for free
+o-o
+at the king's
+o-o
+royal
+o-o
+festivals.
 end-lyric
 
 ambee sings-father-of-fiance amenn

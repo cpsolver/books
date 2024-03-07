@@ -2,12 +2,24 @@ ambee sings-damien amenn
 Is there time?
 end-lyric
 
-ambee sings-damien amenn
-Is there hope?
+ambee sings-desha amenn
+Do you see
+o-o
+any clouds
+o-o
+of hope
+o-o
+in your
+o-o
+crystal ball?
 end-lyric
 
 ambee sings-econhist amenn
-World war three
+Yes,
+o-o
+even though
+o-o
+world war three
 o-o
 started
 o-o
@@ -19,65 +31,12 @@ o-o
 And in the news.
 sentence-next
 o-o
-Those fights
-o-o
-don't risk
-o-o
-your life.
-sentence-next
-o-o
 Your fight
 o-o
-should be
-o-o
-easier than
-o-o
-what early
-o-o
-North American
-o-o
-colonists
-o-o
-had to do
-o-o
-to get
-o-o
-democracy.
+is winnable.
 sentence-next
 o-o
-They had to fight
-o-o
-with physical
-o-o
-weapons.
-sentence-next
-o-o
-And they won
-o-o
-mostly because
-o-o
-France and Spain
-o-o
-and the Dutch
-o-o
-all fought against
-o-o
-England at
-o-o
-the same time
-o-o
-the thirteen
-o-o
-colonies
-o-o
-were fighting for
-o-o
-independence
-o-o
-from England.
-sentence-next
-o-o
-Remember,
+That's because
 o-o
 dictators
 o-o
@@ -85,13 +44,15 @@ and wannabe
 o-o
 dictators
 o-o
+and their
+o-o
+minions
+o-o
 are vastly
 o-o
 outnumbered
 o-o
-by voters and
-o-o
-citizens
+by voters
 o-o
 who want to
 o-o
@@ -100,9 +61,35 @@ o-o
 dictatorships.
 sentence-next
 o-o
-So your fight
+Unlike
 o-o
-is winnable.
+early
+o-o
+North American
+o-o
+colonists,
+o-o
+you aren't
+o-o
+fighting
+o-o
+with physical
+o-o
+weapons.
+sentence-next
+o-o
+It won't be
+o-o
+easy.
+sentence-next
+o-o
+But you and
+o-o
+other reformers
+o-o
+eventually
+o-o
+will win.
 end-lyric
 
 ambee sings-desha amenn

@@ -132,45 +132,33 @@ more of it.
 end-lyric
 
 ambee sings-vc amenn
-Can you give me
+How can I get
 o-o
-a spiritual
-o-o
-compass
-o-o
-to help me
-o-o
-turn my world
-o-o
-right hyphen-here side up?
+more joy?
 end-lyric
 
 ambee sings-minister amenn
-Live in the present.
+Now,
+o-o
+the present,
+o-o
+is where joy
+o-o
+hides.
 sentence-next
 o-o
-When you focus
+So wallow in
 o-o
-on the past,
+the joy
 o-o
-recall useful
-o-o
-information
-o-o
-without getting
-o-o
-distracted by
-o-o
-anger
-o-o
-or guilt.
+of the present.
 sentence-next
 o-o
-Or the
+That protects you
 o-o
-memory
+from the past
 o-o
-of being mocked
+when you were mocked
 o-o
 for wearing
 o-o
@@ -182,53 +170,36 @@ o-o
 In public.
 sentence-next
 o-o
-When you focus
+The present
 o-o
-on the future,
+protects you
 o-o
-consider
+from wasting time
 o-o
-your possible
+imagining
 o-o
-choices
+how you would use
 o-o
-without getting
+a time machine
 o-o
-distracted by
+to triumph
 o-o
-superhero
+over people
 o-o
-daydreams
+who have forgotten
 o-o
-or childish
-o-o
-fears.
-sentence-next
-o-o
-Now,
-o-o
-the present,
-o-o
-is where joy
-o-o
-hides.
+your name.
 sentence-next
 o-o
 Appreciate
 o-o
 what you've
 o-o
-already got.
-sentence-next
-o-o
-Appreciate
+already got,
 o-o
 wherever you
 o-o
-already are.
-sentence-next
-o-o
-Appreciate
+already are,
 o-o
 whatever you
 o-o
@@ -237,14 +208,9 @@ o-o
 doing.
 sentence-next
 o-o
-Wallow in
+Especially
 o-o
-the joy.
-sentence-next
-o-o
-And especially
-o-o
-welcome it
+welcome joy
 o-o
 when it enters
 o-o

@@ -94,9 +94,11 @@ sentence-next
 o-o
 Also they pass
 o-o
-that money to
+most of that
 o-o
-their employees.
+money to their
+o-o
+employees.
 sentence-next
 o-o
 Those employees
@@ -213,6 +215,15 @@ end-lyric
 
 ambee sings-father-of-fiance amenn
 Pointless?
+sentence-next
+o-o
+My time is
+o-o
+valuable
+o-o
+so please
+o-o
+get to the point.
 end-lyric
 
 ambee sings-minister amenn
@@ -231,6 +242,17 @@ o-o
 of the local
 o-o
 economy.
+sentence-next
+o-o
+All other
+o-o
+businesses
+o-o
+are supported
+o-o
+by their
+o-o
+success?
 end-lyric
 
 ambee sings-damien amenn
@@ -824,11 +846,11 @@ o-o
 pays.
 sentence-next
 o-o
-And it would
+For sure
 o-o
-reduce the need
+it would reduce
 o-o
-for the
+the need for the
 o-o
 taxpayer hyphen-here supported
 o-o

@@ -385,79 +385,44 @@ and democracy?
 end-lyric
 
 ambee sings-econhist amenn
-A wisely governed
+Democracy
 o-o
-nation
+is more
 o-o
-leads to
+flexible
 o-o
-yet more
+compared to
+o-o
+dictatorship.
+sentence-next
+o-o
+And flexibility
+o-o
+is a necessary
+o-o
+ingredient
+o-o
+for
 o-o
 innovation.
 sentence-next
 o-o
-That's partly why
+That
 o-o
-computer
+innovation
 o-o
-technology
-o-o
-arose on the
-o-o
-west coast of the
-o-o
-United States.
-sentence-next
-o-o
-Businesses
-o-o
-and state
-o-o
-governments
-o-o
-in eastern
-o-o
-states
-o-o
-had less
-o-o
-flexibility.
-sentence-next
-o-o
-Including bias
-o-o
-against non hyphen-here whites,
-o-o
-who were key
-o-o
-contributors
-o-o
-in developing
-o-o
-that technology.
-end-lyric
-
-ambee sings-desha amenn
-Will they
-o-o
-never learn?
-end-lyric
-
-ambee sings-econhist amenn
-Valuable
-o-o
-innovations
-o-o
-lead to
+brings
 o-o
 economic
 o-o
 prosperity.
 sentence-next
 o-o
-Until other
+At least
 o-o
-countries
+until other
+o-o
+regions
 o-o
 copy those
 o-o
@@ -626,9 +591,17 @@ of corruption.
 end-lyric
 
 ambee sings-desha amenn
-That makes sense
+In my fight
 o-o
-so far.
+against
+o-o
+corruption
+o-o
+I've been
+o-o
+overlooking
+o-o
+cooperation.
 end-lyric
 
 ambee sings-econhist amenn

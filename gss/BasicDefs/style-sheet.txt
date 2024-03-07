@@ -49,6 +49,7 @@ font<hyphen_here>family:"Palatino","Georgia","Times",serif;
 font<hyphen_here>weight:bold;
 text<hyphen_here>align:center;
 text<hyphen_here>indent:0;
+line<hyphen_here>height:1.5em;
 padding:0;
 margin<hyphen_here>left:2em;
 margin<hyphen_here>right:2em;
@@ -93,6 +94,7 @@ widows:2;
 .para_standard{
 margin<hyphen_here>top:2em;
 margin<hyphen_here>bottom:2em;
+line<hyphen_here>height:1.4em;
 }
 
 .para_centered{
@@ -116,8 +118,8 @@ margin<hyphen_here>bottom:3em;
 }
 
 para_gap_small {
-font<hyphen_here>size:10%;
-line<hyphen_here>height:0.2em;
+font<hyphen_here>size:7%;
+line<hyphen_here>height:0.03em;
 padding:0;
 margin:0;
 }

@@ -241,21 +241,32 @@ end-lyric
 ambee sings-desha amenn
 Ah,
 o-o
-owners
+if news sources
 o-o
-of news sources
+reported
 o-o
-get more money
+the higher
 o-o
-from advertisers
+unemployment
 o-o
-when consumers
+rate
 o-o
-have confidence
+they would earn
 o-o
-to spend dollars
+less money
 o-o
-more freely.
+from advertisers.
+sentence-next
+o-o
+Because
+o-o
+consumers
+o-o
+would hang on
+o-o
+to their dollars
+o-o
+more tightly.
 end-lyric
 
 ambee sings-damien amenn
@@ -423,7 +434,9 @@ use to get
 o-o
 oversized slices
 o-o
-of economic pie!
+of economic pie,
+o-o
+the savory kind!
 sentence-next
 o-o
 They use lawyers.
