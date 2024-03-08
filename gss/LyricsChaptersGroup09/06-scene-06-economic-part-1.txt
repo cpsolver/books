@@ -146,6 +146,8 @@ it's super
 o-o
 challengin'
 o-o
+...
+o-o
 to predict
 o-o
 the future.
@@ -159,7 +161,9 @@ o-o
 are paid to do.
 sentence-next
 o-o
-Predict the future.
+Predict
+o-o
+the future.
 end-lyric
 
 ambee sings-damien amenn

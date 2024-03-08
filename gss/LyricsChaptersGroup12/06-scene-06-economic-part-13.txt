@@ -5,7 +5,7 @@ end-lyric
 ambee sings-desha amenn
 Do you see
 o-o
-any clouds
+any bright clouds
 o-o
 of hope
 o-o
@@ -33,10 +33,33 @@ sentence-next
 o-o
 Your fight
 o-o
-is winnable.
-sentence-next
+is definitely
 o-o
-That's because
+winnable.
+end-lyric
+
+ambee sings-damien amenn
+How do you know?
+end-lyric
+
+ambee sings-econhist amenn
+The number of
+o-o
+voters
+o-o
+who want to
+o-o
+prevent and
+o-o
+overturn
+o-o
+dictatorships
+o-o
+vastly
+o-o
+outnumber
+o-o
+the few
 o-o
 dictators
 o-o
@@ -46,50 +69,34 @@ dictators
 o-o
 and their
 o-o
-minions
+cult hyphen-here like
 o-o
-are vastly
-o-o
-outnumbered
-o-o
-by voters
-o-o
-who want to
-o-o
-overturn
-o-o
-dictatorships.
+minions.
 sentence-next
 o-o
-Unlike
-o-o
-early
-o-o
-North American
-o-o
-colonists,
-o-o
-you aren't
+Also you aren't
 o-o
 fighting
 o-o
 with physical
 o-o
-weapons.
-sentence-next
+weapons
 o-o
-It won't be
+that injure
 o-o
-easy.
-sentence-next
+and kill,
 o-o
-But you and
+which was what
 o-o
-other reformers
+early
 o-o
-eventually
+North American
 o-o
-will win.
+colonists
+o-o
+had to
+o-o
+fight with.
 end-lyric
 
 ambee sings-desha amenn

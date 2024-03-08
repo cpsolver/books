@@ -140,27 +140,27 @@ end-lyric
 ambee sings-minister amenn
 Now,
 o-o
-the present,
+the present
+o-o
+moment,
 o-o
 is where joy
 o-o
 hides.
 sentence-next
 o-o
-So wallow in
+Look for joy
 o-o
-the joy
+in the here
 o-o
-of the present.
+and the now.
 sentence-next
 o-o
-That protects you
+Don't fret
 o-o
-from the past
+being mocked
 o-o
-when you were mocked
-o-o
-for wearing
+for having worn
 o-o
 wool socks
 o-o
@@ -170,15 +170,11 @@ o-o
 In public.
 sentence-next
 o-o
-The present
+Don't rack you brain
 o-o
-protects you
+figuring out
 o-o
-from wasting time
-o-o
-imagining
-o-o
-how you would use
+how to use
 o-o
 a time machine
 o-o
@@ -191,24 +187,7 @@ o-o
 your name.
 sentence-next
 o-o
-Appreciate
-o-o
-what you've
-o-o
-already got,
-o-o
-wherever you
-o-o
-already are,
-o-o
-whatever you
-o-o
-are already
-o-o
-doing.
-sentence-next
-o-o
-Especially
+Most importantly
 o-o
 welcome joy
 o-o
@@ -737,62 +716,6 @@ o-o
 high tech
 o-o
 vocations.
-sentence-next
-o-o
-A crew of
-o-o
-stone masons
-o-o
-and assistants,
-o-o
-including a
-o-o
-carpenter
-o-o
-to build
-o-o
-temporary
-o-o
-wooden forms
-o-o
-for arches,
-o-o
-plus women
-o-o
-for cooking
-o-o
-and laundry,
-o-o
-would have been
-o-o
-welcomed,
-o-o
-and well paid,
-o-o
-for constructing
-o-o
-stone buildings
-o-o
-with
-o-o
-arches.
-sentence-next
-o-o
-More likely
-o-o
-the Greek to
-o-o
-Latin translator
-o-o
-was clueless
-o-o
-about
-o-o
-Jesus's
-o-o
-non hyphen-here spiritual
-o-o
-skills.
 end-lyric
 
 ambee sings-vc amenn

@@ -549,15 +549,16 @@ is what they do
 o-o
 in places like
 o-o
-Russia
+Russia.
+sentence-next
 o-o
-where the
+Where the
 o-o
 rule of law
 o-o
-doesn't
+often
 o-o
-always rule.
+doesn't rule.
 end-lyric
 
 ambee sings-desha amenn
@@ -576,22 +577,32 @@ Russian
 o-o
 oligarchs,
 o-o
-arranged by
+arranged as
 o-o
-Vladimir
+a favor
+o-o
+by Vladimir
 o-o
 Putin.
 sentence-next
 o-o
-That's why Trump blocked
+Trump began
 o-o
-aid to Ukraine
+to return
 o-o
-his first day
+the favor
+o-o
+on his first day
 o-o
 in the
 o-o
-White House.
+White House,
+o-o
+by blocking
+o-o
+Congressional
+o-o
+aid to Ukraine.
 end-lyric
 
 ambee sings-damien amenn

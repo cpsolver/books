@@ -630,7 +630,7 @@ The cost of
 o-o
 rent 'n food
 o-o
-'n ice cream
+'n utilities
 o-o
 are going up
 o-o
@@ -960,7 +960,7 @@ sentence-next
 o-o
 As for food
 o-o
-and ice cream,
+and utilities,
 o-o
 they're rising
 o-o

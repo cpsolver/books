@@ -322,7 +322,9 @@ politician
 o-o
 to represent
 o-o
-each district.
+each larger
+o-o
+district.
 sentence-next
 o-o
 So far neither
@@ -364,7 +366,9 @@ feedback
 o-o
 loop that
 o-o
-controls
+enables money
+o-o
+to control
 o-o
 politicians.
 end-lyric
@@ -826,7 +830,9 @@ Clinton
 o-o
 from reaching
 o-o
-the 2008
+the two thousand
+o-o
+eight
 o-o
 presidential
 o-o
@@ -862,17 +868,16 @@ meaningful support.
 end-lyric
 
 ambee sings-damien amenn
-Yeah,
+I agree.
+sentence-next
 o-o
-that's what
-o-o
-allows
+That's why
 o-o
 corrupt
 o-o
 business owners
 o-o
-to limit
+can limit
 o-o
 our choice to
 o-o

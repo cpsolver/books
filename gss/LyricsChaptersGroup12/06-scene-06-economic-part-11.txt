@@ -387,7 +387,9 @@ o-o
 the political down.
 sentence-next
 o-o
-Many of them
+Many of these
+o-o
+business owners
 o-o
 earn their money
 o-o

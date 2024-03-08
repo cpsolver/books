@@ -51,6 +51,8 @@ text<hyphen_here>align:center;
 text<hyphen_here>indent:0;
 line<hyphen_here>height:1.5em;
 padding:0;
+margin<hyphen_here>top:0;
+margin<hyphen_here>bottom:1em;
 margin<hyphen_here>left:2em;
 margin<hyphen_here>right:2em;
 orphans:3;
