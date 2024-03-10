@@ -267,53 +267,81 @@ Benjamins
 o-o
 there's
 o-o
-alimony,
-o-o
-annuities,
-o-o
-assets,
-bonds,
-and
-bonus,
-o-o
-bounty,
-bribe,
-and
-capital,
-o-o
 cash,
-and
-commodities,
 o-o
-credit,
-currency,
-debit,
+wage,
 o-o
-discount,
-expense,
-and funds,
+tax,
 o-o
-income,
-interest,
-investment,
+price,
 o-o
-options,
-pension,
-ransom,
+cost,
 o-o
-rebate,
-and
-remittance,
-o-o
-rent,
-revenue,
-securities,
+bonds,
 o-o
 shares,
-subsidy,
-and wage,
 o-o
-and even those
+rent,
+o-o
+free,
+o-o
+bribe.
+o-o
+sentence-next
+And debit,
+o-o
+credit,
+o-o
+payment,
+o-o
+paycheck,
+o-o
+bonus,
+o-o
+income,
+o-o
+expense,
+o-o
+discount,
+o-o
+options,
+o-o
+pension,
+o-o
+rebate,
+o-o
+ransom.
+sentence-next
+o-o
+And currency,
+o-o
+capital,
+o-o
+deposit,
+o-o
+investment,
+o-o
+revenue,
+o-o
+subsidy.
+sentence-next
+o-o
+And annuities,
+o-o
+commodities,
+o-o
+expenditures,
+o-o
+securities.
+o-o
+liabilities,
+o-o
+and
+o-o
+depreciation.
+sentence-next
+o-o
+Plus those
 o-o
 awful words like
 o-o
@@ -322,21 +350,15 @@ o-o
 donation.
 end-lyric
 
-combee ************
-begin-comment
-(more words: account, receipts, cash, deposit, check, balance, expenditure, salary, payment, liability, stake, duty, price, cost, tax, untaxed, appraisal, discount, depreciation, allowance, cost, paid, unpaid, free)
-end-comment
-************ comenn
-
 ambee sings-damien amenn
 I see.
 sentence-next
 o-o
 'N besides words
 o-o
-for mula, dough,
+for mula
 o-o
-and paycheck,
+and dough,
 o-o
 there're words
 o-o

@@ -94,9 +94,11 @@ sentence-next
 o-o
 Also they pass
 o-o
-most of that
+lots of that
 o-o
-money to their
+outside money
+o-o
+to their
 o-o
 employees.
 sentence-next
@@ -114,11 +116,14 @@ As a result,
 o-o
 some of that wealth
 o-o
-reaches your
+quickly reaches
 o-o
-customers
+your customers.
+sentence-next
 o-o
-who buy or rent
+The ones who
+o-o
+buy or rent
 o-o
 from your business.
 end-lyric
@@ -330,7 +335,7 @@ and crime.
 end-lyric
 
 ambee sings-desha amenn
-Not to mention
+Also
 o-o
 anger,
 o-o

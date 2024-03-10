@@ -742,11 +742,88 @@ o-o
 blocking
 o-o
 trick.
+end-lyric
+
+ambee sings-desha amenn
+What's that?
+end-lyric
+
+ambee sings-damien amenn
+In two thousand
+o-o
+eight,
+o-o
+during the
+o-o
+primary,
+o-o
+some Republicans
+o-o
+gave money
+o-o
+to Obama
+o-o
+to block
+o-o
+Hillary Clinton
+o-o
+from 
+o-o
+reaching
+o-o
+the general
+o-o
+election.
 sentence-next
 o-o
+They figured
+o-o
+a black man
+o-o
+couldn't
+o-o
+possibly
+o-o
+win that
+o-o
+general
+o-o
+election.
+end-lyric
+
+ambee sings-desha amenn
+That's horrific!
+sentence-next
+o-o
+Yet it's not
+o-o
+illegal.
+sentence-next
+o-o
+This makes my
+o-o
+blood boil!
+sentence-next
+o-o
+How can so
+o-o
+many voters
+o-o
+have been
+o-o
+so clueless
+o-o
+about that
+o-o
+trick?
+end-lyric
+
+ambee sings-damien amenn
 Can we fight
 o-o
-against cluelessness?
+against
+o-o
+cluelessness?
 end-lyric
 
 ambee sings-desha amenn

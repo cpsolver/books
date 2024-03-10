@@ -387,11 +387,16 @@ celebrities,
 o-o
 and
 o-o
-lobbyists.
+lobbyists?
 end-lyric
 
 ambee sings-politician amenn
-Here's another
+Yes.
+sentence-next
+o-o
+Here's
+o-o
+another
 o-o
 twist.
 sentence-next
@@ -775,38 +780,43 @@ o-o
 it works.
 sentence-next
 o-o
-So we, the
+So those of us
 o-o
-politicians,
-o-o
-are effectively
-o-o
-hobbled and
-o-o
-handcuffed
-o-o
-and gagged
+in Congress,
 o-o
 when we cast
 o-o
-our votes in
+our votes,
 o-o
-Congress.
+are hobbled and
+o-o
+handcuffed
+o-o
+and gagged.
 end-lyric
 
 ambee sings-damien amenn
-Ya said there's
+And your noses
+o-o
+must be blocked
+o-o
+not to notice
+o-o
+the stink.
+sentence-next
+o-o
+So now I think
+o-o
+I understand
 o-o
 distractions.
 sentence-next
 o-o
-How can just
+Yet how can they
 o-o
-distractions
+so easily
 o-o
 hide this vote
 o-o
-splittin'
-o-o
-so effectively?
+splittin'?
 end-lyric

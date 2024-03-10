@@ -223,23 +223,6 @@ o-o
 end-lyric
 
 ambee sings-politician amenn
-And if a
-o-o
-begin-italics conservative end-italics
-o-o
-third hyphen-here party
-o-o
-candidate
-o-o
-begins to do well
-o-o
-in the polls,
-o-o
-they get a bribe
-o-o
-to drop out.
-sentence-next
-o-o
 That concentrates
 o-o
 conservative

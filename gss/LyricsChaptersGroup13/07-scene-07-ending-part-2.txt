@@ -149,16 +149,9 @@ o-o
 hides.
 sentence-next
 o-o
-Look for joy
-o-o
-in the here
-o-o
-and the now.
-sentence-next
-o-o
 Don't fret
 o-o
-being mocked
+you were mocked
 o-o
 for having worn
 o-o
@@ -170,11 +163,13 @@ o-o
 In public.
 sentence-next
 o-o
-Don't rack you brain
+Don't drain
 o-o
-figuring out
+your brain
 o-o
-how to use
+learning how
+o-o
+to operate
 o-o
 a time machine
 o-o
@@ -182,14 +177,36 @@ to triumph
 o-o
 over people
 o-o
-who have forgotten
+who have
+o-o
+forgotten
 o-o
 your name.
 sentence-next
 o-o
-Most importantly
+Identify
 o-o
-welcome joy
+how and why
+o-o
+you cling to
+o-o
+those thoughts
+o-o
+about the past
+o-o
+and the future.
+sentence-next
+o-o
+Let go
+o-o
+of the past and
+o-o
+future.
+sentence-next
+o-o
+Now you're ready
+o-o
+to welcome joy
 o-o
 when it enters
 o-o

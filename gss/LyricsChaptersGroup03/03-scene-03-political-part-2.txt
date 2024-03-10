@@ -146,102 +146,23 @@ with dramatic
 o-o
 bloody fighting
 o-o
-in their colossal
+in their
+o-o
+colossal
 o-o
 Colosseum.
 end-lyric
 
 ambee sings-damien amenn
-Oh,
-o-o
-your point
-o-o
-is beginning
-o-o
-to stick.
-sentence-next
-o-o
-It's like the
-o-o
-insurrection
-o-o
-on January
-o-o
-sixth.
-sentence-next
-o-o
-The fighters who
-o-o
-attacked Congress
-o-o
-believed they were
-o-o
-in sort of a
-o-o
-cult
-o-o
-to defend
-o-o
-democracy.
-sentence-next
-o-o
-Yet in reality
-o-o
-they were defending
-o-o
-the political down,
-o-o
-the biggest
-o-o
-campaign contributors.
-sentence-next
-o-o
-They were duped
-o-o
-by the fake fight
-o-o
-between left
-o-o
-and right.
-end-lyric
-
-ambee sings-politician amenn
-That's the picture.
-sentence-next
-o-o
-Nowadays,
-o-o
-modern hyphen-here day
-o-o
-plebeians
-o-o
-get to vote
-o-o
-which puppet
-o-o
-wins the fight
-o-o
-on the stage
-o-o
-we call
-o-o
-elections.
-end-lyric
-
-ambee sings-damien amenn
 So it's like
 o-o
-funding
-o-o
-two cults,
+funding two cults,
 o-o
 or two gangs,
 o-o
-that fight
+that fight each other
 o-o
-each other
-o-o
-on stage.
+on stage?
 sentence-next
 o-o
 While the
@@ -254,7 +175,11 @@ remove money
 o-o
 from our
 o-o
-wallets?
+wallets
+o-o
+while we're
+o-o
+distracted?
 end-lyric
 
 ambee sings-politician amenn
@@ -262,6 +187,39 @@ That's a bit rough.
 sentence-next
 o-o
 But close enough.
+end-lyric
+
+ambee sings-damien amenn
+The fighters
+o-o
+who attacked
+o-o
+Congress
+o-o
+sure were duped
+o-o
+by the fake fight
+o-o
+between left
+o-o
+and right.
+sentence-next
+o-o
+They believed
+o-o
+their cult
+o-o
+was defending
+o-o
+democracy.
+end-lyric
+
+ambee sings-politician amenn
+Indeed,
+o-o
+their vision
+o-o
+was out of focus.
 end-lyric
 
 ambee sings-damien amenn

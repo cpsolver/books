@@ -20,19 +20,23 @@ your brain.
 end-lyric
 
 ambee sings-desha amenn
-The formula
+The dramatic
 o-o
-in those shows
+second half
 o-o
-is for a
+of those shows
 o-o
-district
+portrays
+o-o
+a district
 o-o
 attorney
 o-o
-to defend
+defending
 o-o
-the guilty.
+the guilty
+o-o
+criminal.
 sentence-next
 o-o
 Now in real life
@@ -98,19 +102,6 @@ o-o
 we just
 o-o
 talked about.
-sentence-next
-o-o
-Plus
-o-o
-church choirs
-o-o
-sang for free
-o-o
-at the king's
-o-o
-royal
-o-o
-festivals.
 end-lyric
 
 ambee sings-father-of-fiance amenn
