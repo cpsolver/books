@@ -853,17 +853,20 @@ sentence-next
 o-o
 For sure
 o-o
-it would reduce
+it will reduce
 o-o
-the need for the
+the size of
 o-o
 taxpayer hyphen-here supported
 o-o
 food hyphen-here assistance
 o-o
-handouts
+handouts.
+sentence-next
 o-o
-you complain
+The ones you
+o-o
+complain
 o-o
 about.
 end-lyric

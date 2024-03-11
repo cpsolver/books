@@ -795,33 +795,95 @@ ambee sings-desha amenn
 That's horrific!
 sentence-next
 o-o
-Yet it's not
+Hillary
 o-o
-illegal.
-sentence-next
-o-o
-This makes my
-o-o
-blood boil!
-sentence-next
-o-o
-How can so
-o-o
-many voters
-o-o
-have been
-o-o
-so clueless
-o-o
-about that
-o-o
-trick?
+should have won.
 end-lyric
 
 ambee sings-damien amenn
-Can we fight
+Not necessarily.
+sentence-next
 o-o
-against
+Both Obama and
+o-o
+Clinton
+o-o
+should have been
+o-o
+in that general
+o-o
+election.
+sentence-next
+o-o
+Along with
+o-o
+another
+o-o
+Republican.
+sentence-next
+o-o
+That would have
+o-o
+given us a
+o-o
+choice between
+o-o
+four slogans.
+end-lyric
+
+ambee sings-desha amenn
+What slogans?
+end-lyric
+
+ambee sings-damien amenn
+Obama's
+o-o
+slogan was
+o-o
+begin-italics hope and change end-italics no-space .
+sentence-next
+o-o
+McCain's
+o-o
+slogan was
+o-o
+begin-italics it's my turn end-italics no-space .
+sentence-next
+o-o
+Clinton's
+o-o
+slogan was
+o-o
+begin-italics I'm experienced,
+o-o
+trust me end-italics no-space .
+sentence-next
+o-o
+We don't know
+o-o
+what slogan
+o-o
+would have come from
+o-o
+the second
+o-o
+Republican.
+end-lyric
+
+ambee sings-desha amenn
+We need to fight
+o-o
+against that
+o-o
+blocking
+o-o
+strategy!
+end-lyric
+
+ambee sings-damien amenn
+How can we
+o-o
+fight against
 o-o
 cluelessness?
 end-lyric
@@ -836,14 +898,28 @@ o-o
 Cluelessness Now end-italics
 o-o
 I will.
-sentence-next
-o-o
-I'll fight against
-o-o
-whoever's to blame.
 end-lyric
 
 ambee sings-damien amenn
+I'm clueless.
+sentence-next
+o-o
+About how to
+o-o
+count ballots
+o-o
+to handle
+o-o
+four
+o-o
+candidates.
+sentence-next
+o-o
+Instead of
+o-o
+just two.
+sentence-next
+o-o
 How do you aim
 o-o
 to tame

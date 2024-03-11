@@ -161,6 +161,8 @@ Not even if they
 o-o
 make something
 o-o
+valuable
+o-o
 and sell it to
 o-o
 customers
@@ -426,7 +428,16 @@ valuable.
 end-lyric
 
 ambee sings-econhist amenn
-Their tax break
+Tax credits
+o-o
+are usually
+o-o
+a percentage.
+sentence-next
+o-o
+So the tax break
+o-o
+on that business
 o-o
 will be tiny,
 o-o

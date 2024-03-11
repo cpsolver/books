@@ -94,11 +94,19 @@ widows:2;
 .para_standard{
 margin-top:2em;
 margin-bottom:2em;
-line-height:1.4em;
+line-height:1.5em;
 }
 
 .para_centered{
 text-align:center;
+}
+
+.para_avoid_break_after{
+page-break-after:avoid;
+}
+
+.para_gap_above{
+margin-top:3em;
 }
 
 toc_list {

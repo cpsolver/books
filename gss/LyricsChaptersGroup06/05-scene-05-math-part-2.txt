@@ -87,23 +87,29 @@ sentence-next
 o-o
 Even though
 o-o
+foundational
+o-o
 key concepts
 o-o
 are more
 o-o
 important than
 o-o
-remembering
+memorizing
+o-o
+how to add
+o-o
+two fractions,
+o-o
+memorizing
+o-o
+spelling rules,
+o-o
+and remembering
 o-o
 historical
 o-o
-battle details,
-o-o
-how to spell,
-o-o
-and how to add
-o-o
-two fractions.
+battle details.
 end-lyric
 
 ambee sings-desha amenn
@@ -698,7 +704,9 @@ now?
 end-lyric
 
 ambee sings-mathprof amenn
-Most elections
+Most simple
+o-o
+elections
 o-o
 in most nations
 o-o
@@ -805,17 +813,17 @@ Imagine protesting
 o-o
 with a sign that says
 o-o
-begin-italics We Demand
+begin-italics Ban That
 o-o
-To Stop Using
+Nameless
 o-o
-That Nameless
-o-o
-Bad Kind Of
+Kind Of
 o-o
 Election
 o-o
-Ballot end-italics no-space .
+Ballot
+o-o
+We Use Now end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn

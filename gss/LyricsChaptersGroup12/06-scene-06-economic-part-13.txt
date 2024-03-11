@@ -99,14 +99,25 @@ o-o
 fight with.
 end-lyric
 
+ambee sings-damien amenn
+What's today's
+o-o
+version of
+o-o
+dumping tea
+o-o
+in a harbor?
+end-lyric
+
+ambee sings-econhist amenn
+My crystal ball
+o-o
+isn't that
+o-o
+uncloudy.
+end-lyric
+
 ambee sings-desha amenn
-You've shown us
-o-o
-a path to
-o-o
-better times.
-sentence-next
-o-o
 I guess we just
 o-o
 need to fight

@@ -178,9 +178,7 @@ their too hyphen-here big slice
 o-o
 of economic pie,
 o-o
-probably with
-o-o
-vanilla
+with vanilla
 o-o
 ice cream and
 o-o
@@ -190,9 +188,13 @@ on top.
 end-lyric
 
 ambee sings-mathprof amenn
-Speaking of that,
+Speaking of
 o-o
-here are colored blocks
+ice cream,
+o-o
+here are
+o-o
+colored blocks
 o-o
 that represent
 o-o
@@ -235,7 +237,9 @@ of pink.
 end-lyric
 
 ambee sings-mathprof amenn
-This color represents
+This color
+o-o
+represents
 o-o
 mint chocolate
 o-o
@@ -606,11 +610,11 @@ If that's what
 o-o
 at least
 o-o
-two thirds,
+one third,
 o-o
 er,
 o-o
-most of the
+enough
 o-o
 voters want.
 end-lyric
@@ -662,6 +666,30 @@ o-o
 legislatures
 o-o
 vote on bills.
+end-lyric
+
+ambee sings-damien amenn
+That word stew
+o-o
+tastes strange.
+end-lyric
+
+ambee sings-desha amenn
+It just means
+o-o
+this new info
+o-o
+doesn't
+o-o
+contradict
+o-o
+what she said
+o-o
+earlier.
+end-lyric
+
+ambee sings-damien amenn
+Now are we done?
 end-lyric
 
 ambee sings-desha amenn

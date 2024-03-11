@@ -434,9 +434,10 @@ use to get
 o-o
 oversized slices
 o-o
-of economic pie,
+of economic pie.
+sentence-next
 o-o
-the savory kind!
+The meat kind.
 sentence-next
 o-o
 They use lawyers.

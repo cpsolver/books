@@ -162,77 +162,6 @@ o-o
 innovations.
 sentence-next
 o-o
-That keeps the
-o-o
-business
-o-o
-ahead of
-o-o
-copycat
-o-o
-businesses.
-end-lyric
-
-ambee sings-damien amenn
-Is this like
-o-o
-Walt Disney?
-sentence-next
-o-o
-He created
-o-o
-lots of
-o-o
-innovations.
-end-lyric
-
-ambee sings-econhist amenn
-Excellent
-o-o
-example.
-sentence-next
-o-o
-In his case his
-o-o
-brother Roy
-o-o
-handled the
-o-o
-money biz.
-end-lyric
-
-ambee sings-damien amenn
-Without
-o-o
-embezzlement
-o-o
-there's no leak
-o-o
-of money
-o-o
-from the top.
-end-lyric
-
-ambee sings-desha amenn
-And no leak
-o-o
-of money
-o-o
-to underpaid
-o-o
-artists
-o-o
-at the bottom.
-sentence-next
-o-o
-Back before
-o-o
-they
-o-o
-unionized.
-end-lyric
-
-ambee sings-econhist amenn
 Having
 o-o
 a source of
@@ -285,18 +214,6 @@ o-o
 money from your
 o-o
 invention.
-sentence-next
-o-o
-Maybe by teaming up
-o-o
-with an entrepreneur.
-sentence-next
-o-o
-You would be
-o-o
-the creative
-o-o
-genius.
 end-lyric
 
 ambee sings-damien amenn
@@ -412,7 +329,9 @@ your idea with
 o-o
 the patent office
 o-o
-without mortgaging
+without
+o-o
+mortgaging
 o-o
 your house to pay
 o-o
@@ -426,9 +345,25 @@ o-o
 patent number.
 sentence-next
 o-o
-You'd add it to
+The government
 o-o
-your LinkedIn
+would handle
+o-o
+collecting
+o-o
+licensing fees.
+sentence-next
+o-o
+Sort of like
+o-o
+a tax.
+sentence-next
+o-o
+You would add
+o-o
+the patent number
+o-o
+to your LinkedIn
 o-o
 profile.
 sentence-next
@@ -506,36 +441,17 @@ o-o
 alas.
 sentence-next
 o-o
-Under current
+Eventually
 o-o
-conditions
-o-o
-only hindsight
-o-o
-reveals who's
-o-o
-a creative
-o-o
-genius.
-sentence-next
-o-o
-When that
+when that
 o-o
 inefficiency
 o-o
 gets solved,
 o-o
-that will increase
-o-o
-economic
-o-o
-prosperity
-o-o
-so dramatically
-o-o
-it will change
-o-o
 the economy
+o-o
+will transform
 o-o
 from a roller
 o-o
@@ -548,113 +464,6 @@ o-o
 into outer
 o-o
 space.
-end-lyric
-
-ambee sings-damien amenn
-Aren't most people
-o-o
-creative?
-end-lyric
-
-ambee sings-econhist amenn
-It's like with art.
-sentence-next
-o-o
-Thousands of
-o-o
-painters
-o-o
-have painted
-o-o
-portraits in
-o-o
-very creative
-o-o
-styles.
-sentence-next
-o-o
-But the
-o-o
-Mona Lisa
-o-o
-stands out
-o-o
-as a style
-o-o
-that's not just
-o-o
-different.
-sentence-next
-o-o
-It's also widely
-o-o
-appreciated
-o-o
-by millions
-o-o
-of people.
-end-lyric
-
-ambee sings-damien amenn
-Oh, that's why
-o-o
-you use the word
-o-o
-genius
-o-o
-after the word
-o-o
-creative?
-sentence-next
-o-o
-'Cause the word
-o-o
-creative just
-o-o
-means different?
-end-lyric
-
-ambee sings-econhist amenn
-Yes,
-o-o
-alas,
-o-o
-most business
-o-o
-managers
-o-o
-don't understand
-o-o
-the different
-o-o
-meanings of
-o-o
-the word
-o-o
-creative.
-sentence-next
-o-o
-And the word
-o-o
-innovation
-o-o
-also gets
-o-o
-misunderstood.
-sentence-next
-o-o
-The value
-o-o
-of a product
-o-o
-or a person
-o-o
-becomes clear
-o-o
-only in hindsight.
-sentence-next
-o-o
-Not at the time.
 end-lyric
 
 ambee sings-desha amenn

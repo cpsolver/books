@@ -560,70 +560,11 @@ o-o
 useful.
 sentence-next
 o-o
-If there were
-o-o
-lots of candidates,
-o-o
-and they couldn't
-o-o
-share the same
-o-o
-choice column,
-o-o
-the ballot
-o-o
-could become
-o-o
-a nightmare.
-sentence-next
-o-o
-It would look like
-o-o
-a minefield.
-sentence-next
-o-o
-With too many
-o-o
-ovals.
-sentence-next
-o-o
-In too many rows.
-sentence-next
-o-o
-And too many
-o-o
-columns.
-end-lyric
-
-ambee sings-mathprof amenn
-Having six or
-o-o
-seven
-o-o
-choice columns is
-o-o
-sufficient
-o-o
-when so hyphen-here called
-o-o
-overvotes
-o-o
-are counted
-o-o
-correctly.
-end-lyric
-
-ambee sings-damien amenn
-Also I see
-o-o
-if there was
+If there was
 o-o
 an evil candidate,
 o-o
-...
-sentence-next
-o-o
-Well I'd need to
+I'd want to
 o-o
 mark him lowest.
 sentence-next
@@ -661,34 +602,89 @@ o-o
 diabolical
 o-o
 jerk.
+sentence-next
+o-o
+Without this
+o-o
+correct counting
+o-o
+we'd need as
+o-o
+many choice
+o-o
+columns as
+o-o
+candidates.
+sentence-next
+o-o
+That ballot
+o-o
+would look like
+o-o
+a minefield
+o-o
+nightmare.
+sentence-next
+o-o
+Too many
+o-o
+columns.
+sentence-next
+o-o
+Too many rows.
+sentence-next
+o-o
+And way too many
+o-o
+ovals.
 end-lyric
 
 ambee sings-mathprof amenn
 Great thinking!
 sentence-next
 o-o
-Now are you
+When so hyphen-here called
 o-o
-ready to learn
+overvotes
 o-o
-a way to limit
+are counted
+o-o
+correctly
+o-o
+we only need
+o-o
+six or seven
+o-o
+choice columns.
+sentence-next
+o-o
+Speaking of
+o-o
+lots of
 o-o
 candidates,
 o-o
-so there aren't
+are you ready
 o-o
-too many?
+to learn a way
+o-o
+to limit
+o-o
+the number of
+o-o
+candidates?
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 If it doesn't
 o-o
-involve a
+involve
 o-o
-glass ceiling.
-sentence-next
+discrimination,
 o-o
-Or glass slippers.
+a glass ceiling,
+o-o
+or glass slippers.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -776,20 +772,20 @@ o-o
 right?
 sentence-next
 o-o
-So they don't
+So their
 o-o
-waste space
+candidates
+o-o
+don't waste space
 o-o
 on the ballot?
 end-lyric
 
 ambee sings-mathprof amenn
-That makes sense
-o-o
-to me.
+Exactly.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Yet big
 o-o
 third parties

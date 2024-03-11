@@ -370,6 +370,13 @@ o-o
 without fighting.
 sentence-next
 o-o
+And without
+o-o
+hiding
+o-o
+information.
+sentence-next
+o-o
 It's fluid and
 o-o
 flexible.

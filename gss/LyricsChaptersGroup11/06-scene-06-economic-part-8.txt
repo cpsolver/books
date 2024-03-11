@@ -319,8 +319,6 @@ software developing,
 o-o
 cooking,
 o-o
-brewing,
-o-o
 and
 o-o
 entertaining.
@@ -418,29 +416,19 @@ that better
 o-o
 voting methods
 o-o
-would allow us
+will give us
 o-o
-voters to elect
+better
 o-o
-politicians
-o-o
-who'd pass laws
-o-o
-that change business
-o-o
-taxes?
+politicians.
 sentence-next
 o-o
-In ways that
+Ones who'd improve
 o-o
-would lead to
-o-o
-a stronger
-o-o
-economy?
+business taxes?
 sentence-next
 o-o
-So there's
+In ways that bring
 o-o
 a big flow of
 o-o
@@ -473,22 +461,22 @@ economic
 o-o
 prosperity
 o-o
-would increase
+will increase
 o-o
 if those changes
 o-o
-were made.
+are made.
 end-lyric
 
 ambee sings-desha amenn
-So it would
+So it will
 o-o
 make lots more
 o-o
 savory pies!
 sentence-next
 o-o
-Then there'd be
+Then there will be
 o-o
 less fighting
 o-o
@@ -507,7 +495,7 @@ Then everyone
 o-o
 who deserves
 o-o
-can get
+will get
 o-o
 a bigger
 o-o
