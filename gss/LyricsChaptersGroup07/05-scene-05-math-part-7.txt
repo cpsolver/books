@@ -612,7 +612,7 @@ candidates
 o-o
 would give me
 o-o
-rolling oval
+oval hyphen-here counting
 o-o
 nightmares.
 end-lyric
@@ -1055,7 +1055,9 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-You've got it!
+Basically,
+o-o
+yes.
 end-lyric
 
 ambee sings-damien amenn
@@ -1063,7 +1065,7 @@ Isn't pairwise
 o-o
 vote counting
 o-o
-too mind bending
+too mind hyphen-here bending
 o-o
 for math hyphen-here phobic
 o-o

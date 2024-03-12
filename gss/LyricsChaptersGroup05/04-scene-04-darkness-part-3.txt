@@ -735,13 +735,15 @@ o-o
 about why.
 sentence-next
 o-o
-Especially
+Except
 o-o
-about the
+some of them
+o-o
+know about the
 o-o
 blocking
 o-o
-trick.
+tactic.
 end-lyric
 
 ambee sings-desha amenn
@@ -828,7 +830,9 @@ given us a
 o-o
 choice between
 o-o
-four slogans.
+four slogans,
+o-o
+not just two.
 end-lyric
 
 ambee sings-desha amenn
@@ -836,8 +840,6 @@ What slogans?
 end-lyric
 
 ambee sings-damien amenn
-Of course
-o-o
 Obama's
 o-o
 slogan was
@@ -861,7 +863,7 @@ o-o
 trust me end-italics no-space .
 sentence-next
 o-o
-However
+But
 o-o
 we don't know
 o-o
@@ -875,58 +877,28 @@ Republican.
 end-lyric
 
 ambee sings-desha amenn
-We need to fight
+So what should we
 o-o
-against that
-o-o
-blocking
-o-o
-strategy!
+fight against?
 end-lyric
 
 ambee sings-damien amenn
-How can we
+We need to
 o-o
-fight against
-o-o
-cluelessness?
-end-lyric
-
-ambee sings-desha amenn
-If it will help to
-o-o
-carry a banner
-o-o
-that says begin-italics End 
-o-o
-Cluelessness Now end-italics
-o-o
-I will.
-end-lyric
-
-ambee sings-damien amenn
-I'm clueless.
-sentence-next
-o-o
-About how to
+find out how to
 o-o
 count ballots
 o-o
 to handle
 o-o
-four
+four or more
 o-o
 candidates.
 sentence-next
 o-o
-Instead of
+Hopefully
 o-o
-just two.
-sentence-next
-o-o
-How do you aim
-o-o
-to tame
+that will tame
 o-o
 the circus
 o-o
@@ -945,7 +917,7 @@ sentence-next
 o-o
 I mean
 o-o
-stupid voters?
+stupid voters.
 end-lyric
 
 ambee sings-desha amenn
@@ -953,7 +925,7 @@ I call on the spirits
 o-o
 of the dead here
 o-o
-to inspire me
+to inspire us
 o-o
 to find a way
 o-o
@@ -993,11 +965,7 @@ who gets paid
 o-o
 to make clever
 o-o
-gifs,
-o-o
-those short
-o-o
-videos,
+short videos
 o-o
 that attack
 o-o

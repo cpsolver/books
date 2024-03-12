@@ -15,6 +15,11 @@ end-comment
 ************ comenn
 
 
+begin-standard-paragraph
+begin-bold [This chapter is still being refined!] end-bold
+end-standard-paragraph
+
+
 ambee sings-desha-firstuse amenn
 Are you professor
 o-o

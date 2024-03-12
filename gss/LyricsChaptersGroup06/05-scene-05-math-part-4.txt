@@ -357,9 +357,11 @@ o-o
 ballots.
 sentence-next
 o-o
-They look the same
+They look about
 o-o
-as score ballots
+the same as
+o-o
+score ballots
 o-o
 with ovals,
 o-o
