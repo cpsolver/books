@@ -651,6 +651,8 @@ How do I get
 o-o
 a tape measure
 o-o
+with markings
+o-o
 like this?
 end-lyric
 
@@ -815,17 +817,17 @@ fractions.
 end-lyric
 
 ambee sings-desha amenn
-That's why
+They're the ones
 o-o
-an hour has
+who chose
 o-o
 sixty minutes
 o-o
-and a
+per hour and
 o-o
-minute has
+sixty seconds
 o-o
-sixty seconds.
+per minute.
 end-lyric
 
 ambee sings-mathprof amenn

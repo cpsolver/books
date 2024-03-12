@@ -729,9 +729,11 @@ Their success
 o-o
 was based on
 o-o
-either working with,
+working with,
 o-o
 or buying from,
+o-o
+or copying from,
 o-o
 creative
 o-o
@@ -773,53 +775,13 @@ o-o
 lots of smart
 o-o
 employees.
-end-lyric
-
-ambee sings-econhist amenn
-Some of those
-o-o
-people got
-o-o
-well hyphen-here deserved
-o-o
-attention.
 sentence-next
 o-o
-So we know
+And Nikola
 o-o
-their names.
-sentence-next
+Tesla helped
 o-o
-Like
-o-o
-Steve Wozniak,
-o-o
-Paul Allen,
-o-o
-and Jony Ive.
-sentence-next
-o-o
-Yet there were
-o-o
-many others.
-sentence-next
-o-o
-Not all of them
-o-o
-were employees.
-sentence-next
-o-o
-Do you know
-o-o
-who Nikola
-o-o
-Tesla was?
-end-lyric
-
-ambee sings-damien amenn
-He helped
-o-o
-Westinghouse
+some business
 o-o
 with electrical
 o-o
@@ -827,22 +789,31 @@ power stuff.
 end-lyric
 
 ambee sings-econhist amenn
-Yes,
-o-o
-he almost
+Tesla almost
 o-o
 single hyphen-here handedly
 o-o
-designed our
+designed the
 o-o
 electrical
 o-o
 power grid
 o-o
-system.
+system
+o-o
+we still use
+o-o
+today.
 sentence-next
 o-o
-Yet Tesla also
+Westinghouse
+o-o
+provided
+o-o
+that funding.
+sentence-next
+o-o
+Tesla also
 o-o
 invented
 o-o
@@ -859,6 +830,15 @@ o-o
 commercialized.
 sentence-next
 o-o
+But Marconi
+o-o
+didn't pay
+o-o
+anything
+o-o
+to Tesla.
+sentence-next
+o-o
 And Tesla
 o-o
 did some
@@ -868,14 +848,7 @@ o-o
 Thomas Edison.
 sentence-next
 o-o
-But he didn't
-o-o
-get paid by
-o-o
-Marconi.
-sentence-next
-o-o
-And Edison
+But Edison
 o-o
 didn't pay
 o-o
@@ -884,36 +857,6 @@ o-o
 thought Edison
 o-o
 had promised.
-sentence-next
-o-o
-And did you know
-o-o
-Bill Gates
-o-o
-bought some
-o-o
-software and
-o-o
-renamed it
-o-o
-Microsoft DOS?
-sentence-next
-o-o
-Its creators
-o-o
-sold it for
-o-o
-far less than
-o-o
-what they would have
-o-o
-if they had known
-o-o
-Gates was buying it
-o-o
-to license to
-o-o
-IBM.
 end-lyric
 
 ambee sings-desha amenn

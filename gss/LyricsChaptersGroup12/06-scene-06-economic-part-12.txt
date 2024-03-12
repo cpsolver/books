@@ -347,9 +347,9 @@ sentence-next
 o-o
 The government
 o-o
-would handle
+would collect
 o-o
-collecting
+and keep the
 o-o
 licensing fees.
 sentence-next
@@ -359,7 +359,7 @@ o-o
 a tax.
 sentence-next
 o-o
-You would add
+Then you would add
 o-o
 the patent number
 o-o

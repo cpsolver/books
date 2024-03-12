@@ -524,13 +524,18 @@ But they write
 o-o
 documents
 o-o
-on computer
+quickly on
+o-o
+computer
 o-o
 screens
 o-o
-and paper
+and paper.
+sentence-next
 o-o
-instead of
+Instead of
+o-o
+slowly on
 o-o
 clay tablets
 o-o

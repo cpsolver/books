@@ -572,28 +572,25 @@ o-o
 Beneath all the
 o-o
 others.
+end-lyric
+
+ambee sings-desha amenn
+Ah yes.
 sentence-next
 o-o
-That means
+We'd need the
 o-o
-I'd need to use
-o-o
-the next hyphen-here to hyphen-here last
+next hyphen-here to hyphen-here last
 o-o
 choice column
 o-o
-for all the
+for marking
+o-o
+all the
 o-o
 candidates
 o-o
-who are worse
-o-o
-than my first few
-o-o
-choices.
-sentence-next
-o-o
-But who aren't
+who aren't
 o-o
 as evil
 o-o
@@ -602,60 +599,61 @@ o-o
 diabolical
 o-o
 jerk.
-sentence-next
+end-lyric
+
+ambee sings-damien amenn
+Seeing
 o-o
-Without this
-o-o
-correct counting
-o-o
-we'd need as
-o-o
-many choice
+as many choice
 o-o
 columns as
 o-o
-candidates.
-sentence-next
+candidates
 o-o
-That ballot
+would give me
 o-o
-would look like
+rolling oval
 o-o
-a minefield
-o-o
-nightmare.
-sentence-next
-o-o
-Too many
-o-o
-columns.
-sentence-next
-o-o
-Too many rows.
-sentence-next
-o-o
-And way too many
-o-o
-ovals.
+nightmares.
 end-lyric
 
 ambee sings-mathprof amenn
 Great thinking!
 sentence-next
 o-o
-When so hyphen-here called
-o-o
-overvotes
-o-o
-are counted
-o-o
-correctly
-o-o
-we only need
+As few as
 o-o
 six or seven
 o-o
-choice columns.
+choice columns
+o-o
+would work.
+sentence-next
+o-o
+Even for twenty
+o-o
+candidates.
+sentence-next
+o-o
+Provided
+o-o
+the voter marks
+o-o
+at least
+o-o
+one or two
+o-o
+popular
+o-o
+candidates
+o-o
+within the
+o-o
+top four
+o-o
+choice
+o-o
+columns.
 sentence-next
 o-o
 Speaking of
@@ -1065,13 +1063,15 @@ Isn't pairwise
 o-o
 vote counting
 o-o
-too complex
+too mind bending
 o-o
 for math hyphen-here phobic
 o-o
 voters
 o-o
-to understand?
+to swallow
+o-o
+and digest?
 end-lyric
 
 ambee sings-mathprof amenn

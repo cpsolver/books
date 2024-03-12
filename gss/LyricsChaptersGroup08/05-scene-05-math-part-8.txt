@@ -112,7 +112,9 @@ now.
 end-lyric
 
 ambee sings-damien amenn
-The bleach scent
+Already
+o-o
+the bleach scent
 o-o
 isn't evident.
 sentence-next
@@ -553,27 +555,30 @@ because it's
 o-o
 possible
 o-o
-a male politician
-o-o
-might better
-o-o
-represent
-o-o
-what women want
-o-o
-than a female
+a male
 o-o
 politician
 o-o
-who's just a puppet
+better
 o-o
-controlled
+represents
+o-o
+what women want.
+sentence-next
+o-o
+Compared to
+o-o
+a female
+o-o
+politician
+o-o
+who's controlled
 o-o
 by male
 o-o
 campaign
 o-o
-contributors?
+contributors.
 end-lyric
 
 ambee sings-desha amenn
@@ -669,13 +674,22 @@ vote on bills.
 end-lyric
 
 ambee sings-damien amenn
-That word stew
+My brain
 o-o
-tastes strange.
+has faded.
+sentence-next
+o-o
+I got lost at
+o-o
+the beginning
+o-o
+of that
+o-o
+sentence.
 end-lyric
 
 ambee sings-desha amenn
-It just means
+She's just saying
 o-o
 this new info
 o-o

@@ -43,11 +43,13 @@ are not blocked
 o-o
 from writing and
 o-o
-speaking about those
+speaking about the
 o-o
-unfairness
+electoral
 o-o
-topics.
+college and
+o-o
+gerrymandering.
 end-lyric
 
 ambee sings-damien amenn
@@ -191,7 +193,7 @@ and
 o-o
 indirectly
 o-o
-donate
+donates
 o-o
 money to
 o-o
@@ -207,23 +209,9 @@ o-o
 Democratic
 o-o
 nominee.
-end-lyric
-
-ambee sings-damien amenn
-I see.
 sentence-next
 o-o
-It just affects the
-o-o
-distractin' balance
-o-o
-between left
-o-o
-'n right.
-end-lyric
-
-ambee sings-politician amenn
-That concentrates
+Which concentrates
 o-o
 conservative
 o-o

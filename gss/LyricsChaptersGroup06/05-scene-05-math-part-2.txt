@@ -243,13 +243,11 @@ o-o
 mathematics?
 sentence-next
 o-o
-Now,
+I'm dumbstruck
 o-o
-I'm shocked
+to say this,
 o-o
-to say,
-o-o
-I'm eager
+yet I'm eager
 o-o
 to learn the
 o-o
@@ -802,28 +800,14 @@ voting.
 end-lyric
 
 ambee sings-desha amenn
-Ah! With no name
+Ah!
+sentence-next
+o-o
+With no name
 o-o
 it becomes harder
 o-o
 to fight against!
-sentence-next
-o-o
-Imagine protesting
-o-o
-with a sign that says
-o-o
-begin-italics Ban That
-o-o
-Nameless
-o-o
-Kind Of
-o-o
-Election
-o-o
-Ballot
-o-o
-We Use Now end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn

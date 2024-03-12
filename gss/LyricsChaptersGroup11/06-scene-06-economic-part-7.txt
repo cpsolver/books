@@ -430,9 +430,11 @@ end-lyric
 ambee sings-econhist amenn
 Tax credits
 o-o
-are usually
+usually are
 o-o
-a percentage.
+a percentage
+o-o
+of income.
 sentence-next
 o-o
 So the tax break

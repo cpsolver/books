@@ -210,49 +210,7 @@ does.
 end-lyric
 
 ambee sings-damien amenn
-What if the biz
-o-o
-does both?
-sentence-next
-o-o
-Making and
-o-o
-taking?
-end-lyric
-
-ambee sings-econhist amenn
-We can prorate it.
-end-lyric
-
-ambee sings-damien amenn
-Get professionals
-o-o
-to rate the
-o-o
-business?
-end-lyric
-
-ambee sings-desha amenn
-Prorating.
-sentence-next
-o-o
-It's another
-o-o
-kind of
-o-o
-division.
-sentence-next
-o-o
-The math kind.
-sentence-next
-o-o
-It involves
-o-o
-percentages.
-end-lyric
-
-ambee sings-damien amenn
-Oh, OK.
+OK.
 sentence-next
 o-o
 But my brain's

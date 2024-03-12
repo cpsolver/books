@@ -554,9 +554,7 @@ o-o
 wickedness.
 sentence-next
 o-o
-Not to mention
-o-o
-lying.
+Plus lying.
 sentence-next
 o-o
 And littering.

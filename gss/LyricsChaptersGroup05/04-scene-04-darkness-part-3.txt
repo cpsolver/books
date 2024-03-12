@@ -817,7 +817,7 @@ sentence-next
 o-o
 Along with
 o-o
-another
+a second
 o-o
 Republican.
 sentence-next
@@ -836,6 +836,8 @@ What slogans?
 end-lyric
 
 ambee sings-damien amenn
+Of course
+o-o
 Obama's
 o-o
 slogan was
@@ -859,7 +861,9 @@ o-o
 trust me end-italics no-space .
 sentence-next
 o-o
-We don't know
+However
+o-o
+we don't know
 o-o
 what slogan
 o-o

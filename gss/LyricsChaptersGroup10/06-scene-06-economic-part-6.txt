@@ -74,7 +74,7 @@ of Islam
 o-o
 spread through
 o-o
-the middle east
+the Middle East
 o-o
 and northern
 o-o
@@ -1000,11 +1000,14 @@ sentence-next
 o-o
 Except in
 o-o
-China and
+China.
+sentence-next
+And North
 o-o
-North Korea,
+Korea.
+sentence-next
 o-o
-and in Russia
+And in Russia
 o-o
 where critics of
 o-o
