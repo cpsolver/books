@@ -277,18 +277,10 @@ o-o
 employee
 o-o
 of the month!
-sentence-next
-o-o
+end-lyric
+
+ambee sings-desha amenn
 What other
-o-o
-predictions
-o-o
-are we failing
-o-o
-to see?
-sentence-next
-o-o
-What
 o-o
 solutions
 o-o
@@ -327,11 +319,13 @@ o-o
 district.
 sentence-next
 o-o
-So far neither
+However,
 o-o
-reform
+so far,
 o-o
-has been done
+neither reform
+o-o
+has been used
 o-o
 in any state
 o-o
@@ -771,159 +765,4 @@ o-o
 businesses
 o-o
 in political power.
-sentence-next
-o-o
-end-lyric
-
-ambee sings-desha amenn
-Ah,
-o-o
-I think I see.
-sentence-next
-o-o
-It's vote
-o-o
-splitting
-o-o
-in general
-o-o
-elections
-o-o
-that causes
-o-o
-political
-o-o
-parties
-o-o
-to only offer
-o-o
-one nominee
-o-o
-in each party.
-sentence-next
-o-o
-And having
-o-o
-just one
-o-o
-nominee
-o-o
-per party
-o-o
-allows
-o-o
-the blocking tactic,
-o-o
-like when
-o-o
-Republicans
-o-o
-gave money
-o-o
-to Obama
-o-o
-to block
-o-o
-Hillary
-o-o
-Clinton
-o-o
-from reaching
-o-o
-the two thousand
-o-o
-eight
-o-o
-presidential
-o-o
-election.
-sentence-next
-o-o
-And vote
-o-o
-splitting
-o-o
-in primary
-o-o
-elections
-o-o
-allows money
-o-o
-to control
-o-o
-who wins
-o-o
-the party's
-o-o
-nomination.
-sentence-next
-o-o
-And it blocks
-o-o
-third parties
-o-o
-from getting
-o-o
-meaningful support.
-end-lyric
-
-ambee sings-damien amenn
-I agree.
-sentence-next
-o-o
-That's why
-o-o
-corrupt
-o-o
-business owners
-o-o
-can limit
-o-o
-our choice to
-o-o
-one Republican
-o-o
-puppet
-o-o
-and one
-o-o
-Democratic
-o-o
-puppet
-o-o
-in our
-o-o
-general
-o-o
-elections.
-sentence-next
-o-o
-So it's that bad
-o-o
-feedback loop
-o-o
-that's our
-o-o
-evil
-o-o
-enemy?
-sentence-next
-o-o
-And why Congress
-o-o
-follows
-o-o
-the motto
-o-o
-begin-italics Keep Congress Weird end-italics no-space ?
-end-lyric
-
-ambee sings-econhist amenn
-That sounds like
-o-o
-a good
-o-o
-summary
-o-o
-to me.
 end-lyric

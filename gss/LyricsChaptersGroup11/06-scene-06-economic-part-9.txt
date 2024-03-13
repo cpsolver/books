@@ -138,48 +138,23 @@ morons,
 o-o
 why doesn't
 o-o
-the economy
+my salary
 o-o
-work for
+rise
 o-o
-hard workers
-o-o
-like me?
-sentence-next
-o-o
-The numbers lie.
-sentence-next
-o-o
-They say
-o-o
-everything's
-o-o
-hunky dory.
-sentence-next
-o-o
-Is this an example
-o-o
-of mathiness?
+from working hard?
 end-lyric
 
 ambee sings-econhist amenn
-I don't know what
-o-o
-mathiness is.
-sentence-next
-o-o
-But numbers can
-o-o
-be deceptive.
-sentence-next
-o-o
 What many people
 o-o
 overlook is that
 o-o
 the unemployment
 o-o
-rate that's in the news
+rate
+o-o
+that's in the news
 o-o
 just counts people
 o-o
@@ -202,40 +177,23 @@ o-o
 that from
 o-o
 experience.
-sentence-next
-o-o
-So unemployment
-o-o
-is actually higher,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes, it's higher.
-end-lyric
-
-ambee sings-damien amenn
-Why don't
-o-o
-economists
-o-o
-measure that?
-sentence-next
-o-o
-The real
-o-o
-unemployment
-o-o
-rate.
 end-lyric
 
 ambee sings-econhist amenn
 The government
 o-o
-measures that
+also measures
 o-o
-as well.
+the actual
+o-o
+unemployment
+o-o
+rate.
+sentence-next
+o-o
+But news sources
+o-o
+don't report it.
 end-lyric
 
 ambee sings-desha amenn
@@ -614,6 +572,17 @@ sunglasses.
 end-lyric
 
 ambee sings-econhist amenn
+Some future
+o-o
+innovations
+o-o
+will solve
+o-o
+those and
+o-o
+other problems.
+sentence-next
+o-o
 You've mentioned
 o-o
 low salaries.

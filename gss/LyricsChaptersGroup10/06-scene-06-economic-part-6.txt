@@ -108,6 +108,17 @@ Bible.
 end-lyric
 
 ambee sings-econhist amenn
+Having a single
+o-o
+language
+o-o
+gave that empire
+o-o
+an additional
+o-o
+efficiency.
+sentence-next
+o-o
 One of the
 o-o
 leaders of that
@@ -122,14 +133,9 @@ collected
 o-o
 non hyphen-here fiction books
 o-o
-from around the world.
-sentence-next
+from around the
 o-o
-Including
-o-o
-Ancient Greece
-o-o
-and China.
+known world.
 sentence-next
 o-o
 And he hired
@@ -160,11 +166,14 @@ three D drawings,
 o-o
 robotic mechanisms,
 o-o
-paper making,
+paper making.
+sentence-next
 o-o
-and weapons
+And especially
 o-o
-of warfare.
+weapons of
+o-o
+warfare.
 sentence-next
 o-o
 Those innovations
@@ -236,7 +245,9 @@ declined.
 end-lyric
 
 ambee sings-damien amenn
-Sounds familiar.
+That decline
+o-o
+sounds familiar.
 sentence-next
 o-o
 With what's
@@ -258,20 +269,32 @@ end-lyric
 ambee sings-econhist amenn
 Dictators
 o-o
-outlaw or
+and wannabe
 o-o
-monopolize
+dictators
+o-o
+outlaw
 o-o
 knowledge.
+sentence-next
+o-o
+Or try to
+o-o
+limit access
+o-o
+to knowledge.
 sentence-next
 o-o
 When Mao Zedong
 o-o
 led China
 o-o
-he destroyed books
+he destroyed
 o-o
-and banished
+lots of books.
+sentence-next
+o-o
+And he banished
 o-o
 intellectuals
 o-o
@@ -289,6 +312,8 @@ ambee sings-desha amenn
 That's why
 o-o
 Chinese spies
+o-o
+have needed to
 o-o
 steal secrets
 o-o
@@ -335,9 +360,13 @@ o-o
 revolution.
 sentence-next
 o-o
-So Chinese leaders
+To avoid
 o-o
-wisely chose
+rebellion,
+o-o
+wise Chinese
+o-o
+leaders hired
 o-o
 government
 o-o
@@ -352,9 +381,12 @@ sentence-next
 o-o
 Instead of
 o-o
-nepotism
+nepotism.
+sentence-next
 o-o
-and favoritism.
+Which is what
+o-o
+Europeans used.
 sentence-next
 o-o
 That innovation,
@@ -943,23 +975,21 @@ end-lyric
 ambee sings-econhist amenn
 In addition
 o-o
-to writing
+to expressing
 o-o
-articles
+progressive
 o-o
-supporting
+views about
 o-o
-the idea of
+opposing
 o-o
-women also
+slavery
 o-o
-being allowed
+and women
 o-o
-to vote,
+also being
 o-o
-and opposing
-o-o
-slavery,
+allowed to vote,
 o-o
 he wrote
 o-o

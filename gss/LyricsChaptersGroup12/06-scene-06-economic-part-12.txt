@@ -39,7 +39,7 @@ o-o
 documentaries?
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 Edison,
 o-o
 Westinghouse,
@@ -53,10 +53,9 @@ o-o
 who win
 o-o
 economically.
-end-lyric
-
-ambee sings-desha amenn
-I see that
+sentence-next
+o-o
+I'm seeing that
 o-o
 creative
 o-o
@@ -162,22 +161,38 @@ o-o
 innovations.
 sentence-next
 o-o
-Having
+Walt Disney
 o-o
-a source of
+is a good
 o-o
-great ideas
-o-o
-that become
-o-o
-innovations
-o-o
-can be a
-o-o
-monopoly.
+example.
 sentence-next
 o-o
-Especially
+He created
+o-o
+lots of
+o-o
+valuable
+o-o
+innovations.
+sentence-next
+o-o
+Steve Jobs
+o-o
+and Apple
+o-o
+is another
+o-o
+example.
+sentence-next
+o-o
+Those kinds of
+o-o
+businesses
+o-o
+become a
+o-o
+monopoly
 o-o
 if competing
 o-o
@@ -359,11 +374,16 @@ o-o
 a tax.
 sentence-next
 o-o
-Then you would add
+What you get
 o-o
-the patent number
+would be a
 o-o
-to your LinkedIn
+patent number.
+sentence-next
+o-o
+You'd add it to
+o-o
+your LinkedIn
 o-o
 profile.
 sentence-next

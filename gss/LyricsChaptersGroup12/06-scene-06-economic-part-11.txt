@@ -203,110 +203,13 @@ o-o
 good
 o-o
 feedback loop.
-end-lyric
-
-ambee sings-damien amenn
-Is there something
-o-o
-from history that
-o-o
-would reveal
-o-o
-how to make
-o-o
-good changes
-o-o
-happen sooner?
-end-lyric
-
-ambee sings-econhist amenn
-When Kodak tried to
-o-o
-develop, so to speak,
-o-o
-color film for cameras,
-o-o
-their research labs
-o-o
-were only making slow
-o-o
-progress.
 sentence-next
 o-o
-But two young
-o-o
-chemistry graduates
-o-o
-were making better
-o-o
-progress, so Kodak
-o-o
-hired them.
-end-lyric
-
-ambee sings-damien amenn
-What was the secret
-o-o
-that gave them an
-o-o
-advantage?
-end-lyric
-
-ambee sings-econhist amenn
-They were singers.
-end-lyric
-
-ambee sings-desha amenn
-The secret was singing?
-end-lyric
-
-ambee sings-econhist amenn
-At that time
-o-o
-color darkrooms
-o-o
-were completely dark.
-sentence-next
-o-o
-There was no way
-o-o
-to see a timer.
-sentence-next
-o-o
-Yet the chemistry
-o-o
-was very time hyphen-here critical.
-sentence-next
-o-o
-So they
-o-o
-sang songs together
-o-o
-and used the
-o-o
-timing of songs
-o-o
-as their timer
-o-o
-for chemical
-o-o
-reactions.
-end-lyric
-
-ambee sings-desha amenn
-So you're saying
-o-o
-we need to
-o-o
-take up singing?
-end-lyric
-
-ambee sings-econhist amenn
-It illustrates
+Also consider
 o-o
 that breakthroughs
 o-o
-often require
+may require
 o-o
 sub hyphen-here breakthroughs.
 end-lyric
@@ -365,39 +268,6 @@ o-o
 civilization
 o-o
 is waiting for.
-sentence-next
-o-o
-Then voters
-o-o
-can elect
-o-o
-leaders who will
-o-o
-be begin-italics their end-italics puppets.
-sentence-next
-o-o
-Until then
-o-o
-politicians
-o-o
-are the puppets
-o-o
-of what you call
-o-o
-the political down.
-sentence-next
-o-o
-Many of these
-o-o
-business owners
-o-o
-earn their money
-o-o
-in ways
-o-o
-that've become
-o-o
-obsolete.
 end-lyric
 
 ambee sings-damien amenn
@@ -654,15 +524,6 @@ o-o
 I've learned
 o-o
 today.
-sentence-next
-o-o
-About the
-o-o
-real hyphen-here world
-o-o
-economic
-o-o
-game.
 end-lyric
 
 ambee sings-desha amenn
@@ -1014,7 +875,7 @@ o-o
 important.
 sentence-next
 o-o
-Such as the
+Especially the
 o-o
 screenwriters.
 sentence-next

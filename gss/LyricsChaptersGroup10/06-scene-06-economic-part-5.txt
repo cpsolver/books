@@ -612,33 +612,16 @@ their grain and beer
 o-o
 by predicting
 o-o
-eclipses
-o-o
-so their boss,
-o-o
-the pharaoh,
-o-o
-could pretend
-o-o
-to be powerful.
-sentence-next
-o-o
-And they
-o-o
-predicted
-o-o
 when the Nile
 o-o
 River would
 o-o
-flood and recede.
+flood.
 sentence-next
 o-o
-Plus each year
+Then those priests
 o-o
-priests used
-o-o
-mathematics
+used mathematics
 o-o
 and surveying
 o-o
@@ -649,6 +632,37 @@ o-o
 farming
 o-o
 boundaries.
+sentence-next
+o-o
+And those priests
+o-o
+predicted
+o-o
+eclipses
+o-o
+so their boss,
+o-o
+the pharaoh,
+o-o
+could schedule
+o-o
+a festival
+o-o
+and ceremony
+o-o
+that proved
+o-o
+beyond a
+o-o
+shadow of doubt
+o-o
+their pharaoh
+o-o
+was related
+o-o
+to the
+o-o
+sun god.
 sentence-next
 o-o
 All of that was
@@ -975,59 +989,24 @@ stores.
 end-lyric
 
 ambee sings-desha amenn
-Retail stores
-o-o
-have megatons of
-o-o
-inefficiency.
-sentence-next
-o-o
-In my retail job
-o-o
-I had to
-o-o
-deal with cash,
-o-o
-loan out
-o-o
-the filthy
-o-o
-restroom key,
-o-o
-and unlock
-o-o
-cans of
-o-o
-spray paint
-o-o
-bought by
-o-o
-starving artists.
-end-lyric
-
-ambee sings-damien amenn
-So Amazon's
+Amazon's
 o-o
 innovations
 o-o
+certainly
+o-o
 eliminate
 o-o
-cash,
+the inefficiency
 o-o
-theft, and
+of cash,
 o-o
-restrooms.
-end-lyric
-
-ambee sings-desha amenn
-Yes.
+theft,
 o-o
-Which increases
-o-o
-efficiency.
+and restrooms.
 sentence-next
 o-o
-Which increases
+That increases
 o-o
 prosperity
 o-o

@@ -43,22 +43,12 @@ o-o
 mumbling stage
 o-o
 of communication.
-sentence-next
-o-o
-But taxes,
-o-o
-and jail time,
-o-o
-how are those
-o-o
-communication?
 end-lyric
 
 ambee sings-desha amenn
-I see.
-sentence-next
+I see that
 o-o
-State governments
+state governments
 o-o
 use alcohol taxes
 o-o
@@ -295,27 +285,6 @@ o-o
 considering
 o-o
 the loss of trees.
-sentence-next
-o-o
-Speaking of which,
-o-o
-long ago
-o-o
-in Japan
-o-o
-they foolishly
-o-o
-cut down their
-o-o
-own forests
-o-o
-for firewood,
-o-o
-so now they pay
-o-o
-high prices
-o-o
-for lumber.
 end-lyric
 
 ambee sings-damien amenn
@@ -381,29 +350,6 @@ o-o
 and sends it to
 o-o
 their headquarters.
-sentence-next
-o-o
-In the case of
-o-o
-McDonald's,
-o-o
-the corporation
-o-o
-extorts extra
-o-o
-money by not
-o-o
-allowing
-o-o
-franchise owners
-o-o
-to repair
-o-o
-their own
-o-o
-milkshake
-o-o
-machines.
 end-lyric
 
 ambee sings-desha amenn
@@ -491,32 +437,17 @@ If the tax break
 o-o
 is well designed,
 o-o
-yes it will
-o-o
-benefit
-o-o
-those kinds of
-o-o
-businesses.
+yes.
 end-lyric
 
 ambee sings-damien amenn
-Under current
-o-o
-conditions
-o-o
-the paperwork
-o-o
-to get tax breaks
-o-o
-is burdensome.
-sentence-next
-o-o
-So I hope
+I hope
 o-o
 it's super easy
 o-o
-to get
+for a small
+o-o
+business to get
 o-o
 these tax breaks.
 end-lyric
@@ -706,26 +637,6 @@ o-o
 that benefits
 o-o
 lots of people.
-end-lyric
-
-ambee sings-desha amenn
-I have my doubts
-o-o
-about that.
-end-lyric
-
-ambee sings-damien amenn
-Are there
-o-o
-examples?
-sentence-next
-o-o
-Somethin' from
-o-o
-history?
-end-lyric
-
-ambee sings-econhist amenn
 Back when Google
 o-o
 started out,
@@ -735,21 +646,8 @@ o-o
 search results,
 o-o
 and fewer ads.
-end-lyric
-
-ambee sings-desha amenn
-Now the results
+sentence-next
 o-o
-prioritize
-o-o
-websites
-o-o
-that host
-o-o
-Google ads.
-end-lyric
-
-ambee sings-econhist amenn
 Amazon
 o-o
 started as
@@ -804,31 +702,6 @@ o-o
 other banks
 o-o
 shunned those folks.
-sentence-next
-o-o
-What's important
-o-o
-to realize
-o-o
-is there are lots
-o-o
-of begin-italics small end-italics
-o-o
-corporations
-o-o
-you've never
-o-o
-heard of
-o-o
-that benefit
-o-o
-lots of people
-o-o
-in lots of
-o-o
-wonderful
-o-o
-ways.
 end-lyric
 
 ambee sings-damien amenn

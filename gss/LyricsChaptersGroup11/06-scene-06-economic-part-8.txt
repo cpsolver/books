@@ -28,76 +28,6 @@ o-o
 money?
 end-lyric
 
-ambee sings-damien amenn
-My boss,
-o-o
-and owners of
-o-o
-similar small
-o-o
-construction
-o-o
-businesses.
-sentence-next
-o-o
-And maybe
-o-o
-Elon Musk
-o-o
-because he's
-o-o
-rocket hyphen-here i hyphen-here zing cars
-o-o
-and car hyphen-here i hyphen-here zing rockets.
-end-lyric
-
-ambee sings-desha amenn
-But he's a jerk.
-sentence-next
-o-o
-He's using
-o-o
-Twitter
-o-o
-to trash
-o-o
-our planet
-o-o
-so he'll get more
-o-o
-customers
-o-o
-to join his
-o-o
-Mars colony
-o-o
-cult.
-end-lyric
-
-ambee sings-econhist amenn
-So was Bill Gates
-o-o
-in his early years.
-sentence-next
-o-o
-Being a jerk,
-o-o
-I mean.
-sentence-next
-o-o
-But here we're
-o-o
-just talking
-o-o
-about whether
-o-o
-they've done things
-o-o
-that strengthen the
-o-o
-economy.
-end-lyric
-
 ambee sings-desha amenn
 Of course
 o-o
@@ -368,70 +298,11 @@ And how I can fight!
 end-lyric
 
 ambee sings-damien amenn
-So you're saying
-o-o
-that better
-o-o
-voting methods
-o-o
-will give us
-o-o
-better
-o-o
-politicians.
-sentence-next
-o-o
-Ones who'd improve
-o-o
-business taxes?
-sentence-next
-o-o
-In ways that bring
-o-o
-a big flow of
-o-o
-money into the
-o-o
-United States?
-end-lyric
-
-ambee sings-desha amenn
-And higher
-o-o
-taxes for
-o-o
-vulture
-o-o
-businesses?
-end-lyric
-
-ambee sings-econhist amenn
-I'm not saying
-o-o
-what should be done,
-o-o
-or will be done.
-sentence-next
-o-o
-I'm saying that
-o-o
-economic
-o-o
-prosperity
-o-o
-will increase
-o-o
-if those changes
-o-o
-are made.
-end-lyric
-
-ambee sings-desha amenn
-So it will
+So this will
 o-o
 make lots more
 o-o
-savory pies!
+savory pies?
 sentence-next
 o-o
 Then there will be
@@ -446,21 +317,13 @@ slices
 o-o
 from just one
 o-o
-savory pie.
-sentence-next
-o-o
-Then everyone
-o-o
-who deserves
-o-o
-will get
-o-o
-a bigger
-o-o
-slice!
+savory pie?
 end-lyric
 
 ambee sings-econhist amenn
+Indeed.
+sentence-next
+o-o
 Unfortunately
 o-o
 those reforms
@@ -549,49 +412,6 @@ o-o
 prosperity
 o-o
 in democracies.
-end-lyric
-
-ambee sings-desha amenn
-And why
-o-o
-authors like the
-o-o
-Condorcet guy
-o-o
-get killed
-o-o
-when they
-o-o
-criticize
-o-o
-corruption by
-o-o
-the people
-o-o
-in power.
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-sentence-next
-o-o
-And why
-o-o
-wannabe
-o-o
-dictators
-o-o
-get assistance
-o-o
-from Russian
-o-o
-and Chinese
-o-o
-hackers
-o-o
-who exploit
-o-o
-social media.
 end-lyric
 
 ambee sings-damien amenn
@@ -683,76 +503,16 @@ o-o
 upside down.
 end-lyric
 
-ambee sings-desha amenn
-I see something
-o-o
-else!
-sentence-next
-o-o
-Suppose law
-o-o
-offices
-o-o
-were taxed more.
-sentence-next
-o-o
-Then lawyers
-o-o
-would earn less
-o-o
-than they do now.
-sentence-next
-o-o
-That means some smart
-o-o
-pre hyphen-here law students
-o-o
-would abandon
-o-o
-their path to
-o-o
-soul hyphen-here sucking
-o-o
-jobs as lawyers.
-sentence-next
-o-o
-Instead they'd choose
-o-o
-careers
-o-o
-in maker
-o-o
-businesses
-o-o
-that offer
-o-o
-higher salaries
-o-o
-than now.
-sentence-next
-o-o
-That job migration
-o-o
-would use U.S.
-o-o
-brainpower
-o-o
-much more
-o-o
-efficiently.
-end-lyric
-
 ambee sings-damien amenn
-Does this mean
+It's certainly
 o-o
-my salary
+upside down
 o-o
-would drop?
-sentence-next
+for me
 o-o
-'Cause I'm not
+since I'm not
 o-o
-a smart guy?
+a smart guy.
 end-lyric
 
 ambee sings-econhist amenn
