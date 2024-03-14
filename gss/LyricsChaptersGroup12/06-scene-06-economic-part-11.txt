@@ -751,6 +751,9 @@ o-o
 of what's legal.
 sentence-next
 o-o
+And ethical.
+sentence-next
+o-o
 Without jumping
 o-o
 over that
@@ -817,16 +820,11 @@ You also need
 o-o
 to join with
 o-o
-someone with
+marketing
 o-o
-vision.
-sentence-next
+and logistics
 o-o
-Plus someone
-o-o
-who can market
-o-o
-what you create.
+experts.
 sentence-next
 o-o
 Think of it like
@@ -836,51 +834,15 @@ o-o
 of a movie.
 sentence-next
 o-o
-The best ones
+The best movies
 o-o
 have lots
 o-o
 and lots
 o-o
-of names.
-sentence-next
+of names
 o-o
-The producers
-o-o
-provide money.
-sentence-next
-o-o
-The actors
-o-o
-and directors
-o-o
-get lots of
-o-o
-attention.
-sentence-next
-o-o
-Yet there are
-o-o
-many more
-o-o
-roles.
-sentence-next
-o-o
-Those
-o-o
-contributors
-o-o
-can be just as
-o-o
-important.
-sentence-next
-o-o
-Especially the
-o-o
-screenwriters.
-sentence-next
-o-o
-They write the script.
+in the credits.
 end-lyric
 
 ambee sings-damien amenn
@@ -896,5 +858,9 @@ backer.
 end-lyric
 
 ambee sings-econhist amenn
-Exactly.
+To be a
+o-o
+success,
+o-o
+yes.
 end-lyric

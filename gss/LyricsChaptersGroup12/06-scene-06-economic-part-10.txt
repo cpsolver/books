@@ -255,7 +255,9 @@ o-o
 handouts.
 sentence-next
 o-o
-The ones
+The charity
+o-o
+ones that
 o-o
 Republicans
 o-o
@@ -268,15 +270,20 @@ ambee sings-damien amenn
 Finally!
 sentence-next
 o-o
-Something
+A wage raise
 o-o
-more useful
+for folks
 o-o
-than gettin' named
+like me!
+sentence-next
+o-o
+That beats
+o-o
+gettin' named
 o-o
 employee
 o-o
-of the month!
+of the month.
 end-lyric
 
 ambee sings-desha amenn
@@ -332,9 +339,11 @@ o-o
 legislature.
 sentence-next
 o-o
-And of course not
+And of course
 o-o
-in Congress.
+not yet in
+o-o
+Congress.
 sentence-next
 o-o
 Yet those two
@@ -469,12 +478,44 @@ o-o
 countries.
 sentence-next
 o-o
+It will peel
+o-o
+and chop
+o-o
+potatoes
+o-o
+and onions
+o-o
+and such.
+sentence-next
+o-o
 In addition to
 o-o
 washing dishes.
-sentence-next
+end-lyric
+
+ambee sings-damien amenn
+Wow!
 o-o
-But that's blocked
+I'd rather have that
+o-o
+kitchen prep
+o-o
+machine
+o-o
+than a self hyphen-here drivin'
+o-o
+car.
+end-lyric
+
+ambee sings-desha amenn
+Me too!
+end-lyric
+
+ambee sings-econhist amenn
+Unfortunately
+o-o
+that's blocked
 o-o
 because of our
 o-o
@@ -502,24 +543,6 @@ o-o
 patent
 o-o
 system.
-end-lyric
-
-ambee sings-damien amenn
-Wow!
-o-o
-I'd rather have that
-o-o
-kitchen prep
-o-o
-machine
-o-o
-than a self hyphen-here drivin'
-o-o
-car.
-end-lyric
-
-ambee sings-desha amenn
-Me too!
 end-lyric
 
 ambee sings-econhist amenn

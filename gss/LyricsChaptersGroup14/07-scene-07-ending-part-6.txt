@@ -484,6 +484,19 @@ o-o
 and food and
 o-o
 utilities.
+sentence-next
+o-o
+And then
+o-o
+businesses
+o-o
+wonder why
+o-o
+we aren't buying
+o-o
+more of
+o-o
+what they sell.
 end-lyric
 
 ambee sings-damien amenn
@@ -601,15 +614,11 @@ o-o
 that are small.
 sentence-next
 o-o
-They don't have
+They're too small
 o-o
-time or money
+to sell shares
 o-o
-to lobby
-o-o
-for special
-o-o
-tax breaks.
+on Wall Street.
 sentence-next
 o-o
 Yet there are

@@ -173,6 +173,9 @@ again? end-italics
 end-lyric
 
 ambee sings-fiance amenn
+Oh my God!
+sentence-next
+o-o
 She's the one!
 sentence-next
 o-o

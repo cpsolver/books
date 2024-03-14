@@ -16,19 +16,21 @@ ambee sings-econhist amenn
 That's not quite right.
 sentence-next
 o-o
-The economic
+The banking
 o-o
-reforms that
+innovations,
 o-o
-created the
+especially
 o-o
-efficiency
+related to
 o-o
-of the
+using Arabic
 o-o
-Italian
+numerals
 o-o
-Renaissance
+instead of
+o-o
+Roman numerals,
 o-o
 have spread
 o-o
@@ -79,11 +81,12 @@ But name-econhist-nickname
 o-o
 can't say that part
 o-o
-out loud
+out loud.
+sentence-next
 o-o
-because he could
+He could lose
 o-o
-lose more than just
+more than just
 o-o
 tenure.
 end-lyric
@@ -212,38 +215,20 @@ over religious
 o-o
 supremacy
 o-o
-in Europe
-o-o
-after they saw
-o-o
-churches
-o-o
-without any
-o-o
-required
-o-o
-taxation
-o-o
-were winning
-o-o
-that fight.
+in Europe.
 sentence-next
 o-o
-Notably
-o-o
-that fight
-o-o
-continues in
+Except in
 o-o
 northern
 o-o
 Ireland
 o-o
-because
+where
 o-o
 religious
 o-o
-oppression there
+oppression
 o-o
 used to be
 o-o
@@ -275,11 +260,12 @@ fighting over
 o-o
 language
 o-o
-supremacy
+supremacy.
+sentence-next
 o-o
-when they saw
+They saw the
 o-o
-the inferior
+inferior
 o-o
 English
 o-o
@@ -292,7 +278,9 @@ sentence-next
 o-o
 So basically
 o-o
-they're copying
+Europeans
+o-o
+are copying
 o-o
 the clear
 o-o
@@ -567,34 +555,48 @@ sentence-next
 o-o
 They originated
 o-o
-public schools,
+public schools
 o-o
-hospitals,
+and hospitals.
+sentence-next
+o-o
+Also orphanages,
 o-o
 food for the poor,
-o-o
-orphanages,
 o-o
 and church members
 o-o
 singing
 o-o
-as a coordinated
+harmoniously
 o-o
-chorus.
+as a chorus.
 sentence-next
 o-o
 But
 o-o
-climate change
+that cooperation
 o-o
-is a hot topic
+is done locally,
 o-o
-that's too big
+where the benefits
 o-o
-for churches
+are easy to see.
+sentence-next
 o-o
-to touch.
+But one church
+o-o
+cannot promote
+o-o
+changes that will
+o-o
+improve the
+o-o
+weather and
+o-o
+climate of
+o-o
+a single town.
 end-lyric
 
 ambee sings-damien amenn
@@ -850,13 +852,14 @@ science,
 o-o
 engineering,
 o-o
-public
-o-o
-education,
-o-o
 government,
 o-o
-and
+and public
+o-o
+education.
+sentence-next
+o-o
+And
 o-o
 Disneyland.
 end-lyric
@@ -899,8 +902,9 @@ o-o
 religious
 o-o
 corruption.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-desha amenn
 What else
 o-o
 will change?
@@ -915,25 +919,21 @@ legislatures
 o-o
 become free
 o-o
-to do what
+to add some
 o-o
-benefits
-o-o
-the majority,
-o-o
-what opens up
-o-o
-are many
-o-o
-opportunities
-o-o
-for new kinds of
+innovative
 o-o
 business
 o-o
-based on
+tax credits,
 o-o
-innovation.
+many new
+o-o
+business
+o-o
+opportunities
+o-o
+will arrive.
 sentence-next
 o-o
 This is like
@@ -961,52 +961,42 @@ War Two.
 end-lyric
 
 ambee sings-damien amenn
-Oh,
+Are there
 o-o
-I think
+less ancient
 o-o
-I see.
-sentence-next
+examples?
+end-lyric
+
+ambee sings-econhist amenn
+In your lifetime
 o-o
 Amazon
 o-o
-pioneered
+has replaced
 o-o
-online buying
+retail stores
 o-o
-and
+with buying
 o-o
-free shipping.
-sentence-next
-o-o
-That replaces the
-o-o
-inefficiency
-o-o
-of retail
-o-o
-stores.
+online.
 end-lyric
 
 ambee sings-desha amenn
-Amazon's
+Amazon eliminates
 o-o
-innovations
+handling cash,
 o-o
-certainly
+store theft,
 o-o
-eliminate
+and public
 o-o
-the inefficiency
-o-o
-of cash,
-o-o
-theft,
-o-o
-and restrooms.
+restrooms.
 sentence-next
 o-o
-That increases
+So far that just
+o-o
+increases
 o-o
 prosperity
 o-o
@@ -1015,7 +1005,9 @@ o-o
 Bezos.
 sentence-next
 o-o
-But selfishly
+That's because
+o-o
+selfishly
 o-o
 he steals
 o-o

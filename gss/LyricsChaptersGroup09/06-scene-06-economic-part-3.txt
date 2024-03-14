@@ -647,6 +647,11 @@ o-o
 when costs
 o-o
 go down.
+sentence-next
+o-o
+And there's
+o-o
+less waste.
 end-lyric
 
 ambee sings-desha amenn

@@ -599,6 +599,15 @@ o-o
 a well hyphen-here designed
 o-o
 tax break.
+sentence-next
+o-o
+It would be
+o-o
+linked to
+o-o
+the company's
+o-o
+wage gap.
 end-lyric
 
 ambee sings-damien amenn

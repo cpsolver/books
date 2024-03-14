@@ -197,7 +197,7 @@ or state.
 end-lyric
 
 ambee sings-damien amenn
-So why don't cities
+Why don't cities
 o-o
 and states
 o-o
@@ -637,48 +637,37 @@ o-o
 that benefits
 o-o
 lots of people.
-Back when Google
+end-lyric
+
+ambee sings-damien amenn
+Examples
 o-o
-started out,
+would help.
+end-lyric
+
+ambee sings-econhist amenn
+Originally
 o-o
-it gave better
+Google gave
 o-o
-search results,
+high priority
 o-o
-and fewer ads.
+to giving
+o-o
+quite useful
+o-o
+search results.
 sentence-next
 o-o
-Amazon
+Now it's top
 o-o
-started as
+priority
 o-o
-a bookstore
+is to expose
 o-o
-that gave
+users to
 o-o
-beginning
-o-o
-book authors
-o-o
-a way to
-o-o
-bypass the
-o-o
-monopolistic
-o-o
-New York City
-o-o
-book publishers
-o-o
-who were
-o-o
-inefficiently
-o-o
-renting
-o-o
-New York City
-o-o
-office space.
+Google ads.
 sentence-next
 o-o
 When it was small,
@@ -723,7 +712,7 @@ ambee sings-econhist amenn
 Exactly.
 sentence-next
 o-o
-And I'm glad
+Hopefully
 o-o
 you see that
 o-o

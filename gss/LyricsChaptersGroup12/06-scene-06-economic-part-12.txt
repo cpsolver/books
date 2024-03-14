@@ -1,5 +1,5 @@
 ambee sings-damien amenn
-So why doesn't
+Why doesn't
 o-o
 history
 o-o
@@ -53,160 +53,79 @@ o-o
 who win
 o-o
 economically.
-sentence-next
-o-o
-I'm seeing that
-o-o
-creative
-o-o
-geniuses
-o-o
-who do the
-o-o
-magic
-o-o
-frequently
-o-o
-get burned
-o-o
-when it comes to
-o-o
-the money
-o-o
-they earn.
-sentence-next
-o-o
-And overlooked
-o-o
-in non hyphen-here fiction
-o-o
-books.
 end-lyric
 
 ambee sings-econhist amenn
-That's why I said
-o-o
-the important
-o-o
-part of history
-o-o
-is understanding
-o-o
-cause and effect.
-sentence-next
-o-o
-Now do you see
-o-o
-what you should know
-o-o
-about entrepreneurs?
-end-lyric
-
-ambee sings-damien amenn
-Alongside,
-o-o
-or behind,
-o-o
-...
-end-lyric
-
-ambee sings-desha amenn
-Or underneath,
-o-o
-getting stepped on.
-end-lyric
-
-ambee sings-damien amenn
-OK,
-o-o
-underneath
-o-o
-entrepreneurs
-o-o
-are the
-o-o
-creative
-o-o
-geniuses
-o-o
-who create things
-o-o
-of value that
-o-o
-entrepreneurs
-o-o
-sell.
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-sentence-next
-o-o
-And after
+After
 o-o
 creating the
 o-o
 innovation
 o-o
-that starts the
+that starts a
 o-o
 business,
 o-o
-those creators
+a successful
 o-o
-need to
+business
+o-o
+needs to
 o-o
 create yet more
 o-o
 innovations.
 sentence-next
 o-o
+That's what
+o-o
 Walt Disney
 o-o
-is a good
+did for Disney
 o-o
-example.
+Corporation.
 sentence-next
 o-o
-He created
+And Steve Jobs
 o-o
-lots of
-o-o
-valuable
-o-o
-innovations.
+did for Apple.
 sentence-next
 o-o
-Steve Jobs
+Yet even they
 o-o
-and Apple
-o-o
-is another
-o-o
-example.
-sentence-next
-o-o
-Those kinds of
-o-o
-businesses
-o-o
-become a
-o-o
-monopoly
-o-o
-if competing
-o-o
-businesses
-o-o
-don't have
+needed other
 o-o
 creative
 o-o
 geniuses
 o-o
-working
+to create
 o-o
-for them.
+yet more
+o-o
+innovations.
+sentence-next
+o-o
+That creates
+o-o
+a virtual
+o-o
+monopoly.
+sentence-next
+o-o
+Other
+o-o
+businesses
+o-o
+that don't
+o-o
+collaborate
+o-o
+with creative
+o-o
+geniuses
+o-o
+can't compete.
 end-lyric
 
 ambee sings-damien amenn

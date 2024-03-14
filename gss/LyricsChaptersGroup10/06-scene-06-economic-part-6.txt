@@ -149,7 +149,9 @@ o-o
 knowledge.
 sentence-next
 o-o
-And technology.
+And invent new
+o-o
+technology.
 sentence-next
 o-o
 They developed
@@ -237,11 +239,22 @@ o-o
 valued.
 sentence-next
 o-o
+Plus Islam
+o-o
+has split into
+o-o
+two versions
+o-o
+that wastefully
+o-o
+fight each other.
+sentence-next
+o-o
 That's basically
 o-o
-why that empire
+why that golden
 o-o
-declined.
+age declined.
 end-lyric
 
 ambee sings-damien amenn
@@ -623,11 +636,13 @@ of corruption.
 end-lyric
 
 ambee sings-desha amenn
-In my fight
+Ah,
+o-o
+in my fight
 o-o
 against
 o-o
-corruption
+corruption,
 o-o
 I've been
 o-o
@@ -886,46 +901,91 @@ o-o
 of winning.
 end-lyric
 
-ambee sings-desha amenn
-Maybe a good
+ambee sings-damien amenn
+I'm guessing
 o-o
-slogan could be
+this relates to
 o-o
-begin-italics
-Full democracy
+Obama's
 o-o
-reduces
+slogan of
 o-o
-corruption
+begin-italics hope and change end-italics no-space .
+sentence-next
 o-o
-and increases
+That attracted
 o-o
-widespread
+lots of votes,
 o-o
-prosperity end-italics no-space ?
+right?
+end-lyric
+
+ambee sings-econhist amenn
+Yes.
+sentence-next
+o-o
+But death threats
+o-o
+to his family
+o-o
+snuffed out
+o-o
+any hope of
+o-o
+big changes.
 end-lyric
 
 ambee sings-damien amenn
-Don't most voters
+Obamacare
 o-o
-think we
-o-o
-already have
-o-o
-full democracy?
-sentence-next
-o-o
-Because
-o-o
-everyone
-o-o
-can vote?
+was big.
 end-lyric
 
 ambee sings-desha amenn
-Dang,
+Hillary
 o-o
-you're right.
+Clinton
+o-o
+had already
+o-o
+started
+o-o
+that reform.
+end-lyric
+
+ambee sings-econhist amenn
+Anyway,
+o-o
+presidents
+o-o
+and governors
+o-o
+are supposed to
+o-o
+mainly enforce
+o-o
+laws passed in
+o-o
+Congress and
+o-o
+state legislatures.
+sentence-next
+o-o
+Yet laws are what
+o-o
+need to be
+o-o
+reformed
+o-o
+the most.
+end-lyric
+
+ambee sings-desha amenn
+That's where
+o-o
+tax reforms
+o-o
+come from.
 end-lyric
 
 ambee sings-econhist amenn
@@ -983,7 +1043,7 @@ views about
 o-o
 opposing
 o-o
-slavery
+slavery,
 o-o
 and women
 o-o
@@ -1060,11 +1120,23 @@ o-o
 from high
 o-o
 windows.
+end-lyric
+
+ambee sings-damien amenn
+Thanks for
+o-o
+the warning.
 sentence-next
 o-o
-So the
+I'll stay away
 o-o
-big picture is
+from high up
+o-o
+windows.
+end-lyric
+
+ambee sings-econhist amenn
+Fortunately
 o-o
 cruelty
 o-o

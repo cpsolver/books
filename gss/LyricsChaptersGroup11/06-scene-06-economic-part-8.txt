@@ -339,79 +339,8 @@ o-o
 system.
 end-lyric
 
-ambee sings-damien amenn
-It seems like
-o-o
-this reform
-o-o
-would only
-o-o
-decrease
-o-o
-prosperity
-o-o
-for a few people
-o-o
-who earn their money
-o-o
-by owning
-o-o
-taker businesses,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Indeed.
-end-lyric
-
-ambee sings-damien amenn
-This sounds great!
-end-lyric
-
 ambee sings-desha amenn
 I'm ready for this fight!
-end-lyric
-
-ambee sings-econhist amenn
-And it will
-o-o
-motivate
-o-o
-citizens
-o-o
-in Russia,
-o-o
-China,
-o-o
-and North
-o-o
-Korea
-o-o
-to overthrow
-o-o
-their
-o-o
-corrupt
-o-o
-dictatorships.
-sentence-next
-o-o
-That's why
-o-o
-dictators
-o-o
-block news
-o-o
-that reveals
-o-o
-better
-o-o
-economic
-o-o
-prosperity
-o-o
-in democracies.
 end-lyric
 
 ambee sings-damien amenn
