@@ -510,6 +510,15 @@ end-lyric
 
 ambee sings-desha amenn
 Me too!
+sentence-next
+o-o
+And if the
+o-o
+AI
+o-o
+makes a mistake,
+o-o
+nobody dies.
 end-lyric
 
 ambee sings-econhist amenn
@@ -545,10 +554,24 @@ o-o
 system.
 end-lyric
 
+ambee sings-damien amenn
+I'd love to
+o-o
+get hired
+o-o
+to help invent
+o-o
+that machine.
+end-lyric
+
 ambee sings-econhist amenn
-Also
+Other
+o-o
+innovations
 o-o
 I've read about
+o-o
+are
 o-o
 fully
 o-o

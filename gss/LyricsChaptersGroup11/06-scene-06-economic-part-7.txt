@@ -374,11 +374,13 @@ valuable.
 end-lyric
 
 ambee sings-econhist amenn
-Tax credits
+Well hyphen-here designed
 o-o
-usually are
+tax credits
 o-o
-a percentage
+are calculated
+o-o
+as a percentage
 o-o
 of income.
 sentence-next
@@ -613,7 +615,9 @@ Admittedly
 o-o
 big corporations
 o-o
-do tend to be
+do tend to
+o-o
+become
 o-o
 greedy.
 sentence-next

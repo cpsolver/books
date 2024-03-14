@@ -265,7 +265,7 @@ got so many votes.
 end-lyric
 
 ambee sings-damien amenn
-He blames
+Yet he blames
 o-o
 immigrants
 o-o
@@ -793,25 +793,13 @@ pensions for
 o-o
 government
 o-o
-employees,
+employees
 o-o
 and social
 o-o
 security
 o-o
-benefits,
-o-o
-and the
-o-o
-interest
-o-o
-the government
-o-o
-pays for
-o-o
-borrowed
-o-o
-money.
+benefits.
 end-lyric
 
 ambee sings-damien amenn
@@ -946,18 +934,18 @@ o-o
 fruitful.
 end-lyric
 
-ambee sings-damien amenn
-Home
+ambee sings-desha amenn
+Affordable housing
 o-o
-ownership
-o-o
-is a fuzzy
-o-o
-mirage
-o-o
-to me.
+is fading fast.
 sentence-next
 o-o
+Homelessness
+o-o
+has taken over.
+end-lyric
+
+ambee sings-damien amenn
 As for food
 o-o
 and utilities,

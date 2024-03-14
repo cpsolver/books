@@ -40,6 +40,8 @@ documentaries?
 end-lyric
 
 ambee sings-desha amenn
+Disney,
+o-o
 Edison,
 o-o
 Westinghouse,

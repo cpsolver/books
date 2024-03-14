@@ -199,6 +199,8 @@ include
 o-o
 manufacturing,
 o-o
+construction,
+o-o
 engineering,
 o-o
 inventing,

@@ -462,7 +462,9 @@ concept?
 end-lyric
 
 ambee sings-desha amenn
-Shareholders
+Right now,
+o-o
+shareholders
 o-o
 are shooting
 o-o
@@ -479,11 +481,15 @@ Without
 o-o
 realizing
 o-o
+some of
+o-o
 those people
 o-o
-include
+getting hit
 o-o
-the company's
+are the
+o-o
+company's
 o-o
 customers.
 end-lyric
@@ -762,6 +768,8 @@ fence.
 sentence-next
 o-o
 And they pay
+o-o
+very slick
 o-o
 lawyers to
 o-o

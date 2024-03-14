@@ -649,6 +649,16 @@ o-o
 overlooking
 o-o
 cooperation.
+sentence-next
+o-o
+Within
+o-o
+businesses.
+sentence-next
+o-o
+And within
+o-o
+nations.
 end-lyric
 
 ambee sings-econhist amenn
@@ -705,13 +715,12 @@ and constraints
 o-o
 that cause
 o-o
-suffering.
+complaints.
 sentence-next
 o-o
-And complaints.
-sentence-next
+For some of the
 o-o
-From people
+people
 o-o
 not in power.
 sentence-next
@@ -926,7 +935,11 @@ sentence-next
 o-o
 But death threats
 o-o
-to his family
+against him,
+o-o
+and against
+o-o
+his family,
 o-o
 snuffed out
 o-o
@@ -950,7 +963,11 @@ had already
 o-o
 started
 o-o
-that reform.
+that reform
+o-o
+when her husband
+o-o
+was President.
 end-lyric
 
 ambee sings-econhist amenn
@@ -1130,9 +1147,25 @@ sentence-next
 o-o
 I'll stay away
 o-o
-from high up
+from high hyphen-here up
 o-o
 windows.
+end-lyric
+
+ambee sings-desha amenn
+Jail cells
+o-o
+and cars
+o-o
+are other
+o-o
+favorite
+o-o
+locations
+o-o
+for exterminating
+o-o
+revolutionaries.
 end-lyric
 
 ambee sings-econhist amenn

@@ -14,12 +14,6 @@ Economics history professor is male, racially mixed with Indian (from India) and
 end-comment
 ************ comenn
 
-
-begin-standard-paragraph
-begin-bold [This chapter is still being refined!] end-bold
-end-standard-paragraph
-
-
 ambee sings-desha-firstuse amenn
 Are you professor
 o-o
@@ -56,16 +50,18 @@ Sure,
 o-o
 that's better
 o-o
-than insults
+than spellcheck
 o-o
-from search query
-o-o
-results.
+insults.
 sentence-next
 o-o
 Welcome to my
 o-o
-classroom.
+modest
+o-o
+professorial
+o-o
+office.
 sentence-next
 o-o
 Would you like some
@@ -185,7 +181,7 @@ ambee sings-econhist amenn
 Sometimes yes.
 sentence-next
 o-o
-Then we use that
+Then we use our
 o-o
 success
 o-o
@@ -200,6 +196,11 @@ o-o
 such as getting
 o-o
 tenure.
+sentence-next
+o-o
+Or a better
+o-o
+office.
 sentence-next
 o-o
 Sometimes no,
@@ -223,17 +224,23 @@ sentence-next
 o-o
 Do you own
 o-o
-a cracked
-o-o
-crystal ball
-o-o
-and a home
-o-o
-with a
+a home with a
 o-o
 panoramic
 o-o
 view?
+sentence-next
+o-o
+I don't see your
+o-o
+crystal ball
+o-o
+here.
+sentence-next
+o-o
+Is is cracked
+o-o
+or clear?
 end-lyric
 
 ambee sings-damien amenn
@@ -578,17 +585,20 @@ sentence-next
 o-o
 Other politicians
 o-o
-will get re hyphen-here elected
-o-o
-because they will
-o-o
-shift their
+will shift their
 o-o
 priorities
 o-o
 to better match
 o-o
 voters.
+sentence-next
+o-o
+Some of them
+o-o
+will get
+o-o
+re hyphen-here elected.
 end-lyric
 
 ambee sings-damien amenn
@@ -732,7 +742,7 @@ that happened
 o-o
 before I
 o-o
-was around.
+was conceived.
 end-lyric
 
 ambee sings-econhist amenn
@@ -823,11 +833,17 @@ sentence-next
 o-o
 A feedback loop
 o-o
-is when a cause
+is when a
 o-o
-and effect
+sequence of
 o-o
-becomes
+causes
+o-o
+and effects
+o-o
+loop back
+o-o
+to form
 o-o
 a circle.
 end-lyric
