@@ -623,26 +623,389 @@ o-o
 honestly.
 end-lyric
 
-ambee sings-damien amenn
-I'm still following
-o-o
-things to here.
+ambee sings-desha amenn
+I'm curious.
 sentence-next
 o-o
-Too bad I can't
+What happens
 o-o
-celebrate with
+when Amazon
 o-o
-a beer.
+customers
+o-o
+realize they
+o-o
+can get extra
+o-o
+influence by
+o-o
+skipping the
+o-o
+middle ratings?
 end-lyric
 
 ambee sings-mathprof amenn
-Bravo!
+Amazon
+o-o
+stopped using
+o-o
+simple counting,
+o-o
+so it's less
+o-o
+vulnerable
+o-o
+to that
+o-o
+tactic.
+end-lyric
+
+ambee sings-damien amenn
+It figures
+o-o
+Amazon has
+o-o
+worked out
+o-o
+those details.
 sentence-next
 o-o
-You see that
+The ones
 o-o
-just collecting
+I'm just
+o-o
+learnin'.
+end-lyric
+
+ambee sings-mathprof amenn
+Before we
+o-o
+move on to
+o-o
+counting better
+o-o
+ballots,
+o-o
+here's an
+o-o
+interesting
+o-o
+simple kind of
+o-o
+improvement.
+end-lyric
+
+ambee sings-damien amenn
+I like simple.
+end-lyric
+
+ambee sings-mathprof amenn
+Consider the same
+o-o
+kind of ballot
+o-o
+we use now, the
+o-o
+single hyphen-here choice ballot.
+sentence-next
+o-o
+But change the
+o-o
+instructions.
+sentence-next
+o-o
+Allow the voter
+o-o
+to mark more than
+o-o
+just one
+o-o
+candidate.
+sentence-next
+o-o
+That's called
+o-o
+approval
+o-o
+voting.
+end-lyric
+
+ambee sings-desha amenn
+Ah, because you
+o-o
+either approve
+o-o
+each candidate or
+o-o
+leave their name
+o-o
+unmarked.
+end-lyric
+
+ambee sings-damien amenn
+This sounds like
+o-o
+Facebook.
+sentence-next
+o-o
+Where people
+o-o
+upvote
+o-o
+entertaining
+o-o
+kitten videos
+o-o
+and awesome
+o-o
+dance moves.
+sentence-next
+o-o
+And fail to
+o-o
+upvote the
+o-o
+real naked truth.
+sentence-next
+o-o
+Well,
+o-o
+the real truth.
+end-lyric
+
+ambee sings-desha amenn
+Since you
+o-o
+brought it up,
+o-o
+I'm guessing,
+o-o
+approval voting
+o-o
+might be fair?
+end-lyric
+
+ambee sings-mathprof amenn
+It's useful as
+o-o
+a simple way
+o-o
+for friends
+o-o
+to choose
+o-o
+a movie.
+sentence-next
+o-o
+And it would work
+o-o
+OK in
+o-o
+begin-italics primary end-italics
+o-o
+elections
+o-o
+because the winner
+o-o
+would always be from
+o-o
+the correct party.
+end-lyric
+
+ambee sings-desha amenn
+But in general
+o-o
+elections
+o-o
+the wrong party
+o-o
+must not win.
+sentence-next
+o-o
+So there it
+o-o
+would cause
+o-o
+trouble,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+end-lyric
+
+ambee sings-desha amenn
+And it seems
+o-o
+similar to
+o-o
+everyone
+o-o
+using the
+o-o
+clapping tactic.
+sentence-next
+o-o
+Where clapping
+o-o
+loudly is
+o-o
+approval.
+sentence-next
+o-o
+And just
+o-o
+pretending
+o-o
+to clap
+o-o
+is disapproval.
+end-lyric
+
+ambee sings-mathprof amenn
+Exactly!
+o-o
+You're understanding
+o-o
+the concepts
+o-o
+without getting
+o-o
+distracted
+o-o
+by names.
+sentence-next
+o-o
+Bravo!
+end-lyric
+
+ambee sings-damien amenn
+Wouldn't
+o-o
+just changing
+o-o
+written
+o-o
+directions
+o-o
+on the ballot
+o-o
+be an easy
+o-o
+change to make?
+end-lyric
+
+ambee sings-mathprof amenn
+I'm not
+o-o
+politically
+o-o
+savvy.
+sentence-next
+o-o
+That's outside
+o-o
+my expertise.
+sentence-next
+o-o
+I just know
+o-o
+the math behind
+o-o
+ballot counting.
+end-lyric
+
+ambee sings-desha amenn
+On Reddit
+o-o
+we can upvote
+o-o
+and downvote.
+sentence-next
+o-o
+That's more
+o-o
+info.
+sentence-next
+o-o
+Is that
+o-o
+better?
+end-lyric
+
+ambee sings-mathprof amenn
+Only if it's
+o-o
+counted as
+o-o
+three ranking
+o-o
+levels.
+end-lyric
+
+ambee sings-damien amenn
+Three?
+end-lyric
+
+ambee sings-mathprof amenn
+Remember zero.
+end-lyric
+
+ambee sings-desha amenn
+Ah, an upvote
+o-o
+is like plus one.
+sentence-next
+o-o
+And a downvote
+o-o
+is like minus one.
+sentence-next
+o-o
+And neither
+o-o
+up nor down
+o-o
+is like zero.
+end-lyric
+
+ambee sings-mathprof amenn
+If counted right
+o-o
+that could work.
+sentence-next
+o-o
+But using
+o-o
+five levels
+o-o
+collects more
+o-o
+information
+o-o
+than three.
+sentence-next
+o-o
+And when there are
+o-o
+lots and lots of candidates
+o-o
+then up to about twelve
+o-o
+levels would work.
+end-lyric
+
+ambee sings-desha amenn
+But not
+o-o
+unlucky thirteen.
+end-lyric
+
+ambee sings-mathprof amenn
+Yet just
+o-o
+collecting
 o-o
 more information
 o-o
@@ -666,6 +1029,13 @@ ambee sings-damien amenn
 So the five star
 o-o
 method won't work?
+sentence-next
+o-o
+Because of
+o-o
+the clapping
+o-o
+tactic?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -861,7 +1231,7 @@ doesn't.
 end-lyric
 
 ambee sings-desha amenn
-So what's the name
+What's the name
 o-o
 of a ballot where
 o-o

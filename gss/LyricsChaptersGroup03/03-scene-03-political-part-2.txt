@@ -443,6 +443,60 @@ distract.
 end-lyric
 
 ambee sings-politician amenn
+And remember
+o-o
+it's the biggest
+o-o
+contributors.
+sentence-next
+o-o
+Some kinds of small
+o-o
+businesses
+o-o
+get overlooked.
+sentence-next
+o-o
+Unless they join with
+o-o
+similar
+o-o
+businesses
+o-o
+and hire
+o-o
+lobbyists
+o-o
+to look out for
+o-o
+their shared
+o-o
+interests.
+end-lyric
+
+ambee sings-damien amenn
+Ah,
+o-o
+you have to
+o-o
+ignore any
+o-o
+businesses
+o-o
+that can't afford
+o-o
+lobbyists.
+end-lyric
+
+ambee sings-politician amenn
+We know we can't
+o-o
+please everyone.
+sentence-next
+o-o
+...
+sentence-next
+o-o
 Here's another
 o-o
 diversion tactic.

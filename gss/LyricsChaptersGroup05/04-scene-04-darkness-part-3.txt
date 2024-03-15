@@ -747,7 +747,11 @@ tactic.
 end-lyric
 
 ambee sings-desha amenn
-What's that?
+Is this a lame
+o-o
+football
+o-o
+metaphor?
 end-lyric
 
 ambee sings-damien amenn
@@ -771,7 +775,7 @@ Hillary Clinton
 o-o
 from 
 o-o
-reaching
+reachin'
 o-o
 the general
 o-o
@@ -799,7 +803,9 @@ sentence-next
 o-o
 Hillary
 o-o
-should have won.
+should have won
+o-o
+that election.
 end-lyric
 
 ambee sings-damien amenn
@@ -826,9 +832,9 @@ sentence-next
 o-o
 That would have
 o-o
-given us a
+given voters
 o-o
-choice between
+a choice between
 o-o
 four slogans,
 o-o
@@ -906,22 +912,34 @@ o-o
 o-o
 of elephants
 o-o
-and donkeys
+and donkeys.
+end-lyric
+
+ambee sings-desha amenn
+And stupid
 o-o
-and stupid
-o-o
-goats
-o-o
-....
+goats.
 sentence-next
 o-o
-I mean
+Well,
+o-o
+OK,
 o-o
 stupid voters.
 end-lyric
 
+ambee sings-damien amenn
+Unfortunately
+o-o
+the math is
+o-o
+blocking me.
+end-lyric
+
 ambee sings-desha amenn
-I call on the spirits
+I call on
+o-o
+the spirits
 o-o
 of the dead here
 o-o
@@ -931,75 +949,31 @@ to find a way
 o-o
 to shine a light
 o-o
-on corruption.
+that casts out
+o-o
+the darkness.
 sentence-next
 o-o
-I want a light
+So that a path
 o-o
-that's so bright
+to better times
 o-o
-that even evil
-o-o
-money huggers
-o-o
-and egotistic
-o-o
-puppets
-o-o
-cannot fight back.
+appears.
 sentence-next
 o-o
-Not with their wealth,
+We can fight
 o-o
-not with lawyers,
-o-o
-and not with
-o-o
-help from my
-o-o
-distant cousin
-o-o
-Dimley
-o-o
-who gets paid
-o-o
-to make clever
-o-o
-short videos
-o-o
-that attack
-o-o
-political
-o-o
-candidates.
+with words.
 sentence-next
 o-o
-I know that light
+We can fight
 o-o
-casts out darkness.
+with deeds.
 sentence-next
 o-o
-In that light
+Let's do
 o-o
-the path to better times
-o-o
-will appear.
-sentence-next
-o-o
-Until that happens
-o-o
-I'll keep on
-o-o
-fighting.
-sentence-next
-o-o
-Fighting with words.
-sentence-next
-o-o
-Fighting with deeds.
-sentence-next
-o-o
-Doing whatever it takes
+whatever we need
 o-o
 to bring good times
 o-o

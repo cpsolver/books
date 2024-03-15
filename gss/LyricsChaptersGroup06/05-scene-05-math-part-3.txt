@@ -1,5 +1,3 @@
-ambee put-into-phrase lyric-number 0510000 amenn
-
 ambee sings-damien amenn
 Brain freeze
 o-o
@@ -146,6 +144,8 @@ sentence-next
 o-o
 To
 o-o
+...
+o-o
 Click Here.
 end-lyric
 
@@ -200,6 +200,106 @@ o-o
 preference levels.
 sentence-next
 o-o
+And each
+o-o
+candidate
+o-o
+gets one row
+o-o
+of ovals.
+end-lyric
+
+ambee sings-damien amenn
+Columns?
+sentence-next
+o-o
+Rows?
+sentence-next
+o-o
+My brain is
+o-o
+getting dizzy.
+end-lyric
+
+ambee sings-mathprof amenn
+What we use now,
+o-o
+the single hyphen-here choice
+o-o
+ballot,
+o-o
+the paper kind,
+o-o
+has one column
+o-o
+of ovals.
+sentence-next
+o-o
+The column
+o-o
+runs up and down,
+o-o
+vertically.
+sentence-next
+o-o
+We need to add
+o-o
+more columns
+o-o
+so that each
+o-o
+candidate
+o-o
+has its own row.
+sentence-next
+o-o
+Each row
+o-o
+runs left to right,
+o-o
+horizontally,
+o-o
+like Amazon stars.
+end-lyric
+
+ambee sings-damien amenn
+Columns are
+o-o
+vertical.
+sentence-next
+o-o
+Rows are
+o-o
+horizontal.
+sentence-next
+o-o
+So that's
+o-o
+a grid
+o-o
+of ovals,
+o-o
+right?
+end-lyric
+
+ambee sings-desha amenn
+Right.
+sentence-next
+o-o
+And candidate
+o-o
+names
+o-o
+are still
+o-o
+on the left.
+end-lyric
+
+ambee sings-damien amenn
+Right.
+end-lyric
+
+ambee sings-mathprof amenn
 Let's say there's
 o-o
 seven columns.
@@ -207,7 +307,7 @@ sentence-next
 o-o
 The columns
 o-o
-would be labeled
+are labeled
 o-o
 begin-italics first choice end-italics no-space ,
 o-o
@@ -218,16 +318,9 @@ o-o
 and so on up to
 o-o
 begin-italics seventh choice end-italics no-space .
-sentence-next
-o-o
-That's called
-o-o
-a ranked choice
-o-o
-ballot.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Is this what's called
 o-o
 ranked choice voting?
@@ -282,7 +375,9 @@ end-lyric
 ambee sings-mathprof amenn
 Just count
 o-o
-the highest rank.
+the highest rank
+o-o
+in that row.
 end-lyric
 
 ambee sings-desha amenn
@@ -330,7 +425,7 @@ What happens
 o-o
 if I rank
 o-o
-two
+begin-italics two end-italics
 o-o
 candidates
 o-o
@@ -374,143 +469,130 @@ to be voting.
 end-lyric
 
 ambee sings-damien amenn
-You're sayin'
+So how should
 o-o
-some ways
+this ballot
 o-o
-of counting
-o-o
-these ballots
-o-o
-are better
-o-o
-than others?
+be counted?
 end-lyric
 
 ambee sings-mathprof amenn
-Exactly!
+Some people
+o-o
+will suggest
+o-o
+keeping the
+o-o
+counting
+o-o
+as simple
+o-o
+as possible.
 sentence-next
 o-o
-If everyone is
+But those
 o-o
-honest, then
+approaches
 o-o
-simple counting
-o-o
-works fine.
+do not work.
 end-lyric
 
 ambee sings-damien amenn
-Simple counting?
+I'm a simpleton
+o-o
+so I can't
+o-o
+imagine
+o-o
+even simple
+o-o
+counting.
 end-lyric
 
 ambee sings-mathprof amenn
-If there are
+Centuries ago
 o-o
-five choice columns,
+some people
 o-o
-a marked oval
+suggested
 o-o
-in the begin-italics first choice end-italics column
+giving
 o-o
-would be like marking
+the most points
 o-o
-five Amazon stars,
+for a mark
 o-o
-a mark in the
+in the left column,
 o-o
-begin-italics second choice end-italics column
+one point
 o-o
-would be like marking
+for a mark
 o-o
-four Amazon stars,
+in the right column,
 o-o
-and so on down to
+and in hyphen-here between
 o-o
-a mark in the
+points to marks
 o-o
-begin-italics fifth choice end-italics column
+in the in hyphen-here between
 o-o
-would be like marking
-o-o
-one Amazon star.
-end-lyric
-
-ambee sings-damien amenn
-That's simple?
+columns.
 end-lyric
 
 ambee sings-desha amenn
-A computer
+You said points
 o-o
-would take care of
-o-o
-converting
-o-o
-preference
-o-o
-levels
-o-o
-and counting
-o-o
-stars.
-sentence-next
-o-o
-You would just mark
-o-o
-the correct column
-o-o
-for each
-o-o
-candidate.
+don't work.
 end-lyric
 
 ambee sings-mathprof amenn
-Even
+That involved
 o-o
-hand counting,
+setting a limit
 o-o
-without a
+on the number
 o-o
-computer,
-o-o
-can be done.
+of marked ovals.
 sentence-next
 o-o
-Using this simple
+This kind of points
 o-o
-counting method
+is different.
+sentence-next
 o-o
-with five
+If somehow
 o-o
-candidates
+voters
 o-o
-and five
+could be forced
 o-o
-preference
+to vote honestly,
 o-o
-levels
+and also
 o-o
-would produce
+to follow rules
 o-o
-fair results
+to mark only
 o-o
-if everyone
+one oval
 o-o
-ranked or rated
+in each column,
 o-o
-just one
+and only one oval
+o-o
+in each row,
+o-o
+then the
 o-o
 candidate
 o-o
-at each level.
-sentence-next
+with the most
 o-o
-And if
+total points
 o-o
-everyone
+would deserve
 o-o
-was honest.
+to win.
 end-lyric
 
 ambee sings-desha amenn
@@ -537,134 +619,55 @@ o-o
 dating.
 end-lyric
 
+ambee sings-damien amenn
+And those strict rules?
+o-o
+That countin'
+o-o
+method's dead.
+end-lyric
+
 ambee sings-mathprof amenn
-Yes when money
+Yet it
 o-o
-is involved,
+demonstrates
 o-o
-as it is in
+that simplicity
 o-o
-politics,
+in counting
 o-o
-and perhaps dating,
+yields complexity
 o-o
-that simple way
+in marking
 o-o
-of counting
-o-o
-ratings is
-o-o
-vulnerable
-o-o
-to strategic
-o-o
-voters.
+ballots.
 sentence-next
 o-o
-They can get
+Our priority
 o-o
-extra
+must be
 o-o
-influence
+to keep voting
 o-o
-using the
-o-o
-clapping tactic.
+simple for voters.
 end-lyric
 
 ambee sings-damien amenn
-By avoiding
+So the best
 o-o
-the middle
+counting
 o-o
-preference
+methods
 o-o
-levels?
+are complex.
 sentence-next
 o-o
-And mostly
-o-o
-using the
-o-o
-highest
-o-o
-and lowest
-o-o
-levels?
-end-lyric
-
-ambee sings-mathprof amenn
-Excellent!
-end-lyric
-
-ambee sings-desha amenn
-I'm curious.
+Aiee!
 sentence-next
 o-o
-What happens
+I've just entered
 o-o
-when Amazon
-o-o
-customers
-o-o
-realize they
-o-o
-can get extra
-o-o
-influence by
-o-o
-skipping the
-o-o
-middle ratings?
-end-lyric
-
-ambee sings-mathprof amenn
-Amazon
-o-o
-stopped using
-o-o
-simple counting,
-o-o
-so it's less
-o-o
-vulnerable
-o-o
-to that
-o-o
-tactic.
-end-lyric
-
-ambee sings-damien amenn
-I'm confused.
-sentence-next
-o-o
-I understand
-o-o
-how the ballots work.
-sentence-next
-o-o
-But I can't
-o-o
-imagine a
-o-o
-way to count votes
-o-o
-that's not like
-o-o
-any of what we've
-o-o
-been discussing.
-sentence-next
-o-o
-I thought I was
-o-o
-following,
-o-o
-but now I've
-o-o
-stumbled up
-o-o
-another
+a very
 o-o
 dark alley.
 end-lyric
@@ -780,152 +783,4 @@ end-lyric
 
 ambee sings-damien amenn
 Let's keep goin'.
-end-lyric
-
-ambee sings-desha amenn
-You said the
-o-o
-five star Amazon
-o-o
-kind of ballot
-o-o
-has two names.
-sentence-next
-o-o
-Which name applies
-o-o
-to the kind of
-o-o
-simple counting
-o-o
-we've been talking
-o-o
-about?
-end-lyric
-
-ambee sings-mathprof amenn
-That kind of
-o-o
-ballot is asking
-o-o
-for a score
-o-o
-or a rating.
-sentence-next
-o-o
-It's called
-o-o
-a score ballot.
-sentence-next
-o-o
-It allows a voter
-o-o
-to indicate
-o-o
-how strongly the
-o-o
-voter feels about
-o-o
-who they like and
-o-o
-dislike.
-sentence-next
-o-o
-Like the grades
-o-o
-A through F.
-end-lyric
-
-ambee sings-desha amenn
-Most politicians
-o-o
-deserve an F.
-sentence-next
-o-o
-For
-o-o
-fails to care
-o-o
-about most
-o-o
-voters.
-end-lyric
-
-ambee sings-damien amenn
-We gotta
-o-o
-grade 'em
-o-o
-on a curve.
-end-lyric
-
-ambee sings-desha amenn
-'N that's why
-o-o
-marking just the
-o-o
-highest and
-o-o
-lowest scores,
-o-o
-is such a
-o-o
-big deal?
-end-lyric
-
-ambee sings-mathprof amenn
-Yes.
-sentence-next
-o-o
-Because some
-o-o
-voters will use
-o-o
-the clapping
-o-o
-tactic
-o-o
-and others
-o-o
-won't.
-end-lyric
-
-ambee sings-damien amenn
-So how should we
-o-o
-be countin'
-o-o
-ballots?
-sentence-next
-o-o
-For elections.
-sentence-next
-o-o
-Where voters
-o-o
-will try
-o-o
-to increase
-o-o
-their influence.
-end-lyric
-
-ambee sings-mathprof amenn
-Before we
-o-o
-move on to
-o-o
-better ways to
-o-o
-count those
-o-o
-better ballots,
-o-o
-here's an
-o-o
-interesting
-o-o
-simple kind of
-o-o
-improvement.
 end-lyric

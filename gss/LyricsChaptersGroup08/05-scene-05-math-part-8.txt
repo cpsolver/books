@@ -200,7 +200,7 @@ colored blocks
 o-o
 that represent
 o-o
-nine ballots,
+ten ballots,
 o-o
 and the colors
 o-o
@@ -208,6 +208,10 @@ represent
 o-o
 ice cream flavors.
 end-lyric
+
+begin-paragraph-centered
+<img width="200" height="196" src="ballots_four_flavors.jpg"/>
+end-paragraph-centered
 
 ambee sings-desha amenn
 Pretty colors!
@@ -263,7 +267,7 @@ end-lyric
 ambee sings-desha amenn
 What's so special
 o-o
-about these nine
+about these ten
 o-o
 stacks of
 o-o
