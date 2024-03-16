@@ -704,17 +704,16 @@ Consider the same
 o-o
 kind of ballot
 o-o
-we use now, the
-o-o
-single hyphen-here choice ballot.
+we use now.
 sentence-next
 o-o
-But change the
+We can change the
 o-o
-instructions.
-sentence-next
+instructions
 o-o
-Allow the voter
+to allow
+o-o
+the voter
 o-o
 to mark more than
 o-o

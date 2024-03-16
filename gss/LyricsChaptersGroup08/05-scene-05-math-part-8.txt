@@ -210,7 +210,7 @@ ice cream flavors.
 end-lyric
 
 begin-paragraph-centered
-<img width="200" height="196" src="ballots_four_flavors.jpg"/>
+<img width="500" height="165" src="ballots_four_flavors.jpg"/>
 end-paragraph-centered
 
 ambee sings-desha amenn
@@ -292,7 +292,7 @@ o-o
 on bottom.
 sentence-next
 o-o
-With these nine
+With these ten
 o-o
 ranked choice
 o-o

@@ -85,7 +85,7 @@ from the
 o-o
 correct party
 o-o
-would fill that
+will fill that
 o-o
 party's
 o-o
@@ -578,23 +578,17 @@ ambee sings-desha amenn
 Ah yes.
 sentence-next
 o-o
-We'd need the
+This counting rule
 o-o
-next hyphen-here to hyphen-here last
+allows us
 o-o
-choice column
+to rank
 o-o
-for marking
+everyone
 o-o
-all the
+above the
 o-o
-candidates
-o-o
-who aren't
-o-o
-as evil
-o-o
-as the
+evil
 o-o
 diabolical
 o-o
@@ -602,87 +596,120 @@ jerk.
 end-lyric
 
 ambee sings-damien amenn
-Seeing
+That avoids
+o-o
+oval hyphen-here counting
+o-o
+headaches
+o-o
+from seeing
 o-o
 as many choice
 o-o
 columns as
 o-o
-candidates
-o-o
-would give me
-o-o
-oval hyphen-here counting
-o-o
-nightmares.
+candidates.
 end-lyric
 
 ambee sings-mathprof amenn
 Great thinking!
 sentence-next
 o-o
-As few as
+This means
 o-o
 six or seven
 o-o
 choice columns
 o-o
-would work.
-sentence-next
+could even
 o-o
-Even for twenty
+handle twenty
 o-o
 candidates.
-sentence-next
-o-o
-Provided
-o-o
-the voter marks
-o-o
-at least
-o-o
-one or two
-o-o
-popular
-o-o
-candidates
-o-o
-within the
-o-o
-top four
-o-o
-choice
-o-o
-columns.
-sentence-next
-o-o
-Speaking of
+end-lyric
+
+ambee sings-damien amenn
+I'd have to do
 o-o
 lots of
 o-o
-candidates,
+head scratching
 o-o
-are you ready
+to handle
 o-o
-to learn a way
+that many.
+end-lyric
+
+ambee sings-mathprof amenn
+You can mark
 o-o
-to limit
+your very favorite
+o-o
+two candidates
+o-o
+as your first
+o-o
+and second choice.
+sentence-next
+o-o
+Then,
+o-o
+if the instructions
+o-o
+don't mention
+o-o
+the word
+o-o
+begin-italics overvote end-italics no-space ,
+o-o
+you would
+o-o
+increase
+o-o
+the number of marks
+o-o
+in each column.
+sentence-next
+o-o
+And mark your
+o-o
+most hyphen-here disliked
+o-o
+candidates
+o-o
+at the highest
+o-o
+choice count.
+end-lyric
+
+ambee sings-damien amenn
+That sounds
+o-o
+easier than
+o-o
+some staircases
+o-o
+I've built.
+end-lyric
+
+ambee sings-mathprof amenn
+To make it easier
+o-o
+we can limit the
 o-o
 the number of
 o-o
-candidates?
+candidates.
 end-lyric
 
 ambee sings-desha amenn
-If it doesn't
-o-o
-involve
+Would that involve
 o-o
 discrimination,
 o-o
 a glass ceiling,
 o-o
-or glass slippers.
+or glass slippers?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -1077,30 +1104,13 @@ and digest?
 end-lyric
 
 ambee sings-mathprof amenn
-Eliminating
-o-o
-pairwise losing
-o-o
-candidates
-o-o
-when they occur,
-o-o
-and using
-o-o
-instant runoff
-o-o
-voting
-o-o
-otherwise,
-o-o
-would work great.
-sentence-next
-o-o
-That simple
+There's a simple
 o-o
 combination
 o-o
-would pole vault us
+that would
+o-o
+pole vault us
 o-o
 almost as high
 o-o
@@ -1109,4 +1119,29 @@ o-o
 counting
 o-o
 methods.
+sentence-next
+o-o
+We can simply
+o-o
+eliminate
+o-o
+pairwise losing
+o-o
+candidates,
+o-o
+and use
+o-o
+instant runoff
+o-o
+voting when
+o-o
+a counting round
+o-o
+doesn't have a
+o-o
+pairwise
+o-o
+losing
+o-o
+candidate.
 end-lyric

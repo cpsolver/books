@@ -360,11 +360,13 @@ sentence-next
 o-o
 And it made
 o-o
-a similar mistake
+a similar
 o-o
-in one Alaska
+mistake
 o-o
-election.
+one time in
+o-o
+Alaska.
 end-lyric
 
 ambee sings-damien amenn
@@ -377,10 +379,25 @@ o-o
 in some games.
 end-lyric
 
-ambee sings-mathprof amenn
-When
+ambee sings-desha amenn
+That beats
 o-o
-eliminating
+our currently
+o-o
+ginormous
+o-o
+failure rate.
+end-lyric
+
+ambee sings-mathprof amenn
+Yet we
+o-o
+can do better.
+sentence-next
+o-o
+When we
+o-o
+eliminate
 o-o
 candidates
 o-o

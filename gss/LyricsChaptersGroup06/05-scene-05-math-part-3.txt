@@ -477,13 +477,13 @@ be counted?
 end-lyric
 
 ambee sings-mathprof amenn
-Some people
+A common
 o-o
-will suggest
+suggestion
 o-o
-keeping the
+is to keep the
 o-o
-counting
+counting method
 o-o
 as simple
 o-o
@@ -492,7 +492,9 @@ sentence-next
 o-o
 But those
 o-o
-approaches
+simplified
+o-o
+counting methods
 o-o
 do not work.
 end-lyric
@@ -548,16 +550,52 @@ end-lyric
 ambee sings-mathprof amenn
 That involved
 o-o
-setting a limit
+having a limit
 o-o
-on the number
+on the total
 o-o
-of marked ovals.
+number of
+o-o
+marked ovals
+o-o
+across all the
+o-o
+candidates.
 sentence-next
 o-o
-This kind of points
+This counting
 o-o
-is different.
+limits the
+o-o
+number of points
+o-o
+for each candidate.
+end-lyric
+
+ambee sings-damien amenn
+If I was a cat
+o-o
+I just used up
+o-o
+one ninth
+o-o
+of my quota
+o-o
+for
+o-o
+curiosity.
+end-lyric
+
+ambee sings-mathprof amenn
+Although
+o-o
+the difference
+o-o
+is subtle,
+o-o
+all you need
+o-o
+to know is this.
 sentence-next
 o-o
 If somehow
@@ -589,6 +627,8 @@ o-o
 with the most
 o-o
 total points
+o-o
+of this kind
 o-o
 would deserve
 o-o
@@ -645,9 +685,9 @@ sentence-next
 o-o
 Our priority
 o-o
-must be
+needs to be
 o-o
-to keep voting
+keeping voting
 o-o
 simple for voters.
 end-lyric
@@ -665,7 +705,9 @@ o-o
 Aiee!
 sentence-next
 o-o
-I've just entered
+I've just
+o-o
+run into
 o-o
 a very
 o-o
