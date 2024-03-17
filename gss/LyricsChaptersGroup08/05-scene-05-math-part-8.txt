@@ -1,5 +1,165 @@
 ambee put-into-phrase lyric-number 0580000 amenn
 
+ambee sings-mathprof amenn
+Yes.
+sentence-next
+o-o
+The picky
+o-o
+terminology
+o-o
+is another
+o-o
+reason we
+o-o
+don't teach
+o-o
+this stuff.
+sentence-next
+o-o
+Except to some
+o-o
+graduate
+o-o
+students.
+sentence-next
+o-o
+Mathematically
+o-o
+what makes more sense
+o-o
+is to use
+o-o
+the name
+o-o
+ranked choice
+o-o
+voting
+o-o
+to mean any
+o-o
+counting method
+o-o
+that uses
+o-o
+ranked choice
+o-o
+ballots.
+end-lyric
+
+ambee sings-desha amenn
+Is that other
+o-o
+name important?
+sentence-next
+o-o
+Transfer
+o-o
+something.
+end-lyric
+
+ambee sings-mathprof amenn
+You've already
+o-o
+learned the
+o-o
+basic concept.
+sentence-next
+o-o
+It uses
+o-o
+ranked
+o-o
+choice ballots
+o-o
+to elect
+o-o
+two or more
+o-o
+winners
+o-o
+from the same
+o-o
+bigger district.
+end-lyric
+
+ambee sings-desha amenn
+That's the
+o-o
+proportional
+o-o
+representation
+o-o
+part,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Basically,
+o-o
+yes.
+end-lyric
+
+ambee sings-damien amenn
+Isn't pairwise
+o-o
+vote counting
+o-o
+too mind hyphen-here bending
+o-o
+for math hyphen-here phobic
+o-o
+voters
+o-o
+to swallow
+o-o
+and digest?
+end-lyric
+
+ambee sings-mathprof amenn
+There's a simple
+o-o
+combination
+o-o
+that would
+o-o
+pole vault us
+o-o
+almost as high
+o-o
+as the best
+o-o
+counting
+o-o
+methods.
+sentence-next
+o-o
+We can simply
+o-o
+eliminate
+o-o
+pairwise losing
+o-o
+candidates,
+o-o
+and use
+o-o
+instant runoff
+o-o
+voting when
+o-o
+a counting round
+o-o
+doesn't have a
+o-o
+pairwise
+o-o
+losing
+o-o
+candidate.
+end-lyric
+
 ambee sings-damien amenn
 How hard's it
 o-o
@@ -117,13 +277,134 @@ o-o
 the bleach scent
 o-o
 isn't evident.
+end-lyric
+
+ambee sings-mathprof amenn
+Another
+o-o
+barrier
+o-o
+is that some
+o-o
+math experts claim
+o-o
+score ballots
+o-o
+are better than
+o-o
+ranked choice
+o-o
+ballots.
 sentence-next
 o-o
-Now I wonder
+Those ballots
 o-o
-why
+ask for ratings
 o-o
-the awareness
+instead of
+o-o
+rankings.
+sentence-next
+o-o
+The grades
+o-o
+A through F
+o-o
+are ratings,
+o-o
+not rankings.
+end-lyric
+
+ambee sings-damien amenn
+Are score ballots
+o-o
+better?
+end-lyric
+
+ambee sings-mathprof amenn
+They collect
+o-o
+more information.
+sentence-next
+o-o
+However
+o-o
+they are
+o-o
+vulnerable
+o-o
+to tactical
+o-o
+voting.
+sentence-next
+o-o
+That's because
+o-o
+the voter
+o-o
+indicates
+o-o
+the strength
+o-o
+of their
+o-o
+preferences.
+sentence-next
+o-o
+Eventually
+o-o
+in the distant
+o-o
+future there
+o-o
+might be ways
+o-o
+to use those
+o-o
+ballots for
+o-o
+elections
+o-o
+that involve
+o-o
+multiple
+o-o
+winners.
+sentence-next
+o-o
+But they
+o-o
+aren't fair
+o-o
+when electing
+o-o
+one winner
+o-o
+in a general
+o-o
+election.
+end-lyric
+
+ambee sings-desha amenn
+name-damien no-space ,
+o-o
+that means
+o-o
+that different
+o-o
+kind of ballot
+o-o
+isn't what
+o-o
+we need.
+end-lyric
+
+ambee sings-damien amenn
+Now I'm
+o-o
+wonderin' why
+o-o
+awareness
 o-o
 of greater
 o-o
@@ -678,11 +959,6 @@ vote on bills.
 end-lyric
 
 ambee sings-damien amenn
-My brain
-o-o
-has faded.
-sentence-next
-o-o
 I got lost at
 o-o
 the beginning
@@ -708,394 +984,4 @@ end-lyric
 
 ambee sings-damien amenn
 Now are we done?
-end-lyric
-
-ambee sings-desha amenn
-Wait a minute.
-sentence-next
-o-o
-You haven't
-o-o
-told us how
-o-o
-to solve the
-o-o
-gerrymander
-o-o
-problem.
-sentence-next
-o-o
-How do we avoid
-o-o
-a district shape
-o-o
-that looks like a
-o-o
-balloon animal
-o-o
-contorted by a
-o-o
-drunk lawyer?
-end-lyric
-
-ambee sings-mathprof amenn
-The statewide seats
-o-o
-take care of that.
-sentence-next
-o-o
-If any
-o-o
-single party
-o-o
-wins more
-o-o
-than their share
-o-o
-of districts,
-o-o
-the other
-o-o
-parties
-o-o
-win all the
-o-o
-statewide
-o-o
-seats.
-end-lyric
-
-ambee sings-damien amenn
-That's a slick
-o-o
-trick!
-end-lyric
-
-ambee sings-mathprof amenn
-It's not a trick.
-sentence-next
-o-o
-It's math,
-o-o
-which can seem
-o-o
-magical
-o-o
-to those who
-o-o
-don't bother
-o-o
-to learn it.
-end-lyric
-
-ambee sings-damien amenn
-Wow!
-sentence-next
-o-o
-So now,
-o-o
-let's suppose
-o-o
-that elections
-o-o
-become fair.
-sentence-next
-o-o
-What will change,
-o-o
-politically?
-end-lyric
-
-ambee sings-desha amenn
-Yeah,
-o-o
-especially
-o-o
-for the
-o-o
-unfortunate
-o-o
-poor.
-sentence-next
-o-o
-And us college
-o-o
-grads who failed
-o-o
-to get to
-o-o
-the middle
-o-o
-class.
-end-lyric
-
-ambee sings-mathprof amenn
-The answer to that
-o-o
-I don't know.
-sentence-next
-o-o
-For that you need
-o-o
-to ask someone
-o-o
-who understands both
-o-o
-economics and
-o-o
-game theory.
-end-lyric
-
-ambee sings-damien amenn
-Video game
-o-o
-strategy?
-end-lyric
-
-ambee sings-mathprof amenn
-Game theory
-o-o
-is an
-o-o
-academic
-o-o
-field that
-o-o
-studies,
-o-o
-well,
-o-o
-it's difficult to
-o-o
-describe.
-sentence-next
-o-o
-But it includes
-o-o
-vote counting.
-sentence-next
-o-o
-I do know someone
-o-o
-with those credentials.
-sentence-next
-o-o
-But he's at a
-o-o
-university
-o-o
-that's a three hyphen-here hour
-o-o
-drive away.
-end-lyric
-
-ambee sings-damien amenn
-Do you think he'd
-o-o
-give us a peek
-o-o
-into that
-o-o
-future?
-end-lyric
-
-ambee sings-mathprof amenn
-I can ask him
-o-o
-by email.
-end-lyric
-
-ambee sings-damien amenn
-That'd be super!
-end-lyric
-
-ambee sings-mathprof amenn
-He studies,
-o-o
-and teaches about,
-o-o
-economic history.
-end-lyric
-
-ambee sings-desha amenn
-The history
-o-o
-of economics?
-sentence-next
-o-o
-That sounds like
-o-o
-a snooze fest.
-end-lyric
-
-ambee sings-mathprof amenn
-The history
-o-o
-of economics
-o-o
-is indeed boring.
-sentence-next
-o-o
-For everyone.
-sentence-next
-o-o
-Even econ
-o-o
-majors.
-sentence-next
-o-o
-But that's
-o-o
-different from 
-o-o
-economic
-o-o
-history,
-o-o
-which is what
-o-o
-he teaches.
-sentence-next
-o-o
-That's the study
-o-o
-of economies
-o-o
-during earlier
-o-o
-times.
-end-lyric
-
-ambee sings-damien amenn
-I hate
-o-o
-history.
-sentence-next
-o-o
-As much as
-o-o
-I did
-o-o
-mathematics.
-end-lyric
-
-ambee sings-mathprof amenn
-This professor
-o-o
-can make
-o-o
-history fun.
-end-lyric
-
-ambee sings-damien amenn
-I'm done
-o-o
-with the past.
-sentence-next
-o-o
-It's gone.
-sentence-next
-o-o
-Why do people
-o-o
-dwell on that
-o-o
-old stuffy
-o-o
-stuff?
-sentence-next
-o-o
-'N economics,
-o-o
-that's more math.
-end-lyric
-
-ambee sings-mathprof amenn
-You seemed to
-o-o
-understand
-o-o
-a bit of
-o-o
-history
-o-o
-about
-o-o
-mathematics.
-sentence-next
-o-o
-As for math in
-o-o
-economics,
-o-o
-it's just different
-o-o
-names for money
-o-o
-categories.
-sentence-next
-o-o
-Like tax, debt,
-o-o
-interest,
-o-o
-subsidies,
-o-o
-and tariffs.
-end-lyric
-
-ambee sings-desha amenn
-Don't forget
-o-o
-bribes,
-o-o
-kickbacks,
-o-o
-and
-o-o
-campaign
-o-o
-contributions.
-end-lyric
-
-ambee sings-mathprof amenn
-And you're likely
-o-o
-to hear about
-o-o
-percentages.
-sentence-next
-o-o
-That just means
-o-o
-moving the
-o-o
-decimal point
-o-o
-right by
-o-o
-two places.
-sentence-next
-o-o
-That slick trick
-o-o
-avoids decimal
-o-o
-numbers between
-o-o
-one and zero.
-end-lyric
-
-ambee sings-desha amenn
-You can
-o-o
-handle it.
-end-lyric
-
-ambee sings-damien amenn
-I'm a dummy
-o-o
-but I'll
-o-o
-try.
 end-lyric

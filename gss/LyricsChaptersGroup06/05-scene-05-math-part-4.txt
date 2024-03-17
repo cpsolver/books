@@ -1,4 +1,117 @@
 ambee sings-mathprof amenn
+Take a deep breath!
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Takes deep breath. end-explain
+end-lyric
+
+ambee sings-mathprof amenn
+Or two.
+end-lyric
+
+ambee sings-damien amenn
+begin-explain Takes deep breath. end-explain
+end-lyric
+
+ambee sings-mathprof amenn
+And give yourself
+o-o
+an A plus!
+sentence-next
+o-o
+You two are
+o-o
+learning more
+o-o
+and faster
+o-o
+than anyone else
+o-o
+I've tried to
+o-o
+explain this to.
+end-lyric
+
+ambee sings-damien amenn
+Really?
+sentence-next
+o-o
+Or are you just
+o-o
+tryin' to, well,
+o-o
+I dunno.
+sentence-next
+o-o
+This is so
+o-o
+different from
+o-o
+that teacher
+o-o
+who bonked my head
+o-o
+with a book
+o-o
+every time
+o-o
+I made a
+o-o
+mistake.
+end-lyric
+
+ambee sings-desha amenn
+Tell me who did that
+o-o
+and I'll bonk him
+o-o
+in the balls.
+end-lyric
+
+ambee sings-mathprof amenn
+This is different
+o-o
+because you
+o-o
+really care about
+o-o
+this topic.
+sentence-next
+o-o
+That's really what
+o-o
+makes the difference
+o-o
+between good and
+o-o
+bad grades.
+end-lyric
+
+ambee sings-damien amenn
+My world is
+o-o
+upside down.
+sentence-next
+o-o
+'N money's
+o-o
+on the line.
+end-lyric
+
+ambee sings-desha amenn
+And Congress
+o-o
+is filled with
+o-o
+swine.
+end-lyric
+
+ambee sings-damien amenn
+Let's keep goin'.
+end-lyric
+
+ambee sings-mathprof amenn
 Would you like
 o-o
 to take a guess
@@ -382,17 +495,17 @@ end-lyric
 ambee sings-desha amenn
 That beats
 o-o
-our currently
+the ginormous
 o-o
-ginormous
+failure rate
 o-o
-failure rate.
+of current
+o-o
+elections.
 end-lyric
 
 ambee sings-mathprof amenn
-Yet we
-o-o
-can do better.
+We can do better.
 sentence-next
 o-o
 When we

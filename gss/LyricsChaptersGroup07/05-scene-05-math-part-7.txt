@@ -593,35 +593,32 @@ o-o
 diabolical
 o-o
 jerk.
-end-lyric
-
-ambee sings-damien amenn
-That avoids
+sentence-next
 o-o
-oval hyphen-here counting
+Without
 o-o
-headaches
+needing
 o-o
-from seeing
+as many
 o-o
-as many choice
+columns
 o-o
-columns as
-o-o
-candidates.
+as candidates.
 end-lyric
 
 ambee sings-mathprof amenn
 Great thinking!
 sentence-next
 o-o
-This means
+Yes,
 o-o
-six or seven
+that way,
+o-o
+seven
 o-o
 choice columns
 o-o
-could even
+could
 o-o
 handle twenty
 o-o
@@ -631,17 +628,19 @@ end-lyric
 ambee sings-damien amenn
 I'd have to do
 o-o
-lots of
+some
 o-o
 head scratching
 o-o
-to handle
+to figure out
 o-o
-that many.
+how to mark them.
 end-lyric
 
 ambee sings-mathprof amenn
-You can mark
+Typically
+o-o
+you would mark
 o-o
 your very favorite
 o-o
@@ -654,13 +653,13 @@ sentence-next
 o-o
 Then,
 o-o
-if the instructions
+if the
 o-o
-don't mention
+instructions
 o-o
-the word
+don't tell you
 o-o
-begin-italics overvote end-italics no-space ,
+not to,
 o-o
 you would
 o-o
@@ -668,18 +667,35 @@ increase
 o-o
 the number of marks
 o-o
-in each column.
+in each column
+o-o
+as you reach
+o-o
+the fifth
+o-o
+and sixth
+o-o
+choice columns.
 sentence-next
 o-o
-And mark your
+Finally
+o-o
+you'd mark your
 o-o
 most hyphen-here disliked
 o-o
 candidates
 o-o
-at the highest
+in the seventh
 o-o
 choice count.
+sentence-next
+o-o
+Or leave those
+o-o
+candidates
+o-o
+unmarked.
 end-lyric
 
 ambee sings-damien amenn
@@ -693,7 +709,9 @@ I've built.
 end-lyric
 
 ambee sings-mathprof amenn
-To make it easier
+To make it
+o-o
+yet easier,
 o-o
 we can limit the
 o-o
@@ -721,7 +739,9 @@ ballot question
 o-o
 for ranking
 o-o
-political parties.
+political
+o-o
+parties.
 sentence-next
 o-o
 That would allow
@@ -984,164 +1004,4 @@ o-o
 overwhelmingly
 o-o
 confusing.
-end-lyric
-
-ambee sings-mathprof amenn
-Yes.
-sentence-next
-o-o
-The picky
-o-o
-terminology
-o-o
-is another
-o-o
-reason we
-o-o
-don't teach
-o-o
-this stuff.
-sentence-next
-o-o
-Except to some
-o-o
-graduate
-o-o
-students.
-sentence-next
-o-o
-Mathematically
-o-o
-what makes more sense
-o-o
-is to use
-o-o
-the name
-o-o
-ranked choice
-o-o
-voting
-o-o
-to mean any
-o-o
-counting method
-o-o
-that uses
-o-o
-ranked choice
-o-o
-ballots.
-end-lyric
-
-ambee sings-desha amenn
-Is that other
-o-o
-name important?
-sentence-next
-o-o
-Transfer
-o-o
-something.
-end-lyric
-
-ambee sings-mathprof amenn
-You've already
-o-o
-learned the
-o-o
-basic concept.
-sentence-next
-o-o
-It uses
-o-o
-ranked
-o-o
-choice ballots
-o-o
-to elect
-o-o
-two or more
-o-o
-winners
-o-o
-from the same
-o-o
-bigger district.
-end-lyric
-
-ambee sings-desha amenn
-That's the
-o-o
-proportional
-o-o
-representation
-o-o
-part,
-o-o
-right?
-end-lyric
-
-ambee sings-mathprof amenn
-Basically,
-o-o
-yes.
-end-lyric
-
-ambee sings-damien amenn
-Isn't pairwise
-o-o
-vote counting
-o-o
-too mind hyphen-here bending
-o-o
-for math hyphen-here phobic
-o-o
-voters
-o-o
-to swallow
-o-o
-and digest?
-end-lyric
-
-ambee sings-mathprof amenn
-There's a simple
-o-o
-combination
-o-o
-that would
-o-o
-pole vault us
-o-o
-almost as high
-o-o
-as the best
-o-o
-counting
-o-o
-methods.
-sentence-next
-o-o
-We can simply
-o-o
-eliminate
-o-o
-pairwise losing
-o-o
-candidates,
-o-o
-and use
-o-o
-instant runoff
-o-o
-voting when
-o-o
-a counting round
-o-o
-doesn't have a
-o-o
-pairwise
-o-o
-losing
-o-o
-candidate.
 end-lyric

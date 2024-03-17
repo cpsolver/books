@@ -605,7 +605,7 @@ ambee sings-damien amenn
 Makes sense.
 sentence-next
 o-o
-Currently
+Although now
 o-o
 they're
 o-o
@@ -617,10 +617,9 @@ biggest
 o-o
 campaign
 o-o
-contributors.
-sentence-next
+contributors,
 o-o
-The shift will
+the shift will
 o-o
 set them free
 o-o
@@ -628,7 +627,9 @@ to do what we,
 o-o
 the majority
 o-o
-of voters want.
+of voters,
+o-o
+want.
 end-lyric
 
 ambee sings-desha amenn
@@ -702,9 +703,9 @@ end-lyric
 ambee sings-desha amenn
 When I took
 o-o
-economics
+basic
 o-o
-one oh one,
+economics
 o-o
 it wasn't
 o-o

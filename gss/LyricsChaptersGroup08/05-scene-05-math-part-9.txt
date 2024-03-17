@@ -1,3 +1,393 @@
+ambee sings-desha amenn
+Wait a minute.
+sentence-next
+o-o
+You haven't
+o-o
+told us how
+o-o
+to solve the
+o-o
+gerrymander
+o-o
+problem.
+sentence-next
+o-o
+How do we avoid
+o-o
+a district shape
+o-o
+that looks like a
+o-o
+balloon animal
+o-o
+contorted by a
+o-o
+drunk lawyer?
+end-lyric
+
+ambee sings-mathprof amenn
+The statewide seats
+o-o
+take care of that.
+sentence-next
+o-o
+If any
+o-o
+single party
+o-o
+wins more
+o-o
+than their share
+o-o
+of districts,
+o-o
+the other
+o-o
+parties
+o-o
+win all the
+o-o
+statewide
+o-o
+seats.
+end-lyric
+
+ambee sings-damien amenn
+That's a slick
+o-o
+trick!
+end-lyric
+
+ambee sings-mathprof amenn
+It's not a trick.
+sentence-next
+o-o
+It's math,
+o-o
+which can seem
+o-o
+magical
+o-o
+to those who
+o-o
+don't bother
+o-o
+to learn it.
+end-lyric
+
+ambee sings-damien amenn
+Wow!
+sentence-next
+o-o
+So now,
+o-o
+let's suppose
+o-o
+that elections
+o-o
+become fair.
+sentence-next
+o-o
+What will change,
+o-o
+politically?
+end-lyric
+
+ambee sings-desha amenn
+Yeah,
+o-o
+especially
+o-o
+for the
+o-o
+unfortunate
+o-o
+poor.
+sentence-next
+o-o
+And us college
+o-o
+grads who failed
+o-o
+to get to
+o-o
+the middle
+o-o
+class.
+end-lyric
+
+ambee sings-mathprof amenn
+The answer to that
+o-o
+I don't know.
+sentence-next
+o-o
+For that you need
+o-o
+to ask someone
+o-o
+who understands both
+o-o
+economics and
+o-o
+game theory.
+end-lyric
+
+ambee sings-damien amenn
+Video game
+o-o
+strategy?
+end-lyric
+
+ambee sings-mathprof amenn
+Game theory
+o-o
+is an
+o-o
+academic
+o-o
+field that
+o-o
+studies,
+o-o
+well,
+o-o
+it's difficult to
+o-o
+describe.
+sentence-next
+o-o
+But it includes
+o-o
+vote counting.
+sentence-next
+o-o
+I do know someone
+o-o
+with those credentials.
+sentence-next
+o-o
+But he's at a
+o-o
+university
+o-o
+that's a three hyphen-here hour
+o-o
+drive away.
+end-lyric
+
+ambee sings-damien amenn
+Do you think he'd
+o-o
+give us a peek
+o-o
+into that
+o-o
+future?
+end-lyric
+
+ambee sings-mathprof amenn
+I can ask him
+o-o
+by email.
+end-lyric
+
+ambee sings-damien amenn
+That'd be super!
+end-lyric
+
+ambee sings-mathprof amenn
+He studies,
+o-o
+and teaches about,
+o-o
+economic history.
+end-lyric
+
+ambee sings-desha amenn
+The history
+o-o
+of economics?
+sentence-next
+o-o
+That sounds like
+o-o
+a snooze fest.
+end-lyric
+
+ambee sings-mathprof amenn
+The history
+o-o
+of economics
+o-o
+is indeed boring.
+sentence-next
+o-o
+For everyone.
+sentence-next
+o-o
+Even econ
+o-o
+majors.
+sentence-next
+o-o
+But that's
+o-o
+different from 
+o-o
+economic
+o-o
+history,
+o-o
+which is what
+o-o
+he teaches.
+sentence-next
+o-o
+That's the study
+o-o
+of economies
+o-o
+during earlier
+o-o
+times.
+end-lyric
+
+ambee sings-damien amenn
+I hate
+o-o
+history.
+sentence-next
+o-o
+As much as
+o-o
+I did
+o-o
+mathematics.
+end-lyric
+
+ambee sings-mathprof amenn
+This professor
+o-o
+can make
+o-o
+history fun.
+end-lyric
+
+ambee sings-damien amenn
+I'm done
+o-o
+with the past.
+sentence-next
+o-o
+It's gone.
+sentence-next
+o-o
+Why do people
+o-o
+dwell on that
+o-o
+old stuffy
+o-o
+stuff?
+sentence-next
+o-o
+'N economics,
+o-o
+that's more math.
+end-lyric
+
+ambee sings-mathprof amenn
+You seemed to
+o-o
+understand
+o-o
+a bit of
+o-o
+history
+o-o
+about
+o-o
+mathematics.
+sentence-next
+o-o
+As for math in
+o-o
+economics,
+o-o
+it's just different
+o-o
+names for money
+o-o
+categories.
+sentence-next
+o-o
+Like tax, debt,
+o-o
+interest,
+o-o
+subsidies,
+o-o
+and tariffs.
+end-lyric
+
+ambee sings-desha amenn
+Don't forget
+o-o
+bribes,
+o-o
+kickbacks,
+o-o
+and
+o-o
+campaign
+o-o
+contributions.
+end-lyric
+
+ambee sings-mathprof amenn
+And you're likely
+o-o
+to hear about
+o-o
+percentages.
+sentence-next
+o-o
+That just means
+o-o
+moving the
+o-o
+decimal point
+o-o
+right by
+o-o
+two places.
+sentence-next
+o-o
+That slick trick
+o-o
+avoids decimal
+o-o
+numbers between
+o-o
+one and zero.
+end-lyric
+
+ambee sings-desha amenn
+You can
+o-o
+handle it.
+end-lyric
+
+ambee sings-damien amenn
+I'm a dummy
+o-o
+but I'll
+o-o
+try.
+end-lyric
+
 ambee sings-mathprof amenn
 One more tip.
 sentence-next
@@ -615,207 +1005,4 @@ o-o
 to get stuck
 o-o
 with?
-end-lyric
-
-ambee sings-mathprof amenn
-There is no
-o-o
-easy way
-o-o
-to say
-o-o
-what it's
-o-o
-asking.
-sentence-next
-o-o
-And there's no way
-o-o
-to mark a
-o-o
-single hyphen-here choice
-o-o
-ballot to say
-o-o
-begin-italics none of the above end-italics no-space .
-sentence-next
-o-o
-And choosing
-o-o
-not to vote
-o-o
-does not express
-o-o
-begin-italics none of the above end-italics no-space .
-sentence-next
-o-o
-Instead a
-o-o
-single hyphen-here choice
-o-o
-ballot invites
-o-o
-tactical
-o-o
-voting.
-sentence-next
-o-o
-As if the voter
-o-o
-is choosing
-o-o
-which army
-o-o
-to join,
-o-o
-and fight with.
-end-lyric
-
-ambee sings-damien amenn
-Ah,
-o-o
-voting for a
-o-o
-candidate
-o-o
-who can't win
-o-o
-is like
-o-o
-choosing to join
-o-o
-a small army
-o-o
-that watches while
-o-o
-two big armies
-o-o
-clash
-o-o
-without you.
-end-lyric
-
-ambee sings-desha amenn
-But that means
-o-o
-never voting
-o-o
-for a
-o-o
-third hyphen-here party
-o-o
-candidate,
-o-o
-right?
-end-lyric
-
-ambee sings-mathprof amenn
-No.
-sentence-next
-o-o
-If the big army
-o-o
-you like better
-o-o
-will lose,
-o-o
-even begin-italics with end-italics your
-o-o
-bayonet,
-o-o
-you can mark
-o-o
-a third hyphen-here party
-o-o
-candidate
-o-o
-without regret.
-end-lyric
-
-ambee sings-damien amenn
-So in the next
-o-o
-presidential
-o-o
-election,
-o-o
-if one of the two
-o-o
-will easily
-o-o
-get elected,
-o-o
-I can vote
-o-o
-for a third hyphen-here party
-o-o
-candidate,
-o-o
-right?
-end-lyric
-
-ambee sings-mathprof amenn
-Not there.
-sentence-next
-o-o
-Presidential
-o-o
-elections
-o-o
-involve
-o-o
-exceptional
-o-o
-complications.
-sentence-next
-o-o
-Electoral
-o-o
-votes
-o-o
-matter too.
-sentence-next
-o-o
-And the
-o-o
-number gap
-o-o
-between the
-o-o
-Republican
-o-o
-and Democrat
-o-o
-is put under
-o-o
-a microscope.
-sentence-next
-o-o
-Plus there's a
-o-o
-hidden provision.
-sentence-next
-o-o
-If none of the
-o-o
-candidates
-o-o
-gets half the
-o-o
-electoral votes,
-o-o
-the House of
-o-o
-Representatives
-o-o
-gets to pick
-o-o
-the winner.
-sentence-next
-o-o
-And in that case
-o-o
-each state
-o-o
-gets just one vote.
 end-lyric

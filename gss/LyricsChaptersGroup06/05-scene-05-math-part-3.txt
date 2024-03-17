@@ -1,3 +1,259 @@
+ambee sings-mathprof amenn
+Yet just
+o-o
+collecting
+o-o
+more information
+o-o
+isn't enough.
+sentence-next
+o-o
+How the information
+o-o
+is counted to
+o-o
+identify a
+o-o
+winner is so
+o-o
+important to
+o-o
+get right.
+end-lyric
+
+ambee sings-damien amenn
+So the five star
+o-o
+method won't work?
+sentence-next
+o-o
+Because of
+o-o
+the clapping
+o-o
+tactic?
+end-lyric
+
+ambee sings-mathprof amenn
+I should
+o-o
+clarify.
+sentence-next
+o-o
+There are
+o-o
+two parts
+o-o
+to any
+o-o
+voting method.
+sentence-next
+o-o
+There's the ballot.
+sentence-next
+o-o
+And there's the
+o-o
+counting of those
+o-o
+ballots.
+end-lyric
+
+ambee sings-damien amenn
+What kind'a ballot
+o-o
+do we use
+o-o
+now?
+end-lyric
+
+ambee sings-mathprof amenn
+Most simple
+o-o
+elections
+o-o
+in most nations
+o-o
+use what's
+o-o
+increasingly
+o-o
+called the
+o-o
+single hyphen-here choice
+o-o
+ballot.
+end-lyric
+
+ambee sings-desha amenn
+'Cause we can
+o-o
+only mark a
+o-o
+single choice?
+end-lyric
+
+ambee sings-mathprof amenn
+Right.
+sentence-next
+o-o
+And in a
+o-o
+simple election
+o-o
+there's just
+o-o
+one way
+o-o
+to count
+o-o
+that kind
+o-o
+of ballot.
+sentence-next
+o-o
+Which is why
+o-o
+until recently
+o-o
+that ballot didn't
+o-o
+have a name.
+sentence-next
+o-o
+The counting method
+o-o
+has different names.
+sentence-next
+o-o
+It's the enemy
+o-o
+of fair voting
+o-o
+so it's worth
+o-o
+learning its names.
+sentence-next
+o-o
+In the academic
+o-o
+world it's called
+o-o
+begin-italics plurality voting end-italics no-space .
+sentence-next
+o-o
+In Canada
+o-o
+and other
+o-o
+British places
+o-o
+it's called
+o-o
+begin-italics first past the post end-italics no-space .
+end-lyric
+
+ambee sings-damien amenn
+What's it called
+o-o
+here in the states?
+end-lyric
+
+ambee sings-mathprof amenn
+It's just called
+o-o
+voting.
+end-lyric
+
+ambee sings-desha amenn
+Ah!
+sentence-next
+o-o
+With no name
+o-o
+it becomes harder
+o-o
+to fight against!
+end-lyric
+
+ambee sings-damien amenn
+So that's the
+o-o
+enemy?
+sentence-next
+o-o
+Plurality?
+sentence-next
+o-o
+And it uses
+o-o
+the
+o-o
+single hyphen-here choice
+o-o
+ballot?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+sentence-next
+o-o
+Using those for
+o-o
+democracy
+o-o
+is like
+o-o
+using a stick
+o-o
+attached to
+o-o
+a round piece of
+o-o
+cardboard
+o-o
+as an
+o-o
+umbrella.
+sentence-next
+o-o
+It works
+o-o
+for a bit,
+o-o
+until it
+o-o
+doesn't.
+end-lyric
+
+ambee sings-desha amenn
+What's the name
+o-o
+of a ballot where
+o-o
+each candidate
+o-o
+can be ranked at
+o-o
+a different level,
+o-o
+like on Amazon?
+end-lyric
+
+ambee sings-mathprof amenn
+Academically
+o-o
+that's called a
+o-o
+ranked choice ballot,
+o-o
+or a score ballot,
+o-o
+depending on
+o-o
+how it's counted.
+end-lyric
+
 ambee sings-damien amenn
 Brain freeze
 o-o
@@ -197,7 +453,7 @@ columns of ovals
 o-o
 are needed for the
 o-o
-preference levels.
+choice levels.
 sentence-next
 o-o
 And each
@@ -500,45 +756,58 @@ do not work.
 end-lyric
 
 ambee sings-damien amenn
-I'm a simpleton
-o-o
-so I can't
+I can't
 o-o
 imagine
 o-o
 even simple
 o-o
 counting.
+sentence-next
+o-o
+How does that work?
 end-lyric
 
 ambee sings-mathprof amenn
-Centuries ago
+Many
 o-o
-some people
+people
 o-o
-suggested
+suggest
 o-o
-giving
+the idea of
 o-o
-the most points
+labeling
 o-o
-for a mark
+the columns
 o-o
-in the left column,
+with numbers.
+sentence-next
 o-o
-one point
+And giving
 o-o
-for a mark
+each candidate
 o-o
-in the right column,
+the points
 o-o
-and in hyphen-here between
+specified
 o-o
-points to marks
+by the oval
 o-o
-in the in hyphen-here between
+that's marked.
+sentence-next
 o-o
-columns.
+The candidate
+o-o
+who gets the
+o-o
+highest number
+o-o
+of total points
+o-o
+is declared
+o-o
+the winner.
 end-lyric
 
 ambee sings-desha amenn
@@ -587,15 +856,11 @@ curiosity.
 end-lyric
 
 ambee sings-mathprof amenn
-Although
+All you need
 o-o
-the difference
+to know
 o-o
-is subtle,
-o-o
-all you need
-o-o
-to know is this.
+is this.
 sentence-next
 o-o
 If somehow
@@ -608,15 +873,15 @@ to vote honestly,
 o-o
 and also
 o-o
-to follow rules
-o-o
 to mark only
 o-o
 one oval
 o-o
 in each column,
 o-o
-and only one oval
+and mark only
+o-o
+one oval
 o-o
 in each row,
 o-o
@@ -630,7 +895,7 @@ total points
 o-o
 of this kind
 o-o
-would deserve
+deserves
 o-o
 to win.
 end-lyric
@@ -660,9 +925,9 @@ dating.
 end-lyric
 
 ambee sings-damien amenn
-And those strict rules?
+With those strict rules,
 o-o
-That countin'
+this countin'
 o-o
 method's dead.
 end-lyric
@@ -712,117 +977,4 @@ o-o
 a very
 o-o
 dark alley.
-end-lyric
-
-ambee sings-mathprof amenn
-Take a deep breath!
-end-lyric
-
-ambee sings-damien amenn
-begin-explain Takes deep breath. end-explain
-end-lyric
-
-ambee sings-mathprof amenn
-Or two.
-end-lyric
-
-ambee sings-damien amenn
-begin-explain Takes deep breath. end-explain
-end-lyric
-
-ambee sings-mathprof amenn
-And give yourself
-o-o
-an A plus!
-sentence-next
-o-o
-You two are
-o-o
-learning more
-o-o
-and faster
-o-o
-than anyone else
-o-o
-I've tried to
-o-o
-explain this to.
-end-lyric
-
-ambee sings-damien amenn
-Really?
-sentence-next
-o-o
-Or are you just
-o-o
-tryin' to, well,
-o-o
-I dunno.
-sentence-next
-o-o
-This is so
-o-o
-different from
-o-o
-that teacher
-o-o
-who bonked my head
-o-o
-with a book
-o-o
-every time
-o-o
-I made a
-o-o
-mistake.
-end-lyric
-
-ambee sings-desha amenn
-Tell me who did that
-o-o
-and I'll bonk him
-o-o
-in the balls.
-end-lyric
-
-ambee sings-mathprof amenn
-This is different
-o-o
-because you
-o-o
-really care about
-o-o
-this topic.
-sentence-next
-o-o
-That's really what
-o-o
-makes the difference
-o-o
-between good and
-o-o
-bad grades.
-end-lyric
-
-ambee sings-damien amenn
-My world is
-o-o
-upside down.
-sentence-next
-o-o
-'N money's
-o-o
-on the line.
-end-lyric
-
-ambee sings-desha amenn
-And Congress
-o-o
-is filled with
-o-o
-swine.
-end-lyric
-
-ambee sings-damien amenn
-Let's keep goin'.
 end-lyric

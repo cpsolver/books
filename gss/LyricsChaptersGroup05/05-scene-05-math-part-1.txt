@@ -244,7 +244,7 @@ zero
 o-o
 is the
 o-o
-digit zero.
+begin-italics digit end-italics zero.
 sentence-next
 o-o
 There have always
@@ -334,7 +334,7 @@ o-o
 calculations.
 sentence-next
 o-o
-Now they put
+Now it puts
 o-o
 rovers on
 o-o
@@ -343,7 +343,7 @@ o-o
 Mars.
 sentence-next
 o-o
-And prevent
+And it prevents
 o-o
 hair loss
 o-o
@@ -373,15 +373,16 @@ Do you
 o-o
 appreciate
 o-o
-the digit
+that the digit zero
 o-o
-zero allows
+allows us to
 o-o
-us to quickly
+quickly
 o-o
-calculate
+calculate?
+sentence-next
 o-o
-without using
+Without using
 o-o
 the fractions
 o-o

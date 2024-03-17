@@ -431,19 +431,6 @@ I have my Willie.
 end-lyric
 
 ambee sings-damien amenn
-Whoa!
-sentence-next
-o-o
-Say what?
-end-lyric
-
-ambee sings-desha amenn
-My partner's name
-o-o
-is Willie.
-end-lyric
-
-ambee sings-damien amenn
 Are you two happy?
 sentence-next
 o-o
