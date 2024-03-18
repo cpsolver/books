@@ -456,24 +456,30 @@ sentence-next
 o-o
 That's because
 o-o
-the candidate
+when it reached
 o-o
-with the smallest
+the top three
+o-o
+candidates,
+o-o
+the one with
+o-o
+the smallest
 o-o
 transferred
 o-o
 vote count
 o-o
-isn't always
+wasn't
 o-o
 the least popular
 o-o
 candidate.
 sentence-next
 o-o
-And it made
+It made a
 o-o
-a similar
+similar
 o-o
 mistake
 o-o

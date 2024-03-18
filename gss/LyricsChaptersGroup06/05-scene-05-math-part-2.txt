@@ -675,7 +675,7 @@ sentence-next
 o-o
 The ones
 o-o
-I'm just
+I'm only now
 o-o
 learnin'.
 end-lyric
@@ -874,6 +874,7 @@ end-lyric
 
 ambee sings-mathprof amenn
 Exactly!
+sentence-next
 o-o
 You're understanding
 o-o

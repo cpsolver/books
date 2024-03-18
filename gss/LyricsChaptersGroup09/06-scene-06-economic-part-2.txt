@@ -531,41 +531,6 @@ o-o
 for centuries.
 end-lyric
 
-ambee sings-desha amenn
-That's why
-o-o
-Portuguese
-o-o
-ships
-o-o
-bumped into
-o-o
-Brazil,
-o-o
-and then the
-o-o
-Spanish hyphen-here speaking
-o-o
-Italian,
-o-o
-Columbus,
-o-o
-bumped into
-o-o
-Caribbean
-o-o
-Islands.
-sentence-next
-o-o
-They were looking
-o-o
-for an
-o-o
-alternate route
-o-o
-to China.
-end-lyric
-
 ambee sings-damien amenn
 OK,
 o-o
@@ -785,7 +750,18 @@ price index
 o-o
 is linked to
 o-o
-such things as
+government costs.
+sentence-next
+o-o
+Such as
+o-o
+social
+o-o
+security
+o-o
+benefits
+o-o
+and
 o-o
 retirement
 o-o
@@ -793,13 +769,7 @@ pensions for
 o-o
 government
 o-o
-employees
-o-o
-and social
-o-o
-security
-o-o
-benefits.
+employees.
 end-lyric
 
 ambee sings-damien amenn

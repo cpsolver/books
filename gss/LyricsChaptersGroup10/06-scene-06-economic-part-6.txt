@@ -354,83 +354,102 @@ do better?
 end-lyric
 
 ambee sings-econhist amenn
-Chinese emperors
-o-o
-feared floods,
-o-o
-earthquakes,
-o-o
-and crop failures
-o-o
-because
-o-o
-those often
-o-o
-lead to
-o-o
-rebellion and
-o-o
-revolution.
+Indeed.
 sentence-next
 o-o
-To avoid
+They adopted
 o-o
-rebellion,
+a single writing
 o-o
-wise Chinese
+system.
+sentence-next
 o-o
-leaders hired
+That allowed
+o-o
+people who
+o-o
+couldn't
+o-o
+understand
+o-o
+each other's
+o-o
+spoken language
+o-o
+to communicate
+o-o
+efficiently
+o-o
+through writing.
+sentence-next
+o-o
+Also it allowed
+o-o
+emperors
+o-o
+to find the
+o-o
+smartest
+o-o
+people to fill
+o-o
+government jobs,
+o-o
+based on exams
+o-o
+about
+o-o
+familiarity
+o-o
+with wise written
+o-o
+documents.
+sentence-next
+o-o
+In contrast,
+o-o
+at that time,
+o-o
+inheritence,
+o-o
+nepotism,
+o-o
+bribery,
+o-o
+and trading
+o-o
+favors
+o-o
+were the basis
+o-o
+for hiring
+o-o
+in Europe.
+end-lyric
+
+ambee sings-damien amenn
+Democracy
+o-o
+gives us
+o-o
+better
 o-o
 government
 o-o
 officials
 o-o
-using
+compared to
 o-o
-test hyphen-here based
+dictatorships
 o-o
-competence.
+and monarchy.
 sentence-next
 o-o
-Instead of
-o-o
-nepotism.
-sentence-next
-o-o
-Which is what
-o-o
-Europeans used.
-sentence-next
-o-o
-That innovation,
-o-o
-plus adopting
-o-o
-a single
-o-o
-writing system,
-o-o
-helped
-o-o
-ancient China
-o-o
-grow in
-o-o
-greatness.
-end-lyric
-
-ambee sings-damien amenn
-How is this
-o-o
-connected to
-o-o
-elections
-o-o
-and democracy?
+Got it.
 end-lyric
 
 ambee sings-econhist amenn
-Democracy
+And democracy
 o-o
 is more
 o-o
@@ -441,7 +460,9 @@ o-o
 dictatorship.
 sentence-next
 o-o
-And flexibility
+In turn,
+o-o
+flexibility
 o-o
 is a necessary
 o-o
@@ -1161,11 +1182,13 @@ are other
 o-o
 favorite
 o-o
-locations
+spots for
 o-o
-for exterminating
+wiping out
 o-o
-revolutionaries.
+political
+o-o
+enemies.
 end-lyric
 
 ambee sings-econhist amenn

@@ -66,11 +66,14 @@ Far fairer is
 o-o
 to look at the
 o-o
-ballots again
+ballots again.
+sentence-next
 o-o
-to identify
+Then we
 o-o
-the most popular
+identify the
+o-o
+most popular
 o-o
 of the
 o-o
@@ -99,6 +102,35 @@ o-o
 for each
 o-o
 statewide seat.
+end-lyric
+
+ambee sings-damien amenn
+Which party
+o-o
+would win the
+o-o
+statewide seats?
+sentence-next
+o-o
+Under current
+o-o
+conditions.
+end-lyric
+
+ambee sings-mathprof amenn
+Whichever
+o-o
+party,
+o-o
+or parties,
+o-o
+didn't get
+o-o
+their fair share
+o-o
+of district
+o-o
+seats.
 end-lyric
 
 ambee sings-desha amenn
@@ -599,11 +631,15 @@ Without
 o-o
 needing
 o-o
-as many
+the number of
 o-o
 columns
 o-o
-as candidates.
+to match the
+o-o
+number of
+o-o
+candidates.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -612,13 +648,13 @@ sentence-next
 o-o
 Yes,
 o-o
-that way,
+this way,
 o-o
 seven
 o-o
 choice columns
 o-o
-could
+can
 o-o
 handle twenty
 o-o
@@ -634,7 +670,9 @@ head scratching
 o-o
 to figure out
 o-o
-how to mark them.
+how to mark
+o-o
+those ovals.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -688,12 +726,12 @@ candidates
 o-o
 in the seventh
 o-o
-choice count.
+choice column.
 sentence-next
 o-o
 Or leave those
 o-o
-candidates
+worst candidates
 o-o
 unmarked.
 end-lyric
@@ -713,7 +751,7 @@ To make it
 o-o
 yet easier,
 o-o
-we can limit the
+we can limit
 o-o
 the number of
 o-o

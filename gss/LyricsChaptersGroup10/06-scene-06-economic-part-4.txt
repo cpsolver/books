@@ -423,11 +423,7 @@ o-o
 pockets.
 sentence-next
 o-o
-Back during
-o-o
-the Roman
-o-o
-empire,
+Centuries ago
 o-o
 those kinds of
 o-o
@@ -436,10 +432,6 @@ o-o
 included
 o-o
 nepotism,
-o-o
-conflicts
-o-o
-of interest,
 o-o
 bribery,
 o-o
@@ -456,10 +448,6 @@ o-o
 organizations,
 o-o
 black markets,
-o-o
-inept
-o-o
-bureaucracy,
 o-o
 basing
 o-o

@@ -66,7 +66,15 @@ o-o
 basic concept.
 sentence-next
 o-o
-It uses
+That name
+o-o
+just refers to
+o-o
+some specific
+o-o
+math details
+o-o
+about using
 o-o
 ranked
 o-o
@@ -118,13 +126,160 @@ and digest?
 end-lyric
 
 ambee sings-mathprof amenn
-There's a simple
+The ballots
 o-o
-combination
+can be counted
 o-o
-that would
+by hand.
+sentence-next
 o-o
-pole vault us
+Either as a
+o-o
+demonstration
+o-o
+of what happens
+o-o
+inside a
+o-o
+computer,
+o-o
+or as an
+o-o
+official
+o-o
+recount
+o-o
+when there is
+o-o
+uncertainty.
+sentence-next
+o-o
+About which of
+o-o
+the top four
+o-o
+candidates
+o-o
+really won.
+sentence-next
+o-o
+In that case
+o-o
+six people
+o-o
+can sit at a
+o-o
+long table.
+sentence-next
+o-o
+Each person
+o-o
+does a tally
+o-o
+for just one
+o-o
+specific
+o-o
+pair of
+o-o
+candidates.
+sentence-next
+o-o
+Then the ballot
+o-o
+is passed along
+o-o
+to the next
+o-o
+person.
+sentence-next
+o-o
+That counting
+o-o
+only needs to
+o-o
+be done once.
+end-lyric
+
+ambee sings-damien amenn
+You said sometimes
+o-o
+there's no
+o-o
+pairwise losing
+o-o
+candidate.
+sentence-next
+o-o
+What happens then?
+sentence-next
+o-o
+For counting
+o-o
+by hand?
+end-lyric
+
+ambee sings-mathprof amenn
+Let's say that
+o-o
+instant runoff
+o-o
+voting
+o-o
+is used
+o-o
+to choose
+o-o
+which candidate
+o-o
+to eliminate
+o-o
+when there's
+o-o
+no pairwise
+o-o
+losing candidate.
+sentence-next
+o-o
+Then one person
+o-o
+can sort the
+o-o
+paper ballots
+o-o
+into piles
+o-o
+according
+o-o
+to which of the
+o-o
+remaining
+o-o
+candidates
+o-o
+is highest
+o-o
+ranked on
+o-o
+each ballot.
+sentence-next
+o-o
+The shortest
+o-o
+pile
+o-o
+indicates
+o-o
+which candidate
+o-o
+to eliminate.
+sentence-next
+o-o
+That simple
+o-o
+counting method
+o-o
+will pole vault us
 o-o
 almost as high
 o-o
@@ -133,59 +288,24 @@ o-o
 counting
 o-o
 methods.
-sentence-next
-o-o
-We can simply
-o-o
-eliminate
-o-o
-pairwise losing
-o-o
-candidates,
-o-o
-and use
-o-o
-instant runoff
-o-o
-voting when
-o-o
-a counting round
-o-o
-doesn't have a
-o-o
-pairwise
-o-o
-losing
-o-o
-candidate.
 end-lyric
 
-ambee sings-damien amenn
-How hard's it
+ambee sings-desha amenn
+Of course on
 o-o
-to do that
+election night
 o-o
-pairwise
-o-o
-counting?
-end-lyric
-
-ambee sings-mathprof amenn
-All the counting
+all the counting
 o-o
 is done by computer.
 sentence-next
 o-o
 So a mouse click
 o-o
-is all you need
-o-o
-in a real
-o-o
-election.
+is all that's needed.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 So what's the
 o-o
 barrier against
@@ -814,56 +934,28 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-It protects
+Female voters
 o-o
-against
+are numerous
 o-o
-excessive
+enough
 o-o
-influence
+to elect
 o-o
-from campaign
+a woman
 o-o
-contributions
+if that's
 o-o
-that just come from
+important
 o-o
-male hyphen-here dominated
-o-o
-origins.
-end-lyric
-
-ambee sings-damien amenn
-Ah,
-o-o
-because it's
-o-o
-possible
-o-o
-a male
-o-o
-politician
-o-o
-better
-o-o
-represents
-o-o
-what women want.
+politically.
 sentence-next
 o-o
-Compared to
+And if elected
 o-o
-a female
+males disregard
 o-o
-politician
-o-o
-who's controlled
-o-o
-by male
-o-o
-campaign
-o-o
-contributors.
+what women want.
 end-lyric
 
 ambee sings-desha amenn

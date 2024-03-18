@@ -367,11 +367,15 @@ sentence-next
 o-o
 That slick trick
 o-o
-avoids decimal
+makes numbers
 o-o
-numbers between
+between
 o-o
-one and zero.
+one and zero
+o-o
+easier to
+o-o
+comprehend.
 end-lyric
 
 ambee sings-desha amenn
@@ -473,7 +477,7 @@ o-o
 right?
 end-lyric
 
-ambee sings-econhist amenn
+ambee sings-mathprof amenn
 You've aced
 o-o
 this course!

@@ -122,7 +122,7 @@ o-o
 generate ethanol.
 sentence-next
 o-o
-That enriches
+Which enriches
 o-o
 a few wealthy
 o-o
