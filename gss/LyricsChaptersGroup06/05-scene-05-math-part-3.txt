@@ -94,27 +94,27 @@ single choice?
 end-lyric
 
 ambee sings-mathprof amenn
-Right.
+Of course.
 sentence-next
 o-o
-And in a
-o-o
-simple election
-o-o
-there's just
+There's just
 o-o
 one way
 o-o
 to count
 o-o
-that kind
+a single hyphen-here choice
 o-o
-of ballot.
+ballot
+o-o
+if it's a
+o-o
+simple election.
 sentence-next
 o-o
-Which is why
+So until
 o-o
-until recently
+recently
 o-o
 that ballot didn't
 o-o
@@ -251,7 +251,13 @@ or a score ballot,
 o-o
 depending on
 o-o
-how it's counted.
+how it's
+o-o
+labeled
+o-o
+and how it's
+o-o
+counted.
 end-lyric
 
 ambee sings-damien amenn
@@ -273,9 +279,13 @@ o-o
 right, yes.
 sentence-next
 o-o
-But both types
+Yet ranking
 o-o
-are better than
+and scoring
+o-o
+are both
+o-o
+much better than
 o-o
 what we use now.
 end-lyric
@@ -472,6 +482,12 @@ o-o
 Rows?
 sentence-next
 o-o
+Levels?
+sentence-next
+o-o
+Ovals?
+sentence-next
+o-o
 My brain is
 o-o
 getting dizzy.
@@ -529,19 +545,17 @@ o-o
 horizontal.
 sentence-next
 o-o
-So that's
+So it's a
 o-o
-a grid
+grid of
 o-o
-of ovals,
+ovals.
+sentence-next
 o-o
-right?
+Got it.
 end-lyric
 
 ambee sings-desha amenn
-Right.
-sentence-next
-o-o
 And candidate
 o-o
 names
@@ -558,7 +572,9 @@ end-lyric
 ambee sings-mathprof amenn
 Let's say there's
 o-o
-seven columns.
+seven columns
+o-o
+of ovals.
 sentence-next
 o-o
 The columns
@@ -811,21 +827,25 @@ the winner.
 end-lyric
 
 ambee sings-desha amenn
-You said points
+You already
+o-o
+said points
 o-o
 don't work.
 end-lyric
 
 ambee sings-mathprof amenn
-That involved
+That counting
 o-o
-having a limit
+method has
 o-o
-on the total
+a limit on
+o-o
+the total
 o-o
 number of
 o-o
-marked ovals
+points
 o-o
 across all the
 o-o
@@ -911,17 +931,15 @@ It's getting
 o-o
 less and less
 o-o
-fashionable
+fashionable in
 o-o
-in YouTube
+social media,
 o-o
-videos,
+Yelp
 o-o
-Congress,
+reviews,
 o-o
-and online
-o-o
-dating.
+and Congress.
 end-lyric
 
 ambee sings-damien amenn
@@ -948,13 +966,16 @@ o-o
 ballots.
 sentence-next
 o-o
-Our priority
+We need the
 o-o
-needs to be
+opposite
 o-o
-keeping voting
+priority.
+sentence-next
 o-o
-simple for voters.
+We need voting
+o-o
+to be simple.
 end-lyric
 
 ambee sings-damien amenn

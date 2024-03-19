@@ -463,13 +463,13 @@ o-o
 a third number.
 sentence-next
 o-o
-The number of voters
+The number
+o-o
+of voters
 o-o
 who rank them
 o-o
-as equally
-o-o
-acceptable.
+the same.
 end-lyric
 
 ambee sings-mathprof amenn

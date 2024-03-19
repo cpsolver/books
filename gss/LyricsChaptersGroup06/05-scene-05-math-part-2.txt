@@ -102,17 +102,23 @@ Especially
 o-o
 now that
 o-o
-Alexa and Siri
+Siri and
+o-o
+Alexa 
 o-o
 can add fractions,
 o-o
-correct misspellings,
+win every
 o-o
-and regurgitate
+spelling bee,
 o-o
-historical
+and ace
 o-o
-battle details.
+every
+o-o
+geography
+o-o
+exam.
 end-lyric
 
 ambee sings-desha amenn
@@ -127,83 +133,13 @@ o-o
 to do with
 o-o
 hippos.
-end-lyric
-
-ambee sings-damien amenn
-It's as if
-o-o
-schools
-o-o
-try to
-o-o
-begin-italics program end-italics students.
 sentence-next
 o-o
-As if we were
-o-o
-computers.
-end-lyric
-
-ambee sings-desha amenn
-Meanwhile,
-o-o
-businesses
-o-o
-try to put
-o-o
-remedial
-o-o
-artificial
-o-o
-intelligence
-o-o
-into computers
-o-o
-so they can
-o-o
-fire more workers.
-end-lyric
-
-ambee sings-damien amenn
-Programming
-o-o
-students
-o-o
-and putting
-o-o
-ant hyphen-here brained
-o-o
-intelligence
-o-o
-into computers
-o-o
-is like
-o-o
-asking
-o-o
-street dancers
-o-o
-to sing in a
-o-o
-symphony
-o-o
-chorus,
-o-o
-and asking
-o-o
-opera singers
-o-o
-to learn dance
-o-o
-choreography.
-end-lyric
-
-ambee sings-desha amenn
 Does this mean
 o-o
 schools
 o-o
-are doubly
+are
 o-o
 flunking
 o-o
@@ -845,7 +781,9 @@ Right.
 end-lyric
 
 ambee sings-desha amenn
-And it seems
+Approval
+o-o
+voting seems
 o-o
 similar to
 o-o
@@ -999,11 +937,19 @@ sentence-next
 o-o
 And when there are
 o-o
-lots and lots of candidates
+lots and lots of
 o-o
-then up to about twelve
+candidates
 o-o
-levels would work.
+then up to
+o-o
+about twelve
+o-o
+preference
+o-o
+levels
+o-o
+would work.
 end-lyric
 
 ambee sings-desha amenn

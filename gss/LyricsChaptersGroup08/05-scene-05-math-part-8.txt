@@ -104,9 +104,30 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-Basically,
+It's the part
 o-o
-yes.
+where two or more
+o-o
+politicians
+o-o
+represent
+o-o
+the same larger
+o-o
+district.
+sentence-next
+o-o
+The statewide seats
+o-o
+are needed
+o-o
+to yield
+o-o
+fully
+o-o
+proportional
+o-o
+results.
 end-lyric
 
 ambee sings-damien amenn
@@ -130,10 +151,18 @@ The ballots
 o-o
 can be counted
 o-o
-by hand.
+by hand
+o-o
+when an
+o-o
+official
+o-o
+recount
+o-o
+is needed.
 sentence-next
 o-o
-Either as a
+Or as a
 o-o
 demonstration
 o-o
@@ -141,20 +170,14 @@ of what happens
 o-o
 inside a
 o-o
-computer,
-o-o
-or as an
-o-o
-official
-o-o
-recount
-o-o
-when there is
-o-o
-uncertainty.
+computer.
 sentence-next
 o-o
-About which of
+Let's say there's
+o-o
+uncertainty
+o-o
+about which of
 o-o
 the top four
 o-o
@@ -163,16 +186,31 @@ o-o
 really won.
 sentence-next
 o-o
-In that case
+Imagine
 o-o
 six people
 o-o
-can sit at a
+sitting at a
 o-o
 long table.
 sentence-next
 o-o
-Each person
+Each of those
+o-o
+counters
+o-o
+looks at each
+o-o
+ballot and then
+o-o
+passes it on
+o-o
+to the next
+o-o
+counter.
+sentence-next
+o-o
+Each counter
 o-o
 does a tally
 o-o
@@ -185,16 +223,34 @@ o-o
 candidates.
 sentence-next
 o-o
-Then the ballot
+When the counting
 o-o
-is passed along
+is done,
 o-o
-to the next
+each counter
 o-o
-person.
+writes their
+o-o
+three count numbers
+o-o
+on a sign
+o-o
+so that watchers
+o-o
+can see who won
+o-o
+each of those
+o-o
+one hyphen-here on hyphen-here one
+o-o
+contests.
 sentence-next
 o-o
-That counting
+Significantly
+o-o
+that pairwise
+o-o
+counting process
 o-o
 only needs to
 o-o
@@ -216,7 +272,7 @@ sentence-next
 o-o
 For counting
 o-o
-by hand?
+by hand.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -264,22 +320,34 @@ o-o
 each ballot.
 sentence-next
 o-o
-The shortest
+The pile
 o-o
-pile
+with the fewest
 o-o
-indicates
+ballots
+o-o
+identifies
 o-o
 which candidate
 o-o
 to eliminate.
+end-lyric
+
+ambee sings-desha amenn
+Is that method
+o-o
+good enough
+o-o
+for real
+o-o
+elections?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
 sentence-next
 o-o
-That simple
-o-o
-counting method
-o-o
-will pole vault us
+It pole vaults us
 o-o
 almost as high
 o-o
@@ -288,21 +356,6 @@ o-o
 counting
 o-o
 methods.
-end-lyric
-
-ambee sings-desha amenn
-Of course on
-o-o
-election night
-o-o
-all the counting
-o-o
-is done by computer.
-sentence-next
-o-o
-So a mouse click
-o-o
-is all that's needed.
 end-lyric
 
 ambee sings-damien amenn
@@ -320,21 +373,29 @@ end-lyric
 ambee sings-mathprof amenn
 Up until a few
 o-o
-decades ago, when
+decades ago,
 o-o
-computers came along,
+when computers
 o-o
-doing the math by hand
+came along,
 o-o
-was the big barrier.
+doing the math
+o-o
+by hand
+o-o
+was the big
+o-o
+barrier.
 end-lyric
 
 ambee sings-damien amenn
 But now we have
 o-o
-computers, so
+computers,
 o-o
-what's stopping us
+so what's
+o-o
+stopping us
 o-o
 now?
 end-lyric
@@ -607,70 +668,21 @@ and the colors
 o-o
 represent
 o-o
-ice cream flavors.
+four
+o-o
+ice cream
+o-o
+flavors.
 end-lyric
 
 begin-paragraph-centered
 <img width="500" height="165" src="ballots_four_flavors.jpg"/>
 end-paragraph-centered
 
-ambee sings-desha amenn
-Pretty colors!
-sentence-next
+ambee sings-damien amenn
+What's the point
 o-o
-Which flavors?
-end-lyric
-
-ambee sings-mathprof amenn
-Dark brown is
-o-o
-chocolate.
-end-lyric
-
-ambee sings-desha amenn
-Yum!
-end-lyric
-
-ambee sings-mathprof amenn
-Pink is for
-o-o
-strawberry.
-end-lyric
-
-ambee sings-desha amenn
-I'm not a fan
-o-o
-of pink.
-end-lyric
-
-ambee sings-mathprof amenn
-This color
-o-o
-represents
-o-o
-mint chocolate
-o-o
-chip.
-end-lyric
-
-ambee sings-desha amenn
-And I presume
-o-o
-the last color
-o-o
-is vanilla.
-end-lyric
-
-ambee sings-mathprof amenn
-Right.
-end-lyric
-
-ambee sings-desha amenn
-What's so special
-o-o
-about these ten
-o-o
-stacks of
+of playing with
 o-o
 colored blocks?
 end-lyric
@@ -680,26 +692,26 @@ Each stack
 o-o
 represents
 o-o
-one ballot,
+one ranked choice
 o-o
-with the voter's
+ballot.
+sentence-next
+o-o
+The voter's
 o-o
 favorite
 o-o
-on top,
-o-o
-and least hyphen-here favorite
-o-o
-on bottom.
+is on top.
 sentence-next
 o-o
-With these ten
+Their least hyphen-here favorite
 o-o
-ranked choice
+is on the
 o-o
-ballots
+bottom.
+sentence-next
 o-o
-the winning flavor
+The winning flavor
 o-o
 can be mint
 o-o
@@ -725,31 +737,55 @@ loses.
 end-lyric
 
 ambee sings-damien amenn
-Oh,
+Ah,
 o-o
-I see.
+plurality voting,
+o-o
+what we use now,
+o-o
+just looks at
+o-o
+the blocks on top.
+end-lyric
+
+ambee sings-desha amenn
+I can see that
+o-o
+instant runoff
+o-o
+voting
+o-o
+also looks at
+o-o
+the top blocks.
 sentence-next
 o-o
-The counting
+But then removes
 o-o
-method
+what appears
 o-o
-matters.
+to be least
+o-o
+popular.
+sentence-next
+o-o
+Until one
+o-o
+color remains.
+end-lyric
+
+ambee sings-damien amenn
+I'm guessing
+o-o
+pairwise counting
+o-o
+is the third
+o-o
+counting method?
 end-lyric
 
 ambee sings-mathprof amenn
 Exactly.
-sentence-next
-o-o
-And yet,
-o-o
-almost any
-o-o
-method is better
-o-o
-than what we've
-o-o
-got now.
 end-lyric
 
 ambee sings-damien amenn
@@ -1012,66 +1048,6 @@ end-lyric
 
 ambee sings-desha amenn
 I love it!
-end-lyric
-
-ambee sings-mathprof amenn
-Going back to
-o-o
-elections that
-o-o
-involve
-o-o
-political
-o-o
-parties,
-o-o
-if anyone claims
-o-o
-that four or five
-o-o
-seats per district
-o-o
-would be
-o-o
-better than two,
-o-o
-they're not
-o-o
-considering
-o-o
-how that would
-o-o
-interfere
-o-o
-with how
-o-o
-legislatures
-o-o
-vote on bills.
-end-lyric
-
-ambee sings-damien amenn
-I got lost at
-o-o
-the beginning
-o-o
-of that
-o-o
-sentence.
-end-lyric
-
-ambee sings-desha amenn
-She's just saying
-o-o
-this new info
-o-o
-doesn't
-o-o
-contradict
-o-o
-what she said
-o-o
-earlier.
 end-lyric
 
 ambee sings-damien amenn

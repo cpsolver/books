@@ -765,7 +765,7 @@ discrimination,
 o-o
 a glass ceiling,
 o-o
-or glass slippers?
+or a glass slipper?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -985,7 +985,11 @@ VoteFair?
 end-lyric
 
 ambee sings-damien amenn
-FairVote?
+I think
+o-o
+I've heard about
+o-o
+FairVote.
 end-lyric
 
 ambee sings-mathprof amenn
