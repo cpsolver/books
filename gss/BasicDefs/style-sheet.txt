@@ -97,6 +97,8 @@ widows:2;
 margin<hyphen_here>top:2em;
 margin<hyphen_here>bottom:2em;
 line<hyphen_here>height:1.5em;
+orphans:2;
+widows:2;
 }
 
 .para_centered{

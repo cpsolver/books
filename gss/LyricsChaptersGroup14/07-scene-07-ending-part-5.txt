@@ -214,7 +214,13 @@ counting.
 end-lyric
 
 ambee sings-damien amenn
-Without that change
+Without
+o-o
+pairwise counting
+o-o
+and ranked choice
+o-o
+ballots,
 o-o
 corruption in
 o-o
@@ -821,30 +827,13 @@ would not have been
 o-o
 able to stop
 o-o
-Clinton from winning.
-end-lyric
-
-ambee sings-damien amenn
-Unless the second
+Clinton from
 o-o
-Republican
+reaching the
 o-o
-nominee
+general
 o-o
-was better
-o-o
-than McCain.
-sentence-next
-o-o
-And promised
-o-o
-big reforms
-o-o
-like Obama's
-o-o
-slogan of
-o-o
-begin-italics hope and change end-italics no-space .
+election.
 end-lyric
 
 ambee sings-father-of-fiance amenn

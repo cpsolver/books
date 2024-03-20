@@ -1,211 +1,5 @@
-ambee sings-damien amenn
-So what do those
-o-o
-corrupt
-o-o
-business
-o-o
-owners
-o-o
-oppose?
-end-lyric
-
 ambee sings-econhist amenn
-They oppose
-o-o
-innovations
-o-o
-they fear
-o-o
-will reduce
-o-o
-their income.
-sentence-next
-o-o
-Such as
-o-o
-owners of
-o-o
-Exxon shares
-o-o
-opposing
-o-o
-fully
-o-o
-synthetic
-o-o
-hydrocarbon
-o-o
-fuel.
-end-lyric
-
-ambee sings-desha amenn
-What's synthetic
-o-o
-whatever?
-end-lyric
-
-ambee sings-econhist amenn
-Fully synthetic
-o-o
-hydrocarbon fuel
-o-o
-refers to gases
-o-o
-and liquids that
-o-o
-are chemically
-o-o
-manufactured
-o-o
-for use as
-o-o
-fuel.
-sentence-next
-o-o
-The process
-o-o
-will use sunlight
-o-o
-as the
-o-o
-energy source.
-sentence-next
-o-o
-It will get
-o-o
-carbon from
-o-o
-carbon dioxide
-o-o
-in the atmosphere ...
-end-lyric
-
-ambee sings-desha amenn
-Which we have too much of.
-end-lyric
-
-ambee sings-econhist amenn
-... and it will get 
-o-o
-hydrogen
-o-o
-from water.
-end-lyric
-
-ambee sings-damien amenn
-So doin'
-o-o
-what plants do?
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-sentence-next
-o-o
-But much more
-o-o
-efficiently.
-sentence-next
-o-o
-For just storing
-o-o
-energy.
-sentence-next
-o-o
-Especially
-o-o
-compared to
-o-o
-using crops to
-o-o
-generate ethanol.
-sentence-next
-o-o
-Which enriches
-o-o
-a few wealthy
-o-o
-people who
-o-o
-have a legal
-o-o
-monopoly
-o-o
-on ethanol.
-end-lyric
-
-ambee sings-damien amenn
-If synthetic hydro ...
-end-lyric
-
-ambee sings-econhist amenn
-Fully synthetic
-o-o
-hydrocarbon fuel
-end-lyric
-
-ambee sings-damien amenn
-... is such a good thing,
-o-o
-what's blockin' that
-o-o
-from happening?
-end-lyric
-
-ambee sings-econhist amenn
-There's no
-o-o
-economic
-o-o
-incentive.
-sentence-next
-o-o
-The people who
-o-o
-have the skills
-o-o
-to figure it out
-o-o
-cannot get paid
-o-o
-to do that
-o-o
-research.
-sentence-next
-o-o
-And oil
-o-o
-companies
-o-o
-can earn more
-o-o
-money by
-o-o
-blocking that
-o-o
-research.
-end-lyric
-
-ambee sings-damien amenn
-Ah,
-o-o
-more bad feedback
-o-o
-loops.
-end-lyric
-
-ambee sings-econhist amenn
-This time it's
-o-o
-the lack of a
-o-o
-good
-o-o
-feedback loop.
-sentence-next
-o-o
-Also consider
+Consider
 o-o
 that breakthroughs
 o-o
@@ -308,14 +102,7 @@ end-lyric
 ambee sings-econhist amenn
 Democracy
 o-o
-itself is a
-o-o
-good
-o-o
-feedback loop.
-sentence-next
-o-o
-It yields
+yields
 o-o
 far better
 o-o
@@ -506,6 +293,9 @@ their fellow
 o-o
 shareholders.
 end-lyric
+
+
+
 
 ambee sings-damien amenn
 Wow, so many

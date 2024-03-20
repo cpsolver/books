@@ -23,11 +23,9 @@ communication?
 end-lyric
 
 ambee sings-damien amenn
-I can see that
+Voters try to
 o-o
-voters try to
-o-o
-use their ballot
+use our ballot
 o-o
 to say we want
 o-o
@@ -36,30 +34,36 @@ o-o
 and less of that.
 sentence-next
 o-o
-Alas, it's still
+But with
 o-o
-at the
+plurality
 o-o
-mumbling stage
+voting,
 o-o
-of communication.
+politicians
+o-o
+might as well
+o-o
+be deaf.
 end-lyric
 
 ambee sings-desha amenn
 I see that
 o-o
-state governments
+laws and taxes
 o-o
-use alcohol taxes
+steer us toward
 o-o
-to discourage us
+staying sober,
 o-o
-from becoming
+buying a farm,
 o-o
-alcoholics.
+and getting
+o-o
+pregnant.
 sentence-next
 o-o
-And Wall Street
+Wall Street
 o-o
 executives
 o-o
@@ -74,33 +78,6 @@ o-o
 to financial
 o-o
 corruption.
-end-lyric
-
-ambee sings-damien amenn
-Ah.
-sentence-next
-o-o
-The IRS
-o-o
-gives tax breaks
-o-o
-for gettin'
-o-o
-married
-o-o
-and buyin'
-o-o
-a house.
-end-lyric
-
-ambee sings-desha amenn
-And buying
-o-o
-a farm
-o-o
-and getting
-o-o
-pregnant.
 end-lyric
 
 ambee sings-econhist amenn
@@ -241,109 +218,240 @@ opposite?
 end-lyric
 
 ambee sings-econhist amenn
-A law firm
+Let's call the
 o-o
-claiming they
+two extreme
 o-o
-create
+kinds of
 o-o
-valuable
+businesses
 o-o
-documents,
+maker
+o-o
+businesses
+o-o
+and taker
+o-o
+businesses.
+end-lyric
+
+ambee sings-damien amenn
+I presume
+o-o
+people like me
+o-o
+who make things
+o-o
+work for maker
+o-o
+businesses.
+end-lyric
+
+ambee sings-desha amenn
+And the taker
+o-o
+businesses
+o-o
+include
+o-o
+law firms,
+o-o
+credit card
+o-o
+companies,
+o-o
+and timber
+o-o
+harvesters.
+sentence-next
+o-o
+Right?
+end-lyric
+
+ambee sings-econhist amenn
+In general the
+o-o
+spectrum from
+o-o
+makers to takers
+o-o
+starts with
+o-o
+farming and ranching.
+sentence-next
+o-o
+They already
+o-o
+get tax breaks,
+o-o
+regardless
+o-o
+of size.
+sentence-next
+o-o
+The other
+o-o
+main maker
+o-o
+businesses
+o-o
+include
+o-o
+manufacturing,
+o-o
+construction,
+o-o
+engineering,
+o-o
+inventing,
+o-o
+software developing,
+o-o
+cooking,
+o-o
+and
+o-o
+entertaining.
+sentence-next
+o-o
+There are lots
+o-o
+of intermediate
+o-o
+categories
+o-o
+such as teaching,
+o-o
+healthcare,
+o-o
+maintenance,
+o-o
+transportation,
+o-o
+retail,
+o-o
+hospitality,
+o-o
+and
+o-o
+marketing.
+sentence-next
+o-o
+At the full
+o-o
+taker end
+o-o
+there's
+o-o
+banking,
+o-o
+insurance,
+o-o
+legal services,
+o-o
+real estate
+o-o
+developers,
+o-o
+logging,
+o-o
+mining,
+o-o
+casinos,
+o-o
+alcohol
+o-o
+businesses,
+o-o
+and the
+o-o
+tobacco
+o-o
+industry.
+end-lyric
+
+ambee sings-desha amenn
+I love it!
+sentence-next
+o-o
+Especially because
+o-o
+sleazy
+o-o
+real estate
+o-o
+developers
+o-o
+would be at the bottom
+o-o
+paying the highest
+o-o
+tax rates.
+sentence-next
+o-o
+Now it's finally
+o-o
+so much clearer
+o-o
+who I should fight!
+sentence-next
+o-o
+And how I can fight!
+end-lyric
+
+ambee sings-damien amenn
+I like it.
+sentence-next
+o-o
+Yet my friend
+o-o
+who wants to start
+o-o
+a restaurant
+o-o
+wouldn't get
+o-o
+the tax break,
 o-o
 even though
 o-o
-the document
+what he cooks
 o-o
-is worthless
+would be valuable
 o-o
-to anyone
+to wealthy
 o-o
-other than the
-o-o
-person who
-o-o
-requested it.
-sentence-next
-o-o
-Or a
-o-o
-small lumber
-o-o
-company
-o-o
-cutting down
-o-o
-lots of trees,
-o-o
-making lumber,
-o-o
-and selling it
-o-o
-to Japan
-o-o
-without
-o-o
-considering
-o-o
-the loss of trees.
-end-lyric
-
-ambee sings-damien amenn
-Restaurants
-o-o
-make things
-o-o
-that are
-o-o
-valuable
-o-o
-to hungry
-o-o
-rich folks.
-sentence-next
-o-o
-Would they get
-o-o
-that tax break?
+supertasters.
 end-lyric
 
 ambee sings-econhist amenn
-If it's a
+Single hyphen-here location
 o-o
-single hyphen-here location
+restaurants
 o-o
-restaurant,
+would get
 o-o
-yes.
+the tax break.
 sentence-next
 o-o
-Because
+They make something
 o-o
-they attract
+that attracts
+o-o
+money from
 o-o
 customers
 o-o
-to the city or
-o-o
-neighborhood.
+outside the area.
 sentence-next
 o-o
-But not if it's
+In contrast,
 o-o
-a chain
+chain
 o-o
-restaurant.
-end-lyric
-
-ambee sings-damien amenn
-What's the difference?
-end-lyric
-
-ambee sings-econhist amenn
-A chain business
+restaurants
 o-o
-extracts money
+extract money
 o-o
 from the local
 o-o
@@ -354,396 +462,3 @@ o-o
 their headquarters.
 end-lyric
 
-ambee sings-desha amenn
-What if a
-o-o
-small restaurant
-o-o
-just makes
-o-o
-jello,
-o-o
-soggy fries,
-o-o
-and fennel
-o-o
-milkshakes?
-sentence-next
-o-o
-That's not
-o-o
-valuable.
-end-lyric
-
-ambee sings-econhist amenn
-Well hyphen-here designed
-o-o
-tax credits
-o-o
-are calculated
-o-o
-as a percentage
-o-o
-of income.
-sentence-next
-o-o
-So the tax break
-o-o
-on that business
-o-o
-will be tiny,
-o-o
-just like
-o-o
-their income.
-end-lyric
-
-ambee sings-desha amenn
-I hope
-o-o
-the tax break
-o-o
-goes to small
-o-o
-businesses
-o-o
-that hire artists,
-o-o
-actors,
-o-o
-composers,
-o-o
-and
-o-o
-writers
-o-o
-because
-o-o
-those folks create
-o-o
-things like
-o-o
-songs,
-o-o
-books,
-o-o
-videos,
-o-o
-paintings,
-o-o
-and odd
-o-o
-jewelry.
-end-lyric
-
-ambee sings-econhist amenn
-If the tax break
-o-o
-is well designed,
-o-o
-yes.
-end-lyric
-
-ambee sings-damien amenn
-I hope
-o-o
-it's super easy
-o-o
-for a small
-o-o
-business to get
-o-o
-these tax breaks.
-end-lyric
-
-ambee sings-econhist amenn
-Yes if it's
-o-o
-well designed.
-end-lyric
-
-ambee sings-damien amenn
-Is there a name
-o-o
-for the kinds
-o-o
-of businesses
-o-o
-that deserve,
-o-o
-and don't deserve,
-o-o
-the tax break?
-end-lyric
-
-ambee sings-econhist amenn
-The word begin-italics deserve end-italics
-o-o
-is judgmental.
-sentence-next
-o-o
-So it's a matter
-o-o
-of opinion.
-sentence-next
-o-o
-There might be times
-o-o
-when you,
-o-o
-name-desha no-space ,
-o-o
-think you,
-o-o
-name-damien no-space ,
-o-o
-deserves to be
-o-o
-spanked.
-sentence-next
-o-o
-But that would be
-o-o
-a judgment,
-o-o
-not a fact.
-end-lyric
-
-ambee sings-desha amenn
-In this case
-o-o
-it's a fact.
-end-lyric
-
-ambee sings-econhist amenn
-As for names,
-o-o
-the ones I've read
-o-o
-are maker
-o-o
-businesses
-o-o
-and taker
-o-o
-businesses.
-end-lyric
-
-ambee sings-damien amenn
-I like that.
-sentence-next
-o-o
-People like me
-o-o
-who make things
-o-o
-work for maker
-o-o
-businesses.
-end-lyric
-
-ambee sings-desha amenn
-The taker
-o-o
-businesses
-o-o
-would include
-o-o
-law firms,
-o-o
-pawn shops,
-o-o
-payday loan
-o-o
-companies,
-o-o
-and real hyphen-here estate
-o-o
-developers,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes.
-end-lyric
-
-ambee sings-desha amenn
-And corporations,
-o-o
-even if they're small,
-o-o
-are taker
-o-o
-businesses,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Some corporations
-o-o
-create lots of
-o-o
-valuable
-o-o
-products
-o-o
-and services.
-sentence-next
-o-o
-That kind is a
-o-o
-maker
-o-o
-business.
-end-lyric
-
-ambee sings-desha amenn
-Which corporations
-o-o
-create value?
-sentence-next
-o-o
-I thought all
-o-o
-corporations
-o-o
-are predatory.
-end-lyric
-
-ambee sings-econhist amenn
-Admittedly
-o-o
-big corporations
-o-o
-do tend to
-o-o
-become
-o-o
-greedy.
-sentence-next
-o-o
-Yet when a biz
-o-o
-is young
-o-o
-and small
-o-o
-and sparsely
-o-o
-funded,
-o-o
-it can't grow
-o-o
-if it doesn't
-o-o
-offer something
-o-o
-that benefits
-o-o
-lots of people.
-end-lyric
-
-ambee sings-damien amenn
-Examples
-o-o
-would help.
-end-lyric
-
-ambee sings-econhist amenn
-Originally
-o-o
-Google gave
-o-o
-high priority
-o-o
-to giving
-o-o
-quite useful
-o-o
-search results.
-sentence-next
-o-o
-Now it's top
-o-o
-priority
-o-o
-is to expose
-o-o
-users to
-o-o
-Google ads.
-sentence-next
-o-o
-When it was small,
-o-o
-Bank of
-o-o
-America
-o-o
-catered to
-o-o
-wealthy
-o-o
-Chinese
-o-o
-Americans
-o-o
-in Chinatown,
-o-o
-back when
-o-o
-other banks
-o-o
-shunned those folks.
-end-lyric
-
-ambee sings-damien amenn
-So it's like with
-o-o
-rich people?
-sentence-next
-o-o
-Some
-o-o
-corporations
-o-o
-are good,
-o-o
-and some are bad?
-end-lyric
-
-ambee sings-econhist amenn
-Exactly.
-sentence-next
-o-o
-Hopefully
-o-o
-you see that
-o-o
-simply taxing
-o-o
-wealthy individuals
-o-o
-isn't the key.
-end-lyric
-
-ambee sings-damien amenn
-I learned
-o-o
-they can evade
-o-o
-individual
-o-o
-taxation.
-sentence-next
-o-o
-'N exploit
-o-o
-deductions
-o-o
-in their
-o-o
-businesses.
-end-lyric

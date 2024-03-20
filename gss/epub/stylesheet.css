@@ -95,6 +95,8 @@ widows:2;
 margin-top:2em;
 margin-bottom:2em;
 line-height:1.5em;
+orphans:2;
+widows:2;
 }
 
 .para_centered{

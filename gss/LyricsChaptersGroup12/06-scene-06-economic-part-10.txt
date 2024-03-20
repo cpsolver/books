@@ -585,66 +585,35 @@ thorium
 o-o
 nuclear
 o-o
-reactors,
-o-o
-a fully
-o-o
-phonetic
-o-o
-writing system
-o-o
-that will reduce
-o-o
-illiteracy,
-o-o
-new programming
-o-o
-languages
-o-o
-that will
-o-o
-simplify
-o-o
-automating
-o-o
-things online,
-o-o
-and a
-o-o
-years hyphen-here in hyphen-here prison
-o-o
-movie and game
-o-o
-rating that
-o-o
-will reduce crime.
+reactors.
 sentence-next
 o-o
-Plus I've got
+And there are
 o-o
-a personal
-o-o
-guess.
+others.
 sentence-next
 o-o
-There will be
+Do want me to send
 o-o
-better
+those links?
+end-lyric
+
+ambee sings-desha amenn
+Please!
+sentence-next
 o-o
-micro hyphen-here payment
+I can translate
 o-o
-systems that help
+them for
 o-o
-individual
-o-o
-entrepreneurs.
+name-damien no-space .
 end-lyric
 
 ambee sings-damien amenn
 Wow!
 sentence-next
 o-o
-It makes my
+This makes my
 o-o
 gutter cleaning
 o-o
@@ -696,29 +665,9 @@ end-lyric
 ambee sings-econhist amenn
 I mostly read
 o-o
-non hyphen-here fiction.
-sentence-next
+about why
 o-o
-I skip over
-o-o
-articles that
-o-o
-are judgments,
-o-o
-such as who's to blame,
-o-o
-or what begin-italics should end-italics be done,
-o-o
-or what celebrities
-o-o
-are promoting.
-sentence-next
-o-o
-Instead I like
-o-o
-to read about
-o-o
-why things are
+things are
 o-o
 the way they are.
 sentence-next
@@ -730,21 +679,29 @@ o-o
 history.
 sentence-next
 o-o
-And when there's
+And I've found
 o-o
-a claim for a
+subreddits
 o-o
-solution,
+to be useful.
+end-lyric
+
+ambee sings-damien amenn
+Reading
 o-o
-I just focus
+sessions on
 o-o
-on its
+submarines?
+end-lyric
+
+ambee sings-desha amenn
+Subreddits are
 o-o
-advantages
+topic hyphen-here specific
 o-o
-and
+discussions
 o-o
-disadvantages.
+on Reddit.
 end-lyric
 
 ambee sings-damien amenn

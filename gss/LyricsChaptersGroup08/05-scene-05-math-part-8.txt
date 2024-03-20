@@ -334,7 +334,11 @@ to eliminate.
 end-lyric
 
 ambee sings-desha amenn
-Is that method
+Is that
+o-o
+combination
+o-o
+method
 o-o
 good enough
 o-o
@@ -358,12 +362,63 @@ o-o
 methods.
 end-lyric
 
+ambee sings-desha amenn
+What's its name?
+end-lyric
+
+ambee sings-mathprof amenn
+Election
+o-o
+methods
+o-o
+are like
+o-o
+food recipies.
+sentence-next
+o-o
+Switching an
+o-o
+ingredient
+o-o
+or two
+o-o
+can cause it 
+o-o
+to fail.
+sentence-next
+o-o
+Even if the name
+o-o
+remains the same.
+sentence-next
+o-o
+Basically
+o-o
+this is instant
+o-o
+runoff voting
+o-o
+with pairwise
+o-o
+eliminations,
+o-o
+plus correctly
+o-o
+counting
+o-o
+so hyphen-here called
+o-o
+overvotes.
+end-lyric
+
 ambee sings-damien amenn
-So what's the
+What's the
 o-o
-barrier against
+barrier
 o-o
-using ranked choice
+against using
+o-o
+ranked choice
 o-o
 ballots and
 o-o
@@ -931,28 +986,13 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-Female voters
-o-o
-are numerous
-o-o
-enough
-o-o
-to elect
-o-o
-a woman
-o-o
-if that's
+If that's
 o-o
 important
 o-o
-politically.
-sentence-next
+politically,
 o-o
-And if elected
-o-o
-males disregard
-o-o
-what women want.
+yes.
 end-lyric
 
 ambee sings-desha amenn
@@ -965,37 +1005,19 @@ for more women!
 end-lyric
 
 ambee sings-damien amenn
-And hopefully
+How about
 o-o
-in a big city,
-o-o
-where there's
-o-o
-diversity,
-o-o
-at least one
-o-o
-minority
-o-o
-politician
-o-o
-will be
-o-o
-one of the three?
+minorities?
 end-lyric
 
 ambee sings-mathprof amenn
 If that's what
 o-o
-at least
-o-o
-one third,
-o-o
-er,
-o-o
 enough
 o-o
-voters want.
+voters want,
+o-o
+then yes.
 end-lyric
 
 ambee sings-damien amenn
@@ -1009,6 +1031,41 @@ end-lyric
 
 ambee sings-desha amenn
 I love it!
+end-lyric
+
+ambee sings-mathprof amenn
+If you don't
+o-o
+mind hearing a
+o-o
+percentage,
+o-o
+the counting
+o-o
+guarantees
+o-o
+representation
+o-o
+for at least
+o-o
+sixty six
+o-o
+percent of
+o-o
+voters.
+sentence-next
+o-o
+That's much much
+o-o
+better than
+o-o
+no guarantee,
+o-o
+which is what
+o-o
+we get now with
+o-o
+plurality.
 end-lyric
 
 ambee sings-damien amenn

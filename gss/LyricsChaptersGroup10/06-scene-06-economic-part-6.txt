@@ -932,65 +932,7 @@ o-o
 of winning.
 end-lyric
 
-ambee sings-damien amenn
-I'm guessing
-o-o
-this relates to
-o-o
-Obama's
-o-o
-slogan of
-o-o
-begin-italics hope and change end-italics no-space .
-sentence-next
-o-o
-That attracted
-o-o
-lots of votes,
-o-o
-right?
-end-lyric
 
-ambee sings-econhist amenn
-Yes.
-sentence-next
-o-o
-But death threats
-o-o
-against him,
-o-o
-and against
-o-o
-his family,
-o-o
-snuffed out
-o-o
-any hope of
-o-o
-big changes.
-end-lyric
-
-ambee sings-damien amenn
-Obamacare
-o-o
-was big.
-end-lyric
-
-ambee sings-desha amenn
-Hillary
-o-o
-Clinton
-o-o
-had already
-o-o
-started
-o-o
-that reform
-o-o
-when her husband
-o-o
-was President.
-end-lyric
 
 ambee sings-econhist amenn
 Anyway,
