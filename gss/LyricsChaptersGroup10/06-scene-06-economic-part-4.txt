@@ -368,28 +368,6 @@ o-o
 and whatever else,
 o-o
 without fighting.
-sentence-next
-o-o
-And without
-o-o
-hiding
-o-o
-information.
-sentence-next
-o-o
-It's fluid and
-o-o
-flexible.
-sentence-next
-o-o
-And very
-o-o
-efficient.
-sentence-next
-o-o
-It's also
-o-o
-impossible.
 end-lyric
 
 ambee sings-desha amenn
@@ -397,6 +375,21 @@ I'd fight for that!
 end-lyric
 
 ambee sings-econhist amenn
+A fully
+o-o
+free market
+o-o
+is flexible
+o-o
+and very
+o-o
+efficient.
+o-o
+And it's
+o-o
+impossible.
+sentence-next
+o-o
 Yet we can get
 o-o
 much closer

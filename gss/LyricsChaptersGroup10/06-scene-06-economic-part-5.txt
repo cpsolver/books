@@ -553,18 +553,25 @@ o-o
 religions.
 sentence-next
 o-o
-They originated
+But that
 o-o
-public schools
+cooperation
 o-o
-and hospitals.
+happens
+o-o
+locally.
 sentence-next
 o-o
-Also orphanages,
+Such as
 o-o
-food for the poor,
+churches in a city
 o-o
-and church members
+raising money
+o-o
+to feed the needy.
+sentence-next
+o-o
+And on Sunday
 o-o
 singing
 o-o
@@ -573,18 +580,9 @@ o-o
 as a chorus.
 sentence-next
 o-o
-But
+However
 o-o
-that cooperation
-o-o
-is done locally,
-o-o
-where the benefits
-o-o
-are easy to see.
-sentence-next
-o-o
-But one church
+just one church
 o-o
 cannot promote
 o-o

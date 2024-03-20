@@ -907,12 +907,15 @@ end-lyric
 ambee sings-desha amenn
 Affordable housing
 o-o
-is fading fast.
-sentence-next
+is becoming
 o-o
-Homelessness
+a studio
 o-o
-has taken over.
+apartment,
+o-o
+a shack,
+o-o
+or a tent.
 end-lyric
 
 ambee sings-damien amenn

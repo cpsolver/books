@@ -5,23 +5,6 @@ end-title
 
 ambee put-into-phrase lyric-number 0500000 amenn
 
-combee ************
-begin-comment
-Illustration:
-Classroom, math, with differential equations on whiteboard.
-Damien is on left side, math professor is in middle, Desha is on right side, and they are standing and facing each other.
-Math professor is female, any race (maybe Asian), with wire-rim glasses, wearing skirt that shows knees, and has tight pants underneath skirt, wearing nice blouse, has hair in bun (not hanging down).
-end-comment
-
-begin-comment
-items on tables are:
-tape measure (ideally in decimal inches);
-9 stacks of colored blocks as described verbally;
-balance scale;
-huge chess pieces of queen, knight, bishop;
-end-comment
-************ comenn
-
 ambee sings-desha-firstuse amenn
 Hi
 o-o

@@ -5,16 +5,6 @@ end-title
 
 ambee put-into-phrase lyric-number 0300000 amenn
 
-combee ************
-begin-comment
-Illustration:
-Political-party headquarters, with banner in background that says "PRUITT" in large letters and says "Let's put corruption behind us" in smaller letters.
-Damien is standing on left side, facing politician.
-Politician is standing on right side facing Damien, and is dressed in coat and tie.
-Politician is white male, tall, very good looking, about age 55.
-end-comment
-************ comenn
-
 ambee sings-damien-firstuse amenn
 begin-explain Speaks to himself. end-explain
 sentence-next

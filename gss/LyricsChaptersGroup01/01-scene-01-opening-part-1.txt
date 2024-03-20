@@ -19,24 +19,6 @@ end-standard-paragraph
 
 ambee put-into-phrase lyric-number 0100000 amenn
 
-combee ************
-begin-comment Illustration:
-early evening (end of workday),
-small outdoor balcony, with metal railing, part of condominium building,
-higher than first floor,
-small round table with two outdoor chairs facing it,
-another two identical chairs in corners of balcony,
-Damien sitting somewhat slumped forward onto table with arms on table,
-cup of tea or coffee on table in front of him,
-his fiance standing on right side of table and facing him
-and is holding coffee cup.
-Damien is racially mixed with Latino or Puerto Rican parent,
-short, NOT handsome in face but healthy body shape,
-wearing jeans and shirt that would be appropriate for a trade such as installing hardwood floors.
-His fiance is somewhat good looking and later will appear with her father who owns a business that earns lots of money, so she should be somewhat nicely dressed but in casual attire, has healthy body shape but not too beautiful in face.
-end-comment
-************ comenn
-
 ambee sings-fiance-firstuse amenn
 begin-explain She is name-damien no-space 's word-fiance no-space . end-explain
 sentence-next

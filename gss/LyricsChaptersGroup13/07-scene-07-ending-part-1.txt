@@ -5,23 +5,6 @@ end-title
 
 ambee put-into-phrase lyric-number 0700000 amenn
 
-combee ************
-begin-comment Illustration:
-Hospital recovery room, with single hospital bed, and one chair to right and behind bed.
-Venture capitalist is lying in hospital bed, hooked up to monitor showing heartbeat.
-Religious minister is sitting on chair, and is holding (closed) Bible.
-Father of fiance is standing on right side.
-In foreground are, from left to right, Desha, Damien, fiance.
-Religious minister is Desha's (biological) father, so much match Desha's general racial/genetic characteristics, and he is wearing a priest's collar and Christian priest's black clothes.
-Father of fiance much match fiance's general racial/genetic characteristics, and he is a nicely dressed businessman with coat and tie.
-Everyone is facing Damien, and Damien is mostly facing viewer, but his head and partially his body is facing toward right side (toward fiance), as would happen in a performance on a theatre stage.
-end-comment
-
-begin-comment
-name-minister is always holding a closed Bible;
-end-comment
-************ comenn
-
 ambee sings-vc-firstuse amenn
 Father,
 o-o

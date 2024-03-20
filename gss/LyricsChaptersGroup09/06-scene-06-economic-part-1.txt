@@ -5,15 +5,6 @@ end-title
 
 ambee put-into-phrase lyric-number 0600000 amenn
 
-combee ************
-begin-comment
-Illustration:
-Classroom for history classes, with poster "Highlights in History" and tiny illegible writing below on the same poster.
-Damien is standing on left side, economics history professor is standing in middle, and Desha is standing on right side, and all face each other.
-Economics history professor is male, racially mixed with Indian (from India) and British ancestry, wears nice shoes and nice pants and white shirt (but no tie).
-end-comment
-************ comenn
-
 ambee sings-desha-firstuse amenn
 Are you professor
 o-o
@@ -64,21 +55,19 @@ o-o
 office.
 sentence-next
 o-o
-Would you like some
+Would you like
 o-o
 pistachios?
 end-lyric
 
 ambee sings-damien amenn
-I'm so
+That would be
 o-o
-full of nuts
+a pay raise
 o-o
-I could get a
+'cause now I get
 o-o
-dozen squirrels
-o-o
-through winter.
+peanuts.
 end-lyric
 
 ambee sings-desha amenn
@@ -605,9 +594,7 @@ ambee sings-damien amenn
 Makes sense.
 sentence-next
 o-o
-Although now
-o-o
-they're
+Now they're
 o-o
 handcuffed
 o-o
@@ -617,9 +604,10 @@ biggest
 o-o
 campaign
 o-o
-contributors,
+contributors.
+sentence-next
 o-o
-the shift will
+The shift will
 o-o
 set them free
 o-o

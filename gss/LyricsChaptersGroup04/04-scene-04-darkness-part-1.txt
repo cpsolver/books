@@ -5,15 +5,6 @@ end-title
 
 ambee put-into-phrase lyric-number 0400000 amenn
 
-combee ****
-begin-comment Illustration:
-Cemetery with a few vertical gravestones, a granite bench, two small trees in background (one on each side of scene).
-Damien is standing on left side, facing Desha who is on right side sitting on a granite bench.
-Desha is slightly taller than Damien, is racially mixed with at least some African ancestry, is dressed casually in jeans and simple shirt, has badass attitude, loves to fight verbally.
-end-comment
-************ comenn
-
-
 ambee sings-desha-firstuse amenn
 You're way late.
 sentence-next

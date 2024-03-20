@@ -5,15 +5,6 @@ end-title
 
 ambee put-into-phrase lyric-number 0200000 amenn
 
-combee ************
-begin-comment Illustration:
-Den of wealthy man.
-Damien is on left side sitting on edge of expensive chair and facing other person who is venture capitalist.
-Venture capitalist is wearing very casual yet expensive clothes and is reclining in fancy recliner chair with feet propped up on footstool (or equivent).
-Adjacent to venture capitalist is a small table on which he has his smartphone and a TV remote control and a glass of red wine and a snack of chips.
-end-comment
-************ comenn
-
 ambee sings-damien-firstuse amenn
 'ello mister
 o-o

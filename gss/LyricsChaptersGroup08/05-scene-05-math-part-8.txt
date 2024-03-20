@@ -465,9 +465,70 @@ Another
 o-o
 barrier
 o-o
-is that some
+is that
 o-o
-math experts claim
+lots of money
+o-o
+is given to
+o-o
+people who
+o-o
+misrepresent
+o-o
+ranked choice
+o-o
+voting.
+sentence-next
+o-o
+Such as pointing
+o-o
+to high rates
+o-o
+of spoiled
+o-o
+ballots
+o-o
+in elections
+o-o
+that don't count
+o-o
+so hyphen-here called
+o-o
+overvotes.
+sentence-next
+o-o
+And of course
+o-o
+pointing out
+o-o
+the two failures
+o-o
+in Burlington
+o-o
+and Alaska
+o-o
+without mentioning
+o-o
+those failures
+o-o
+are easy
+o-o
+to avoid
+o-o
+by eliminating
+o-o
+pairwise losing
+o-o
+candidates
+o-o
+when they occur.
+sentence-next
+o-o
+And some of those
+o-o
+critics
+o-o
+claim that
 o-o
 score ballots
 o-o
@@ -476,24 +537,6 @@ o-o
 ranked choice
 o-o
 ballots.
-sentence-next
-o-o
-Those ballots
-o-o
-ask for ratings
-o-o
-instead of
-o-o
-rankings.
-sentence-next
-o-o
-The grades
-o-o
-A through F
-o-o
-are ratings,
-o-o
-not rankings.
 end-lyric
 
 ambee sings-damien amenn
@@ -510,26 +553,22 @@ sentence-next
 o-o
 However
 o-o
-they are
+a savvy voter
 o-o
-vulnerable
-o-o
-to tactical
-o-o
-voting.
-sentence-next
-o-o
-That's because
-o-o
-the voter
-o-o
-indicates
+can exaggerate
 o-o
 the strength
 o-o
 of their
 o-o
 preferences.
+sentence-next
+o-o
+Similar to
+o-o
+the clapping
+o-o
+tactic.
 sentence-next
 o-o
 Eventually
@@ -559,108 +598,28 @@ aren't fair
 o-o
 when electing
 o-o
-one winner
+a single winner
 o-o
 in a general
 o-o
 election.
 end-lyric
 
-ambee sings-desha amenn
-name-damien no-space ,
-o-o
-that means
-o-o
-that different
-o-o
-kind of ballot
-o-o
-isn't what
-o-o
-we need.
-end-lyric
-
 ambee sings-damien amenn
-Now I'm
+So the counting
 o-o
-wonderin' why
-o-o
-awareness
-o-o
-of greater
-o-o
-fairness
-o-o
-doesn't
-o-o
-attract
-o-o
-voters like a
-o-o
-magnet?
-end-lyric
-
-ambee sings-desha amenn
-You are so
-o-o
-na&#239;ve.
-sentence-next
-o-o
-Greedy folks
-o-o
-are in control
-o-o
-and they don't want
-o-o
-fairness.
-end-lyric
-
-ambee sings-damien amenn
-Those of us
-o-o
-who are
-o-o
-workin' hard
-o-o
-yet sufferin'
-o-o
-want our fair share
-o-o
-of the
-o-o
-economic
-o-o
-pie.
-end-lyric
-
-ambee sings-desha amenn
-And rich people
-o-o
-want to protect
-o-o
-their too hyphen-here big slice
-o-o
-of economic pie,
-o-o
-with vanilla
-o-o
-ice cream and
-o-o
-three cherries
-o-o
-on top.
+method matters.
 end-lyric
 
 ambee sings-mathprof amenn
-Speaking of
+Here's a way
 o-o
-ice cream,
+to see why.
+sentence-next
 o-o
-here are
+These colored blocks
 o-o
-colored blocks
-o-o
-that represent
+represent
 o-o
 ten ballots,
 o-o
@@ -676,10 +635,10 @@ flavors.
 end-lyric
 
 begin-paragraph-centered
-<img width="500" height="165" src="ballots_four_flavors.jpg"/>
+<img width="400" height="132" src="ballots_four_flavors.jpg"/>
 end-paragraph-centered
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 What's the point
 o-o
 of playing with
@@ -748,10 +707,8 @@ o-o
 the blocks on top.
 end-lyric
 
-ambee sings-desha amenn
-I can see that
-o-o
-instant runoff
+ambee sings-mathprof amenn
+Instant runoff
 o-o
 voting
 o-o
@@ -760,16 +717,20 @@ o-o
 the top blocks.
 sentence-next
 o-o
-But then removes
+But then the one
 o-o
-what appears
+that appears
 o-o
 to be least
 o-o
-popular.
+popular
+o-o
+is removed.
 sentence-next
 o-o
-Until one
+That repeats
+o-o
+until one
 o-o
 color remains.
 end-lyric

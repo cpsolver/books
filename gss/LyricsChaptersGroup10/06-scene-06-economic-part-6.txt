@@ -366,21 +366,27 @@ sentence-next
 o-o
 That allowed
 o-o
-people who
+people throughout
 o-o
-couldn't
+what we now
+o-o
+call China
+o-o
+to understand
+o-o
+each other
+o-o
+through writing,
+o-o
+even though
+o-o
+they cannot
 o-o
 understand
 o-o
 each other's
 o-o
-spoken language
-o-o
-to communicate
-o-o
-efficiently
-o-o
-through writing.
+spoken language.
 sentence-next
 o-o
 Also it allowed
@@ -410,21 +416,16 @@ In contrast,
 o-o
 at that time,
 o-o
-inheritence,
-o-o
-nepotism,
-o-o
-bribery,
-o-o
-and trading
-o-o
-favors
-o-o
-were the basis
+the basis
 o-o
 for hiring
 o-o
-in Europe.
+elsewhere was
+o-o
+inheritence.
+sentence-next
+o-o
+And nepotism.
 end-lyric
 
 ambee sings-damien amenn
