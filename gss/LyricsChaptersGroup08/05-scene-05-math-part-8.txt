@@ -245,9 +245,7 @@ o-o
 contests.
 sentence-next
 o-o
-Significantly
-o-o
-that pairwise
+That pairwise
 o-o
 counting process
 o-o
@@ -525,18 +523,35 @@ lots of money
 o-o
 is given to
 o-o
-people who
+organizations
 o-o
-misrepresent
+that criticize
 o-o
 ranked choice
 o-o
 voting.
 sentence-next
 o-o
-Such as pointing
+Those critics
 o-o
-to high rates
+claim that
+o-o
+ranked choice
+o-o
+ballots
+o-o
+are difficult
+o-o
+for voters
+o-o
+to mark.
+sentence-next
+o-o
+As evidence
+o-o
+those critics
+o-o
+point to high rates
 o-o
 of spoiled
 o-o
@@ -546,33 +561,18 @@ in historical
 o-o
 elections
 o-o
-where they
+where so hyphen-here called
 o-o
-didn't bother
+overvotes
 o-o
-to correctly count
+were interpreted
 o-o
-so hyphen-here called
+as voter
 o-o
-overvotes.
+confusion.
 sentence-next
 o-o
-And claiming
-o-o
-that means
-o-o
-they're difficult
-o-o
-for voters
-o-o
-to mark.
-sentence-next
-o-o
-Another
-o-o
-misrepresentation
-o-o
-is pointing out
+Of course
 o-o
 the two failures
 o-o
@@ -580,26 +580,33 @@ in Burlington
 o-o
 and Alaska
 o-o
-without mentioning
+are criticized.
+sentence-next
+o-o
+Without mentioning
 o-o
 those failures
 o-o
-are easy
+do not arise
 o-o
-to avoid
+if pairwise
 o-o
-by eliminating
-o-o
-pairwise losing
+losing
 o-o
 candidates
 o-o
-when they occur.
+are eliminated
+o-o
+with a higher
+o-o
+priority.
 sentence-next
 o-o
 And some
 o-o
-paid critics
+money hyphen-here backed
+o-o
+organizations
 o-o
 claim that
 o-o

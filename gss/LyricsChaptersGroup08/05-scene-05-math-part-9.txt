@@ -362,12 +362,9 @@ decimal point
 o-o
 right by
 o-o
-two places.
-sentence-next
+two places,
 o-o
-That slick trick
-o-o
-makes numbers
+to make numbers
 o-o
 between
 o-o

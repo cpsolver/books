@@ -274,7 +274,7 @@ o-o
 feedback loop.
 sentence-next
 o-o
-Which includes
+This loop includes
 o-o
 news sources,
 o-o
@@ -337,6 +337,17 @@ o-o
 resources.
 end-lyric
 
+ambee sings-damien amenn
+Even I know
+o-o
+dog poop
+o-o
+isn't valuable.
+sentence-next
+o-o
+Or limited.
+end-lyric
+
 ambee sings-desha amenn
 In a dog owner
 o-o
@@ -367,11 +378,11 @@ o-o
 Wait a moment.
 sentence-next
 o-o
-Are feedback
+I think feedback
 o-o
 loops
 o-o
-what rich
+are what rich
 o-o
 business owners
 o-o
@@ -379,7 +390,7 @@ exploit to get
 o-o
 oversized slices
 o-o
-of economic pie?
+of economic pie!
 sentence-next
 o-o
 The meat kind.
@@ -388,40 +399,25 @@ o-o
 They use lawyers.
 sentence-next
 o-o
-And they control
+They control
 o-o
 news sources.
 sentence-next
 o-o
-And they use money
+They control
 o-o
-to exploit
+politicians
 o-o
-elections
+by exploiting
 o-o
-in ways that
+our primitive
 o-o
-control
+election
 o-o
-politicians.
+system.
 sentence-next
 o-o
-They use
-o-o
-feedback loops
-o-o
-to give themselves
-o-o
-bigger
-o-o
-and bigger
-o-o
-slices of
-o-o
-savory pie.
-sentence-next
-o-o
-And they don't
+They don't
 o-o
 give a damn
 o-o
@@ -430,6 +426,19 @@ o-o
 people
 o-o
 suffering.
+sentence-next
+o-o
+This feedback loop
+o-o
+gives them
+o-o
+bigger
+o-o
+and bigger
+o-o
+slices of
+o-o
+savory pie!
 sentence-next
 o-o
 No wonder

@@ -357,7 +357,13 @@ ambee sings-econhist amenn
 Indeed.
 sentence-next
 o-o
-They adopted
+People throughout
+o-o
+what we now
+o-o
+call China
+o-o
+adopted
 o-o
 a single writing
 o-o
@@ -366,66 +372,45 @@ sentence-next
 o-o
 That allowed
 o-o
-people throughout
-o-o
-what we now
-o-o
-call China
-o-o
-to understand
-o-o
-each other
+communication
 o-o
 through writing,
 o-o
-even though
+without needing
 o-o
-they cannot
-o-o
-understand
+to understand
 o-o
 each other's
 o-o
 spoken language.
 sentence-next
 o-o
-Also it allowed
+In turn,
+o-o
+that enabled
 o-o
 emperors
 o-o
-to find the
+to fill
 o-o
-smartest
+government jobs
 o-o
-people to fill
+with the smartest
 o-o
-government jobs,
-o-o
-based on exams
-o-o
-about
-o-o
-familiarity
-o-o
-with wise written
-o-o
-documents.
+scholars.
 sentence-next
 o-o
 In contrast,
 o-o
-at that time,
+elsewhere
 o-o
-the basis
+around the world,
 o-o
-for hiring
+hiring
 o-o
-elsewhere was
+was based on
 o-o
-inheritence.
-sentence-next
-o-o
-And nepotism.
+nepotism.
 end-lyric
 
 ambee sings-damien amenn
@@ -935,18 +920,13 @@ end-lyric
 ambee sings-damien amenn
 Has that happened
 o-o
-when ranked choice
+where ranked choice
 o-o
-ballots were used?
+ballots are used?
 end-lyric
 
 ambee sings-econhist amenn
-Not really.
-sentence-next
-o-o
-So far
-o-o
-ranked choice
+Ranked choice
 o-o
 ballots
 o-o
@@ -956,53 +936,44 @@ been used to
 o-o
 elect state
 o-o
-legislators.
+legislators
+o-o
+in ways that
+o-o
+yield
+o-o
+proportional
+o-o
+representation.
 sentence-next
 o-o
-Yet that's who
+The biggest
 o-o
-has control
+overdue
 o-o
-over laws and
+legal reforms
 o-o
-taxes.
-sentence-next
+can't happen
 o-o
-Those are what
+until that
 o-o
-need to be
+election
 o-o
-reformed
+reform
 o-o
-the most.
+has happened.
 end-lyric
 
-ambee sings-econhist amenn
-Now,
+ambee sings-damien amenn
+What are the
 o-o
-finally,
+biggest
 o-o
-you're almost
+overdue
 o-o
-ready to
-o-o
-understand
-o-o
-a very
-o-o
-effective
-o-o
-way for an
-o-o
-uncorrupt
-o-o
-government
-o-o
-to increase
-o-o
-prosperity
-o-o
-for nearly
-o-o
-everyone.
+legal reforms?
+end-lyric
+
+ambee sings-desha amenn
+I wanna know too!
 end-lyric

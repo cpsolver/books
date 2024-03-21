@@ -1,9 +1,5 @@
 ambee put-into-phrase lyric-number 0670000 amenn
 
-ambee sings-desha amenn
-Bring it on!
-end-lyric
-
 ambee sings-econhist amenn
 First,
 o-o
@@ -23,15 +19,19 @@ communication?
 end-lyric
 
 ambee sings-damien amenn
-Voters try to
+As voters,
 o-o
-use our ballot
+we try to vote
 o-o
-to say we want
+to say
 o-o
-more of this,
+we want
 o-o
-and less of that.
+to drain
+o-o
+DC's swamp
+o-o
+of corruption.
 sentence-next
 o-o
 But with
@@ -42,42 +42,48 @@ voting,
 o-o
 politicians
 o-o
-might as well
+are deaf.
+sentence-next
 o-o
-be deaf.
+Except to the sound
+o-o
+of campaign
+o-o
+contributions.
 end-lyric
 
 ambee sings-desha amenn
 I see that
 o-o
-laws and taxes
+taxes
 o-o
 steer us toward
 o-o
-staying sober,
+buying a farm
 o-o
-buying a farm,
+and
 o-o
-and getting
-o-o
-pregnant.
+getting pregnant.
 sentence-next
 o-o
-Wall Street
+Jail time
 o-o
-executives
+tells us to
 o-o
-never going
+not drive
 o-o
-to jail
+while drunk.
+sentence-next
 o-o
-certainly
+And to get a job
 o-o
-gives a thumbs up
+on Wall Street
 o-o
-to financial
+for those who want
 o-o
-corruption.
+to steal
+o-o
+legally.
 end-lyric
 
 ambee sings-econhist amenn
@@ -269,11 +275,16 @@ Right?
 end-lyric
 
 ambee sings-econhist amenn
-In general the
+Yes.
+sentence-next
 o-o
-spectrum from
+The map
 o-o
-makers to takers
+that goes from
+o-o
+makers
+o-o
+to takers
 o-o
 starts with
 o-o
@@ -458,11 +469,14 @@ economy
 o-o
 and send it to
 o-o
-their headquarters,
+their headquarters.
+sentence-next
 o-o
-so they are not
+Also they do more
 o-o
-maker
+heating and
 o-o
-businesses.
+dispensing
+o-o
+than cooking.
 end-lyric

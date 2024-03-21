@@ -359,9 +359,7 @@ o-o
 Microsoft.
 sentence-next
 o-o
-And I know
-o-o
-Musk hires
+I know Musk hires
 o-o
 lots of smart
 o-o
@@ -370,7 +368,13 @@ sentence-next
 o-o
 And Nikola
 o-o
-Tesla helped
+Tesla was a
+o-o
+creative
+o-o
+genius
+o-o
+who helped
 o-o
 some business
 o-o

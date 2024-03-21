@@ -128,6 +128,68 @@ o-o
 education.
 end-lyric
 
+ambee sings-econhist amenn
+Often overlooked
+o-o
+is the conflict
+o-o
+between businesses.
+sentence-next
+o-o
+Each time a
+o-o
+marketplace
+o-o
+vendor
+o-o
+cheated a
+o-o
+customer,
+o-o
+that loss
+o-o
+carried over
+o-o
+to another
+o-o
+vendor
+o-o
+who sells less.
+sentence-next
+o-o
+Because that
+o-o
+customer
+o-o
+has less wealth.
+sentence-next
+o-o
+Reducing
+o-o
+that cheating
+o-o
+was yet
+o-o
+another
+o-o
+Roman
+o-o
+innovation.
+sentence-next
+o-o
+That efficiency
+o-o
+involved
+o-o
+coins,
+o-o
+standard weights,
+o-o
+inspectors,
+o-o
+and soldiers.
+end-lyric
+
 ambee sings-damien amenn
 So if efficiency
 o-o
@@ -167,26 +229,33 @@ o-o
 oversimplify.
 sentence-next
 o-o
-After the years of
+Part of Rome's
 o-o
-good governance
+success
 o-o
-and
+was good
 o-o
-prosperity,
+governance.
+sentence-next
+o-o
+But over time,
 o-o
 new kinds of
 o-o
 corruption grew.
 sentence-next
 o-o
-And they ran out of
+Very importantly
+o-o
+they ran out of
 o-o
 distant places
 o-o
-conquer
+to conquer
 o-o
-and plunder.
+and plunder
+o-o
+and tax.
 sentence-next
 o-o
 And those

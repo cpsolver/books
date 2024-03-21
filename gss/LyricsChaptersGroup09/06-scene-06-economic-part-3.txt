@@ -606,7 +606,7 @@ o-o
 stores.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-econhist amenn
 And soldiers
 o-o
 patrolled
@@ -655,54 +655,7 @@ right?
 end-lyric
 
 ambee sings-econhist amenn
-Do you see
-o-o
-that less waste
-o-o
-yields efficiency
-o-o
-and increased
-o-o
-productivity,
-o-o
-which yields
-o-o
-greater
-o-o
-economic
-o-o
-prosperity?
-end-lyric
-
-ambee sings-damien amenn
 Yes.
-sentence-next
-o-o
-That will be
-o-o
-widespread
-o-o
-prosperity,
-o-o
-right?
-end-lyric
-
-ambee sings-desha amenn
-Not just for 
-o-o
-the filthy rich,
-o-o
-right?
-end-lyric
-
-ambee sings-econhist amenn
-Yes,
-o-o
-that fits the
-o-o
-pattern of
-o-o
-history.
 sentence-next
 o-o
 Another

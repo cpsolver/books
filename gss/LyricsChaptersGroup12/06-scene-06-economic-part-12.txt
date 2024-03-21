@@ -323,7 +323,23 @@ yet more.
 end-lyric
 
 ambee sings-desha amenn
-At a big salary!
+So it's like
+o-o
+graduate school
+o-o
+for inventors.
+sentence-next
+o-o
+First you work
+o-o
+for almost free.
+sentence-next
+o-o
+Then you get hired
+o-o
+at a big
+o-o
+salary!
 end-lyric
 
 ambee sings-damien amenn
