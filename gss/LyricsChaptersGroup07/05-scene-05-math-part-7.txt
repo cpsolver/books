@@ -296,34 +296,9 @@ But in
 o-o
 Australia
 o-o
-they've been using
+they call that
 o-o
-paper ballots
-o-o
-and instant runoff
-o-o
-voting for
-o-o
-many decades,
-o-o
-although under
-o-o
-a different
-o-o
-name.
-sentence-next
-o-o
-Long before
-o-o
-computer
-o-o
-technology
-o-o
-and pairwise
-o-o
-vote counting
-o-o
-were an option.
+an begin-italics overvote end-italics no-space .
 sentence-next
 o-o
 Their ballots
@@ -343,34 +318,31 @@ o-o
 in each box.
 sentence-next
 o-o
+So an overvote
+o-o
+is when a voter
+o-o
+writes the
+o-o
+same number
+o-o
+more than once.
+sentence-next
+o-o
 Counting those
 o-o
-by hand
+ballots by hand
 o-o
 on election night
 o-o
 was a lot of work.
 sentence-next
 o-o
-So they created
+So when counting
 o-o
-a shortcut.
-sentence-next
+reached an
 o-o
-They called that
-o-o
-ranking pattern
-o-o
-an begin-italics overvote end-italics no-space .
-sentence-next
-o-o
-When
-o-o
-counting
-o-o
-reached
-o-o
-an overvote,
+overvote,
 o-o
 they tossed
 o-o

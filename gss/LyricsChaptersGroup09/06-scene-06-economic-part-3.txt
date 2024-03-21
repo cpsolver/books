@@ -382,7 +382,7 @@ o-o
 fall?
 sentence-next
 o-o
-Except that
+Except this
 o-o
 kind of falling
 o-o
@@ -548,122 +548,27 @@ example.
 end-lyric
 
 ambee sings-econhist amenn
-Consider the
+Consider
 o-o
-Roman empire.
+ancient Rome.
 sentence-next
 o-o
-They wrote laws
-o-o
-to control
-o-o
-business and
-o-o
-commerce.
-sentence-next
-o-o
-They used
-o-o
-soldiers and
-o-o
-inspectors
-o-o
-and courts
-o-o
-to enforce
-o-o
-those laws.
-sentence-next
-o-o
-An especially
-o-o
-important
-o-o
-innovation
-o-o
-was to set
-o-o
-standards for
-o-o
-weights and sizes.
-sentence-next
-o-o
-They built roads
-o-o
-and patrolled them
-o-o
-with soldiers.
-sentence-next
-o-o
-And they built
+They built
 o-o
 aqueducts
 o-o
-to channel water
+to channel
 o-o
-to cities.
+water into
+o-o
+the city.
 sentence-next
 o-o
-All of that
+As a result,
 o-o
-greatly increased
+Romans
 o-o
-the efficiency
-o-o
-of their economy.
-end-lyric
-
-ambee sings-damien amenn
-Huh?
-sentence-next
-o-o
-Economic
-o-o
-efficiency?
-end-lyric
-
-ambee sings-econhist amenn
-Economic
-o-o
-efficiency
-o-o
-means something
-o-o
-different.
-sentence-next
-o-o
-Here I'm talking
-o-o
-about efficiency
-o-o
-as a general
-o-o
-concept,
-o-o
-where profits
-o-o
-go up
-o-o
-when costs
-o-o
-go down.
-sentence-next
-o-o
-And there's
-o-o
-less waste.
-end-lyric
-
-ambee sings-desha amenn
-Ah,
-o-o
-costs went down
-o-o
-when those
-o-o
-Romans wasted
-o-o
-less time
+wasted less time
 o-o
 being sick
 o-o
@@ -680,9 +585,15 @@ o-o
 waste time
 o-o
 carrying.
+end-lyric
+
+ambee sings-desha amenn
+Also they built
+o-o
+better roads.
 sentence-next
 o-o
-And they wasted
+Then they wasted
 o-o
 less money at
 o-o
@@ -692,125 +603,49 @@ Flaming
 o-o
 Cartwheel
 o-o
-stores
-o-o
-because of
-o-o
-better roads.
-end-lyric
-
-ambee sings-econhist amenn
-And there was
-o-o
-less cheating.
-sentence-next
-o-o
-Those inspectors,
-o-o
-backed up by
-o-o
-soldiers,
-o-o
-made sure that
-o-o
-merchants
-o-o
-didn't use
-o-o
-lighter weights
-o-o
-to measure
-o-o
-what they sell,
-o-o
-and heavier weights
-o-o
-to measure what
-o-o
-the customer
-o-o
-pays in
-o-o
-silver or gems
-o-o
-or grain.
-sentence-next
-o-o
-That was a big
-o-o
-kind of corruption
-o-o
-in those days.
+stores.
 end-lyric
 
 ambee sings-desha amenn
 And soldiers
 o-o
-patrolling
+patrolled
 o-o
-the better roads
+the better roads,
 o-o
-meant there
-o-o
-was less
+so there was less
 o-o
 highway
 o-o
-robbery
-o-o
-by bad
+robbery.
+end-lyric
+
+ambee sings-desha amenn
+By bad
 o-o
 Samaritans.
 end-lyric
 
 ambee sings-damien amenn
-Less time wasted.
+Less time 
+o-o
+and money
+o-o
+wasted.
 sentence-next
 o-o
-Less stealing.
-sentence-next
-o-o
-Less corruption.
+Less robbery.
 sentence-next
 o-o
 Slower highways.
 sentence-next
 o-o
 Got it.
-end-lyric
-
-ambee sings-desha amenn
-Ah,
-o-o
-corruption
-o-o
-is like tying
-o-o
-left and right
-o-o
-shoelaces together.
 sentence-next
 o-o
-It
+That means
 o-o
-suppresses
-o-o
-successful
-o-o
-progress.
-end-lyric
-
-ambee sings-damien amenn
-This is making
-o-o
-sense to me.
-sentence-next
-o-o
-Less crime and
-o-o
-corruption
-o-o
-means there's more time
+there's more time
 o-o
 for construction
 o-o
@@ -820,23 +655,29 @@ right?
 end-lyric
 
 ambee sings-econhist amenn
-Yes.
-sentence-next
+Do you see
 o-o
-More efficiency
+that less waste
 o-o
-and more
+yields efficiency
 o-o
-productivity
+and increased
 o-o
-yield more
+productivity,
+o-o
+which yields
+o-o
+greater
 o-o
 economic
 o-o
-prosperity.
+prosperity?
 end-lyric
 
 ambee sings-damien amenn
+Yes.
+sentence-next
+o-o
 That will be
 o-o
 widespread

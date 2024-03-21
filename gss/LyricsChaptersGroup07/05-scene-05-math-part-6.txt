@@ -679,12 +679,12 @@ division.
 end-lyric
 
 ambee sings-damien amenn
+Sweet!
+sentence-next
+o-o
 Divide and
 o-o
 conquer!
-sentence-next
-o-o
-Sweet!
 end-lyric
 
 ambee sings-mathprof amenn

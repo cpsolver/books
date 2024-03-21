@@ -106,167 +106,6 @@ future now.
 end-lyric
 
 ambee sings-damien amenn
-And I bet
-o-o
-there would be
-o-o
-fewer labor
-o-o
-strikes,
-o-o
-right?
-sentence-next
-o-o
-That would
-o-o
-further increase
-o-o
-efficiency.
-end-lyric
-
-ambee sings-econhist amenn
-You're the one
-o-o
-who is brilliant
-o-o
-now.
-sentence-next
-o-o
-Also it will
-o-o
-better reward
-o-o
-employees
-o-o
-who make life
-o-o
-better for
-o-o
-customers,
-o-o
-clients, and
-o-o
-patients.
-sentence-next
-o-o
-Instead of
-o-o
-mostly
-o-o
-increasing
-o-o
-financial
-o-o
-income to
-o-o
-shareholders.
-sentence-next
-o-o
-And owners and
-o-o
-managers.
-sentence-next
-o-o
-Plus,
-o-o
-lower hyphen-here paid
-o-o
-employees
-o-o
-tend to spend
-o-o
-more money
-o-o
-locally.
-sentence-next
-o-o
-Whereas
-o-o
-higher hyphen-here wage
-o-o
-managers
-o-o
-transfer
-o-o
-more money
-o-o
-to distant places.
-sentence-next
-o-o
-Like 
-o-o
-Disneyland,
-o-o
-Paris,
-o-o
-cyberspace,
-o-o
-and
-o-o
-outer space.
-end-lyric
-
-ambee sings-desha amenn
-Women
-o-o
-will spend
-o-o
-the money less
-o-o
-selfishly.
-sentence-next
-o-o
-They'll use it
-o-o
-to benefit
-o-o
-their family.
-sentence-next
-o-o
-And their
-o-o
-community.
-end-lyric
-
-ambee sings-damien amenn
-And their
-o-o
-favorite
-o-o
-local
-o-o
-hair salon.
-end-lyric
-
-ambee sings-econhist amenn
-Here's another
-o-o
-advantage.
-sentence-next
-o-o
-Smaller wage gaps
-o-o
-will reduce
-o-o
-the size of
-o-o
-government
-o-o
-handouts.
-sentence-next
-o-o
-The charity
-o-o
-ones that
-o-o
-Republicans
-o-o
-love to
-o-o
-complain about.
-end-lyric
-
-ambee sings-damien amenn
 Finally!
 sentence-next
 o-o
@@ -286,7 +125,26 @@ o-o
 of the month.
 end-lyric
 
+ambee sings-econhist amenn
+If you want
+o-o
+to learn yet more
+o-o
+advantages
+o-o
+of this wage gap
+o-o
+tax break,
+o-o
+I can send
+o-o
+you a link.
+end-lyric
+
 ambee sings-desha amenn
+Please do!
+sentence-next
+o-o
 What other
 o-o
 solutions
@@ -593,20 +451,13 @@ o-o
 others.
 sentence-next
 o-o
-Do want me to send
+Shall I send
 o-o
-those links?
+those links too?
 end-lyric
 
 ambee sings-desha amenn
 Please!
-sentence-next
-o-o
-I can translate
-o-o
-them for
-o-o
-name-damien no-space .
 end-lyric
 
 ambee sings-damien amenn
@@ -725,47 +576,39 @@ Bad ones.
 end-lyric
 
 ambee sings-econhist amenn
-A plus again!
-end-lyric
-
-ambee sings-damien amenn
-So there's lots
-o-o
-of feedback loops
-o-o
-blockin' progress.
+Indeed.
 sentence-next
 o-o
-What's the
+I suggest you
 o-o
-feedback loop
+look for a way
 o-o
-that blocks us
+to break the bad
 o-o
-from election
+feedback loops
 o-o
-reform?
-end-lyric
-
-ambee sings-econhist amenn
-There are many.
+that block fairer
+o-o
+voting.
 sentence-next
 o-o
-As you've discovered,
+Drill a hole through
 o-o
-vote splitting
+the dam that
 o-o
-is just one part
+holds back
 o-o
-of a bad
+the flood of
 o-o
-feedback loop
+fairness and
 o-o
-that keeps owners
+economic
 o-o
-of many big
+prosperity
 o-o
-businesses
+that
 o-o
-in political power.
+civilization
+o-o
+is waiting for.
 end-lyric

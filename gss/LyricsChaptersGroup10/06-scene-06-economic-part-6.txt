@@ -932,244 +932,49 @@ o-o
 of winning.
 end-lyric
 
-
+ambee sings-damien amenn
+Has that happened
+o-o
+when ranked choice
+o-o
+ballots were used?
+end-lyric
 
 ambee sings-econhist amenn
-Anyway,
-o-o
-presidents
-o-o
-and governors
-o-o
-are supposed to
-o-o
-mainly enforce
-o-o
-laws passed in
-o-o
-Congress and
-o-o
-state legislatures.
+Not really.
 sentence-next
 o-o
-Yet laws are what
+So far
+o-o
+ranked choice
+o-o
+ballots
+o-o
+have not yet
+o-o
+been used to
+o-o
+elect state
+o-o
+legislators.
+sentence-next
+o-o
+Yet that's who
+o-o
+has control
+o-o
+over laws and
+o-o
+taxes.
+sentence-next
+o-o
+Those are what
 o-o
 need to be
 o-o
 reformed
 o-o
 the most.
-end-lyric
-
-ambee sings-desha amenn
-That's where
-o-o
-tax reforms
-o-o
-come from.
-end-lyric
-
-ambee sings-econhist amenn
-As a word
-o-o
-of warning,
-o-o
-lots of those who
-o-o
-fight against
-o-o
-corruption
-o-o
-get further
-o-o
-oppressed.
-sentence-next
-o-o
-Or killed.
-sentence-next
-o-o
-Do you know about
-o-o
-the Marquis
-o-o
-de Condorcet?
-end-lyric
-
-ambee sings-damien amenn
-I remember
-o-o
-his name
-o-o
-rhymes with
-o-o
-lingerie,
-o-o
-and he's
-o-o
-related to
-o-o
-pairwise
-o-o
-vote counting.
-end-lyric
-
-ambee sings-econhist amenn
-In addition
-o-o
-to expressing
-o-o
-progressive
-o-o
-views about
-o-o
-opposing
-o-o
-slavery,
-o-o
-and women
-o-o
-also being
-o-o
-allowed to vote,
-o-o
-he wrote
-o-o
-criticisms
-o-o
-of the French
-o-o
-politicians
-o-o
-in power.
-sentence-next
-o-o
-So they put him
-o-o
-in prison,
-o-o
-where he died
-o-o
-before they could
-o-o
-chop off his head
-o-o
-with the
-o-o
-newly invented
-o-o
-guillotine.
-sentence-next
-o-o
-That level
-o-o
-of cruelty
-o-o
-doesn't happen
-o-o
-anymore.
-sentence-next
-o-o
-Except in
-o-o
-China.
-sentence-next
-And North
-o-o
-Korea.
-sentence-next
-o-o
-And in Russia
-o-o
-where critics of
-o-o
-Vladimir
-o-o
-Putin
-o-o
-have a
-o-o
-remarkable
-o-o
-statistical
-o-o
-correlation
-o-o
-with falling
-o-o
-to their death
-o-o
-from high
-o-o
-windows.
-end-lyric
-
-ambee sings-damien amenn
-Thanks for
-o-o
-the warning.
-sentence-next
-o-o
-I'll stay away
-o-o
-from high hyphen-here up
-o-o
-windows.
-end-lyric
-
-ambee sings-desha amenn
-Jail cells
-o-o
-and cars
-o-o
-are other
-o-o
-favorite
-o-o
-spots for
-o-o
-wiping out
-o-o
-political
-o-o
-enemies.
-end-lyric
-
-ambee sings-econhist amenn
-Fortunately
-o-o
-cruelty
-o-o
-has been
-o-o
-declining
-o-o
-at the same time
-o-o
-as corruption.
-end-lyric
-
-ambee sings-desha amenn
-Now cruelty
-o-o
-pops up on
-o-o
-Twitter,
-o-o
-in reality
-o-o
-TV,
-o-o
-at convenience
-o-o
-stores on
-o-o
-Saturday nights,
-o-o
-and every day
-o-o
-on school
-o-o
-playgrounds.
 end-lyric
 
 ambee sings-econhist amenn

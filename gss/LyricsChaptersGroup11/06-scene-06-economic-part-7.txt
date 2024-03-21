@@ -403,25 +403,24 @@ ambee sings-damien amenn
 I like it.
 sentence-next
 o-o
-Yet my friend
+It would benefit
 o-o
-who wants to start
+the business
 o-o
-a restaurant
+I want to
 o-o
-wouldn't get
+create.
+sentence-next
 o-o
-the tax break,
+Would it also
 o-o
-even though
+benefit
 o-o
-what he cooks
+my friend who
 o-o
-would be valuable
+wants to start a
 o-o
-to wealthy
-o-o
-supertasters.
+restaurant?
 end-lyric
 
 ambee sings-econhist amenn
@@ -457,8 +456,13 @@ from the local
 o-o
 economy
 o-o
-and sends it to
+and send it to
 o-o
-their headquarters.
+their headquarters,
+o-o
+so they are not
+o-o
+maker
+o-o
+businesses.
 end-lyric
-

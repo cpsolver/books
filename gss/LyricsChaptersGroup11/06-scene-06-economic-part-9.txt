@@ -179,16 +179,22 @@ o-o
 experience.
 end-lyric
 
-ambee sings-econhist amenn
-The government
+ambee sings-damien amenn
+Why doesn't
 o-o
-also measures
+the government
 o-o
-the actual
+measure the
+o-o
+actual
 o-o
 unemployment
 o-o
-rate.
+rate?
+end-lyric
+
+ambee sings-econhist amenn
+They do.
 sentence-next
 o-o
 But news sources
@@ -199,51 +205,19 @@ end-lyric
 ambee sings-desha amenn
 Ah,
 o-o
-if news sources
+the government
 o-o
-reported
+is being
 o-o
-the higher
-o-o
-unemployment
-o-o
-rate
-o-o
-they would earn
-o-o
-less money
-o-o
-from advertisers.
-sentence-next
-o-o
-Because
-o-o
-consumers
-o-o
-would hang on
-o-o
-to their dollars
-o-o
-more tightly.
-end-lyric
-
-ambee sings-damien amenn
-I thought it was
-o-o
-just the
-o-o
-government
-o-o
-being sneaky.
+sneaky.
 end-lyric
 
 ambee sings-econhist amenn
-It's both.
-sentence-next
+Both governments
 o-o
-The government
+and news sources
 o-o
-knows if they
+know if they
 o-o
 call attention
 o-o
@@ -298,6 +272,17 @@ o-o
 powerful
 o-o
 feedback loop.
+sentence-next
+o-o
+Which includes
+o-o
+news sources,
+o-o
+which earn
+o-o
+their income
+o-o
+by selling ads.
 end-lyric
 
 ambee sings-damien amenn

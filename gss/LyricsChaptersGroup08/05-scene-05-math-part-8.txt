@@ -119,7 +119,7 @@ sentence-next
 o-o
 The statewide seats
 o-o
-are needed
+also are needed
 o-o
 to yield
 o-o
@@ -192,25 +192,18 @@ six people
 o-o
 sitting at a
 o-o
-long table.
-sentence-next
+long table
 o-o
-Each of those
+and doing
 o-o
-counters
-o-o
-looks at each
-o-o
-ballot and then
-o-o
-passes it on
-o-o
-to the next
-o-o
-counter.
+the counting.
 sentence-next
 o-o
 Each counter
+o-o
+looks at each
+o-o
+ballot,
 o-o
 does a tally
 o-o
@@ -220,7 +213,13 @@ specific
 o-o
 pair of
 o-o
-candidates.
+candidates,
+o-o
+and passes it
+o-o
+to the next
+o-o
+counter.
 sentence-next
 o-o
 When the counting
@@ -543,18 +542,37 @@ of spoiled
 o-o
 ballots
 o-o
-in elections
+in historical
 o-o
-that don't count
+elections
+o-o
+where they
+o-o
+didn't bother
+o-o
+to correctly count
 o-o
 so hyphen-here called
 o-o
 overvotes.
 sentence-next
 o-o
-And of course
+And claiming
 o-o
-pointing out
+that means
+o-o
+they're difficult
+o-o
+for voters
+o-o
+to mark.
+sentence-next
+o-o
+Another
+o-o
+misrepresentation
+o-o
+is pointing out
 o-o
 the two failures
 o-o
@@ -579,9 +597,9 @@ o-o
 when they occur.
 sentence-next
 o-o
-And some of those
+And some
 o-o
-critics
+paid critics
 o-o
 claim that
 o-o
@@ -661,7 +679,15 @@ election.
 end-lyric
 
 ambee sings-damien amenn
-So the counting
+I'm seeing that
+o-o
+ranked choice
+o-o
+ballots are
+o-o
+great,
+o-o
+but the counting
 o-o
 method matters.
 end-lyric
@@ -757,9 +783,11 @@ plurality voting,
 o-o
 what we use now,
 o-o
-just looks at
+just looks down
 o-o
-the blocks on top.
+on the blocks
+o-o
+from the top.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -772,7 +800,9 @@ o-o
 the top blocks.
 sentence-next
 o-o
-But then the one
+But then
+o-o
+the color
 o-o
 that appears
 o-o
@@ -1040,7 +1070,7 @@ mind hearing a
 o-o
 percentage,
 o-o
-the counting
+this counting
 o-o
 guarantees
 o-o
@@ -1069,5 +1099,13 @@ plurality.
 end-lyric
 
 ambee sings-damien amenn
-Now are we done?
+My ears don't hurt.
+sentence-next
+o-o
+But my brain
+o-o
+is melting.
+sentence-next
+o-o
+Are we done?
 end-lyric
