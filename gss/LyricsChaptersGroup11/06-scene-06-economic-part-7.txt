@@ -55,34 +55,46 @@ o-o
 of campaign
 o-o
 contributions.
-sentence-next
+end-lyric
+
+ambee sings-damien amenn
+As for tax breaks,
 o-o
-Tax breaks
+they try to
 o-o
-persuade us
+lure us into
 o-o
-to get married,
+getting married,
 o-o
-get pregnant,
+raising children,
 o-o
-and buy a farm.
-sentence-next
+and buying
 o-o
-Protection from
+a farm.
+end-lyric
+
+ambee sings-desha amenn
+And Wall Street
 o-o
-jail time
+employees
 o-o
-persuades
+never going
+o-o
+to jail
+o-o
+attracts
 o-o
 wannabe thieves
 o-o
-to find work on
+to that
 o-o
-Wall Street.
+profession.
 end-lyric
 
 ambee sings-econhist amenn
-That's the idea.
+That's the
+o-o
+general idea.
 sentence-next
 o-o
 Now consider
@@ -467,9 +479,14 @@ o-o
 and send it to
 o-o
 their headquarters.
-sentence-next
+end-lyric
+
+ambee sings-desha amenn
+And those
 o-o
-Also they do more
+chain food places
+o-o
+do more
 o-o
 heating and
 o-o

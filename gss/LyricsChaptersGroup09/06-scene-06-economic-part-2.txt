@@ -267,9 +267,9 @@ end-lyric
 ambee sings-damien amenn
 Yet he blames
 o-o
-immigrants
+racial
 o-o
-and blacks
+minorities
 o-o
 and women
 o-o
@@ -335,7 +335,7 @@ factories.
 end-lyric
 
 ambee sings-econhist amenn
-A plus!
+Brilliant!
 end-lyric
 
 ambee sings-damien amenn

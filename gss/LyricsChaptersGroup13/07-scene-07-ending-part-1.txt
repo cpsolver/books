@@ -96,6 +96,7 @@ end-lyric
 
 ambee sings-minister amenn
 Bingo!
+sentence-next
 o-o
 I mean,
 o-o

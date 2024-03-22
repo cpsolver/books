@@ -146,15 +146,24 @@ from working hard?
 end-lyric
 
 ambee sings-econhist amenn
-What many people
+Wages are
 o-o
-overlook is that
+determined by
 o-o
-the unemployment
+supply and demand,
 o-o
-rate
+which is partly
 o-o
-that's in the news
+measured by the
+o-o
+unemployment rate.
+sentence-next
+o-o
+Yet the
+o-o
+unemployment
+o-o
+rate in the news
 o-o
 just counts people
 o-o
@@ -272,17 +281,6 @@ o-o
 powerful
 o-o
 feedback loop.
-sentence-next
-o-o
-This loop includes
-o-o
-news sources,
-o-o
-which earn
-o-o
-their income
-o-o
-by selling ads.
 end-lyric
 
 ambee sings-damien amenn

@@ -568,17 +568,30 @@ o-o
 confusion.
 sentence-next
 o-o
-Of course critics
+Of course
 o-o
-point to the
+the critics
 o-o
-two failures
+neglect to mention
+o-o
+that a software
+o-o
+upgrade can
+o-o
+correctly
+o-o
+count those marks.
+sentence-next
+o-o
+The two failures
 o-o
 in Burlington
 o-o
-and Alaska,
+and Alaska
 o-o
-but without
+are brought up
+o-o
+without
 o-o
 mentioning
 o-o
@@ -621,51 +634,47 @@ better?
 end-lyric
 
 ambee sings-mathprof amenn
-Score ballots
+Among friends,
 o-o
-collect more
+where honesty
 o-o
-information.
+can be monitored,
+o-o
+score ballots
+o-o
+collect useful
+o-o
+information
+o-o
+about a voter's
+o-o
+strength of
+o-o
+preference.
 sentence-next
 o-o
-In a book club
+But they don't work
 o-o
-where money
-o-o
-is not involved,
-o-o
-that information
-o-o
-can be used
-o-o
-wisely if
-o-o
-everyone votes
-o-o
-honestly.
-sentence-next
-o-o
-But they
-o-o
-don't work for
-o-o
-general
+in general
 o-o
 elections
 o-o
-where a voter
+for governors,
 o-o
-can get extra
+presidents,
 o-o
-influence by
+and mayors.
+sentence-next
 o-o
-exaggerating
+That's because
 o-o
-the strength
+score ballots are
 o-o
-of their
+vulnerable
 o-o
-preferences.
+to voters who
+o-o
+exaggerate.
 sentence-next
 o-o
 Similar to
@@ -673,6 +682,16 @@ o-o
 the clapping
 o-o
 tactic.
+end-lyric
+
+ambee sings-desha amenn
+Drama queens
+o-o
+already get
+o-o
+too much
+o-o
+attention.
 end-lyric
 
 ambee sings-damien amenn

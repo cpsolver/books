@@ -24,35 +24,7 @@ of innovation.
 end-lyric
 
 ambee sings-damien amenn
-I know that
-o-o
-people who
-o-o
-believe in
-o-o
-Islam
-o-o
-are called
-o-o
-Muslims.
-sentence-next
-o-o
-And that
-o-o
-Muslims and
-o-o
-Christians
-o-o
-have been
-o-o
-fighting
-o-o
-for centuries.
-sentence-next
-o-o
-But what does
-o-o
-Islam
+What does Islam
 o-o
 have to do with
 o-o
@@ -79,21 +51,16 @@ o-o
 and northern
 o-o
 Africa.
-sentence-next
-o-o
-That also spread
-o-o
-the Arabic
-o-o
-language.
 end-lyric
 
 ambee sings-desha amenn
-Because their
-o-o
-holy book,
+Their holy book,
 o-o
 the Qur'an,
+o-o
+written in
+o-o
+Arabic,
 o-o
 isn't translated
 o-o
@@ -108,22 +75,24 @@ Bible.
 end-lyric
 
 ambee sings-econhist amenn
-Having a single
+Those huge regions,
 o-o
-language
+all reading
+o-o
+and writing
+o-o
+Arabic,
 o-o
 gave that empire
-o-o
-an additional
 o-o
 efficiency.
 sentence-next
 o-o
-One of the
+On top of that,
 o-o
-leaders of that
+one of their
 o-o
-Islamic empire,
+leaders,
 o-o
 Harun al hyphen-here Rashid,
 o-o
@@ -184,8 +153,6 @@ gave Muslims
 o-o
 economic
 o-o
-strength and
-o-o
 prosperity.
 end-lyric
 
@@ -194,17 +161,13 @@ Is that when
 o-o
 the digit zero
 o-o
-and gunpowder
-o-o
-made their way
+made its way
 o-o
 closer to Europe?
 end-lyric
 
 ambee sings-desha amenn
-Yes about
-o-o
-the digit zero.
+Indeed.
 sentence-next
 o-o
 That's why
@@ -385,9 +348,9 @@ o-o
 spoken language.
 sentence-next
 o-o
-In turn,
+That advantage
 o-o
-that enabled
+enabled
 o-o
 emperors
 o-o
@@ -395,7 +358,7 @@ to fill
 o-o
 government jobs
 o-o
-with the smartest
+with smart and wise
 o-o
 scholars.
 sentence-next
@@ -408,34 +371,40 @@ around the world,
 o-o
 hiring
 o-o
-was based on
+was heavily
 o-o
-nepotism.
+based on
+o-o
+nepotism
+o-o
+and favoritism.
 end-lyric
 
 ambee sings-damien amenn
-Democracy
-o-o
-gives us
-o-o
-better
+Better
 o-o
 government
 o-o
 officials
 o-o
-compared to
+certainly
 o-o
-dictatorships
+boosts
 o-o
-and monarchy.
+efficiency.
 sentence-next
 o-o
-Got it.
+Even I
+o-o
+can see that
+o-o
+cause and effect.
 end-lyric
 
 ambee sings-econhist amenn
-And democracy
+Also,
+o-o
+democracy
 o-o
 is more
 o-o
@@ -940,28 +909,24 @@ legislators
 o-o
 in ways that
 o-o
-yield
+yield full
 o-o
 proportional
 o-o
 representation.
 sentence-next
 o-o
-The biggest
+Yet that's
+o-o
+essential
+o-o
+for adopting the
+o-o
+biggest
 o-o
 overdue
 o-o
-legal reforms
-o-o
-can't happen
-o-o
-until that
-o-o
-election
-o-o
-reform
-o-o
-has happened.
+legal reforms.
 end-lyric
 
 ambee sings-damien amenn

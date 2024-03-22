@@ -31,10 +31,10 @@ But it's flawed.
 end-lyric
 
 ambee sings-econhist amenn
-A plus.
+You're sharp too!
 sentence-next
 o-o
-You do remember
+You remember
 o-o
 some economics.
 sentence-next
@@ -858,22 +858,22 @@ in Rome.
 end-lyric
 
 ambee sings-desha amenn
-That's the
+The Sistine
 o-o
-Sistine Chapel
+Chapel.
+sentence-next
+o-o
+A no hyphen-here name
+o-o
+painter was hired
+o-o
+to hide from nuns
+o-o
+the racy parts
 o-o
 painted by
 o-o
 Michelangelo.
-sentence-next
-o-o
-A second
-o-o
-artist
-o-o
-covered the
-o-o
-private parts.
 end-lyric
 
 ambee sings-econhist amenn

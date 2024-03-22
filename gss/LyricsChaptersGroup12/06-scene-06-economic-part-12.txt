@@ -536,15 +536,18 @@ inefficiencies
 o-o
 in the economy
 o-o
-will disappear
+will increasingly
 o-o
-after we reduce
+disappear.
+sentence-next
 o-o
-the influence
+After we adopt
 o-o
-of money
+better hyphen-here designed
 o-o
-in elections
+vote counting
+o-o
+systems
 o-o
 for Congress
 o-o

@@ -279,11 +279,28 @@ that machine.
 end-lyric
 
 ambee sings-econhist amenn
-Solutions
+There are also
 o-o
-for the climate
+future
 o-o
-crisis include
+solutions
+o-o
+that can reduce
+o-o
+the severity
+o-o
+of the climate
+o-o
+crisis.
+sentence-next
+o-o
+Besides more
+o-o
+solar energy
+o-o
+technology,
+o-o
+there's
 o-o
 fully
 o-o
@@ -314,16 +331,31 @@ o-o
 communication.
 sentence-next
 o-o
-Those and other
+Plus there are
 o-o
-solutions
+innovative
 o-o
-are waiting.
+ways to reduce
+o-o
+crime.
+sentence-next
+o-o
+And computer
+o-o
+software
+o-o
+is still
+o-o
+rather
+o-o
+primitive.
 sentence-next
 o-o
 Shall I send
 o-o
-those links too?
+links about
+o-o
+those too?
 end-lyric
 
 ambee sings-desha amenn
@@ -400,39 +432,32 @@ o-o
 history.
 sentence-next
 o-o
-Those insights
-o-o
-lead to
-o-o
-civilization's
-o-o
-tipping points.
-sentence-next
-o-o
-Subreddits
-o-o
-and forums
-o-o
-have become
-o-o
-the modern
+The modern
 o-o
 version of
 o-o
 intellectual
 o-o
-salons.
+salons
+o-o
+are online.
+sentence-next
+o-o
+Although
+o-o
+subreddits
+o-o
+and forums
+o-o
+are far better
+o-o
+than Facebook
+o-o
+and Twitter.
 end-lyric
 
 ambee sings-damien amenn
 Subreddits?
-sentence-next
-o-o
-Reading
-o-o
-sessions on
-o-o
-submarines?
 end-lyric
 
 ambee sings-desha amenn
