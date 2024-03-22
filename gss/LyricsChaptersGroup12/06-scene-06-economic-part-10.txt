@@ -149,154 +149,9 @@ What other
 o-o
 solutions
 o-o
-can solve
-o-o
-our huge
-o-o
-crises?
-end-lyric
-
-ambee sings-econhist amenn
-As you've
-o-o
-discovered,
-o-o
-the biggest
-o-o
-overlooked
-o-o
-solutions
-o-o
-are pairwise
-o-o
-vote counting
-o-o
-and electing
-o-o
-more than one
-o-o
-politician
-o-o
-to represent
-o-o
-each larger
-o-o
-district.
-sentence-next
-o-o
-However,
-o-o
-so far,
-o-o
-neither reform
-o-o
-has been used
-o-o
-in any state
-o-o
-legislature.
-sentence-next
-o-o
-And of course
-o-o
-not yet in
-o-o
-Congress.
-sentence-next
-o-o
-Yet those two
-o-o
-places are where
-o-o
-tax changes
-o-o
-must happen.
-sentence-next
-o-o
-When election
-o-o
-reform is
-o-o
-done wisely,
-o-o
-that will end
-o-o
-the beastly
-o-o
-feedback
-o-o
-loop that
-o-o
-enables money
-o-o
-to control
-o-o
-politicians.
-end-lyric
-
-ambee sings-damien amenn
-Do you have
-o-o
-a one hyphen-here sentence
-o-o
-explanation
-o-o
-for how
-o-o
-elections
-o-o
-can be done
-o-o
-wisely?
-end-lyric
-
-ambee sings-econhist amenn
-Those details
-o-o
-are part of
-o-o
-something called
-o-o
-begin-italics game theory end-italics no-space ,
-o-o
-which I teach.
-sentence-next
-o-o
-But those details
-o-o
-are even messier
-o-o
-than your
-o-o
-dog poop
-o-o
-loop.
-sentence-next
-o-o
-name-mathprof
-o-o
-said you already
-o-o
-learned
-o-o
-the basics
-o-o
-of better
-o-o
-vote counting.
-end-lyric
-
-ambee sings-damien amenn
-In that case,
-o-o
-what other
-o-o
-solutions
-o-o
 are blocked?
-end-lyric
-
-ambee sings-desha amenn
+sentence-next
+o-o
 And needing a
 o-o
 revolution!
@@ -354,6 +209,7 @@ end-lyric
 
 ambee sings-damien amenn
 Wow!
+sentence-next
 o-o
 I'd rather have that
 o-o
@@ -423,13 +279,11 @@ that machine.
 end-lyric
 
 ambee sings-econhist amenn
-Other
+Solutions
 o-o
-innovations
+for the climate
 o-o
-I've read about
-o-o
-are
+crisis include
 o-o
 fully
 o-o
@@ -443,12 +297,28 @@ thorium
 o-o
 nuclear
 o-o
-reactors.
+reactors,
+o-o
+and replacing
+o-o
+lots of
+o-o
+inefficient
+o-o
+transportation
+o-o
+with yet more
+o-o
+innovations in
+o-o
+communication.
 sentence-next
 o-o
-And there are
+Those and other
 o-o
-others.
+solutions
+o-o
+are waiting.
 sentence-next
 o-o
 Shall I send
@@ -530,14 +400,34 @@ o-o
 history.
 sentence-next
 o-o
-And I've found
+Those insights
 o-o
-subreddits
+lead to
 o-o
-to be useful.
+civilization's
+o-o
+tipping points.
+sentence-next
+o-o
+Subreddits
+o-o
+and forums
+o-o
+have become
+o-o
+the modern
+o-o
+version of
+o-o
+intellectual
+o-o
+salons.
 end-lyric
 
 ambee sings-damien amenn
+Subreddits?
+sentence-next
+o-o
 Reading
 o-o
 sessions on

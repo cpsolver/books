@@ -25,10 +25,9 @@ started
 o-o
 years ago in
 o-o
-cyberspace.
-sentence-next
+cyberspace,
 o-o
-And in the news.
+and in the news.
 sentence-next
 o-o
 Your fight
@@ -118,9 +117,81 @@ clear.
 end-lyric
 
 ambee sings-desha amenn
-I guess we just
+I almost forgot.
+sentence-next
 o-o
-need to fight
+You're an expert
+o-o
+in something called
+o-o
+begin-italics game theory end-italics no-space .
+sentence-next
+o-o
+But we never
+o-o
+got to that.
+end-lyric
+
+ambee sings-econhist amenn
+Everything
+o-o
+we've discussed
+o-o
+is about
+o-o
+playing the games
+o-o
+of politics
+o-o
+and economics.
+sentence-next
+o-o
+I avoided
+o-o
+teaching you the
+o-o
+terminology.
+sentence-next
+o-o
+That's messier
+o-o
+than your
+o-o
+dog poop
+o-o
+loop.
+sentence-next
+o-o
+Anyway,
+o-o
+name-mathprof
+o-o
+said you already
+o-o
+learned
+o-o
+the basics
+o-o
+of better
+o-o
+vote counting.
+end-lyric
+
+ambee sings-damien amenn
+Wow!
+sentence-next
+o-o
+You're a
+o-o
+super duper
+o-o
+wise guru.
+end-lyric
+
+ambee sings-desha amenn
+Now we know
+o-o
+we need to fight
 o-o
 against some
 o-o
@@ -176,32 +247,10 @@ o-o
 you've given us
 o-o
 so much wisdom.
-sentence-next
-o-o
-I now understand
-o-o
-why so much
-o-o
-of what I
-o-o
-learned in school
-o-o
-now seems like snow
-o-o
-on a sunny
-o-o
-hillside.
-sentence-next
-o-o
-It's long gone.
 end-lyric
 
 ambee sings-damien amenn
-What you've
-o-o
-taught us
-o-o
-reveals
+You've taught us
 o-o
 so many
 o-o
@@ -212,11 +261,6 @@ o-o
 puzzling
 o-o
 mysteries.
-sentence-next
-o-o
-Why things are
-o-o
-the way they are.
 sentence-next
 o-o
 I believe
@@ -250,9 +294,6 @@ you two are.
 end-lyric
 
 ambee sings-damien amenn
-What a pleasure!
-sentence-next
-o-o
 So how can we
 o-o
 repay you?
@@ -323,16 +364,6 @@ o-o
 and business
 o-o
 right hyphen-here side up.
-end-lyric
-
-ambee sings-desha amenn
-This was well worth
-o-o
-the three hyphen-here hour drive
-o-o
-to come meet
-o-o
-with you.
 end-lyric
 
 ambee sings-econhist amenn

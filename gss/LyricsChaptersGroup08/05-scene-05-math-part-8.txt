@@ -547,17 +547,13 @@ o-o
 to mark.
 sentence-next
 o-o
-As evidence
+As evidence,
 o-o
 those critics
 o-o
-point to high rates
+point to
 o-o
-of spoiled
-o-o
-ballots
-o-o
-in historical
+historical
 o-o
 elections
 o-o
@@ -572,34 +568,33 @@ o-o
 confusion.
 sentence-next
 o-o
-Of course
+Of course critics
 o-o
-the two failures
+point to the
+o-o
+two failures
 o-o
 in Burlington
 o-o
-and Alaska
+and Alaska,
 o-o
-are criticized.
-sentence-next
+but without
 o-o
-Without mentioning
+mentioning
 o-o
 those failures
 o-o
-do not arise
+are easy
 o-o
-if pairwise
+to avoid
+o-o
+by eliminating
+o-o
+pairwise
 o-o
 losing
 o-o
-candidates
-o-o
-are eliminated
-o-o
-with a higher
-o-o
-priority.
+candidates.
 sentence-next
 o-o
 And some
@@ -626,16 +621,45 @@ better?
 end-lyric
 
 ambee sings-mathprof amenn
-They collect
+Score ballots
 o-o
-more information.
+collect more
+o-o
+information.
 sentence-next
 o-o
-However
+In a book club
 o-o
-a savvy voter
+where money
 o-o
-can exaggerate
+is not involved,
+o-o
+that information
+o-o
+can be used
+o-o
+wisely if
+o-o
+everyone votes
+o-o
+honestly.
+sentence-next
+o-o
+But they
+o-o
+don't work for
+o-o
+general
+o-o
+elections
+o-o
+where a voter
+o-o
+can get extra
+o-o
+influence by
+o-o
+exaggerating
 o-o
 the strength
 o-o
@@ -649,40 +673,6 @@ o-o
 the clapping
 o-o
 tactic.
-sentence-next
-o-o
-Eventually
-o-o
-in the distant
-o-o
-future there
-o-o
-might be ways
-o-o
-to use those
-o-o
-ballots for
-o-o
-elections
-o-o
-that involve
-o-o
-multiple
-o-o
-winners.
-sentence-next
-o-o
-But they
-o-o
-aren't fair
-o-o
-when electing
-o-o
-a single winner
-o-o
-in a general
-o-o
-election.
 end-lyric
 
 ambee sings-damien amenn
@@ -839,6 +829,17 @@ end-lyric
 
 ambee sings-mathprof amenn
 Exactly.
+sentence-next
+o-o
+Pairwise counting
+o-o
+looks deeply
+o-o
+into all the
+o-o
+preference
+o-o
+information.
 end-lyric
 
 ambee sings-damien amenn

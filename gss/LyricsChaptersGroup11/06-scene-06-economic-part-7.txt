@@ -21,17 +21,17 @@ end-lyric
 ambee sings-damien amenn
 As voters,
 o-o
-we try to vote
+we try to
 o-o
-to say
+express
 o-o
-we want
+our desire
 o-o
 to drain
 o-o
-DC's swamp
+DC's swampy
 o-o
-of corruption.
+corruption.
 sentence-next
 o-o
 But with
@@ -43,47 +43,42 @@ o-o
 politicians
 o-o
 are deaf.
-sentence-next
+end-lyric
+
+ambee sings-desha amenn
+Except to the
 o-o
-Except to the sound
+ka hyphen-here ching
+o-o
+sound
 o-o
 of campaign
 o-o
 contributions.
-end-lyric
-
-ambee sings-desha amenn
-I see that
-o-o
-taxes
-o-o
-steer us toward
-o-o
-buying a farm
-o-o
-and
-o-o
-getting pregnant.
 sentence-next
 o-o
-Jail time
+Tax breaks
 o-o
-tells us to
+persuade us
 o-o
-not drive
+to get married,
 o-o
-while drunk.
+get pregnant,
+o-o
+and buy a farm.
 sentence-next
 o-o
-And to get a job
+Protection from
 o-o
-on Wall Street
+jail time
 o-o
-for those who want
+persuades
 o-o
-to steal
+wannabe thieves
 o-o
-legally.
+to find work on
+o-o
+Wall Street.
 end-lyric
 
 ambee sings-econhist amenn
@@ -122,6 +117,8 @@ o-o
 usually,
 o-o
 small
+o-o
+non hyphen-here factory
 o-o
 businesses
 o-o
