@@ -337,40 +337,36 @@ o-o
 system.
 sentence-next
 o-o
-That huge
+Those huge
 o-o
 efficiency
 o-o
-advantage
+advantages
 o-o
-enabled
+led to using
 o-o
-emperors
+written exams
 o-o
 to fill
 o-o
-government jobs
-o-o
-with smart and wise
-o-o
-scholars.
+government jobs.
 sentence-next
 o-o
-In contrast,
+Elsewhere
 o-o
-elsewhere
+in the world,
 o-o
-around the world,
+most government
 o-o
-hiring
-o-o
-was heavily
+jobs were filled
 o-o
 based on
 o-o
 nepotism
 o-o
-and favoritism.
+and
+o-o
+favoritism.
 end-lyric
 
 ambee sings-damien amenn
@@ -382,7 +378,7 @@ officials
 o-o
 certainly
 o-o
-boosts
+boost
 o-o
 efficiency.
 sentence-next
@@ -636,13 +632,6 @@ o-o
 complaints.
 sentence-next
 o-o
-For some of the
-o-o
-people
-o-o
-not in power.
-sentence-next
-o-o
 In a nation,
 o-o
 those who suffer
@@ -869,6 +858,30 @@ o-o
 overdue
 o-o
 legal reforms.
+end-lyric
+
+ambee sings-desha amenn
+The job of a
+o-o
+president,
+o-o
+governor,
+o-o
+or mayor
+o-o
+is to enforce
+o-o
+the laws adopted
+o-o
+in Congress,
+o-o
+state
+o-o
+legislatures,
+o-o
+and city
+o-o
+council.
 end-lyric
 
 ambee sings-damien amenn

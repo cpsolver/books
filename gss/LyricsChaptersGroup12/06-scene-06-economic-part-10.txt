@@ -346,7 +346,7 @@ software
 o-o
 is still
 o-o
-rather
+very
 o-o
 primitive.
 sentence-next
@@ -432,28 +432,23 @@ o-o
 history.
 sentence-next
 o-o
-The modern
-o-o
-version of
-o-o
-intellectual
-o-o
-salons
-o-o
-are online.
-sentence-next
-o-o
-Although
+Plus there are
 o-o
 subreddits
 o-o
 and forums
 o-o
-are far better
+where wise
 o-o
-than Facebook
+people
 o-o
-and Twitter.
+gather
+o-o
+with very little
+o-o
+interference
+o-o
+from trolls.
 end-lyric
 
 ambee sings-damien amenn

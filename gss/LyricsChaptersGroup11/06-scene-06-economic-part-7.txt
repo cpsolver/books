@@ -334,6 +334,11 @@ o-o
 entertaining.
 sentence-next
 o-o
+Only some of them
+o-o
+get tax breaks.
+sentence-next
+o-o
 There are lots
 o-o
 of intermediate
@@ -394,7 +399,9 @@ ambee sings-desha amenn
 I love it!
 sentence-next
 o-o
-Especially because
+Especially
+o-o
+because
 o-o
 sleazy
 o-o

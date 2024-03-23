@@ -31,30 +31,29 @@ But it's flawed.
 end-lyric
 
 ambee sings-econhist amenn
-You're sharp too!
+I applaud
+o-o
+your memory
+o-o
+of basic
+o-o
+economics.
 sentence-next
 o-o
-You remember
+Yes,
 o-o
-some economics.
-sentence-next
+productivity
 o-o
-The productivity
-o-o
-index
-o-o
-is supposed to
-o-o
-measure
-o-o
-productivity,
-o-o
-which is similar
+is similar
 o-o
 to efficiency.
 sentence-next
 o-o
-Yet that index
+Yet the
+o-o
+productivity
+o-o
+index
 o-o
 increases
 o-o
@@ -142,48 +141,38 @@ marketplace
 o-o
 vendor
 o-o
-cheated a
+cheats a
 o-o
 customer,
 o-o
-that loss
-o-o
-carried over
-o-o
-to another
+a different
 o-o
 vendor
 o-o
-who sells less.
+looses a sale,
+o-o
+or part of a sale,
+o-o
+to that same
+o-o
+customer.
 sentence-next
 o-o
-Because that
+Ancient
 o-o
-customer
+Romans
 o-o
-has less wealth.
-sentence-next
+reduced that
 o-o
-Reducing
+cheating
 o-o
-that cheating
+using innovations
 o-o
-was yet
-o-o
-another
-o-o
-Roman
-o-o
-innovation.
-sentence-next
-o-o
-That efficiency
-o-o
-involved
-o-o
-coins,
+such as coins,
 o-o
 standard weights,
+o-o
+marketplace
 o-o
 inspectors,
 o-o
@@ -229,25 +218,14 @@ o-o
 oversimplify.
 sentence-next
 o-o
-Part of Rome's
-o-o
-success
-o-o
-was good
-o-o
-governance.
-sentence-next
-o-o
-But over time,
+Over time,
 o-o
 new kinds of
 o-o
 corruption grew.
 sentence-next
 o-o
-Very importantly
-o-o
-they ran out of
+They ran out of
 o-o
 distant places
 o-o

@@ -46,25 +46,6 @@ o-o
 other kinds of
 o-o
 corruption.
-sentence-next
-o-o
-That makes it weak
-o-o
-compared to
-o-o
-Germany,
-o-o
-France, and
-o-o
-Britain
-o-o
-where there
-o-o
-is less
-o-o
-of some kinds of
-o-o
-corruption.
 end-lyric
 
 ambee sings-desha amenn
@@ -453,55 +434,6 @@ while at work.
 end-lyric
 
 ambee sings-desha amenn
-I see!
-sentence-next
-o-o
-When these
-o-o
-conflicts
-o-o
-are ignored,
-o-o
-that's cooperation.
-sentence-next
-o-o
-And that increases
-o-o
-efficiency
-o-o
-begin-italics within end-italics
-o-o
-the business.
-end-lyric
-
-ambee sings-damien amenn
-So cooperation
-o-o
-within a business
-o-o
-makes the business
-o-o
-strong.
-sentence-next
-o-o
-So it can better
-o-o
-compete against
-o-o
-other
-o-o
-businesses?
-sentence-next
-o-o
-The lights are
-o-o
-coming back on.
-sentence-next
-o-o
-I think I see.
-end-lyric
-
-ambee sings-desha amenn
 So fighting
 o-o
 between groups
@@ -525,8 +457,13 @@ o-o
 simplification.
 end-lyric
 
-ambee sings-desha amenn
-And a lack
+ambee sings-damien amenn
+The lights are
+o-o
+coming back on.
+sentence-next
+o-o
+I see a lack
 o-o
 of cooperation
 o-o
@@ -857,9 +794,10 @@ o-o
 and public
 o-o
 education.
-sentence-next
-o-o
-And
+end-lyric
+
+ambee sings-damien amenn
+And apparently
 o-o
 Disneyland.
 end-lyric

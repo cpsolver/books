@@ -41,7 +41,7 @@ end-standard-paragraph
 begin-standard-paragraph
 If you want to immediately jump to details about ranked choice voting,
 here's a link to
-<a href="ogss_05.xhtml"> no-space begin-italics Scene 5, Math Breakthrough end-italics no-space</a>.
+<a href="ogss_05.xhtml"> no-space begin-italics Scene 5, title-scene-05 end-italics no-space </a>.
 end-standard-paragraph
 
 <p class="para_standard classPageBreak">

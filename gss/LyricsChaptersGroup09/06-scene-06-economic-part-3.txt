@@ -157,14 +157,22 @@ sentence-next
 o-o
 That's the gap
 o-o
-that controls
+that actually
+o-o
+controls
 o-o
 interest rates.
 sentence-next
 o-o
-The one in the news
+The interest rate
 o-o
-has to follow it.
+reported
+o-o
+in the news
+o-o
+has to somewhat
+o-o
+match that gap.
 end-lyric
 
 ambee sings-damien amenn

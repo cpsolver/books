@@ -185,6 +185,8 @@ end-lyric
 ambee sings-desha amenn
 Right now,
 o-o
+lots of
+o-o
 shareholders
 o-o
 are shooting
@@ -204,7 +206,7 @@ realizing
 o-o
 some of
 o-o
-those people
+the people
 o-o
 getting hit
 o-o
@@ -212,20 +214,17 @@ are the
 o-o
 company's
 o-o
-customers.
+customers,
+o-o
+and future
+o-o
+shareholders.
 end-lyric
 
 ambee sings-econhist amenn
 And sometimes
 o-o
 their employees.
-sentence-next
-o-o
-And sometimes
-o-o
-their fellow
-o-o
-shareholders.
 end-lyric
 
 ambee sings-damien amenn
@@ -555,7 +554,7 @@ to join with
 o-o
 marketing
 o-o
-and logistics
+and strategy
 o-o
 experts.
 sentence-next
