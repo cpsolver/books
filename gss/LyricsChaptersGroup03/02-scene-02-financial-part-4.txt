@@ -1,4 +1,72 @@
 ambee sings-vc amenn
+And there are laws
+o-o
+that protect
+o-o
+drug companies
+o-o
+from the herbal
+o-o
+industry.
+end-lyric
+
+ambee sings-damien amenn
+Drugs are
+o-o
+illegal.
+sentence-next
+o-o
+But drug companies
+o-o
+are legal?
+end-lyric
+
+ambee sings-vc amenn
+Not those drugs.
+sentence-next
+o-o
+The legal kind.
+sentence-next
+o-o
+Pharmaceuticals.
+sentence-next
+o-o
+They avoid
+o-o
+competition
+o-o
+from herb
+o-o
+sellers
+o-o
+because laws
+o-o
+outlaw
+o-o
+health claims
+o-o
+for substances
+o-o
+that don't have
+o-o
+negative
+o-o
+side effects.
+end-lyric
+
+ambee sings-damien amenn
+Does that mean
+o-o
+food also
+o-o
+can't claim
+o-o
+health
+o-o
+benefits?
+end-lyric
+
+ambee sings-vc amenn
 I admire your
 o-o
 mental

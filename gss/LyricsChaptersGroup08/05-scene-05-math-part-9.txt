@@ -1,3 +1,166 @@
+ambee sings-mathprof amenn
+With the math
+o-o
+we've been
+o-o
+talking about,
+o-o
+if the winner
+o-o
+of the first seat
+o-o
+is backed by
+o-o
+lots of money
+o-o
+from business 
+o-o
+owners,
+o-o
+the second hyphen-here seat
+o-o
+winner will
+o-o
+represent
+o-o
+employees,
+o-o
+because they
+o-o
+outnumber
+o-o
+business owners.
+sentence-next
+o-o
+The third seat
+o-o
+is won by
+o-o
+whoever
+o-o
+is not well
+o-o
+represented
+o-o
+by the first two
+o-o
+winners.
+sentence-next
+o-o
+That yields
+o-o
+representative
+o-o
+diversity.
+end-lyric
+
+ambee sings-desha amenn
+So this protects
+o-o
+against
+o-o
+getting just
+o-o
+males,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+If that's
+o-o
+important
+o-o
+politically,
+o-o
+yes.
+end-lyric
+
+ambee sings-desha amenn
+Finally!
+sentence-next
+o-o
+Representation
+o-o
+for more women!
+end-lyric
+
+ambee sings-damien amenn
+How about
+o-o
+minorities?
+end-lyric
+
+ambee sings-mathprof amenn
+If that's what
+o-o
+enough
+o-o
+voters want,
+o-o
+then yes.
+end-lyric
+
+ambee sings-damien amenn
+Wow.
+sentence-next
+o-o
+Math is
+o-o
+magical!
+end-lyric
+
+ambee sings-desha amenn
+I love it!
+end-lyric
+
+ambee sings-mathprof amenn
+If you don't
+o-o
+mind hearing a
+o-o
+percentage,
+o-o
+this counting
+o-o
+guarantees
+o-o
+representation
+o-o
+for at least
+o-o
+sixty six
+o-o
+percent of
+o-o
+voters.
+sentence-next
+o-o
+That's much much
+o-o
+better than
+o-o
+no guarantee,
+o-o
+which is what
+o-o
+we get now with
+o-o
+plurality.
+end-lyric
+
+ambee sings-damien amenn
+My ears don't hurt.
+sentence-next
+o-o
+But my brain
+o-o
+is melting.
+sentence-next
+o-o
+Are we done?
+end-lyric
+
 ambee sings-desha amenn
 Wait a minute.
 sentence-next
@@ -872,136 +1035,4 @@ o-o
 keeps it
 o-o
 well hidden.
-end-lyric
-
-ambee sings-desha amenn
-This makes it
-o-o
-all the more special
-o-o
-that you've taken
-o-o
-the time to explain
-o-o
-this to us.
-end-lyric
-
-ambee sings-damien amenn
-I'm extremely
-o-o
-grateful.
-sentence-next
-o-o
-You've given me,
-o-o
-us, more than I
-o-o
-could ever have
-o-o
-hoped for.
-end-lyric
-
-ambee sings-mathprof amenn
-I love these kinds
-o-o
-of conversations.
-sentence-next
-o-o
-I wish textbooks
-o-o
-and those dang
-o-o
-standardized
-o-o
-tests would allow
-o-o
-me to teach more
-o-o
-like this.
-sentence-next
-o-o
-Without as much
-o-o
-notation
-o-o
-and terminology.
-sentence-next
-o-o
-The joy of math
-o-o
-is in the concepts.
-sentence-next
-o-o
-That's what counts.
-end-lyric
-
-ambee sings-damien amenn
-I think I'm
-o-o
-beginning to see
-o-o
-a begin-italics fraction end-italics of
-o-o
-that joy in
-o-o
-mathematics.
-end-lyric
-
-ambee sings-desha amenn
-Ah,
-o-o
-one more thing.
-sentence-next
-o-o
-Since pairwise counting
-o-o
-is a few years off,
-o-o
-what can we do
-o-o
-in the next
-o-o
-election
-o-o
-to fight against
-o-o
-vote splitting?
-end-lyric
-
-ambee sings-mathprof amenn
-Tell your friends,
-o-o
-including the
-o-o
-ones online,
-o-o
-that the
-o-o
-single hyphen-here choice
-o-o
-ballot,
-o-o
-what we use now,
-o-o
-is not asking
-o-o
-begin-italics who is your favorite? end-italics
-end-lyric
-
-ambee sings-damien amenn
-Then what's it
-o-o
-asking?
-end-lyric
-
-ambee sings-desha amenn
-Besides
-o-o
-which loser
-o-o
-do you want
-o-o
-to get stuck
-o-o
-with?
 end-lyric
