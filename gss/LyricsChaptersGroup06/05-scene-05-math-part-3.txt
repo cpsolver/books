@@ -86,17 +86,16 @@ ballot.
 end-lyric
 
 ambee sings-damien amenn
-'Cause we can
+Ah,
+o-o
+'cause we can
 o-o
 only mark a
 o-o
-single choice?
+single choice.
 end-lyric
 
 ambee sings-mathprof amenn
-Of course.
-sentence-next
-o-o
 There's just
 o-o
 one way

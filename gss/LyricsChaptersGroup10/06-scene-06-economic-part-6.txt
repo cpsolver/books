@@ -320,11 +320,15 @@ ambee sings-econhist amenn
 Indeed.
 sentence-next
 o-o
-People throughout
+Besides using
 o-o
-what we now
+the abacus
 o-o
-call China
+for math
+o-o
+calculations,
+o-o
+the Chinese
 o-o
 adopted
 o-o
@@ -333,22 +337,11 @@ o-o
 system.
 sentence-next
 o-o
-That allowed
+That huge
 o-o
-communication
+efficiency
 o-o
-through writing,
-o-o
-without needing
-o-o
-to understand
-o-o
-each other's
-o-o
-spoken language.
-sentence-next
-o-o
-That advantage
+advantage
 o-o
 enabled
 o-o
@@ -399,64 +392,13 @@ o-o
 can see that
 o-o
 cause and effect.
-end-lyric
-
-ambee sings-econhist amenn
-Also,
-o-o
-democracy
-o-o
-is more
-o-o
-flexible
-o-o
-compared to
-o-o
-dictatorship.
 sentence-next
 o-o
-In turn,
+Since innovations
 o-o
-flexibility
+are good,
 o-o
-is a necessary
-o-o
-ingredient
-o-o
-for
-o-o
-innovation.
-sentence-next
-o-o
-That
-o-o
-innovation
-o-o
-brings
-o-o
-economic
-o-o
-prosperity.
-sentence-next
-o-o
-At least
-o-o
-until other
-o-o
-regions
-o-o
-copy those
-o-o
-innovations.
-end-lyric
-
-ambee sings-damien amenn
-So innovation
-o-o
-is good.
-sentence-next
-o-o
-Does this mean
+does this mean
 o-o
 we need more
 o-o

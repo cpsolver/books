@@ -32,19 +32,17 @@ o-o
 take care of that.
 sentence-next
 o-o
-If any
+If a greedy
 o-o
-single party
+political
 o-o
-wins more
+party chooses
 o-o
-than their share
+biased district
 o-o
-of districts,
+boundaries,
 o-o
-the other
-o-o
-parties
+the other parties
 o-o
 win all the
 o-o

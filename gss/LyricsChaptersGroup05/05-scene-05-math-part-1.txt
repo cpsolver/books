@@ -268,11 +268,11 @@ instead of
 o-o
 writing
 o-o
-X X X X
+X X X V I
 o-o
 we write
 o-o
-four zero.
+three six.
 end-lyric
 
 ambee sings-desha amenn

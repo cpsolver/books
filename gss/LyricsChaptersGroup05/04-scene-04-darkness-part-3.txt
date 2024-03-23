@@ -436,8 +436,6 @@ sentence-next
 o-o
 You and your
 o-o
-...
-o-o
 Willie?
 end-lyric
 

@@ -171,8 +171,19 @@ o-o
 inside a
 o-o
 computer.
-sentence-next
+end-lyric
+
+ambee sings-damien amenn
+At the risk
 o-o
+of losing
+o-o
+a cat life,
+o-o
+how would that work?
+end-lyric
+
+ambee sings-mathprof amenn
 Let's say there's
 o-o
 uncertainty
@@ -220,29 +231,61 @@ o-o
 to the next
 o-o
 counter.
+end-lyric
+
+ambee sings-desha amenn
+If you were
+o-o
+counting,
+o-o
+and your pair
+o-o
+were Hypatia
+o-o
+and Oscar,
+o-o
+you'd look at which
+o-o
+of those two
+o-o
+was ranked higher
+o-o
+or lower
+o-o
+than the other.
 sentence-next
 o-o
+And you'd press
+o-o
+a button
+o-o
+on one of three
+o-o
+mechanical
+o-o
+counters.
+end-lyric
+
+ambee sings-mathprof amenn
 When the counting
 o-o
 is done,
 o-o
-each counter
+watchers
 o-o
-writes their
+look at
 o-o
-three count numbers
+the mechanical
 o-o
-on a sign
+counters
 o-o
-so that watchers
+to see who won
 o-o
-can see who won
+each
 o-o
-each of those
+pairwise
 o-o
-one hyphen-here on hyphen-here one
-o-o
-contests.
+contest.
 sentence-next
 o-o
 That pairwise
@@ -732,7 +775,7 @@ flavors.
 end-lyric
 
 begin-paragraph-centered
-<img width="400" height="132" src="ballots_four_flavors.jpg"/>
+<img width="300" height="99" src="ballots_four_flavors.jpg"/>
 end-paragraph-centered
 
 ambee sings-desha amenn
