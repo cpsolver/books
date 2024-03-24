@@ -149,65 +149,9 @@ o-o
 get a good start.
 sentence-next
 o-o
-Can you count?
-end-lyric
-
-ambee sings-damien amenn
-One two three four
+Let's start with
 o-o
-'n of course there's more.
-end-lyric
-
-ambee sings-mathprof amenn
-Can you go
-o-o
-the other way?
-end-lyric
-
-ambee sings-damien amenn
-Four three two one.
-end-lyric
-
-ambee sings-mathprof amenn
-What comes after
-o-o
-one?
-end-lyric
-
-ambee sings-damien amenn
-Nothin'.
-end-lyric
-
-ambee sings-mathprof amenn
-In a way you're
-o-o
-right.
-end-lyric
-
-ambee sings-damien amenn
-Thanks for
-o-o
-bein' polite
-o-o
-in sayin' I'm wrong.
-end-lyric
-
-ambee sings-mathprof amenn
-What's nothing called
-o-o
-in math?
-end-lyric
-
-ambee sings-damien amenn
-Oh, zero.
-end-lyric
-
-ambee sings-mathprof amenn
-Yes.
-o-o
-Magical
-o-o
-zero.
+magical zero.
 end-lyric
 
 ambee sings-damien amenn

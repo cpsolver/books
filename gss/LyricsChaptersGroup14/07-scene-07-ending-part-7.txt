@@ -234,7 +234,11 @@ trickle down
 o-o
 to local
 o-o
-business owners.
+business owners
+o-o
+and their
+o-o
+employees.
 sentence-next
 o-o
 I had failed
@@ -683,6 +687,7 @@ end-lyric
 
 ambee sings-vc amenn
 I admit I do.
+sentence-next
 o-o
 I hadn't
 o-o

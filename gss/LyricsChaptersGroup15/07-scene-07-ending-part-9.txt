@@ -239,7 +239,9 @@ sentence-next
 o-o
 You have spirit,
 o-o
-a sense of fairness,
+a sense of
+o-o
+fairness,
 o-o
 a willingness
 o-o
@@ -248,12 +250,7 @@ o-o
 rough times.
 sentence-next
 o-o
-And you've got
-o-o
-a great ass.
-sentence-next
-o-o
-Plus whoever
+And whoever
 o-o
 said you aren't
 o-o

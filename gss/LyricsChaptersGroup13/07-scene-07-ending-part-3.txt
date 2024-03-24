@@ -431,7 +431,7 @@ on that
 o-o
 Smoldering Ashes
 o-o
-property?
+property.
 end-lyric
 
 ambee sings-father-of-fiance amenn

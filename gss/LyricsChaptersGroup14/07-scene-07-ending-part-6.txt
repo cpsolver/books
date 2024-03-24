@@ -355,11 +355,11 @@ about
 o-o
 commodities
 o-o
-so you know
+and about the
 o-o
-there's two kinds
+two kinds of
 o-o
-of sugar there.
+sugar there.
 sentence-next
 o-o
 I forgot
@@ -368,9 +368,7 @@ the numbers.
 end-lyric
 
 ambee sings-vc amenn
-You must mean
-o-o
-sugar number
+Sugar number
 o-o
 eleven
 o-o
@@ -382,20 +380,6 @@ sixteen.
 end-lyric
 
 ambee sings-damien amenn
-The higher price
-o-o
-is the one
-o-o
-in the U.S.
-sentence-next
-o-o
-The rest of the
-o-o
-world pays
-o-o
-the lower price.
-sentence-next
-o-o
 The people
 o-o
 in Florida
@@ -576,17 +560,13 @@ o-o
 like that.
 sentence-next
 o-o
-You mean Apple,
-o-o
-Boeing,
+You mean
 o-o
 Disney,
 o-o
-General Motors,
-o-o
-Intel,
-o-o
 Nike,
+o-o
+Boeing,
 o-o
 Hollywood
 o-o
@@ -724,12 +704,7 @@ o-o
 money to you.
 sentence-next
 o-o
-But it increases
-o-o
-traffic.
-sentence-next
-o-o
-And reduces
+But it reduces
 o-o
 the land
 o-o
@@ -744,6 +719,28 @@ o-o
 which is what
 o-o
 we need more of.
+sentence-next
+o-o
+And probably
+o-o
+you send
+o-o
+that money
+o-o
+back out of state.
+sentence-next
+o-o
+Instead of
+o-o
+sharing
+o-o
+more of it
+o-o
+with the workers
+o-o
+who build
+o-o
+your buildings.
 end-lyric
 
 ambee sings-damien amenn
@@ -907,42 +904,43 @@ o-o
 blocked
 o-o
 Nikola Tesla?
-o-o
-And Einstein
-o-o
-too?
 sentence-next
 o-o
-They arrived as
+And recently
 o-o
-immigrants.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Things would have
+I learned that
 o-o
-worked out fine.
+big high hyphen-here tech
+o-o
+companies
+o-o
+in the eastern
+o-o
+United States
+o-o
+missed out on
+o-o
+what developed
+o-o
+in Silicon Valley
+o-o
+partly because of
+o-o
+racial prejudice
+o-o
+against immigrants
+o-o
+from India.
 end-lyric
 
 ambee sings-desha amenn
-You'd be
+Getting back to
 o-o
-living in a
+the different
 o-o
-doubly dark
+tax rates,
 o-o
-dark age.
-sentence-next
-o-o
-Anyway,
-o-o
-the
-o-o
-different
-o-o
-tax rates are
-o-o
-like the
+they're like the
 o-o
 difference
 o-o
