@@ -413,7 +413,7 @@ methods
 o-o
 are like
 o-o
-food recipies.
+food recipes.
 sentence-next
 o-o
 Switching an
