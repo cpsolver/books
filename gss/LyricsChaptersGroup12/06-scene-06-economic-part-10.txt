@@ -331,31 +331,18 @@ o-o
 communication.
 sentence-next
 o-o
-Plus there are
+And there's
 o-o
-innovative
+an interesting
 o-o
-ways to reduce
+idea for how to
 o-o
-crime.
-sentence-next
-o-o
-And computer
-o-o
-software
-o-o
-is still
-o-o
-very
-o-o
-primitive.
+reduce crime.
 sentence-next
 o-o
 Shall I send
 o-o
-links about
-o-o
-those too?
+those links too?
 end-lyric
 
 ambee sings-desha amenn
@@ -442,13 +429,7 @@ where wise
 o-o
 people
 o-o
-gather
-o-o
-with very little
-o-o
-interference
-o-o
-from trolls.
+gather.
 end-lyric
 
 ambee sings-damien amenn

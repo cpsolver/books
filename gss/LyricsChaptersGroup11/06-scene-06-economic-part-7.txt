@@ -427,7 +427,7 @@ And how I can fight!
 end-lyric
 
 ambee sings-damien amenn
-I like it.
+I like it!
 sentence-next
 o-o
 It would benefit
@@ -437,6 +437,11 @@ o-o
 I want to
 o-o
 create.
+sentence-next
+o-o
+And the one
+o-o
+I work in.
 sentence-next
 o-o
 Would it also

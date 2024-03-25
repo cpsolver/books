@@ -231,6 +231,11 @@ o-o
 going on now.
 sentence-next
 o-o
+In the
+o-o
+United States.
+sentence-next
+o-o
 How come
 o-o
 stupidity
@@ -788,110 +793,20 @@ yes!
 end-lyric
 
 ambee sings-damien amenn
-How will higher
-o-o
-levels of
-o-o
-democracy
-o-o
-reduce
-o-o
-corruption?
-end-lyric
-
-ambee sings-econhist amenn
-Most voters
-o-o
-will vote for
-o-o
-less corruption
-o-o
-when that option
-o-o
-shows up on
-o-o
-the ballot
-o-o
-and has a chance
-o-o
-of winning.
-end-lyric
-
-ambee sings-damien amenn
-Has that happened
-o-o
-where ranked choice
-o-o
-ballots are used?
-end-lyric
-
-ambee sings-econhist amenn
-Ranked choice
-o-o
-ballots
-o-o
-have not yet
-o-o
-been used to
-o-o
-elect state
-o-o
-legislators
-o-o
-in ways that
-o-o
-yield full
-o-o
-proportional
-o-o
-representation.
+I'm curious.
 sentence-next
 o-o
-Yet that's
-o-o
-essential
-o-o
-for adopting the
-o-o
-biggest
-o-o
-overdue
-o-o
-legal reforms.
-end-lyric
-
-ambee sings-desha amenn
-The job of a
-o-o
-president,
-o-o
-governor,
-o-o
-or mayor
-o-o
-is to enforce
-o-o
-the laws adopted
-o-o
-in Congress,
-o-o
-state
-o-o
-legislatures,
-o-o
-and city
-o-o
-council.
-end-lyric
-
-ambee sings-damien amenn
 What are the
 o-o
-biggest
+innovations
 o-o
-overdue
+related to
 o-o
-legal reforms?
+baking those
+o-o
+additional
+o-o
+savory pies?
 end-lyric
 
 ambee sings-desha amenn

@@ -458,30 +458,34 @@ simplification.
 end-lyric
 
 ambee sings-damien amenn
+Now I see.
+sentence-next
+o-o
 The lights are
 o-o
 coming back on.
 sentence-next
 o-o
-I see a lack
-o-o
-of cooperation
-o-o
-is why
-o-o
-climate change
+Our planet
 o-o
 is turning
 o-o
-our planet
+into toast
 o-o
-into toast.
+because of
+o-o
+a lack of
+o-o
+cooperation.
+sentence-next
+o-o
+About climate change.
 end-lyric
 
 ambee sings-econhist amenn
 In the past,
 o-o
-higher levels
+high levels
 o-o
 of cooperation
 o-o
@@ -492,7 +496,7 @@ o-o
 religions.
 sentence-next
 o-o
-But that
+However that
 o-o
 cooperation
 o-o
@@ -516,7 +520,9 @@ singing
 o-o
 harmoniously
 o-o
-as a chorus.
+together
+o-o
+in church.
 sentence-next
 o-o
 However
