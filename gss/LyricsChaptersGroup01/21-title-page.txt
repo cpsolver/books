@@ -1,8 +1,8 @@
-begin-title
+<h1 class="para_centered para_avoid_break_after"> no-space
 book-title
 end-title
 
-begin-subtitle
+<h2 class="para_centered para_gap_above"> no-space
 book-subtitle-with-line-breaks
 end-subtitle
 
@@ -10,7 +10,7 @@ end-subtitle
 by Richard Fobes
 end-subtitle
 
-begin-paragraph-centered
+<p class="para_centered"> no-space
 Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
 end-paragraph-centered
 
@@ -18,7 +18,7 @@ end-paragraph-centered
 Also by Richard Fobes
 end-paragraph-centered
 
-begin-subtitle
+<h2 class="para_centered para_gap_above"> no-space
 begin-italics
 The Creative Problem Solver's Toolbox
 end-italics

@@ -1,6 +1,5 @@
 /gss/output_*.musicxml
 *.odt
-/gss/pdf/
 /gss/Expand/
 /gss/Archive/
 /drafts/
@@ -10,3 +9,6 @@
 /gss/*.epub
 /gss/*.html
 /gss/*.pl
+/gss/*.pdf
+/gss/pdf/*.jpg
+/gss/pdf/*.xhtml
