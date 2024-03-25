@@ -323,7 +323,7 @@ commodities,
 o-o
 expenditures,
 o-o
-securities.
+securities,
 o-o
 liabilities,
 o-o

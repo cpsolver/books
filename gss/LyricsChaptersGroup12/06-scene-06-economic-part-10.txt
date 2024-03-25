@@ -114,15 +114,6 @@ o-o
 for folks
 o-o
 like me!
-sentence-next
-o-o
-That beats
-o-o
-gettin' named
-o-o
-employee
-o-o
-of the month.
 end-lyric
 
 ambee sings-econhist amenn
@@ -147,7 +138,7 @@ sentence-next
 o-o
 What other
 o-o
-solutions
+innovations
 o-o
 are blocked?
 sentence-next
@@ -278,189 +269,18 @@ o-o
 that machine.
 end-lyric
 
-ambee sings-econhist amenn
-There are also
-o-o
-future
-o-o
-solutions
-o-o
-that can reduce
-o-o
-the severity
-o-o
-of the climate
-o-o
-crisis.
-sentence-next
-o-o
-Besides more
-o-o
-solar energy
-o-o
-technology,
-o-o
-there's
-o-o
-fully
-o-o
-synthetic
-o-o
-hydrocarbon
-o-o
-fuel,
-o-o
-thorium
-o-o
-nuclear
-o-o
-reactors,
-o-o
-and replacing
-o-o
-lots of
-o-o
-inefficient
-o-o
-transportation
-o-o
-with yet more
-o-o
-innovations in
-o-o
-communication.
-sentence-next
-o-o
-And there's
-o-o
-an interesting
-o-o
-idea for how to
-o-o
-reduce crime.
-sentence-next
-o-o
-Shall I send
-o-o
-those links too?
-end-lyric
-
 ambee sings-desha amenn
-Please!
-end-lyric
-
-ambee sings-damien amenn
-Wow!
-sentence-next
-o-o
-This makes my
-o-o
-gutter cleaning
-o-o
-tool seem
-o-o
-smaller than
-o-o
-a bikini
-o-o
-on a beach
-o-o
-in Rio.
-end-lyric
-
-ambee sings-desha amenn
-How do you know
-o-o
-about these things?
-end-lyric
-
-ambee sings-damien amenn
-I've seen some
-o-o
-movies about
-o-o
-...
-sentence-next
-o-o
-oh.
-end-lyric
-
-ambee sings-econhist amenn
-I read.
-sentence-next
-o-o
-It's a form of
-o-o
-time travel.
-end-lyric
-
-ambee sings-desha amenn
-I read too,
-o-o
-but this is all
-o-o
-news to me.
-end-lyric
-
-ambee sings-econhist amenn
-I mostly read
-o-o
-about why
-o-o
-things are
-o-o
-the way they are.
-sentence-next
-o-o
-That includes
-o-o
-lots of
-o-o
-history.
-sentence-next
-o-o
-Plus there are
-o-o
-subreddits
-o-o
-and forums
-o-o
-where wise
-o-o
-people
-o-o
-gather.
-end-lyric
-
-ambee sings-damien amenn
-Subreddits?
-end-lyric
-
-ambee sings-desha amenn
-Subreddits are
-o-o
-topic hyphen-here specific
-o-o
-discussions
-o-o
-on Reddit.
-end-lyric
-
-ambee sings-damien amenn
-So what's blockin'
+I suppose
 o-o
 those future
 o-o
-solutions from
+solutions
 o-o
-happenin'?
-end-lyric
-
-ambee sings-desha amenn
-Let me guess.
-sentence-next
+are blocked
 o-o
-Feedback loops.
+by feedback
+o-o
+loops?
 sentence-next
 o-o
 Bad ones.
@@ -474,20 +294,11 @@ I suggest you
 o-o
 look for a way
 o-o
-to break the bad
+to drill a hole
 o-o
-feedback loops
+through the dam
 o-o
-that block fairer
-o-o
-voting.
-sentence-next
-o-o
-Drill a hole through
-o-o
-the dam that
-o-o
-holds back
+that holds back
 o-o
 the flood of
 o-o

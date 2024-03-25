@@ -915,7 +915,7 @@ a studio
 o-o
 apartment,
 o-o
-a shack,
+an RV,
 o-o
 or a tent.
 end-lyric

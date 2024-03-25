@@ -128,11 +128,17 @@ education.
 end-lyric
 
 ambee sings-econhist amenn
-Often overlooked
+An often
+o-o
+overlooked
+o-o
+form of fighting
 o-o
 is the conflict
 o-o
-between businesses.
+between
+o-o
+businesses.
 sentence-next
 o-o
 Each time a
@@ -354,8 +360,11 @@ o-o
 and very
 o-o
 efficient.
+sentence-next
 o-o
-And it's
+And,
+o-o
+it's
 o-o
 impossible.
 sentence-next
@@ -495,7 +504,7 @@ end-lyric
 ambee sings-desha amenn
 That part I don't
 o-o
-understand
+recognize
 o-o
 myself.
 end-lyric
@@ -520,6 +529,9 @@ doesn't rule.
 end-lyric
 
 ambee sings-desha amenn
+Oh yeah.
+sentence-next
+o-o
 That's why
 o-o
 Donald Trump

@@ -165,17 +165,46 @@ a place to grow.
 end-lyric
 
 ambee sings-desha amenn
-Without
+And a place
 o-o
-the burden
+to escape
 o-o
-of church
+taxes
 o-o
-taxation.
+collected by
+o-o
+European
+o-o
+churches.
+end-lyric
+
+ambee sings-damien amenn
+So freedom
+o-o
+of religion
+o-o
+is really about
+o-o
+church taxes.
+sentence-next
+o-o
+Who knew?
+end-lyric
+
+ambee sings-desha amenn
+Probably the
+o-o
+women who were
+o-o
+burned as
+o-o
+witches.
 end-lyric
 
 ambee sings-econhist amenn
 America's
+o-o
+economic
 o-o
 success
 o-o
@@ -360,7 +389,11 @@ the teamwork
 o-o
 among
 o-o
-employees.
+employees
+o-o
+within each
+o-o
+business.
 sentence-next
 o-o
 That cooperation
@@ -466,20 +499,26 @@ o-o
 coming back on.
 sentence-next
 o-o
-Our planet
+Unfortunately
 o-o
-is turning
-o-o
-into toast
-o-o
-because of
+I also see
 o-o
 a lack of
 o-o
-cooperation.
+worldwide
+o-o
+cooperation
+o-o
+about
+o-o
+atmospheric
+o-o
+pollution.
 sentence-next
 o-o
-About climate change.
+That's toasting
+o-o
+our planet.
 end-lyric
 
 ambee sings-econhist amenn
@@ -507,11 +546,15 @@ sentence-next
 o-o
 Such as
 o-o
-churches in a city
+churches
+o-o
+in a city
 o-o
 raising money
 o-o
-to feed the needy.
+to feed
+o-o
+the needy.
 sentence-next
 o-o
 And on Sunday
@@ -527,19 +570,19 @@ sentence-next
 o-o
 However
 o-o
-just one church
+all the churches
 o-o
-cannot promote
+in a city
 o-o
-changes that will
+are powerless
 o-o
-improve the
+to improve the
 o-o
 weather and
 o-o
 climate of
 o-o
-a single town.
+that city.
 end-lyric
 
 ambee sings-damien amenn
@@ -925,15 +968,21 @@ stores.
 end-lyric
 
 ambee sings-desha amenn
-Amazon eliminates
+Amazon
 o-o
-handling cash,
+eliminates
 o-o
 store theft,
 o-o
-and public
+public
 o-o
-restrooms.
+restrooms,
+o-o
+and injuries
+o-o
+on black
+o-o
+Friday.
 sentence-next
 o-o
 So far that
@@ -949,9 +998,7 @@ o-o
 Bezos.
 sentence-next
 o-o
-That's because
-o-o
-selfishly
+Selfishly
 o-o
 he steals
 o-o

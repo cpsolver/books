@@ -44,7 +44,7 @@ end-lyric
 ambee sings-econhist amenn
 The number of
 o-o
-voters
+citizens
 o-o
 who want to
 o-o
@@ -105,7 +105,7 @@ version of
 o-o
 dumping tea
 o-o
-in a harbor?
+into a harbor?
 end-lyric
 
 ambee sings-econhist amenn
@@ -165,7 +165,9 @@ playing games
 o-o
 in politics
 o-o
-and government.
+and government
+o-o
+and business.
 sentence-next
 o-o
 I taught you

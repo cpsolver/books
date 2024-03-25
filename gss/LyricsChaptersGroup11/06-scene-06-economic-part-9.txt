@@ -245,46 +245,64 @@ o-o
 optimism.
 sentence-next
 o-o
-When there's
+Then those
 o-o
-less optimism,
-o-o
-consumers
+consumers will
 o-o
 spend less money.
 sentence-next
 o-o
-That loops
+That reduces
 o-o
-back through
+income for
 o-o
-businesses
-o-o
-to fewer jobs
-o-o
-and lower
-o-o
-salaries
-o-o
-for other
-o-o
-employees.
+businesses.
 sentence-next
 o-o
-Who then spend
+Which leads to
 o-o
-less money.
+lower salaries
+o-o
+and fewer jobs.
 sentence-next
 o-o
-That's a
+Which increases
+o-o
+the number of
+o-o
+employees
+o-o
+with less
+o-o
+spending money.
+sentence-next
+o-o
+Which further
+o-o
+fuels this
 o-o
 powerful
 o-o
 feedback loop.
 end-lyric
 
+ambee sings-desha amenn
+It becomes
+o-o
+a category
+o-o
+five
+o-o
+hurricane!
+sentence-next
+o-o
+Ripping through
+o-o
+our economy.
+end-lyric
+
 ambee sings-damien amenn
-So this loop
+This loop
 o-o
 between
 o-o
@@ -292,9 +310,10 @@ optimism
 o-o
 and
 o-o
-consumption
+consumption.
+sentence-next
 o-o
-is like
+Is it like
 o-o
 your pupper
 o-o
@@ -566,23 +585,225 @@ sunglasses.
 end-lyric
 
 ambee sings-econhist amenn
-Some future
+There are future
 o-o
 innovations
 o-o
-will solve
+that can reduce
 o-o
-those and
+the severity
 o-o
-other problems.
+of the climate
+o-o
+crisis.
 sentence-next
 o-o
-You've mentioned
+Besides more
 o-o
-low salaries.
+solar energy
+o-o
+technology,
+o-o
+there's
+o-o
+fully
+o-o
+synthetic
+o-o
+hydrocarbon
+o-o
+fuel,
+o-o
+thorium
+o-o
+nuclear
+o-o
+reactors,
+o-o
+and replacing
+o-o
+lots of
+o-o
+inefficient
+o-o
+transportation
+o-o
+systems
+o-o
+with yet more
+o-o
+innovations in
+o-o
+communication.
 sentence-next
 o-o
-Those will rise
+Shall I send
+o-o
+you links
+o-o
+about
+o-o
+those?
+end-lyric
+
+ambee sings-desha amenn
+Please!
+end-lyric
+
+ambee sings-econhist amenn
+And I'll include
+o-o
+an interesting
+o-o
+idea for
+o-o
+reducing crime.
+end-lyric
+
+ambee sings-damien amenn
+Wow!
+sentence-next
+o-o
+This makes my
+o-o
+gutter cleaning
+o-o
+tool seem
+o-o
+smaller than
+o-o
+a bikini
+o-o
+on a beach
+o-o
+in Rio.
+end-lyric
+
+ambee sings-desha amenn
+How do you know
+o-o
+about these things?
+end-lyric
+
+ambee sings-damien amenn
+I've seen some
+o-o
+movies about
+o-o
+...
+sentence-next
+o-o
+oh.
+end-lyric
+
+ambee sings-econhist amenn
+I read.
+sentence-next
+o-o
+It's a form of
+o-o
+time travel.
+end-lyric
+
+ambee sings-desha amenn
+I read too,
+o-o
+but this is all
+o-o
+news to me.
+end-lyric
+
+ambee sings-econhist amenn
+I mostly read
+o-o
+about why
+o-o
+things are
+o-o
+the way they are.
+sentence-next
+o-o
+That includes
+o-o
+lots of
+o-o
+history.
+sentence-next
+o-o
+Plus
+o-o
+subreddits.
+sentence-next
+o-o
+And forums
+o-o
+where wise
+o-o
+people
+o-o
+gather
+o-o
+to pioneer
+o-o
+the future.
+end-lyric
+
+ambee sings-damien amenn
+Subreddits?
+sentence-next
+o-o
+You read underwater
+o-o
+in the bathtub?
+end-lyric
+
+ambee sings-desha amenn
+Subreddits are
+o-o
+topic hyphen-here specific
+o-o
+discussions
+o-o
+on Reddit.
+sentence-next
+o-o
+It has fewer
+o-o
+trolls.
+sentence-next
+o-o
+Because of
+o-o
+volunteer
+o-o
+moderators.
+end-lyric
+
+ambee sings-damien amenn
+Is there
+o-o
+anything there
+o-o
+about bigger perks
+o-o
+for employees?
+sentence-next
+o-o
+Something better
+o-o
+than bicycle
+o-o
+racks.
+end-lyric
+
+ambee sings-econhist amenn
+Wages
+o-o
+for lower hyphen-here wage
+o-o
+employees
+o-o
+will rise
 o-o
 significantly
 o-o
@@ -605,12 +826,13 @@ wage gap.
 end-lyric
 
 ambee sings-damien amenn
-What would that
-o-o
-look like?
+Wow!
 sentence-next
 o-o
-How will it work?
+A wage lift?
+sentence-next
+o-o
+How would that work?
 end-lyric
 
 ambee sings-econhist amenn

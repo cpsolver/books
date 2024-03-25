@@ -1,13 +1,13 @@
 ambee sings-econhist amenn
-Innovation
-o-o
-is about
-o-o
-creating things
+Creating things
 o-o
 that are new
 o-o
-and have value.
+and have value
+o-o
+is the basis
+o-o
+of innovation.
 sentence-next
 o-o
 The Islamic
@@ -18,9 +18,9 @@ demonstrated
 o-o
 the economic
 o-o
-benefits
+benefits of
 o-o
-of innovation.
+innovation.
 end-lyric
 
 ambee sings-damien amenn
@@ -51,31 +51,9 @@ o-o
 and northern
 o-o
 Africa.
-end-lyric
-
-ambee sings-desha amenn
-Their holy book,
-o-o
-the Qur'an,
-o-o
-written in
-o-o
-Arabic,
-o-o
-isn't translated
-o-o
-into other
-o-o
-languages.
 sentence-next
 o-o
-Unlike the
-o-o
-Bible.
-end-lyric
-
-ambee sings-econhist amenn
-Those huge regions,
+That huge region,
 o-o
 all reading
 o-o
@@ -86,9 +64,26 @@ o-o
 gave that empire
 o-o
 efficiency.
-sentence-next
+end-lyric
+
+ambee sings-desha amenn
+Unlike the
 o-o
-On top of that,
+Bible,
+o-o
+their holy book,
+o-o
+the Qur'an,
+o-o
+is only
+o-o
+available
+o-o
+in Arabic.
+end-lyric
+
+ambee sings-econhist amenn
+In addition,
 o-o
 one of their
 o-o
