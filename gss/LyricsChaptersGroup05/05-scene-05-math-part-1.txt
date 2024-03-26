@@ -155,23 +155,22 @@ magical zero.
 end-lyric
 
 ambee sings-damien amenn
-What's so special
+You want to start
 o-o
-'bout zero?
+with small talk?
+sentence-next
+o-o
+About nothin'?
 end-lyric
 
 ambee sings-mathprof amenn
-Even more
+It's the begin-italics digit end-italics
 o-o
-remarkable
+zero that's
 o-o
-than the number
+especially
 o-o
-zero
-o-o
-is the
-o-o
-begin-italics digit end-italics zero.
+magical.
 sentence-next
 o-o
 There have always
@@ -195,28 +194,19 @@ o-o
 moron.
 sentence-next
 o-o
-It's the digit
+The digit
 o-o
-zero that
+zero
 o-o
-gave math a path
+allows us
 o-o
-away from
+to write
 o-o
-Roman numerals.
-sentence-next
-o-o
-Now
+thirty seven
 o-o
 instead of
 o-o
-writing
-o-o
-X X X V I
-o-o
-we write
-o-o
-three six.
+X X X V I I.
 end-lyric
 
 ambee sings-desha amenn
@@ -710,23 +700,15 @@ end-lyric
 ambee sings-desha amenn
 Reciting
 o-o
-infinitesimal
-o-o
 decimal
 o-o
 numbers during
 o-o
-...
+moments of lust
 o-o
-sensual moments
+would give us a
 o-o
-would give us
-o-o
-maximal
-o-o
-population
-o-o
-decline.
+baby bust.
 end-lyric
 
 ambee sings-mathprof amenn

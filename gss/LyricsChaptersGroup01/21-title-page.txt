@@ -15,6 +15,11 @@ Pronunciation: <i><b>Fobes</b></i> rhymes with <i>robes</i>
 end-paragraph-centered
 
 <p class="para_centered para_gap_above para_avoid_break_after"> no-space
+non-breaking-space
+no-space
+end-paragraph-centered
+
+<p class="para_centered para_gap_above para_avoid_break_after"> no-space
 Also by Richard Fobes
 end-paragraph-centered
 

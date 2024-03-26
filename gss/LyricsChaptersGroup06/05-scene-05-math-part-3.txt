@@ -489,7 +489,9 @@ sentence-next
 o-o
 My brain is
 o-o
-getting dizzy.
+becoming
+o-o
+disarrayed.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -834,13 +836,13 @@ don't work.
 end-lyric
 
 ambee sings-mathprof amenn
-That counting
+That other
 o-o
-method has
+points method
 o-o
-a limit on
+has a limit
 o-o
-the total
+on the total
 o-o
 number of
 o-o

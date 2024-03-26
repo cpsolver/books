@@ -627,7 +627,7 @@ Lots of rules
 o-o
 and constraints
 o-o
-that cause
+followed by
 o-o
 complaints.
 sentence-next
@@ -656,11 +656,7 @@ nepotism,
 o-o
 and
 o-o
-military coups
-o-o
-by wannabe
-o-o
-dictators.
+military coups.
 end-lyric
 
 ambee sings-desha amenn
