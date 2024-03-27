@@ -519,9 +519,12 @@ win the seats.
 end-lyric
 
 ambee sings-desha amenn
-That's like hiring
+That's corrupt!
+sentence-next
 o-o
-wolves to herd sheep.
+Like hiring wolves
+o-o
+to herd sheep.
 end-lyric
 
 ambee sings-mathprof amenn

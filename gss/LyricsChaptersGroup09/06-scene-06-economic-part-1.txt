@@ -331,7 +331,9 @@ end-lyric
 ambee sings-econhist amenn
 That trend has been
 o-o
-going on throughout
+going on
+o-o
+throughout
 o-o
 civilization
 o-o
@@ -346,23 +348,36 @@ caused by
 o-o
 large hyphen-here scale
 o-o
-stupidity,
-o-o
-especially
-o-o
-civil war
-o-o
-and
-o-o
-international
-o-o
-warfare.
+stupidity.
 end-lyric
 
 ambee sings-damien amenn
-Can you
+Which kinds of
 o-o
-explain why?
+stupidity?
+end-lyric
+
+ambee sings-econhist amenn
+Civil wars
+o-o
+and
+o-o
+world wars.
+sentence-next
+o-o
+And failures
+o-o
+to sustain
+o-o
+democracy.
+end-lyric
+
+ambee sings-damien amenn
+Why will
+o-o
+prosperity
+o-o
+increase?
 end-lyric
 
 ambee sings-econhist amenn
@@ -372,14 +387,9 @@ the economy
 o-o
 as a
 o-o
-very berry
+strawberry
 o-o
 pie.
-sentence-next
-o-o
-Shall we say
-o-o
-strawberry?
 end-lyric
 
 ambee sings-desha amenn
@@ -409,11 +419,9 @@ That's a mouthful.
 end-lyric
 
 ambee sings-desha amenn
-Then let's
+OK,
 o-o
-generalize
-o-o
-to
+then
 o-o
 savory pie.
 end-lyric
@@ -570,29 +578,24 @@ o-o
 will be replaced.
 sentence-next
 o-o
-Other politicians
+The ones who stay
 o-o
-will shift their
+will be free
+o-o
+to shift their
 o-o
 priorities
 o-o
 to better match
 o-o
 voters.
-sentence-next
-o-o
-Some of them
-o-o
-will get
-o-o
-re hyphen-here elected.
 end-lyric
 
 ambee sings-damien amenn
 Makes sense.
 sentence-next
 o-o
-Now they're
+Without being
 o-o
 handcuffed
 o-o
@@ -602,12 +605,9 @@ biggest
 o-o
 campaign
 o-o
-contributors.
-sentence-next
+contributors
 o-o
-The shift will
-o-o
-set them free
+they'll be free
 o-o
 to do what we,
 o-o
@@ -640,21 +640,35 @@ jerks.
 end-lyric
 
 ambee sings-econhist amenn
-And remember
+After election
 o-o
-those tax reforms
+reforms
+o-o
+our representatives
+o-o
+in Congress and
+o-o
+state legislatures
+o-o
+will reduce
+o-o
+corruption.
+sentence-next
+o-o
+And they will
+o-o
+pass those
+o-o
+tax reforms
 o-o
 and other laws
 o-o
 I mentioned.
+sentence-next
 o-o
-Those will do
+All of that
 o-o
-what amounts to
-o-o
-creating
-o-o
-more
+will create more
 o-o
 savory pies.
 end-lyric

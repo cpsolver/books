@@ -162,7 +162,7 @@ closer to Europe?
 end-lyric
 
 ambee sings-desha amenn
-Indeed.
+Yup.
 sentence-next
 o-o
 That's why
@@ -317,33 +317,12 @@ do better?
 end-lyric
 
 ambee sings-econhist amenn
-Indeed.
+Yes,
+o-o
+economically.
 sentence-next
 o-o
-Besides using
-o-o
-the abacus
-o-o
-for math
-o-o
-calculations,
-o-o
-the Chinese
-o-o
-adopted
-o-o
-a single writing
-o-o
-system.
-sentence-next
-o-o
-Those huge
-o-o
-efficiency
-o-o
-advantages
-o-o
-led to using
+They used
 o-o
 written exams
 o-o
@@ -352,44 +331,44 @@ o-o
 government jobs.
 sentence-next
 o-o
-Elsewhere
+That efficiency
 o-o
-in the world,
+became practical
 o-o
-most government
+when the Chinese
 o-o
-jobs were filled
+adopted a
 o-o
-based on
+single writing
 o-o
-nepotism
+system.
+sentence-next
 o-o
-and
+The abacus
 o-o
-favoritism.
+gave them
+o-o
+a big advantage
+o-o
+for doing math
+o-o
+calculations.
+sentence-next
+o-o
+Those
+o-o
+innovations
+o-o
+gave them big
+o-o
+advantages
+o-o
+over other
+o-o
+empires.
 end-lyric
 
 ambee sings-damien amenn
-Better
-o-o
-government
-o-o
-officials
-o-o
-certainly
-o-o
-boost
-o-o
-efficiency.
-sentence-next
-o-o
-Even I
-o-o
-can see that
-o-o
-cause and effect.
-sentence-next
-o-o
 Since innovations
 o-o
 are good,

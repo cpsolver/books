@@ -703,6 +703,23 @@ o-o
 It's a form of
 o-o
 time travel.
+sentence-next
+o-o
+Especially
+o-o
+history.
+sentence-next
+o-o
+That helps me
+o-o
+understand
+o-o
+cause and effect.
+sentence-next
+o-o
+And feedback
+o-o
+loops.
 end-lyric
 
 ambee sings-desha amenn
@@ -714,45 +731,25 @@ news to me.
 end-lyric
 
 ambee sings-econhist amenn
-I mostly read
+I've found
 o-o
-about why
+subreddits
 o-o
-things are
+and insightful
 o-o
-the way they are.
-sentence-next
+forums
 o-o
-That includes
+to be especially
 o-o
-lots of
-o-o
-history.
-sentence-next
-o-o
-Plus
-o-o
-subreddits.
-sentence-next
-o-o
-And forums
-o-o
-where wise
-o-o
-people
-o-o
-gather
-o-o
-to pioneer
-o-o
-the future.
+insightful.
 end-lyric
 
 ambee sings-damien amenn
-Subreddits?
-sentence-next
+You get insights
 o-o
-You read underwater
+from reading
+o-o
+underwater
 o-o
 in the bathtub?
 end-lyric
@@ -767,12 +764,11 @@ o-o
 on Reddit.
 sentence-next
 o-o
-It has fewer
+Some of them
 o-o
-trolls.
-sentence-next
+have fewer trolls
 o-o
-Because of
+because of
 o-o
 volunteer
 o-o
@@ -791,9 +787,9 @@ sentence-next
 o-o
 Something better
 o-o
-than bicycle
+than llama
 o-o
-racks.
+therapy.
 end-lyric
 
 ambee sings-econhist amenn

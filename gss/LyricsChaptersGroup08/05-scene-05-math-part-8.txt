@@ -210,7 +210,7 @@ o-o
 the counting.
 sentence-next
 o-o
-Each counter
+Each human counter
 o-o
 looks at each
 o-o
@@ -230,19 +230,25 @@ and passes it
 o-o
 to the next
 o-o
-counter.
+human counter.
 end-lyric
 
 ambee sings-desha amenn
-If you were
+Tallying
 o-o
-counting,
+means
+o-o
+if you were
+o-o
+one of those
+o-o
+counter folks,
 o-o
 and your pair
 o-o
-were Hypatia
+was Oscar
 o-o
-and Oscar,
+and Hypatia,
 o-o
 you'd look at which
 o-o
@@ -255,7 +261,7 @@ o-o
 than the other.
 sentence-next
 o-o
-And you'd press
+Then you'd press
 o-o
 a button
 o-o
@@ -556,15 +562,14 @@ isn't evident.
 end-lyric
 
 ambee sings-mathprof amenn
-Another
+There's another
 o-o
-barrier
+barrier.
+sentence-next
 o-o
-is that
+Lots of money
 o-o
-lots of money
-o-o
-is given to
+gets donated to
 o-o
 organizations
 o-o
@@ -575,95 +580,48 @@ o-o
 voting.
 sentence-next
 o-o
-Those critics
+Some of those
 o-o
-claim that
+critics agree
 o-o
-ranked choice
+we need better
 o-o
-ballots
-o-o
-are difficult
-o-o
-for voters
-o-o
-to mark.
+vote counting.
 sentence-next
 o-o
-As evidence,
+But they promote
 o-o
-those critics
+other kinds of
 o-o
-point to
+vote counting
 o-o
-historical
+methods.
+end-lyric
+
+ambee sings-desha amenn
+Probably like
 o-o
-elections
+the methods
 o-o
-where so hyphen-here called
+in Europe
 o-o
-overvotes
+that keep
 o-o
-were interpreted
+party insiders
 o-o
-as voter
+in control.
+end-lyric
+
+ambee sings-mathprof amenn
+Yes,
 o-o
-confusion.
-sentence-next
+and methods
 o-o
-Of course
-o-o
-the critics
-o-o
-neglect to mention
-o-o
-that a software
-o-o
-upgrade can
-o-o
-correctly
-o-o
-count those marks.
-sentence-next
-o-o
-The two failures
-o-o
-in Burlington
-o-o
-and Alaska
-o-o
-are brought up
-o-o
-without
-o-o
-mentioning
-o-o
-those failures
-o-o
-are easy
-o-o
-to avoid
-o-o
-by eliminating
-o-o
-pairwise
-o-o
-losing
-o-o
-candidates.
-sentence-next
-o-o
-And some
-o-o
-money hyphen-here backed
-o-o
-organizations
-o-o
-claim that
+that use
 o-o
 score ballots
 o-o
-are better than
+instead of
 o-o
 ranked choice
 o-o
@@ -738,6 +696,51 @@ attention.
 end-lyric
 
 ambee sings-damien amenn
+I'll bet those
+o-o
+two failures
+o-o
+get mentioned.
+sentence-next
+o-o
+And the overvote
+o-o
+complication.
+end-lyric
+
+ambee sings-mathprof amenn
+Yes,
+o-o
+without
+o-o
+mentioning
+o-o
+those failures
+o-o
+and complications
+o-o
+are easy
+o-o
+to avoid.
+sentence-next
+o-o
+We just need
+o-o
+software upgrades.
+sentence-next
+o-o
+To correctly
+o-o
+count overvotes,
+o-o
+and eliminate
+o-o
+pairwise losing
+o-o
+candidates.
+end-lyric
+
+ambee sings-damien amenn
 I'm seeing that
 o-o
 ranked choice
@@ -748,7 +751,7 @@ great,
 o-o
 but the counting
 o-o
-method matters.
+details matter.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -775,7 +778,7 @@ flavors.
 end-lyric
 
 begin-paragraph-centered
-<img width="300" height="99" src="ballots_four_flavors.jpg"/>
+<img width="200" height="66" src="ballots_four_flavors.jpg"/>
 end-paragraph-centered
 
 ambee sings-desha amenn

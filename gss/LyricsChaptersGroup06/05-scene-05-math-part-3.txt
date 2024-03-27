@@ -423,7 +423,7 @@ begin-explain Chuckles end-explain
 end-lyric
 
 ambee sings-desha amenn
-Plus voting
+Plus some voting
 o-o
 machines
 o-o

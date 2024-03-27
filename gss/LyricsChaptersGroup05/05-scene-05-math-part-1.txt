@@ -164,18 +164,9 @@ About nothin'?
 end-lyric
 
 ambee sings-mathprof amenn
-It's the begin-italics digit end-italics
+Words like
 o-o
-zero that's
-o-o
-especially
-o-o
-magical.
-sentence-next
-o-o
-There have always
-o-o
-been words like
+nothing,
 o-o
 none,
 o-o
@@ -191,14 +182,23 @@ naked,
 o-o
 hungry, and
 o-o
-moron.
+moron
+o-o
+are ancient.
 sentence-next
 o-o
-The digit
+The magical
 o-o
-zero
+innovation
 o-o
-allows us
+was the arrival
+o-o
+of the begin-italics digit end-italics
+o-o
+zero.
+sentence-next
+o-o
+It allows us
 o-o
 to write
 o-o
@@ -282,9 +282,12 @@ numerals
 o-o
 today
 o-o
-I would have jumped
+I wouldn't be here.
+sentence-next
 o-o
-to first in line
+I would have been
+o-o
+first in line
 o-o
 at the nearest
 o-o

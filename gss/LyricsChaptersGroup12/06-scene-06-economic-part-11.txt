@@ -172,59 +172,57 @@ o-o
 his profits.
 end-lyric
 
-ambee sings-damien amenn
-So this is the
-o-o
-savory pie
-o-o
-slicin'
-o-o
-concept?
-end-lyric
-
 ambee sings-desha amenn
-Right now,
+I'm seeing that
 o-o
 lots of
 o-o
-shareholders
+business owners
 o-o
-are shooting
+don't yet
 o-o
-bullets at
+realize
 o-o
-people reaching
+that a voter,
 o-o
-for
+consumer,
 o-o
-savory pie.
+shareholder,
+o-o
+and employee
+o-o
+can be the same
+o-o
+person.
 sentence-next
 o-o
-Without
+Instead they
 o-o
-realizing
+foolishly
 o-o
-some of
+shoot bullets
 o-o
-the people
+at people
 o-o
-getting hit
+reaching for
 o-o
-are the
+savory pie
+o-o
+and hitting
+o-o
+people who are
+o-o
+their customers,
+o-o
+or folks who
+o-o
+supply money
+o-o
+to their
 o-o
 company's
 o-o
-customers,
-o-o
-and future
-o-o
-shareholders.
-end-lyric
-
-ambee sings-econhist amenn
-And sometimes
-o-o
-their employees.
+customers.
 end-lyric
 
 ambee sings-damien amenn
