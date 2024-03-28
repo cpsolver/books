@@ -8,39 +8,28 @@ The picky
 o-o
 terminology
 o-o
-is another
+is part of why
 o-o
-reason we
+we only teach
 o-o
-don't teach
+this stuff
 o-o
-this stuff.
-sentence-next
-o-o
-Except to some
-o-o
-graduate
+to graduate
 o-o
 students.
 sentence-next
 o-o
-Mathematically
-o-o
-what makes more sense
-o-o
-is to use
+Fortunately
 o-o
 the name
 o-o
-ranked choice
+ranked choice voting
 o-o
-voting
+now refers to
 o-o
-to mean any
+counting methods
 o-o
-counting method
-o-o
-that uses
+that use
 o-o
 ranked choice
 o-o
@@ -151,18 +140,7 @@ The ballots
 o-o
 can be counted
 o-o
-by hand
-o-o
-when an
-o-o
-official
-o-o
-recount
-o-o
-is needed.
-sentence-next
-o-o
-Or as a
+by hand as a
 o-o
 demonstration
 o-o
@@ -171,6 +149,15 @@ o-o
 inside a
 o-o
 computer.
+sentence-next
+o-o
+Or when an
+o-o
+official
+o-o
+recount
+o-o
+is needed.
 end-lyric
 
 ambee sings-damien amenn
@@ -203,20 +190,21 @@ six people
 o-o
 sitting at a
 o-o
-long table
-o-o
-and doing
-o-o
-the counting.
+long table.
 sentence-next
 o-o
-Each human counter
+They do the
+o-o
+counting.
+sentence-next
+o-o
+Each person
 o-o
 looks at each
 o-o
-ballot,
+ballot
 o-o
-does a tally
+and does a tally
 o-o
 for just one
 o-o
@@ -224,76 +212,59 @@ specific
 o-o
 pair of
 o-o
-candidates,
+candidates.
+sentence-next
 o-o
-and passes it
+Then the ballot
+o-o
+is passed
 o-o
 to the next
 o-o
-human counter.
+person.
 end-lyric
 
 ambee sings-desha amenn
-Tallying
+If you were
 o-o
-means
+tallying
 o-o
-if you were
-o-o
-one of those
-o-o
-counter folks,
-o-o
-and your pair
-o-o
-was Oscar
+for Oscar
 o-o
 and Hypatia,
 o-o
-you'd look at which
+you would press
 o-o
-of those two
+the Oscar button
 o-o
-was ranked higher
+if he is ranked
 o-o
-or lower
+higher than
 o-o
-than the other.
+Hypatia.
 sentence-next
 o-o
-Then you'd press
+You would press
 o-o
-a button
+the Hypatia button
 o-o
-on one of three
+if that ballot
 o-o
-mechanical
+has the opposite
 o-o
-counters.
+preference.
+sentence-next
+o-o
+You'd press the
+o-o
+third button
+o-o
+if they are both
+o-o
+ranked the same.
 end-lyric
 
 ambee sings-mathprof amenn
-When the counting
-o-o
-is done,
-o-o
-watchers
-o-o
-look at
-o-o
-the mechanical
-o-o
-counters
-o-o
-to see who won
-o-o
-each
-o-o
-pairwise
-o-o
-contest.
-sentence-next
-o-o
 That pairwise
 o-o
 counting process
@@ -301,6 +272,19 @@ o-o
 only needs to
 o-o
 be done once.
+sentence-next
+o-o
+In each pair,
+o-o
+the bigger count
+o-o
+indicates
+o-o
+who won that
+o-o
+pairwise
+o-o
+contest.
 end-lyric
 
 ambee sings-damien amenn
@@ -589,22 +573,9 @@ telling us?
 end-lyric
 
 ambee sings-mathprof amenn
-Some of that money
+It's easy to
 o-o
-comes from people
-o-o
-who fear losing
-o-o
-influence
-o-o
-through their campaign
-o-o
-contributions.
-sentence-next
-o-o
-The criticisms
-o-o
-are against
+criticize
 o-o
 simplistic
 o-o
@@ -615,65 +586,54 @@ o-o
 voting.
 sentence-next
 o-o
-Such as dismissing,
+Such as
+o-o
+pointing out
+o-o
+the failures
+o-o
+in Alaska
+o-o
+and Burlington.
+sentence-next
+o-o
+And dismissing,
 o-o
 instead of counting,
 o-o
 overvotes.
 sentence-next
 o-o
-They spin that as
+The critics
 o-o
-evidence that
+hide the fact that
 o-o
-ranked choice
+a software
 o-o
-ballots are not
+upgrade can
 o-o
-user friendly.
+correctly count
+o-o
+so hyphen-here called overvotes
+o-o
+and can
+o-o
+eliminate
+o-o
+pairwise losing
+o-o
+candidates
+o-o
+when they occur.
 sentence-next
 o-o
-They neglect
-o-o
-to mention
-o-o
-the failures
-o-o
-in Alaska
-o-o
-and Burlington
-o-o
-could have been
-o-o
-avoided with a
-o-o
-software upgrade.
-sentence-next
-o-o
-Some other critics
+And some critics
 o-o
 promote
 o-o
-European
-o-o
-methods,
-o-o
-the ones that keep
-o-o
-party insiders
-o-o
-in control.
-sentence-next
-o-o
-Other critics
-o-o
-promote methods
-o-o
-that use
-o-o
 score ballots
 o-o
-instead of
+as better than
 o-o
 ranked choice
 o-o
@@ -740,23 +700,32 @@ They're vulnerable
 o-o
 to voters who
 o-o
-exaggerate
+exaggerate.
+sentence-next
 o-o
-using something
+Similar to
 o-o
-like the clapping
+the clapping
 o-o
 tactic.
 end-lyric
 
 ambee sings-desha amenn
-Drama queens
+Ah,
 o-o
-already get
+there's no way
 o-o
-too much
+to know if a
 o-o
-attention.
+ballot is from
+o-o
+a drama queen
+o-o
+or someone with
+o-o
+deep religious
+o-o
+beliefs.
 end-lyric
 
 ambee sings-damien amenn
@@ -818,7 +787,7 @@ method is used.
 end-lyric
 
 begin-paragraph-centered
-<img style="max-width:100%" width="200" height="66" src="ballots_four_flavors.jpg" alt="Ten ballots four ice cream flavors"/>
+<img id="ballots_img" style="max-width:100%" width="300" height="99" src="ballots_four_flavors.png" alt="Ten ballots four ice cream flavors"/>
 end-paragraph-centered
 
 ambee sings-desha amenn
@@ -850,31 +819,15 @@ voting
 o-o
 also looks down
 o-o
-from the top.
-sentence-next
+from the top,
 o-o
-Yet it digs
+although on some
+o-o
+ballots
+o-o
+it looks
 o-o
 deeper.
-sentence-next
-o-o
-One layer
-o-o
-at a time.
-end-lyric
-
-ambee sings-damien amenn
-I'm guessing
-o-o
-pairwise counting
-o-o
-is the third
-o-o
-counting method?
-end-lyric
-
-ambee sings-mathprof amenn
-Exactly.
 sentence-next
 o-o
 Pairwise counting

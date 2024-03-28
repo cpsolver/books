@@ -943,7 +943,7 @@ minimum wage.
 end-lyric
 
 ambee sings-damien amenn
-begin-italics Median end-italics no-space ?
+Median?
 sentence-next
 o-o
 Isn't that the

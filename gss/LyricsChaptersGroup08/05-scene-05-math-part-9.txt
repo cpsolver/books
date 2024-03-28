@@ -570,30 +570,14 @@ o-o
 when they lie.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 Mathiness
 o-o
-must be what
+might be what
 o-o
-my landlord's
+your landlord's
 o-o
-using
-o-o
-on me.
-end-lyric
-
-ambee sings-desha amenn
-I admit I tend
-o-o
-to distrust math
-o-o
-until I do the
-o-o
-counting or
-o-o
-calculations
-o-o
-myself.
+using.
 end-lyric
 
 ambee sings-damien amenn
@@ -639,97 +623,34 @@ this course!
 end-lyric
 
 ambee sings-damien amenn
-But do we need
+Why did you
 o-o
-to remember
+make a big deal
 o-o
-that guy's name?
-sentence-next
+out of the
 o-o
-Condolences,
-o-o
-or something?
+digit zero?
 end-lyric
 
 ambee sings-mathprof amenn
-Condorcet
+It demonstrates
 o-o
-rhymes with
+that a simple
 o-o
-lingerie begin-explain pronounced lawn zjoor ay end-explain no-space .
+math concept
+o-o
+can change
+o-o
+the world in
+o-o
+marvelous ways.
 sentence-next
 o-o
-Pairwise vote
+Yet in spite of
 o-o
-counting
+its simplicity,
 o-o
-includes
-o-o
-Condorcet
-o-o
-methods.
-sentence-next
-o-o
-And some
-o-o
-non hyphen-here Condorcet
-o-o
-methods.
-sentence-next
-o-o
-So just remember
-o-o
-the concept of
-o-o
-pairwise
-o-o
-vote counting.
-sentence-next
-o-o
-And needing more
-o-o
-than half those votes.
-end-lyric
-
-ambee sings-damien amenn
-Half's a fraction
-o-o
-I can recall.
-sentence-next
-o-o
-But I don't
-o-o
-understand
-o-o
-why you made a
-o-o
-big deal out of
-o-o
-the digit
-o-o
-zero.
-end-lyric
-
-ambee sings-mathprof amenn
-Zero as a digit
-o-o
-changed the world
-o-o
-in marvelous ways.
-sentence-next
-o-o
-Similarly
-o-o
-pairwise
-o-o
-vote counting
-o-o
-will change the world
-o-o
-in marvelous ways.
-sentence-next
-o-o
-It took our
+it took our
 o-o
 ancestors
 o-o
@@ -741,13 +662,7 @@ from the abacus
 o-o
 in China
 o-o
-to what we see
-o-o
-as obvious,
-o-o
-the benefits
-o-o
-of the digits
+to the digits
 o-o
 zero through nine.
 sentence-next

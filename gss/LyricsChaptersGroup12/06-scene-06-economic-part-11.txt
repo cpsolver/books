@@ -206,15 +206,19 @@ at people
 o-o
 reaching for
 o-o
-savory pie
+savory pie.
+sentence-next
 o-o
-and hitting
+Yet some folks
 o-o
-people who are
+who they hit
 o-o
-their customers,
+are their
 o-o
-or folks who
+customers.
+sentence-next
+o-o
+Or folks who
 o-o
 supply money
 o-o

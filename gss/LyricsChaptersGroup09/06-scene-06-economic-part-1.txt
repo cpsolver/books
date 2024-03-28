@@ -582,9 +582,7 @@ sentence-next
 o-o
 The ones who stay
 o-o
-will be free
-o-o
-to shift their
+will shift their
 o-o
 priorities
 o-o
