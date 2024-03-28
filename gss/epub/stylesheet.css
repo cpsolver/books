@@ -139,6 +139,10 @@ page-break-before:always;
 page-break-after:always;
 }
 
+.explain {
+font-style:italic;
+}
+
 .lyric{
 text-indent:-1.5em;
 padding:0;

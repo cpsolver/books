@@ -141,6 +141,10 @@ page<hyphen_here>break<hyphen_here>before:always;
 page<hyphen_here>break<hyphen_here>after:always;
 }
 
+.explain {
+font-style:italic;
+}
+
 .lyric{
 text<hyphen_here>indent:<hyphen_here>1.5em;
 margin<hyphen_here>left:2.5em;
