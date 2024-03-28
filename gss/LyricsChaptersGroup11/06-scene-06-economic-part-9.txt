@@ -299,6 +299,11 @@ o-o
 Ripping through
 o-o
 our economy.
+sentence-next
+o-o
+It's so
+o-o
+depressing.
 end-lyric
 
 ambee sings-damien amenn
@@ -731,27 +736,23 @@ news to me.
 end-lyric
 
 ambee sings-econhist amenn
-I've found
+Subreddits
 o-o
-subreddits
+can be quite
 o-o
-and insightful
-o-o
-forums
-o-o
-to be especially
-o-o
-insightful.
+inspiring.
 end-lyric
 
 ambee sings-damien amenn
-You get insights
+I don't suppose
 o-o
-from reading
+this relates to
+o-o
+reading
 o-o
 underwater
 o-o
-in the bathtub?
+in a bathtub?
 end-lyric
 
 ambee sings-desha amenn
@@ -764,9 +765,9 @@ o-o
 on Reddit.
 sentence-next
 o-o
-Some of them
+Some have
 o-o
-have fewer trolls
+fewer trolls
 o-o
 because of
 o-o

@@ -97,30 +97,20 @@ collected
 o-o
 non hyphen-here fiction books
 o-o
+and recruited
+o-o
+wise scholars
+o-o
 from around the
 o-o
 known world.
 sentence-next
 o-o
-And he hired
-o-o
-wise scholars
-o-o
-to develop
-o-o
-yet more
-o-o
-knowledge.
-sentence-next
-o-o
-And invent new
-o-o
-technology.
-sentence-next
-o-o
 They developed
 o-o
-what we know as
+innovations
+o-o
+we now know as
 o-o
 algebra,
 o-o
@@ -132,10 +122,9 @@ three D drawings,
 o-o
 robotic mechanisms,
 o-o
-paper making.
-sentence-next
+paper making,
 o-o
-And especially
+and new
 o-o
 weapons of
 o-o

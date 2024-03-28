@@ -385,12 +385,9 @@ o-o
 is indeed boring.
 sentence-next
 o-o
-For everyone.
-sentence-next
+Even for
 o-o
-Even econ
-o-o
-majors.
+econ majors.
 sentence-next
 o-o
 But that's

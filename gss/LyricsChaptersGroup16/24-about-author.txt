@@ -45,7 +45,7 @@ To see a list of projects created by Richard Fobes, including books, websites, s
 end-standard-paragraph
 
 begin-paragraph-centered
-<img width="200" height="196" src="author.jpg"/>
+<img style="max-width:100%" width="200" height="196" src="author.jpg" alt="Author Richard Fobes 1993"/>
 end-paragraph-centered
 
 begin-standard-paragraph

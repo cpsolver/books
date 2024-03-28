@@ -340,11 +340,13 @@ business
 o-o
 buying its own
 o-o
-dinos begin-explain either pronunciation end-explain to give
+dinos
 o-o
-the appearance
+to give the
 o-o
-of extra customers
+appearance of
+o-o
+extra customers
 o-o
 and income.
 end-lyric

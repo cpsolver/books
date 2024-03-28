@@ -367,7 +367,9 @@ sentence-next
 o-o
 And failures
 o-o
-to sustain
+to continue
+o-o
+improving
 o-o
 democracy.
 end-lyric

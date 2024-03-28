@@ -569,53 +569,105 @@ sentence-next
 o-o
 Lots of money
 o-o
-gets donated to
+fuels critics
 o-o
-organizations
+of ranked choice
 o-o
-that criticize
+voting.
+end-lyric
+
+ambee sings-damien amenn
+What's there
+o-o
+to criticize?
+end-lyric
+
+ambee sings-desha amenn
+What are you not
+o-o
+telling us?
+end-lyric
+
+ambee sings-mathprof amenn
+Some of that money
+o-o
+comes from people
+o-o
+who fear losing
+o-o
+influence
+o-o
+through their campaign
+o-o
+contributions.
+sentence-next
+o-o
+The criticisms
+o-o
+are against
+o-o
+simplistic
+o-o
+versions of
 o-o
 ranked choice
 o-o
 voting.
 sentence-next
 o-o
-Some of those
+Such as dismissing,
 o-o
-critics agree
+instead of counting,
 o-o
-we need better
-o-o
-vote counting.
+overvotes.
 sentence-next
 o-o
-But they promote
+They spin that as
 o-o
-other kinds of
+evidence that
 o-o
-vote counting
+ranked choice
 o-o
-methods.
-end-lyric
-
-ambee sings-desha amenn
-Probably like
+ballots are not
 o-o
-the methods
+user friendly.
+sentence-next
 o-o
-in Europe
+They neglect
 o-o
-that keep
+to mention
+o-o
+the failures
+o-o
+in Alaska
+o-o
+and Burlington
+o-o
+could have been
+o-o
+avoided with a
+o-o
+software upgrade.
+sentence-next
+o-o
+Some other critics
+o-o
+promote
+o-o
+European
+o-o
+methods,
+o-o
+the ones that keep
 o-o
 party insiders
 o-o
 in control.
-end-lyric
-
-ambee sings-mathprof amenn
-Yes,
+sentence-next
 o-o
-and methods
+Other critics
+o-o
+promote methods
 o-o
 that use
 o-o
@@ -654,7 +706,24 @@ o-o
 preference.
 sentence-next
 o-o
-But they don't work
+Such as caring
+o-o
+that Jewish friends
+o-o
+really really
+o-o
+don't want pork
+o-o
+when they choose
+o-o
+a second
+o-o
+pizza topping.
+sentence-next
+o-o
+But score ballots
+o-o
+do not work
 o-o
 in general
 o-o
@@ -667,20 +736,15 @@ o-o
 and mayors.
 sentence-next
 o-o
-That's because
-o-o
-score ballots are
-o-o
-vulnerable
+They're vulnerable
 o-o
 to voters who
 o-o
-exaggerate.
-sentence-next
+exaggerate
 o-o
-Similar to
+using something
 o-o
-the clapping
+like the clapping
 o-o
 tactic.
 end-lyric
@@ -693,51 +757,6 @@ o-o
 too much
 o-o
 attention.
-end-lyric
-
-ambee sings-damien amenn
-I'll bet those
-o-o
-two failures
-o-o
-get mentioned.
-sentence-next
-o-o
-And the overvote
-o-o
-complication.
-end-lyric
-
-ambee sings-mathprof amenn
-Yes,
-o-o
-without
-o-o
-mentioning
-o-o
-those failures
-o-o
-and complications
-o-o
-are easy
-o-o
-to avoid.
-sentence-next
-o-o
-We just need
-o-o
-software upgrades.
-sentence-next
-o-o
-To correctly
-o-o
-count overvotes,
-o-o
-and eliminate
-o-o
-pairwise losing
-o-o
-candidates.
 end-lyric
 
 ambee sings-damien amenn
@@ -764,9 +783,12 @@ These colored blocks
 o-o
 represent
 o-o
-ten ballots,
+ten ranked
 o-o
-and the colors
+choice ballots.
+sentence-next
+o-o
+The colors
 o-o
 represent
 o-o
@@ -775,42 +797,6 @@ o-o
 ice cream
 o-o
 flavors.
-end-lyric
-
-begin-paragraph-centered
-<img width="200" height="66" src="ballots_four_flavors.jpg"/>
-end-paragraph-centered
-
-ambee sings-desha amenn
-What's the point
-o-o
-of playing with
-o-o
-colored blocks?
-end-lyric
-
-ambee sings-mathprof amenn
-Each stack
-o-o
-represents
-o-o
-one ranked choice
-o-o
-ballot.
-sentence-next
-o-o
-The voter's
-o-o
-favorite
-o-o
-is on top.
-sentence-next
-o-o
-Their least hyphen-here favorite
-o-o
-is on the
-o-o
-bottom.
 sentence-next
 o-o
 The winning flavor
@@ -821,14 +807,19 @@ chocolate chip,
 o-o
 or strawberry,
 o-o
-or vanilla,
+or vanilla.
+sentence-next
 o-o
-depending on
+Depending on
 o-o
 which counting
 o-o
 method is used.
 end-lyric
+
+begin-paragraph-centered
+<img style="max-width:100%" width="200" height="66" src="ballots_four_flavors.jpg" alt="Ten ballots four ice cream flavors"/>
+end-paragraph-centered
 
 ambee sings-desha amenn
 As usual,
@@ -857,29 +848,19 @@ Instant runoff
 o-o
 voting
 o-o
-also looks at
+also looks down
 o-o
-the top blocks.
+from the top.
 sentence-next
 o-o
-But then
+Yet it digs
 o-o
-the color
-o-o
-that appears
-o-o
-to be least
-o-o
-popular
-o-o
-is removed.
+deeper.
 sentence-next
 o-o
-That repeats
+One layer
 o-o
-until one
-o-o
-color remains.
+at a time.
 end-lyric
 
 ambee sings-damien amenn
@@ -900,9 +881,7 @@ Pairwise counting
 o-o
 looks deeply
 o-o
-into all the
-o-o
-preference
+at all the
 o-o
 information.
 end-lyric
@@ -962,6 +941,23 @@ o-o
 to become
 o-o
 laws.
+sentence-next
+o-o
+And a better
+o-o
+way for
+o-o
+parliaments
+o-o
+to elect
+o-o
+cabinet
+o-o
+ministers,
+o-o
+including the
+o-o
+prime minister.
 sentence-next
 o-o
 But getting
