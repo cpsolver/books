@@ -23,7 +23,7 @@ Now I realize
 o-o
 those're 'bout the
 o-o
-attention hyphen-here grabbin'
+attention hyphen-here grabbing
 o-o
 fight between
 o-o
@@ -242,17 +242,17 @@ o-o
 suppose.
 sentence-next
 o-o
-The splittin'
+The splitting
 o-o
 of votes among
 o-o
 candidates
 o-o
-durin' begin-italics primaries end-italics no-space ,
+during begin-italics primaries end-italics no-space ,
 o-o
 that's their key
 o-o
-to controllin' you
+to controlling you
 o-o
 politicians.
 sentence-next
@@ -298,7 +298,7 @@ Aren't there
 o-o
 some bright wits
 o-o
-callin' attention
+calling attention
 o-o
 to these dirty
 o-o
@@ -436,7 +436,7 @@ sentence-next
 o-o
 Lots of 'em
 o-o
-are gettin'
+are getting
 o-o
 paid to be a
 o-o
@@ -520,7 +520,7 @@ Don't they see
 o-o
 that just means
 o-o
-they're shootin'
+they're shooting
 o-o
 at the same
 o-o
@@ -558,7 +558,7 @@ end-lyric
 ambee sings-damien amenn
 I think I'm
 o-o
-figurin' this out.
+figuring this out.
 sentence-next
 o-o
 It's not what I
@@ -591,7 +591,7 @@ o-o
 history.
 sentence-next
 o-o
-Crammin' more facts
+Cramming more facts
 o-o
 'bout the Alamo
 o-o
@@ -668,7 +668,7 @@ Oh,
 o-o
 'cause voters
 o-o
-in the losin'
+in the losing
 o-o
 party would
 o-o
@@ -725,7 +725,7 @@ ambee sings-damien amenn
 Ah!
 sentence-next
 o-o
-Now the splittin's
+Now the splitting's
 o-o
 hidden in
 o-o

@@ -471,7 +471,7 @@ vote splitting.
 end-lyric
 
 ambee sings-damien amenn
-What do spittin'
+What do spitting
 o-o
 goats have to do
 o-o
@@ -489,7 +489,7 @@ As in voting.
 end-lyric
 
 ambee sings-damien amenn
-Vote spittin'?
+Vote spitting?
 end-lyric
 
 ambee sings-politician amenn
@@ -651,7 +651,7 @@ end-lyric
 ambee sings-damien amenn
 Oh, so long ago
 o-o
-votin' began
+voting began
 o-o
 as a way to
 o-o
@@ -739,19 +739,19 @@ If I had to
 o-o
 choose between
 o-o
-doin' just one page
+doing just one page
 o-o
 of math homework,
 o-o
-or standin' under
+or standing under
 o-o
 a tall fir tree
 o-o
-gettin' cut down,
+getting cut down,
 o-o
 I'd be there
 o-o
-yellin' begin-italics timber! end-italics
+yelling begin-italics timber! end-italics
 end-lyric
 
 ambee sings-politician amenn
@@ -818,5 +818,5 @@ so easily
 o-o
 hide this vote
 o-o
-splittin'?
+splitting?
 end-lyric

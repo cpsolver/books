@@ -39,7 +39,7 @@ sentence-next
 o-o
 Or are you just
 o-o
-tryin' to, well,
+trying to, well,
 o-o
 I dunno.
 sentence-next
@@ -108,7 +108,7 @@ swine.
 end-lyric
 
 ambee sings-damien amenn
-Let's keep goin'.
+Let's keep going.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -625,7 +625,7 @@ a winner.
 end-lyric
 
 ambee sings-damien amenn
-So gettin' more
+So getting more
 o-o
 than half the votes
 o-o

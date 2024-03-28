@@ -90,7 +90,7 @@ It's like what
 o-o
 a magician
 o-o
-doin' magic
+doing magic
 o-o
 does.
 end-lyric
@@ -112,7 +112,7 @@ away from the
 o-o
 other hand
 o-o
-that's doin'
+that's doing
 o-o
 the sneaky
 o-o
@@ -208,11 +208,11 @@ ambee sings-damien amenn
 Math.
 sentence-next
 o-o
-It's blockin' me
+It's blocking me
 o-o
-from findin'
+from finding
 o-o
-the whackin'
+the whacking
 o-o
 point that'll
 o-o
@@ -349,7 +349,7 @@ So you're a loser.
 end-lyric
 
 ambee sings-damien amenn
-But I'm tryin'
+But I'm trying
 o-o
 not to be.
 end-lyric
@@ -387,7 +387,7 @@ o-o
 'n not handsome.
 sentence-next
 o-o
-So workin' hard
+So working hard
 o-o
 to earn money
 o-o
@@ -760,7 +760,7 @@ Hillary Clinton
 o-o
 from 
 o-o
-reachin'
+reaching
 o-o
 the general
 o-o
@@ -977,7 +977,7 @@ Yeah, it seems
 o-o
 it'll take some
 o-o
-lookin' into
+looking into
 o-o
 mathematics.
 end-lyric

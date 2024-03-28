@@ -508,7 +508,7 @@ o-o
 corporations.
 sentence-next
 o-o
-But thinkin'
+But thinking
 o-o
 of me,
 o-o
@@ -943,7 +943,7 @@ sentence-next
 o-o
 So why have you
 o-o
-been sayin'
+been saying
 o-o
 legal
 o-o
@@ -976,7 +976,7 @@ a clue
 o-o
 'bout what you're
 o-o
-referrin'
+referring
 o-o
 to.
 end-lyric

@@ -133,7 +133,7 @@ sentence-next
 o-o
 Some things
 o-o
-are becomin'
+are becoming
 o-o
 clear.
 sentence-next
@@ -230,7 +230,7 @@ can't yet link
 o-o
 the problem of
 o-o
-vote splittin'
+vote splitting
 o-o
 to a solution.
 sentence-next
@@ -422,7 +422,7 @@ end-lyric
 ambee sings-damien amenn
 I admit
 o-o
-I'm seein' a
+I'm seeing a
 o-o
 bit of hope 
 o-o
@@ -475,7 +475,7 @@ end-lyric
 ambee sings-damien amenn
 Thank you
 o-o
-for tiltin'
+for tilting
 o-o
 my brain
 o-o

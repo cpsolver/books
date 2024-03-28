@@ -401,7 +401,7 @@ influence?
 end-lyric
 
 ambee sings-damien amenn
-I'm feelin'
+I'm feeling
 o-o
 like a dunce.
 end-lyric
@@ -613,7 +613,7 @@ The ones
 o-o
 I'm only now
 o-o
-learnin'.
+learning.
 end-lyric
 
 ambee sings-mathprof amenn

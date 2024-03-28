@@ -354,7 +354,7 @@ o-o
 of corruption.
 sentence-next
 o-o
-Now I'm tryin'
+Now I'm trying
 o-o
 to figure out
 o-o

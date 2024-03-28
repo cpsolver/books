@@ -62,7 +62,7 @@ o-o
 a taste for me.
 sentence-next
 o-o
-Risin' out of
+Rising out of
 o-o
 serfdom.
 sentence-next
@@ -187,7 +187,7 @@ o-o
 what's the trick?
 sentence-next
 o-o
-Of gettin' money
+Of getting money
 o-o
 to fund a life
 o-o
@@ -550,7 +550,7 @@ sentence-next
 o-o
 So you don't
 o-o
-end up singin'
+end up singing
 o-o
 the blues?
 end-lyric
@@ -615,7 +615,7 @@ diskettes.
 end-lyric
 
 ambee sings-damien amenn
-So you're seekin'
+So you're seeking
 o-o
 the one big
 o-o
@@ -756,7 +756,7 @@ well,
 o-o
 I'd like to
 o-o
-find fundin'
+find funding
 o-o
 for a business
 o-o
@@ -765,12 +765,12 @@ sentence-next
 o-o
 I've invented a
 o-o
-tool for cleanin'
+tool for cleaning
 o-o
 leaf gutters.
 sentence-next
 o-o
-Without gettin'
+Without getting
 o-o
 on a ladder.
 sentence-next
@@ -814,11 +814,11 @@ o-o
 the dirt.
 sentence-next
 o-o
-From fallin' off
+From falling off
 o-o
 a ladder.
 sentence-next
-While cleanin'
+While cleaning
 o-o
 a gutter.
 sentence-next
@@ -834,7 +834,7 @@ ambee sings-vc amenn
 That's a great spin!
 sentence-next
 o-o
-Fear of fallin'.
+Fear of falling.
 sentence-next
 o-o
 That's a fear that
@@ -938,7 +938,7 @@ Death Valley.
 end-lyric
 
 ambee sings-damien amenn
-So a workin'
+So a working
 o-o
 prototype's
 o-o

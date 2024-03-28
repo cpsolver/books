@@ -54,7 +54,7 @@ end-lyric
 ambee sings-damien amenn
 Now I'm
 o-o
-beginnin' to see
+beginning to see
 o-o
 how come we,
 o-o
@@ -294,7 +294,7 @@ sentence-next
 o-o
 But that's
 o-o
-cheatin'.
+cheating.
 sentence-next
 o-o
 It's corrupt.
@@ -379,7 +379,7 @@ end-lyric
 ambee sings-damien amenn
 Now I think I'm
 o-o
-seein' how come
+seeing how come
 o-o
 neither
 o-o
@@ -391,24 +391,24 @@ really
 o-o
 gives a damn
 o-o
-'bout givin' 
+'bout giving 
 o-o
 homeless folks
 o-o
 an assist,
 o-o
-endin' school
+ending school
 o-o
 shootings,
 o-o
-helpin'
+helping
 o-o
 Latinos who
 o-o
 don't vote.
 sentence-next
 o-o
-Or listenin'
+Or listening
 o-o
 to what dolphins
 o-o
@@ -416,18 +416,18 @@ have to say
 o-o
 about us
 o-o
-dumpin' trash
+dumping trash
 o-o
 into their
 o-o
-swimmin' pool.
+swimming pool.
 sentence-next
 o-o
 I see the
 o-o
 down folks
 o-o
-are usin'
+are using
 o-o
 religious
 o-o
@@ -747,7 +747,7 @@ sentence-next
 o-o
 Um,
 o-o
-there's somethin'
+there's something
 o-o
 else that's a bit
 o-o
@@ -796,7 +796,7 @@ sentence-next
 o-o
 I thought I was
 o-o
-followin' you
+following you
 o-o
 down main street,
 o-o
@@ -826,7 +826,7 @@ sentence-next
 o-o
 I think now I'm
 o-o
-seein' who's
+seeing who's
 o-o
 in the
 o-o

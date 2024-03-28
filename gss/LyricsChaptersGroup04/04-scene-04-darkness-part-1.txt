@@ -42,7 +42,7 @@ Of course.
 end-lyric
 
 ambee sings-damien amenn
-Thanks for meetin'
+Thanks for meeting
 o-o
 with me.
 end-lyric
@@ -162,7 +162,7 @@ do you know
 o-o
 about vote
 o-o
-splittin'?
+splitting?
 end-lyric
 
 ambee sings-desha amenn
@@ -261,7 +261,7 @@ o-o
 and unfair.
 sentence-next
 o-o
-It's like leavin'
+It's like leaving
 o-o
 just four squares
 o-o
@@ -373,7 +373,7 @@ Skip the sermons.
 end-lyric
 
 ambee sings-damien amenn
-Vote splittin's
+Vote splitting's
 o-o
 at the root of
 o-o

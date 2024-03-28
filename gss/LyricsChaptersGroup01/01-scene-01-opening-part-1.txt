@@ -39,7 +39,7 @@ With today's luck
 o-o
 I'd land on
 o-o
-somethin' soft.
+something soft.
 end-lyric
 
 ambee sings-fiance amenn
@@ -68,9 +68,9 @@ What's the matter?
 end-lyric
 
 ambee sings-damien amenn
-I'm feelin' sadder
+I'm feeling sadder
 o-o
-than a limpin'
+than a limping
 o-o
 seagull.
 sentence-next
@@ -125,7 +125,7 @@ To gain
 o-o
 that entrance
 o-o
-you've been bustin'
+you've been busting
 o-o
 your ass.
 end-lyric
@@ -215,7 +215,7 @@ o-o
 Don't they see?
 sentence-next
 o-o
-We're lookin' down
+We're looking down
 o-o
 into a volcano
 o-o
@@ -244,7 +244,7 @@ we who vote
 o-o
 aren't the ones
 o-o
-keepin' afloat?
+keeping afloat?
 sentence-next
 o-o
 We're supposed to have
@@ -345,7 +345,7 @@ o-o
 see through those.
 sentence-next
 o-o
-Somethin's hidden.
+Something's hidden.
 sentence-next
 o-o
 There's gotta be
@@ -407,7 +407,7 @@ end-lyric
 ambee sings-damien amenn
 Yeah I'm
 o-o
-willin' to
+willing to
 o-o
 bust my ass.
 sentence-next
@@ -416,7 +416,7 @@ But I'll give it
 o-o
 a pass if we're
 o-o
-followin'
+following
 o-o
 the footsteps
 o-o
@@ -430,7 +430,7 @@ On a warpath?
 end-lyric
 
 ambee sings-damien amenn
-Gettin' herded.
+Getting herded.
 sentence-next
 o-o
 Their shamans spoke
@@ -439,7 +439,7 @@ begin-explain speaking clearly end-explain
 o-o
 begin-italics White chieftains
 o-o
-are lyin' wolves
+are lying wolves
 o-o
 who herd us like
 o-o
@@ -461,7 +461,7 @@ beyond their need. end-italics
 end-lyric
 
 ambee sings-fiance amenn
-We're bein' herded indeed.
+We're being herded indeed.
 sentence-next
 o-o
 Something's not right.
@@ -595,7 +595,7 @@ sentence-next
 o-o
 They claim that
 o-o
-workin' hard's
+working hard's
 o-o
 a good bet.
 sentence-next
@@ -620,7 +620,7 @@ truffle?
 end-lyric
 
 ambee sings-damien amenn
-Somethin' brown
+Something brown
 o-o
 to get me down?
 sentence-next
@@ -636,7 +636,7 @@ ambee sings-damien amenn
 I'm suspicious.
 sentence-next
 o-o
-Somethin's goin' on
+Something's going on
 o-o
 behind our backs.
 end-lyric

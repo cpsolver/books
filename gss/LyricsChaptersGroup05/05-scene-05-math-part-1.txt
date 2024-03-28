@@ -118,18 +118,18 @@ are scary,
 o-o
 spooky, 'n
 o-o
-terrifyin'.
+terrifying.
 sentence-next
 o-o
-This one's bringin'
+This one's bringing
 o-o
 back awful
 o-o
 memories
 o-o
-of bein' teased
+of being teased
 o-o
-for gettin' Cs,
+for getting Cs,
 o-o
 'n Ds,
 o-o
@@ -160,7 +160,7 @@ o-o
 with small talk?
 sentence-next
 o-o
-About nothin'?
+About nothing?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -431,7 +431,7 @@ o-o
 sixteenths.
 sentence-next
 o-o
-Those effin'
+Those effing
 o-o
 fractions.
 sentence-next
@@ -693,7 +693,7 @@ Sexagesimal.
 end-lyric
 
 ambee sings-damien amenn
-We're jumpin'
+We're jumping
 o-o
 from decimals
 o-o

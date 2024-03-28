@@ -314,7 +314,7 @@ I know it's not
 o-o
 a store with signs
 o-o
-sayin' everything
+saying everything
 o-o
 is free.
 sentence-next
@@ -578,7 +578,7 @@ end-lyric
 ambee sings-damien amenn
 That explains
 o-o
-what's been puttin'
+what's been putting
 o-o
 a big smile
 o-o
@@ -621,7 +621,7 @@ Well,
 o-o
 I think I'm
 o-o
-gettin' the
+getting the
 o-o
 general idea.
 sentence-next

@@ -208,7 +208,7 @@ kitchen prep
 o-o
 machine
 o-o
-than a self hyphen-here drivin'
+than a self hyphen-here driving
 o-o
 car.
 end-lyric

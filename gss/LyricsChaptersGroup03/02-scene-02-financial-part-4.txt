@@ -112,7 +112,7 @@ sentence-next
 o-o
 Especially
 o-o
-gettin' a law
+getting a law
 o-o
 that creates a
 o-o
@@ -185,7 +185,7 @@ I do have
 o-o
 a question
 o-o
-about somethin'
+about something
 o-o
 you said.
 sentence-next

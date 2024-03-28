@@ -240,7 +240,7 @@ That sounds
 o-o
 a lot like
 o-o
-gamblin'.
+gambling.
 end-lyric
 
 ambee sings-vc amenn
@@ -385,7 +385,7 @@ o-o
 barbaric.
 sentence-next
 o-o
-And excitin'.
+And exciting.
 end-lyric
 
 ambee sings-vc amenn
@@ -459,7 +459,7 @@ sentence-next
 o-o
 So how can I
 o-o
-switch from bein'
+switch from being
 o-o
 an employee
 o-o
@@ -468,7 +468,7 @@ o-o
 an employer?
 sentence-next
 o-o
-Ownin' a small
+Owning a small
 o-o
 business,
 o-o
@@ -655,11 +655,11 @@ end-lyric
 ambee sings-damien amenn
 It sounds like
 o-o
-makin' money
+making money
 o-o
-is about lyin'
+is about lying
 o-o
-'n cheatin'.
+'n cheating.
 end-lyric
 
 ambee sings-vc amenn
@@ -947,7 +947,7 @@ end-lyric
 ambee sings-damien amenn
 So the key is
 o-o
-ownin' a biz?
+owning a biz?
 end-lyric
 
 ambee sings-vc amenn

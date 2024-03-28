@@ -112,7 +112,7 @@ Not if that's where
 o-o
 the bugs have been
 o-o
-holdin' their
+holding their
 o-o
 rallies.
 sentence-next
@@ -549,7 +549,7 @@ sentence-next
 o-o
 Should we
 o-o
-be puttin' down
+be putting down
 o-o
 fat people?
 end-lyric
@@ -595,7 +595,7 @@ primary.
 end-lyric
 
 ambee sings-damien amenn
-You're talkin' 'bout
+You're talking 'bout
 o-o
 rich folks,
 o-o
@@ -701,7 +701,7 @@ lowdown is
 o-o
 blindingly
 o-o
-illuminatin'.
+illuminating.
 end-lyric
 
 ambee sings-politician amenn
@@ -775,7 +775,7 @@ sentence-next
 o-o
 That's as stupid
 o-o
-as placin' bets
+as placing bets
 o-o
 on both horses
 o-o

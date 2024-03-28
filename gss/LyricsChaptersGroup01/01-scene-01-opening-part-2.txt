@@ -10,7 +10,7 @@ o-o
 the other.
 sentence-next
 o-o
-That's not effin' fair!
+That's not effing fair!
 end-lyric
 
 ambee sings-fiance amenn
@@ -40,7 +40,7 @@ sentence-next
 o-o
 Yet he says
 o-o
-he's drownin'
+he's drowning
 o-o
 in taxes.
 sentence-next
@@ -54,11 +54,11 @@ o-o
 'N extra fees.
 sentence-next
 o-o
-Just keepin'
+Just keeping
 o-o
 track of these,
 o-o
-plus postin'
+plus posting
 o-o
 the Spanish
 o-o
@@ -180,7 +180,7 @@ Yet surely
 o-o
 somewhere,
 o-o
-maybe sittin'
+maybe sitting
 o-o
 in a
 o-o
@@ -191,7 +191,7 @@ o-o
 mountaintop.
 sentence-next
 o-o
-Or kneelin'
+Or kneeling
 o-o
 at an altar
 o-o
@@ -200,11 +200,11 @@ o-o
 cathedral.
 sentence-next
 o-o
-Or standin'
+Or standing
 o-o
 behind a
 o-o
-counter askin'
+counter asking
 o-o
 begin-italics Do you want
 o-o
@@ -397,7 +397,7 @@ o-o
 o-o
 those
 o-o
-effin' devils.
+effing devils.
 sentence-next
 o-o
 They just rat out
@@ -426,7 +426,7 @@ test questions.
 end-lyric
 
 ambee sings-damien amenn
-Just bein'
+Just being
 o-o
 inside a
 o-o
@@ -436,7 +436,7 @@ like I've stepped
 o-o
 into a
 o-o
-boxin' ring.
+boxing ring.
 sentence-next
 o-o
 Without wearing
@@ -622,7 +622,7 @@ o-o
 Where's that thing?
 sentence-next
 o-o
-The tiltin' place?
+The tilting place?
 end-lyric
 
 ambee sings-fiance amenn
@@ -739,7 +739,7 @@ end-lyric
 ambee sings-damien amenn
 Then I'll shift
 o-o
-from workin' hard
+from working hard
 o-o
 for the masters
 o-o
@@ -785,10 +785,10 @@ sentence-next
 o-o
 'N keep on
 o-o
-ridin'.
+riding.
 sentence-next
 o-o
-'Cause I'm dyin'.
+'Cause I'm dying.
 sentence-next
 o-o
 To know
@@ -801,7 +801,7 @@ end-lyric
 ambee sings-fiance amenn
 As long as you're
 o-o
-not dyin'
+not dying
 o-o
 on me.
 end-lyric
