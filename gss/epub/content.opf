@@ -14,7 +14,7 @@
 <manifest>
     <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
     <item id="author_img" href="author.jpg" media-type="image/jpeg"/>
-    <item id="ballots_img" href="ballots_four_flavors.jpg" media-type="image/jpeg"/>
+    <item id="ballots_img" href="ballots_four_flavors.png" media-type="image/png"/>
     <item id="coverpage" href="coverpage.xhtml" media-type="application/xhtml+xml"/>
     <item id="tableofcontents" href="tableofcontents.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="segment_01" href="ogss_01.xhtml" media-type="application/xhtml+xml"/>
