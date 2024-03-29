@@ -25,11 +25,7 @@ end-standard-paragraph
 begin-standard-paragraph
 Richard's understanding of vote counting started when he was in a small music hyphen-here and hyphen-here dance organization that was voting on a new logo design.
 sentence-next
-Initially there were two designs.
-sentence-next
-Richard submitted a third design he regarded as an improvement on the better of the two original designs.
-sentence-next
-Although Richard's design was chosen because it got the most votes, the worst design came close to winning.
+The worst of the three designs came close to winning because the two better designs were similar.
 sentence-next
 This experience triggered his aha moment about vote splitting.
 sentence-next

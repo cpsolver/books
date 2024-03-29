@@ -4,17 +4,25 @@ title-chapter-01
 end-title
 
 begin-standard-paragraph
-begin-bold Upfront end-bold no-space :
+begin-bold Skipping ahead end-bold no-space :
 sentence-next
+begin-bold
+If you just want to learn about ranked choice voting, skip ahead to 
+<a href="ogss_05.xhtml"> no-space begin-italics Scene 5, title-scene-05 end-italics no-space </a>
+end-bold no-space .
+end-standard-paragraph
+
+begin-standard-paragraph
+begin-bold Audiobook end-bold no-space :
 begin-bold
 Talented voice actors eventually will transform this dialog into an audiobook.
 end-bold
 sentence-next
 In the meantime, during this crazy 2024 election year, this dialog is available here and now to help you make sense of U.S. politics and understand what it will take to uncrazify the political world.
 sentence-next
-Everything you need to know for reading is in the dialog.
-sentence-next
-Voice casting details are at the end of this book because the copyright notice includes permission for a non hyphen-here profit organization to transform this dialog into an audiobook with zero royalties.
+begin-explain
+Everything you need to know for reading is within the dialog.
+end-explain
 end-standard-paragraph
 
 ambee put-into-phrase lyric-number 0100000 amenn

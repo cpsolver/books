@@ -48,7 +48,7 @@ isn't there?
 end-lyric
 
 ambee sings-vc amenn
-You are bright!
+You're attentive!
 sentence-next
 o-o
 Yes.

@@ -1,17 +1,5 @@
 ambee put-into-phrase lyric-number 0330000 amenn
 
-ambee sings-politician amenn
-A delegate
-o-o
-is someone
-o-o
-you vote for
-o-o
-and they vote for
-o-o
-the actual candidate.
-end-lyric
-
 ambee sings-damien amenn
 Like the
 o-o
@@ -579,7 +567,9 @@ sentence-next
 o-o
 That's why women
 o-o
-didn't vote.
+weren't allowed
+o-o
+to vote.
 sentence-next
 o-o
 They weren't counted

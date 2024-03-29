@@ -715,16 +715,18 @@ o-o
 customers want?
 sentence-next
 o-o
-Or crave?
+Like nicotine.
 sentence-next
 o-o
-Like nicotine,
+Or crave.
+sentence-next
 o-o
-'n chocolate
+Like chocolate
 o-o
-milk
+milk.
+sentence-next
 o-o
-with Cheerios?
+With Cheerios.
 end-lyric
 
 ambee sings-vc amenn

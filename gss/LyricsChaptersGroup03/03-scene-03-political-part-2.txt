@@ -918,16 +918,15 @@ o-o
 This is delegates
 o-o
 with a begin-italics Gee end-italics no-space .
-end-lyric
-
-ambee sings-damien amenn
-So I should
+sentence-next
 o-o
-ask to try guts
+A delegate
 o-o
-the next time
+is someone
 o-o
-I'm in a
+you vote for
 o-o
-delicatessen?
+and they vote for
+o-o
+the actual candidate.
 end-lyric
