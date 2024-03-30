@@ -297,41 +297,49 @@ attention.
 end-lyric
 
 ambee sings-politician amenn
-As you know
+Name hyphen-here calling
 o-o
-there are names
+is part of the
 o-o
-for the
-o-o
-political
-o-o
-right.
+distraction.
 sentence-next
 o-o
-Such as
+Some people
 o-o
-conservatives,
+who think
 o-o
-capitalists,
+of themselves
+o-o
+as Democrats
+o-o
+spitefully
+o-o
+refer to people
+o-o
+on the right
+o-o
+as capitalists,
 o-o
 one hyphen-here percenters,
 o-o
-pro hyphen-here lifers,
+anti hyphen-here choice chauvinists,
 o-o
 and racists.
 sentence-next
 o-o
-On the
+Some people
 o-o
-political
+who think
 o-o
-left
+of themselves
 o-o
-there are
+as Republicans
 o-o
-names like
+spitefully
 o-o
-liberals,
+refer to people
+o-o
+on the left as
 o-o
 socialists,
 o-o
@@ -342,7 +350,7 @@ o-o
 and bitches.
 sentence-next
 o-o
-Those
+Those exaggerated
 o-o
 right hyphen-here and hyphen-here left names
 o-o

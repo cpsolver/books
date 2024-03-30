@@ -522,9 +522,13 @@ ambee sings-desha amenn
 That's corrupt!
 sentence-next
 o-o
-Like hiring wolves
+Like hiring
 o-o
-to herd sheep.
+a coyote
+o-o
+to guard a
+o-o
+chicken coop.
 end-lyric
 
 ambee sings-mathprof amenn

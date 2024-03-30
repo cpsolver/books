@@ -495,63 +495,48 @@ shit.
 end-lyric
 
 ambee sings-desha amenn
-It's betrayal,
+It's
 o-o
-bribery,
-o-o
-cheating, and
-o-o
-coercion,
-o-o
-cronyism,
-o-o
-deceitfulness,
-o-o
-deluding, and
-o-o
-deviousness,
-o-o
-dishonesty,
-o-o
-duplicity, and
-o-o
-embezzlement,
-o-o
-entrapment,
-o-o
-fraud, and
+fraud,
 o-o
 graft,
 o-o
-misleading,
+and
 o-o
-misrepresenting,
+cronyism.
+sentence-next
+o-o
+It's
+o-o
+cheating,
+o-o
+swindling,
 o-o
 and
 o-o
-monopolizing,
+profiteering.
+sentence-next
 o-o
-palm greasing,
+It's
 o-o
-payoffs,
-o-o
-profiteering,
-o-o
-swindling, and
-o-o
-tax evasion,
+dishonesty,
 o-o
 treachery,
 o-o
-underhandedness,
+and
 o-o
-unethicalness,
+bribery.
+sentence-next
 o-o
-unscrupulousness,
+It's
+o-o
+wickedness,
+o-o
+deceitfulness,
 o-o
 and
 o-o
-wickedness.
+deviousness.
 sentence-next
 o-o
 Plus lying.
