@@ -1,4 +1,12 @@
 ambee sings-damien amenn
+So are we done?
+end-lyric
+
+ambee sings-mathprof amenn
+There's more.
+end-lyric
+
+ambee sings-damien amenn
 Now math
 o-o
 is feeling like

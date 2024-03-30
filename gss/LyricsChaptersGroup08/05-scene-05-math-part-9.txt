@@ -551,10 +551,24 @@ explain math?
 end-lyric
 
 ambee sings-mathprof amenn
-You'll be fine.
+You'll follow his
+o-o
+historical
+o-o
+timeline
+o-o
+just fine.
 sentence-next
 o-o
-There's something
+If you should
+o-o
+ever get lost
+o-o
+in math again,
+o-o
+keep in mind
+o-o
+there's something
 o-o
 called begin-italics mathiness end-italics no-space .
 sentence-next

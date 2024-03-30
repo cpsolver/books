@@ -40,6 +40,12 @@ o-o
 ballots.
 end-lyric
 
+
+<!-- snip -->
+
+<!-- snip -->
+
+
 ambee sings-desha amenn
 Is that other
 o-o
@@ -972,10 +978,21 @@ o-o
 from each district
 o-o
 is a good choice.
+sentence-next
+o-o
+And in that case
+o-o
+there would not be
+o-o
+a primary
+o-o
+election.
 end-lyric
 
 ambee sings-desha amenn
-What does that
+What does three seats
+o-o
+per district
 o-o
 accomplish?
 end-lyric
