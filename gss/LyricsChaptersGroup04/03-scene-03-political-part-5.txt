@@ -451,7 +451,7 @@ that's the real fight.
 end-lyric
 
 ambee sings-politician amenn
-You're bright.
+You've got it right.
 sentence-next
 o-o
 Good luck!

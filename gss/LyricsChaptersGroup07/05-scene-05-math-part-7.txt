@@ -202,65 +202,26 @@ end-lyric
 
 ambee sings-mathprof amenn
 That's right.
-end-lyric
-
-ambee sings-damien amenn
-name-desha
-o-o
-you're bright.
-end-lyric
-
-ambee sings-desha amenn
-It's just counting.
-end-lyric
-
-ambee sings-mathprof amenn
-And that's what the
-o-o
-important parts of
-o-o
-mathematics
-o-o
-are mostly about,
-o-o
-counting.
 sentence-next
 o-o
-Speaking of which,
+Now I think
 o-o
-you're likely
-o-o
-to run into
-o-o
-people who
-o-o
-criticize
-o-o
-ranked choice
-o-o
-ballots because
-o-o
-they fail to
+your're ready to
 o-o
 understand a
 o-o
 counting detail
 o-o
-that's quite
+that's subtle
 o-o
-significant.
-end-lyric
-
-ambee sings-desha amenn
-What's that
+yet significant.
+sentence-next
 o-o
-wonky
+Some people claim
 o-o
-quirk?
-end-lyric
-
-ambee sings-mathprof amenn
-They'll claim
+that on a
+o-o
+ranked choice ballot
 o-o
 you can't mark
 o-o
@@ -661,6 +622,21 @@ o-o
 and second choice.
 sentence-next
 o-o
+You'd plan where to
+o-o
+mark your
+o-o
+most hyphen-here disliked
+o-o
+candidates,
+o-o
+which might mean
+o-o
+not marking them
+o-o
+at all.
+sentence-next
+o-o
 Then,
 o-o
 if the
@@ -669,61 +645,52 @@ instructions
 o-o
 don't tell you
 o-o
-not to,
+to mark only
 o-o
-you would
+one oval
 o-o
-increase
+in each column,
 o-o
-the number of marks
+you look for ways
 o-o
-in each column
-o-o
-as you reach
-o-o
-the fifth
-o-o
-and sixth
-o-o
-choice columns.
-sentence-next
-o-o
-Finally
-o-o
-you'd mark your
-o-o
-most hyphen-here disliked
+to group
 o-o
 candidates
 o-o
-in the seventh
-o-o
-choice column.
+at the same rank.
 sentence-next
 o-o
-Or leave those
+That means
 o-o
-worst candidates
+you like them
 o-o
-unmarked.
+about the same.
 end-lyric
 
 ambee sings-damien amenn
-That sounds
+Fitting marks
 o-o
-easier than
+into ovals
 o-o
-some staircases
+sounds easier
 o-o
-I've built.
+than fitting
+o-o
+stairs into a
+o-o
+staircase.
 end-lyric
 
 ambee sings-mathprof amenn
-To make it
+To make
 o-o
-yet easier,
+ballot marking
 o-o
-we can limit
+even easier,
+o-o
+future elections
+o-o
+can limit
 o-o
 the number of
 o-o

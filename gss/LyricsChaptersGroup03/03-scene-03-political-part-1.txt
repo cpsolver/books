@@ -297,34 +297,11 @@ attention.
 end-lyric
 
 ambee sings-politician amenn
-Name hyphen-here calling
+Name calling
 o-o
 is part of the
 o-o
 distraction.
-sentence-next
-o-o
-Some people
-o-o
-who think
-o-o
-of themselves
-o-o
-as Democrats
-o-o
-spitefully
-o-o
-refer to people
-o-o
-on the right
-o-o
-as capitalists,
-o-o
-one hyphen-here percenters,
-o-o
-anti hyphen-here choice chauvinists,
-o-o
-and racists.
 sentence-next
 o-o
 Some people
@@ -347,7 +324,34 @@ abortionists,
 o-o
 tree huggers,
 o-o
+feminists,
+o-o
 and bitches.
+sentence-next
+o-o
+Some people
+o-o
+who think
+o-o
+of themselves
+o-o
+as Democrats
+o-o
+spitefully
+o-o
+refer to people
+o-o
+on the right
+o-o
+as greedy capitalists,
+o-o
+one percenters,
+o-o
+anti hyphen-here choicers,
+o-o
+misogynists,
+o-o
+and racists.
 sentence-next
 o-o
 Those exaggerated

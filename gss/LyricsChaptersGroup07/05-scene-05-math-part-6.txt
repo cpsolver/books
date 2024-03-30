@@ -502,12 +502,16 @@ sentence-next
 o-o
 They focus on
 o-o
-the balance of power
+the balance
+o-o
+of power
 o-o
 between parties.
 sentence-next
 o-o
-But they allow
+But mostly
+o-o
+they allow
 o-o
 party insiders
 o-o
@@ -519,10 +523,7 @@ win the seats.
 end-lyric
 
 ambee sings-desha amenn
-That's corrupt!
-sentence-next
-o-o
-Like hiring
+That's like hiring
 o-o
 a coyote
 o-o

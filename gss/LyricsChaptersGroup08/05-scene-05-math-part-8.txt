@@ -25,11 +25,15 @@ the name
 o-o
 ranked choice voting
 o-o
-now refers to
+now usually
 o-o
-counting methods
+refers to
 o-o
-that use
+just about
+o-o
+any method
+o-o
+that counts
 o-o
 ranked choice
 o-o
@@ -93,9 +97,16 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-It's the part
+It's just part of
 o-o
-where two or more
+proportional
+o-o
+representation.
+sentence-next
+o-o
+The part where
+o-o
+two or more
 o-o
 politicians
 o-o
@@ -110,9 +121,7 @@ The statewide seats
 o-o
 also are needed
 o-o
-to yield
-o-o
-fully
+to get fully
 o-o
 proportional
 o-o
@@ -306,7 +315,7 @@ by hand.
 end-lyric
 
 ambee sings-mathprof amenn
-Let's say that
+Let's say
 o-o
 instant runoff
 o-o
@@ -505,7 +514,7 @@ sentence-next
 o-o
 Lots of people
 o-o
-have it 'cause
+have it because
 o-o
 most people
 o-o
@@ -579,14 +588,14 @@ criticize
 o-o
 simplistic
 o-o
-versions of
+ways to count
 o-o
 ranked choice
 o-o
 voting.
 sentence-next
 o-o
-Such as
+That means
 o-o
 pointing out
 o-o
@@ -594,46 +603,48 @@ the failures
 o-o
 in Alaska
 o-o
-and Burlington.
-sentence-next
+and Burlington
 o-o
-And dismissing,
-o-o
-instead of counting,
-o-o
-overvotes.
-sentence-next
-o-o
-The critics
-o-o
-hide the fact that
-o-o
-a software
-o-o
-upgrade can
-o-o
-correctly count
-o-o
-so hyphen-here called overvotes
-o-o
-and can
-o-o
-eliminate
+where a
 o-o
 pairwise losing
 o-o
-candidates
+candidate
 o-o
-when they occur.
+should have been
+o-o
+eliminated.
+sentence-next
+o-o
+And pretending
+o-o
+that overvotes
+o-o
+cannot be
+o-o
+counted
+o-o
+correctly.
+sentence-next
+o-o
+And using overvotes
+o-o
+to imply
+o-o
+ranked choice ballots
+o-o
+are not
+o-o
+user friendly.
 sentence-next
 o-o
 And some critics
 o-o
-promote
+claim that
 o-o
 score ballots
 o-o
-as better than
+are better than
 o-o
 ranked choice
 o-o
@@ -896,11 +907,11 @@ o-o
 laws.
 sentence-next
 o-o
-And a better
+And it's a
 o-o
-way for
+better way
 o-o
-parliaments
+for parliaments
 o-o
 to elect
 o-o

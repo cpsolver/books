@@ -520,9 +520,10 @@ decimal point
 o-o
 right by
 o-o
-two places,
+two places.
+sentence-next
 o-o
-to make numbers
+To make numbers
 o-o
 between
 o-o
@@ -540,15 +541,17 @@ handle it.
 end-lyric
 
 ambee sings-damien amenn
-I'm a dummy
+Does he explain
 o-o
-but I'll
+history
 o-o
-try.
+as well as you
+o-o
+explain math?
 end-lyric
 
 ambee sings-mathprof amenn
-One more tip.
+You'll be fine.
 sentence-next
 o-o
 There's something
@@ -723,19 +726,10 @@ o-o
 hindsight?
 end-lyric
 
-ambee sings-mathprof amenn
+ambee sings-desha amenn
 That's a wise
 o-o
 insight.
-end-lyric
-
-ambee sings-desha amenn
-I was right.
-sentence-next
-o-o
-You begin-italics are end-italics
-o-o
-very bright.
 end-lyric
 
 ambee sings-damien amenn
@@ -744,45 +738,9 @@ o-o
 common sense.
 sentence-next
 o-o
-But what you've
+name-mathprof no-space ,
 o-o
-taught us
-o-o
-are hidden
-o-o
-secrets.
-sentence-next
-o-o
-The ones those
-o-o
-greedy
-o-o
-...
-end-lyric
-
-ambee sings-desha amenn
-Money
-o-o
-worshipers
-o-o
-...
-end-lyric
-
-ambee sings-damien amenn
-...
-sentence-next
-o-o
-business owners
-o-o
-...
-sentence-next
-o-o
-don't want us
-o-o
-to find out.
-sentence-next
-o-o
-We're grateful
+we're grateful
 o-o
 you've guided
 o-o
