@@ -63,7 +63,7 @@ That would be
 o-o
 a pay raise
 o-o
-'cause now I get
+because now I get
 o-o
 peanuts.
 end-lyric
@@ -733,7 +733,7 @@ tricky
 o-o
 for me
 o-o
-'cause my memory
+because my memory
 o-o
 is faulty
 o-o
@@ -798,7 +798,7 @@ You're stuck
 o-o
 in the wrong
 o-o
-cycle.
+orbit.
 sentence-next
 o-o
 A feedback loop

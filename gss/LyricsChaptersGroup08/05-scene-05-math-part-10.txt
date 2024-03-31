@@ -1,21 +1,16 @@
 ambee sings-desha amenn
-This makes it
+name-mathprof no-space ,
 o-o
-all the more special
+we're extremely
 o-o
-that you've taken
+grateful
 o-o
-the time to explain
+you've explained
 o-o
-this to us.
+all this to us.
 end-lyric
 
 ambee sings-damien amenn
-I'm extremely
-o-o
-grateful.
-sentence-next
-o-o
 You've given me,
 o-o
 us, more than I
@@ -77,7 +72,9 @@ o-o
 one more thing.
 sentence-next
 o-o
-Since pairwise counting
+Since pairwise
+o-o
+vote counting
 o-o
 is a few years off,
 o-o
@@ -226,9 +223,19 @@ ambee sings-mathprof amenn
 No.
 sentence-next
 o-o
-If adding your
+You and others
 o-o
-bayonet
+can mark a
+o-o
+third hyphen-here party
+o-o
+candidate
+o-o
+without regret
+o-o
+if adding your
+o-o
+bayonets
 o-o
 to either
 o-o
@@ -236,15 +243,7 @@ big army
 o-o
 can't possibly
 o-o
-change who wins,
-o-o
-you can mark
-o-o
-a third hyphen-here party
-o-o
-candidate
-o-o
-without regret.
+change who wins.
 end-lyric
 
 ambee sings-damien amenn
@@ -273,7 +272,12 @@ ambee sings-mathprof amenn
 Not there.
 sentence-next
 o-o
-Presidential
+Third hyphen-here party voters
+o-o
+can change who wins.
+sentence-next
+o-o
+Plus presidential
 o-o
 elections
 o-o
@@ -284,7 +288,9 @@ o-o
 complications.
 sentence-next
 o-o
-Electoral
+State by state
+o-o
+electoral
 o-o
 votes
 o-o
@@ -292,6 +298,8 @@ matter too.
 sentence-next
 o-o
 And the
+o-o
+nationwide
 o-o
 number gap
 o-o
@@ -354,41 +362,35 @@ Constitution?
 end-lyric
 
 ambee sings-mathprof amenn
-Yes,
-o-o
-but first we
-o-o
-have to get
-o-o
-begin-italics congressional end-italics
-o-o
-elections
-o-o
-right,
-o-o
-er,
-o-o
-correct.
+I believe so.
 sentence-next
 o-o
-That means some states
+But only if
 o-o
-already
-o-o
-must be using
+first we use
 o-o
 ranked choice
 o-o
-ballots.
+ballots
+o-o
+and pairwise
+o-o
+vote counting in
+o-o
+begin-italics congressional end-italics
+o-o
+elections.
 sentence-next
 o-o
 Then an
 o-o
 interstate
 o-o
-compact can
+compact
 o-o
-correct the
+probably
+o-o
+can correct the
 o-o
 electoral
 o-o

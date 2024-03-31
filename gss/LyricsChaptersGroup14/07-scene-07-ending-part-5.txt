@@ -185,7 +185,7 @@ ranked choice
 o-o
 ballots
 o-o
-'n pairwise
+and pairwise
 o-o
 counting.
 end-lyric
@@ -785,13 +785,17 @@ ballots
 o-o
 and pairwise
 o-o
-counting, then
+vote counting,
 o-o
-Democrats could
+then Democrats
 o-o
-have offered both
+could have
 o-o
-Obama and Clinton
+offered both
+o-o
+Obama
+o-o
+and Clinton
 o-o
 as candidates
 o-o

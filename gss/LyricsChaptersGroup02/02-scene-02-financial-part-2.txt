@@ -10,7 +10,7 @@ o-o
 o-o
 I could go to
 o-o
-a bank 'n ask
+a bank and ask
 o-o
 for a loan.
 end-lyric
@@ -358,7 +358,7 @@ ambee sings-vc amenn
 Of course.
 sentence-next
 o-o
-'Cause he took
+Because he took
 o-o
 the biggest
 o-o
@@ -686,7 +686,7 @@ o-o
 and cheating.
 sentence-next
 o-o
-'Cause
+Because
 o-o
 that lands you in
 o-o
@@ -697,7 +697,7 @@ That'd be a
 o-o
 bummer
 o-o
-'cause
+because
 o-o
 your bank accounts
 o-o

@@ -19,7 +19,9 @@ Talented voice actors eventually will transform this dialog into an audiobook.
 end-bold
 sentence-next
 In the meantime, during this crazy 2024 election year, this dialog is available here and now to help you make sense of U.S. politics and understand what it will take to uncrazify the political world.
-sentence-next
+end-standard-paragraph
+
+begin-standard-paragraph
 begin-explain
 Everything you need to know for reading is within the dialog.
 end-explain
@@ -521,7 +523,7 @@ end-lyric
 ambee sings-damien amenn
 When dinner's got
 o-o
-veggies 'n meat,
+veggies and meat,
 o-o
 our car's gas gauge
 o-o

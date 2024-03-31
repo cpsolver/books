@@ -135,7 +135,7 @@ I don't feel
 o-o
 brainy,
 o-o
-'cause I don't
+because I don't
 o-o
 see where
 o-o
@@ -595,7 +595,7 @@ sentence-next
 o-o
 The cost of
 o-o
-rent 'n food
+rent and food
 o-o
 'n utilities
 o-o

@@ -304,19 +304,48 @@ o-o
 distraction.
 sentence-next
 o-o
-Some people
+Some voters
 o-o
-who think
+who vote for
 o-o
-of themselves
-o-o
-as Republicans
+Democrats
 o-o
 spitefully
 o-o
-refer to people
+refer to some
 o-o
-on the left as
+Republican
+o-o
+candidates as
+o-o
+racists,
+o-o
+misogynists,
+o-o
+climate deniers,
+o-o
+and the puppets
+o-o
+of greedy
+o-o
+capitalists
+o-o
+and one percenters.
+sentence-next
+o-o
+Some voters
+o-o
+who vote for
+o-o
+Republicans
+o-o
+spitefully
+o-o
+refer to some
+o-o
+Democratic
+o-o
+candidates as
 o-o
 socialists,
 o-o
@@ -324,34 +353,11 @@ abortionists,
 o-o
 tree huggers,
 o-o
+godless pagans,
+o-o
 feminists,
 o-o
 and bitches.
-sentence-next
-o-o
-Some people
-o-o
-who think
-o-o
-of themselves
-o-o
-as Democrats
-o-o
-spitefully
-o-o
-refer to people
-o-o
-on the right
-o-o
-as greedy capitalists,
-o-o
-one percenters,
-o-o
-anti hyphen-here choicers,
-o-o
-misogynists,
-o-o
-and racists.
 sentence-next
 o-o
 Those exaggerated

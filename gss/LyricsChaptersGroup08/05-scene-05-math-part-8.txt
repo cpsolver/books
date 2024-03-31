@@ -1,5 +1,824 @@
 ambee put-into-phrase lyric-number 0580000 amenn
 
+ambee sings-desha amenn
+So how's the
+o-o
+second seat filled?
+sentence-next
+o-o
+In a way that's fair.
+sentence-next
+o-o
+For the sheep,
+o-o
+and goats,
+o-o
+and pigs?
+sentence-next
+o-o
+Or maybe I should say,
+o-o
+for women to get
+o-o
+the representation
+o-o
+we deserve.
+end-lyric
+
+ambee sings-mathprof amenn
+Using simple math,
+o-o
+a computer can
+o-o
+calculate which
+o-o
+voters are 
+o-o
+well hyphen-here represented
+o-o
+by the first hyphen-here seat
+o-o
+winner.
+end-lyric
+
+ambee sings-damien amenn
+Since that math
+o-o
+is simple,
+o-o
+I don't need to
+o-o
+hear about it,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+sentence-next
+o-o
+Except to know
+o-o
+it involves
+o-o
+division.
+end-lyric
+
+ambee sings-damien amenn
+Sweet!
+sentence-next
+o-o
+Divide and
+o-o
+conquer!
+end-lyric
+
+ambee sings-mathprof amenn
+The ballots
+o-o
+of those
+o-o
+well hyphen-here represented
+o-o
+voters
+o-o
+would have their
+o-o
+influence
+o-o
+greatly reduced.
+sentence-next
+o-o
+Often all the
+o-o
+way to zero.
+sentence-next
+o-o
+The remaining
+o-o
+voters still have
+o-o
+full influence
+o-o
+for their ballots.
+sentence-next
+o-o
+Pairwise counting
+o-o
+is done again,
+o-o
+and the most
+o-o
+popular
+o-o
+candidate
+o-o
+wins the
+o-o
+second seat.
+sentence-next
+o-o
+In this
+o-o
+district.
+end-lyric
+
+ambee sings-desha amenn
+I'm guessing
+o-o
+the tendency
+o-o
+would be
+o-o
+for each district
+o-o
+to elect one
+o-o
+Republican
+o-o
+and one
+o-o
+Democrat?
+end-lyric
+
+ambee sings-mathprof amenn
+Under current
+o-o
+conditions,
+o-o
+usually yes.
+sentence-next
+o-o
+Assuming both
+o-o
+parties offer
+o-o
+good candidates.
+end-lyric
+
+ambee sings-damien amenn
+Oh yeah,
+o-o
+there will be
+o-o
+a second
+o-o
+Republican
+o-o
+and a second
+o-o
+Democrat
+o-o
+in the race.
+end-lyric
+
+ambee sings-mathprof amenn
+Probably
+o-o
+three or four
+o-o
+candidates
+o-o
+from each party.
+sentence-next
+o-o
+That prevents
+o-o
+party insiders
+o-o
+from limiting
+o-o
+your choices
+o-o
+to just the two
+o-o
+they want.
+end-lyric
+
+ambee sings-desha amenn
+Suppose the
+o-o
+Republican
+o-o
+party only
+o-o
+offers puppet
+o-o
+candidates,
+o-o
+like Pinoke
+o-o
+and Oscar,
+o-o
+and the Democratic
+o-o
+party offers
+o-o
+anti hyphen-here corruption
+o-o
+candidates,
+o-o
+like Barack
+o-o
+and Hypatia,
+o-o
+then both winners
+o-o
+could be Democrats?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+end-lyric
+
+ambee sings-damien amenn
+This seems like a
+o-o
+winning
+o-o
+pole vault
+o-o
+over our low
+o-o
+limbo bar,
+o-o
+where we
+o-o
+are now.
+end-lyric
+
+ambee sings-desha amenn
+But if every district
+o-o
+elects one
+o-o
+Republican and
+o-o
+one Democrat,
+o-o
+then Congress
+o-o
+would be tied.
+sentence-next
+o-o
+That's cockeyed.
+sentence-next
+o-o
+The population
+o-o
+is not
+o-o
+evenly
+o-o
+divided
+o-o
+between the
+o-o
+two parties.
+end-lyric
+
+ambee sings-mathprof amenn
+To fix that
+o-o
+unfair balance,
+o-o
+we make the
+o-o
+districts a little
+o-o
+bigger.
+sentence-next
+o-o
+And we reserve
+o-o
+a few special
+o-o
+seats.
+sentence-next
+o-o
+Those are called
+o-o
+statewide seats.
+sentence-next
+o-o
+The party hyphen-here based
+o-o
+measurements
+o-o
+tell us which
+o-o
+party deserves
+o-o
+to win each
+o-o
+of those
+o-o
+statewide
+o-o
+seats.
+end-lyric
+
+ambee sings-desha amenn
+And party
+o-o
+insiders
+o-o
+will choose
+o-o
+whose butts
+o-o
+will fill
+o-o
+those seats?
+sentence-next
+o-o
+That seems
+o-o
+unfair.
+end-lyric
+
+ambee sings-mathprof amenn
+Lots of
+o-o
+European
+o-o
+nations
+o-o
+do it that way.
+sentence-next
+o-o
+But you're right.
+sentence-next
+o-o
+It's not fair.
+end-lyric
+
+ambee sings-damien amenn
+Why are those
+o-o
+voters so
+o-o
+stupid?
+end-lyric
+
+ambee sings-mathprof amenn
+The people
+o-o
+in power
+o-o
+are the ones who
+o-o
+have to approve
+o-o
+any change.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+I see.
+sentence-next
+o-o
+The members of
+o-o
+parliament
+o-o
+only embrace
+o-o
+a change if it's
+o-o
+likely to get
+o-o
+themselves
+o-o
+re hyphen-here elected.
+sentence-next
+o-o
+Otherwise it
+o-o
+would be as
+o-o
+unlikely as
+o-o
+turkeys voting
+o-o
+in favor of
+o-o
+Thanksgiving.
+end-lyric
+
+ambee sings-damien amenn
+Another barrier!
+sentence-next
+o-o
+Political
+o-o
+turkeys.
+end-lyric
+
+ambee sings-mathprof amenn
+Far fairer is
+o-o
+to look at the
+o-o
+ballots again.
+sentence-next
+o-o
+Then we
+o-o
+identify the
+o-o
+most popular
+o-o
+of the
+o-o
+un hyphen-here elected candidates.
+sentence-next
+o-o
+The most popular
+o-o
+such candidate
+o-o
+from the
+o-o
+correct party
+o-o
+will fill that
+o-o
+party's
+o-o
+statewide seat.
+sentence-next
+o-o
+Then just repeat
+o-o
+that process
+o-o
+for each
+o-o
+statewide seat.
+end-lyric
+
+ambee sings-damien amenn
+Which party
+o-o
+would win the
+o-o
+statewide seats?
+sentence-next
+o-o
+Under current
+o-o
+conditions.
+end-lyric
+
+ambee sings-mathprof amenn
+Whichever
+o-o
+party,
+o-o
+or parties,
+o-o
+didn't get
+o-o
+their fair share
+o-o
+of district
+o-o
+seats.
+end-lyric
+
+ambee sings-desha amenn
+That sounds like
+o-o
+it will
+o-o
+pressure hyphen-here wash away
+o-o
+the slime of
+o-o
+party insiders.
+sentence-next
+o-o
+And make our
+o-o
+elections clean.
+end-lyric
+
+ambee sings-damien amenn
+That seems much much
+o-o
+fairer than what
+o-o
+we've got now.
+end-lyric
+
+ambee sings-mathprof amenn
+To make
+o-o
+ballot marking
+o-o
+even easier,
+o-o
+future elections
+o-o
+can limit
+o-o
+the number of
+o-o
+candidates.
+end-lyric
+
+ambee sings-desha amenn
+Would that involve
+o-o
+discrimination,
+o-o
+a glass ceiling,
+o-o
+or a glass slipper?
+end-lyric
+
+ambee sings-mathprof amenn
+We can add
+o-o
+a separate
+o-o
+ballot question
+o-o
+for ranking
+o-o
+political
+o-o
+parties.
+sentence-next
+o-o
+That would allow
+o-o
+calculating
+o-o
+the popularity
+o-o
+of the
+o-o
+parties.
+end-lyric
+
+ambee sings-damien amenn
+Voting for parties?
+sentence-next
+o-o
+That seems strange.
+end-lyric
+
+ambee sings-mathprof amenn
+That's what lots of
+o-o
+people in lots
+o-o
+of nations do
+o-o
+on their ballots.
+sentence-next
+o-o
+Although not yet
+o-o
+using ranked
+o-o
+choice ballots.
+sentence-next
+o-o
+Measuring
+o-o
+party
+o-o
+popularity
+o-o
+with better
+o-o
+ballots
+o-o
+will give us a
+o-o
+way to limit
+o-o
+the number of
+o-o
+candidates
+o-o
+from each party.
+sentence-next
+o-o
+In a way
+o-o
+that's fair.
+end-lyric
+
+ambee sings-desha amenn
+Ah,
+o-o
+very unpopular
+o-o
+parties would get
+o-o
+excluded,
+o-o
+right?
+sentence-next
+o-o
+So their
+o-o
+candidates
+o-o
+don't waste space
+o-o
+on the ballot?
+end-lyric
+
+ambee sings-mathprof amenn
+Exactly.
+end-lyric
+
+ambee sings-damien amenn
+Yet big
+o-o
+third parties
+o-o
+would get
+o-o
+at least one
+o-o
+candidate
+o-o
+each,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+sentence-next
+o-o
+That allows a
+o-o
+third party
+o-o
+to grow and
+o-o
+maybe overtake
+o-o
+a big party.
+sentence-next
+o-o
+That's how
+o-o
+elections
+o-o
+used to work.
+end-lyric
+
+ambee sings-desha amenn
+I love it!
+sentence-next
+o-o
+Competition!
+sentence-next
+o-o
+I hope I live
+o-o
+to see the
+o-o
+Republican
+o-o
+and Democratic
+o-o
+parties
+o-o
+obliterated!
+end-lyric
+
+ambee sings-damien amenn
+I don't like names,
+o-o
+but this is
+o-o
+getting
+o-o
+complex.
+sentence-next
+o-o
+Is there a name
+o-o
+for all of
+o-o
+this mess?
+end-lyric
+
+ambee sings-mathprof amenn
+It is
+o-o
+sort of like
+o-o
+a jigsaw puzzle
+o-o
+with lots of
+o-o
+pieces.
+sentence-next
+o-o
+And different
+o-o
+pieces
+o-o
+would work.
+sentence-next
+o-o
+And they have lots
+o-o
+of names.
+sentence-next
+o-o
+Yet the method
+o-o
+that reaches
+o-o
+farthest toward
+o-o
+what I've described
+o-o
+is called
+o-o
+VoteFair ranking.
+end-lyric
+
+ambee sings-desha amenn
+VoteFair?
+end-lyric
+
+ambee sings-damien amenn
+I think
+o-o
+I've heard about
+o-o
+FairVote.
+end-lyric
+
+ambee sings-mathprof amenn
+VoteFair
+o-o
+is an
+o-o
+election
+o-o
+system I like.
+sentence-next
+o-o
+FairVote is an
+o-o
+organization
+o-o
+that promotes
+o-o
+two different
+o-o
+counting
+o-o
+methods,
+o-o
+instant runoff
+o-o
+voting and
+o-o
+something called
+o-o
+the single
+o-o
+transferable
+o-o
+vote.
+sentence-next
+o-o
+But they use
+o-o
+the name
+o-o
+begin-italics ranked choice
+o-o
+voting end-italics
+o-o
+to cover
+o-o
+both methods.
+end-lyric
+
+ambee sings-damien amenn
+That's
+o-o
+overwhelmingly
+o-o
+confusing.
+end-lyric
+
 ambee sings-mathprof amenn
 Yes.
 sentence-next
@@ -123,7 +942,11 @@ proportional
 o-o
 representation
 o-o
-is the statewide
+is the use of
+o-o
+party hyphen-here based
+o-o
+statewide
 o-o
 seats.
 end-lyric
@@ -138,776 +961,6 @@ o-o
 is making sense.
 sentence-next
 o-o
-Now I'm wondering
-o-o
-if pairwise
-o-o
-vote counting
-o-o
-is too mind hyphen-here bending
-o-o
-for math hyphen-here phobic
-o-o
-voters
-o-o
-to swallow
-o-o
-and digest?
-end-lyric
-
-ambee sings-mathprof amenn
-The ballots
-o-o
-can be counted
-o-o
-by hand as a
-o-o
-demonstration
-o-o
-of what happens
-o-o
-inside a
-o-o
-computer.
-sentence-next
-o-o
-Or when an
-o-o
-official
-o-o
-recount
-o-o
-is needed.
-end-lyric
-
-ambee sings-damien amenn
-At the risk
-o-o
-of gagging
-o-o
-on a furball,
-o-o
-how would that work?
-end-lyric
-
-ambee sings-mathprof amenn
-Let's say there's
-o-o
-uncertainty
-o-o
-about which of
-o-o
-the top four
-o-o
-candidates
-o-o
-really won.
-sentence-next
-o-o
-Imagine
-o-o
-six people
-o-o
-sitting at a
-o-o
-long table.
-sentence-next
-o-o
-They do the
-o-o
-counting.
-sentence-next
-o-o
-Each person
-o-o
-looks at each
-o-o
-ballot
-o-o
-and does a tally
-o-o
-for just one
-o-o
-specific
-o-o
-pair of
-o-o
-candidates.
-sentence-next
-o-o
-Then the ballot
-o-o
-is passed
-o-o
-to the next
-o-o
-person.
-end-lyric
-
-ambee sings-desha amenn
-If you were
-o-o
-tallying
-o-o
-for Oscar
-o-o
-and Hypatia,
-o-o
-you would press
-o-o
-the Oscar button
-o-o
-if he is ranked
-o-o
-higher than
-o-o
-Hypatia.
-sentence-next
-o-o
-You would press
-o-o
-the Hypatia button
-o-o
-if that ballot
-o-o
-has the opposite
-o-o
-preference.
-sentence-next
-o-o
-You'd press the
-o-o
-third button
-o-o
-if they are both
-o-o
-ranked the same.
-end-lyric
-
-ambee sings-mathprof amenn
-That pairwise
-o-o
-counting process
-o-o
-only needs to
-o-o
-be done once.
-sentence-next
-o-o
-In each pair,
-o-o
-the bigger count
-o-o
-indicates
-o-o
-who won that
-o-o
-pairwise
-o-o
-contest.
-end-lyric
-
-ambee sings-damien amenn
-You said sometimes
-o-o
-there's no
-o-o
-pairwise losing
-o-o
-candidate.
-sentence-next
-o-o
-What happens then?
-sentence-next
-o-o
-For counting
-o-o
-by hand.
-end-lyric
-
-ambee sings-mathprof amenn
-Let's say
-o-o
-instant runoff
-o-o
-voting
-o-o
-is used
-o-o
-to choose
-o-o
-which candidate
-o-o
-to eliminate
-o-o
-when there's
-o-o
-no pairwise
-o-o
-losing candidate.
-sentence-next
-o-o
-Then one person
-o-o
-can sort the
-o-o
-paper ballots
-o-o
-into piles
-o-o
-according
-o-o
-to which of the
-o-o
-remaining
-o-o
-candidates
-o-o
-is highest
-o-o
-ranked on
-o-o
-each ballot.
-sentence-next
-o-o
-The pile
-o-o
-with the fewest
-o-o
-ballots
-o-o
-identifies
-o-o
-which candidate
-o-o
-to eliminate.
-end-lyric
-
-ambee sings-desha amenn
-Is that
-o-o
-combination
-o-o
-method
-o-o
-good enough
-o-o
-for real
-o-o
-elections?
-end-lyric
-
-ambee sings-mathprof amenn
-Yes.
-sentence-next
-o-o
-It pole vaults us
-o-o
-almost as high
-o-o
-as the best
-o-o
-counting
-o-o
-methods.
-end-lyric
-
-ambee sings-desha amenn
-What's its name?
-end-lyric
-
-ambee sings-mathprof amenn
-Election
-o-o
-methods
-o-o
-are like
-o-o
-food recipes.
-sentence-next
-o-o
-Switching an
-o-o
-ingredient
-o-o
-or two
-o-o
-can cause it 
-o-o
-to fail.
-sentence-next
-o-o
-Even if the name
-o-o
-remains the same.
-sentence-next
-o-o
-Basically
-o-o
-this is instant
-o-o
-runoff voting
-o-o
-with pairwise
-o-o
-eliminations,
-o-o
-plus correctly
-o-o
-counting
-o-o
-so hyphen-here called
-o-o
-overvotes.
-end-lyric
-
-ambee sings-damien amenn
-All of this
-o-o
-sounds like a
-o-o
-no hyphen-here brainer
-o-o
-for what we
-o-o
-need to do.
-sentence-next
-o-o
-So what's the
-o-o
-biggest
-o-o
-barrier
-o-o
-against using
-o-o
-ranked choice
-o-o
-ballots and
-o-o
-pairwise counting?
-end-lyric
-
-ambee sings-mathprof amenn
-Up until a few
-o-o
-decades ago,
-o-o
-when computers
-o-o
-came along,
-o-o
-doing the math
-o-o
-by hand
-o-o
-was the big
-o-o
-barrier.
-end-lyric
-
-ambee sings-damien amenn
-But now we have
-o-o
-computers,
-o-o
-so what's
-o-o
-stopping us
-o-o
-now?
-end-lyric
-
-ambee sings-mathprof amenn
-Fear.
-sentence-next
-o-o
-Especially
-o-o
-a fear of math.
-sentence-next
-o-o
-Officially
-o-o
-that's called
-o-o
-mathematical
-o-o
-anxiety.
-sentence-next
-o-o
-Lots of people
-o-o
-have it because
-o-o
-most people
-o-o
-don't trust what
-o-o
-they don't
-o-o
-understand.
-end-lyric
-
-ambee sings-damien amenn
-Math
-o-o
-anxiety.
-sentence-next
-o-o
-That's what I
-o-o
-was infected
-o-o
-by.
-end-lyric
-
-ambee sings-desha amenn
-You're
-o-o
-disinfected
-o-o
-now.
-end-lyric
-
-ambee sings-damien amenn
-Already
-o-o
-the bleach scent
-o-o
-isn't evident.
-end-lyric
-
-ambee sings-mathprof amenn
-There's another
-o-o
-smaller
-o-o
-barrier.
-sentence-next
-o-o
-Lots of money
-o-o
-is given to
-o-o
-people who
-o-o
-criticize
-o-o
-ranked choice
-o-o
-voting.
-end-lyric
-
-ambee sings-damien amenn
-What's there
-o-o
-to criticize?
-end-lyric
-
-ambee sings-desha amenn
-What are you not
-o-o
-telling us?
-end-lyric
-
-ambee sings-mathprof amenn
-It's easy to
-o-o
-criticize
-o-o
-simplistic
-o-o
-ways to count
-o-o
-ranked choice
-o-o
-voting.
-sentence-next
-o-o
-That means
-o-o
-pointing out
-o-o
-the failures
-o-o
-in Alaska
-o-o
-and Burlington.
-sentence-next
-o-o
-Those failures
-o-o
-happened because
-o-o
-they used
-o-o
-instant runoff
-o-o
-voting
-o-o
-without also
-o-o
-eliminating
-o-o
-the pairwise
-o-o
-losing
-o-o
-candidate
-o-o
-who was in
-o-o
-the top three
-o-o
-candidates.
-sentence-next
-o-o
-And it's easy to
-o-o
-criticize
-o-o
-ranked choice
-o-o
-ballots
-o-o
-as difficult
-o-o
-to mark
-o-o
-if the counting
-o-o
-dismisses
-o-o
-ballots
-o-o
-that have more than
-o-o
-just one mark in
-o-o
-each choice column.
-sentence-next
-o-o
-And some critics
-o-o
-claim that
-o-o
-score ballots
-o-o
-are better than
-o-o
-ranked choice
-o-o
-ballots.
-end-lyric
-
-ambee sings-damien amenn
-Are score ballots
-o-o
-better?
-end-lyric
-
-ambee sings-mathprof amenn
-Among friends,
-o-o
-where honesty
-o-o
-can be monitored,
-o-o
-score ballots
-o-o
-collect useful
-o-o
-information
-o-o
-about a voter's
-o-o
-strength of
-o-o
-preference.
-sentence-next
-o-o
-Such as
-o-o
-recognizing
-o-o
-that Jewish friends
-o-o
-really really
-o-o
-don't want pork
-o-o
-when they choose
-o-o
-a second
-o-o
-pizza topping.
-sentence-next
-o-o
-But score ballots
-o-o
-do not work
-o-o
-in general
-o-o
-elections
-o-o
-for governors,
-o-o
-presidents,
-o-o
-and mayors.
-sentence-next
-o-o
-They're vulnerable
-o-o
-to voters who
-o-o
-exaggerate.
-sentence-next
-o-o
-Similar to
-o-o
-the clapping
-o-o
-tactic.
-end-lyric
-
-ambee sings-desha amenn
-Ah,
-o-o
-there's no way
-o-o
-to know if a
-o-o
-ballot is from
-o-o
-a drama queen
-o-o
-or someone with
-o-o
-deep religious
-o-o
-beliefs.
-end-lyric
-
-ambee sings-damien amenn
-I'm seeing that
-o-o
-ranked choice
-o-o
-ballots are
-o-o
-great,
-o-o
-but the counting
-o-o
-details matter.
-end-lyric
-
-ambee sings-mathprof amenn
-Here's a way
-o-o
-to see why.
-sentence-next
-o-o
-These colored blocks
-o-o
-represent
-o-o
-ten ranked
-o-o
-choice ballots.
-sentence-next
-o-o
-The colors
-o-o
-represent
-o-o
-four
-o-o
-ice cream
-o-o
-flavors.
-sentence-next
-o-o
-The winning flavor
-o-o
-can be mint
-o-o
-chocolate chip,
-o-o
-or strawberry,
-o-o
-or vanilla.
-sentence-next
-o-o
-Depending on
-o-o
-which counting
-o-o
-method is used.
-end-lyric
-
-begin-paragraph-centered
-<img id="ballots_img" style="max-width:100%" width="300" height="99" src="ballots_four_flavors.png" alt="Ten ballots four ice cream flavors"/>
-end-paragraph-centered
-
-ambee sings-desha amenn
-As usual,
-o-o
-brown always
-o-o
-loses.
-end-lyric
-
-ambee sings-damien amenn
-Ah,
-o-o
-plurality voting,
-o-o
-what we use now,
-o-o
-just looks down
-o-o
-on the blocks
-o-o
-from the top.
-end-lyric
-
-ambee sings-mathprof amenn
-Instant runoff
-o-o
-voting
-o-o
-also looks down
-o-o
-from the top,
-o-o
-although on some
-o-o
-ballots
-o-o
-it looks
-o-o
-deeper.
-sentence-next
-o-o
-Pairwise counting
-o-o
-looks at the
-o-o
-side view.
-sentence-next
-o-o
-So it sees
-o-o
-every preference
-o-o
-detail.
-end-lyric
-
-ambee sings-damien amenn
 So now
 o-o
 do we know
@@ -1020,22 +1073,27 @@ o-o
 parties.
 sentence-next
 o-o
-In that case
+So party hyphen-here based
 o-o
-having three
+citywide seats
 o-o
-councilors
-o-o
-from each district
-o-o
-is a good choice.
+don't make sense.
 sentence-next
 o-o
-And in that case
+So each district
 o-o
-there would not be
+in the city
 o-o
-a primary
+should have three
+o-o
+councilors,
+o-o
+not two.
+sentence-next
+o-o
+And there would be
+o-o
+no primary
 o-o
 election.
 end-lyric

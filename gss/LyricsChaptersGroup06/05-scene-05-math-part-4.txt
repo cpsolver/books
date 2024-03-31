@@ -758,7 +758,9 @@ end-lyric
 ambee sings-mathprof amenn
 Yes,
 o-o
-pairwise counting.
+pairwise vote
+o-o
+counting.
 sentence-next
 o-o
 It's a very important

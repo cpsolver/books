@@ -526,13 +526,13 @@ The other two are
 o-o
 named Barack,
 o-o
-'cause we can hope
+because we can hope
 o-o
 for change,
 o-o
 and Hypatia
 o-o
-'cause women
+because women
 o-o
 should rule.
 end-lyric
@@ -559,7 +559,7 @@ o-o
 obviously.
 sentence-next
 o-o
-'Cause voters want
+Because voters want
 o-o
 less corruption.
 sentence-next

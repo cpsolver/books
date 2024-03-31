@@ -1,5 +1,5 @@
 ambee sings-damien amenn
-Work 'n cash
+Work and cash
 o-o
 should come as
 o-o
@@ -135,7 +135,7 @@ o-o
 I fret.
 sentence-next
 o-o
-'Cause I've read that
+Because I've read that
 o-o
 suicide is
 o-o
@@ -245,7 +245,7 @@ cat litter.
 end-lyric
 
 ambee sings-damien amenn
-'Specially 'cause
+Especially because
 o-o
 most online search
 o-o
@@ -788,7 +788,7 @@ o-o
 riding.
 sentence-next
 o-o
-'Cause I'm dying.
+Because I'm dying.
 sentence-next
 o-o
 To know
@@ -871,7 +871,7 @@ end-lyric
 ambee sings-damien amenn
 I wanna change
 o-o
-the world 'n turn
+the world and turn
 o-o
 it right side up!
 end-lyric
@@ -931,11 +931,13 @@ for assistance.
 end-lyric
 
 ambee sings-damien amenn
-'N I, the dunce,
+And I,
+o-o
+the dunce,
 o-o
 will use my
 o-o
-soft brain.
+leaky brain.
 sentence-next
 o-o
 As a shovel

@@ -451,7 +451,7 @@ o-o
 stuff?
 sentence-next
 o-o
-'N economics,
+And economics,
 o-o
 that's more math.
 end-lyric
@@ -535,31 +535,20 @@ comprehend.
 end-lyric
 
 ambee sings-desha amenn
-You can
+And for the
 o-o
-handle it.
-end-lyric
-
-ambee sings-damien amenn
-Does he explain
+history part,
 o-o
-history
+just think of it
 o-o
-as well as you
+as ziplining
 o-o
-explain math?
+in a time
+o-o
+machine.
 end-lyric
 
 ambee sings-mathprof amenn
-You'll follow his
-o-o
-historical
-o-o
-timeline
-o-o
-just fine.
-sentence-next
-o-o
 If you should
 o-o
 ever get lost
@@ -610,27 +599,22 @@ o-o
 vote counting.
 sentence-next
 o-o
-And
+And two seats
 o-o
-two or three seats
+per district
 o-o
-per district.
+plus statewide
+o-o
+seats for
+o-o
+Congress.
 sentence-next
 o-o
-And statewide
-o-o
-seats.
-sentence-next
-o-o
-That's what will
-o-o
-stomp out
+Will that stomp out
 o-o
 corruption
 o-o
-in Congress,
-o-o
-right?
+in Congress?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -794,31 +778,20 @@ end-lyric
 ambee sings-mathprof amenn
 I've got tenure,
 o-o
-so I'm not likely
+so I'm not going
 o-o
 to lose my job.
 sentence-next
 o-o
-But I can
+But lots of
 o-o
-lose grants for
+the grants for my
 o-o
-my research projects.
-end-lyric
-
-ambee sings-damien amenn
-Some of your
+research projects.
 o-o
-funds come from the
+come from the
 o-o
-government?
-end-lyric
-
-ambee sings-mathprof amenn
-Yes.
-sentence-next
-o-o
-Lots.
+government.
 end-lyric
 
 ambee sings-desha amenn

@@ -568,444 +568,455 @@ o-o
 lots of sense.
 sentence-next
 o-o
-I think we've
+Now I'm
 o-o
-learned what's
+wondering
 o-o
-needed.
+if pairwise
+o-o
+vote counting
+o-o
+is too mind hyphen-here bending
+o-o
+for math hyphen-here phobic
+o-o
+voters
+o-o
+to swallow
+o-o
+and digest?
+end-lyric
+
+ambee sings-mathprof amenn
+The ballots
+o-o
+can be counted
+o-o
+by hand.
 sentence-next
 o-o
-Ranked choice ballots
+That's useful
 o-o
-and pairwise
+as a
+o-o
+demonstration
+o-o
+of what happens
+o-o
+inside a
+o-o
+computer.
+sentence-next
+o-o
+And it's needed
+o-o
+for doing
+o-o
+an official
+o-o
+recount.
+end-lyric
+
+ambee sings-damien amenn
+At the risk
+o-o
+of gagging
+o-o
+on a furball,
+o-o
+how would
+o-o
+hand counting
+o-o
+work?
+end-lyric
+
+ambee sings-mathprof amenn
+Let's say there's
+o-o
+uncertainty
+o-o
+about which of
+o-o
+the top four
+o-o
+candidates
+o-o
+really won.
+sentence-next
+o-o
+Imagine
+o-o
+six people
+o-o
+sitting at a
+o-o
+long table.
+sentence-next
+o-o
+They do the
+o-o
+counting.
+sentence-next
+o-o
+Each person
+o-o
+looks at each
+o-o
+ballot
+o-o
+and does a tally
+o-o
+for just one
+o-o
+specific
+o-o
+pair of
+o-o
+candidates.
+sentence-next
+o-o
+Then the ballot
+o-o
+is passed
+o-o
+to the next
+o-o
+person.
+end-lyric
+
+ambee sings-desha amenn
+If you were
+o-o
+tallying
+o-o
+for Oscar
+o-o
+and Hypatia,
+o-o
+you would press
+o-o
+the Oscar button
+o-o
+if he is ranked
+o-o
+higher than
+o-o
+Hypatia.
+sentence-next
+o-o
+You would press
+o-o
+the Hypatia button
+o-o
+if that ballot
+o-o
+has the opposite
+o-o
+preference.
+sentence-next
+o-o
+You'd press the
+o-o
+third button
+o-o
+if they are both
+o-o
+ranked the same.
+end-lyric
+
+ambee sings-mathprof amenn
+That pairwise
+o-o
+counting process
+o-o
+only needs to
+o-o
+be done once.
+sentence-next
+o-o
+In each pair,
+o-o
+the bigger count
+o-o
+indicates
+o-o
+who won that
+o-o
+pairwise
+o-o
+contest.
+end-lyric
+
+ambee sings-damien amenn
+You said sometimes
+o-o
+there's no
+o-o
+pairwise losing
+o-o
+candidate.
+sentence-next
+o-o
+What happens then?
+sentence-next
+o-o
+For counting
+o-o
+by hand.
+end-lyric
+
+ambee sings-mathprof amenn
+Let's say
+o-o
+instant runoff
+o-o
+voting
+o-o
+is used
+o-o
+to choose
+o-o
+which candidate
+o-o
+to eliminate
+o-o
+when there's
+o-o
+no pairwise
+o-o
+losing candidate.
+sentence-next
+o-o
+Then one person
+o-o
+can sort the
+o-o
+paper ballots
+o-o
+into piles
+o-o
+according
+o-o
+to which of the
+o-o
+remaining
+o-o
+candidates
+o-o
+is highest
+o-o
+ranked on
+o-o
+each ballot.
+sentence-next
+o-o
+The pile
+o-o
+with the fewest
+o-o
+ballots
+o-o
+identifies
+o-o
+which candidate
+o-o
+to eliminate.
+end-lyric
+
+ambee sings-desha amenn
+Is that
+o-o
+combination
+o-o
+method
+o-o
+good enough
+o-o
+for real
+o-o
+elections?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+sentence-next
+o-o
+It pole vaults us
+o-o
+almost as high
+o-o
+as the best
 o-o
 counting
 o-o
-in general
-o-o
-elections.
-sentence-next
-o-o
-Plus a second
-o-o
-nominee
-o-o
-from each big
-o-o
-political
-o-o
-party.
-sentence-next
-o-o
-So are we done?
-end-lyric
-
-ambee sings-mathprof amenn
-There's more.
-end-lyric
-
-ambee sings-damien amenn
-Now math
-o-o
-is feeling like
-o-o
-a boa constrictor
-o-o
-wrapping around
-o-o
-my lungs.
-end-lyric
-
-ambee sings-mathprof amenn
-Fight it off with
-o-o
-a deep breath
-o-o
-...
-end-lyric
-
-ambee sings-damien amenn
-begin-explain Takes a deep breath. end-explain
-end-lyric
-
-ambee sings-mathprof amenn
-...
-o-o
-with a full
-o-o
-relaxing
-o-o
-exhale.
+methods.
 end-lyric
 
 ambee sings-desha amenn
-That's a
-o-o
-foolish tactic
-o-o
-against a
-o-o
-boa constrictor.
+What's its name?
 end-lyric
 
 ambee sings-mathprof amenn
-You're fighting
+Election
 o-o
-against fear.
+methods
+o-o
+are like
+o-o
+food recipes.
 sentence-next
 o-o
-This will be
+Switching an
 o-o
-easier,
+ingredient
 o-o
-mathwise.
+or two
+o-o
+can cause it 
+o-o
+to fail.
 sentence-next
 o-o
-So far we've
+Even if the name
 o-o
-been talking
-o-o
-about how to
-o-o
-choose a
-o-o
-mayor,
-o-o
-governor,
-o-o
-or president
-o-o
-with fairness.
+remains the same.
 sentence-next
 o-o
-That's the first half.
-sentence-next
+Basically
 o-o
-But what happens
+this is instant
 o-o
-when there are
+runoff voting
 o-o
-lots of seats
+with pairwise
 o-o
-to fill,
+eliminations,
 o-o
-like in
+plus correctly
 o-o
-Congress?
+counting
+o-o
+so hyphen-here called
+o-o
+overvotes.
 end-lyric
 
 ambee sings-damien amenn
-Brain overload!
+All of this
+o-o
+sounds like a
+o-o
+no hyphen-here brainer
+o-o
+for what we
+o-o
+need to do.
+sentence-next
+o-o
+So what's the
+o-o
+biggest
+o-o
+barrier
+o-o
+against using
+o-o
+ranked choice
+o-o
+ballots and
+o-o
+pairwise
+o-o
+vote counting?
 end-lyric
 
 ambee sings-mathprof amenn
-Oh right.
-sentence-next
+Up until a few
 o-o
-Instead, try this.
-sentence-next
+decades ago,
 o-o
-Imagine a
+when computers
 o-o
-group of friends
+came along,
 o-o
-eating together
+doing the math
 o-o
-and choosing
+by hand
 o-o
-two pizzas.
-sentence-next
+was the big
 o-o
-If the majority
-o-o
-want a
-o-o
-pork sausage
-o-o
-topping,
-o-o
-and about
-o-o
-a third of
-o-o
-the friends are
-o-o
-Jewish,
-o-o
-how should the
-o-o
-topping
-o-o
-for the second
-o-o
-pizza
-o-o
-be chosen?
-end-lyric
-
-ambee sings-desha amenn
-In the non hyphen-here math
-o-o
-verse,
-o-o
-they would start
-o-o
-a holy war.
+barrier.
 end-lyric
 
 ambee sings-damien amenn
-Couldn't the
+But now we have
 o-o
-second hyphen-here most
+computers,
 o-o
-popular
+so what's
 o-o
-candidate,
+stopping us
 o-o
-er, topping,
-o-o
-be elected,
-o-o
-er,
-o-o
-selected?
-sentence-next
-o-o
-For the second
-o-o
-pizza?
+now?
 end-lyric
 
 ambee sings-mathprof amenn
-Second hyphen-here most
-o-o
-popular has
-o-o
-more than one
-o-o
-meaning.
+Fear.
 sentence-next
 o-o
-So let's try
+Especially
 o-o
-yet another
-o-o
-metaphor.
+a fear of math.
 sentence-next
 o-o
-Imagine that
+Officially
 o-o
-five wolves and
+that's called
 o-o
-four sheep vote
+mathematical
 o-o
-on what to eat
-o-o
-for dinner.
-end-lyric
-
-ambee sings-desha amenn
-Ha! The five wolves
-o-o
-would eat the
-o-o
-four sheep!
+anxiety.
 sentence-next
 o-o
-And claim it's fair
+Lots of people
 o-o
-because it's
+have it because
 o-o
-democracy!
+most people
+o-o
+don't trust what
+o-o
+they don't
+o-o
+understand.
 end-lyric
 
 ambee sings-damien amenn
-So us
+Math
 o-o
-minorities,
-o-o
-like the sheep,
-o-o
-need a way to
-o-o
-fight against a
-o-o
-majority.
-end-lyric
-
-ambee sings-desha amenn
-The Bill of Rights
-o-o
-is nice,
-o-o
-but that's
-o-o
-not enough
-o-o
-to protect us
-o-o
-minorities
-o-o
-from white
-o-o
-supremacists.
-end-lyric
-
-ambee sings-mathprof amenn
-As you see,
-o-o
-just getting a
-o-o
-majority
-o-o
-is just part of
-o-o
-the big picture.
-end-lyric
-
-ambee sings-desha amenn
-I thought you were
-o-o
-showing us
-o-o
-everything on
-o-o
-a twelve hyphen-here foot
-o-o
-TV screen.
+anxiety.
 sentence-next
 o-o
-Where on the screen
+That's what I
 o-o
-should we
+was infected
 o-o
-be looking?
+by.
+end-lyric
+
+ambee sings-desha amenn
+You're
+o-o
+disinfected
+o-o
+now.
 end-lyric
 
 ambee sings-damien amenn
-I see something.
-sentence-next
+Already
 o-o
-If districts
+the bleach scent
 o-o
-were filled with
-o-o
-wolves 'n sheep,
-o-o
-'n each district
-o-o
-had slightly more
-o-o
-wolves than sheep,
-o-o
-then every
-o-o
-district would
-o-o
-elect a wolf.
-sentence-next
-o-o
-Then Congress would
-o-o
-be nothing but wolves.
-end-lyric
-
-ambee sings-desha amenn
-That's not far from
-o-o
-what are now
-o-o
-mostly
-o-o
-white males.
-end-lyric
-
-ambee sings-mathprof amenn
-In Europe,
-o-o
-instead of just
-o-o
-wolves and sheep,
-o-o
-they have a
-o-o
-handful of
-o-o
-political parties.
-end-lyric
-
-ambee sings-desha amenn
-Like wolves and sheep
-o-o
-and goats and pigs?
-end-lyric
-
-ambee sings-mathprof amenn
-Sure.
-sentence-next
-o-o
-On the ballot
-o-o
-each voter marks their
-o-o
-favorite
-o-o
-political party.
-sentence-next
-o-o
-Let's say
-o-o
-lots of voters
-o-o
-mark their
-o-o
-ballot for
-o-o
-the Pirate
-o-o
-party.
-end-lyric
-
-ambee sings-damien amenn
-I'd join that one.
-sentence-next
-o-o
-It sounds like
-o-o
-they're against
-o-o
-puppets.
-end-lyric
-
-ambee sings-desha amenn
-Do they slash
-o-o
-puppet strings
-o-o
-with their
-o-o
-swords?
-end-lyric
-
-ambee sings-mathprof amenn
-They don't carry
-o-o
-swords,
-o-o
-or dress like
-o-o
-pirates.
-sentence-next
-o-o
-But they do
-o-o
-oppose
-o-o
-what they think is
-o-o
-corruption.
-end-lyric
-
-ambee sings-damien amenn
-Go pirates!
+isn't evident.
 end-lyric
