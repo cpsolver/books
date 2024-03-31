@@ -1,3 +1,580 @@
+ambee sings-mathprof amenn
+In some
+o-o
+European
+o-o
+countries,
+o-o
+adjustments
+o-o
+are done to
+o-o
+ensure the
+o-o
+Pirate party
+o-o
+and other
+o-o
+non hyphen-here tiny
+o-o
+parties
+o-o
+get their fair share
+o-o
+of seats in
+o-o
+parliament.
+end-lyric
+
+ambee sings-damien amenn
+Does that work?
+end-lyric
+
+ambee sings-mathprof amenn
+It hides the
+o-o
+unfairness of
+o-o
+still using
+o-o
+single hyphen-here choice ballots.
+sentence-next
+o-o
+Yet lots of
+o-o
+people like it
+o-o
+because
+o-o
+it yields
+o-o
+what's called
+o-o
+begin-italics proportional
+o-o
+representation end-italics no-space .
+sentence-next
+o-o
+So each voter
+o-o
+can point to
+o-o
+someone in
+o-o
+parliament
+o-o
+and claim their vote
+o-o
+helped elect
+o-o
+that MP,
+o-o
+er,
+o-o
+member of
+o-o
+parliament.
+end-lyric
+
+ambee sings-desha amenn
+From reading
+o-o
+news about
+o-o
+Europe those
+o-o
+governments
+o-o
+have as much
+o-o
+corruption
+o-o
+as us.
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+sentence-next
+o-o
+They focus on
+o-o
+the balance
+o-o
+of power
+o-o
+between parties.
+sentence-next
+o-o
+But mostly
+o-o
+they allow
+o-o
+party insiders
+o-o
+to control which
+o-o
+politicians
+o-o
+win the seats.
+end-lyric
+
+ambee sings-desha amenn
+That's like hiring
+o-o
+a coyote
+o-o
+as the night guard
+o-o
+at a
+o-o
+chicken coop.
+end-lyric
+
+ambee sings-mathprof amenn
+So back here
+o-o
+in the United States,
+o-o
+suppose each district
+o-o
+had two
+o-o
+representatives
+o-o
+instead of one.
+end-lyric
+
+ambee sings-desha amenn
+That would double
+o-o
+the size of
+o-o
+the house of
+o-o
+representatives.
+end-lyric
+
+ambee sings-damien amenn
+Couldn't that
+o-o
+be avoided
+o-o
+by making
+o-o
+each district
+o-o
+double the size?
+sentence-next
+o-o
+And having half
+o-o
+as many districts?
+end-lyric
+
+ambee sings-mathprof amenn
+Very good!
+sentence-next
+o-o
+And using a fraction
+o-o
+no less.
+end-lyric
+
+ambee sings-damien amenn
+It's like building
+o-o
+a staircase.
+sentence-next
+o-o
+Half as many steps
+o-o
+means each step
+o-o
+is twice as high.
+end-lyric
+
+ambee sings-desha amenn
+Wow.
+sentence-next
+o-o
+Now you're
+o-o
+stepping up
+o-o
+to design
+o-o
+a new Congress.
+end-lyric
+
+ambee sings-mathprof amenn
+Of course the
+o-o
+most popular
+o-o
+candidate
+o-o
+would win
+o-o
+the first seat.
+sentence-next
+o-o
+In a
+o-o
+double hyphen-here sized
+o-o
+district.
+end-lyric
+
+ambee sings-desha amenn
+So how's the
+o-o
+second seat filled?
+sentence-next
+o-o
+In a way that's fair.
+sentence-next
+o-o
+For the sheep,
+o-o
+and goats,
+o-o
+and pigs?
+sentence-next
+o-o
+Or maybe I should say,
+o-o
+for women to get
+o-o
+the representation
+o-o
+we deserve.
+end-lyric
+
+ambee sings-mathprof amenn
+Using simple math,
+o-o
+a computer can
+o-o
+calculate which
+o-o
+voters are 
+o-o
+well hyphen-here represented
+o-o
+by the first hyphen-here seat
+o-o
+winner.
+end-lyric
+
+ambee sings-damien amenn
+Since that math
+o-o
+is simple,
+o-o
+I don't need to
+o-o
+hear about it,
+o-o
+right?
+end-lyric
+
+ambee sings-mathprof amenn
+Only to know
+o-o
+it involves
+o-o
+division.
+end-lyric
+
+ambee sings-damien amenn
+Sweet!
+sentence-next
+o-o
+Divide and
+o-o
+conquer!
+end-lyric
+
+ambee sings-mathprof amenn
+The ballots
+o-o
+of those
+o-o
+well hyphen-here represented
+o-o
+voters
+o-o
+would have their
+o-o
+influence
+o-o
+greatly reduced.
+sentence-next
+o-o
+Often all the
+o-o
+way to zero.
+sentence-next
+o-o
+The remaining
+o-o
+voters still have
+o-o
+full influence
+o-o
+for their ballots.
+sentence-next
+o-o
+Pairwise counting
+o-o
+is done again,
+o-o
+and the most
+o-o
+popular
+o-o
+candidate
+o-o
+wins the
+o-o
+second seat.
+sentence-next
+o-o
+In this
+o-o
+district.
+end-lyric
+
+ambee sings-desha amenn
+I'm guessing
+o-o
+the tendency
+o-o
+would be
+o-o
+for each district
+o-o
+to elect one
+o-o
+Republican
+o-o
+and one
+o-o
+Democrat?
+end-lyric
+
+ambee sings-mathprof amenn
+Under current
+o-o
+conditions,
+o-o
+usually yes.
+sentence-next
+o-o
+Assuming both
+o-o
+parties offer
+o-o
+good candidates.
+end-lyric
+
+ambee sings-damien amenn
+Oh yeah,
+o-o
+there will be
+o-o
+a second
+o-o
+Republican
+o-o
+and a second
+o-o
+Democrat
+o-o
+in the race.
+end-lyric
+
+ambee sings-mathprof amenn
+Probably
+o-o
+three or four
+o-o
+candidates
+o-o
+from each party.
+sentence-next
+o-o
+That prevents
+o-o
+party insiders
+o-o
+from limiting
+o-o
+your choices
+o-o
+to just the two
+o-o
+they want.
+end-lyric
+
+ambee sings-desha amenn
+Suppose the
+o-o
+Republican
+o-o
+party only
+o-o
+offers puppet
+o-o
+candidates,
+o-o
+like Pinoke
+o-o
+and Oscar,
+o-o
+and the Democratic
+o-o
+party offers
+o-o
+anti hyphen-here corruption
+o-o
+candidates,
+o-o
+like Barack
+o-o
+and Hypatia,
+o-o
+then both winners
+o-o
+could be Democrats?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
+end-lyric
+
+ambee sings-damien amenn
+This seems like a
+o-o
+winning
+o-o
+pole vault
+o-o
+over our low
+o-o
+limbo bar,
+o-o
+where we
+o-o
+are now.
+end-lyric
+
+ambee sings-desha amenn
+But if every district
+o-o
+elects one
+o-o
+Republican and
+o-o
+one Democrat,
+o-o
+then Congress
+o-o
+would be tied.
+sentence-next
+o-o
+That's cockeyed.
+sentence-next
+o-o
+The population
+o-o
+is not
+o-o
+evenly
+o-o
+divided
+o-o
+between the
+o-o
+two parties.
+end-lyric
+
+ambee sings-mathprof amenn
+To fix that
+o-o
+unfair balance,
+o-o
+we make the
+o-o
+districts a little
+o-o
+bigger.
+sentence-next
+o-o
+And we reserve
+o-o
+a few special
+o-o
+seats.
+sentence-next
+o-o
+Those are called
+o-o
+statewide seats.
+sentence-next
+o-o
+The party hyphen-here based
+o-o
+measurements
+o-o
+tell us which
+o-o
+party deserves
+o-o
+to win each
+o-o
+of those
+o-o
+statewide
+o-o
+seats.
+end-lyric
+
+ambee sings-desha amenn
+And party
+o-o
+insiders
+o-o
+will choose
+o-o
+whose butts
+o-o
+will fill
+o-o
+those seats?
+sentence-next
+o-o
+That seems
+o-o
+unfair.
+end-lyric
+
+ambee sings-mathprof amenn
+Lots of
+o-o
+European
+o-o
+nations
+o-o
+do it that way.
+sentence-next
+o-o
+But you're right.
+sentence-next
+o-o
+It's not fair.
+end-lyric
+
 ambee sings-damien amenn
 Why are those
 o-o
@@ -157,11 +734,6 @@ fairer than what
 o-o
 we've got now.
 end-lyric
-
-<!-- snip -->
-
-
-<!-- snip -->
 
 ambee sings-mathprof amenn
 To make

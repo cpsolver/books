@@ -25,7 +25,7 @@ the name
 o-o
 ranked choice voting
 o-o
-now usually
+now often
 o-o
 refers to
 o-o
@@ -39,12 +39,6 @@ ranked choice
 o-o
 ballots.
 end-lyric
-
-
-<!-- snip -->
-
-<!-- snip -->
-
 
 ambee sings-desha amenn
 Is that other
@@ -110,7 +104,7 @@ o-o
 representation.
 sentence-next
 o-o
-The part where
+It's the part where
 o-o
 two or more
 o-o
@@ -123,23 +117,34 @@ o-o
 district.
 sentence-next
 o-o
-The statewide seats
-o-o
-also are needed
-o-o
-to get fully
+The other part of
 o-o
 proportional
 o-o
-results.
+representation
+o-o
+is the statewide
+o-o
+seats.
 end-lyric
 
 ambee sings-damien amenn
-Isn't pairwise
+Filling Congress
+o-o
+in a way
+o-o
+that's fair
+o-o
+is making sense.
+sentence-next
+o-o
+Now I'm wondering
+o-o
+if pairwise
 o-o
 vote counting
 o-o
-too mind hyphen-here bending
+is too mind hyphen-here bending
 o-o
 for math hyphen-here phobic
 o-o
@@ -457,7 +462,20 @@ overvotes.
 end-lyric
 
 ambee sings-damien amenn
-What's the
+All of this
+o-o
+sounds like a
+o-o
+no hyphen-here brainer
+o-o
+for what we
+o-o
+need to do.
+sentence-next
+o-o
+So what's the
+o-o
+biggest
 o-o
 barrier
 o-o
@@ -563,14 +581,20 @@ end-lyric
 ambee sings-mathprof amenn
 There's another
 o-o
+smaller
+o-o
 barrier.
 sentence-next
 o-o
 Lots of money
 o-o
-fuels critics
+is given to
 o-o
-of ranked choice
+people who
+o-o
+criticize
+o-o
+ranked choice
 o-o
 voting.
 end-lyric
@@ -609,39 +633,59 @@ the failures
 o-o
 in Alaska
 o-o
-and Burlington
+and Burlington.
+sentence-next
 o-o
-where a
+Those failures
 o-o
-pairwise losing
+happened because
+o-o
+they used
+o-o
+instant runoff
+o-o
+voting
+o-o
+without also
+o-o
+eliminating
+o-o
+the pairwise
+o-o
+losing
 o-o
 candidate
 o-o
-should have been
+who was in
 o-o
-eliminated.
+the top three
+o-o
+candidates.
 sentence-next
 o-o
-And pretending
+And it's easy to
 o-o
-that overvotes
+criticize
 o-o
-cannot be
+ranked choice
 o-o
-counted
+ballots
 o-o
-correctly.
-sentence-next
+as difficult
 o-o
-And using overvotes
+to mark
 o-o
-to imply
+if the counting
 o-o
-ranked choice ballots
+dismisses
 o-o
-are not
+ballots
 o-o
-user friendly.
+that have more than
+o-o
+just one mark in
+o-o
+each choice column.
 sentence-next
 o-o
 And some critics
@@ -683,7 +727,9 @@ o-o
 preference.
 sentence-next
 o-o
-Such as caring
+Such as
+o-o
+recognizing
 o-o
 that Jewish friends
 o-o
@@ -849,11 +895,16 @@ sentence-next
 o-o
 Pairwise counting
 o-o
-looks deeply
+looks at the
 o-o
-at all the
+side view.
+sentence-next
 o-o
-information.
+So it sees
+o-o
+every preference
+o-o
+detail.
 end-lyric
 
 ambee sings-damien amenn
