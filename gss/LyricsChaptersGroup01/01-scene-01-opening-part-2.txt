@@ -45,13 +45,13 @@ o-o
 in taxes.
 sentence-next
 o-o
-'N licenses.
+And licenses.
 sentence-next
 o-o
-'N insurance.
+And insurance.
 sentence-next
 o-o
-'N extra fees.
+And extra fees.
 sentence-next
 o-o
 Just keeping
@@ -107,7 +107,7 @@ o-o
 Not yet.
 sentence-next
 o-o
-'N it won't
+And it won't
 o-o
 if I'm not
 o-o
@@ -304,7 +304,7 @@ o-o
 o-o
 in politics
 o-o
-'n business? end-italics
+and business? end-italics
 end-lyric
 
 ambee sings-fiance amenn
@@ -330,17 +330,13 @@ o-o
 college.
 sentence-next
 o-o
-And German
+And
 o-o
-dating.
-sentence-next
+gerrymand
 o-o
-Er,
+...
 o-o
-gerrymandation.
-sentence-next
-o-o
-And such.
+whatever.
 end-lyric
 
 ambee sings-damien amenn
@@ -384,7 +380,7 @@ o-o
 definitions.
 sentence-next
 o-o
-'N the names
+And the names
 o-o
 of Thomas
 o-o
@@ -393,7 +389,7 @@ o-o
 pets.
 sentence-next
 o-o
-'N tests,
+And tests,
 o-o
 those
 o-o
@@ -510,7 +506,7 @@ o-o
 on his tests.
 sentence-next
 o-o
-'N fractions.
+And fractions.
 sentence-next
 o-o
 Those were
@@ -581,7 +577,7 @@ o-o
 the economy.
 sentence-next
 o-o
-'N then we
+And then we
 o-o
 wouldn't be
 o-o
@@ -783,7 +779,7 @@ o-o
 crocodile.
 sentence-next
 o-o
-'N keep on
+And keep on
 o-o
 riding.
 sentence-next
@@ -818,7 +814,7 @@ sentence-next
 o-o
 But it's not
 o-o
-OK.
+okay.
 sentence-next
 o-o
 It's not fair!
@@ -919,7 +915,7 @@ prosperity.
 end-lyric
 
 ambee sings-damien amenn
-'N suffer less
+And suffer less
 o-o
 adversity.
 end-lyric
@@ -931,22 +927,17 @@ for assistance.
 end-lyric
 
 ambee sings-damien amenn
-And I,
-o-o
-the dunce,
+And I
 o-o
 will use my
 o-o
-leaky brain.
-sentence-next
-o-o
-As a shovel
+persistence
 o-o
 to dig down deep
 o-o
 into elephant
 o-o
-'n donkey shit!
+and donkey shit!
 sentence-next
 o-o
 My sanity

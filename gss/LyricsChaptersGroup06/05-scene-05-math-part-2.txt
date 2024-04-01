@@ -740,7 +740,7 @@ sentence-next
 o-o
 And it would work
 o-o
-OK in
+Okay in
 o-o
 begin-italics primary end-italics
 o-o

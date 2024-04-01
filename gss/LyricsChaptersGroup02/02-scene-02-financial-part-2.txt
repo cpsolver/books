@@ -6,7 +6,7 @@ o-o
 I could self hyphen-here fund it.
 sentence-next
 o-o
-'N with that
+And with that
 o-o
 I could go to
 o-o
@@ -113,7 +113,7 @@ and miss a
 o-o
 payment,
 o-o
-a remittance,
+a remittance
 o-o
 or two,
 o-o
@@ -307,9 +307,9 @@ the gold.
 end-lyric
 
 ambee sings-damien amenn
-'N the captain
+And the captain
 o-o
-'n crew got what?
+and crew got what?
 end-lyric
 
 ambee sings-vc amenn
@@ -492,7 +492,7 @@ er, ...,
 o-o
 kitten videos,
 o-o
-'n drive a car
+and drive a car
 o-o
 that didn't come off
 o-o
@@ -602,7 +602,7 @@ o-o
 start a cult?
 sentence-next
 o-o
-'N of course
+And of course
 o-o
 there'd be
 o-o
@@ -634,7 +634,9 @@ focusing
 o-o
 on death,
 o-o
-or sex,
+sex,
+o-o
+calmness,
 o-o
 or fashion color.
 sentence-next
@@ -659,7 +661,7 @@ making money
 o-o
 is about lying
 o-o
-'n cheating.
+and cheating.
 end-lyric
 
 ambee sings-vc amenn
@@ -791,9 +793,11 @@ o-o
 any law.
 sentence-next
 o-o
-I share mula with
+I share money
 o-o
-any politician
+with any
+o-o
+politician
 o-o
 who passes laws
 o-o
@@ -819,7 +823,7 @@ voice,
 o-o
 in politics,
 o-o
-what do ya get
+what do you get
 o-o
 from the
 o-o

@@ -521,7 +521,7 @@ That's it!
 end-lyric
 
 ambee sings-damien amenn
-'N divide 'n
+And divide 'n
 o-o
 conquer.
 sentence-next
@@ -541,7 +541,7 @@ o-o
 one another?
 sentence-next
 o-o
-'N then they can
+And then they can
 o-o
 attack the
 o-o
@@ -650,7 +650,7 @@ o-o
 army sizes.
 sentence-next
 o-o
-'N the smaller
+And the smaller
 o-o
 army surrenders?
 end-lyric
@@ -706,7 +706,7 @@ end-lyric
 ambee sings-damien amenn
 Oh dear,
 o-o
-ya mean,
+you mean,
 o-o
 mathematics?
 end-lyric

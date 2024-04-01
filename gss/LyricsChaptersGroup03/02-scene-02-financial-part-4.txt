@@ -506,7 +506,7 @@ o-o
 in politics.
 sentence-next
 o-o
-I know 'bout that.
+I know about that.
 sentence-next
 o-o
 But I don't yet
@@ -586,7 +586,9 @@ end-lyric
 ambee sings-vc amenn
 In the primary,
 o-o
-the winner's always
+the winner
+o-o
+is always
 o-o
 from the correct party,
 o-o

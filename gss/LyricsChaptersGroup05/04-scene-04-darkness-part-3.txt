@@ -384,7 +384,7 @@ end-lyric
 ambee sings-damien amenn
 I'm short
 o-o
-'n not handsome.
+and not handsome.
 sentence-next
 o-o
 So working hard
@@ -560,7 +560,7 @@ math professor?
 end-lyric
 
 ambee sings-damien amenn
-'Kay but only
+Okay but only
 o-o
 if she can
 o-o
@@ -578,10 +578,10 @@ end-lyric
 ambee sings-desha amenn
 I think she can be
 o-o
-OK with that.
+okay with that.
 sentence-next
 o-o
-'N maybe I can
+And maybe I can
 o-o
 translate if that's
 o-o
@@ -908,7 +908,7 @@ sentence-next
 o-o
 Well,
 o-o
-OK,
+okay,
 o-o
 stupid voters.
 end-lyric

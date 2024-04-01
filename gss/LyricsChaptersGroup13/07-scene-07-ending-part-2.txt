@@ -280,7 +280,7 @@ o-o
 father.
 sentence-next
 o-o
-It's OK if he calls
+It's okay if he calls
 o-o
 you father?
 end-lyric

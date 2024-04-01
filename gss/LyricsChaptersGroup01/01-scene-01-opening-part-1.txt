@@ -15,7 +15,7 @@ end-standard-paragraph
 begin-standard-paragraph
 begin-bold Audiobook end-bold no-space :
 begin-bold
-Talented voice actors eventually will transform this dialog into an audiobook.
+Voice actors eventually will transform this dialog into an audiobook.
 end-bold
 sentence-next
 In the meantime, during this crazy 2024 election year, this dialog is available here and now to help you make sense of U.S. politics and understand what it will take to uncrazify the political world.

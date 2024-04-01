@@ -246,7 +246,9 @@ What especially
 o-o
 delights them
 o-o
-are biz tax breaks.
+are business
+o-o
+tax breaks.
 sentence-next
 o-o
 And when they can
@@ -284,7 +286,7 @@ politicians
 o-o
 for lower taxes
 o-o
-'n no
+and no
 o-o
 competition.
 sentence-next
@@ -335,7 +337,7 @@ Christian values,
 o-o
 immigration,
 o-o
-'n such,
+and such,
 o-o
 right?
 end-lyric
@@ -391,7 +393,7 @@ really
 o-o
 gives a damn
 o-o
-'bout giving 
+about giving 
 o-o
 homeless folks
 o-o
@@ -431,9 +433,9 @@ are using
 o-o
 religious
 o-o
-'n racial
+and racial
 o-o
-'n gender
+and gender
 o-o
 issues
 o-o
@@ -637,7 +639,7 @@ Ain't that sweet?
 end-lyric
 
 ambee sings-damien amenn
-'N as hard to follow
+And as hard to follow
 o-o
 as a rat
 o-o
@@ -648,7 +650,7 @@ sentence-next
 o-o
 So they don't
 o-o
-give a damn 'bout
+give a damn about
 o-o
 left or right?
 sentence-next
@@ -813,7 +815,7 @@ o-o
 Republican party.
 sentence-next
 o-o
-'N credit unions
+And credit unions
 o-o
 prefer the
 o-o
@@ -835,7 +837,7 @@ o-o
 down.
 sentence-next
 o-o
-'N how come they
+And how come they
 o-o
 oppose us, the
 o-o

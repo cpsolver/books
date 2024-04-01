@@ -169,7 +169,9 @@ equivalent
 o-o
 to flipping
 o-o
-off the awful
+off the
+o-o
+even hyphen-here worse
 o-o
 candidate.
 end-lyric
@@ -352,7 +354,9 @@ sounds easier
 o-o
 than fitting
 o-o
-stairs into a
+stairs into
+o-o
+a spiral
 o-o
 staircase.
 end-lyric
@@ -622,7 +626,7 @@ end-lyric
 ambee sings-damien amenn
 At the risk
 o-o
-of gagging
+of choking
 o-o
 on a furball,
 o-o

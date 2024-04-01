@@ -153,7 +153,7 @@ textbooks.
 end-lyric
 
 ambee sings-damien amenn
-'N years ago
+And years ago
 o-o
 puppet
 o-o
@@ -272,7 +272,7 @@ o-o
 numbers.
 sentence-next
 o-o
-'N math to me
+And math to me
 o-o
 is scary.
 end-lyric
@@ -386,7 +386,7 @@ East.
 end-lyric
 
 ambee sings-damien amenn
-How did ya cope?
+How did you cope?
 end-lyric
 
 ambee sings-desha amenn
@@ -570,7 +570,7 @@ Like not picking
 o-o
 up dog poop,
 o-o
-'n not wearing
+and not wearing
 o-o
 a face mask
 o-o
@@ -729,7 +729,7 @@ I fight to
 o-o
 remind them
 o-o
-that's not OK.
+that's not okay.
 end-lyric
 
 ambee sings-damien amenn

@@ -117,7 +117,7 @@ o-o
 rallies.
 sentence-next
 o-o
-'N the cheese
+And the cheese
 o-o
 looks more
 o-o
@@ -304,19 +304,17 @@ o-o
 distraction.
 sentence-next
 o-o
-Some voters
+Some people
 o-o
 who vote for
 o-o
 Democrats
 o-o
-spitefully
-o-o
-refer to some
+sometimes call
 o-o
 Republican
 o-o
-candidates as
+candidates
 o-o
 racists,
 o-o
@@ -324,34 +322,32 @@ misogynists,
 o-o
 climate deniers,
 o-o
-and the puppets
+one percenters,
 o-o
-of greedy
+and greedy
 o-o
-capitalists
-o-o
-and one percenters.
+capitalists.
 sentence-next
 o-o
-Some voters
+Some people
 o-o
 who vote for
 o-o
 Republicans
 o-o
-spitefully
-o-o
-refer to some
+sometimes call
 o-o
 Democratic
 o-o
-candidates as
+candidates
 o-o
 socialists,
 o-o
 abortionists,
 o-o
 tree huggers,
+o-o
+crybabies,
 o-o
 godless pagans,
 o-o
@@ -404,7 +400,7 @@ My brain
 o-o
 is open wide
 o-o
-'n ready to be
+and ready to be
 o-o
 stupefied.
 end-lyric
@@ -613,7 +609,7 @@ primary.
 end-lyric
 
 ambee sings-damien amenn
-You're talking 'bout
+You're talking about
 o-o
 rich folks,
 o-o

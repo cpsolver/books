@@ -21,7 +21,7 @@ sentence-next
 o-o
 Now I realize
 o-o
-those're 'bout the
+those are about the
 o-o
 attention hyphen-here grabbing
 o-o
@@ -57,7 +57,7 @@ Which now I know
 o-o
 helps distract from,
 o-o
-'n hide,
+and hide,
 o-o
 the bigger fight
 o-o
@@ -225,11 +225,11 @@ nominee.
 end-lyric
 
 ambee sings-damien amenn
-'N now I see
+And now I see
 o-o
 how come news media
 o-o
-'n those slippery
+and those slippery
 o-o
 political ads
 o-o
@@ -289,7 +289,7 @@ the puppeteer.
 end-lyric
 
 ambee sings-damien amenn
-'N yet we have
+And yet we have
 o-o
 social media.
 sentence-next
@@ -434,7 +434,7 @@ o-o
 anger.
 sentence-next
 o-o
-Lots of 'em
+Lots of them
 o-o
 are getting
 o-o
@@ -593,9 +593,9 @@ sentence-next
 o-o
 Cramming more facts
 o-o
-'bout the Alamo
+about the Alamo
 o-o
-'n the Civil War
+and the Civil War
 o-o
 into my head
 o-o
@@ -725,23 +725,25 @@ ambee sings-damien amenn
 Ah!
 sentence-next
 o-o
-Now the splitting's
+Now the splitting
 o-o
-hidden in
+is hidden in
 o-o
 primaries.
 sentence-next
 o-o
-Where the winner's
+Where the winner
 o-o
-never from
+is never from
 o-o
 the wrong party.
 sentence-next
 o-o
-And the winner's
+And the winner
 o-o
-always a puppet.
+is always
+o-o
+a puppet.
 end-lyric
 
 ambee sings-politician amenn
@@ -761,9 +763,9 @@ o-o
 I hate tests!
 sentence-next
 o-o
-'N this might be
+And this might be
 o-o
-'bout history
+about history
 o-o
 no less.
 end-lyric
@@ -782,7 +784,7 @@ end-lyric
 ambee sings-damien amenn
 begin-explain Sighs. end-explain
 o-o
-'Kay
+Okay.
 end-lyric
 
 ambee sings-politician amenn
@@ -848,7 +850,7 @@ Correct so far.
 end-lyric
 
 ambee sings-damien amenn
-'N they probably
+And they probably
 o-o
 made the
 o-o

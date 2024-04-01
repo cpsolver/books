@@ -6,7 +6,7 @@ end-title
 ambee put-into-phrase lyric-number 0200000 amenn
 
 ambee sings-damien-firstuse amenn
-'ello mister
+Hello mister
 o-o
 name-vc-last no-space .
 end-lyric
@@ -17,7 +17,7 @@ o-o
 my home.
 sentence-next
 o-o
-'N just call me
+And just call me
 o-o
 name-vc no-space .
 end-lyric
@@ -27,15 +27,25 @@ Mister name-father-of-fiance-last no-space ,
 o-o
 my fiance's father,
 o-o
-said you make money dance.
+said you make
+o-o
+money dance.
 sentence-next
 o-o
-'N I'd like to advance
+And I'd like
 o-o
-my state of finance.
+to advance
+o-o
+my state of
+o-o
+finance.
 sentence-next
 o-o
-Could ya teach me some tricks?
+Could you
+o-o
+teach me
+o-o
+some tricks?
 end-lyric
 
 ambee sings-vc amenn
@@ -345,13 +355,13 @@ ambee sings-damien amenn
 I see.
 sentence-next
 o-o
-'N besides words
+And besides words
 o-o
 for mula
 o-o
 and dough,
 o-o
-there're words
+there are words
 o-o
 like banker,
 o-o
@@ -363,7 +373,7 @@ miser,
 o-o
 embezzler,
 o-o
-'n vulture
+and vulture
 o-o
 capitalist.
 end-lyric
@@ -462,7 +472,7 @@ back when
 o-o
 swashbuckling
 o-o
-exams
+internships
 o-o
 were open
 o-o
@@ -493,7 +503,7 @@ speed of light.
 end-lyric
 
 ambee sings-damien amenn
-'N the modern
+And the modern
 o-o
 version of pirates
 o-o
@@ -739,14 +749,11 @@ also can be
 o-o
 used to oppose
 o-o
-customer
+buyer
 o-o
-resistance.
-sentence-next
+resistance
 o-o
-And even
-o-o
-customer
+and customer
 o-o
 dissatisfaction.
 end-lyric
@@ -779,7 +786,7 @@ sentence-next
 o-o
 So I'll ask,
 o-o
-would ya invest
+would you invest
 o-o
 in a business
 o-o

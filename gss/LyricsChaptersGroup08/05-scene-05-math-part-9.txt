@@ -676,7 +676,9 @@ they came from.
 end-lyric
 
 ambee sings-damien amenn
-OK, but why?
+Okay,
+o-o
+but why?
 end-lyric
 
 ambee sings-mathprof amenn

@@ -105,9 +105,9 @@ are fair.
 end-lyric
 
 ambee sings-damien amenn
-When vote splitting's
+When vote splitting
 o-o
-no longer
+is no longer
 o-o
 skewing
 o-o
@@ -244,7 +244,7 @@ do you have a
 o-o
 general notion
 o-o
-'bout what will
+about what will
 o-o
 change?
 sentence-next
@@ -421,7 +421,7 @@ That's a mouthful.
 end-lyric
 
 ambee sings-desha amenn
-OK,
+Okay,
 o-o
 then
 o-o
@@ -478,13 +478,13 @@ As opposed to the
 o-o
 political left
 o-o
-'n political
+and political
 o-o
 right.
 end-lyric
 
 ambee sings-desha amenn
-'N we
+And we
 o-o
 the people,
 o-o
@@ -863,7 +863,7 @@ o-o
 and effect.
 sentence-next
 o-o
-Is that OK?
+Is that okay?
 end-lyric
 
 ambee sings-econhist amenn

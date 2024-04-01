@@ -31,7 +31,7 @@ at this time?
 end-lyric
 
 ambee sings-damien amenn
-Nice to meet ya.
+Nice to meet you.
 sentence-next
 o-o
 I'm name-damien no-space .
@@ -113,7 +113,7 @@ funny.
 end-lyric
 
 ambee sings-damien amenn
-Ya said you
+You said you
 o-o
 wanted to meet
 o-o
@@ -371,14 +371,14 @@ Skip the sermons.
 end-lyric
 
 ambee sings-damien amenn
-Vote splitting's
+Vote splitting is
 o-o
 at the root of
 o-o
 unfair elections.
 sentence-next
 o-o
-So do ya wanna
+So do you wanna
 o-o
 hear about it?
 end-lyric
@@ -426,7 +426,7 @@ to life.
 end-lyric
 
 ambee sings-damien amenn
-Ya can raise
+You can raise
 o-o
 the dead?
 end-lyric
@@ -518,7 +518,7 @@ politicians.
 end-lyric
 
 ambee sings-damien amenn
-'Kay.
+Okay.
 end-lyric
 
 ambee sings-desha amenn
@@ -544,7 +544,7 @@ candidates,
 o-o
 two cruel,
 o-o
-'n two cool,
+and two cool,
 o-o
 who'd win?
 end-lyric
@@ -788,7 +788,7 @@ end-lyric
 ambee sings-damien amenn
 Plus Koch Brothers
 o-o
-'n Forbes
+and Forbes
 o-o
 levels of
 o-o
@@ -836,9 +836,9 @@ o-o
 That's unfair!
 sentence-next
 o-o
-The winner's
+The winner
 o-o
-chosen by
+is chosen by
 o-o
 millionaires.
 sentence-next

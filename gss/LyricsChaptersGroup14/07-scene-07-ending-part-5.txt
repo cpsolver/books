@@ -36,7 +36,7 @@ not the
 o-o
 lobbyists
 o-o
-'n other folks
+and other folks
 o-o
 who are hired to do
 o-o
@@ -106,7 +106,7 @@ forty from
 o-o
 one hundred
 o-o
-'n realize
+and realize
 o-o
 the result,
 o-o
@@ -351,7 +351,7 @@ end-lyric
 ambee sings-damien amenn
 He explained that
 o-o
-vote splitting's
+vote splitting is
 o-o
 why money has more
 o-o
@@ -713,9 +713,9 @@ and political down.
 end-lyric
 
 ambee sings-damien amenn
-Vote splitting's
+Vote splitting
 o-o
-the reason
+is the reason
 o-o
 money
 o-o
@@ -739,7 +739,7 @@ sentence-next
 o-o
 Slowly voters
 o-o
-'n parties learned
+and parties learned
 o-o
 that whichever
 o-o
