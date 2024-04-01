@@ -288,7 +288,7 @@ o-o
 complications.
 sentence-next
 o-o
-State by state
+State hyphen-here by hyphen-here state
 o-o
 electoral
 o-o

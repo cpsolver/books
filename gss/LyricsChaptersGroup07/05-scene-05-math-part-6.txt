@@ -402,13 +402,13 @@ sentence-next
 o-o
 Then the party
 o-o
-offers as a
+must allow
 o-o
-second
+as a second
 o-o
 nominee
 o-o
-whoever got
+whoever gets
 o-o
 the second hyphen-here highest
 o-o
@@ -469,9 +469,11 @@ twenty twenty
 o-o
 presidential
 o-o
-election
+election,
 o-o
 all the other
+o-o
+Democratic
 o-o
 candidates
 o-o

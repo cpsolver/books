@@ -55,63 +55,16 @@ diversity.
 end-lyric
 
 ambee sings-desha amenn
-So this protects
+This ensures
 o-o
-against
+diversity
 o-o
-getting just
-o-o
-males,
-o-o
-right?
-end-lyric
-
-ambee sings-mathprof amenn
-If that's
-o-o
-important
-o-o
-politically,
-o-o
-yes.
-end-lyric
-
-ambee sings-desha amenn
-Finally!
+by gender?
 sentence-next
 o-o
-Representation
+And by minority
 o-o
-for more women!
-end-lyric
-
-ambee sings-damien amenn
-How about
-o-o
-minorities?
-end-lyric
-
-ambee sings-mathprof amenn
-If that's what
-o-o
-enough
-o-o
-voters want,
-o-o
-then yes.
-end-lyric
-
-ambee sings-damien amenn
-Wow.
-sentence-next
-o-o
-Math is
-o-o
-magical!
-end-lyric
-
-ambee sings-desha amenn
-I love it!
+identity?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -149,23 +102,34 @@ o-o
 plurality.
 end-lyric
 
+ambee sings-desha amenn
+Finally!
+sentence-next
+o-o
+Representation
+o-o
+for more women!
+end-lyric
+
 ambee sings-damien amenn
-My ears don't hurt.
+Wow.
 sentence-next
 o-o
-But my brain
+Math is
 o-o
-is melting.
+magical!
 sentence-next
 o-o
-Are we done?
+In fact it's
+o-o
+melting my brain.
+sentence-next
+o-o
+So are we done?
 end-lyric
 
 ambee sings-desha amenn
-Wait a minute.
-sentence-next
-o-o
-You haven't
+You haven't yet
 o-o
 told us how
 o-o
@@ -364,43 +328,6 @@ o-o
 and teaches about,
 o-o
 economic history.
-end-lyric
-
-ambee sings-desha amenn
-The history
-o-o
-of economics?
-sentence-next
-o-o
-That sounds like
-o-o
-a snooze fest.
-end-lyric
-
-ambee sings-mathprof amenn
-The history
-o-o
-of economics
-o-o
-is indeed boring.
-sentence-next
-o-o
-Even for
-o-o
-econ majors.
-sentence-next
-o-o
-But that's
-o-o
-different from 
-o-o
-economic
-o-o
-history,
-o-o
-which is what
-o-o
-he teaches.
 sentence-next
 o-o
 That's the study
@@ -410,6 +337,17 @@ o-o
 during earlier
 o-o
 times.
+sentence-next
+o-o
+Don't confuse it
+o-o
+with the history
+o-o
+of economics,
+o-o
+which is as boring
+o-o
+as it sounds.
 end-lyric
 
 ambee sings-damien amenn
@@ -535,7 +473,7 @@ comprehend.
 end-lyric
 
 ambee sings-desha amenn
-And for the
+For the
 o-o
 history part,
 o-o
@@ -549,107 +487,7 @@ machine.
 end-lyric
 
 ambee sings-mathprof amenn
-If you should
-o-o
-ever get lost
-o-o
-in math again,
-o-o
-keep in mind
-o-o
-there's something
-o-o
-called begin-italics mathiness end-italics no-space .
-sentence-next
-o-o
-It's a misuse of
-o-o
-mathematics.
-sentence-next
-o-o
-Math doesn't lie,
-o-o
-but some liars
-o-o
-use numbers
-o-o
-when they lie.
-end-lyric
-
-ambee sings-desha amenn
-Mathiness
-o-o
-might be what
-o-o
-your landlord's
-o-o
-using.
-end-lyric
-
-ambee sings-damien amenn
-So we've
-o-o
-learned about
-o-o
-ranked choice ballots.
-sentence-next
-o-o
-And pairwise
-o-o
-vote counting.
-sentence-next
-o-o
-And two seats
-o-o
-per district
-o-o
-plus statewide
-o-o
-seats for
-o-o
-Congress.
-sentence-next
-o-o
-Will that stomp out
-o-o
-corruption
-o-o
-in Congress?
-end-lyric
-
-ambee sings-mathprof amenn
-You've aced
-o-o
-this course!
-end-lyric
-
-ambee sings-damien amenn
-Why did you
-o-o
-make a big deal
-o-o
-out of the
-o-o
-digit zero?
-end-lyric
-
-ambee sings-mathprof amenn
-It demonstrates
-o-o
-that a simple
-o-o
-math concept
-o-o
-can change
-o-o
-the world in
-o-o
-marvelous ways.
-sentence-next
-o-o
-Yet in spite of
-o-o
-its simplicity,
+Consider
 o-o
 it took our
 o-o
@@ -666,6 +504,21 @@ o-o
 to the digits
 o-o
 zero through nine.
+sentence-next
+o-o
+That history
+o-o
+demonstrates
+o-o
+that a simple
+o-o
+math concept
+o-o
+can change
+o-o
+the world in
+o-o
+marvelous ways.
 sentence-next
 o-o
 In a similar way
@@ -731,11 +584,62 @@ insight.
 end-lyric
 
 ambee sings-damien amenn
-That's just
+Speaking of which,
 o-o
-common sense.
+we've learned about
+o-o
+ranked choice ballots.
 sentence-next
 o-o
+And pairwise
+o-o
+vote counting.
+sentence-next
+o-o
+And two seats
+o-o
+per district
+o-o
+plus statewide
+o-o
+seats for
+o-o
+Congress.
+sentence-next
+o-o
+Will that stomp out
+o-o
+corruption
+o-o
+in Congress?
+end-lyric
+
+ambee sings-mathprof amenn
+That will bring
+o-o
+fairness to
+o-o
+elections.
+sentence-next
+o-o
+You've aced
+o-o
+this course!
+sentence-next
+o-o
+But I don't know
+o-o
+what will change
+o-o
+in politics.
+sentence-next
+o-o
+That's not
+o-o
+my expertise.
+end-lyric
+
+ambee sings-damien amenn
 name-mathprof no-space ,
 o-o
 we're grateful
@@ -787,7 +691,7 @@ But lots of
 o-o
 the grants for my
 o-o
-research projects.
+research projects
 o-o
 come from the
 o-o

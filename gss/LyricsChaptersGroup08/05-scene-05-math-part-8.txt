@@ -124,78 +124,6 @@ district.
 end-lyric
 
 ambee sings-desha amenn
-I'm guessing
-o-o
-the tendency
-o-o
-would be
-o-o
-for each district
-o-o
-to elect one
-o-o
-Republican
-o-o
-and one
-o-o
-Democrat?
-end-lyric
-
-ambee sings-mathprof amenn
-Under current
-o-o
-conditions,
-o-o
-usually yes.
-sentence-next
-o-o
-Assuming both
-o-o
-parties offer
-o-o
-good candidates.
-end-lyric
-
-ambee sings-damien amenn
-Oh yeah,
-o-o
-there will be
-o-o
-a second
-o-o
-Republican
-o-o
-and a second
-o-o
-Democrat
-o-o
-in the race.
-end-lyric
-
-ambee sings-mathprof amenn
-Probably
-o-o
-three or four
-o-o
-candidates
-o-o
-from each party.
-sentence-next
-o-o
-That prevents
-o-o
-party insiders
-o-o
-from limiting
-o-o
-your choices
-o-o
-to just the two
-o-o
-they want.
-end-lyric
-
-ambee sings-desha amenn
 Suppose the
 o-o
 Republican
@@ -229,22 +157,45 @@ end-lyric
 
 ambee sings-mathprof amenn
 Yes.
+sentence-next
+o-o
+More likely
+o-o
+both parties
+o-o
+will offer
+o-o
+good candidates.
+sentence-next
+o-o
+Then typically
+o-o
+one Republican
+o-o
+and one Democrat
+o-o
+will represent
+o-o
+each district.
 end-lyric
 
 ambee sings-damien amenn
-This seems like a
+That seems much
 o-o
-winning
+better than now.
+sentence-next
 o-o
-pole vault
+We pretend
 o-o
-over our low
+one Republican
 o-o
-limbo bar,
+or one Democrat
 o-o
-where we
+can represent
 o-o
-are now.
+most voters
+o-o
+in a district.
 end-lyric
 
 ambee sings-desha amenn
@@ -301,29 +252,31 @@ o-o
 statewide seats.
 sentence-next
 o-o
-The party hyphen-here based
+We can measure
 o-o
-measurements
+party popularity
 o-o
-tell us which
+throughout
 o-o
-party deserves
+the state
 o-o
-to win each
+to determine
 o-o
-of those
+which party
 o-o
-statewide
+deserves to win
 o-o
-seats.
+each statewide
+o-o
+seat.
 end-lyric
 
 ambee sings-desha amenn
-And party
+Allowing party
 o-o
 insiders
 o-o
-will choose
+to choose
 o-o
 whose butts
 o-o
@@ -460,108 +413,24 @@ statewide seat.
 end-lyric
 
 ambee sings-damien amenn
-Which party
+How can we
 o-o
-would win the
+measure party
 o-o
-statewide seats?
-sentence-next
-o-o
-Under current
-o-o
-conditions.
+popularity?
 end-lyric
 
 ambee sings-mathprof amenn
-Whichever
+We can add a
 o-o
-party,
-o-o
-or parties,
-o-o
-didn't get
-o-o
-their fair share
-o-o
-of district
-o-o
-seats.
-end-lyric
-
-ambee sings-desha amenn
-That sounds like
-o-o
-it will
-o-o
-pressure hyphen-here wash away
-o-o
-the slime of
-o-o
-party insiders.
+ballot question.
 sentence-next
 o-o
-And make our
+It would ask
 o-o
-elections clean.
-end-lyric
-
-ambee sings-damien amenn
-That seems much much
+voters to rank
 o-o
-fairer than what
-o-o
-we've got now.
-end-lyric
-
-ambee sings-mathprof amenn
-To make
-o-o
-ballot marking
-o-o
-even easier,
-o-o
-future elections
-o-o
-can limit
-o-o
-the number of
-o-o
-candidates.
-end-lyric
-
-ambee sings-desha amenn
-Would that involve
-o-o
-discrimination,
-o-o
-a glass ceiling,
-o-o
-or a glass slipper?
-end-lyric
-
-ambee sings-mathprof amenn
-We can add
-o-o
-a separate
-o-o
-ballot question
-o-o
-for ranking
-o-o
-political
-o-o
-parties.
-sentence-next
-o-o
-That would allow
-o-o
-calculating
-o-o
-the popularity
-o-o
-of the
-o-o
-parties.
+the parties.
 end-lyric
 
 ambee sings-damien amenn
@@ -588,36 +457,49 @@ o-o
 choice ballots.
 sentence-next
 o-o
-Measuring
+That information
 o-o
-party
+about party
 o-o
 popularity
 o-o
-with better
+also enables
 o-o
-ballots
-o-o
-will give us a
-o-o
-way to limit
+us to limit
 o-o
 the number of
 o-o
 candidates
 o-o
 from each party.
-sentence-next
-o-o
-In a way
-o-o
-that's fair.
 end-lyric
 
 ambee sings-desha amenn
-Ah,
+Hopefully
 o-o
-very unpopular
+that limit
+o-o
+does not involve
+o-o
+discrimination,
+o-o
+a glass ceiling,
+o-o
+or a glass slipper.
+end-lyric
+
+ambee sings-mathprof amenn
+If the method
+o-o
+is well hyphen-here designed,
+o-o
+the results
+o-o
+are fair.
+end-lyric
+
+ambee sings-desha amenn
+Very unpopular
 o-o
 parties would get
 o-o
@@ -1048,9 +930,9 @@ Thanks for
 o-o
 not giving
 o-o
-my drowning
+my melting
 o-o
-birdbrain
+brain
 o-o
 a migraine.
 end-lyric
@@ -1073,7 +955,9 @@ o-o
 parties.
 sentence-next
 o-o
-So party hyphen-here based
+In those cities
+o-o
+party hyphen-here based
 o-o
 citywide seats
 o-o

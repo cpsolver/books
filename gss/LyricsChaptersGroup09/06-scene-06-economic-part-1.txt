@@ -640,17 +640,19 @@ jerks.
 end-lyric
 
 ambee sings-econhist amenn
-After election
+When Congress
 o-o
-reforms
+and state
 o-o
-our representatives
+legislatures
 o-o
-in Congress and
+better represent
 o-o
-state legislatures
+what voters want,
 o-o
-will reduce
+they will pass laws
+o-o
+that reduce
 o-o
 corruption.
 sentence-next

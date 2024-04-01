@@ -36,54 +36,49 @@ It's easy to
 o-o
 criticize
 o-o
-simplistic
+flawed
 o-o
 ways to count
 o-o
 ranked choice
 o-o
-voting.
+ballots.
 sentence-next
 o-o
-That means
+The critic
 o-o
-pointing out
+can point out
 o-o
 the failures
 o-o
 in Alaska
 o-o
-and Burlington.
-sentence-next
+and Burlington
 o-o
-Those failures
+without
 o-o
-happened because
+mentioning
 o-o
-they used
+those failures
 o-o
-instant runoff
+would not have
 o-o
-voting
+happened
 o-o
-without also
-o-o
-eliminating
-o-o
-the pairwise
+if the pairwise
 o-o
 losing
 o-o
 candidate
 o-o
-who was in
+in the top three
 o-o
-the top three
+had been
 o-o
-candidates.
+eliminated.
 sentence-next
 o-o
-And it's easy to
+It's easy to
 o-o
 criticize
 o-o
@@ -149,19 +144,17 @@ sentence-next
 o-o
 Such as
 o-o
-recognizing
-o-o
-that Jewish friends
+Jewish friends
 o-o
 really really
 o-o
-don't want pork
+not wanting pork
 o-o
-when they choose
+as a topping
 o-o
-a second
+on a shared
 o-o
-pizza topping.
+pizza.
 sentence-next
 o-o
 But score ballots
@@ -198,17 +191,21 @@ Ah,
 o-o
 there's no way
 o-o
-to know if a
+to know which
 o-o
-ballot is from
+ballots are from
 o-o
-a drama queen
-o-o
-or someone with
+voters with
 o-o
 deep religious
 o-o
-beliefs.
+beliefs,
+o-o
+and which ballots
+o-o
+are from
+o-o
+drama queens.
 end-lyric
 
 ambee sings-damien amenn
@@ -478,7 +475,9 @@ want a
 o-o
 pork sausage
 o-o
-topping,
+topping on the
+o-o
+first pizza,
 o-o
 and about
 o-o
@@ -510,9 +509,11 @@ a holy war.
 end-lyric
 
 ambee sings-damien amenn
-Couldn't the
+Until a bit ago
 o-o
-second hyphen-here most
+I would have guessed
+o-o
+the second hyphen-here most
 o-o
 popular
 o-o
@@ -520,29 +521,19 @@ candidate,
 o-o
 er, topping,
 o-o
-be elected,
+should be elected,
 o-o
 er,
 o-o
-selected?
-sentence-next
+selected
 o-o
-For the second
+for the second
 o-o
-pizza?
+pizza.
 end-lyric
 
 ambee sings-mathprof amenn
-Second hyphen-here most
-o-o
-popular has
-o-o
-more than one
-o-o
-meaning.
-sentence-next
-o-o
-So let's try
+Let's try
 o-o
 yet another
 o-o
