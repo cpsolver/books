@@ -864,34 +864,16 @@ What's its name?
 end-lyric
 
 ambee sings-mathprof amenn
-Election
+It's a
 o-o
-methods
+combination
 o-o
-are like
+of counting
 o-o
-food recipes.
+methods.
 sentence-next
 o-o
-Switching an
-o-o
-ingredient
-o-o
-or two
-o-o
-can cause it 
-o-o
-to fail.
-sentence-next
-o-o
-Even if the name
-o-o
-remains the same.
-sentence-next
-o-o
-Basically
-o-o
-this is instant
+This is instant
 o-o
 runoff voting
 o-o

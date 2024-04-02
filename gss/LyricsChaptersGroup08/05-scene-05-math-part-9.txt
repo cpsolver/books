@@ -486,10 +486,24 @@ o-o
 machine.
 end-lyric
 
-ambee sings-mathprof amenn
-Consider
+ambee sings-damien amenn
+Going back to
 o-o
-it took our
+the beginning
+o-o
+of today's meeting,
+o-o
+why did you make
+o-o
+a big deal
+o-o
+out of the
+o-o
+digit zero?
+end-lyric
+
+ambee sings-mathprof amenn
+It took our
 o-o
 ancestors
 o-o
@@ -506,24 +520,26 @@ o-o
 zero through nine.
 sentence-next
 o-o
-That history
+That's an
+o-o
+example from
+o-o
+history that
 o-o
 demonstrates
 o-o
-that a simple
+the power of
 o-o
-math concept
+mathematics
 o-o
-can change
+to dramatically
 o-o
-the world in
+improve
 o-o
-marvelous ways.
+civilization.
 sentence-next
 o-o
-In a similar way
-o-o
-pairwise
+Pairwise
 o-o
 vote counting
 o-o
@@ -546,7 +562,7 @@ distant future
 o-o
 will marvel that
 o-o
-it took us
+it's taking us
 o-o
 sooo long
 o-o
@@ -615,23 +631,16 @@ in Congress?
 end-lyric
 
 ambee sings-mathprof amenn
-That will bring
-o-o
-fairness to
-o-o
-elections.
-sentence-next
-o-o
 You've aced
 o-o
 this course!
 sentence-next
 o-o
-But I don't know
+How politics
 o-o
-what will change
+will change
 o-o
-in politics.
+I don't know.
 sentence-next
 o-o
 That's not
@@ -642,11 +651,11 @@ end-lyric
 ambee sings-damien amenn
 name-mathprof no-space ,
 o-o
-we're grateful
+thank you for
 o-o
-you've guided
+guiding us
 o-o
-us through a
+through a
 o-o
 dark long cave
 o-o

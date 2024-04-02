@@ -466,22 +466,22 @@ eating together
 o-o
 and choosing
 o-o
+toppings for
+o-o
 two pizzas.
 sentence-next
 o-o
 If the majority
 o-o
-want a
+want the
 o-o
-pork sausage
+first pizza's
 o-o
-topping on the
+topping to be
 o-o
-first pizza,
+pork sausage,
 o-o
-and about
-o-o
-a third of
+but a third of
 o-o
 the friends are
 o-o

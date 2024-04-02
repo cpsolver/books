@@ -274,21 +274,14 @@ sentence-next
 o-o
 Third hyphen-here party voters
 o-o
-can change who wins.
+have been changing
+o-o
+who wins.
 sentence-next
 o-o
-Plus presidential
+On top of that,
 o-o
-elections
-o-o
-involve
-o-o
-exceptional
-o-o
-complications.
-sentence-next
-o-o
-State hyphen-here by hyphen-here state
+state hyphen-here by hyphen-here state
 o-o
 electoral
 o-o
@@ -312,35 +305,6 @@ o-o
 is put under
 o-o
 a microscope.
-sentence-next
-o-o
-Plus there's a
-o-o
-hidden provision.
-sentence-next
-o-o
-If none of the
-o-o
-candidates
-o-o
-gets half the
-o-o
-electoral votes,
-o-o
-the House of
-o-o
-Representatives
-o-o
-gets to pick
-o-o
-the winner.
-sentence-next
-o-o
-And in that case
-o-o
-each state
-o-o
-gets just one vote.
 end-lyric
 
 ambee sings-desha amenn

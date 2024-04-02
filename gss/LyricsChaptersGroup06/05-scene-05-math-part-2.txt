@@ -558,58 +558,8 @@ o-o
 honestly.
 end-lyric
 
-ambee sings-desha amenn
-I'm curious.
-sentence-next
-o-o
-What happens
-o-o
-when Amazon
-o-o
-customers
-o-o
-realize they
-o-o
-can get extra
-o-o
-influence by
-o-o
-skipping the
-o-o
-middle ratings?
-end-lyric
-
-ambee sings-mathprof amenn
-Amazon
-o-o
-stopped using
-o-o
-simple counting,
-o-o
-so it's less
-o-o
-vulnerable
-o-o
-to that
-o-o
-tactic.
-end-lyric
-
 ambee sings-damien amenn
-It figures
-o-o
-Amazon has
-o-o
-worked out
-o-o
-those details.
-sentence-next
-o-o
-The ones
-o-o
-I'm only now
-o-o
-learning.
+Got it.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -751,29 +701,6 @@ o-o
 would always be from
 o-o
 the correct party.
-end-lyric
-
-ambee sings-desha amenn
-But in general
-o-o
-elections
-o-o
-the wrong party
-o-o
-must not win.
-sentence-next
-o-o
-So there it
-o-o
-would cause
-o-o
-trouble,
-o-o
-right?
-end-lyric
-
-ambee sings-mathprof amenn
-Right.
 end-lyric
 
 ambee sings-desha amenn

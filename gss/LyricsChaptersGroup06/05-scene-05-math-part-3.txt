@@ -423,14 +423,7 @@ begin-explain Chuckles end-explain
 end-lyric
 
 ambee sings-desha amenn
-Plus some voting
-o-o
-machines
-o-o
-can be hacked.
-sentence-next
-o-o
-And lots of
+Lots of
 o-o
 people vote
 o-o
