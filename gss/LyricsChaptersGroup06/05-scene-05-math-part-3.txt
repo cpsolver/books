@@ -60,7 +60,7 @@ ballots.
 end-lyric
 
 ambee sings-damien amenn
-What kind'a ballot
+What kind of ballot
 o-o
 do we use
 o-o
@@ -727,9 +727,12 @@ end-lyric
 ambee sings-desha amenn
 Anyone who can't
 o-o
-is too stupid
+just needs a bit
 o-o
-to be voting.
+of coaching.
+sentence-next
+o-o
+Or needs glasses.
 end-lyric
 
 ambee sings-damien amenn

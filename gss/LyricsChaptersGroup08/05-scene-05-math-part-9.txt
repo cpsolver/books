@@ -23,9 +23,14 @@ winner will
 o-o
 represent
 o-o
-employees,
+employees and
 o-o
-because they
+customers.
+sentence-next
+o-o
+Because they
+o-o
+greatly
 o-o
 outnumber
 o-o
@@ -55,16 +60,38 @@ diversity.
 end-lyric
 
 ambee sings-desha amenn
-This ensures
+Does that
 o-o
-diversity
+include
 o-o
-by gender?
+gender
+o-o
+diversity?
+end-lyric
+
+ambee sings-mathprof amenn
+Yes.
 sentence-next
 o-o
-And by minority
+And any other
 o-o
-identity?
+kind of diversity.
+sentence-next
+o-o
+Because
+o-o
+mathematics
+o-o
+is unbiased.
+end-lyric
+
+ambee sings-desha amenn
+Finally!
+sentence-next
+o-o
+Representation
+o-o
+for more women!
 end-lyric
 
 ambee sings-mathprof amenn
@@ -102,15 +129,6 @@ o-o
 plurality.
 end-lyric
 
-ambee sings-desha amenn
-Finally!
-sentence-next
-o-o
-Representation
-o-o
-for more women!
-end-lyric
-
 ambee sings-damien amenn
 Wow.
 sentence-next
@@ -120,7 +138,7 @@ o-o
 magical!
 sentence-next
 o-o
-In fact it's
+Also it's
 o-o
 melting my brain.
 sentence-next

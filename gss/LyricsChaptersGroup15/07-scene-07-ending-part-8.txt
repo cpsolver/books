@@ -295,7 +295,7 @@ Mostly I'll push
 o-o
 for ranked
 o-o
-choice ballots.
+choice voting.
 sentence-next
 o-o
 So we can get

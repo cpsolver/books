@@ -558,26 +558,33 @@ o-o
 honestly.
 end-lyric
 
-ambee sings-damien amenn
-Got it.
+ambee sings-desha amenn
+That violates
+o-o
+the principle
+o-o
+of one person,
+o-o
+one vote.
 end-lyric
 
 ambee sings-mathprof amenn
-Before we
+The best
 o-o
-move on to
+counting methods
 o-o
-counting better
+don't have that flaw.
+sentence-next
 o-o
-ballots,
+Yet there's
 o-o
-here's an
+a simple kind
 o-o
-interesting
+of counting
 o-o
-simple kind of
+worth knowing
 o-o
-improvement.
+about.
 end-lyric
 
 ambee sings-damien amenn
@@ -690,7 +697,7 @@ sentence-next
 o-o
 And it would work
 o-o
-Okay in
+okay in
 o-o
 begin-italics primary end-italics
 o-o

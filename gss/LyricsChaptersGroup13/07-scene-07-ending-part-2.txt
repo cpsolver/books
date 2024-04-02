@@ -271,7 +271,7 @@ your name.
 end-lyric
 
 ambee sings-minister amenn
-My name ...
+You can call me ...
 end-lyric
 
 ambee sings-vc amenn

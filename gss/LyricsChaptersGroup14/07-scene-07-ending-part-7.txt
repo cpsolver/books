@@ -151,14 +151,12 @@ Those employees
 o-o
 are customers
 o-o
-of other
+of other local
 o-o
 businesses.
 sentence-next
 o-o
-As a result,
-o-o
-some of that wealth
+Some of that wealth
 o-o
 quickly reaches
 o-o
@@ -655,7 +653,11 @@ mistresses,
 o-o
 drugs,
 o-o
-and
+military
+o-o
+ineptitude,
+o-o
+and maybe
 o-o
 treason.
 end-lyric
@@ -893,11 +895,13 @@ tax break
 o-o
 might reduce
 o-o
-the taxes
+what you pay
 o-o
-your business
+to contractors
 o-o
-pays.
+who pay their
+o-o
+workers better.
 sentence-next
 o-o
 For sure
