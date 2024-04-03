@@ -247,7 +247,7 @@ o-o
 seats.
 sentence-next
 o-o
-Those are called
+These are called
 o-o
 statewide seats.
 sentence-next

@@ -1,7 +1,7 @@
 ambee sings-mathprof amenn
 With the math
 o-o
-we have been
+we've been
 o-o
 talking about,
 o-o
@@ -507,22 +507,43 @@ machine.
 end-lyric
 
 ambee sings-damien amenn
-Going back to
+Speaking of that,
 o-o
-the beginning
+let's go back
 o-o
-of today's meeting,
-o-o
-why did you make
+to when you made
 o-o
 a big deal
 o-o
 out of the
 o-o
-digit zero?
+digit zero.
+sentence-next
+o-o
+Why?
 end-lyric
 
 ambee sings-mathprof amenn
+It demonstrates
+o-o
+the power of
+o-o
+mathematics
+o-o
+to dramatically
+o-o
+improve
+o-o
+civilization.
+sentence-next
+o-o
+And the slowness
+o-o
+of adopting
+o-o
+math innovations.
+sentence-next
+o-o
 It took our
 o-o
 ancestors
@@ -538,25 +559,6 @@ o-o
 to the digits
 o-o
 zero through nine.
-sentence-next
-o-o
-That's an
-o-o
-example from
-o-o
-history that
-o-o
-demonstrates
-o-o
-the power of
-o-o
-mathematics
-o-o
-to dramatically
-o-o
-improve
-o-o
-civilization.
 sentence-next
 o-o
 Pairwise
@@ -598,7 +600,7 @@ So just like we
 o-o
 don't know what
 o-o
-we have got til
+we've got til
 o-o
 it's gone,
 o-o
@@ -620,9 +622,16 @@ insight.
 end-lyric
 
 ambee sings-damien amenn
-Speaking of which,
+Now do we know
 o-o
-we've learned about
+how to stomp out
+o-o
+corruption
+o-o
+in Congress?
+sentence-next
+o-o
+We've learned about
 o-o
 ranked choice ballots.
 sentence-next
@@ -641,31 +650,12 @@ o-o
 seats for
 o-o
 Congress.
-sentence-next
-o-o
-Will that stomp out
-o-o
-corruption
-o-o
-in Congress?
 end-lyric
 
 ambee sings-mathprof amenn
 You've aced
 o-o
 this course!
-sentence-next
-o-o
-How politics
-o-o
-will change
-o-o
-I don't know.
-sentence-next
-o-o
-That's not
-o-o
-my expertise.
 end-lyric
 
 ambee sings-damien amenn

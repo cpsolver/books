@@ -295,272 +295,6 @@ o-o
 people.
 sentence-next
 o-o
-Consider
-o-o
-Steve Jobs,
-o-o
-Bill Gates,
-o-o
-Elon Musk,
-o-o
-Walt Disney,
-o-o
-Thomas Edison,
-o-o
-George Westinghouse,
-o-o
-and
-o-o
-Giovanni Marconi.
-sentence-next
-o-o
-Their success
-o-o
-was based on
-o-o
-working with,
-o-o
-or buying from,
-o-o
-or copying from,
-o-o
-creative
-o-o
-geniuses.
-sentence-next
-o-o
-Do you know
-o-o
-about those
-o-o
-creative
-o-o
-geniuses?
-end-lyric
-
-ambee sings-damien amenn
-I know
-o-o
-Steve Jobs
-o-o
-co hyphen-here founded
-o-o
-Apple with
-o-o
-another guy.
-sentence-next
-o-o
-And so did Gates,
-o-o
-to create
-o-o
-Microsoft.
-sentence-next
-o-o
-I know Musk hires
-o-o
-lots of smart
-o-o
-employees.
-sentence-next
-o-o
-And Nikola
-o-o
-Tesla was a
-o-o
-creative
-o-o
-genius
-o-o
-who helped
-o-o
-some business
-o-o
-with electrical
-o-o
-power stuff.
-end-lyric
-
-ambee sings-econhist amenn
-Tesla almost
-o-o
-single hyphen-here handedly
-o-o
-designed the
-o-o
-electrical
-o-o
-power grid
-o-o
-system
-o-o
-we still use
-o-o
-today.
-sentence-next
-o-o
-Westinghouse
-o-o
-provided
-o-o
-that funding.
-sentence-next
-o-o
-Tesla also
-o-o
-invented
-o-o
-key parts of
-o-o
-radio
-o-o
-technology
-o-o
-that Giovanni
-o-o
-Marconi
-o-o
-commercialized.
-sentence-next
-o-o
-But Marconi
-o-o
-didn't pay
-o-o
-anything
-o-o
-to Tesla.
-sentence-next
-o-o
-And Tesla
-o-o
-did some
-o-o
-inventing for
-o-o
-Thomas Edison.
-sentence-next
-o-o
-But Edison
-o-o
-didn't pay
-o-o
-what Tesla
-o-o
-thought Edison
-o-o
-had promised.
-end-lyric
-
-ambee sings-desha amenn
-That stinks!
-sentence-next
-o-o
-It's like
-o-o
-stealing.
-end-lyric
-
-ambee sings-econhist amenn
-In the world
-o-o
-of business
-o-o
-the people
-o-o
-who control money
-o-o
-typically
-o-o
-got there
-o-o
-by going
-o-o
-up to the
-o-o
-boundaries
-o-o
-of what's legal.
-sentence-next
-o-o
-And ethical.
-sentence-next
-o-o
-Without jumping
-o-o
-over that
-o-o
-fence.
-sentence-next
-o-o
-And they pay
-o-o
-very slick
-o-o
-lawyers to
-o-o
-convince the
-o-o
-judge or jury
-o-o
-they didn't
-o-o
-jump the fence
-o-o
-into illegal
-o-o
-territory.
-sentence-next
-o-o
-The point is,
-o-o
-to be an
-o-o
-entrepreneur
-o-o
-you need to
-o-o
-understand
-o-o
-which role
-o-o
-fits your
-o-o
-skills.
-sentence-next
-o-o
-And what
-o-o
-drives you.
-end-lyric
-
-ambee sings-damien amenn
-I want to be
-o-o
-an inventor.
-sentence-next
-o-o
-And I know
-o-o
-I need to find
-o-o
-a financial
-o-o
-backer.
-end-lyric
-
-ambee sings-econhist amenn
-You also need
-o-o
-to join with
-o-o
-marketing
-o-o
-and strategy
-o-o
-experts.
-sentence-next
-o-o
 Think of it like
 o-o
 the end credits
@@ -577,24 +311,37 @@ o-o
 of names
 o-o
 in the credits.
+sentence-next
+o-o
+You need to
+o-o
+understand
+o-o
+which role
+o-o
+fits your
+o-o
+skills.
 end-lyric
 
 ambee sings-damien amenn
-You're saying
+I want to be
 o-o
-I need more
+an inventor.
+sentence-next
 o-o
-than just a
+And I know
 o-o
-financial
+I need to find
+o-o
+a financial
 o-o
 backer.
-end-lyric
-
-ambee sings-econhist amenn
-To be a
+sentence-next
 o-o
-success,
+To pay the cost
 o-o
-yes.
+of getting
+o-o
+a patent.
 end-lyric

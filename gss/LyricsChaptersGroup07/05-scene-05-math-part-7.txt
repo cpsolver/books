@@ -88,19 +88,21 @@ ballots
 o-o
 as difficult
 o-o
-to mark
+to mark if
 o-o
-if the counting
+the election
 o-o
-dismisses
+uses software
 o-o
-ballots
+that dismisses
 o-o
-that have more than
+ballots with
 o-o
-just one mark in
+more than one mark
 o-o
-each choice column.
+in each
+o-o
+choice column.
 sentence-next
 o-o
 And some critics
