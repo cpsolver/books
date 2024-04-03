@@ -694,7 +694,7 @@ o-o
 sugar.
 sentence-next
 o-o
-That's what is done
+That's what's done
 o-o
 by the businesses
 o-o

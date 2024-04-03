@@ -6,7 +6,9 @@ end-italics
 end-title
 
 begin-standard-paragraph
-This story is a comedic dialog that reveals why our planet needs ranked choice voting.
+This comedy is a dialog in which the characters Damien and Desha learn about ranked choice voting.
+sentence-next
+Also they learn why a well hyphen-here designed election system will bring widespread economic prosperity.
 end-standard-paragraph
 
 begin-standard-paragraph

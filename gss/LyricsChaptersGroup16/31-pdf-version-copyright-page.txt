@@ -39,6 +39,10 @@ Adopting it is the first step toward dramatically increasing Oregon's economic p
 end-standard-paragraph
 
 begin-standard-paragraph
+After the Oregon referendum has been adopted, the recommendations in Scene 5 (correctly counting so hyphen-here called overvotes, and eliminating pairwise losing candidates when they occur) will be easy to implement.
+end-standard-paragraph
+
+begin-standard-paragraph
 If you want to immediately jump to details about ranked choice voting,
 here's a link to
 <a href="ogss_05.xhtml"> no-space begin-italics Scene 5, title-scene-05 end-italics no-space </a>.
@@ -73,17 +77,19 @@ The characters in this story are fictional, based on voices in the author's head
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
-The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
+The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the begin-bold visual disability end-bold that name-damien has.
 end-standard-paragraph
 
 begin-standard-paragraph
 The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
 sentence-next
-To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free) sources of information.
+To check the validity of their opinions please consult begin-bold peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free sources of information end-bold no-space .
+sentence-next
+Wikipedia articles on topics that do not affect anyone's financial income can be good sources of information.
 end-standard-paragraph
 
 begin-standard-paragraph
-PDF preview version, edition-date
+PDF preview version, begin-bold edition-date end-bold
 end-standard-paragraph
 
 

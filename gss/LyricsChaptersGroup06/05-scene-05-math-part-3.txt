@@ -732,7 +732,15 @@ o-o
 of coaching.
 sentence-next
 o-o
-Or needs glasses.
+Or maybe,
+o-o
+like you,
+o-o
+they just need
+o-o
+tinted reading
+o-o
+glasses.
 end-lyric
 
 ambee sings-damien amenn

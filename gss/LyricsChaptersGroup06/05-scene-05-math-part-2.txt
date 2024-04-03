@@ -559,7 +559,12 @@ honestly.
 end-lyric
 
 ambee sings-desha amenn
-That violates
+That's not
+o-o
+a fair fight.
+sentence-next
+o-o
+It violates
 o-o
 the principle
 o-o
@@ -576,13 +581,17 @@ o-o
 don't have that flaw.
 sentence-next
 o-o
-Yet there's
+Yet before
 o-o
-a simple kind
+we go to those,
+o-o
+here's a
+o-o
+simple kind
 o-o
 of counting
 o-o
-worth knowing
+you should know
 o-o
 about.
 end-lyric

@@ -640,7 +640,9 @@ sex,
 o-o
 peace,
 o-o
-or fashion color.
+or fashion
+o-o
+symbol.
 sentence-next
 o-o
 In fact,

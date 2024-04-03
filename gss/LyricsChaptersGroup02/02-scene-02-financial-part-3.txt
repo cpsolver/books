@@ -229,20 +229,19 @@ o-o
 You mean, ....
 sentence-next
 o-o
-Let's say some
+Let's say some top
 o-o
 corporate
 o-o
-executives
+shareholders
 o-o
-give
+arrange for
 o-o
 fifty thousand
 o-o
-dollars.
-sentence-next
+dollars
 o-o
-To the right
+getting to the right
 o-o
 politicians.
 sentence-next

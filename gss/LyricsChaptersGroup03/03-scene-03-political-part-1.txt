@@ -52,7 +52,7 @@ end-lyric
 ambee sings-politician amenn
 Come into this
 o-o
-office.
+conference room.
 sentence-next
 o-o
 And pardon
@@ -304,17 +304,11 @@ o-o
 distraction.
 sentence-next
 o-o
-Some people
-o-o
-who vote for
-o-o
-Democrats
+Some Democrats
 o-o
 refer to some
 o-o
-Republican
-o-o
-candidates
+Republicans
 o-o
 as greedy
 o-o
@@ -326,32 +320,34 @@ climate deniers,
 o-o
 misogynists,
 o-o
-and racists.
+racists,
+o-o
+and liars.
 sentence-next
 o-o
-Some people
+Some Republicans
 o-o
-who vote for
+refer to some
 o-o
-Republicans
+Democrats
 o-o
-refer to
+as socialists,
 o-o
-Democratic
+communists,
 o-o
-candidates
-o-o
-as tree huggers,
-o-o
-socialists,
+tree huggers,
 o-o
 godless pagans,
+o-o
+foreigners,
 o-o
 abortionists,
 o-o
 feminists,
 o-o
-and bitches.
+bitches,
+o-o
+and liars.
 sentence-next
 o-o
 Those exaggerated

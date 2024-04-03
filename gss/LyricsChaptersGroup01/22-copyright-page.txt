@@ -15,7 +15,7 @@ www.SolutionsCreative.com
 end-standard-paragraph
 
 begin-standard-paragraph
-&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; All rights reserved.
+&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; begin-bold All rights reserved end-bold no-space .
 sentence-next
 No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.
 sentence-next
@@ -25,7 +25,7 @@ Permission to use excerpts in brief reviews is hereby permitted.
 end-standard-paragraph
 
 begin-standard-paragraph
-Also hereby permitted without cost is creating and publishing an audio or video recording of the dialog performed by actors organized by a non hyphen-here profit organization on the conditions that every published audio and video recording includes the full dialog from the most recent edition without any word changes and that all financial income after expenses exclusively goes to the non hyphen-here profit organization and that this book is credited as the source of the script.
+Also hereby permitted without cost is creating and publishing an begin-bold audio or video recording of the dialog performed by actors end-bold organized by a non hyphen-here profit organization on the conditions that every published audio and video recording includes the full dialog from the most recent edition without any word changes and that all financial income after expenses exclusively goes to the non hyphen-here profit organization and that this book is credited as the source of the script.
 sentence-next
 Creating and sharing a video of just scene 5, begin-italics title-scene-05 end-italics no-space , without any word changes also is permitted if all other conditions specified above are followed.
 sentence-next
@@ -37,18 +37,19 @@ The characters in this story are fictional, based on voices in the author's head
 sentence-next
 Any resemblance to actual people, other than the author, is entirely coincidental.
 sentence-next
-The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the visual disability that name-damien has.
+The one exception is the author's now hyphen-here deceased brother, Don Fobes, had the begin-bold visual disability end-bold that name-damien has.
 end-standard-paragraph
 
 begin-standard-paragraph
 The words of dialog in this book are opinions expressed by fictional characters who are speaking with rhythm, rhyme, and wit.
 sentence-next
-To check the validity of their opinions please consult Wikipedia and other non hyphen-here fiction (peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free) sources of information.
+To check the validity of their opinions please consult begin-bold peer hyphen-here reviewed, scientifically supported, conflict hyphen-here of hyphen-here interest hyphen-here free sources of information end-bold no-space .
+sentence-next
+Wikipedia articles on topics that do not affect anyone's financial income can be good sources of information.
 end-standard-paragraph
 
-
 begin-standard-paragraph
-Version edition-date
+Version begin-bold edition-date end-bold
 end-standard-paragraph
 
 begin-standard-paragraph
