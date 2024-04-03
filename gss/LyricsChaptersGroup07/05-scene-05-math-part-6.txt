@@ -123,7 +123,7 @@ we support,
 o-o
 ...
 o-o
-I'd tell name-desha
+I would tell name-desha
 o-o
 to stand in
 o-o
@@ -135,7 +135,7 @@ Oscar's line.
 end-lyric
 
 ambee sings-desha amenn
-And I'd tell
+And I would tell
 o-o
 name-damien
 o-o
@@ -144,7 +144,7 @@ o-o
 Pinoke's line.
 sentence-next
 o-o
-I'd rather
+I would rather
 o-o
 deal with Oscar's
 o-o
@@ -207,7 +207,7 @@ If there was
 o-o
 an evil candidate,
 o-o
-I'd want to
+I would want to
 o-o
 mark him lowest.
 sentence-next
@@ -273,7 +273,7 @@ candidates.
 end-lyric
 
 ambee sings-damien amenn
-I'd have to do
+I would have to do
 o-o
 some
 o-o
@@ -300,7 +300,7 @@ o-o
 and second choice.
 sentence-next
 o-o
-You'd plan where to
+You would plan where to
 o-o
 mark your
 o-o
@@ -722,7 +722,7 @@ o-o
 preference.
 sentence-next
 o-o
-You'd press the
+You would press the
 o-o
 third button
 o-o

@@ -71,7 +71,9 @@ If I were to
 o-o
 buy a house,
 o-o
-they'd loan for that.
+they would
+o-o
+loan for that.
 end-lyric
 
 ambee sings-vc amenn
@@ -168,7 +170,7 @@ o-o
 Occasionally.
 sentence-next
 o-o
-Mostly now they're
+Mostly now they are
 o-o
 high hyphen-here rolling gamblers
 o-o
@@ -204,7 +206,7 @@ not small things.
 end-lyric
 
 ambee sings-damien amenn
-What're
+What are
 o-o
 derivatives?
 end-lyric
@@ -223,7 +225,7 @@ sentence-next
 o-o
 Lots of times
 o-o
-they're promises
+they are promises
 o-o
 to pay money if
 o-o
@@ -604,7 +606,7 @@ sentence-next
 o-o
 And of course
 o-o
-there'd be
+there would be
 o-o
 an app
 o-o
@@ -636,7 +638,7 @@ on death,
 o-o
 sex,
 o-o
-calmness,
+peace,
 o-o
 or fashion color.
 sentence-next
@@ -695,7 +697,7 @@ o-o
 the slammer.
 sentence-next
 o-o
-That'd be a
+That would be a
 o-o
 bummer
 o-o
@@ -756,9 +758,11 @@ o-o
 corporations.
 sentence-next
 o-o
-How come they're the
+How come they are
 o-o
-winners in the
+the winners
+o-o
+in the
 o-o
 business world?
 end-lyric

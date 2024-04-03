@@ -25,14 +25,14 @@ end-lyric
 ambee sings-damien amenn
 Mister name-father-of-fiance-last no-space ,
 o-o
-my fiance's father,
+my word-fiance no-space 's father,
 o-o
 said you make
 o-o
 money dance.
 sentence-next
 o-o
-And I'd like
+I would like
 o-o
 to advance
 o-o
@@ -407,7 +407,7 @@ end-lyric
 ambee sings-damien amenn
 Yeah,
 o-o
-money's damn
+money is damn
 o-o
 important.
 end-lyric
@@ -763,7 +763,7 @@ What I mean is,
 o-o
 well,
 o-o
-I'd like to
+I would like to
 o-o
 find funding
 o-o
@@ -911,11 +911,9 @@ o-o
 competitors.
 sentence-next
 o-o
-There's gotta
+There's got to be
 o-o
-be a
-o-o
-monopoly.
+a monopoly.
 sentence-next
 o-o
 Either

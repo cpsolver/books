@@ -226,7 +226,7 @@ what we tell
 o-o
 our rich donors,
 o-o
-we'd never win
+we would never win
 o-o
 our prize,
 o-o
@@ -310,23 +310,23 @@ who vote for
 o-o
 Democrats
 o-o
-sometimes call
+refer to some
 o-o
 Republican
 o-o
 candidates
 o-o
-racists,
+as greedy
 o-o
-misogynists,
-o-o
-climate deniers,
+capitalists,
 o-o
 one percenters,
 o-o
-and greedy
+climate deniers,
 o-o
-capitalists.
+misogynists,
+o-o
+and racists.
 sentence-next
 o-o
 Some people
@@ -335,21 +335,19 @@ who vote for
 o-o
 Republicans
 o-o
-sometimes call
+refer to
 o-o
 Democratic
 o-o
 candidates
 o-o
+as tree huggers,
+o-o
 socialists,
 o-o
-abortionists,
-o-o
-tree huggers,
-o-o
-crybabies,
-o-o
 godless pagans,
+o-o
+abortionists,
 o-o
 feminists,
 o-o
@@ -376,7 +374,7 @@ What's bigger than
 o-o
 the fight
 o-o
-between left 'n
+between left and
 o-o
 right?
 end-lyric
@@ -592,7 +590,7 @@ o-o
 high in the polls.
 sentence-next
 o-o
-They've bought
+They have bought
 o-o
 our souls.
 sentence-next
@@ -617,7 +615,7 @@ right?
 end-lyric
 
 ambee sings-politician amenn
-Of course they're
+Of course they are
 o-o
 all rich.
 sentence-next

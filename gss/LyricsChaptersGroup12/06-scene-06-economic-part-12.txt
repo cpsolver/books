@@ -11,7 +11,7 @@ Tesla?
 end-lyric
 
 ambee sings-econhist amenn
-Who's got the
+Who has the
 o-o
 money it takes
 o-o
@@ -276,7 +276,7 @@ o-o
 attorney.
 sentence-next
 o-o
-You'd get a
+You would get a
 o-o
 patent number.
 sentence-next
@@ -305,7 +305,7 @@ o-o
 patent number.
 sentence-next
 o-o
-You'd add it to
+You would add it to
 o-o
 your LinkedIn
 o-o
@@ -374,7 +374,7 @@ sentence-next
 o-o
 Not until
 o-o
-after they've
+after they have
 o-o
 been the
 o-o
@@ -575,7 +575,7 @@ end-lyric
 ambee sings-econhist amenn
 In the past
 o-o
-there've been
+there have been
 o-o
 huge setbacks too.
 sentence-next

@@ -15,7 +15,7 @@ o-o
 about race.
 sentence-next
 o-o
-They're about
+They are about
 o-o
 poor people
 o-o
@@ -71,7 +71,7 @@ to be guilty
 o-o
 just because
 o-o
-they're defended
+they are defended
 o-o
 by a district
 o-o
@@ -368,7 +368,7 @@ world.
 end-lyric
 
 ambee sings-damien amenn
-They're both the
+They are both the
 o-o
 same thing to me.
 sentence-next

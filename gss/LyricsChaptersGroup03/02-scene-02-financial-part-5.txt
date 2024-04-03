@@ -125,9 +125,13 @@ o-o
 through that.
 sentence-next
 o-o
-They're so distracted
+They are so
 o-o
-by the fight between
+distracted
+o-o
+by the fight
+o-o
+between
 o-o
 left and right.
 end-lyric
@@ -194,7 +198,7 @@ o-o
 their strategies.
 sentence-next
 o-o
-They're like
+They are like
 o-o
 astrologers
 o-o
@@ -242,7 +246,7 @@ o-o
 It just works.
 sentence-next
 o-o
-If it ain't broke,
+If it isn't broke,
 o-o
 there's no need
 o-o

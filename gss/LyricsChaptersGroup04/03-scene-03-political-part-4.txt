@@ -65,7 +65,7 @@ between
 o-o
 political up
 o-o
-'n
+and
 o-o
 political down.
 end-lyric
@@ -520,7 +520,7 @@ Don't they see
 o-o
 that just means
 o-o
-they're shooting
+they are shooting
 o-o
 at the same
 o-o

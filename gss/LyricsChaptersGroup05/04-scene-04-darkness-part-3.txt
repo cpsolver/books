@@ -77,9 +77,9 @@ And that the fight
 o-o
 between
 o-o
-left and right's
+left and right
 o-o
-just a
+is just a
 o-o
 distraction
 o-o
@@ -180,7 +180,9 @@ end-lyric
 ambee sings-damien amenn
 Yeah,
 o-o
-but that path's blocked.
+but that path
+o-o
+is blocked.
 end-lyric
 
 ambee sings-desha amenn
@@ -250,7 +252,7 @@ o-o
 hari hyphen-here kari begin-explain intentionally misspelled and mis hyphen-here pronounced end-explain no-space .
 sentence-next
 o-o
-What d'you wanna
+What do you wanna
 o-o
 know about?
 end-lyric
@@ -266,7 +268,7 @@ be counted
 o-o
 to get results
 o-o
-that're fair.
+that are fair.
 end-lyric
 
 ambee sings-desha amenn
@@ -454,7 +456,7 @@ o-o
 to study.
 sentence-next
 o-o
-School's not
+School isn't
 o-o
 that hard.
 end-lyric
@@ -566,7 +568,7 @@ if she can
 o-o
 explain things in
 o-o
-spoken words 'n
+spoken words and
 o-o
 not use jargon,
 o-o
@@ -594,7 +596,7 @@ ambee sings-damien amenn
 It's what I need.
 sentence-next
 o-o
-What d'you need?
+What do you need?
 end-lyric
 
 ambee sings-desha amenn
@@ -1015,7 +1017,7 @@ o-o
 no evil fractions.
 sentence-next
 o-o
-I'd rather
+I would rather
 o-o
 encounter
 o-o

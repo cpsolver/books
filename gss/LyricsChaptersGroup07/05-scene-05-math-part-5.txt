@@ -66,7 +66,7 @@ booted.
 end-lyric
 
 ambee sings-damien amenn
-And then we'd
+And then we would
 o-o
 look for the
 o-o
@@ -883,9 +883,9 @@ ambee sings-mathprof amenn
 That's right.
 sentence-next
 o-o
-Now I think
+Now I think you
 o-o
-your're ready to
+are ready to
 o-o
 understand a
 o-o
@@ -996,7 +996,7 @@ and ignored it.
 end-lyric
 
 ambee sings-desha amenn
-That's what I'd
+That's what I would
 o-o
 probably do.
 end-lyric

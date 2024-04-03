@@ -169,7 +169,7 @@ the political down.
 end-lyric
 
 ambee sings-father-of-fiance amenn
-So they're
+So they are
 o-o
 anti hyphen-here business.
 end-lyric
@@ -594,7 +594,7 @@ o-o
 that are small.
 sentence-next
 o-o
-They're too small
+They are too small
 o-o
 to sell shares
 o-o
@@ -940,7 +940,7 @@ the different
 o-o
 tax rates,
 o-o
-they're like the
+they are like the
 o-o
 difference
 o-o

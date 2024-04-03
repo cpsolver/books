@@ -67,7 +67,7 @@ ambee sings-damien amenn
 Yeah I know.
 sentence-next
 o-o
-My mom's
+My mom is
 o-o
 begin-italics Puerto Rican end-italics begin-explain pronounced with a Spanish hyphen-here language accent end-explain no-space .
 end-lyric
@@ -468,7 +468,7 @@ reduce
 o-o
 corruption,
 o-o
-so they're more
+so they are more
 o-o
 well hyphen-here liked.
 end-lyric
@@ -546,7 +546,7 @@ two cruel,
 o-o
 and two cool,
 o-o
-who'd win?
+who would win?
 end-lyric
 
 ambee sings-desha amenn
@@ -576,9 +576,11 @@ o-o
 cruel ones.
 sentence-next
 o-o
-They're the puppets
+They are the
 o-o
-of money hyphen-here obsessed,
+puppets of
+o-o
+money hyphen-here obsessed,
 o-o
 short hyphen-here sighted,
 o-o
@@ -642,7 +644,7 @@ Only the
 o-o
 terminally
 o-o
-stupid'd
+stupid would
 o-o
 fall for those.
 end-lyric
@@ -667,7 +669,7 @@ Wealthy business
 o-o
 owners,
 o-o
-who're the biggest
+who are the biggest
 o-o
 campaign donors,
 o-o
@@ -750,7 +752,7 @@ o-o
 to begin-italics Grouch Magazine end-italics no-space .
 sentence-next
 o-o
-That'd leave
+That would leave
 o-o
 Pinoke and
 o-o
@@ -759,7 +761,7 @@ o-o
 and Barack.
 sentence-next
 o-o
-Who'd win that
+Who would win that
 o-o
 three hyphen-here way race?
 end-lyric
@@ -794,7 +796,7 @@ levels of
 o-o
 dollars,
 o-o
-those'd
+those would
 o-o
 pay for ads
 o-o
@@ -820,7 +822,7 @@ o-o
 to hide his lies.
 sentence-next
 o-o
-That'd tip the
+That would tip the
 o-o
 three hyphen-here way balance
 o-o

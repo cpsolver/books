@@ -464,7 +464,7 @@ any sound.
 end-lyric
 
 ambee sings-damien amenn
-That'd be
+That would be
 o-o
 cheating.
 end-lyric

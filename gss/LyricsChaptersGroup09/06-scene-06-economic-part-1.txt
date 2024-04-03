@@ -402,7 +402,7 @@ o-o
 but not filling.
 sentence-next
 o-o
-I'd rather fight
+I would rather fight
 o-o
 for a pie
 o-o
@@ -676,7 +676,7 @@ savory pies.
 end-lyric
 
 ambee sings-damien amenn
-I'd jump to
+I would jump to
 o-o
 the second
 o-o

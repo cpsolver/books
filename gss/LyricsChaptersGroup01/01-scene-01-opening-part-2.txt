@@ -33,9 +33,11 @@ ambee sings-damien amenn
 It ain't right.
 sentence-next
 o-o
-The boss I've got's
+The boss I've got
 o-o
-almost a saint.
+is almost
+o-o
+a saint.
 sentence-next
 o-o
 Yet he says
@@ -85,9 +87,13 @@ o-o
 money for me.
 sentence-next
 o-o
-Your paycheck's like
+Your paycheck
 o-o
-a balloon with a leak.
+is like a
+o-o
+balloon
+o-o
+with a leak.
 end-lyric
 
 ambee sings-damien amenn
@@ -150,9 +156,9 @@ sentence-next
 o-o
 So who do you
 o-o
-think's rigged the
+think has rigged
 o-o
-political
+the political
 o-o
 game?
 end-lyric
@@ -217,7 +223,7 @@ sentence-next
 o-o
 There's just
 o-o
-gotta be
+got to be
 o-o
 a geek,
 o-o
@@ -266,7 +272,7 @@ o-o
 guru who knew.
 sentence-next
 o-o
-What'd be
+What would be
 o-o
 your query?
 sentence-next
@@ -294,7 +300,7 @@ o-o
 Ah yes.
 sentence-next
 o-o
-I'd ask
+I would ask
 o-o
 begin-italics What's at the root
 o-o
@@ -345,7 +351,7 @@ sentence-next
 o-o
 You know
 o-o
-I'd rather
+I would rather
 o-o
 walk into a
 o-o
@@ -375,7 +381,7 @@ words
 o-o
 try to drag me
 o-o
-through dates 'n
+through dates and
 o-o
 definitions.
 sentence-next
@@ -466,7 +472,7 @@ ambee sings-damien amenn
 Does it matter?
 sentence-next
 o-o
-History's just
+History is just
 o-o
 fat with notes
 o-o
@@ -687,7 +693,7 @@ without pointing
 o-o
 to a big book,
 o-o
-why the world's
+why the world is
 o-o
 so upside down,
 o-o
@@ -795,9 +801,11 @@ upside down.
 end-lyric
 
 ambee sings-fiance amenn
-As long as you're
+As long as
 o-o
-not dying
+you are not
+o-o
+dying
 o-o
 on me.
 end-lyric
@@ -901,7 +909,7 @@ I hope to
 o-o
 discover
 o-o
-a way outta
+a way out of
 o-o
 this muck.
 end-lyric

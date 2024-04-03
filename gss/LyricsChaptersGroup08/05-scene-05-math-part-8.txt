@@ -1,7 +1,7 @@
 ambee put-into-phrase lyric-number 0580000 amenn
 
 ambee sings-desha amenn
-So how's the
+So how is the
 o-o
 second seat filled?
 sentence-next

@@ -99,7 +99,7 @@ fight with.
 end-lyric
 
 ambee sings-desha amenn
-What's today's
+What is today's
 o-o
 version of
 o-o
@@ -157,7 +157,7 @@ sentence-next
 o-o
 Everything
 o-o
-we've discussed
+we discussed
 o-o
 today is about
 o-o
@@ -242,9 +242,11 @@ o-o
 professionally.
 sentence-next
 o-o
-But now my head's
+But now my head
 o-o
-so full it feels
+is so full
+o-o
+it feels
 o-o
 ready to
 o-o

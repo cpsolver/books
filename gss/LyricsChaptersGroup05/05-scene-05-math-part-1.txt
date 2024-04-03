@@ -116,12 +116,14 @@ Classrooms
 o-o
 are scary,
 o-o
-spooky, 'n
+spooky,
+o-o
+and
 o-o
 terrifying.
 sentence-next
 o-o
-This one's bringing
+This one is bringing
 o-o
 back awful
 o-o
@@ -133,9 +135,9 @@ for getting Cs,
 o-o
 and Ds,
 o-o
-'specially
+especially
 o-o
-in math 'n
+in math and
 o-o
 history.
 end-lyric
@@ -362,9 +364,9 @@ Are you a musician?
 end-lyric
 
 ambee sings-desha amenn
-What's music
+What does music
 o-o
-got to do with
+have to do with
 o-o
 fractions?
 end-lyric
@@ -426,7 +428,9 @@ are marked in
 o-o
 halves, quarters,
 o-o
-eighths, 'n
+eighths,
+o-o
+and
 o-o
 sixteenths.
 sentence-next
@@ -436,7 +440,7 @@ o-o
 fractions.
 sentence-next
 o-o
-I'd murder
+I would murder
 o-o
 those suckers
 o-o
@@ -471,7 +475,7 @@ o-o
 metric units.
 sentence-next
 o-o
-That'd get
+That would get
 o-o
 me fired.
 sentence-next
@@ -738,7 +742,7 @@ fractions.
 end-lyric
 
 ambee sings-desha amenn
-They're the ones
+They are the ones
 o-o
 who chose
 o-o

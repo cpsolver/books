@@ -94,7 +94,7 @@ o-o
 upside down.
 sentence-next
 o-o
-And money's
+And money is
 o-o
 on the line.
 end-lyric
@@ -278,7 +278,7 @@ count.
 end-lyric
 
 ambee sings-damien amenn
-What's it called?
+What is it called?
 end-lyric
 
 ambee sings-mathprof amenn

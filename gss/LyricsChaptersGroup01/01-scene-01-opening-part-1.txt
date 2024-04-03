@@ -92,7 +92,7 @@ In Seattle.
 end-lyric
 
 ambee sings-fiance amenn
-How'd you get there?
+How did you get there?
 end-lyric
 
 ambee sings-damien amenn
@@ -177,7 +177,7 @@ sentence-next
 o-o
 About some
 o-o
-laws that're rough.
+laws that are rough.
 end-lyric
 
 ambee sings-fiance amenn
@@ -280,7 +280,7 @@ sentence-next
 o-o
 I hate that sulfurous stink
 o-o
-when I have'ta mark
+when I have to mark
 o-o
 the lesser fink.
 end-lyric
@@ -355,10 +355,10 @@ o-o
 see through those.
 sentence-next
 o-o
-Something's hidden.
+Something is hidden.
 sentence-next
 o-o
-There's gotta be
+There's got to be
 o-o
 another villain.
 end-lyric
@@ -474,7 +474,7 @@ ambee sings-fiance amenn
 We're being herded indeed.
 sentence-next
 o-o
-Something's not right.
+Something isn't right.
 end-lyric
 
 ambee sings-damien amenn
@@ -605,7 +605,7 @@ sentence-next
 o-o
 They claim that
 o-o
-working hard's
+working hard is
 o-o
 a good bet.
 sentence-next
@@ -646,7 +646,7 @@ ambee sings-damien amenn
 I'm suspicious.
 sentence-next
 o-o
-Something's going on
+Something is going on
 o-o
 behind our backs.
 end-lyric

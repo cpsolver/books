@@ -74,7 +74,7 @@ elections
 o-o
 in most nations
 o-o
-use what's
+use what is
 o-o
 increasingly
 o-o
@@ -153,7 +153,7 @@ begin-italics first past the post end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn
-What's it called
+What is it called
 o-o
 here in the states?
 end-lyric
@@ -942,7 +942,7 @@ With those strict rules,
 o-o
 this counting
 o-o
-method's dead.
+method is dead.
 end-lyric
 
 ambee sings-mathprof amenn

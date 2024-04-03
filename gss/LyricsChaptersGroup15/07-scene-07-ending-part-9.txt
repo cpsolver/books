@@ -69,7 +69,7 @@ begin-explain Door opens and closes. end-explain
 end-lyric
 
 ambee sings-vc amenn
-Normally I'd
+Normally I would
 o-o
 suggest lightening
 o-o
@@ -520,7 +520,7 @@ I never
 o-o
 realized
 o-o
-that's
+that is
 o-o
 religion's
 o-o
@@ -581,7 +581,7 @@ connection
 o-o
 with me,
 o-o
-but then they'd
+but then they would
 o-o
 be happy to
 o-o

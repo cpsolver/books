@@ -68,9 +68,9 @@ ambee sings-vc amenn
 Yup.
 sentence-next
 o-o
-The paperwork's
+The paperwork
 o-o
-a hassle.
+is a hassle.
 sentence-next
 o-o
 But those sly tricks
@@ -185,7 +185,7 @@ oh the really
 o-o
 really good ones,
 o-o
-they're more than
+they are more than
 o-o
 a hundred.
 end-lyric
@@ -387,7 +387,7 @@ end-lyric
 ambee sings-damien amenn
 That protection
 o-o
-racket's not
+racket is not
 o-o
 what a small store
 o-o
@@ -447,7 +447,7 @@ o-o
 neighborhoods.
 sentence-next
 o-o
-Well, 'til
+Well, until
 o-o
 recently,
 o-o
@@ -856,7 +856,7 @@ valuable
 o-o
 innovations,
 o-o
-that'd be sweet.
+that would be sweet.
 sentence-next
 o-o
 Very profitable.
@@ -936,7 +936,7 @@ From what you said,
 o-o
 a business
 o-o
-you'd invest in
+you would invest in
 o-o
 must be legal.
 sentence-next

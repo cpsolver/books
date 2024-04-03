@@ -895,7 +895,7 @@ rent and home
 o-o
 ownership
 o-o
-because they're
+because they are
 o-o
 too difficult
 o-o
@@ -925,7 +925,7 @@ As for food
 o-o
 and utilities,
 o-o
-they're rising
+they are rising
 o-o
 like a rocket.
 sentence-next

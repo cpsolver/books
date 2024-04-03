@@ -95,9 +95,11 @@ end-lyric
 ambee sings-damien amenn
 If I'm so smart,
 o-o
-why'd I flunk
+why did I
 o-o
-out of community
+flunk out of
+o-o
+community
 o-o
 college?
 end-lyric
@@ -123,7 +125,7 @@ Not you.
 end-lyric
 
 ambee sings-damien amenn
-My world's
+My world is
 o-o
 so upside down.
 sentence-next

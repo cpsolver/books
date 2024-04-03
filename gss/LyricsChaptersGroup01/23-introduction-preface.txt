@@ -6,8 +6,10 @@ end-italics
 end-title
 
 begin-standard-paragraph
-This story is a comedy, written as dialog.
-sentence-next
+This story is a comedic dialog that reveals why our planet needs ranked choice voting.
+end-standard-paragraph
+
+begin-standard-paragraph
 A young carpenter named name-damien struggles to understand why the worlds of business and politics are upside hyphen-here down for himself, his word-fiance no-space , and for his generation.
 sentence-next
 He flunked out of community college so he gets assistance from name-desha who is a wild young woman with a degree in political science.

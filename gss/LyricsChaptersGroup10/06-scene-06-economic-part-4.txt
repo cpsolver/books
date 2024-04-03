@@ -211,7 +211,7 @@ on this subject
 o-o
 fell on you,
 o-o
-you'd get buried
+you would get buried
 o-o
 in an avalanche
 o-o
@@ -347,7 +347,7 @@ without fighting.
 end-lyric
 
 ambee sings-desha amenn
-I'd fight for that!
+I would fight for that!
 end-lyric
 
 ambee sings-econhist amenn

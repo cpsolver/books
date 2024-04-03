@@ -172,7 +172,7 @@ o-o
 and mayors.
 sentence-next
 o-o
-They're vulnerable
+They are vulnerable
 o-o
 to voters who
 o-o
@@ -414,7 +414,7 @@ o-o
 mathwise.
 sentence-next
 o-o
-So far we've
+So far we have
 o-o
 been talking
 o-o
@@ -714,12 +714,12 @@ party.
 end-lyric
 
 ambee sings-damien amenn
-I'd join that one.
+I would join that one.
 sentence-next
 o-o
 It sounds like
 o-o
-they're against
+they are against
 o-o
 puppets.
 end-lyric

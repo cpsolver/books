@@ -521,7 +521,7 @@ That's it!
 end-lyric
 
 ambee sings-damien amenn
-And divide 'n
+And divide and
 o-o
 conquer.
 sentence-next
@@ -547,7 +547,7 @@ attack the
 o-o
 smaller groups
 o-o
-when they're
+when they are
 o-o
 aloner?
 end-lyric
@@ -718,7 +718,7 @@ end-lyric
 ambee sings-damien amenn
 In my opinion
 o-o
-math's the devil's
+math is the devil's
 o-o
 favorite
 o-o
@@ -739,7 +739,7 @@ a tall fir tree
 o-o
 getting cut down,
 o-o
-I'd be there
+I would be there
 o-o
 yelling begin-italics timber! end-italics
 end-lyric
