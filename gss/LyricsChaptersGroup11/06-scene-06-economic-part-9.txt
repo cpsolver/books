@@ -128,7 +128,9 @@ measuring
 o-o
 stupidity
 o-o
-is tricky.
+reveals lots of
+o-o
+surprises.
 end-lyric
 
 ambee sings-damien amenn
@@ -260,6 +262,11 @@ o-o
 lower salaries
 o-o
 and fewer jobs.
+sentence-next
+o-o
+And fewer
+o-o
+advertisements.
 sentence-next
 o-o
 Which increases
@@ -908,7 +915,7 @@ That's the kind of
 o-o
 bright future
 o-o
-I would like to see!
+I'd like to see!
 sentence-next
 o-o
 Is there a way

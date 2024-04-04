@@ -144,9 +144,10 @@ dropout
 o-o
 waiting for
 o-o
-a handout,
+a handout.
+sentence-next
 o-o
-or one of those
+Or one of those
 o-o
 lazy 
 o-o
@@ -452,7 +453,7 @@ If ever
 o-o
 there was a time
 o-o
-I would like to swear
+I'd like to swear
 o-o
 about slime
 o-o

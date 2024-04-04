@@ -4,16 +4,13 @@ title-chapter-01
 end-title
 
 begin-standard-paragraph
-begin-bold Skipping ahead end-bold no-space :
-sentence-next
 begin-bold
 If you just want to learn about ranked choice voting, skip ahead to 
 <a href="ogss_05.xhtml"> no-space begin-italics Scene 5, title-scene-05 end-italics no-space </a>
-end-bold no-space .
+no-space . end-bold
 end-standard-paragraph
 
 begin-standard-paragraph
-begin-bold Audiobook end-bold no-space :
 begin-bold
 Voice actors eventually will transform this dialog into an audiobook.
 end-bold

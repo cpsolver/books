@@ -89,11 +89,18 @@ o-o
 huge audience.
 sentence-next
 o-o
-The real prizes
+The real prize
 o-o
-are learning
+is to learn
 o-o
-and putting
+skills.
+sentence-next
+o-o
+And then use
+o-o
+those skills
+o-o
+to inspire
 o-o
 smiles
 o-o

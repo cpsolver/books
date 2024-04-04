@@ -69,7 +69,7 @@ begin-explain Door opens and closes. end-explain
 end-lyric
 
 ambee sings-vc amenn
-Normally I would
+Normally I'd
 o-o
 suggest lightening
 o-o

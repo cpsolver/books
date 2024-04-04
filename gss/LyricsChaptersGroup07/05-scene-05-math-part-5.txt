@@ -996,7 +996,7 @@ and ignored it.
 end-lyric
 
 ambee sings-desha amenn
-That's what I would
+That's what I'd
 o-o
 probably do.
 end-lyric

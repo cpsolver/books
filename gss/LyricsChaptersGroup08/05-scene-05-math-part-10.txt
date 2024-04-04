@@ -272,11 +272,35 @@ ambee sings-mathprof amenn
 Not there.
 sentence-next
 o-o
-Third hyphen-here party voters
+It's not just about
+o-o
+whether you alone
+o-o
+can change who
+o-o
+gets elected.
+sentence-next
+o-o
+Third hyphen-here party voters,
+o-o
+all together,
 o-o
 have been changing
 o-o
-who wins.
+who wins
+o-o
+presidential
+o-o
+elections.
+sentence-next
+o-o
+So it's not safe
+o-o
+to stand aside
+o-o
+and watch the fight
+o-o
+between left and right.
 sentence-next
 o-o
 On top of that,

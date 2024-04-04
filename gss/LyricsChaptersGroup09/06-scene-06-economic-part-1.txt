@@ -402,7 +402,7 @@ o-o
 but not filling.
 sentence-next
 o-o
-I would rather fight
+I'd rather fight
 o-o
 for a pie
 o-o

@@ -273,17 +273,13 @@ candidates.
 end-lyric
 
 ambee sings-damien amenn
-I would have to do
+Twenty rows
 o-o
-some
+of ovals
 o-o
-head scratching
+might be
 o-o
-to figure out
-o-o
-how to mark
-o-o
-those ovals.
+a bit tough.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -345,24 +341,8 @@ o-o
 about the same.
 end-lyric
 
-ambee sings-damien amenn
-Fitting marks
-o-o
-into ovals
-o-o
-sounds easier
-o-o
-than fitting
-o-o
-stairs into
-o-o
-a spiral
-o-o
-staircase.
-end-lyric
-
 ambee sings-desha amenn
-Yet doing it twice,
+Doing it twice,
 o-o
 once in the
 o-o
@@ -375,6 +355,10 @@ o-o
 might stress out
 o-o
 some voters.
+end-lyric
+
+ambee sings-damien amenn
+That would be me.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -555,7 +539,9 @@ o-o
 just one oval.
 sentence-next
 o-o
-The two candidates
+In each party
+o-o
+the two candidates
 o-o
 with the highest
 o-o

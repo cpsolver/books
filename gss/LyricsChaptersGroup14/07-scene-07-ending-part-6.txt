@@ -594,11 +594,15 @@ o-o
 that are small.
 sentence-next
 o-o
-They are too small
+They are too small,
 o-o
-to sell shares
+and not prosperous
 o-o
-on Wall Street.
+enough,
+o-o
+to hire
+o-o
+lobbyists.
 sentence-next
 o-o
 Yet there are

@@ -347,7 +347,7 @@ without fighting.
 end-lyric
 
 ambee sings-desha amenn
-I would fight for that!
+I'd fight for that!
 end-lyric
 
 ambee sings-econhist amenn

@@ -498,11 +498,16 @@ And those
 o-o
 chain food places
 o-o
-do more
+don't do real
 o-o
-heating and
+cooking.
+sentence-next
 o-o
-dispensing
+Their idea
 o-o
-than cooking.
+of food prep
+o-o
+is dispensing
+o-o
+and heating.
 end-lyric

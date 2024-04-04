@@ -7,7 +7,14 @@ title-chapter-27
 end-title
 
 begin-standard-paragraph
-Please help get ranked choice ballots and pairwise vote counting adopted for use in United States general elections.
+Please help get
+begin-bold
+ranked choice ballots
+end-bold
+and pairwise vote counting adopted for use in United States
+begin-bold
+general elections
+end-bold no-space .
 sentence-next
 Especially for electing members of Congress!
 sentence-next

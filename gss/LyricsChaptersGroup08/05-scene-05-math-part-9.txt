@@ -656,12 +656,13 @@ ambee sings-mathprof amenn
 You've aced
 o-o
 this course!
+sentence-next
+o-o
+Excellent!
 end-lyric
 
 ambee sings-damien amenn
-name-mathprof no-space ,
-o-o
-thank you for
+Thank you for
 o-o
 guiding us
 o-o
