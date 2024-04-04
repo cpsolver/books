@@ -816,25 +816,27 @@ o-o
 representation end-italics no-space .
 sentence-next
 o-o
-So each voter
+That means
 o-o
-can point to
+the percentage
 o-o
-someone in
+of seats
 o-o
-parliament
+going to each
 o-o
-and claim their vote
+political party
 o-o
-helped elect
+roughly matches
 o-o
-that MP,
+the percentage
 o-o
-er,
+of voters
 o-o
-member of
+who mark
 o-o
-parliament.
+each party
+o-o
+as their favorite.
 end-lyric
 
 ambee sings-desha amenn
