@@ -16,7 +16,11 @@ begin-bold
 general elections
 end-bold no-space .
 sentence-next
-Especially for electing members of Congress!
+Especially for electing members of
+begin-bold
+Congress
+end-bold
+no-space !
 sentence-next
 This path leads to widespread economic prosperity, effective solutions to global problems, and greater joy.
 end-standard-paragraph

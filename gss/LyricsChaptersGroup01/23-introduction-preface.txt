@@ -26,7 +26,9 @@ end-standard-paragraph
 begin-standard-paragraph
 Here's what one reader wrote:
 sentence-next
-"Personally I found myself so much better informed about how the world works."
+begin-italics
+Personally I found myself so much better informed about how the world works.
+end-italics
 end-standard-paragraph
 
 begin-standard-paragraph

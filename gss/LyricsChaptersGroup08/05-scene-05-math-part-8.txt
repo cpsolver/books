@@ -724,11 +724,11 @@ Fortunately
 o-o
 the name
 o-o
-ranked choice voting
+ranked choice
 o-o
-now often
+begin-italics voting end-italics
 o-o
-refers to
+has come to mean
 o-o
 just about
 o-o
@@ -738,7 +738,7 @@ that counts
 o-o
 ranked choice
 o-o
-ballots.
+begin-italics ballots end-italics no-space .
 end-lyric
 
 ambee sings-desha amenn
@@ -970,7 +970,7 @@ o-o
 parties.
 sentence-next
 o-o
-In those cities
+In those cities,
 o-o
 party hyphen-here based
 o-o

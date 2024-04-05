@@ -494,24 +494,6 @@ o-o
 ballot.
 end-lyric
 
-ambee sings-damien amenn
-In twenty sixteen
-o-o
-Bernie Sanders
-o-o
-would have
-o-o
-been the second
-o-o
-nominee,
-o-o
-with the
-o-o
-second hyphen-here highest
-o-o
-vote count.
-end-lyric
-
 ambee sings-mathprof amenn
 Another simple
 o-o
@@ -526,20 +508,7 @@ o-o
 voting.
 sentence-next
 o-o
-That ballot
-o-o
-just changes
-o-o
-the instructions
-o-o
-so voters
-o-o
-can mark more than
-o-o
-just one oval.
-sentence-next
-o-o
-In each party
+In each party,
 o-o
 the two candidates
 o-o

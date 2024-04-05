@@ -89,24 +89,25 @@ o-o
 huge audience.
 sentence-next
 o-o
-The real prize
+The real prizes
 o-o
-is to learn
+are the skills
 o-o
-skills.
+you've learned.
 sentence-next
 o-o
-And then use
+With your skills
 o-o
-those skills
+you can win the
 o-o
-to inspire
+biggest prize.
+sentence-next
 o-o
-smiles
+That's the smile
 o-o
-in people's
+you bring to
 o-o
-eyes.
+someone's eyes.
 end-lyric
 
 ambee sings-vc amenn

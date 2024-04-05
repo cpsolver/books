@@ -851,19 +851,6 @@ ambee sings-desha amenn
 The Sistine
 o-o
 Chapel.
-sentence-next
-o-o
-A no hyphen-here name
-o-o
-painter was hired
-o-o
-to hide from nuns
-o-o
-the racy parts
-o-o
-painted by
-o-o
-Michelangelo.
 end-lyric
 
 ambee sings-econhist amenn

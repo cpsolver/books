@@ -200,31 +200,20 @@ Instead they
 o-o
 foolishly
 o-o
-shoot bullets
+attack
 o-o
-at people
+people
 o-o
-reaching for
+who reach for
 o-o
 savory pie.
 sentence-next
 o-o
-Yet some folks
+Without realizing
 o-o
-who they hit
+their victims
 o-o
-are their
-o-o
-customers.
-sentence-next
-o-o
-Or folks who
-o-o
-supply money
-o-o
-to their
-o-o
-company's
+include their
 o-o
 customers.
 end-lyric
