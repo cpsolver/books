@@ -511,9 +511,7 @@ a holy war.
 end-lyric
 
 ambee sings-damien amenn
-Until a bit ago
-o-o
-I would have guessed
+I'm guessing
 o-o
 the second hyphen-here most
 o-o
@@ -535,6 +533,15 @@ pizza.
 end-lyric
 
 ambee sings-mathprof amenn
+Second hyphen-here most
+o-o
+popular
+o-o
+has more than one
+o-o
+meaning.
+sentence-next
+o-o
 Let's try
 o-o
 yet another

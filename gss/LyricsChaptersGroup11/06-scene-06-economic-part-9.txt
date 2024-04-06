@@ -115,32 +115,29 @@ aren't wealthy.
 end-lyric
 
 ambee sings-econhist amenn
-Our math proofs
+Our attempts
 o-o
-do have
-o-o
-some goofs.
-sentence-next
-o-o
-After all,
-o-o
-measuring
+to measure
 o-o
 stupidity
 o-o
-reveals lots of
+have given us
+o-o
+lots of
 o-o
 surprises.
 end-lyric
 
 ambee sings-damien amenn
-Why doesn't
+What surprises me
 o-o
-my salary
+is that my
 o-o
-rise
+salary
 o-o
-from working hard?
+hardly rises
+o-o
+from working hard.
 end-lyric
 
 ambee sings-econhist amenn
@@ -175,11 +172,16 @@ end-lyric
 ambee sings-desha amenn
 Those benefits
 o-o
-run out after a
+run out
 o-o
-few months of having
+after a
 o-o
-no job. I've learned
+few months of
+o-o
+having no job.
+sentence-next
+o-o
+I've learned
 o-o
 that from
 o-o

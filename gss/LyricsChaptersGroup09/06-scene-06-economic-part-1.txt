@@ -294,11 +294,16 @@ economic
 o-o
 prosperity
 o-o
-for the regions
+for the
 o-o
-where those reforms
+United States.
+sentence-next
 o-o
-are adopted.
+Or for any states
+o-o
+that adopt
+o-o
+those reforms.
 sentence-next
 o-o
 You're aware
@@ -365,11 +370,7 @@ o-o
 world wars.
 sentence-next
 o-o
-And failures
-o-o
-to continue
-o-o
-improving
+And setbacks in
 o-o
 democracy.
 end-lyric

@@ -349,15 +349,18 @@ sentence-next
 o-o
 The few who lose
 o-o
-will still have
+will only lose
 o-o
-huge bank accounts,
+future income.
+sentence-next
 o-o
-so they and their
+They won't lose
 o-o
-families won't
+what they've
 o-o
-suffer.
+already
+o-o
+acquired.
 end-lyric
 
 ambee sings-desha amenn

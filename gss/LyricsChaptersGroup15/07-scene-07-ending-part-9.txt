@@ -520,7 +520,7 @@ I never
 o-o
 realized
 o-o
-that is
+that's
 o-o
 religion's
 o-o
@@ -528,23 +528,45 @@ grand prize.
 end-lyric
 
 ambee sings-desha amenn
-Of course
+It's dawning
 o-o
-some churches
+on me that
 o-o
-need to
+elections too
 o-o
-subtract out
+are supposed
 o-o
-the corrupt
+to turn the world
 o-o
-bits
+right side up.
+end-lyric
+
+ambee sings-damien amenn
+Right now
 o-o
-for that
+the greediest
 o-o
-description
+business owners
 o-o
-to fit.
+control elections.
+sentence-next
+o-o
+And wastefully
+o-o
+they squeeze
+o-o
+money from
+o-o
+each other's
+o-o
+customers.
+sentence-next
+o-o
+Leaving
+o-o
+everyone
+o-o
+poorer.
 end-lyric
 
 ambee sings-vc amenn

@@ -419,6 +419,8 @@ fraternal
 o-o
 organizations,
 o-o
+monopolistic tariffs,
+o-o
 black markets,
 o-o
 basing
@@ -936,9 +938,10 @@ freedom of
 o-o
 religion
 o-o
-was about money,
+was about money.
+sentence-next
 o-o
-not just beliefs.
+Not just beliefs.
 sentence-next
 o-o
 And beliefs

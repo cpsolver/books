@@ -110,19 +110,7 @@ begin-italics who is your favorite? end-italics
 end-lyric
 
 ambee sings-damien amenn
-Is this related
-o-o
-to the origins
-o-o
-of voting
-o-o
-in warfare?
-end-lyric
-
-ambee sings-mathprof amenn
-That's a useful
-o-o
-perspective.
+Ah yes.
 sentence-next
 o-o
 Voting for a
@@ -147,13 +135,19 @@ without you.
 end-lyric
 
 ambee sings-desha amenn
-So we can never
+If that's right,
+o-o
+that means
+o-o
+we can never
 o-o
 vote for a
 o-o
 third hyphen-here party
 o-o
-candidate?
+candidate,
+o-o
+right?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -197,9 +191,7 @@ I can vote
 o-o
 for a third hyphen-here party
 o-o
-candidate,
-o-o
-right?
+candidate?
 end-lyric
 
 ambee sings-mathprof amenn
@@ -250,50 +242,52 @@ o-o
 how I fight
 o-o
 in elections.
-sentence-next
-o-o
-Of course
-o-o
-in presidential
+end-lyric
+
+ambee sings-damien amenn
+Presidential
 o-o
 elections
 o-o
-the electoral
+are a mess.
+sentence-next
 o-o
-college
+Because of
 o-o
-is a mess.
+electoral
+o-o
+votes.
 sentence-next
 o-o
 Can we fix that?
 sentence-next
 o-o
 In the good sense.
-sentence-next
-o-o
-Without
-o-o
-amending the
-o-o
-Constitution?
 end-lyric
 
 ambee sings-mathprof amenn
-I believe a
+Mathematically,
 o-o
-well hyphen-here designed
+yes.
+sentence-next
+o-o
+A well hyphen-here designed
 o-o
 interstate
 o-o
 compact
 o-o
-can correct the
+can use
 o-o
-electoral
+decimal numbers
 o-o
-college
+and pairwise
 o-o
-mess.
+vote counting
+o-o
+to handle
+o-o
+more candidates.
 sentence-next
 o-o
 But the
@@ -306,16 +300,11 @@ now getting
 o-o
 adopted
 o-o
-won't work.
-sentence-next
+says the winner
 o-o
-It says
+is the one
 o-o
-the winner is
-o-o
-the one with
-o-o
-the most votes.
+with the most votes.
 sentence-next
 o-o
 Do you see
@@ -332,39 +321,20 @@ o-o
 Yuck!
 end-lyric
 
-ambee sings-desha amenn
-That can't handle
-o-o
-a second
-o-o
-Republican,
-o-o
-or a second
-o-o
-Democrat.
-sentence-next
-o-o
-Or even one
-o-o
-popular
-o-o
-third hyphen-here party
-o-o
-candidate.
-end-lyric
-
 ambee sings-mathprof amenn
-Of course
+The foundation
 o-o
-first we need
+for better
 o-o
-to use
+elections
+o-o
+is to use
 o-o
 ranked choice
 o-o
 ballots in
 o-o
-Congressional
+general
 o-o
 elections.
 sentence-next

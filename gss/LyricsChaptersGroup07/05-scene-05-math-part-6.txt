@@ -221,9 +221,7 @@ ambee sings-desha amenn
 Ah yes.
 sentence-next
 o-o
-This counting rule
-o-o
-allows us
+It allows us
 o-o
 to rank
 o-o
@@ -238,19 +236,13 @@ o-o
 jerk.
 sentence-next
 o-o
-Without
+Without needing
 o-o
-needing
+as many
 o-o
-the number of
+choice columns
 o-o
-columns
-o-o
-to match the
-o-o
-number of
-o-o
-candidates.
+as candidates.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -341,8 +333,49 @@ o-o
 about the same.
 end-lyric
 
+ambee sings-damien amenn
+What if the
+o-o
+instructions
+o-o
+don't allow
+o-o
+overvotes?
+end-lyric
+
+ambee sings-mathprof amenn
+Then be sure
+o-o
+you mark
+o-o
+one or two
+o-o
+candidates
+o-o
+who have a good
+o-o
+chance of winning.
+sentence-next
+o-o
+Those marks
+o-o
+express your
+o-o
+opposition
+o-o
+against any evil
+o-o
+candidates
+o-o
+you don't rank.
+end-lyric
+
 ambee sings-desha amenn
-Doing it twice,
+Ranking
+o-o
+candidates
+o-o
+twice,
 o-o
 once in the
 o-o
@@ -388,60 +421,60 @@ o-o
 ballots.
 sentence-next
 o-o
-Then the party
+But whoever gets the
 o-o
-must allow
+second hyphen-here highest
 o-o
-as a second
+vote count
 o-o
-nominee
+in the primary
 o-o
-whoever gets
+must be allowed
 o-o
-the second hyphen-here highest
+to be listed
 o-o
-vote count.
+on the
+o-o
+general election
+o-o
+ballot as the
+o-o
+party's
+o-o
+second
+o-o
+nominee.
 end-lyric
 
-ambee sings-damien amenn
-That's the
+ambee sings-desha amenn
+Is the candidate
+o-o
+with the
 o-o
 second hyphen-here most
 o-o
-popular
+plurality votes
 o-o
-candidate,
+really the
 o-o
-right?
+second best
+o-o
+candidate?
 end-lyric
 
 ambee sings-mathprof amenn
-The words
-o-o
-second hyphen-here most hyphen-here popular
-o-o
-have more than one
-o-o
-meaning.
+Not always.
 sentence-next
 o-o
-What matters
-o-o
-is that
-o-o
-using money
-o-o
-to exploit
-o-o
-vote splitting
-o-o
-only works if the
+But any
 o-o
 so hyphen-here called spoiler
 o-o
 candidates
 o-o
-are similar to
+have to be
+o-o
+similar to
 o-o
 the candidate
 o-o
@@ -495,6 +528,9 @@ ballot.
 end-lyric
 
 ambee sings-mathprof amenn
+You've got this.
+sentence-next
+o-o
 Another simple
 o-o
 way to handle
