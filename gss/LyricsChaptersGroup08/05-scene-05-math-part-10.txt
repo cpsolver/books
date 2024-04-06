@@ -110,81 +110,22 @@ begin-italics who is your favorite? end-italics
 end-lyric
 
 ambee sings-damien amenn
-Then what's it
+Is this related
 o-o
-asking?
-end-lyric
-
-ambee sings-desha amenn
-Besides
+to the origins
 o-o
-which loser
+of voting
 o-o
-do you want
-o-o
-to get stuck
-o-o
-with?
+in warfare?
 end-lyric
 
 ambee sings-mathprof amenn
-There is no
+That's a useful
 o-o
-easy way
-o-o
-to say
-o-o
-what it's
-o-o
-asking.
+perspective.
 sentence-next
 o-o
-And there's no way
-o-o
-to mark a
-o-o
-single hyphen-here choice
-o-o
-ballot to say
-o-o
-begin-italics none of the above end-italics no-space .
-sentence-next
-o-o
-And choosing
-o-o
-not to vote
-o-o
-does not express
-o-o
-begin-italics none of the above end-italics no-space .
-sentence-next
-o-o
-Instead a
-o-o
-single hyphen-here choice
-o-o
-ballot invites
-o-o
-tactical
-o-o
-voting.
-sentence-next
-o-o
-As if the voter
-o-o
-is choosing
-o-o
-which army
-o-o
-to join,
-o-o
-and fight with.
-end-lyric
-
-ambee sings-damien amenn
-Ah,
-o-o
-voting for a
+Voting for a
 o-o
 candidate
 o-o
@@ -206,23 +147,16 @@ without you.
 end-lyric
 
 ambee sings-desha amenn
-But that means
+So we can never
 o-o
-never voting
-o-o
-for a
+vote for a
 o-o
 third hyphen-here party
 o-o
-candidate,
-o-o
-right?
+candidate?
 end-lyric
 
 ambee sings-mathprof amenn
-No.
-sentence-next
-o-o
 You and others
 o-o
 can mark a
@@ -233,9 +167,9 @@ candidate
 o-o
 without regret
 o-o
-if adding your
+if adding all
 o-o
-bayonets
+your bayonets
 o-o
 to either
 o-o
@@ -246,7 +180,7 @@ o-o
 change who wins.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 So in the next
 o-o
 presidential
@@ -269,9 +203,6 @@ right?
 end-lyric
 
 ambee sings-mathprof amenn
-Not there.
-sentence-next
-o-o
 It's not just about
 o-o
 whether you alone
@@ -294,49 +225,47 @@ o-o
 elections.
 sentence-next
 o-o
-So it's not safe
+So in those
+o-o
+elections
+o-o
+it's not safe
 o-o
 to stand aside
 o-o
-and watch the fight
+and just watch
 o-o
-between left and right.
-sentence-next
+the fight
 o-o
-On top of that,
+between
 o-o
-state hyphen-here by hyphen-here state
-o-o
-electoral
-o-o
-votes
-o-o
-matter too.
-sentence-next
-o-o
-And the
-o-o
-nationwide
-o-o
-number gap
-o-o
-between the
-o-o
-Republican
-o-o
-and Democrat
-o-o
-is put under
-o-o
-a microscope.
+left and right.
 end-lyric
 
 ambee sings-desha amenn
-Can we fix
+Apparently
 o-o
-presidential
+I need to change
 o-o
-elections?
+how I fight
+o-o
+in elections.
+sentence-next
+o-o
+Of course
+o-o
+in presidential
+o-o
+elections
+o-o
+the electoral
+o-o
+college
+o-o
+is a mess.
+sentence-next
+o-o
+Can we fix that?
 sentence-next
 o-o
 In the good sense.
@@ -350,33 +279,13 @@ Constitution?
 end-lyric
 
 ambee sings-mathprof amenn
-I believe so.
-sentence-next
+I believe a
 o-o
-But only if
-o-o
-first we use
-o-o
-ranked choice
-o-o
-ballots
-o-o
-and pairwise
-o-o
-vote counting in
-o-o
-begin-italics congressional end-italics
-o-o
-elections.
-sentence-next
-o-o
-Then an
+well hyphen-here designed
 o-o
 interstate
 o-o
 compact
-o-o
-probably
 o-o
 can correct the
 o-o
@@ -385,20 +294,22 @@ o-o
 college
 o-o
 mess.
-end-lyric
-
-ambee sings-desha amenn
-There's already
+sentence-next
 o-o
-an interstate
+But the
 o-o
-compact getting
+interstate
 o-o
-adopted.
-end-lyric
-
-ambee sings-mathprof amenn
-That one says
+compact
+o-o
+now getting
+o-o
+adopted
+o-o
+won't work.
+sentence-next
+o-o
+It says
 o-o
 the winner is
 o-o
@@ -430,9 +341,10 @@ Republican,
 o-o
 or a second
 o-o
-Democrat,
+Democrat.
+sentence-next
 o-o
-or even one
+Or even one
 o-o
 popular
 o-o
@@ -441,22 +353,20 @@ o-o
 candidate.
 end-lyric
 
-ambee sings-damien amenn
-I suppose
+ambee sings-mathprof amenn
+Of course
 o-o
-until we get
+first we need
+o-o
+to use
 o-o
 ranked choice
 o-o
-ballots
+ballots in
 o-o
-we're stuck with
+Congressional
 o-o
-vote splitting.
-end-lyric
-
-ambee sings-mathprof amenn
-Indeed.
+elections.
 sentence-next
 o-o
 In the meantime,
