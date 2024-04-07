@@ -548,10 +548,12 @@ the greediest
 o-o
 business owners
 o-o
-control elections.
+control
+o-o
+elections.
 sentence-next
 o-o
-And wastefully
+Wastefully
 o-o
 they squeeze
 o-o
@@ -562,11 +564,13 @@ o-o
 customers.
 sentence-next
 o-o
-Leaving
+That drags
 o-o
-everyone
+down our
 o-o
-poorer.
+entire
+o-o
+economy.
 end-lyric
 
 ambee sings-vc amenn
@@ -650,6 +654,25 @@ o-o
 the world
 o-o
 right hyphen-here side up.
+sentence-next
+o-o
+Plus now I see
+o-o
+the economic
+o-o
+benefits of
+o-o
+enriching
+o-o
+customers
+o-o
+who buy from
+o-o
+the businesses
+o-o
+I own
+o-o
+and direct.
 end-lyric
 
 ambee sings-desha amenn

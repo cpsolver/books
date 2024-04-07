@@ -267,17 +267,20 @@ end-lyric
 ambee sings-damien amenn
 Twenty rows
 o-o
-of ovals
+of ovals?
+sentence-next
 o-o
-might be
+That would feel like
 o-o
-a bit tough.
+when I struggled
+o-o
+to learn checkers
+o-o
+and chess.
 end-lyric
 
 ambee sings-mathprof amenn
-Typically
-o-o
-you would mark
+You would mark
 o-o
 your very favorite
 o-o
@@ -338,15 +341,13 @@ What if the
 o-o
 instructions
 o-o
-don't allow
+don't allow those
 o-o
 overvotes?
 end-lyric
 
 ambee sings-mathprof amenn
-Then be sure
-o-o
-you mark
+Then at least mark
 o-o
 one or two
 o-o
@@ -355,22 +356,38 @@ o-o
 who have a good
 o-o
 chance of winning.
-sentence-next
-o-o
-Those marks
-o-o
-express your
-o-o
-opposition
-o-o
-against any evil
-o-o
-candidates
-o-o
-you don't rank.
 end-lyric
 
 ambee sings-desha amenn
+Oh yeah.
+sentence-next
+o-o
+A ranking
+o-o
+ballot
+o-o
+gives us
+o-o
+more moves.
+sentence-next
+o-o
+Like checkers
+o-o
+instead of
+o-o
+tic tac toe.
+sentence-next
+o-o
+But we can't waste
+o-o
+all of it on
+o-o
+candidates
+o-o
+who can't win.
+end-lyric
+
+ambee sings-damien amenn
 Ranking
 o-o
 candidates
@@ -388,10 +405,9 @@ o-o
 might stress out
 o-o
 some voters.
-end-lyric
-
-ambee sings-damien amenn
-That would be me.
+sentence-next
+o-o
+Like me.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -431,15 +447,13 @@ in the primary
 o-o
 must be allowed
 o-o
-to be listed
+into the
 o-o
-on the
+general
 o-o
-general election
+election
 o-o
-ballot as the
-o-o
-party's
+as the party's
 o-o
 second
 o-o
@@ -463,22 +477,20 @@ candidate?
 end-lyric
 
 ambee sings-mathprof amenn
-Not always.
+Not necessarily.
 sentence-next
 o-o
-But any
+But if vote splitting
 o-o
-so hyphen-here called spoiler
+is happening,
+o-o
+that splitting
+o-o
+is among
 o-o
 candidates
 o-o
-have to be
-o-o
-similar to
-o-o
-the candidate
-o-o
-being blocked.
+who are similar.
 end-lyric
 
 ambee sings-desha amenn

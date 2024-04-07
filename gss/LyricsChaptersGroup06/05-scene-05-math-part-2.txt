@@ -116,7 +116,11 @@ win every
 o-o
 spelling bee,
 o-o
-and add fractions.
+and add
+o-o
+and subtract
+o-o
+fractions.
 end-lyric
 
 ambee sings-desha amenn

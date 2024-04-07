@@ -277,17 +277,22 @@ interstate
 o-o
 compact
 o-o
-can use
-o-o
-decimal numbers
-o-o
-and pairwise
+can use pairwise
 o-o
 vote counting
 o-o
 to handle
 o-o
 more candidates.
+sentence-next
+o-o
+Even if some states
+o-o
+don't yet use
+o-o
+ranked choice
+o-o
+ballots.
 sentence-next
 o-o
 But the
@@ -322,7 +327,9 @@ Yuck!
 end-lyric
 
 ambee sings-mathprof amenn
-The foundation
+As you see,
+o-o
+the foundation
 o-o
 for better
 o-o
@@ -383,8 +390,12 @@ o-o
 here.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 What's the best way
+o-o
+to vote,
+o-o
+or not vote,
 o-o
 to express
 o-o

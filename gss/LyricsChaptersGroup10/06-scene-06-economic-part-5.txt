@@ -678,26 +678,28 @@ And selfies.
 end-lyric
 
 ambee sings-damien amenn
-name-desha no-space ,
-o-o
-your time machine
-o-o
-just crashed.
+Selfies?
 end-lyric
 
 ambee sings-desha amenn
-The pharaohs
+The pharaoh
 o-o
-commissioned
+hired sculptors
+o-o
+to carve giant
 o-o
 statues
 o-o
-of themselves.
+of himself.
 sentence-next
 o-o
 That too
 o-o
-was magical.
+was magical
+o-o
+technology
+o-o
+for those times.
 end-lyric
 
 ambee sings-econhist amenn

@@ -189,7 +189,11 @@ We pretend
 o-o
 one Republican
 o-o
+alone
+o-o
 or one Democrat
+o-o
+alone
 o-o
 can represent
 o-o
@@ -938,6 +942,16 @@ o-o
 too advanced
 o-o
 for you now.
+end-lyric
+
+ambee sings-desha amenn
+That sounds like
+o-o
+progressing from
+o-o
+checkers
+o-o
+to chess.
 end-lyric
 
 ambee sings-damien amenn
