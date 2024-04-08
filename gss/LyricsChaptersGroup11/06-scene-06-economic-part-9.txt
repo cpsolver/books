@@ -749,13 +749,9 @@ inspiring.
 end-lyric
 
 ambee sings-damien amenn
-I don't suppose
+Reading
 o-o
-this relates to
-o-o
-reading
-o-o
-underwater
+while submerged
 o-o
 in a bathtub?
 end-lyric
@@ -768,17 +764,6 @@ o-o
 discussions
 o-o
 on Reddit.
-sentence-next
-o-o
-Some have
-o-o
-fewer trolls
-o-o
-because of
-o-o
-volunteer
-o-o
-moderators.
 end-lyric
 
 ambee sings-damien amenn

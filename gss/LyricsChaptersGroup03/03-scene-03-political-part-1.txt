@@ -322,6 +322,8 @@ misogynists,
 o-o
 racists,
 o-o
+Nazis,
+o-o
 and liars.
 sentence-next
 o-o
@@ -345,7 +347,9 @@ abortionists,
 o-o
 feminists,
 o-o
-b*tches,
+witches,
+o-o
+Nazis,
 o-o
 and liars.
 sentence-next

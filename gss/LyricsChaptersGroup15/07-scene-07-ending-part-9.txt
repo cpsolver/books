@@ -542,7 +542,7 @@ right side up.
 end-lyric
 
 ambee sings-damien amenn
-Right now
+Unfortunately
 o-o
 the greediest
 o-o
@@ -579,18 +579,55 @@ o-o
 a lot today.
 sentence-next
 o-o
-Now I better
+I see that my
 o-o
-realize
+customers,
 o-o
-I mistook
+the ones who
 o-o
-jealousy
+buy from the
 o-o
-for admiration.
+businesses
+o-o
+I own
+o-o
+and direct,
+o-o
+are being robbed
+o-o
+by other
+o-o
+businesses.
 sentence-next
 o-o
-And I mistook
+That hurts my
+o-o
+businesses.
+sentence-next
+o-o
+I've realized
+o-o
+customers
+o-o
+aren't
+o-o
+evil people who
+o-o
+deserve to be
+o-o
+tricked.
+sentence-next
+o-o
+I've ignored
+o-o
+their claims of
+o-o
+suffering.
+sentence-next
+o-o
+As for love,
+o-o
+I mistook
 o-o
 admiration
 o-o
@@ -599,36 +636,16 @@ o-o
 kind of love.
 sentence-next
 o-o
-People want a
+Now I'm feeling
 o-o
-financial
+empty
 o-o
-connection
+in spite of
 o-o
-with me,
-o-o
-but then they would
-o-o
-be happy to
-o-o
-push me aside.
+all I own.
 sentence-next
 o-o
-Or even
-o-o
-wish me dead.
-sentence-next
-o-o
-To transfer some
-o-o
-of my wealth
-o-o
-to themselves.
-sentence-next
-o-o
-Alas,
-o-o
-my world has been
+My world is
 o-o
 upside down.
 sentence-next
@@ -654,25 +671,6 @@ o-o
 the world
 o-o
 right hyphen-here side up.
-sentence-next
-o-o
-Plus now I see
-o-o
-the economic
-o-o
-benefits of
-o-o
-enriching
-o-o
-customers
-o-o
-who buy from
-o-o
-the businesses
-o-o
-I own
-o-o
-and direct.
 end-lyric
 
 ambee sings-desha amenn

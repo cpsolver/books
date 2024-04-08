@@ -270,11 +270,15 @@ o-o
 of ovals?
 sentence-next
 o-o
-That would feel like
+This reminds me
 o-o
-when I struggled
+of struggling
 o-o
-to learn checkers
+to learn
+o-o
+how to play
+o-o
+checkers
 o-o
 and chess.
 end-lyric
