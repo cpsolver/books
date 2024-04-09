@@ -136,7 +136,18 @@ o-o
 family's share.
 sentence-next
 o-o
-I'm not a
+I'm not
+o-o
+one of those
+o-o
+lazy 
+o-o
+job hyphen-here stealing
+o-o
+immigrants.
+sentence-next
+o-o
+Or a
 o-o
 socialistic
 o-o
@@ -145,15 +156,6 @@ o-o
 waiting for
 o-o
 a handout.
-sentence-next
-o-o
-Or one of those
-o-o
-lazy 
-o-o
-job hyphen-here stealing
-o-o
-immigrants.
 end-lyric
 
 ambee sings-desha-firstuse amenn

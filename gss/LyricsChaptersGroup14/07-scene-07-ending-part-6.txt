@@ -564,7 +564,7 @@ You mean
 o-o
 Disney,
 o-o
-Nike,
+Apple,
 o-o
 Boeing,
 o-o
@@ -775,11 +775,13 @@ We could
 o-o
 reduce taxes
 o-o
-on activities
+on business
 o-o
-that enrich the
+activities
 o-o
-local
+that enrich
+o-o
+the local
 o-o
 economy.
 sentence-next
