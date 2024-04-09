@@ -548,14 +548,16 @@ the greediest
 o-o
 business owners
 o-o
-control
+exploit our
 o-o
-elections.
+flawed election
+o-o
+system.
 sentence-next
 o-o
-Wastefully
+Their goal is
 o-o
-they squeeze
+to squeeze
 o-o
 money from
 o-o
@@ -564,7 +566,9 @@ o-o
 customers.
 sentence-next
 o-o
-That drags
+Wastefully
+o-o
+that drags
 o-o
 down our
 o-o
@@ -600,29 +604,33 @@ o-o
 businesses.
 sentence-next
 o-o
-That hurts my
+I see that most
 o-o
-businesses.
+customers and
+o-o
+employees,
+o-o
+and even
+o-o
+Democrats,
+o-o
+aren't evil.
 sentence-next
 o-o
-I've realized
+I see there are
 o-o
-customers
+wise ways to get
 o-o
-aren't
+wider
 o-o
-evil people who
-o-o
-deserve to be
-o-o
-tricked.
+prosperity.
 sentence-next
 o-o
-I've ignored
+Without anyone
 o-o
-their claims of
+getting
 o-o
-suffering.
+overly fat.
 sentence-next
 o-o
 As for love,
@@ -638,7 +646,7 @@ sentence-next
 o-o
 Now I'm feeling
 o-o
-empty
+emptiness
 o-o
 in spite of
 o-o
@@ -658,6 +666,8 @@ to be.
 sentence-next
 o-o
 I want love
+o-o
+and joy
 o-o
 like
 o-o
@@ -679,9 +689,16 @@ o-o
 a good heart.
 sentence-next
 o-o
-Now you can make
+I'll shift my view
 o-o
-a wiser start.
+of the wealthy.
+sentence-next
+o-o
+So you can be
+o-o
+a part
+o-o
+of my world.
 end-lyric
 
 ambee sings-damien amenn

@@ -324,6 +324,8 @@ racists,
 o-o
 Nazis,
 o-o
+dimwits,
+o-o
 and liars.
 sentence-next
 o-o
@@ -339,17 +341,15 @@ communists,
 o-o
 tree huggers,
 o-o
-godless pagans,
-o-o
-foreigners,
+immigrants,
 o-o
 abortionists,
 o-o
 feminists,
 o-o
-witches,
-o-o
 Nazis,
+o-o
+dimwits,
 o-o
 and liars.
 sentence-next
