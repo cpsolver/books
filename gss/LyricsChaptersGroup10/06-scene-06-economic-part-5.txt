@@ -679,6 +679,18 @@ end-lyric
 
 ambee sings-damien amenn
 Selfies?
+sentence-next
+o-o
+Your time machine
+o-o
+just crashed.
+sentence-next
+o-o
+They didn't
+o-o
+have selfie
+o-o
+technology.
 end-lyric
 
 ambee sings-desha amenn

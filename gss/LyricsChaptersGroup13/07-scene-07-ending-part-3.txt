@@ -578,7 +578,7 @@ music,
 o-o
 and visual
 o-o
-pagentry,
+pageantry,
 o-o
 partly
 o-o

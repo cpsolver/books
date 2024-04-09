@@ -532,13 +532,17 @@ It's dawning
 o-o
 on me that
 o-o
-elections too
+turning the world
 o-o
-are supposed
+right side up
 o-o
-to turn the world
+also is the
 o-o
-right side up.
+purpose of
+o-o
+elections
+o-o
+and democracy.
 end-lyric
 
 ambee sings-damien amenn
@@ -555,9 +559,9 @@ o-o
 system.
 sentence-next
 o-o
-Their goal is
+Their selfishness
 o-o
-to squeeze
+squeezes
 o-o
 money from
 o-o
@@ -566,13 +570,13 @@ o-o
 customers.
 sentence-next
 o-o
-Wastefully
+That wasteful
 o-o
-that drags
+corruption
 o-o
-down our
+drags down
 o-o
-entire
+our entire
 o-o
 economy.
 end-lyric
@@ -604,24 +608,20 @@ o-o
 businesses.
 sentence-next
 o-o
-I see that most
+I'm learning that
 o-o
-customers and
+workers and
 o-o
-employees,
-o-o
-and even
-o-o
-Democrats,
+Democrats
 o-o
 aren't evil.
 sentence-next
 o-o
-I see there are
+And I see
 o-o
-wise ways to get
+there are wise ways
 o-o
-wider
+to get wider
 o-o
 prosperity.
 sentence-next
@@ -714,17 +714,11 @@ o-o
 what we all want.
 sentence-next
 o-o
-Hopefully
+Somehow we can
 o-o
-we can find a way
+begin to help
 o-o
-to promote
-o-o
-pairwise vote
-o-o
-counting
-o-o
-to turn the world
+turn the world
 o-o
 right hyphen-here side up!
 end-lyric

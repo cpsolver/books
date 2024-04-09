@@ -379,7 +379,7 @@ Like checkers
 o-o
 instead of
 o-o
-tic tac toe.
+tic-tac-toe.
 sentence-next
 o-o
 But we can't waste
