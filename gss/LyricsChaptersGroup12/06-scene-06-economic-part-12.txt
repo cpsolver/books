@@ -95,7 +95,7 @@ How does that work?
 end-lyric
 
 ambee sings-econhist amenn
-If it existed
+If it existed,
 o-o
 you could afford
 o-o
@@ -145,11 +145,11 @@ o-o
 patent number.
 sentence-next
 o-o
-You would add it to
+You would
 o-o
-your LinkedIn
+add it to
 o-o
-profile.
+your word-resume no-space .
 sentence-next
 o-o
 Then

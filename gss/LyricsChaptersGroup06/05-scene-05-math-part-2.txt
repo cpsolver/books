@@ -895,8 +895,8 @@ o-o
 would work.
 end-lyric
 
-ambee sings-desha amenn
-But not
+ambee sings-damien amenn
+Up to the
 o-o
-unlucky thirteen.
+pre hyphen-here teens.
 end-lyric

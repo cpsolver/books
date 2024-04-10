@@ -309,45 +309,36 @@ the gold.
 end-lyric
 
 ambee sings-damien amenn
-And the captain
+And the sailors
 o-o
-and crew got what?
+got what?
 end-lyric
 
 ambee sings-vc amenn
-Most of them got
-o-o
-just a
+Some got a
 o-o
 temporary pass
 o-o
-to the middle class.
+to the
+o-o
+middle class.
 sentence-next
 o-o
 Until they got
 o-o
-swindled or
+swindled.
+sentence-next
 o-o
-badly beaten
+Or badly beaten
 o-o
 in a
 o-o
 casino.
 sentence-next
 o-o
-Or stuck with
+Or married
 o-o
-child hyphen-here support and
-o-o
-alimony
-o-o
-payments
-o-o
-that could have bought
-o-o
-a nice house
-o-o
-on a hilltop.
+with kids.
 end-lyric
 
 ambee sings-damien amenn

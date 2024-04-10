@@ -345,54 +345,54 @@ What if the
 o-o
 instructions
 o-o
-don't allow those
+request no
 o-o
 overvotes?
 end-lyric
 
 ambee sings-mathprof amenn
-Then at least mark
+Then at least
 o-o
-one or two
+include marks
 o-o
-candidates
-o-o
-who have a good
-o-o
-chance of winning.
-end-lyric
-
-ambee sings-desha amenn
-Oh yeah.
-sentence-next
-o-o
-A ranking
-o-o
-ballot
-o-o
-gives us
-o-o
-more moves.
-sentence-next
-o-o
-Like checkers
-o-o
-instead of
-o-o
-tic-tac-toe.
-sentence-next
-o-o
-But we can't waste
-o-o
-all of it on
+for one or two
 o-o
 candidates
 o-o
-who can't win.
+who have a
+o-o
+good chance
+o-o
+of winning.
 end-lyric
 
 ambee sings-damien amenn
-Ranking
+I'm seeing that
+o-o
+adopting
+o-o
+ranked choice
+o-o
+ballots
+o-o
+is like
+o-o
+progressing
+o-o
+to checkers
+o-o
+from tic-tac-toe.
+sentence-next
+o-o
+With a much
+o-o
+better prize
+o-o
+for winning.
+end-lyric
+
+ambee sings-desha amenn
+Yet ranking
 o-o
 candidates
 o-o
@@ -409,15 +409,16 @@ o-o
 might stress out
 o-o
 some voters.
-sentence-next
-o-o
-Like me.
+end-lyric
+
+ambee sings-damien amenn
+That would be me.
 end-lyric
 
 ambee sings-mathprof amenn
 Fortunately
 o-o
-primary
+begin-italics primary end-italics
 o-o
 elections
 o-o

@@ -587,7 +587,7 @@ o-o
 a lot today.
 sentence-next
 o-o
-I see that my
+I realize my
 o-o
 customers,
 o-o
@@ -614,10 +614,10 @@ workers and
 o-o
 Democrats
 o-o
-aren't evil.
+are not evil.
 sentence-next
 o-o
-And I see
+I'm seeing
 o-o
 there are wise ways
 o-o
@@ -626,61 +626,18 @@ o-o
 prosperity.
 sentence-next
 o-o
-Without anyone
+Without
 o-o
-getting
+unhealthy
 o-o
-overly fat.
+side effects.
 sentence-next
 o-o
-As for love,
+My world too
 o-o
-I mistook
-o-o
-admiration
-o-o
-to be a weak
-o-o
-kind of love.
-sentence-next
-o-o
-Now I'm feeling
-o-o
-emptiness
-o-o
-in spite of
-o-o
-all I own.
-sentence-next
-o-o
-My world is
+has been
 o-o
 upside down.
-sentence-next
-o-o
-It's not the way
-o-o
-I want things
-o-o
-to be.
-sentence-next
-o-o
-I want love
-o-o
-and joy
-o-o
-like
-o-o
-everyone else.
-sentence-next
-o-o
-I too want to help
-o-o
-begin to turn
-o-o
-the world
-o-o
-right hyphen-here side up.
 end-lyric
 
 ambee sings-desha amenn
@@ -689,12 +646,13 @@ o-o
 a good heart.
 sentence-next
 o-o
-I'll shift my view
+I'm shifting
 o-o
-of the wealthy.
-sentence-next
+my view of
 o-o
-So you can be
+the wealthy
+o-o
+so you can be
 o-o
 a part
 o-o
@@ -712,24 +670,19 @@ o-o
 a way to merge
 o-o
 what we all want.
-sentence-next
-o-o
-Somehow we can
-o-o
-begin to help
-o-o
-turn the world
-o-o
-right hyphen-here side up!
 end-lyric
 
 ambee sings-desha amenn
 Yes!
 sentence-next
 o-o
-And let's start
+And let's
 o-o
-by joining forces
+you and I
+o-o
+start by
+o-o
+joining forces
 o-o
 together!
 sentence-next

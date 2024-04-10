@@ -561,7 +561,22 @@ o-o
 zero through nine.
 sentence-next
 o-o
-Pairwise
+And yet more
+o-o
+centuries passed
+o-o
+before that
+o-o
+innovation
+o-o
+was adopted
+o-o
+in Europe.
+sentence-next
+o-o
+Similarly,
+o-o
+pairwise
 o-o
 vote counting
 o-o
@@ -586,7 +601,7 @@ will marvel that
 o-o
 it's taking us
 o-o
-sooo long
+begin-italics sooo end-italics long
 o-o
 to adopt a
 o-o
