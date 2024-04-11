@@ -923,76 +923,64 @@ ambee sings-mathprof amenn
 Exactly.
 sentence-next
 o-o
+Some people
+o-o
+call that an
+o-o
+begin-italics overvote end-italics no-space .
+sentence-next
+o-o
 That's not
 o-o
 a problem for
 o-o
-pairwise
+begin-italics pairwise end-italics
 o-o
 vote counting.
 sentence-next
 o-o
 But in
 o-o
-Australia
+Australia,
 o-o
-they call that
+where a voter
 o-o
-an begin-italics overvote end-italics no-space .
+writes a
+o-o
+choice number
+o-o
+in a box,
+o-o
+and where
+o-o
+ballot counting
+o-o
+was done by hand
+o-o
+on election night,
+o-o
+they took a
+o-o
+shortcut.
 sentence-next
 o-o
-Their ballots
-o-o
-have a box
-o-o
-next to each
-o-o
-candidate's
-o-o
-name,
-o-o
-and a voter
-o-o
-writes a number
-o-o
-in each box.
-sentence-next
-o-o
-So an overvote
-o-o
-is when a voter
-o-o
-writes the
-o-o
-same number
-o-o
-more than once.
-sentence-next
-o-o
-Counting those
-o-o
-ballots by hand
-o-o
-on election night
-o-o
-was a lot of work.
-sentence-next
-o-o
-So when counting
+When counting
 o-o
 reached an
 o-o
 overvote,
 o-o
-they tossed
+the ballot
 o-o
-that ballot
+was tossed
 o-o
-onto an
+into an
 o-o
 overvote pile,
 o-o
-and ignored it.
+and the ballot
+o-o
+was ignored.
 end-lyric
 
 ambee sings-desha amenn

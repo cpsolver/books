@@ -331,39 +331,21 @@ end-lyric
 ambee sings-minister amenn
 If you're thinking
 o-o
-of wickedness
+of stories
 o-o
-in horror flicks,
+from news sources
 o-o
-super hyphen-here hero
+and social
 o-o
-comic books,
+media,
 o-o
-and murderous
+remember they
 o-o
-Voldemort,
+sell your eyes
 o-o
-that's all
+and your ears
 o-o
-fiction.
-end-lyric
-
-ambee sings-vc amenn
-What about
-o-o
-the news?
-end-lyric
-
-ambee sings-minister amenn
-News sources
-o-o
-sell your
-o-o
-eyeballs and
-o-o
-ears to
-o-o
-advertisers.
+to advertisers.
 sentence-next
 o-o
 So they choose
@@ -383,15 +365,6 @@ o-o
 and your
 o-o
 laughter.
-sentence-next
-o-o
-Social
-o-o
-media
-o-o
-has the same
-o-o
-priority.
 end-lyric
 
 ambee sings-vc amenn
@@ -420,89 +393,17 @@ o-o
 video.
 sentence-next
 o-o
-Yet vividly
+But what about
 o-o
-from childhood
+the evil during
 o-o
-I remember
-o-o
-hearing priests
-o-o
-yelling in anger
-o-o
-against
-o-o
-the devil
-o-o
-to stop tempting
-o-o
-us mortal souls.
+the Holocaust?
 end-lyric
 
 ambee sings-minister amenn
-Drama and fear
+European
 o-o
-attracts
-o-o
-bigger
-o-o
-congregations.
-sentence-next
-o-o
-And bigger
-o-o
-donations.
-end-lyric
-
-ambee sings-vc amenn
-What about the
-o-o
-Holocaust?
-end-lyric
-
-ambee sings-minister amenn
-During a time of
-o-o
-nationwide
-o-o
-starvation,
-o-o
-and massive
-o-o
-economic
-o-o
-suffering,
-o-o
-plus mass
-o-o
-stupidity,
-o-o
-the Nazi
-o-o
-government
-o-o
-encouraged
-o-o
-non hyphen-here Jewish
-o-o
-Germans
-o-o
-to steal gold
-o-o
-and cash and
-o-o
-houses and
-o-o
-businesses
-o-o
-and dignity
-o-o
-from Jews.
-sentence-next
-o-o
-Ironically
-o-o
-Jews had became
+Jews became
 o-o
 wealthy
 o-o
@@ -534,19 +435,39 @@ o-o
 living in
 o-o
 ghettos.
+sentence-next
+o-o
+So during
+o-o
+a time of
+o-o
+nationwide
+o-o
+starvation,
+o-o
+and massive
+o-o
+economic
+o-o
+suffering,
+o-o
+plus mass
+o-o
+stupidity,
+o-o
+the Nazi
+o-o
+government
+o-o
+encouraged
+o-o
+stealing
+o-o
+from Jews.
 end-lyric
 
 ambee sings-vc amenn
-That religious
-o-o
-clash
-o-o
-about cash
-o-o
-is mind hyphen-here popping.
-sentence-next
-o-o
-Yet surely
+Surely
 o-o
 there's no excuse
 o-o
@@ -580,21 +501,6 @@ o-o
 getting
 o-o
 infected.
-sentence-next
-o-o
-Yet all of us,
-o-o
-even them,
-o-o
-began our time
-o-o
-in the womb
-o-o
-feeling
-o-o
-unconditional
-o-o
-joy.
 sentence-next
 o-o
 Fortunately,

@@ -320,7 +320,11 @@ o-o
 government jobs.
 sentence-next
 o-o
-That efficiency
+That way of
+o-o
+avoiding
+o-o
+nepotism
 o-o
 became practical
 o-o
@@ -333,7 +337,9 @@ o-o
 system.
 sentence-next
 o-o
-The abacus
+Of course
+o-o
+the abacus
 o-o
 gave them
 o-o
@@ -344,11 +350,13 @@ o-o
 calculations.
 sentence-next
 o-o
-Those
+Those two
 o-o
-innovations
+innovative
 o-o
-gave them big
+efficiencies
+o-o
+were big
 o-o
 advantages
 o-o

@@ -935,7 +935,7 @@ what you said
 o-o
 earlier
 o-o
-father,
+Father,
 o-o
 I mean name-minister no-space .
 sentence-next

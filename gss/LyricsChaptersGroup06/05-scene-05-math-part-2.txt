@@ -898,5 +898,5 @@ end-lyric
 ambee sings-damien amenn
 Up to the
 o-o
-pre hyphen-here teens.
+preteens.
 end-lyric

@@ -1,113 +1,141 @@
+ambee sings-father-of-fiance-firstuse amenn
+begin-explain Knock on door, door opens. end-explain
+o-o
+...
+sentence-next
+o-o
+Hello my friend!
+sentence-next
+o-o
+To help you mend
+o-o
+I brought you some
+o-o
+beautiful flowers.
+end-lyric
+
 ambee sings-vc amenn
-Now my head is
+Ah,
 o-o
-spinning.
+Mister
+o-o
+name-father-of-fiance no-space ,
+o-o
+indeed welcome.
 sentence-next
 o-o
-Without money
+Visiting hours
 o-o
-as a compass
-o-o
-I'm lost.
+can be lonely.
 sentence-next
 o-o
-And winning.
+And thank you
+o-o
+for spending the,
+o-o
+er, for thinking
+o-o
+to bring flowers.
 sentence-next
 o-o
-That's the only
+...
+sentence-next
 o-o
-goal I know.
+They are
+o-o
+beautiful.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+I see you have
+o-o
+recruited a minister
+o-o
+to be more sure
+o-o
+of your cure.
+end-lyric
+
+ambee sings-vc amenn
+Allow me to introduce
+o-o
+Father, er,
+o-o
+actually I now
+o-o
+realize I don't
+o-o
+remember
+o-o
+your name.
 end-lyric
 
 ambee sings-minister amenn
-Ah, yes,
+You can call me ...
+end-lyric
+
+ambee sings-vc amenn
+Everyone calls him
 o-o
-winning.
+Father.
 sentence-next
 o-o
-Parents and
+It's okay if he calls
 o-o
-teachers
-o-o
-use gold stars
-o-o
-to entice
-o-o
-kids to learn
-o-o
-to write.
+you Father?
+end-lyric
+
+ambee sings-minister amenn
+Of course.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Hello Father.
 sentence-next
 o-o
-Employers use
+And name-vc no-space ,
 o-o
-employee hyphen-here of hyphen-here the hyphen-here month
+I look forward to
 o-o
-perks to
+your recovery
 o-o
-motivate
+so we can resume
 o-o
-employees
+our latest project.
+end-lyric
+
+ambee sings-vc amenn
+Let's not talk shop
 o-o
-to obey their
-o-o
-alarm clocks.
+just right now.
 sentence-next
 o-o
-The movie
+I need to
 o-o
-industry
+focus on
 o-o
-and Broadway
+the joy of
 o-o
-use award galas
+still being
 o-o
-to promote
-o-o
-high hyphen-here priced
-o-o
-entertainment.
+alive.
 sentence-next
 o-o
-But with
+Stressful things
 o-o
-maturity
+can come later,
 o-o
-we leave behind
+if I survive.
+end-lyric
+
+ambee sings-minister amenn
+What other
 o-o
-the gold stars,
+spiritual
 o-o
-the shiny
+perspectives
 o-o
-trophies,
-o-o
-and even the
-o-o
-dream of
-o-o
-attracting a
-o-o
-huge audience.
-sentence-next
-o-o
-The real prizes
-o-o
-are the skills
-o-o
-you've learned.
-sentence-next
-o-o
-With your skills
-o-o
-you can win the
-o-o
-grand prize.
-sentence-next
-o-o
-That's the smile
-o-o
-you bring to
-o-o
-someone's eyes.
+can I offer?
 end-lyric
 
 ambee sings-vc amenn
@@ -206,309 +234,6 @@ o-o
 your life.
 end-lyric
 
-ambee sings-father-of-fiance-firstuse amenn
-begin-explain Knock on door, door opens. end-explain
-o-o
-...
-sentence-next
-o-o
-Hello my friend!
-sentence-next
-o-o
-To help you mend
-o-o
-I brought you some
-o-o
-beautiful flowers.
-end-lyric
-
-ambee sings-vc amenn
-Ah,
-o-o
-Mister
-o-o
-name-father-of-fiance no-space ,
-o-o
-indeed welcome.
-sentence-next
-o-o
-Visiting hours
-o-o
-can be lonely.
-sentence-next
-o-o
-And thank you
-o-o
-for spending the,
-o-o
-er, for thinking
-o-o
-to bring flowers.
-sentence-next
-o-o
-...
-sentence-next
-o-o
-They are
-o-o
-beautiful.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-I see you have
-o-o
-recruited a minister
-o-o
-to be more sure
-o-o
-of your cure.
-end-lyric
-
-ambee sings-vc amenn
-Allow me to introduce
-o-o
-father, er,
-o-o
-actually I now
-o-o
-realize I don't
-o-o
-remember
-o-o
-your name.
-end-lyric
-
-ambee sings-minister amenn
-You can call me ...
-end-lyric
-
-ambee sings-vc amenn
-Everyone calls him
-o-o
-father.
-sentence-next
-o-o
-It's okay if he calls
-o-o
-you father?
-end-lyric
-
-ambee sings-minister amenn
-Of course.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-Hello father.
-sentence-next
-o-o
-And name-vc no-space ,
-o-o
-I look forward to
-o-o
-your recovery
-o-o
-so we can resume
-o-o
-our latest project.
-end-lyric
-
-ambee sings-vc amenn
-Let's not talk shop
-o-o
-just right now.
-sentence-next
-o-o
-I need to focus on
-o-o
-how to breathe
-o-o
-in the joy
-o-o
-of still being
-o-o
-alive.
-sentence-next
-o-o
-Stressful things
-o-o
-can come later,
-o-o
-if I survive.
-end-lyric
-
-ambee sings-minister amenn
-What other
-o-o
-protective
-o-o
-perspectives
-o-o
-can I offer?
-end-lyric
-
-ambee sings-vc amenn
-How can God be
-o-o
-everywhere?
-sentence-next
-o-o
-How can I
-o-o
-be sure that
-o-o
-God even cares
-o-o
-about me?
-end-lyric
-
-ambee sings-minister amenn
-You can hear
-o-o
-God laughing
-o-o
-whenever
-o-o
-you make plans.
-sentence-next
-o-o
-Also consider
-o-o
-thinking of God
-o-o
-as being like the
-o-o
-principles of
-o-o
-mathematics.
-end-lyric
-
-ambee sings-vc amenn
-Elusive?
-sentence-next
-o-o
-How is that
-o-o
-helpful?
-end-lyric
-
-ambee sings-minister amenn
-If you live
-o-o
-your life as if
-o-o
-two plus two
-o-o
-equals twenty two
-o-o
-then life
-o-o
-becomes hell.
-sentence-next
-o-o
-But if instead
-o-o
-you live your life
-o-o
-as if
-o-o
-two plus two
-o-o
-equals four,
-o-o
-you'll live in
-o-o
-harmony
-o-o
-with others
-o-o
-who share
-o-o
-that same
-o-o
-perspective.
-sentence-next
-o-o
-That's how God
-o-o
-is everywhere.
-sentence-next
-o-o
-Just as the principles
-o-o
-of mathematics
-o-o
-are everywhere.
-end-lyric
-
-ambee sings-vc amenn
-I like that
-o-o
-outlook.
-sentence-next
-o-o
-Why have I not
-o-o
-heard you say it
-o-o
-from your perch,
-o-o
-your pulpit
-o-o
-in church?
-end-lyric
-
-ambee sings-minister amenn
-There are some things
-o-o
-we can't preach.
-end-lyric
-
-ambee sings-vc amenn
-What else can
-o-o
-you not say in
-o-o
-church?
-end-lyric
-
-ambee sings-minister amenn
-We can't speak out
-o-o
-against warfare.
-sentence-next
-o-o
-Not even to say
-o-o
-it's worse than
-o-o
-abortion.
-sentence-next
-o-o
-That would impair
-o-o
-our tax hyphen-here exempt
-o-o
-status.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-That's right!
-sentence-next
-o-o
-Churches don't pay
-o-o
-property
-o-o
-taxes.
-sentence-next
-o-o
-Maybe I should
-o-o
-form a church to
-o-o
-get that sweet deal.
-end-lyric
-
 ambee sings-fiance-firstuse amenn
 begin-explain Door opens and closes. end-explain
 o-o
@@ -539,7 +264,7 @@ end-lyric
 ambee sings-father-of-fiance amenn
 name-vc no-space ,
 o-o
-and father,
+and Father,
 o-o
 allow me to
 o-o
@@ -597,263 +322,194 @@ Go ahead.
 end-lyric
 
 ambee sings-father-of-fiance amenn
-My wife
+Why do
 o-o
-tells me
+religious
 o-o
-my boasting
+organizations
 o-o
-would make
+get tax
 o-o
-a peacock
-o-o
-blush.
+exemptions?
 sentence-next
 o-o
-She says
+Especially
 o-o
-I should be
+since religion
 o-o
-more humble
-o-o
-like Jesus,
-o-o
-who was just
-o-o
-a lowly
-o-o
-carpenter.
+seems so, ...
 sentence-next
 o-o
-What can I
+well, ...
+sentence-next
 o-o
-say to her
-o-o
-to make her
-o-o
-understand
-o-o
-that pride
-o-o
-naturally
-o-o
-follows
-o-o
-from doing
-o-o
-great things?
+antiquated.
 end-lyric
 
 ambee sings-minister amenn
-To set
+Keep in mind,
 o-o
-the record
+that long ago,
 o-o
-straight,
+singing in church
 o-o
-Jesus
+brought music
 o-o
-probably
+to farmers
 o-o
-was not just a
-o-o
-lowly
-o-o
-carpenter.
+and workers.
 sentence-next
 o-o
-He grew up in
+Unfortunately
 o-o
-Nazareth.
+churches lost
+o-o
+that musical
+o-o
+advantage.
 sentence-next
 o-o
-Trees do not
+First to
 o-o
-grow there.
-end-lyric
-
-ambee sings-vc amenn
-Jesus Christ!
+phonographs.
 sentence-next
 o-o
-In church
-o-o
-you refer
-o-o
-to him as a
-o-o
-carpenter.
-end-lyric
-
-ambee sings-minister amenn
-Here in the U.S.,
-o-o
-Christians
-o-o
-read the bible
-o-o
-in English.
+Then radios.
 sentence-next
 o-o
-The original
+And now smartphones
 o-o
-word in
-o-o
-ancient Greek
-o-o
-is ambiguous.
+and televisions.
 sentence-next
 o-o
-Besides
+Fortunately
 o-o
-carpenter
+people who love
 o-o
-it could have
+to sing together
 o-o
-referred to
+still gather
 o-o
-a stone mason,
+in our
 o-o
-ship builder,
-o-o
-or blacksmith.
-sentence-next
-o-o
-Back then,
-o-o
-those were
-o-o
-high tech
-o-o
-vocations.
-end-lyric
-
-ambee sings-vc amenn
-Considering
-o-o
-geography,
-o-o
-portability,
-o-o
-and intelligence,
-o-o
-a stone mason
-o-o
-makes more sense.
-sentence-next
-o-o
-About the boasting,
-o-o
-I admit
-o-o
-sometimes
-o-o
-I do it.
-sentence-next
-o-o
-So what's your
-o-o
-wisdom on
-o-o
-self hyphen-here promoting?
-end-lyric
-
-ambee sings-minister amenn
-Boasting reveals
-o-o
-a big ego,
-o-o
-which conceals
-o-o
-low self esteem.
-sentence-next
-o-o
-It's a displayed
-o-o
-kind of pride.
-sentence-next
-o-o
-True self love
-o-o
-is built
-o-o
-from inside.
-sentence-next
-o-o
-And it's
-o-o
-foundational
-o-o
-because
-o-o
-you can't love
-o-o
-others
-o-o
-more than you love
-o-o
-yourself.
-end-lyric
-
-ambee sings-father-of-fiance amenn
-I disagree!
-sentence-next
-o-o
-I don't have
-o-o
-low self hyphen-here esteem!
-sentence-next
-o-o
-I'm proud of what
-o-o
-I accomplish.
-sentence-next
-o-o
-The
-o-o
-money I earn
-o-o
-should make it clear
-o-o
-I'm loved
-o-o
-for what I do.
-end-lyric
-
-ambee sings-minister amenn
-Here's a
-o-o
-related
-o-o
-perspective.
-sentence-next
-o-o
-Does your wife
-o-o
-boast?
-sentence-next
-o-o
-Typically
-o-o
-a criticism
-o-o
-reveals more
-o-o
-about the
-o-o
-accuser
-o-o
-than the
-o-o
-accusee.
+worship hall.
 end-lyric
 
 ambee sings-fiance amenn
-Mom does brag
+Churches
 o-o
-she has an
+used to feed
 o-o
-entire closet
+the hungry.
+sentence-next
 o-o
-just for her shoes.
+Now grocery stores
+o-o
+get paid by
+o-o
+taxpayers
+o-o
+to do it.
+sentence-next
+o-o
+So that's another
+o-o
+advantage lost?
+end-lyric
+
+ambee sings-minister amenn
+Sadly,
+o-o
+for reasons of
+o-o
+attendance,
+o-o
+yes.
+end-lyric
+
+ambee sings-father-of-fiance amenn
+Damn handouts!
+sentence-next
+o-o
+At my expense
+o-o
+no less.
+end-lyric
+
+ambee sings-minister amenn
+Marriage
+o-o
+ceremonies
+o-o
+used to be
+o-o
+a big
+o-o
+monopoly
+o-o
+churches had,
+o-o
+then lost.
+sentence-next
+o-o
+Now governments
+o-o
+perform marriage
+o-o
+as a civil
+o-o
+ceremony.
+sentence-next
+o-o
+Originally
+o-o
+schools and
+o-o
+universities
+o-o
+and hospitals
+o-o
+were founded
+o-o
+by churches
+o-o
+and mosques.
+sentence-next
+o-o
+Now,
+o-o
+governments
+o-o
+fund those too.
+end-lyric
+
+ambee sings-vc amenn
+So government
+o-o
+is taking over
+o-o
+increasing
+o-o
+morality
+o-o
+and
+o-o
+civility?
+end-lyric
+
+ambee sings-minister amenn
+Only some of it!
+sentence-next
+o-o
+What goes on
+o-o
+in Washington
+o-o
+DC is
+o-o
+very far from
+o-o
+spiritual
+o-o
+maturity.
 end-lyric

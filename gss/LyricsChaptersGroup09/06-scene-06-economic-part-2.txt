@@ -915,9 +915,9 @@ a studio
 o-o
 apartment,
 o-o
-an RV,
+used RV,
 o-o
-or a tent.
+or tent.
 end-lyric
 
 ambee sings-damien amenn

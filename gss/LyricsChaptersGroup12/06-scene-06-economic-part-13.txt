@@ -345,6 +345,29 @@ o-o
 of my cousins
 o-o
 who live in India.
+end-lyric
+
+ambee sings-desha amenn
+We'll fight
+o-o
+to make it
+o-o
+happen!
+end-lyric
+
+ambee sings-econhist amenn
+Do your fighting
+o-o
+without hurting
+o-o
+anyone.
+sentence-next
+o-o
+This is not like
+o-o
+the French
+o-o
+revolution.
 sentence-next
 o-o
 The few who lose
@@ -364,17 +387,22 @@ acquired.
 end-lyric
 
 ambee sings-desha amenn
-We will fight
+We won't allow
 o-o
-to turn the world
+anybody
 o-o
-right hyphen-here side up.
+to lose
+o-o
+their head.
+sentence-next
+o-o
+We'll fight
+o-o
+with words!
 end-lyric
 
 ambee sings-damien amenn
-Yes,
-o-o
-we'll do our best
+We'll do our best
 o-o
 to turn the worlds
 o-o
