@@ -883,30 +883,7 @@ employees more.
 end-lyric
 
 ambee sings-desha amenn
-Not that I care
-o-o
-about income
-o-o
-for your business,
-o-o
-but a wage hyphen-here gap
-o-o
-tax break
-o-o
-might reduce
-o-o
-what you pay
-o-o
-to contractors
-o-o
-who pay their
-o-o
-workers better.
-sentence-next
-o-o
-For sure
-o-o
-it will reduce
+It will reduce
 o-o
 the size of
 o-o

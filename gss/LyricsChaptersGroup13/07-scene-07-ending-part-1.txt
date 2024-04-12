@@ -393,84 +393,7 @@ o-o
 video.
 sentence-next
 o-o
-But what about
-o-o
-the evil during
-o-o
-the Holocaust?
-end-lyric
-
-ambee sings-minister amenn
-European
-o-o
-Jews became
-o-o
-wealthy
-o-o
-because early
-o-o
-Christian leaders
-o-o
-declared
-o-o
-it was a sin
-o-o
-for Christians
-o-o
-to charge
-o-o
-interest
-o-o
-on loans.
-sentence-next
-o-o
-So those early
-o-o
-Christians
-o-o
-borrowed money
-o-o
-from Jews
-o-o
-living in
-o-o
-ghettos.
-sentence-next
-o-o
-Later,
-o-o
-during a time
-o-o
-of no money
-o-o
-in Germany,
-o-o
-those Jews
-o-o
-were robbed
-o-o
-like a bank.
-sentence-next
-o-o
-It's an example
-o-o
-of a saying.
-o-o
-begin-italics Never attribute
-o-o
-to malice
-o-o
-that which is
-o-o
-adequately
-o-o
-explained by
-o-o
-stupidity end-italics no-space .
-end-lyric
-
-ambee sings-vc amenn
-Surely
+Yet surely
 o-o
 there's no excuse
 o-o
@@ -488,11 +411,7 @@ end-lyric
 ambee sings-minister amenn
 Alas,
 o-o
-those murderers
-o-o
-and dictators
-o-o
-do cling to
+they do cling to
 o-o
 the disease
 o-o

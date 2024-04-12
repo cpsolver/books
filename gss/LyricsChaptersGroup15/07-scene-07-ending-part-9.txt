@@ -272,7 +272,9 @@ jealous?
 end-lyric
 
 ambee sings-desha amenn
-We're willing
+We might be
+o-o
+willing
 o-o
 to share.
 end-lyric
@@ -617,7 +619,7 @@ o-o
 are not evil.
 sentence-next
 o-o
-I'm seeing
+And I'm seeing
 o-o
 there are wise ways
 o-o
@@ -626,18 +628,10 @@ o-o
 prosperity.
 sentence-next
 o-o
-Without
-o-o
-unhealthy
-o-o
-side effects.
+And less crime.
 sentence-next
 o-o
-My world too
-o-o
-has been
-o-o
-upside down.
+And more joy.
 end-lyric
 
 ambee sings-desha amenn
@@ -646,17 +640,16 @@ o-o
 a good heart.
 sentence-next
 o-o
-I'm shifting
+Except for
+o-o
+the attack part.
+sentence-next
+o-o
+So I'm shifting
 o-o
 my view of
 o-o
-the wealthy
-o-o
-so you can be
-o-o
-a part
-o-o
-of my world.
+the wealthy.
 end-lyric
 
 ambee sings-damien amenn

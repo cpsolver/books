@@ -336,9 +336,7 @@ o-o
 casino.
 sentence-next
 o-o
-Or married
-o-o
-with kids.
+Or married.
 end-lyric
 
 ambee sings-damien amenn

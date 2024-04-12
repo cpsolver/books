@@ -379,32 +379,34 @@ is like
 o-o
 progressing
 o-o
-to checkers
+from tic-tac-toe
 o-o
-from tic-tac-toe.
-sentence-next
-o-o
-With a much
-o-o
-better prize
-o-o
-for winning.
+to checkers.
 end-lyric
 
 ambee sings-desha amenn
-Yet ranking
+Yeah,
+o-o
+a bit of learning
+o-o
+is required.
+sentence-next
+o-o
+Yet I'm thinking
+o-o
+that ranking
 o-o
 candidates
 o-o
-twice,
-o-o
-once in the
+both in the
 o-o
 primary
 o-o
-and once in the
+and in the
 o-o
-general election,
+general
+o-o
+election
 o-o
 might stress out
 o-o
