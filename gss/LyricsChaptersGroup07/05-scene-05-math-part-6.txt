@@ -367,7 +367,7 @@ of winning.
 end-lyric
 
 ambee sings-damien amenn
-I'm seeing that
+I see that
 o-o
 adopting
 o-o
@@ -382,39 +382,26 @@ o-o
 from tic-tac-toe
 o-o
 to checkers.
-end-lyric
-
-ambee sings-desha amenn
-Yeah,
-o-o
-a bit of learning
-o-o
-is required.
 sentence-next
 o-o
-Yet I'm thinking
+There's a
 o-o
-that ranking
+learning curve.
+sentence-next
 o-o
-candidates
+The only part
 o-o
-both in the
+that scares me
 o-o
-primary
+is having
 o-o
-and in the
+to rank
 o-o
-general
+lots and lots
 o-o
-election
+of candidates
 o-o
-might stress out
-o-o
-some voters.
-end-lyric
-
-ambee sings-damien amenn
-That would be me.
+in the primary.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -699,6 +686,19 @@ o-o
 to the next
 o-o
 person.
+end-lyric
+
+ambee sings-damien amenn
+Tally?
+sentence-next
+o-o
+Is that like
+o-o
+tallyho
+o-o
+without the
+o-o
+prostitute?
 end-lyric
 
 ambee sings-desha amenn

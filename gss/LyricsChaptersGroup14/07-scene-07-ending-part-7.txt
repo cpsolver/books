@@ -319,7 +319,7 @@ o-o
 is upside down.
 sentence-next
 o-o
-Most taker
+Lots of taker
 o-o
 businesses,
 o-o
@@ -328,9 +328,11 @@ o-o
 get low tax burdens.
 sentence-next
 o-o
-That crushes the
+That crushes
 o-o
-small maker
+lots of small
+o-o
+maker
 o-o
 businesses.
 sentence-next
@@ -883,9 +885,13 @@ employees more.
 end-lyric
 
 ambee sings-desha amenn
-It will reduce
+If you choose
 o-o
-the size of
+contractors
+o-o
+who do it,
+o-o
+that will reduce
 o-o
 taxpayer hyphen-here supported
 o-o
@@ -894,7 +900,11 @@ o-o
 handouts.
 sentence-next
 o-o
-The ones you
+The ones that
+o-o
+people like you
+o-o
+love to
 o-o
 complain
 o-o

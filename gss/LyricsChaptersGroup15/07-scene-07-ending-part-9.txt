@@ -640,9 +640,9 @@ o-o
 a good heart.
 sentence-next
 o-o
-Except for
+Aside from the
 o-o
-the attack part.
+attack part.
 sentence-next
 o-o
 So I'm shifting
