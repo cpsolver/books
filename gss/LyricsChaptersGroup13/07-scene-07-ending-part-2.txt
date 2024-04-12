@@ -72,6 +72,8 @@ end-lyric
 
 ambee sings-minister amenn
 You can call me ...
+o-o
+begin-explain interrupted end-explain
 end-lyric
 
 ambee sings-vc amenn
@@ -347,26 +349,44 @@ antiquated.
 end-lyric
 
 ambee sings-minister amenn
-Keep in mind,
+Churches bring
 o-o
-that long ago,
-o-o
-singing in church
-o-o
-brought music
-o-o
-to farmers
-o-o
-and workers.
+lots of benefits.
 sentence-next
 o-o
-Unfortunately
+For example,
+o-o
+long ago,
+o-o
+farmers
+o-o
+and workers
+o-o
+were too poor
+o-o
+to hire musicians.
+sentence-next
+o-o
+So singing
+o-o
+in church
+o-o
+on Sundays
+o-o
+brought beautiful
+o-o
+music
+o-o
+to their ears.
+sentence-next
+o-o
+Alas,
 o-o
 churches lost
 o-o
 that musical
 o-o
-advantage.
+monopoly.
 sentence-next
 o-o
 First to

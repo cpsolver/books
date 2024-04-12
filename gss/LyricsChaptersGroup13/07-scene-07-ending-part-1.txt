@@ -297,12 +297,12 @@ not me,
 o-o
 who has to fit
 o-o
-inside
+through
 o-o
 that slit.
 sentence-next
 o-o
-Now I admit
+Admittedly
 o-o
 my spiritual
 o-o
@@ -437,33 +437,36 @@ o-o
 ghettos.
 sentence-next
 o-o
-So during
+Later,
 o-o
-a time of
+during a time
 o-o
-nationwide
+of no money
 o-o
-starvation,
+in Germany,
 o-o
-and massive
+those Jews
 o-o
-economic
+were robbed
 o-o
-suffering,
+like a bank.
+sentence-next
 o-o
-plus mass
+It's an example
 o-o
-stupidity,
+of a saying.
 o-o
-the Nazi
+begin-italics Never attribute
 o-o
-government
+to malice
 o-o
-encouraged
+that which is
 o-o
-stealing
+adequately
 o-o
-from Jews.
+explained by
+o-o
+stupidity end-italics no-space .
 end-lyric
 
 ambee sings-vc amenn
@@ -555,11 +558,7 @@ o-o
 are rigged.
 sentence-next
 o-o
-That isn't
-o-o
-a real
-o-o
-democracy.
+How real is that?
 end-lyric
 
 ambee sings-vc amenn
