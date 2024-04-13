@@ -878,25 +878,35 @@ o-o
 than three.
 sentence-next
 o-o
-And when there are
+And six
 o-o
-lots and lots of
-o-o
-candidates
-o-o
-then up to
-o-o
-about twelve
+or seven
 o-o
 preference
 o-o
-levels
+levels work
 o-o
-would work.
-end-lyric
-
-ambee sings-damien amenn
-Up to the
+even better.
+sentence-next
 o-o
-preteens.
+Yet just
+o-o
+collecting
+o-o
+more information
+o-o
+isn't enough.
+sentence-next
+o-o
+How the information
+o-o
+is counted to
+o-o
+identify a
+o-o
+winner is so
+o-o
+important to
+o-o
+get right.
 end-lyric

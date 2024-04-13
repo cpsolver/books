@@ -103,9 +103,10 @@ to register
 o-o
 your idea with
 o-o
-the patent office
+the patent office.
+sentence-next
 o-o
-without
+Without
 o-o
 mortgaging
 o-o
@@ -138,18 +139,13 @@ o-o
 invented.
 sentence-next
 o-o
-What you get
+You would put your
 o-o
-would be a
+patent number
 o-o
-patent number.
-sentence-next
+on your
 o-o
-You would
-o-o
-add it to
-o-o
-your word-resume no-space .
+word-resume no-space .
 sentence-next
 o-o
 Then

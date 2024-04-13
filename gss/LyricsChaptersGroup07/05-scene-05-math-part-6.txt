@@ -474,13 +474,16 @@ ambee sings-mathprof amenn
 Not necessarily.
 sentence-next
 o-o
-But if vote splitting
+Yet that threshold
 o-o
-is happening,
+is good enough.
+sentence-next
 o-o
-that splitting
+Because
 o-o
-is among
+vote splitting
+o-o
+occurs among
 o-o
 candidates
 o-o
@@ -692,7 +695,7 @@ ambee sings-damien amenn
 Tally?
 sentence-next
 o-o
-Is that like
+Is this
 o-o
 tallyho
 o-o

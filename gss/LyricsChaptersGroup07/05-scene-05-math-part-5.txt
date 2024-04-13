@@ -939,15 +939,15 @@ o-o
 vote counting.
 sentence-next
 o-o
-However instant
+But instant
 o-o
 runoff voting
 o-o
 needs extra
 o-o
-effort to
+effort to count
 o-o
-count them.
+that pattern.
 sentence-next
 o-o
 In Australia,
