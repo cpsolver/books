@@ -939,9 +939,18 @@ o-o
 vote counting.
 sentence-next
 o-o
-But in
+However instant
 o-o
-Australia,
+runoff voting
+o-o
+needs extra
+o-o
+effort to
+o-o
+count them.
+sentence-next
+o-o
+In Australia,
 o-o
 where a voter
 o-o

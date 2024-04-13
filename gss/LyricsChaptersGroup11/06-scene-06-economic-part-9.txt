@@ -663,18 +663,55 @@ end-lyric
 ambee sings-econhist amenn
 And I'll include
 o-o
-an interesting
+a link to
 o-o
-idea for
+an innovative
 o-o
-reducing crime.
+movie and
+o-o
+video game
+o-o
+rating that could
+o-o
+reduce crime.
+sentence-next
+o-o
+The added rating
+o-o
+would indicate
+o-o
+how many years
+o-o
+a person would
+o-o
+spend in prison
+o-o
+if they did
+o-o
+everything
+o-o
+shown on
+o-o
+the screen.
+end-lyric
+
+ambee sings-desha amenn
+begin-explain Chuckles end-explain
+sentence-next
+o-o
+I love it!
 end-lyric
 
 ambee sings-damien amenn
+begin-explain Chuckles end-explain
+sentence-next
+o-o
 Wow!
 sentence-next
 o-o
-This makes my
+All of this
+o-o
+makes my
 o-o
 gutter cleaning
 o-o

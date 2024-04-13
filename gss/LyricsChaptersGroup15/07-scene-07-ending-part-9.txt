@@ -478,7 +478,8 @@ Ashinhole Avenue.
 end-lyric
 
 ambee sings-vc amenn
-begin-explain Chuckles. end-explain
+begin-explain Chuckles end-explain
+sentence-next
 o-o
 name-minister
 o-o

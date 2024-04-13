@@ -267,20 +267,20 @@ end-lyric
 ambee sings-damien amenn
 Twenty rows
 o-o
-of ovals?
+of ovals
+o-o
+would look like
+o-o
+a mess.
 sentence-next
 o-o
-This reminds me
+It reminds me
 o-o
-of struggling
+of learning
 o-o
-to learn
+to play
 o-o
-how to play
-o-o
-checkers
-o-o
-and chess.
+chess.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -391,7 +391,7 @@ sentence-next
 o-o
 The only part
 o-o
-that scares me
+that still scares me
 o-o
 is having
 o-o
