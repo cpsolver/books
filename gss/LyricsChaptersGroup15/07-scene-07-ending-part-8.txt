@@ -382,7 +382,7 @@ sentence-next
 o-o
 Most are for the
 o-o
-kitchen food prep
+kitchen food hyphen-here prep
 o-o
 appliance
 o-o
@@ -445,7 +445,7 @@ bachelor,
 o-o
 a kitchen
 o-o
-food prep machine
+food hyphen-here prep machine
 o-o
 sounds useful.
 sentence-next
@@ -454,13 +454,13 @@ Especially
 o-o
 now that
 o-o
-my food prep
+my food hyphen-here prep
 o-o
 routine
 o-o
 won't be
 o-o
-to open
+opening
 o-o
 containers
 o-o
@@ -701,9 +701,13 @@ if that's necessary.
 end-lyric
 
 ambee sings-fiance amenn
-This puts me in
+This decision
 o-o
-an awkward place.
+puts me in an
+o-o
+awkward
+o-o
+position.
 end-lyric
 
 ambee sings-damien amenn

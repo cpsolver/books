@@ -348,17 +348,43 @@ who live in India.
 end-lyric
 
 ambee sings-desha amenn
-We'll fight
+We'll start a
 o-o
-to make it
-o-o
-happen!
+revolution!
 end-lyric
 
 ambee sings-econhist amenn
-In this
+Just fight with words.
+sentence-next
 o-o
-revolution,
+Not physical
+o-o
+weapons.
+end-lyric
+
+ambee sings-desha amenn
+We won't allow
+o-o
+anybody
+o-o
+to lose
+o-o
+their head.
+sentence-next
+o-o
+Anyway,
+o-o
+fighting unfairly
+o-o
+would undermine
+o-o
+a fight for
+o-o
+fairness.
+end-lyric
+
+ambee sings-econhist amenn
+In this fight
 o-o
 the few who lose
 o-o
@@ -374,21 +400,6 @@ o-o
 already
 o-o
 acquired.
-end-lyric
-
-ambee sings-desha amenn
-We won't allow
-o-o
-anybody
-o-o
-to lose
-o-o
-their head.
-sentence-next
-o-o
-We'll fight
-o-o
-with words!
 end-lyric
 
 ambee sings-damien amenn

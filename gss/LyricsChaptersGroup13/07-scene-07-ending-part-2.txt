@@ -187,20 +187,6 @@ o-o
 hides.
 sentence-next
 o-o
-Let go of
-o-o
-having been mocked
-o-o
-for wearing
-o-o
-wool socks
-o-o
-with sandals.
-sentence-next
-o-o
-In public.
-sentence-next
-o-o
 Let go of plans
 o-o
 to use a
@@ -211,11 +197,16 @@ to triumph
 o-o
 over people
 o-o
-who have
+who mocked you
 o-o
-forgotten
+for wearing
 o-o
-your name.
+wool socks
+o-o
+with sandals.
+sentence-next
+o-o
+In public.
 sentence-next
 o-o
 Let go of
@@ -279,6 +270,9 @@ end-lyric
 
 ambee sings-minister amenn
 Pleased to meet you.
+sentence-next
+o-o
+begin-explain Starting now, on his smartphone, he sends a very short text. end-explain
 end-lyric
 
 ambee sings-vc amenn
@@ -349,14 +343,29 @@ antiquated.
 end-lyric
 
 ambee sings-minister amenn
-Churches bring
+Churches have a
 o-o
-lots of benefits.
+very long
+o-o
+tradition
+o-o
+of bringing
+o-o
+benefits
+o-o
+to their
+o-o
+community.
 sentence-next
 o-o
-For example,
+One of those
 o-o
-long ago,
+benefits
+o-o
+is music.
+sentence-next
+o-o
+Long ago
 o-o
 farmers
 o-o
@@ -386,18 +395,13 @@ churches lost
 o-o
 that musical
 o-o
-monopoly.
-sentence-next
+monopoly
 o-o
-First to
+to phonographs,
 o-o
-phonographs.
-sentence-next
+then radios,
 o-o
-Then radios.
-sentence-next
-o-o
-And now smartphones
+and now smartphones
 o-o
 and televisions.
 sentence-next

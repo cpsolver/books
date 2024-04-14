@@ -606,18 +606,24 @@ and direct,
 o-o
 are being robbed
 o-o
-by other
+by some other
 o-o
 businesses.
 sentence-next
 o-o
-I'm learning that
+Those evil
+o-o
+businesses
+o-o
+need to replace
 o-o
 workers and
 o-o
 Democrats
 o-o
-are not evil.
+on my
+o-o
+enemies list.
 sentence-next
 o-o
 And I'm seeing
@@ -641,9 +647,11 @@ o-o
 a good heart.
 sentence-next
 o-o
-Aside from the
+Not counting its
 o-o
-attack part.
+recent brief
+o-o
+disloyalty.
 sentence-next
 o-o
 So I'm shifting

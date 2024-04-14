@@ -384,11 +384,6 @@ o-o
 to checkers.
 sentence-next
 o-o
-There's a
-o-o
-learning curve.
-sentence-next
-o-o
 The only part
 o-o
 that still scares me
