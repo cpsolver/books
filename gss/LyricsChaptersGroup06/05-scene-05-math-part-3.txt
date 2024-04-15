@@ -217,13 +217,13 @@ like on Amazon?
 end-lyric
 
 ambee sings-mathprof amenn
-Academically
+That's called
 o-o
-that's called a
+either a
 o-o
-ranked choice ballot,
+ranked choice ballot
 o-o
-or a score ballot,
+or a score ballot
 o-o
 depending on
 o-o
@@ -318,7 +318,7 @@ o-o
 of its flaws.
 sentence-next
 o-o
-If vote counting
+If vote hyphen-here counting
 o-o
 methods
 o-o
@@ -917,7 +917,7 @@ social media,
 o-o
 Yelp
 o-o
-reviews,
+ratings,
 o-o
 and Congress.
 end-lyric

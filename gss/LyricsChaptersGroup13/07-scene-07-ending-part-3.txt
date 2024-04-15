@@ -143,15 +143,9 @@ o-o
 stupidity.
 sentence-next
 o-o
-Since you're
+And now you're
 o-o
-pleading guilty
-o-o
-it's a case of
-o-o
-double
-o-o
-stupidity.
+pleading guilty.
 end-lyric
 
 ambee sings-minister amenn

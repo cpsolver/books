@@ -319,7 +319,7 @@ combat
 o-o
 against the
 o-o
-wicked evil
+crazy evil
 o-o
 hiding in
 o-o
@@ -329,21 +329,18 @@ people?
 end-lyric
 
 ambee sings-minister amenn
-If you're thinking
+Are you thinking of
 o-o
-of the crazy
+TV news and
 o-o
-news stories
+social
 o-o
-from news sources
+media posts?
+sentence-next
 o-o
-and social
+Those come from
 o-o
-media,
-o-o
-remember those
-o-o
-are businesses
+businesses
 o-o
 that sell your eyes
 o-o
@@ -352,7 +349,11 @@ o-o
 to advertisers.
 sentence-next
 o-o
-So they choose
+To maximize
+o-o
+their income,
+o-o
+they choose
 o-o
 dramatic news
 o-o

@@ -353,17 +353,8 @@ o-o
 revolution!
 end-lyric
 
-ambee sings-econhist amenn
-Just fight with words.
-sentence-next
-o-o
-Not physical
-o-o
-weapons.
-end-lyric
-
-ambee sings-desha amenn
-We won't allow
+ambee sings-damien amenn
+We don't want
 o-o
 anybody
 o-o
@@ -372,28 +363,47 @@ o-o
 their head.
 sentence-next
 o-o
-Anyway,
+So let's fight
 o-o
-fighting unfairly
+with words
 o-o
-would undermine
+and math
 o-o
-a fight for
+instead.
+end-lyric
+
+ambee sings-desha amenn
+Ah yes!
+sentence-next
 o-o
-fairness.
+Let's call it
+o-o
+a renaissance.
+sentence-next
+o-o
+It's like how
+o-o
+the Italian
+o-o
+Renaissance
+o-o
+was powered by
+o-o
+the digit zero.
 end-lyric
 
 ambee sings-econhist amenn
-In this fight
+Good analogy.
+sentence-next
 o-o
-the few who lose
+The few who lose
 o-o
-will only lose
+only lose
 o-o
 future income.
 sentence-next
 o-o
-They won't lose
+They don't lose
 o-o
 what they've
 o-o
@@ -402,10 +412,15 @@ o-o
 acquired.
 end-lyric
 
-ambee sings-damien amenn
-We'll do our best
+ambee sings-desha amenn
+We'll fight
 o-o
-to turn the worlds
+begin-italics with end-italics fairness
+o-o
+begin-italics for end-italics fairness.
+sentence-next
+o-o
+Let's turn the worlds
 o-o
 of politics
 o-o

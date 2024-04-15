@@ -890,32 +890,47 @@ end-lyric
 ambee sings-desha amenn
 That would give
 o-o
-consumers more
+those workers
 o-o
-spending money.
+more money.
 sentence-next
+Which they would spend
 o-o
-And that would fuel
+as consumers
 o-o
-a feedback loop
-o-o
-that benefits
-o-o
-other
+of other
 o-o
 businesses.
 sentence-next
 o-o
-Right?
+Then that money
+o-o
+flows to the
+o-o
+employees
+o-o
+of those other
+o-o
+businesses.
+sentence-next
+o-o
+That would improve
+o-o
+the economy
+o-o
+of the whole
+o-o
+region.
 end-lyric
 
 ambee sings-econhist amenn
-Indeed it would.
-sentence-next
+Of course
 o-o
-Of course it has
+that wage hyphen-here gap
 o-o
-no chance
+tax break
+o-o
+has no chance
 o-o
 of getting passed
 o-o

@@ -125,21 +125,26 @@ better?
 end-lyric
 
 ambee sings-mathprof amenn
-Among friends,
+Score ballots
 o-o
-where honesty
+have ratings
 o-o
-can be monitored,
+instead of
 o-o
-score ballots
+rankings.
+sentence-next
 o-o
-collect useful
+That means
 o-o
-information
+a voter can
 o-o
-about a voter's
+leave some
 o-o
-strength of
+columns empty
+o-o
+to express
+o-o
+a strong
 o-o
 preference.
 sentence-next
@@ -148,9 +153,13 @@ Such as
 o-o
 Jewish friends
 o-o
+expressing they
+o-o
 really really
 o-o
-not wanting pork
+do not want
+o-o
+pork
 o-o
 as a topping
 o-o
@@ -159,22 +168,24 @@ o-o
 pizza.
 sentence-next
 o-o
-But score ballots
+That's useful
 o-o
-do not work
-o-o
-in general
-o-o
-elections
-o-o
-for governors,
-o-o
-presidents,
-o-o
-and mayors.
+among friends.
 sentence-next
 o-o
-They are vulnerable
+But a score ballot
+o-o
+in a general
+o-o
+election
+o-o
+for governor,
+o-o
+president,
+o-o
+or mayor
+o-o
+would be vulnerable
 o-o
 to voters who
 o-o

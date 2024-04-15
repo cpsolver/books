@@ -272,7 +272,7 @@ ambee sings-minister amenn
 Pleased to meet you.
 sentence-next
 o-o
-begin-explain Starting now, on his smartphone, he sends a very short text. end-explain
+begin-explain Click of keys on his smartphone as he sends a very short text. end-explain
 end-lyric
 
 ambee sings-vc amenn
@@ -333,11 +333,13 @@ Especially
 o-o
 since religion
 o-o
-seems so, ...
-sentence-next
+seems so,
 o-o
-well, ...
-sentence-next
+...
+o-o
+well,
+o-o
+...
 o-o
 antiquated.
 end-lyric
@@ -362,36 +364,92 @@ One of those
 o-o
 benefits
 o-o
-is music.
+is the marriage
+o-o
+ceremony.
 sentence-next
 o-o
-Long ago
+It protects a
 o-o
-farmers
+young woman
 o-o
-and workers
+from pregnancy
 o-o
-were too poor
+until the man
 o-o
-to hire musicians.
+publicly
+o-o
+promises
+o-o
+not to abandon
+o-o
+her or her
+o-o
+children.
 sentence-next
 o-o
-So singing
+Part of that
 o-o
-in church
+promise is to
 o-o
-on Sundays
+attend church
 o-o
-brought beautiful
+where sermons
+o-o
+steer husbands
+o-o
+away from
+o-o
+drunkenness,
+o-o
+laziness,
+o-o
+and gambling.
+sentence-next
+o-o
+It only seems
+o-o
+antiquated
+o-o
+now that
+o-o
+governments
+o-o
+perform marriage
+o-o
+as a civil
+o-o
+ceremony.
+sentence-next
+o-o
+And there's
+o-o
+singing in church
+o-o
+on Sundays.
+sentence-next
+o-o
+That brought
+o-o
+beautiful
 o-o
 music
 o-o
-to their ears.
-sentence-next
+to the ears
 o-o
-Alas,
+of farmers
 o-o
-churches lost
+and workers
+o-o
+who otherwise
+o-o
+didn't hear
+o-o
+much music.
+end-lyric
+
+ambee sings-fiance amenn
+Churches lost
 o-o
 that musical
 o-o
@@ -404,8 +462,9 @@ o-o
 and now smartphones
 o-o
 and televisions.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-minister amenn
 Fortunately
 o-o
 people who love
@@ -417,10 +476,14 @@ o-o
 in our
 o-o
 worship hall.
-end-lyric
-
-ambee sings-fiance amenn
-Churches
+sentence-next
+o-o
+Hallelujah!
+sentence-next
+o-o
+As another benefit,
+o-o
+churches
 o-o
 used to feed
 o-o
@@ -434,21 +497,6 @@ o-o
 taxpayers
 o-o
 to do it.
-sentence-next
-o-o
-So that's another
-o-o
-advantage lost?
-end-lyric
-
-ambee sings-minister amenn
-Sadly,
-o-o
-for reasons of
-o-o
-attendance,
-o-o
-yes.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -461,30 +509,6 @@ no less.
 end-lyric
 
 ambee sings-minister amenn
-Marriage
-o-o
-ceremonies
-o-o
-used to be
-o-o
-a big
-o-o
-monopoly
-o-o
-churches had,
-o-o
-then lost.
-sentence-next
-o-o
-Now governments
-o-o
-perform marriage
-o-o
-as a civil
-o-o
-ceremony.
-sentence-next
-o-o
 Originally
 o-o
 schools and

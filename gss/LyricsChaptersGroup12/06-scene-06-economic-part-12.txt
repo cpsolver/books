@@ -384,7 +384,7 @@ After we adopt
 o-o
 better hyphen-here designed
 o-o
-vote counting
+vote hyphen-here counting
 o-o
 systems
 o-o

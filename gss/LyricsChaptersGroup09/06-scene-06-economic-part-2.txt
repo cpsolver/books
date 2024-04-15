@@ -913,11 +913,12 @@ has become
 o-o
 a studio
 o-o
-apartment,
+apartment
 o-o
-used RV,
+or used RV.
+sentence-next
 o-o
-or tent.
+Or a tent.
 end-lyric
 
 ambee sings-damien amenn

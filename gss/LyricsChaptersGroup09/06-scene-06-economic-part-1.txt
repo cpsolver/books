@@ -178,9 +178,10 @@ in our
 o-o
 academic
 o-o
-game of thrones,
+game of thrones.
+sentence-next
 o-o
-such as getting
+Such as getting
 o-o
 tenure.
 sentence-next
@@ -190,9 +191,10 @@ o-o
 office.
 sentence-next
 o-o
-Sometimes no,
+Sometimes no.
+sentence-next
 o-o
-so we apply
+Then we apply
 o-o
 for a
 o-o

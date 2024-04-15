@@ -116,7 +116,7 @@ o-o
 voters.
 sentence-next
 o-o
-That's much much
+That's much begin-italics much end-italics
 o-o
 better than
 o-o

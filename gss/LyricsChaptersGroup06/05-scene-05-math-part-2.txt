@@ -130,7 +130,7 @@ begin-italics hypotenuse end-italics
 o-o
 before I learned
 o-o
-it had nothing
+it has nothing
 o-o
 to do with
 o-o
