@@ -340,22 +340,10 @@ o-o
 and
 o-o
 depreciation.
-sentence-next
-o-o
-Plus those
-o-o
-awful words like
-o-o
-charity and
-o-o
-donation.
 end-lyric
 
 ambee sings-damien amenn
-I see.
-sentence-next
-o-o
-And besides words
+Besides words
 o-o
 for moola
 o-o

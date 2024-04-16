@@ -87,6 +87,88 @@ o-o
 to this city.
 end-lyric
 
+ambee sings-minister amenn
+Churches also
+o-o
+lift spirits.
+sentence-next
+o-o
+Singing
+o-o
+in church
+o-o
+on Sundays
+o-o
+brings beautiful
+o-o
+music
+o-o
+to the ears of
+o-o
+churchgoers.
+sentence-next
+o-o
+That was very special
+o-o
+back before
+o-o
+phonographs,
+o-o
+radios,
+o-o
+and televisions
+o-o
+came along.
+sentence-next
+o-o
+The resulting
+o-o
+sense of
+o-o
+community
+o-o
+reduces the
+o-o
+temptation
+o-o
+to cheat
+o-o
+and steal
+o-o
+in the
+o-o
+marketplace.
+sentence-next
+o-o
+That brought
+o-o
+economic
+o-o
+prosperity
+o-o
+to the king's
+o-o
+domain.
+sentence-next
+o-o
+Fortunately
+o-o
+some people
+o-o
+still love to sing
+o-o
+together,
+o-o
+and they still
+o-o
+gather in our
+o-o
+worship hall.
+sentence-next
+o-o
+Hallelujah!
+end-lyric
+
 ambee sings-damien-firstuse amenn
 begin-explain Door opens and closes. end-explain
 o-o

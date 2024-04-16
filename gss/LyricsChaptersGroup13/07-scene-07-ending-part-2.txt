@@ -351,9 +351,10 @@ created
 o-o
 the marriage
 o-o
-ceremony
+ceremony.
+sentence-next
 o-o
-to protect a
+It protects a
 o-o
 young woman
 o-o
@@ -365,27 +366,14 @@ publicly
 o-o
 promises
 o-o
-not to abandon
+to love her
 o-o
-her or her
+and her children
 o-o
-children.
+and not leave them.
 sentence-next
 o-o
-And he promises
-o-o
-to hear sermons
-o-o
-that steer him
-o-o
-away from sin.
-sentence-next
-o-o
-It only seems
-o-o
-antiquated
-o-o
-now that
+Only now that
 o-o
 governments
 o-o
@@ -393,92 +381,42 @@ perform marriage
 o-o
 as a civil
 o-o
-ceremony.
-sentence-next
+ceremony
 o-o
-And impose
+do some people
 o-o
-child support
+think of
 o-o
-payments
+church weddings
 o-o
-when needed.
-sentence-next
-o-o
-Consider that
-o-o
-singing in church
-o-o
-on Sundays
-o-o
-brought
-o-o
-beautiful
-o-o
-music
-o-o
-to the ears
-o-o
-of farmers
-o-o
-and workers
-o-o
-who otherwise
-o-o
-didn't hear
-o-o
-much music.
-sentence-next
-o-o
-That was
-o-o
-valuable
-o-o
-back before
-o-o
-phonographs,
-o-o
-radios,
-o-o
-televisions,
-o-o
-and smartphones
-o-o
-were invented.
-sentence-next
-o-o
-Fortunately
-o-o
-people who love
-o-o
-to sing together
-o-o
-still gather
-o-o
-in our
-o-o
-worship hall.
-sentence-next
-o-o
-Hallelujah!
+as antiquated.
 end-lyric
 
 ambee sings-vc amenn
-Churches
+I donate money
 o-o
-used to feed
+to help Father's
+o-o
+church feed
 o-o
 the hungry.
 sentence-next
 o-o
-Now grocery
+That need
 o-o
-stores do that.
-sentence-next
+has decreased
 o-o
-With money
+now that
 o-o
-from taxpayers.
+grocery stores
+o-o
+feed the
+o-o
+hungriest
+o-o
+with money from
+o-o
+taxpayers.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -513,7 +451,7 @@ o-o
 fund those too.
 end-lyric
 
-ambee sings-vc amenn
+ambee sings-fiance amenn
 So government
 o-o
 is taking over

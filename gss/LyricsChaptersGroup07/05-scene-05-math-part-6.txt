@@ -690,16 +690,19 @@ ambee sings-damien amenn
 Tally?
 sentence-next
 o-o
-Is this
+I thought a
 o-o
-tallyho
+tally begin-italics hoe end-italics
 o-o
-without the
+was a
 o-o
-prostitute?
+garden tool.
 end-lyric
 
 ambee sings-desha amenn
+It's a math word.
+sentence-next
+o-o
 If you were
 o-o
 tallying
