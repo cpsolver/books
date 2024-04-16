@@ -338,9 +338,9 @@ o-o
 media posts?
 sentence-next
 o-o
-Those come from
+Those are chosen
 o-o
-businesses
+by businesses
 o-o
 that sell your eyes
 o-o
@@ -349,27 +349,31 @@ o-o
 to advertisers.
 sentence-next
 o-o
-To maximize
+They maximize
 o-o
-their income,
+their income
 o-o
-they choose
+by feeding
 o-o
-dramatic news
+you images
 o-o
 and sound bites
 o-o
-that excite
-o-o
-your fears,
+that enrage
 o-o
 your anger,
 o-o
+agitate
+o-o
+your fears,
+o-o
+arouse
+o-o
 your desires,
 o-o
-and your
+and titillate
 o-o
-laughter.
+your laughter.
 end-lyric
 
 ambee sings-vc amenn

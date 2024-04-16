@@ -949,14 +949,15 @@ o-o
 system.
 end-lyric
 
-ambee sings-damien amenn
+ambee sings-desha amenn
 That's the kind of
 o-o
 bright future
 o-o
 I'd like to see!
-sentence-next
-o-o
+end-lyric
+
+ambee sings-damien amenn
 Is there a way
 o-o
 to measure

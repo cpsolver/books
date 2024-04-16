@@ -345,31 +345,15 @@ antiquated.
 end-lyric
 
 ambee sings-minister amenn
-Churches have a
+Churches
 o-o
-very long
+created
 o-o
-tradition
+the marriage
 o-o
-of bringing
+ceremony
 o-o
-benefits
-o-o
-to their
-o-o
-community.
-sentence-next
-o-o
-One of those
-o-o
-benefits
-o-o
-is the marriage
-o-o
-ceremony.
-sentence-next
-o-o
-It protects a
+to protect a
 o-o
 young woman
 o-o
@@ -388,23 +372,13 @@ o-o
 children.
 sentence-next
 o-o
-Part of that
+And he promises
 o-o
-promise is to
+to hear sermons
 o-o
-attend church
+that steer him
 o-o
-where sermons
-o-o
-steer husbands
-o-o
-away from
-o-o
-drunkenness,
-o-o
-laziness,
-o-o
-and gambling.
+away from sin.
 sentence-next
 o-o
 It only seems
@@ -422,14 +396,22 @@ o-o
 ceremony.
 sentence-next
 o-o
-And there's
+And impose
+o-o
+child support
+o-o
+payments
+o-o
+when needed.
+sentence-next
+o-o
+Consider that
 o-o
 singing in church
 o-o
-on Sundays.
-sentence-next
+on Sundays
 o-o
-That brought
+brought
 o-o
 beautiful
 o-o
@@ -446,25 +428,25 @@ o-o
 didn't hear
 o-o
 much music.
-end-lyric
-
-ambee sings-fiance amenn
-Churches lost
+sentence-next
 o-o
-that musical
+That was
 o-o
-monopoly
+valuable
 o-o
-to phonographs,
+back before
 o-o
-then radios,
+phonographs,
 o-o
-and now smartphones
+radios,
 o-o
-and televisions.
-end-lyric
-
-ambee sings-minister amenn
+televisions,
+o-o
+and smartphones
+o-o
+were invented.
+sentence-next
+o-o
 Fortunately
 o-o
 people who love
@@ -479,24 +461,24 @@ worship hall.
 sentence-next
 o-o
 Hallelujah!
-sentence-next
-o-o
-As another benefit,
-o-o
-churches
+end-lyric
+
+ambee sings-vc amenn
+Churches
 o-o
 used to feed
 o-o
 the hungry.
 sentence-next
 o-o
-Now grocery stores
+Now grocery
 o-o
-get paid by
+stores do that.
+sentence-next
 o-o
-taxpayers
+With money
 o-o
-to do it.
+from taxpayers.
 end-lyric
 
 ambee sings-father-of-fiance amenn
