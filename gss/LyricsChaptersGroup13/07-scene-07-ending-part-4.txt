@@ -44,29 +44,6 @@ o-o
 we just
 o-o
 talked about.
-sentence-next
-o-o
-Still today,
-o-o
-with meager funds,
-o-o
-priests and
-o-o
-churches,
-o-o
-plus volunteers,
-o-o
-provide
-o-o
-essential
-o-o
-services
-o-o
-that taxpayers
-o-o
-refuse
-o-o
-to pay for.
 end-lyric
 
 ambee sings-father-of-fiance amenn
@@ -88,27 +65,38 @@ to this city.
 end-lyric
 
 ambee sings-minister amenn
-Churches also
+Yet more
+o-o
+economic
+o-o
+benefits
+o-o
+come from
+o-o
+the fact that
+o-o
+churches
 o-o
 lift spirits.
 sentence-next
 o-o
-Singing
+In particular,
 o-o
-in church
+some people
 o-o
-on Sundays
+love to sing
 o-o
-brings beautiful
-o-o
-music
-o-o
-to the ears of
-o-o
-churchgoers.
+together.
 sentence-next
 o-o
-That was very special
+Hallelujah!
+sentence-next
+o-o
+That singing
+o-o
+in church was
+o-o
+extra special
 o-o
 back before
 o-o
@@ -121,9 +109,13 @@ o-o
 came along.
 sentence-next
 o-o
-The resulting
+Even now,
 o-o
-sense of
+the increased
+o-o
+friendliness
+o-o
+and sense of
 o-o
 community
 o-o
@@ -133,40 +125,23 @@ temptation
 o-o
 to cheat
 o-o
-and steal
-o-o
-in the
-o-o
-marketplace.
+and steal.
 sentence-next
 o-o
-That brought
+That better
 o-o
-economic
+behavior
 o-o
-prosperity
+brings yet more
 o-o
-to the king's
-o-o
-domain.
+benefits.
 sentence-next
 o-o
-Fortunately
+Far above
 o-o
-some people
+what we receive
 o-o
-still love to sing
-o-o
-together,
-o-o
-and they still
-o-o
-gather in our
-o-o
-worship hall.
-sentence-next
-o-o
-Hallelujah!
+in tax breaks.
 end-lyric
 
 ambee sings-damien-firstuse amenn

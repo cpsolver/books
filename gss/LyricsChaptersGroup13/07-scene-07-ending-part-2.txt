@@ -373,38 +373,41 @@ o-o
 and not leave them.
 sentence-next
 o-o
-Only now that
+That works so well that
 o-o
 governments
 o-o
-perform marriage
+now perform
 o-o
-as a civil
+marriage as a
 o-o
-ceremony
+civil
 o-o
-do some people
+ceremony.
+sentence-next
 o-o
-think of
+As another
 o-o
-church weddings
+service,
 o-o
-as antiquated.
+churches
+o-o
+feed the hungry.
 end-lyric
 
 ambee sings-vc amenn
 I donate money
 o-o
-to help Father's
+to help out
 o-o
-church feed
-o-o
-the hungry.
+with that.
 sentence-next
 o-o
-That need
+Fortunately
 o-o
-has decreased
+that need has
+o-o
+gone down
 o-o
 now that
 o-o

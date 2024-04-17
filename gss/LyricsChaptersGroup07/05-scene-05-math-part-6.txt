@@ -815,15 +815,15 @@ into piles
 o-o
 according
 o-o
-to which of the
+to which
 o-o
 remaining
 o-o
-candidates
+candidate
 o-o
-is highest
+is ranked
 o-o
-ranked on
+highest on
 o-o
 each ballot.
 sentence-next

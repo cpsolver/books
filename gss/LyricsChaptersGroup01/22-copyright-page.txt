@@ -15,7 +15,9 @@ www.SolutionsCreative.com
 end-standard-paragraph
 
 begin-standard-paragraph
-&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.&#160; begin-bold All rights reserved end-bold no-space .
+&#169; Copyright 2024 by Richard Fobes at SolutionsCreative.com.
+sentence-next
+begin-bold All rights reserved end-bold no-space .
 sentence-next
 No part of this book may be copied or spoken or reproduced or transmitted (or eaten) in any form or by any means without written permission from the publisher.
 sentence-next

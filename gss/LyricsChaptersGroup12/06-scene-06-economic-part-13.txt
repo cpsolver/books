@@ -381,21 +381,34 @@ o-o
 a renaissance.
 sentence-next
 o-o
-It's like how
-o-o
-the Italian
+The Italian
 o-o
 Renaissance
 o-o
 was powered by
 o-o
 the digit zero.
+sentence-next
+o-o
+This one will be
+o-o
+powered by
+o-o
+pairwise
+o-o
+vote counting.
 end-lyric
 
 ambee sings-econhist amenn
-That's a better
+Renaissance
 o-o
-analogy.
+instead of
+o-o
+revolution
+o-o
+makes more
+o-o
+sense.
 sentence-next
 o-o
 The few who lose
