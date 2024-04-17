@@ -905,6 +905,8 @@ sentence-next
 o-o
 The same voting
 o-o
+method
+o-o
 would improve
 o-o
 how parliaments

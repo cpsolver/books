@@ -170,6 +170,15 @@ o-o
 That increased
 o-o
 his profits.
+sentence-next
+o-o
+And advertised
+o-o
+Ford cars
+o-o
+at no extra
+o-o
+expense.
 end-lyric
 
 ambee sings-desha amenn

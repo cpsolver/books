@@ -101,7 +101,9 @@ mind hearing a
 o-o
 percentage,
 o-o
-this counting
+this kind of
+o-o
+counting
 o-o
 guarantees
 o-o
@@ -120,7 +122,7 @@ That's much begin-italics much end-italics
 o-o
 better than
 o-o
-no guarantee,
+begin-italics no end-italics guarantee,
 o-o
 which is what
 o-o

@@ -273,9 +273,13 @@ stupidity
 o-o
 in politics,
 o-o
-business, and
+business,
 o-o
-management.
+management,
+o-o
+and the patent
+o-o
+system.
 sentence-next
 o-o
 That's a
@@ -340,17 +344,26 @@ o-o
 sitting in cars.
 sentence-next
 o-o
-Dealing with
+And typing
 o-o
-email and texts.
+messages.
 sentence-next
 o-o
-Cooking in
+And doing
 o-o
-the kitchen.
-sentence-next
+auto repairs
 o-o
-And scrolling
+when someone
+o-o
+impatiently
+o-o
+tries to do both
+o-o
+simultaneously.
+end-lyric
+
+ambee sings-damien amenn
+Plus scrolling
 o-o
 past Facebook ads
 o-o
