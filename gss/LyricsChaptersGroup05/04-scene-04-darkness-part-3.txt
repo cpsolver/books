@@ -249,7 +249,7 @@ protractor
 o-o
 to commit
 o-o
-hari hyphen-here kari begin-explain intentionally misspelled and mis hyphen-here pronounced end-explain no-space .
+hari hyphen-here kari begin-explain intentionally misspelled and mispronounced end-explain no-space .
 sentence-next
 o-o
 What do you wanna
@@ -411,7 +411,7 @@ She appreciates me,
 o-o
 even though
 o-o
-I'm notta hunk
+I'm not a hunk
 o-o
 surrounded
 o-o

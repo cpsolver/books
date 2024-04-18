@@ -105,7 +105,7 @@ begin-bold Voice suggestions for all characters: end-bold
 sentence-next
 The voices should be natural (full hyphen-here throated and conversational), lively (with frequent emotion hyphen-here based pitch inflections although virtually never in the middle of a syllable, and with word hyphen-here specific loudness changes), and smiling (comedic, but not begin-italics funny end-italics no-space ), without any shouting.
 sentence-next
-The rhythm should be freeform and improvisational without being specified by written notation or metronome hyphen-here like timing.
+The rhythm should be free hyphen-here form and improvisational without being specified by written notation or metronome hyphen-here like timing.
 sentence-next
 When words rhyme without being at the ends of sentences or phrases, a slight timing or emphasis adjustment can help the rhyming to be heard at least subconsciously.
 sentence-next

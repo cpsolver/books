@@ -475,7 +475,9 @@ Probably either
 o-o
 Posidonius
 o-o
-or Hipparchus.
+or Hipparchus
+o-o
+was involved.
 sentence-next
 o-o
 Sadly,

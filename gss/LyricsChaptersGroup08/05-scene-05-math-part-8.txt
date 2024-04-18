@@ -389,7 +389,11 @@ most popular
 o-o
 of the
 o-o
-un hyphen-here elected candidates.
+candidates
+o-o
+who did not win
+o-o
+a district seat.
 sentence-next
 o-o
 The most popular
