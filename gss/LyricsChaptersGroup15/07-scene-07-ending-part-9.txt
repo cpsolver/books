@@ -250,7 +250,7 @@ o-o
 rough times.
 sentence-next
 o-o
-And whoever
+Whoever
 o-o
 said you aren't
 o-o
@@ -261,6 +261,15 @@ o-o
 eyesight
 o-o
 examined.
+sentence-next
+o-o
+And tallness
+o-o
+doesn't deserve
+o-o
+to be put on
+o-o
+a pedestal.
 end-lyric
 
 ambee sings-damien amenn

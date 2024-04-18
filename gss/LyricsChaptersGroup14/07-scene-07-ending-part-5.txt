@@ -580,11 +580,20 @@ end-lyric
 ambee sings-desha amenn
 That includes
 o-o
-you sir,
+you sir.
+sentence-next
 o-o
-and especially
+And especially
 o-o
-you.
+you for your
+o-o
+campaign
+o-o
+contributions
+o-o
+to city hyphen-here council
+o-o
+candidates.
 end-lyric
 
 ambee sings-minister amenn

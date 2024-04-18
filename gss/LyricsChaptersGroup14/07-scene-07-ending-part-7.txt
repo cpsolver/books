@@ -985,7 +985,9 @@ o-o
 of this reform!
 sentence-next
 o-o
-People with jobs
+People with
+o-o
+full hyphen-here time jobs
 o-o
 surely deserve
 o-o

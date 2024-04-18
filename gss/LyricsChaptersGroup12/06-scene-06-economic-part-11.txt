@@ -158,27 +158,23 @@ o-o
 his labor costs.
 sentence-next
 o-o
-But those
+Yet also
 o-o
-employees
+it increased
 o-o
-could then afford
+his profits
 o-o
-to buy Ford cars.
-sentence-next
+because more of
 o-o
-That increased
+his employees
 o-o
-his profits.
-sentence-next
+bought Ford cars,
 o-o
-And advertised
+plus those cars
 o-o
-Ford cars
+increased
 o-o
-at no extra
-o-o
-expense.
+advertising.
 end-lyric
 
 ambee sings-desha amenn
