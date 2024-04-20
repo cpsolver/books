@@ -144,9 +144,9 @@ That means
 o-o
 a voter can
 o-o
-leave some
+avoid marking
 o-o
-columns empty
+middle columns
 o-o
 to express
 o-o

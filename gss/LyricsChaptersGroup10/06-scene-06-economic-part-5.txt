@@ -782,34 +782,15 @@ o-o
 holy water.
 sentence-next
 o-o
-They lost their lives
+And priests
+o-o
+lost their lives
 o-o
 by praying
 o-o
 at the bedside
 o-o
 of the dying.
-sentence-next
-o-o
-And their
-o-o
-congregations
-o-o
-shrank in size
-o-o
-if they
-o-o
-inspired
-o-o
-pilgrimages
-o-o
-to visit
-o-o
-the tomb of
-o-o
-Saint Augustine
-o-o
-of Hippo.
 end-lyric
 
 ambee sings-damien amenn
@@ -825,21 +806,6 @@ school.
 sentence-next
 o-o
 Got it.
-sentence-next
-o-o
-And tourists
-o-o
-couldn't go to
-o-o
-Disneyland
-o-o
-to meet
-o-o
-Mickey,
-o-o
-Minnie,
-o-o
-and Pluto.
 end-lyric
 
 ambee sings-econhist amenn
@@ -860,12 +826,6 @@ o-o
 and public
 o-o
 education.
-end-lyric
-
-ambee sings-damien amenn
-And apparently
-o-o
-Disneyland.
 end-lyric
 
 ambee sings-desha amenn
@@ -975,36 +935,46 @@ end-lyric
 ambee sings-econhist amenn
 In your lifetime
 o-o
-Amazon
+there's the rise
 o-o
-has displaced
+of Amazon.
+sentence-next
 o-o
-lots of retail
+Online shopping
 o-o
-stores.
+saves time for
+o-o
+customers.
+sentence-next
+o-o
+Robots do
+o-o
+what employees
+o-o
+can't do as
+o-o
+efficiently.
+sentence-next
+o-o
+It eliminates
+o-o
+theft from stores,
+o-o
+the need to clean
+o-o
+store restrooms,
+o-o
+and sales people
+o-o
+waiting for
+o-o
+customers.
 end-lyric
 
 ambee sings-desha amenn
-Amazon
+So far
 o-o
-eliminates
-o-o
-store theft,
-o-o
-public
-o-o
-restrooms,
-o-o
-and living hyphen-here wage
-o-o
-retail
-o-o
-sales jobs.
-sentence-next
-o-o
-So far that
-o-o
-efficiency
+that efficiency
 o-o
 mostly increases
 o-o
