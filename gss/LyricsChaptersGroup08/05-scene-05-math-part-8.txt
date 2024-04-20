@@ -381,43 +381,43 @@ o-o
 ballots again.
 sentence-next
 o-o
-Then we
+We focus on
 o-o
-identify the
+ballots
 o-o
-most popular
+that favor
 o-o
-of the
+those parties
+o-o
+that didn't win
+o-o
+their fair share
+o-o
+of district seats.
+sentence-next
+o-o
+Those ballots
+o-o
+reveal which
 o-o
 candidates
 o-o
-who did not win
+in those
 o-o
-a district seat.
+underrepresented
+o-o
+parties
+o-o
+are most
+o-o
+popular.
 sentence-next
 o-o
-The most popular
+Those candidates
 o-o
-such candidate
+win the
 o-o
-from the
-o-o
-correct party
-o-o
-will fill that
-o-o
-party's
-o-o
-statewide seat.
-sentence-next
-o-o
-Then just repeat
-o-o
-that process
-o-o
-for each
-o-o
-statewide seat.
+statewide seats.
 end-lyric
 
 ambee sings-damien amenn

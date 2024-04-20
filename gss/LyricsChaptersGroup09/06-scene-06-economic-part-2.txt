@@ -63,7 +63,7 @@ o-o
 not getting bombed?
 sentence-next
 o-o
-Here in the U.S.?
+Here in the U.S.
 end-lyric
 
 ambee sings-econhist amenn
@@ -259,9 +259,9 @@ So this is why
 o-o
 the MAGA hat
 o-o
-attracted
+became so
 o-o
-so many votes.
+popular.
 end-lyric
 
 ambee sings-damien amenn

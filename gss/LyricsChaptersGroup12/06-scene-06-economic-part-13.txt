@@ -400,31 +400,33 @@ vote counting.
 end-lyric
 
 ambee sings-econhist amenn
-Renaissance
-o-o
-instead of
-o-o
-revolution
-o-o
-makes more
-o-o
-sense.
+Wise distinction.
 sentence-next
 o-o
-The few who lose
+In a
 o-o
-will only lose
+revolution,
 o-o
-future income.
-sentence-next
+wealthy people
 o-o
-They won't lose
+fear losing
 o-o
 what they've
 o-o
 already
 o-o
 acquired.
+sentence-next
+o-o
+In a
+o-o
+renaissance,
+o-o
+the few who lose
+o-o
+only lose
+o-o
+future income.
 end-lyric
 
 ambee sings-desha amenn

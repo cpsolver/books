@@ -647,7 +647,7 @@ when there are
 o-o
 more than two
 o-o
-candidates?
+candidates.
 end-lyric
 
 ambee sings-mathprof amenn

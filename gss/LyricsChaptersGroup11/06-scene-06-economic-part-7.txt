@@ -58,17 +58,18 @@ contributions.
 end-lyric
 
 ambee sings-damien amenn
-As for tax breaks,
+As for taxes,
 o-o
-they try to
+the IRS
 o-o
-lure us into
+entices us
 o-o
-getting married,
+to get married
 o-o
-raising children,
+and raise kids.
+sentence-next
 o-o
-and buying
+Or buy
 o-o
 a farm.
 end-lyric

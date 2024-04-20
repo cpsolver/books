@@ -696,6 +696,8 @@ tally begin-italics hoe end-italics
 o-o
 was a
 o-o
+type of
+o-o
 garden tool.
 end-lyric
 
