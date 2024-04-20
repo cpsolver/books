@@ -353,7 +353,7 @@ And doing
 o-o
 auto repairs
 o-o
-when someone
+after someone
 o-o
 impatiently
 o-o
@@ -363,15 +363,18 @@ simultaneously.
 end-lyric
 
 ambee sings-damien amenn
-Not to mention
+And lots of time
 o-o
-wasting time
+gets wasted
 o-o
 scrolling
 o-o
-past Facebook ads
+past online ads
 o-o
-for tee shirts
+for tee shirts.
+sentence-next
+o-o
+Like the ones
 o-o
 that say
 o-o

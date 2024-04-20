@@ -188,16 +188,15 @@ o-o
 is really about
 o-o
 tax evasion.
+sentence-next
+o-o
+Who knew?
 end-lyric
 
 ambee sings-desha amenn
-Maybe
+Probably
 o-o
-tax evasion
-o-o
-was the real crime
-o-o
-of women
+women who were
 o-o
 burned as
 o-o
@@ -761,7 +760,9 @@ skills.
 end-lyric
 
 ambee sings-econhist amenn
-During the
+Earlier,
+o-o
+during the
 o-o
 European
 o-o
@@ -769,7 +770,7 @@ black death,
 o-o
 priests lost
 o-o
-lots of
+lots of their
 o-o
 credibility
 o-o
@@ -823,6 +824,10 @@ engineering,
 o-o
 government,
 o-o
+the healthcare
+o-o
+industry,
+o-o
 and public
 o-o
 education.
@@ -837,11 +842,16 @@ TV channel.
 end-lyric
 
 ambee sings-damien amenn
-So I'm
+name-desha no-space ,
 o-o
-seeing that
+you can explain
 o-o
-if we,
+that leap later.
+sentence-next
+o-o
+What I'm seeing
+o-o
+is that if we,
 o-o
 the majority
 o-o
@@ -875,7 +885,18 @@ will change?
 end-lyric
 
 ambee sings-econhist amenn
-When Congress
+Many new
+o-o
+business
+o-o
+opportunities
+o-o
+will arrive.
+sentence-next
+o-o
+That's after
+o-o
+Congress
 o-o
 and state
 o-o
@@ -889,39 +910,18 @@ innovative
 o-o
 business
 o-o
-tax credits,
-o-o
-many new
-o-o
-business
-o-o
-opportunities
-o-o
-will arrive.
+tax credits.
 sentence-next
 o-o
-This is like
+That renaissance
+o-o
+will be like
 o-o
 baking
 o-o
 additional
 o-o
 savory pies.
-sentence-next
-o-o
-The overall
-o-o
-economy
-o-o
-will grow stronger
-o-o
-like it did
-o-o
-in the U.S.
-o-o
-after World
-o-o
-War Two.
 end-lyric
 
 ambee sings-damien amenn
@@ -929,7 +929,13 @@ Are there
 o-o
 less ancient
 o-o
-examples?
+examples of
+o-o
+those kinds of
+o-o
+business
+o-o
+opportunities?
 end-lyric
 
 ambee sings-econhist amenn
@@ -942,60 +948,26 @@ sentence-next
 o-o
 Online shopping
 o-o
-saves time for
+yields lots of
 o-o
-customers.
-sentence-next
-o-o
-Robots do
-o-o
-what employees
-o-o
-can't do as
-o-o
-efficiently.
-sentence-next
-o-o
-It eliminates
-o-o
-theft from stores,
-o-o
-the need to clean
-o-o
-store restrooms,
-o-o
-and sales people
-o-o
-waiting for
-o-o
-customers.
+efficiencies.
 end-lyric
 
 ambee sings-desha amenn
-So far
+It saves
 o-o
-that efficiency
+travel time for
 o-o
-mostly increases
-o-o
-prosperity
-o-o
-for Jeff
-o-o
-Bezos.
+customers.
 sentence-next
 o-o
-Selfishly
+And of course
 o-o
-he steals
+robots and
 o-o
-wages,
+Jeff Bezos
 o-o
-bathroom breaks,
+eliminate
 o-o
-and joy
-o-o
-from his
-o-o
-employees.
+bathroom breaks.
 end-lyric

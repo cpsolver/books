@@ -108,23 +108,16 @@ sentence-next
 o-o
 They developed
 o-o
-innovations
+lots of
 o-o
-we now know as
+innovations.
+sentence-next
 o-o
-algebra,
+Especially
 o-o
-geometry,
+in medicine
 o-o
-medicine,
-o-o
-three D drawings,
-o-o
-robotic mechanisms,
-o-o
-paper making,
-o-o
-and new
+and math and
 o-o
 weapons of
 o-o
@@ -169,6 +162,12 @@ o-o
 numerals.
 end-lyric
 
+ambee sings-damien amenn
+What undermined
+o-o
+that golden age?
+end-lyric
+
 ambee sings-econhist amenn
 Under later
 o-o
@@ -195,13 +194,6 @@ o-o
 that fight
 o-o
 each other.
-sentence-next
-o-o
-That's basically
-o-o
-why that golden
-o-o
-age declined.
 end-lyric
 
 ambee sings-damien amenn
@@ -573,41 +565,20 @@ o-o
 of money.
 sentence-next
 o-o
-It's like
+Inevitably
 o-o
-housing
+those rules and
 o-o
-associations.
-end-lyric
-
-ambee sings-desha amenn
-Lots of
+constraints
 o-o
-passive
+lead to suffering
 o-o
-aggressive
-o-o
-manipulation?
-end-lyric
-
-ambee sings-econhist amenn
-Lots of rules
-o-o
-and constraints
-o-o
-followed by
-o-o
-complaints.
+and complaints.
 sentence-next
 o-o
-In a nation,
+Those who suffer
 o-o
-those who suffer
-o-o
-can't move out.
-sentence-next
-o-o
-So they adopt
+adopt
 o-o
 workarounds.
 sentence-next
@@ -688,37 +659,10 @@ o-o
 by the greedy
 o-o
 and selfish.
-sentence-next
-o-o
-Like the pigs
-o-o
-in begin-italics Animal
-o-o
-Farm end-italics no-space .
 end-lyric
 
 ambee sings-desha amenn
-That's a
-o-o
-fantasy book
-o-o
-about barnyard
-o-o
-revolution
-o-o
-evolving into
-o-o
-pig dictatorship.
-sentence-next
-o-o
-I think
-o-o
-I'm getting
-o-o
-your point.
-sentence-next
-o-o
-Capitalism
+So capitalism
 o-o
 is sometimes bad,
 o-o
@@ -727,14 +671,18 @@ o-o
 have to be bad.
 sentence-next
 o-o
-And everything
+Everything
 o-o
 ends with corruption
 o-o
-if we let it.
+if citizens
+o-o
+lose control of
+o-o
+government.
 sentence-next
 o-o
-And improving
+So improving
 o-o
 democracy
 o-o
