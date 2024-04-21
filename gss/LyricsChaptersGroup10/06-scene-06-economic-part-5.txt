@@ -843,9 +843,13 @@ TV channel.
 end-lyric
 
 ambee sings-damien amenn
-Please explain
+name-desha no-space ,
 o-o
-that leap later.
+please explain
+o-o
+your mental
+o-o
+skip later.
 sentence-next
 o-o
 For now,
@@ -892,7 +896,13 @@ business
 o-o
 opportunities
 o-o
-will arrive.
+will arrive
+o-o
+because of
+o-o
+overdue
+o-o
+innovations.
 sentence-next
 o-o
 That's after
@@ -923,52 +933,4 @@ o-o
 additional
 o-o
 savory pies.
-end-lyric
-
-ambee sings-damien amenn
-Are there
-o-o
-less ancient
-o-o
-examples of
-o-o
-those kinds of
-o-o
-business
-o-o
-opportunities?
-end-lyric
-
-ambee sings-econhist amenn
-In your lifetime
-o-o
-there's the rise
-o-o
-of Amazon.
-sentence-next
-o-o
-Online shopping
-o-o
-yields lots of
-o-o
-efficiencies.
-end-lyric
-
-ambee sings-desha amenn
-It saves
-o-o
-travel time for
-o-o
-customers.
-sentence-next
-o-o
-And of course
-o-o
-robots and
-o-o
-Jeff Bezos
-o-o
-eliminate
-o-o
-bathroom breaks.
 end-lyric
