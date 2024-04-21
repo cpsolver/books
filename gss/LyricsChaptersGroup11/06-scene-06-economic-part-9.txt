@@ -595,28 +595,28 @@ sunglasses.
 end-lyric
 
 ambee sings-econhist amenn
-There are future
+Of course
 o-o
-innovations
+solar energy
 o-o
-that will reduce
+technology
+o-o
+will improve
+o-o
+dramatically.
+sentence-next
+o-o
+Yet also
 o-o
 the severity
 o-o
 of the climate
 o-o
-crisis.
-sentence-next
+crisis
 o-o
-Besides yet better
+can be reduced
 o-o
-solar energy
-o-o
-technology,
-o-o
-there's
-o-o
-fully
+with fully
 o-o
 synthetic
 o-o
@@ -640,11 +640,11 @@ transportation
 o-o
 systems
 o-o
-with yet more
+with innovative
 o-o
-innovations in
+communication
 o-o
-communication.
+systems.
 sentence-next
 o-o
 Shall I send
