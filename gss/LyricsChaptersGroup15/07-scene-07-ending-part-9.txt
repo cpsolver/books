@@ -640,9 +640,6 @@ o-o
 prosperity.
 sentence-next
 o-o
-And less crime.
-sentence-next
-o-o
 And more joy.
 end-lyric
 

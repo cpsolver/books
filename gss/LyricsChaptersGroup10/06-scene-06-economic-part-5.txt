@@ -196,11 +196,11 @@ end-lyric
 ambee sings-desha amenn
 Probably
 o-o
-women who were
+the women
 o-o
-burned as
+who were burned
 o-o
-witches.
+as witches.
 end-lyric
 
 ambee sings-econhist amenn
@@ -760,32 +760,33 @@ skills.
 end-lyric
 
 ambee sings-econhist amenn
-Earlier,
+By then,
 o-o
-during the
-o-o
-European
-o-o
-black death,
-o-o
-priests lost
+priests had lost
 o-o
 lots of their
 o-o
 credibility
 o-o
-when they failed
+during the
 o-o
-to cure
+European
+o-o
+black death.
+sentence-next
+o-o
+That's because
+o-o
+they failed to cure
 o-o
 the sick with
 o-o
 holy water.
 sentence-next
 o-o
-And priests
+And priests lost
 o-o
-lost their lives
+their lives
 o-o
 by praying
 o-o
@@ -842,14 +843,14 @@ TV channel.
 end-lyric
 
 ambee sings-damien amenn
-name-desha no-space ,
-o-o
-you can explain
+Please explain
 o-o
 that leap later.
 sentence-next
 o-o
-What I'm seeing
+For now,
+o-o
+what I'm seeing
 o-o
 is that if we,
 o-o
@@ -910,7 +911,7 @@ innovative
 o-o
 business
 o-o
-tax credits.
+tax breaks.
 sentence-next
 o-o
 That renaissance

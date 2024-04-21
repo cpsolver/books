@@ -538,11 +538,11 @@ that involve
 o-o
 software,
 o-o
-artists,
+entertainment,
 o-o
 and
 o-o
-entertainment.
+artists.
 sentence-next
 o-o
 Plus non hyphen-here chain

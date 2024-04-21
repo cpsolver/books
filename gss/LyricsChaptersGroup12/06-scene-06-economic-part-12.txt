@@ -237,15 +237,23 @@ o-o
 alas.
 sentence-next
 o-o
-Eventually
+Hopefully,
 o-o
-when that
+eventually,
+o-o
+that
 o-o
 inefficiency
 o-o
-gets solved,
+will get solved.
+sentence-next
 o-o
-the economy
+Perhaps with the
+o-o
+open patent.
+sentence-next
+o-o
+Then the economy
 o-o
 will transform
 o-o
@@ -336,19 +344,21 @@ o-o
 against rocks.
 end-lyric
 
-ambee sings-desha amenn
+ambee sings-damien amenn
 Now we waste
 o-o
 too much time
 o-o
-sitting in cars.
-sentence-next
+typing
 o-o
-And typing
+messages
 o-o
-messages.
-sentence-next
+and driving
 o-o
+cars.
+end-lyric
+
+ambee sings-desha amenn
 And doing
 o-o
 auto repairs
@@ -360,21 +370,15 @@ o-o
 tries to do both
 o-o
 simultaneously.
-end-lyric
-
-ambee sings-damien amenn
-And lots of time
-o-o
-gets wasted
-o-o
-scrolling
-o-o
-past online ads
-o-o
-for tee shirts.
 sentence-next
 o-o
-Like the ones
+Plus there's
+o-o
+scrolling past
+o-o
+online ads
+o-o
+for tee shirts
 o-o
 that say
 o-o
