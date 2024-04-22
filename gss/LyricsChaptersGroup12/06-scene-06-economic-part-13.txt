@@ -19,7 +19,7 @@ Yes,
 o-o
 even though
 o-o
-world war three
+World War Three
 o-o
 started
 o-o
@@ -117,95 +117,9 @@ clear.
 end-lyric
 
 ambee sings-desha amenn
-I almost forgot.
-sentence-next
+Well
 o-o
-You're an expert
-o-o
-in something called
-o-o
-begin-italics game theory end-italics no-space .
-sentence-next
-o-o
-But we never
-o-o
-got to that.
-end-lyric
-
-ambee sings-econhist amenn
-For your needs
-o-o
-the most
-o-o
-important part
-o-o
-of game theory
-o-o
-is better
-o-o
-vote counting.
-sentence-next
-o-o
-name-mathprof
-o-o
-said you already
-o-o
-learned
-o-o
-those basics.
-sentence-next
-o-o
-Everything
-o-o
-we discussed
-o-o
-today is about
-o-o
-playing games
-o-o
-in politics
-o-o
-and government
-o-o
-and business.
-sentence-next
-o-o
-I taught you
-o-o
-some important
-o-o
-concepts.
-sentence-next
-o-o
-But I avoided
-o-o
-teaching you the
-o-o
-terminology.
-sentence-next
-o-o
-That's messier
-o-o
-than your
-o-o
-dog poop
-o-o
-loop.
-end-lyric
-
-ambee sings-damien amenn
-Wow!
-sentence-next
-o-o
-You're a
-o-o
-super duper
-o-o
-wise guru.
-end-lyric
-
-ambee sings-desha amenn
-Now we know
+now we know
 o-o
 we need to fight
 o-o

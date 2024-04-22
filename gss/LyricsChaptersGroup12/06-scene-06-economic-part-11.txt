@@ -1,47 +1,32 @@
 ambee sings-damien amenn
-I'm guessing that
+It seems like
 o-o
 feedback loops
 o-o
-are sometimes bad
+are bad,
 o-o
-and sometimes good.
+right?
 end-lyric
 
 ambee sings-econhist amenn
-Good and bad
+Most feedback loops,
 o-o
-are just shortcut
+the economic kind,
 o-o
-ways to say
+are good
 o-o
-something
+for some people
 o-o
-has lots of
+and bad for
 o-o
-advantages
-o-o
-or lots of
-o-o
-disadvantages.
+others.
 sentence-next
 o-o
-But it depends
+Or the loop
 o-o
-on who you are
+can be both
 o-o
-as to whether
-o-o
-a change is an
-o-o
-advantage
-o-o
-or disadvantage.
-sentence-next
-o-o
-It can even be
-o-o
-both good and bad
+good and bad
 o-o
 for the same
 o-o
@@ -111,28 +96,123 @@ customers.
 end-lyric
 
 ambee sings-damien amenn
-Wow, so many
+Wow,
 o-o
-feedback loops
+I have a lot
 o-o
-to learn about.
+yet to learn
+o-o
+about
+o-o
+feedback loops.
 sentence-next
 o-o
-And yet
+I wish there were
 o-o
-I've played
+tutorial
 o-o
-computer games
+videos
 o-o
-that took longer
+about the games of
 o-o
-to learn about
+elections
 o-o
-than what
+and economics.
+sentence-next
 o-o
-I've learned
+Like there are for
 o-o
-today.
+computer games.
+end-lyric
+
+ambee sings-desha amenn
+That reminds me.
+sentence-next
+o-o
+You're an expert
+o-o
+in something called
+o-o
+begin-italics game theory end-italics no-space .
+sentence-next
+o-o
+But we haven't
+o-o
+yet gotten
+o-o
+to that.
+end-lyric
+
+ambee sings-econhist amenn
+For your needs
+o-o
+the most
+o-o
+important part
+o-o
+of game theory
+o-o
+is better
+o-o
+vote counting.
+sentence-next
+o-o
+name-mathprof
+o-o
+said you already
+o-o
+learned
+o-o
+those basics.
+sentence-next
+o-o
+Everything
+o-o
+we discussed
+o-o
+today is about
+o-o
+playing games
+o-o
+in politics
+o-o
+and government
+o-o
+and business.
+sentence-next
+o-o
+I taught you
+o-o
+some important
+o-o
+concepts.
+sentence-next
+o-o
+But I avoided
+o-o
+teaching you the
+o-o
+terminology.
+sentence-next
+o-o
+That's messier
+o-o
+than your
+o-o
+dog poop
+o-o
+loop.
+end-lyric
+
+ambee sings-damien amenn
+Wow!
+sentence-next
+o-o
+You're a
+o-o
+super duper
+o-o
+wise guru.
 end-lyric
 
 ambee sings-desha amenn

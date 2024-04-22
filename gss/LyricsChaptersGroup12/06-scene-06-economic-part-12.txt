@@ -91,40 +91,44 @@ will help.
 end-lyric
 
 ambee sings-damien amenn
-How does that work?
+How will that work?
 end-lyric
 
 ambee sings-econhist amenn
-If it existed,
+After the open
 o-o
-you could afford
+patent system
 o-o
-to register
+is adopted,
+o-o
+you'll register
 o-o
 your idea with
 o-o
-the patent office.
+the patent office
+o-o
+for a fee that's
+o-o
+reasonable.
 sentence-next
 o-o
-Without
+And without
 o-o
-mortgaging
+having to hire
 o-o
-your house to pay
-o-o
-for a patent
+a patent
 o-o
 attorney.
 sentence-next
 o-o
-You would get a
+You will get a
 o-o
 patent number.
 sentence-next
 o-o
 The government
 o-o
-would collect
+will collect
 o-o
 and keep the
 o-o
@@ -139,7 +143,7 @@ o-o
 invented.
 sentence-next
 o-o
-You would put your
+You will put your
 o-o
 patent number
 o-o
@@ -152,13 +156,36 @@ Then
 o-o
 corporations
 o-o
-would compete
+will compete
 o-o
 to hire you
 o-o
 to invent
 o-o
 yet more.
+sentence-next
+o-o
+Then your
+o-o
+employer
+o-o
+will pay the
+o-o
+very high costs
+o-o
+of getting
+o-o
+and protecting
+o-o
+monopoly
+o-o
+patents
+o-o
+that cover
+o-o
+your newer
+o-o
+inventions.
 end-lyric
 
 ambee sings-desha amenn
@@ -370,17 +397,19 @@ o-o
 tries to do both
 o-o
 simultaneously.
-sentence-next
-o-o
-Plus there's
+end-lyric
+
+ambee sings-damien amenn
+And we waste time
 o-o
 scrolling past
 o-o
-online ads
+online ads.
+sentence-next
 o-o
-for tee shirts
+Like the ones for
 o-o
-that say
+tee shirts that say
 o-o
 begin-italics 
 five out of four
@@ -526,6 +555,17 @@ end-lyric
 
 ambee sings-desha amenn
 That's so sad.
+sentence-next
+o-o
+name-damien no-space ,
+o-o
+I'll explain
+o-o
+the Islamic
+o-o
+Golden Age
+o-o
+to you later.
 end-lyric
 
 ambee sings-econhist amenn

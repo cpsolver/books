@@ -199,13 +199,15 @@ using
 o-o
 quotas,
 o-o
-penalties,
+price controls,
 o-o
 subsidies,
 o-o
-price controls,
+legal
 o-o
-and other kinds of
+monopolies,
+o-o
+and other
 o-o
 law hyphen-here based
 o-o

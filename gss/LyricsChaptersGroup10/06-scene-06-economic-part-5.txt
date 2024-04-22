@@ -798,13 +798,11 @@ end-lyric
 ambee sings-damien amenn
 Those priests
 o-o
-would have flunked
+flunked their
 o-o
-out of
+medical hyphen-here school
 o-o
-medical
-o-o
-school.
+final exam.
 sentence-next
 o-o
 Got it.
@@ -819,19 +817,19 @@ religion
 o-o
 has split into
 o-o
+medicine,
+o-o
+public
+o-o
+education,
+o-o
 science,
 o-o
 engineering,
 o-o
-government,
+and
 o-o
-the healthcare
-o-o
-industry,
-o-o
-and public
-o-o
-education.
+government.
 end-lyric
 
 ambee sings-desha amenn
@@ -845,11 +843,13 @@ end-lyric
 ambee sings-damien amenn
 name-desha no-space ,
 o-o
-please explain
+I hope you
 o-o
-your mental
+explain
 o-o
-skip later.
+this mental
+o-o
+glitch later.
 sentence-next
 o-o
 For now,

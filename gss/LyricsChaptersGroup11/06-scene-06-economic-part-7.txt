@@ -244,11 +244,11 @@ kinds of
 o-o
 businesses
 o-o
-maker
+begin-italics maker end-italics
 o-o
 businesses
 o-o
-and taker
+and begin-italics taker end-italics
 o-o
 businesses.
 end-lyric
