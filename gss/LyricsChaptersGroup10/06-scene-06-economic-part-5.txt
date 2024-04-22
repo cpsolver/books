@@ -819,13 +819,13 @@ has split into
 o-o
 medicine,
 o-o
-public
-o-o
-education,
+engineering,
 o-o
 science,
 o-o
-engineering,
+public
+o-o
+education,
 o-o
 and
 o-o
@@ -843,13 +843,13 @@ end-lyric
 ambee sings-damien amenn
 name-desha no-space ,
 o-o
-I hope you
+later I'd like
 o-o
-explain
+to time travel
 o-o
-this mental
+to that
 o-o
-glitch later.
+golden age.
 sentence-next
 o-o
 For now,

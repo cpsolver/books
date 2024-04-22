@@ -211,18 +211,6 @@ o-o
 those feelings.
 sentence-next
 o-o
-Even the
-o-o
-holiday ones.
-sentence-next
-o-o
-It helps to
-o-o
-predict
-o-o
-the future.
-sentence-next
-o-o
 You've heard of the
 o-o
 consumer
