@@ -13,94 +13,71 @@ Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
-That's not quite right.
+That was just
+o-o
+the start.
 sentence-next
 o-o
-The banking
+Europeans
 o-o
-innovations,
-o-o
-especially
-o-o
-related to
-o-o
-using Arabic
-o-o
-numerals
-o-o
-instead of
-o-o
-Roman numerals,
-o-o
-have spread
-o-o
-around the world.
-sentence-next
-o-o
-In the meantime
-o-o
-Italy is still
-o-o
-unwinding
-o-o
-other kinds of
-o-o
-corruption.
-end-lyric
-
-ambee sings-desha amenn
-Organized
-o-o
-crime,
-o-o
-the Mafia,
-o-o
-is still strong
-o-o
-in Italy.
-sentence-next
-o-o
-But name-econhist-nickname
-o-o
-can't say that part
-o-o
-out loud.
-sentence-next
-o-o
-He could lose
-o-o
-more than just
-o-o
-tenure.
-end-lyric
-
-ambee sings-econhist amenn
-Most importantly
-o-o
-the
-o-o
-economic
-o-o
-success
-o-o
-in
+who moved to
 o-o
 America
 o-o
-exposed
+were able to
 o-o
-Europe's
+to escape
+o-o
+church taxes
+o-o
+and other kinds
+o-o
+of European
 o-o
 corruption.
 sentence-next
 o-o
-And revealed
+The result
 o-o
-that democracy
+was widespread
+o-o
+economic
+o-o
+success.
+sentence-next
+o-o
+The contrast
+o-o
+revealed that
+o-o
+democracy
 o-o
 has less
 o-o
 corruption.
+end-lyric
+
+ambee sings-damien amenn
+So freedom
+o-o
+of religion
+o-o
+is really about
+o-o
+tax evasion.
+sentence-next
+o-o
+Who knew?
+end-lyric
+
+ambee sings-desha amenn
+Probably
+o-o
+the women
+o-o
+who were burned
+o-o
+as witches.
 end-lyric
 
 ambee sings-damien amenn
@@ -141,127 +118,27 @@ prosperity.
 end-lyric
 
 ambee sings-econhist amenn
-You've got it!
+That's it!
 sentence-next
 o-o
-One last bit
+Eventually,
 o-o
-here is that
-o-o
-America
-o-o
-was far away
-o-o
-from big
-o-o
-armies
-o-o
-and navies.
-sentence-next
-o-o
-That allowed
-o-o
-democracy
-o-o
-a place to grow.
-end-lyric
-
-ambee sings-desha amenn
-And a place
-o-o
-to escape
-o-o
-taxes
-o-o
-collected by
-o-o
-European
-o-o
-churches.
-end-lyric
-
-ambee sings-damien amenn
-So freedom
-o-o
-of religion
-o-o
-is really about
-o-o
-tax evasion.
-sentence-next
-o-o
-Who knew?
-end-lyric
-
-ambee sings-desha amenn
-Probably
-o-o
-the women
-o-o
-who were burned
-o-o
-as witches.
-end-lyric
-
-ambee sings-econhist amenn
-America's
-o-o
-economic
-o-o
-success
-o-o
-created
-o-o
-jealousy in
-o-o
-Europeans.
-sentence-next
-o-o
-Eventually
+in Europe,
 o-o
 Protestants
 o-o
 and Catholics
 o-o
-stopped fighting
+mostly stopped
 o-o
-over religious
-o-o
-supremacy
-o-o
-in Europe.
-sentence-next
-o-o
-Except in
-o-o
-northern
-o-o
-Ireland
-o-o
-where
+fighting over
 o-o
 religious
 o-o
-oppression
-o-o
-used to be
-o-o
-horrific.
+supremacy.
 end-lyric
 
 ambee sings-desha amenn
-And Europeans
-o-o
-stopped having
-o-o
-food fights
-o-o
-about table
-o-o
-etiquette.
-end-lyric
-
-ambee sings-econhist amenn
 Also the French,
 o-o
 Italians,
@@ -288,19 +165,23 @@ o-o
 winning that
 o-o
 fight.
-sentence-next
-o-o
-So basically
+end-lyric
+
+ambee sings-econhist amenn
+Eventually
 o-o
 Europeans
 o-o
-are copying
+created the
 o-o
-the clear
+European
 o-o
-economic
+Union.
+sentence-next
 o-o
-success of
+That's their attempt
+o-o
+to copy the
 o-o
 cooperation
 o-o
@@ -843,13 +724,17 @@ end-lyric
 ambee sings-damien amenn
 name-desha no-space ,
 o-o
-later I'd like
+later you can
 o-o
-to time travel
+tell me how
 o-o
-to that
+television waves
 o-o
-golden age.
+are interfering
+o-o
+with your
+o-o
+brain waves.
 sentence-next
 o-o
 For now,

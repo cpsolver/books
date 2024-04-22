@@ -801,68 +801,44 @@ Renaissance?
 end-lyric
 
 ambee sings-econhist amenn
-Lots of the wealth
+At that time
 o-o
-going to Rome
-o-o
-came from
+European
 o-o
 churches
 o-o
-around Europe
+heavily taxed
 o-o
-that heavily
+their church members.
+sentence-next
 o-o
-taxed their
+And they sold
 o-o
-members.
+lots of
+o-o
+documents of
+o-o
+forgiveness.
 sentence-next
 o-o
 That wealth
 o-o
-is still visible
+flowed to the Pope
 o-o
-today in the
+in the
 o-o
-Vatican City.
-end-lyric
-
-ambee sings-desha amenn
-Which is
+Vatican City,
 o-o
-inside
+which is
 o-o
-Rome.
-end-lyric
-
-ambee sings-damien amenn
-Even I've
+inside Rome.
+sentence-next
 o-o
-heard about
+Those taxes
 o-o
-the porn painted
+and fees were
 o-o
-on the ceiling
-o-o
-of a chapel
-o-o
-in Rome.
-end-lyric
-
-ambee sings-desha amenn
-The Sistine
-o-o
-Chapel.
-end-lyric
-
-ambee sings-econhist amenn
-Those church taxes,
-o-o
-especially
-o-o
-indulgences,
-o-o
-were so corrupt
+so corrupt
 o-o
 and oppressive
 o-o
@@ -875,141 +851,4 @@ o-o
 Protestant
 o-o
 revolution.
-end-lyric
-
-ambee sings-damien amenn
-Do fewer
-o-o
-rich people
-o-o
-really hold back
-o-o
-on indulgences
-o-o
-for wine,
-o-o
-potato chips,
-o-o
-and foot
-o-o
-massages?
-end-lyric
-
-ambee sings-desha amenn
-Not those kinds
-o-o
-of indulgences.
-sentence-next
-o-o
-These were
-o-o
-documents
-o-o
-of forgiveness
-o-o
-purchased from
-o-o
-the church.
-sentence-next
-o-o
-The point is
-o-o
-money flowing
-o-o
-into Rome
-o-o
-from Catholic
-o-o
-churches
-o-o
-dried up
-o-o
-because the popes
-o-o
-got way
-o-o
-too greedy.
-end-lyric
-
-ambee sings-econhist amenn
-Back then
-o-o
-freedom of
-o-o
-religion
-o-o
-was about money.
-sentence-next
-o-o
-Not just beliefs.
-sentence-next
-o-o
-And beliefs
-o-o
-and money
-o-o
-intertwined,
-o-o
-such as the ban
-o-o
-on abortions.
-end-lyric
-
-ambee sings-damien amenn
-What's the link
-o-o
-between money
-o-o
-and abortions?
-end-lyric
-
-ambee sings-desha amenn
-Less abortions
-o-o
-yielded bigger
-o-o
-congregations
-o-o
-buying off
-o-o
-more sins
-o-o
-and sending
-o-o
-yet more money
-o-o
-to the Vatican.
-end-lyric
-
-ambee sings-econhist amenn
-Plus
-o-o
-abortions
-o-o
-of males
-o-o
-diminished
-o-o
-the size
-o-o
-of the king's
-o-o
-son's army.
-sentence-next
-o-o
-That could affect
-o-o
-winning or losing
-o-o
-fights,
-o-o
-which was the
-o-o
-basis for
-o-o
-economic
-o-o
-gains and
-o-o
-losses.
 end-lyric
