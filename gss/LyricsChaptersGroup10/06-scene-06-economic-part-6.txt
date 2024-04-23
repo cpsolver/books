@@ -215,7 +215,9 @@ law hyphen-here based
 o-o
 transfers
 o-o
-of money.
+of money
+o-o
+and resources.
 sentence-next
 o-o
 Typically
