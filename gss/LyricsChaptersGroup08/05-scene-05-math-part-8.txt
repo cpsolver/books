@@ -387,7 +387,9 @@ ballots
 o-o
 that favor
 o-o
-those parties
+political
+o-o
+parties
 o-o
 that didn't win
 o-o

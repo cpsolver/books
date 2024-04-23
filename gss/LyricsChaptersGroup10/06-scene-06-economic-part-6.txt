@@ -249,6 +249,23 @@ o-o
 and
 o-o
 military coups.
+sentence-next
+o-o
+Both the
+o-o
+top hyphen-here down control
+o-o
+and the
+o-o
+workarounds
+o-o
+are the exact
+o-o
+opposites
+o-o
+of a free
+o-o
+market.
 end-lyric
 
 ambee sings-desha amenn
@@ -303,7 +320,9 @@ o-o
 good intentions.
 sentence-next
 o-o
-But those get
+But inevitably
+o-o
+their goals get
 o-o
 corrupted
 o-o

@@ -15,69 +15,132 @@ end-lyric
 ambee sings-econhist amenn
 That was just
 o-o
-the start.
+part of
+o-o
+Italy's
+o-o
+decline.
 sentence-next
+o-o
+Oppression and
+o-o
+corruption
+o-o
+and church taxes
+o-o
+throughout Europe
+o-o
+motivated
+o-o
+lots of
 o-o
 Europeans
 o-o
-who moved to
+to move to
 o-o
-America
-o-o
-were able to
-o-o
-to escape
-o-o
-church taxes
-o-o
-and other kinds
-o-o
-of European
-o-o
-corruption.
-sentence-next
-o-o
-The result
-o-o
-was widespread
-o-o
-economic
-o-o
-success.
-sentence-next
-o-o
-The contrast
-o-o
-revealed that
-o-o
-democracy
-o-o
-has less
-o-o
-corruption.
+America.
 end-lyric
 
-ambee sings-damien amenn
-So freedom
+ambee sings-desha amenn
+I didn't
 o-o
-of religion
+realize that
+o-o
+freedom of
+o-o
+religion
 o-o
 is really about
 o-o
 tax evasion.
-sentence-next
-o-o
-Who knew?
 end-lyric
 
-ambee sings-desha amenn
-Probably
+ambee sings-econhist amenn
+The later
 o-o
-the women
+amazing
 o-o
-who were burned
+economic
 o-o
-as witches.
+success of
+o-o
+the United States
+o-o
+made Europeans
+o-o
+jealous.
+sentence-next
+o-o
+Slowly they
+o-o
+began to copy
+o-o
+the efficient
+o-o
+cooperation
+o-o
+that works so well
+o-o
+in the
+o-o
+United States.
+sentence-next
+o-o
+European
+o-o
+Protestants
+o-o
+and Catholics
+o-o
+mostly stopped
+o-o
+fighting over
+o-o
+religious
+o-o
+supremacy.
+sentence-next
+o-o
+The French,
+o-o
+Italians,
+o-o
+and Germans
+o-o
+stopped
+o-o
+fighting over
+o-o
+language
+o-o
+supremacy
+o-o
+because they saw
+o-o
+the inferior
+o-o
+English
+o-o
+language was
+o-o
+winning that
+o-o
+fight.
+sentence-next
+o-o
+And eventually
+o-o
+European
+o-o
+nations joined
+o-o
+together
+o-o
+to form the
+o-o
+European
+o-o
+Union.
 end-lyric
 
 ambee sings-damien amenn
@@ -85,7 +148,7 @@ I think
 o-o
 I'm seeing
 o-o
-the pattern.
+the big picture.
 sentence-next
 o-o
 Higher levels
@@ -119,77 +182,6 @@ end-lyric
 
 ambee sings-econhist amenn
 That's it!
-sentence-next
-o-o
-Eventually,
-o-o
-in Europe,
-o-o
-Protestants
-o-o
-and Catholics
-o-o
-mostly stopped
-o-o
-fighting over
-o-o
-religious
-o-o
-supremacy.
-end-lyric
-
-ambee sings-desha amenn
-Also the French,
-o-o
-Italians,
-o-o
-and Germans
-o-o
-stopped
-o-o
-fighting over
-o-o
-language
-o-o
-supremacy.
-sentence-next
-o-o
-They saw the
-o-o
-inferior
-o-o
-English
-o-o
-language was
-o-o
-winning that
-o-o
-fight.
-end-lyric
-
-ambee sings-econhist amenn
-Eventually
-o-o
-Europeans
-o-o
-created the
-o-o
-European
-o-o
-Union.
-sentence-next
-o-o
-That's their attempt
-o-o
-to copy the
-o-o
-cooperation
-o-o
-that works so well
-o-o
-in the
-o-o
-United States.
 end-lyric
 
 ambee sings-desha amenn
@@ -617,9 +609,13 @@ He used his
 o-o
 telescope
 o-o
-to sketch the sin
+to draw charts
 o-o
-going on in the
+of the sins
+o-o
+happening
+o-o
+in the
 o-o
 Vatican?
 end-lyric
