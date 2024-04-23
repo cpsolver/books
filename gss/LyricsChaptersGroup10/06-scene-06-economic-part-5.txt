@@ -391,7 +391,13 @@ o-o
 pollution.
 sentence-next
 o-o
-That's toasting
+That
+o-o
+shortsightedness
+o-o
+and selfishness
+o-o
+is toasting
 o-o
 our planet.
 end-lyric

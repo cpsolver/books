@@ -314,7 +314,7 @@ sentence-next
 o-o
 The other
 o-o
-main maker
+main begin-italics maker end-italics
 o-o
 businesses
 o-o
@@ -367,7 +367,7 @@ sentence-next
 o-o
 At the full
 o-o
-taker end
+begin-italics taker end-italics end
 o-o
 there's
 o-o
