@@ -201,11 +201,13 @@ quotas,
 o-o
 price controls,
 o-o
-subsidies,
-o-o
 legal
 o-o
 monopolies,
+o-o
+property
+o-o
+seizures,
 o-o
 and other
 o-o
@@ -216,13 +218,17 @@ o-o
 of money.
 sentence-next
 o-o
-Inevitably
+Typically
 o-o
 those rules and
 o-o
 constraints
 o-o
-lead to suffering
+lead to
+o-o
+economic
+o-o
+suffering
 o-o
 and complaints.
 sentence-next
@@ -251,11 +257,11 @@ o-o
 military coups.
 sentence-next
 o-o
-Both the
+Those top hyphen-here down
 o-o
-top hyphen-here down control
+manipulations
 o-o
-and the
+and those
 o-o
 workarounds
 o-o
