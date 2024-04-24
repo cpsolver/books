@@ -309,6 +309,13 @@ o-o
 on the blocks
 o-o
 from the top.
+sentence-next
+o-o
+Vanilla
+o-o
+wins in
+o-o
+that case.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -329,6 +336,11 @@ o-o
 deeper.
 sentence-next
 o-o
+Strawberry
+o-o
+wins that way.
+sentence-next
+o-o
 Pairwise counting
 o-o
 looks at the
@@ -341,6 +353,11 @@ o-o
 every preference
 o-o
 detail.
+sentence-next
+o-o
+Mint chocolate chip
+o-o
+wins that way.
 end-lyric
 
 ambee sings-damien amenn

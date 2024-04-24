@@ -201,6 +201,8 @@ quotas,
 o-o
 price controls,
 o-o
+tariffs,
+o-o
 legal
 o-o
 monopolies,

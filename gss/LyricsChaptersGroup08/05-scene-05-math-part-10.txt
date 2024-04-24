@@ -159,7 +159,9 @@ third hyphen-here party
 o-o
 candidate
 o-o
-without regret
+without
+o-o
+any regrets
 o-o
 if adding all
 o-o

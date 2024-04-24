@@ -369,28 +369,22 @@ end-lyric
 ambee sings-damien amenn
 I see that
 o-o
-adopting
+learning
+o-o
+how to mark
 o-o
 ranked choice
 o-o
 ballots
 o-o
-is like
-o-o
-progressing
-o-o
-from tic-tac-toe
-o-o
-to checkers.
+is not that hard.
 sentence-next
 o-o
-The only part
+Yet I am
 o-o
-that still scares me
+still scared about
 o-o
-is having
-o-o
-to rank
+having to rank
 o-o
 lots and lots
 o-o
@@ -460,7 +454,7 @@ plurality votes
 o-o
 really the
 o-o
-second best
+second hyphen-here best
 o-o
 candidate?
 end-lyric
