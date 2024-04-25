@@ -288,14 +288,11 @@ chess.
 end-lyric
 
 ambee sings-mathprof amenn
-Each candidate
+This is
 o-o
-gets just one mark.
-sentence-next
+much, much
 o-o
-That's one mark
-o-o
-per row.
+easier.
 sentence-next
 o-o
 You start
@@ -396,7 +393,9 @@ When there's less time
 o-o
 to learn about
 o-o
-all of them.
+all the
+o-o
+candidates.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -468,7 +467,7 @@ end-lyric
 ambee sings-mathprof amenn
 No,
 o-o
-not necessarily.
+not always.
 sentence-next
 o-o
 Yet that threshold
