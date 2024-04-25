@@ -259,13 +259,17 @@ choice columns
 o-o
 can
 o-o
-handle twenty
+handle
+o-o
+a dozen
+o-o
+or more
 o-o
 candidates.
 end-lyric
 
 ambee sings-damien amenn
-Twenty rows
+Twelve rows
 o-o
 of ovals
 o-o
@@ -284,7 +288,19 @@ chess.
 end-lyric
 
 ambee sings-mathprof amenn
-You would mark
+Each candidate
+o-o
+gets just one mark.
+sentence-next
+o-o
+That's one mark
+o-o
+per row.
+sentence-next
+o-o
+You start
+o-o
+by marking
 o-o
 your very favorite
 o-o
@@ -295,7 +311,7 @@ o-o
 and second choice.
 sentence-next
 o-o
-You would plan where to
+Then you plan where to
 o-o
 mark your
 o-o
@@ -367,30 +383,20 @@ of winning.
 end-lyric
 
 ambee sings-damien amenn
-I see that
-o-o
-learning
-o-o
-how to mark
-o-o
-ranked choice
-o-o
-ballots
-o-o
-is not that hard.
+I can handle that.
 sentence-next
 o-o
-Yet I am
+Except maybe
 o-o
-still scared about
+in the
 o-o
-having to rank
+primary.
 o-o
-lots and lots
+When there's less time
 o-o
-of candidates
+to learn about
 o-o
-in the primary.
+all of them.
 end-lyric
 
 ambee sings-mathprof amenn
@@ -460,7 +466,9 @@ candidate?
 end-lyric
 
 ambee sings-mathprof amenn
-Not necessarily.
+No,
+o-o
+not necessarily.
 sentence-next
 o-o
 Yet that threshold

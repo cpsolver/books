@@ -480,14 +480,24 @@ decimal point
 o-o
 right by
 o-o
-two places.
+two places,
+o-o
+and just using
+o-o
+the digits
+o-o
+to the left
+o-o
+of the
+o-o
+decimal point.
 sentence-next
 o-o
-To make numbers
+That makes numbers
 o-o
 between
 o-o
-one and zero
+zero and one
 o-o
 easier to
 o-o
@@ -690,8 +700,9 @@ o-o
 to a rich
 o-o
 treasure chest.
-sentence-next
-o-o
+end-lyric
+
+ambee sings-desha amenn
 We'll share
 o-o
 what we've

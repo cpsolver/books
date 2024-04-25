@@ -647,15 +647,18 @@ sentence-next
 o-o
 And corruption
 o-o
-reduces
-o-o
-efficiency,
-o-o
-which causes
+causes
 o-o
 economic
 o-o
 decline.
+sentence-next
+o-o
+Because of
+o-o
+reduced
+o-o
+efficiency.
 end-lyric
 
 ambee sings-econhist amenn

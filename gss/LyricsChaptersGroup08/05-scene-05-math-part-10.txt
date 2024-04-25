@@ -439,21 +439,14 @@ world to me.
 end-lyric
 
 ambee sings-desha amenn
-Maybe,
+Maybe
+o-o
+they should say
 o-o
 ...
 sentence-next
 o-o
 begin-italics
-Don't put your
-o-o
-ballot in the
-o-o
-shredder,
-o-o
-we can do better.
-sentence-next
-o-o
 Candidates
 o-o
 should be
