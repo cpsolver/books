@@ -898,9 +898,9 @@ it could buy
 o-o
 a beach house,
 o-o
-or ski lodge,
+or mountain cabin,
 o-o
-or yacht.
+or a yacht.
 sentence-next
 o-o
 Something I
