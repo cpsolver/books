@@ -678,13 +678,13 @@ do you see
 o-o
 that tax breaks
 o-o
-for small maker
+for small begin-italics maker end-italics
 o-o
 businesses
 o-o
 will increase sales
 o-o
-at taker
+at begin-italics taker end-italics
 o-o
 businesses?
 end-lyric

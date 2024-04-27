@@ -703,7 +703,9 @@ garden tool.
 end-lyric
 
 ambee sings-desha amenn
-It's a math word.
+Tally
+o-o
+is a math word.
 sentence-next
 o-o
 If you were

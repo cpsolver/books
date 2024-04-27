@@ -454,17 +454,15 @@ o-o
 mayor.
 sentence-next
 o-o
-That's because
-o-o
-when it reached
+When it reached
 o-o
 the top three
 o-o
 candidates,
 o-o
-the one with
+the candidate
 o-o
-the smallest
+with the smallest
 o-o
 transferred
 o-o
@@ -474,7 +472,9 @@ wasn't
 o-o
 the least popular
 o-o
-candidate.
+among those three
+o-o
+candidates.
 sentence-next
 o-o
 It made a

@@ -628,7 +628,57 @@ o-o
 general idea.
 sentence-next
 o-o
+Economic
+o-o
+efficiency
+o-o
+and stealing from
+o-o
+...
+end-lyric
+
+ambee sings-econhist amenn
+Wait.
+sentence-next
+o-o
+The term
+o-o
+begin-italics economic
+o-o
+efficiency end-italics
+o-o
+has a special
+o-o
+meaning that's
+o-o
+different.
+sentence-next
+o-o
+Here I'm talking
+o-o
+about efficiency
+o-o
+in general.
+sentence-next
+o-o
+Let's call it
+o-o
+efficiency
+o-o
+in the
+o-o
+economy.
+end-lyric
+
+ambee sings-damien amenn
+Ok.
+sentence-next
+o-o
 Efficiency
+o-o
+in the
+o-o
+economy
 o-o
 and stealing from
 o-o

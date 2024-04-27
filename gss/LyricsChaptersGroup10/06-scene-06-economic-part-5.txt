@@ -22,43 +22,22 @@ o-o
 decline.
 sentence-next
 o-o
-Oppression and
+Let's skip over
 o-o
-corruption
+lots of what's called
 o-o
-and church taxes
+the history
 o-o
-throughout Europe
+of western
 o-o
-motivated
+civilization.
+sentence-next
 o-o
-lots of
+After the end
 o-o
-Europeans
+of World War Two
 o-o
-to move to
-o-o
-America.
-end-lyric
-
-ambee sings-desha amenn
-I didn't
-o-o
-realize that
-o-o
-freedom of
-o-o
-religion
-o-o
-is really about
-o-o
-tax evasion.
-end-lyric
-
-ambee sings-econhist amenn
-The later
-o-o
-amazing
+the amazing
 o-o
 economic
 o-o
@@ -129,7 +108,7 @@ o-o
 fight.
 sentence-next
 o-o
-And eventually
+Eventually
 o-o
 European
 o-o
@@ -152,11 +131,17 @@ o-o
 the big picture.
 sentence-next
 o-o
-Higher levels
+Fairer
 o-o
-of democracy
+elections
 o-o
-yield less
+yield higher
+o-o
+levels of
+o-o
+democracy,
+o-o
+which yield less
 o-o
 corruption,
 o-o
