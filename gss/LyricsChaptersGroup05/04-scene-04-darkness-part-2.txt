@@ -284,24 +284,29 @@ that our planet
 o-o
 is losing
 o-o
-snow leopards and
+snow leopards,
 o-o
-elephants, and
+and elephants,
+o-o
+and
 o-o
 rhinoceros ...
 sentence-next
 o-o
-es, and
+es,
 o-o
-dolphins, and
+and dolphins.
+sentence-next
 o-o
-coral reefs, and
+And the trees
 o-o
-plant species
+and plants
 o-o
-that could cure
+and critters
 o-o
-and feed.
+and coral reefs
+o-o
+we all need.
 end-lyric
 
 ambee sings-damien amenn

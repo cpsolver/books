@@ -381,14 +381,15 @@ of extra votes
 o-o
 by changing
 o-o
-their name.
-sentence-next
+their first name
 o-o
-To
+to begin-italics Click end-italics
 o-o
-...
+and changing
 o-o
-Click Here.
+their last name
+o-o
+to begin-italics Here end-italics no-space .
 end-lyric
 
 ambee sings-damien amenn

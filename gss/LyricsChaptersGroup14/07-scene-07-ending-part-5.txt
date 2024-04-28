@@ -490,11 +490,14 @@ Obama during
 o-o
 the Democratic
 o-o
-primary with
+primary.
+sentence-next
 o-o
-the idea that a
+They expected
 o-o
-black man could not
+that a black man
+o-o
+could not
 o-o
 possibly win
 o-o
@@ -526,23 +529,33 @@ there's no crime.
 end-lyric
 
 ambee sings-damien amenn
-The fight between
+I also learned
+o-o
+that the fight
+o-o
+between
 o-o
 political
 o-o
 left and right
 o-o
-is an entertaining
+is an
 o-o
-distraction from
+entertaining
 o-o
-the real, bigger
+distraction
 o-o
-fight between
+from the
+o-o
+bigger fight
+o-o
+between
 o-o
 political up
 o-o
-and political down.
+and
+o-o
+political down.
 end-lyric
 
 ambee sings-father-of-fiance amenn

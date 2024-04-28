@@ -143,7 +143,9 @@ democracy,
 o-o
 which yield less
 o-o
-corruption,
+corruption
+o-o
+and less fighting,
 o-o
 which causes
 o-o

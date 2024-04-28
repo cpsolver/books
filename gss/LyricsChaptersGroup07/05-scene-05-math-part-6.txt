@@ -290,7 +290,7 @@ end-lyric
 ambee sings-mathprof amenn
 This is
 o-o
-much, much
+much begin-italics much end-italics
 o-o
 easier.
 sentence-next
@@ -388,8 +388,11 @@ o-o
 in the
 o-o
 primary.
+sentence-next
 o-o
-When there's less time
+When it takes
+o-o
+too much time
 o-o
 to learn about
 o-o

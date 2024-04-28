@@ -353,6 +353,7 @@ o-o
 of corruption
 o-o
 is despair. end-italics
+sentence-next
 o-o
 If that's from
 o-o
