@@ -33,9 +33,9 @@ o-o
 civilization.
 sentence-next
 o-o
-After the end
+By the end of
 o-o
-of World War Two
+World War Two,
 o-o
 the amazing
 o-o
@@ -108,7 +108,7 @@ o-o
 fight.
 sentence-next
 o-o
-Eventually
+And eventually
 o-o
 European
 o-o

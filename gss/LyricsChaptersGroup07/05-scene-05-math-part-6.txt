@@ -390,7 +390,7 @@ o-o
 primary.
 sentence-next
 o-o
-When it takes
+Because it takes
 o-o
 too much time
 o-o
