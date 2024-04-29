@@ -314,9 +314,13 @@ sentence-next
 o-o
 Right now
 o-o
-the pyramid
+we have a
 o-o
-is upside down.
+pyramid
+o-o
+that's
+o-o
+upside down.
 sentence-next
 o-o
 Lots of taker
@@ -330,7 +334,7 @@ sentence-next
 o-o
 That crushes
 o-o
-lots of small
+the small
 o-o
 maker
 o-o
@@ -469,16 +473,15 @@ people would be less
 o-o
 attracted to
 o-o
-higher paid,
+higher hyphen-here paid,
 o-o
 but soul hyphen-here sucking,
 o-o
-jobs in
+jobs
 o-o
-banks.
-sentence-next
+in banks and
 o-o
-And law firms.
+law firms.
 sentence-next
 o-o
 And in

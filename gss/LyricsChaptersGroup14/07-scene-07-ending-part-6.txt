@@ -648,7 +648,7 @@ o-o
 headquarters.
 sentence-next
 o-o
-That drains
+They drain
 o-o
 money from
 o-o

@@ -383,7 +383,7 @@ by changing
 o-o
 their first name
 o-o
-to begin-italics Click end-italics
+to begin-italics Click end-italics no-space ,
 o-o
 and changing
 o-o

@@ -22,22 +22,14 @@ o-o
 decline.
 sentence-next
 o-o
-Let's skip over
+Let's skip ahead
 o-o
-lots of what's called
+to the end of
 o-o
-the history
-o-o
-of western
-o-o
-civilization.
+World War Two.
 sentence-next
 o-o
-By the end of
-o-o
-World War Two,
-o-o
-the amazing
+The amazing
 o-o
 economic
 o-o
@@ -176,37 +168,18 @@ ambee sings-desha amenn
 Wait a minute.
 sentence-next
 o-o
-You said warfare
+You said fighting
 o-o
 undermines the
 o-o
 economy.
 sentence-next
 o-o
-Yet political hawks,
-o-o
-who are mostly
-o-o
-conservatives,
-o-o
-promote warfare
-o-o
-as a way to
-o-o
-increase
-o-o
-prosperity.
-sentence-next
-o-o
-And competition
+Yet competition
 o-o
 between
 o-o
-nations,
-o-o
-and between
-o-o
-businesses,
+businesses
 o-o
 is the basis
 o-o
@@ -215,6 +188,19 @@ o-o
 in a free market,
 o-o
 right?
+sentence-next
+o-o
+And some
+o-o
+politicians
+o-o
+promote warfare
+o-o
+as a way to
+o-o
+increase
+o-o
+prosperity.
 end-lyric
 
 ambee sings-damien amenn
@@ -244,7 +230,7 @@ o-o
 to work hard.
 sentence-next
 o-o
-But what gets
+What gets
 o-o
 overlooked is
 o-o
@@ -263,12 +249,20 @@ That cooperation
 o-o
 yields
 o-o
-efficiency.
+efficiency
+o-o
+and
+o-o
+productivity.
 sentence-next
 o-o
 The same kind of
 o-o
 cooperation
+o-o
+and
+o-o
+productivity
 o-o
 happens among
 o-o
@@ -299,14 +293,18 @@ getting along,
 o-o
 who wouldn't
 o-o
-normally get along.
+normally
+o-o
+get along.
 sentence-next
 o-o
 Like employees
 o-o
 ignoring
 o-o
-racial differences,
+racial
+o-o
+differences,
 o-o
 religious
 o-o
@@ -318,7 +316,9 @@ differences.
 end-lyric
 
 ambee sings-damien amenn
-Oh, and Republicans
+Oh,
+o-o
+and Republicans
 o-o
 and Democrats
 o-o
@@ -393,15 +393,15 @@ end-lyric
 ambee sings-econhist amenn
 In the past,
 o-o
-high levels
-o-o
-of cooperation
-o-o
-came from
-o-o
 churches and
 o-o
-religions.
+religions
+o-o
+were the source
+o-o
+of high levels
+o-o
+of cooperation.
 sentence-next
 o-o
 However that
@@ -423,25 +423,20 @@ raising money
 o-o
 to feed
 o-o
-the needy.
-sentence-next
+the needy
 o-o
-And on Sunday
-o-o
-singing
-o-o
-harmoniously
-o-o
-together
-o-o
-in church.
+in that city.
 sentence-next
 o-o
 However
 o-o
 all the churches
 o-o
-in a city
+in a city,
+o-o
+even working
+o-o
+together,
 o-o
 are powerless
 o-o
@@ -457,13 +452,31 @@ end-lyric
 ambee sings-damien amenn
 Religions
 o-o
-can be good?
+can make a
+o-o
+difference?
+sentence-next
+o-o
+Economically?
 end-lyric
 
 ambee sings-econhist amenn
 Ancient priests
 o-o
-in Egypt earned
+used to be
+o-o
+the source of
+o-o
+lots of
+o-o
+economic
+o-o
+prosperity.
+sentence-next
+o-o
+In ancient Egypt
+o-o
+priests earned
 o-o
 their grain and beer
 o-o

@@ -469,7 +469,9 @@ solar energy
 o-o
 technology
 o-o
-will improve
+will continue
+o-o
+to improve
 o-o
 dramatically.
 sentence-next
@@ -648,7 +650,7 @@ Subreddits
 o-o
 can be quite
 o-o
-inspiring.
+insightful.
 end-lyric
 
 ambee sings-damien amenn

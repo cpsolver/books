@@ -481,9 +481,9 @@ o-o
 or killed.
 sentence-next
 o-o
-And the results
+And the numbers
 o-o
-are rigged.
+are faked.
 sentence-next
 o-o
 How real is that?

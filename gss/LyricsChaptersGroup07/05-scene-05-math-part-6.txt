@@ -986,7 +986,9 @@ o-o
 anxiety.
 sentence-next
 o-o
-Lots of people
+And lots
+o-o
+of people
 o-o
 have it because
 o-o

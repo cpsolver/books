@@ -581,17 +581,33 @@ I thought our plan
 o-o
 was to sleep in
 o-o
-on most weekends,
+on Saturday
 o-o
-do activities
+mornings
 o-o
-with friends,
+after a week
 o-o
-eat healthy food,
+of working hard.
+sentence-next
 o-o
-watch some movies,
+And eat
 o-o
-and sometimes
+healthy food.
+sentence-next
+o-o
+And watch
+o-o
+some movies.
+sentence-next
+o-o
+And do
+o-o
+activities
+o-o
+with our friends.
+sentence-next
+o-o
+And sometimes
 o-o
 take weekend
 o-o
