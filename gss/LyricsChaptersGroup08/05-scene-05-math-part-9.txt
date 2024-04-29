@@ -660,7 +660,11 @@ sentence-next
 o-o
 We've learned about
 o-o
-ranked choice ballots.
+ranked choice ballots
+o-o
+in general
+o-o
+elections.
 sentence-next
 o-o
 And pairwise

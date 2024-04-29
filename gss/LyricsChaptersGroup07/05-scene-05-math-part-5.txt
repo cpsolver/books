@@ -829,7 +829,7 @@ Congress.
 end-lyric
 
 ambee sings-desha amenn
-A black widow
+A black hyphen-here widow
 o-o
 spider's web of
 o-o
