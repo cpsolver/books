@@ -5,7 +5,7 @@ end-title
 begin-standard-paragraph
 Here's a big thank you to these skilled editors and reviewers:
 sentence-next
-George "Vonnegut" (a comedy writing genius on Fiverr),
+George open-quote Vonnegut close-quote (a comedy writing genius on Fiverr),
 Cynthia S.,
 Fran T.,
 Eliza R.,

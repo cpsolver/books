@@ -643,11 +643,11 @@ drain money
 o-o
 from local
 o-o
-customers
+customers and
 o-o
-and send it
+send it to their
 o-o
-to corporate
+corporate
 o-o
 headquarters.
 end-lyric
