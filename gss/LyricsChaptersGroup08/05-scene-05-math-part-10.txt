@@ -219,7 +219,9 @@ o-o
 elections.
 sentence-next
 o-o
-So in those
+So in
+o-o
+presidential
 o-o
 elections
 o-o

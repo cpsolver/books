@@ -401,7 +401,7 @@ begin-explain Chuckles end-explain
 end-lyric
 
 ambee sings-desha amenn
-Lots of
+And lots of
 o-o
 people vote
 o-o
