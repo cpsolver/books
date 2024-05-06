@@ -520,7 +520,10 @@ sentence-next
 o-o
 That's what Willie
 o-o
-does. She's a
+does.
+sentence-next
+o-o
+She's a
 o-o
 teacher.
 end-lyric

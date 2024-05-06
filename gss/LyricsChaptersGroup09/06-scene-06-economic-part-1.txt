@@ -311,7 +311,7 @@ o-o
 justification?
 sentence-next
 o-o
-For that prediction?
+For that prediction.
 end-lyric
 
 ambee sings-econhist amenn

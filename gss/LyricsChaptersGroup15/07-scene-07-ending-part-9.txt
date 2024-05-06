@@ -664,9 +664,11 @@ the wealthy.
 end-lyric
 
 ambee sings-damien amenn
-Yes we'll visit
+Yes,
 o-o
-you at your home.
+we'll visit you
+o-o
+at your home.
 sentence-next
 o-o
 Surely there's
