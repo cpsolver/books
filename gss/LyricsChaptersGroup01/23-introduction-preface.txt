@@ -54,7 +54,8 @@ Remember to share this secret with your friends!
 end-standard-paragraph
 
 begin-standard-paragraph
-To find out about audiobook recordings and video performances of this witty dialog, point your browser to: SolutionsCreative.com
+To find out about audiobook recordings and video performances of this witty dialog, point your browser to:
+begin-italics SolutionsCreative.com end-italics
 end-standard-paragraph
 
 page-break
