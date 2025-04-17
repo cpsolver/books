@@ -92,7 +92,7 @@ paragraph-end
 
 
 paragraph-begin
-As explained above, a string of bits sent to the input side of the serial processing unit select which inputs are supplied to that serial processing unit. sentence-next Here are all the possible inputs. sentence-next Only some of them are available to only some of the single-bit full-adder units.
+As explained above, a string of bits select which one-bit data inputs are supplied to that serial processing unit. sentence-next Here are all the possible inputs. sentence-next Only some of them are available to only some serial processing unites (each of which is a single-bit full adder).
 paragraph-end
 
 list-begin
@@ -109,7 +109,19 @@ list-next
 from_one
 list-next
 from_one_initial sentence-next which increments the first bit within a number, and afterward is zero
+list-next
+from_size_bits_8
+list-next
+from_size_bits_16
+list-next
+from_size_bits_32
+list-next
+from_size_bits_64
 list-end
+
+paragraph-begin
+The "from_size_bits" inputs allow numeric "words" to be of different sizes. sentence-next Specifically 8 bits, 16 bits, 32 bits, and the default size of 64 bits. sentence-next Basically this input specifies a path that skips over unused bits in that 64-bit "word" storage area. sentence-next The option from_size_bits_64 is only needed if the default word length is 128 bits.
+paragraph-end
 
 paragraph-begin
 The 32 pairwise inputs are used for multiplication using the method described below. sentence-next This input option is available in only some columns (if data flow is top to bottom) or only some rows (if data flow is left to right).
@@ -147,6 +159,10 @@ subheading-begin
 Increment
 subheading-end
 
+paragraph-begin
+Incrementing of a number A is done by running its bits through one processing cell (full adder) where it is added to number B which is just a single one bit as the first bit, and all other bits of B are zero. sentence-next The output carry bit is supplied to the input carry bit for each next bit in number A.
+paragraph-end
+
 
 subheading-begin
 Addition
@@ -157,25 +173,44 @@ subheading-begin
 Subtraction
 subheading-end
 
+paragraph-begin
+Subtraction has three steps. sentence-next It is done in three processing cells that are linked in sequence. sentence-next Assume the calculation is A minus B. sentence-next The three steps are:
+paragraph-end
+
+list-begin
+In step one processing cell: sentence-next Convert B into "NOT B", which is the "ones complement." sentence-next This means each 0 becomes 1, and each 1 becomes 0. sentence-next This can be done by selecting carry to be zero and selecting the other full-adder input to be one.
+list-next
+In step two processing cell: sentence-next Increment (add one to) NOT B as described in the "increment" section. sentence-next This is done by selecting the second full-adder input to be one during the least significant bit, and then zero for all following bits.
+list-next
+In step three processing cell: sentence-next Add the incremented NOT B to operand A. sentence-next Ignore the carry from the most significant bit. sentence-next The result is the difference.
+list-end
+
 
 subheading-begin
 Decrement
 subheading-end
+
+paragraph-begin
+Decrementing of a number A is done by running its bits through one processing cell (full adder) where it is added to number B which is all ones for all bits. sentence-next The output carry bit is supplied to the input carry bit for each next bit in number A.
+paragraph-end
 
 
 subheading-begin
 Multiplication
 subheading-end
 
+paragraph-begin
+Multiplication is done using the from_adder_left_pairwise_N lines as inputs to a column of serial processing units. sentence-next The calculated bits are sent to adjacent serial processing units that add these calculated bits. sentence-next Between each bit of the first (A) operand, a shift downward in operand A aligns the data for the next addition.
+paragraph-end
+
 
 subheading-begin
 Division
 subheading-end
 
-
-subheading-begin
-Reciprocal
-subheading-end
+paragraph-begin
+Division starts with calculating the complement of the second operand, which is B. sentence-next Then the complemented operand B is added to the "remainder" being calculated, and also added to a possibly temporary "remainder". sentence-next If the result of the possibly temporary remainder yields a carry bit that indicates overflow, the non-modified remainder is used for the next subtraction. sentence-next If instead there is no carry, the possibly temporary remainder is used as the new remainder. sentence-next The bits of the division result is simply the sequence of bits indicating whether the addition caused a carry or did not cause a carry.
+paragraph-end
 
 
 subheading-begin
