@@ -36,112 +36,159 @@ It's like ...
 paragraph-end
 
 subheading-begin
-Serial Processing Units, not Central Processing Units
+Serial processing units, not central processing units
 subheading-end
+
 
 
 subheading-begin
-Each Sixteen Memory Locations Get Their Own Serial Processing Unit
+Each Memory Word Gets Its Own Serial Processing Unit
 subheading-end
+
+
 
 
 subheading-begin
-Just Sixteen Instructions
+Chip defect tolerance
 subheading-end
+
+paragraph-begin
+The chip's huge number of simple processing units allows lots of them to have chip defects.
+sentence-next
+The runtime compiler can avoid using the units that have a defect.
+sentence-next
+This tolerance will dramaticlly reduce the manufacturing cost.
+paragraph-end
+
+
+subheading-begin
+Programming a serial processing unit
+subheading-end
+
+paragraph-begin
+Instead of instructions, a string of bits is sent to the input side of the serial processing unit, and those bits select which inputs are supplied to that serial processing unit.
+paragraph-end
+
+paragraph-begin
+Each serial processing unit is a one-bit full adder. sentence-next It has an A and B input and a carry input. sentence-next It has a main one-bit output and a carry output. sentence-next 
+
+paragraph-begin
+Based on what is supplied to the A, B, and carry inputs, the main one-bit output of the full adder can calculate these one-bit results:
+paragraph-end
 
 list-begin
-COPY_CHECK_ZERO
+ADD
 list-next
 OR
 list-next
-EXCLUSIVE_OR
+XOR
 list-next
-INCREMENT
-list-next
-DECREMENT
-list-next
-ADD
-list-next
-ADD_WITH_CARRY
-list-next
-SUBTRACT
-list-next
-SUBTRACT_WITH_BORROW
-list-next
-MULTIPLY
-list-next
-DIVIDE
+NOT
 list-end
 
 paragraph-begin
-Not needed because relatively easy alternatives are available:
+Using the above calculations can yield the following numbers:
+paragraph-end
+
+
+paragraph-begin
+As explained above, a string of bits sent to the input side of the serial processing unit select which inputs are supplied to that serial processing unit. sentence-next Here are all the possible inputs. sentence-next Only some of them are available to only some of the single-bit full-adder units.
 paragraph-end
 
 list-begin
-ZERO = A EXCLUSIVE_OR A
+from_adder_above
 list-next
-ALL_ONES = decrement zero
+from_adder_left
 list-next
-NOT = EXCLUSIVE_OR with all ones
+from_adder_right
 list-next
-ONES_COMPLEMENT = NOT with INCREMENT
+from_adder_left_pairwise_N sentence-next where N can be 0 through 31
 list-next
-Floating point calculations = compiler scales and offsets floating-point (and decimal) numbers to become integers that fit between zero and the largest integer
+from_zero
+list-next
+from_one
+list-next
+from_one_initial sentence-next which increments the first bit within a number, and afterward is zero
 list-end
 
-subheading-begin
-Derived Operations
-subheading-end
+paragraph-begin
+The 32 pairwise inputs are used for multiplication using the method described below. sentence-next This input option is available in only some columns (if data flow is top to bottom) or only some rows (if data flow is left to right).
+paragraph-end
 
 paragraph-begin
-INCREMENT = ADD with YES_OR_NO_INPUT_CARRY = yes , YES_OR_NO_FIRST_BIT_CARRY = yes
-XOR = ADD with YES_OR_NO_INPUT_CARRY = yes , YES_OR_NO_FIRST_BIT_CARRY = no
-OR = NOT A , NOT B , XOR , NOT result
+With this simple data processing it is possible to do integer addition, integer subtraction, integer multiplication, and integer division.
+paragraph-end
+
+paragraph-begin
+When decimal numbers are needed, either in the compiler or at runtime, the decimal numbers can be scaled and offset to fit between zero and the largest integer, then after calculating using those integer numbers, the integers can be converted back into decimal numbers.
+paragraph-end
+
+paragraph-begin
+When floating-point numbers are used, either the compiler or the runtime code can manage the sign (plus or minus) and the exponential portion. sentence-next Addition, subtraction, multiplication, and division are done using just the integer portion. sentence-next Then the three parts (sign, mantissa, and exponent) are combined into the standard single floating-point representation.
 paragraph-end
 
 
 subheading-begin
-Compiler Derived Operations
+Choosing the adder inputs
 subheading-end
 
 paragraph-begin
-DIVIDE
-paragraph-end
-
-
-subheading-begin
-Command Bits
-subheading-end
-
-paragraph-begin
-Here's a list of the command bits.
+Here is how the unit input selections are specified for the adder units. sentence-next ....(continue writing here)
 paragraph-end
 
 list-begin
-YES_OR_NO_EXCLUSIVE_OR
+NEW_COMMAND
 list-next
-YES_OR_NO_ADD
-list-next
-YES_OR_NO_MULT
-list-next
-YES_OR_NO_INPUT_CARRY
-list-next
-YES_OR_NO_FIRST_BIT_CARRY
-list-next
-YES_OR_NO_OUTPUT_CARRY
-list-next
-YES_OR_NO_ZERO
-list-next
-YES_OR_NO_ALL_REGISTERS
+SEND_COMMAND
 list-end
 
+
+subheading-begin
+Increment
+subheading-end
+
+
+subheading-begin
+Addition
+subheading-end
+
+
+subheading-begin
+Subtraction
+subheading-end
+
+
+subheading-begin
+Decrement
+subheading-end
+
+
+subheading-begin
+Multiplication
+subheading-end
+
+
+subheading-begin
+Division
+subheading-end
+
+
+subheading-begin
+Reciprocal
+subheading-end
+
+
+subheading-begin
+Data transfers
+subheading-end
+
+
 paragraph-begin
-Here's the complete instruction set.
+All data transfers copy the data without erasing the content of the source location, and without saving the previous content of the destination location.
 paragraph-end
 
 paragraph-begin
-Just four bits per instruction type.
-Can be followed with immediate 4 bits, 8 bits, 12 bits, or 16 bits.
+A data transfer specifies the source cluster and the source cluster offset, or the target cluster and the target cluster offset.
 paragraph-end
 
 list-begin
@@ -159,20 +206,14 @@ JUMP_IF_YES
 list-end
 
 
-subheading-begin
-Variable Length
-subheading-end
 
-paragraph-begin
-8, 16, 32, 64 bits per memory location,
-can have mixed lengths on the same monochip
-paragraph-end
+
 
 
 paragraph-end
-Chip type is capacitor-based "latches" similar to dynamic memory chips.
+If power consumption should be minimized, the chip type is capacitor-based "latches" similar to dynamic memory chips.
 sentence-next
-This dramatically reduces transistor count because a latch requires many transistor.
+This dramatically reduces transistor count because a latch requires many transistors.
 sentence-next
 In contrast, there are just two transistors between each capacitor.
 sentence-next
@@ -184,6 +225,7 @@ paragraph-begin
 paragraph-begin
 Reminder: For CMOS, favor two 2-input AND gates going into OR gate
 paragraph-end
+
 
 
 -----
