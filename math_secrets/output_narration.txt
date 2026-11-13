@@ -36,21 +36,21 @@ you will quickly gain valuable new math insights
 
 you can apply the next time you need to "do math."
 
-Plus, these math insights
+Plus, you'll appreciate learning
 
-provide real-life advantages
+why artificial intelligence easily aces
 
-over artificial intelligence,
+multiple-choice math exams,
 
-even though AI easily aces
+yet cannot wisely create solutions
 
-college-level math exams.
+to challenging real-life problems.
 
 Let's start this journey now.
 
-Biggest Math Secret Number One
+[section title] The secret of Algebra
 
-Here's the first biggest math secret:
+Here's the first biggest math secret.
 
 Algebra is about solving mysteries.
 
@@ -164,9 +164,7 @@ In contrast, lots of notation and terminology
 
 now taught in high school algebra classes
 
-will never be needed in non-science
-
-and non-technical professions.
+is useless in lots of professions.
 
 Solving simple math mysteries
 
@@ -180,7 +178,7 @@ That's what algebra is really about.
 
 And that's what real-life problem solving is about.
 
-Biggest Math Secret Number Two
+[section title] The secret of Division
 
 Did you get caught in the trap of
 
@@ -216,9 +214,11 @@ but ignored, and unused.
 
 So here's the next big secret.
 
-When you get stumped by a real-life math problem,
+When you are faced with a math problem
 
-solving the math probably involves division.
+you don't know how to solve,
+
+you probably need to use division.
 
 Why division? If the math just involves
 
@@ -268,7 +268,7 @@ seventeen miles in twenty-seven minutes.
 
 It's much easier to use division
 
-and then compare fourty four miles per hour
+and then compare forty four miles per hour
 
 with thirty eight miles per hour.
 
@@ -312,7 +312,7 @@ to the slash symbol they will be using
 
 on calculators, computer keyboards, and spreadsheets.
 
-Here's a final tip about division.
+Here's another tip about division.
 
 If you don't know whether the bigger
 
@@ -334,6 +334,32 @@ If the result should be smaller than
 
 one, the smaller number is entered first.
 
+Often, after you've used division,
+
+you need to use it again.
+
+Building on the miles-per-hour example,
+
+let's divide the faster speed by
+
+the slower speed.
+
+The result, which is one point one six,
+
+reveals the faster person traveled
+
+sixteen percent faster
+
+than the slower person.
+
+And we can divide the slower speed
+
+by the faster speed to reveal
+
+the slower speed is eighty six percent
+
+of the faster speed.
+
 Real-life math problems would become
 
 so much easier to solve if students
@@ -346,7 +372,7 @@ It does a lot. It's especially
 
 useful for doing comparisons.
 
-Biggest Math Secret Number Three
+[section title] The secret of Fractions
 
 When someone requests filling their
 
@@ -366,7 +392,7 @@ are very useful for communication.
 
 Fractions are especially useful
 
-in recipies, such as telling you
+in recipes, such as telling you
 
 to combine a half teaspoon of salt
 
@@ -402,15 +428,17 @@ They teach kids how to
 
 add and subtract fractions.
 
-That's not a useful skill in real life.
+That's not a useful skill
+
+if you already know the numbers.
 
 You might disagree if you are a carpenter
 
 who uses a metal tape measure,
 
-or if you work with clothes using
+or you use a cloth tape measure
 
-a cloth tape measure.
+when you work with fabric or yarn.
 
 In these cases, please keep watching
 
@@ -430,7 +458,7 @@ is being used for communication,
 
 there's no need to do division.
 
-Biggest Math Secret Number Four
+[section title] The secret of Decimal Inches
 
 Possibly the biggest loss of joy
 
@@ -454,29 +482,39 @@ are required to buy rulers
 
 with these obsolete markings.
 
-Unfortunately some professions still
+And carpentry, knitting, and sewing
 
-expect you to use fractional inches.
+still use fractional inches.
 
-Carpentry and sewing are two such professions.
+If you use a ruler or tape measure
 
-If you still use rulers or tape
+that is marked with fractions,
 
-measures marked with fractions,
+it's time to buy one that
 
-it's time to buy a ruler and
-
-tape measure with marks for decimal inches.
+measures decimal inches.
 
 You will be amazed at how much easier
 
 it is to add and subtract decimal inches.
 
+Addition goes to the right.
+
+Subtraction goes to the left.
+
+The bigger marks keep track of
+
+the tens digit, the smaller tic marks
+
+keep track of the units digit.
+
 Some educators think we should avoid
 
 fractional inches by switching to
 
-the metric system. Nope!
+centimeters and meters.
+
+Nope!
 
 That misunderstanding is explained
 
@@ -494,11 +532,15 @@ one tenth of an inch.
 
 The pattern of decimal inches is simple.
 
-Find the larger tic mark
+There is a large tic mark
 
-at half an inch. Then count
+at half an inch.
 
-the smaller tic marks two at a time.
+The smaller tic marks
+
+are easy to count
+
+two at a time.
 
 Those tic marks are named point two,
 
@@ -536,29 +578,9 @@ one percent of the
 
 ruler's total marked length.
 
-As another advantage a decimal ruler
-
-makes it easy to add and subtract
-
-integers up to one hundred.
-
-Addition goes to the right.
-
-Subtraction goes to the left.
-
-The bigger marks keep track of
-
-the tens digit, the smaller tic marks
-
-keep track of the units digit.
-
 Workers in the construction industry
 
-already can buy a "decimal tape measure,"
-
-which is sometimes called
-
-an "engineering" tape measure.
+already can buy a "decimal tape measure."
 
 Alas, for people who do sewing,
 
@@ -572,11 +594,15 @@ Switching between decimal inches
 
 and fractional inches is easy
 
-if you use a tape measure that shows both.
+if you use a ruler or tape measure
 
-Just look across to the opposite
+that includes fraction tic marks.
 
-side when you need to convert.
+You can convert by comparing
+
+the fraction tic marks and
+
+the decimal tic marks.
 
 Here's the trick for teaching
 
@@ -592,7 +618,11 @@ with zero in the middle.
 
 Then ask students to count up
 
-and down on the decimal tic marks.
+and down on the decimal tic marks
+
+as they add and subtract
+
+tenths of an inch.
 
 Sometimes they will temporarily
 
@@ -618,7 +648,7 @@ That skill became obsolete centuries ago
 
 when decimal numbers arrived.
 
-Biggest Math Secret Number Five
+[section title] The secret of Units
 
 Europeans use the metric system,
 
@@ -642,67 +672,125 @@ namely minutes, hours, days,
 
 weeks, months, and years.
 
-Some people think we should adopt
+Some people think we should
 
-metric units in the kitchen
-
-for recipies and food prep.
+adopt metric units.
 
 Yet that misses the point.
 
-Recipes in the United States can
-
-continue to specify quantities in
-
-tablespoons, teaspoons, cups,
-
-pints, quarts, and gallons.
-
-Anyone who wants to switch to
-
-different units in the kitchen
-
-can take a picture or screenshot of
-
-any recipie and ask artificial intelligence
-
-to convert it, including all
-
-the measurements in all the steps,
-
-into any units they want.
-
-Elsewhere we can continue to use
+We can continue to use
 
 yards for football fields,
 
 feet for cutting lumber,
 
-and inches for clothing sizes.
+inches for clothing sizes,
 
-Only when we need to do calculations
+and assorted measuring devices
 
-do we need to choose just one unit
+in the kitchen.
 
-for each measurement category.
+Choosing one unit is just needed
 
-This concept is similar to the
+for doing calculations.
 
-distinction between fractions and
+When we don't remember something like
 
-decimal numbers. Fractions are fine
+how many cups are in a pint,
 
-for communication, but decimals
+instead of looking up the conversion rate,
 
-are needed for calculations.
+it's as easy to enter the quantities
 
-In a similar way, any unit can be
+into a computer browser and ask it
 
-used for communication, but choosing
+to do the calculations
 
-just one unit per category
+and show the results
 
-is necessary for doing calculations.
+in any unit we specify.
+
+The most convenient units
+
+for communication typically avoid
+
+including a decimal point.
+
+Europeans can say
+
+fifty seven millimeters
+
+instead of zero point
+
+zero five seven meters.
+
+Here in the US we can say
+
+forty seven tenths of an inch
+
+instead of four point seven inches.
+
+The same trick works for calculations.
+
+When you want to add dollars and cents
+
+on a calculator you can omit pressing
+
+the decimal point key
+
+if you always include both digits
+
+in the cents portion.
+
+This flexibility of choosing units
+
+to avoid including decimal points
+
+has a hidden advantage
+
+in the world of computers.
+
+In the future, computers
+
+at datacenters will save
+
+huge amounts of electricity
+
+by using well-chosen units
+
+that are always integers,
+
+which means decimal points
+
+can be ignored during addition,
+
+subtraction, and multiplication.
+
+Division requires different handling,
+
+but that's not difficult to do.
+
+This same unit choice trick
+
+also will reduce battery consumption
+
+in future mobile devices.
+
+If you should ever get confused
+
+about the distinction between
+
+units used for calculation
+
+and units used for communication,
+
+just remember that units for communication
+
+do not need to match the units
+
+used for calculation.
+
+Just use whatever makes sense.
 
 Here's a final tip about units.
 
@@ -718,7 +806,7 @@ sixty minutes per hour is essentially
 
 the number one. So you can
 
-mulitiply sixty times a number
+multiply sixty times a number
 
 in miles per minute to
 
@@ -742,7 +830,7 @@ can be be converted back into
 
 any meaningful unit for communication.
 
-Biggest Math Secret Number Six
+[section title] The secret of Triangles
 
 Even before children learn how to add
 
@@ -766,13 +854,13 @@ At that point they are ready
 
 to learn to draw a map.
 
+Outdoors the map can be of
+
+fence posts and corners of buildings.
+
 Indoors the map can be of the
 
 classroom or an assembly hall.
-
-Outdoors the map can be of
-
-fenceposts and corners of buildings.
 
 To draw this map there must be
 
@@ -800,7 +888,7 @@ Then the child draws lines that
 
 point to distant places such as
 
-room corners or fenceposts.
+room corners and vertical objects.
 
 These lines must pass through
 
@@ -818,7 +906,7 @@ same location cross is the
 
 location of that wall's corner
 
-or fencepost. The walls and
+or fence post. The walls and
 
 fences can be drawn as straight
 
@@ -852,11 +940,11 @@ with their algebraic mystery-solving skills.
 
 They will realize they can measure
 
-the height of a tall tree or
+the height of tall trees and
 
-building without climbing.
+buildings, without climbing.
 
-That just uses a triangle
+That uses a triangle
 
 that's oriented vertically.
 
@@ -870,9 +958,9 @@ much easier to understand
 
 troublesome math topics including
 
-division, trigonometry, graphing,
+trigonometry, graphing, geometry,
 
-geometry, physics, and even calculus.
+physics, and even calculus.
 
 In fact, the trigonometric functions
 
@@ -882,9 +970,9 @@ are just ratios among the sides
 
 of a right triangle.
 
-Arcsine, arccosine, and arctangent
+Arc-sine, arc-cosine, and arc-tangent
 
-simply convert ratios back
+simply convert those ratios back
 
 into corresponding angles.
 
@@ -906,29 +994,29 @@ and has a Y value equal to the
 
 distance to the paper's bottom edge.
 
-When these students reach high-school
+When students reach high-school
 
 geometry courses, they can more quickly
 
-learn college-entrance geometry topics
+learn college-entrance geometry topics,
 
 such as the cleverest steps in
 
-Euclid's proofs, and non-Euclidean geometry.
+Euclid's proofs.
 
-When they reach a physics course
+When students reach a physics course
 
-they will already be familiar with the
+the concept of a slope
 
-concept of a slope, which simply equals
+will be familiar as the ratio
 
-the ratio between horizontal
+between horizontal distance
 
-distance and vertical distance.
+and vertical distance.
 
-When they reach a calculus course
+When students reach a calculus course
 
-they might recognize that a derivative,
+they will recognize that a derivative,
 
 which is expressed as dy divided by dx,
 
@@ -942,11 +1030,25 @@ Let's start teaching foundational
 
 concepts about triangles much earlier.
 
-Biggest Math Secret Number Seven
+Let's teach these concepts
+
+using animated videos,
+
+and teaching students how to draw maps
+
+on paper without using numbers.
+
+It's time to teach a deep understanding
+
+of triangles in ways that move beyond words
+
+and static images in textbooks.
+
+[section title] The secret of Math History
 
 Which math event led to the decline of
 
-highway robbery and the begining
+highway robbery and the beginning
 
 of the Italian Renaissance?
 
@@ -964,25 +1066,41 @@ and other valuable objects
 
 when they traveled between cities.
 
-That's because ancient Romans
+That's because Roman numerals
 
-did math using Roman numerals,
+were so difficult to use
 
-and popes opposed adopting the new
+it wasn't practical for a local bank
 
-Hindu-Arabic numerals.
+to start a branch in a different city.
 
-Later, adopting the digits zero through nine
+The digits zero through nine
 
-became the math event that made it possible
+had been adopted in
 
-to create banks that served multiple cities.
+Arabic-speaking regions,
 
-Increasingly travelers between cities
+but early popes opposed
 
-carried fewer coins and jewels and
+those Hindu-Arabic numerals
 
-more often carried bank documents.
+as sinful.
+
+After that opposition ended,
+
+the digits zero through nine
+
+made it possible to create
+
+Italian banks that served
+
+multiple cities.
+
+This math innovation allowed
+
+highway travelers to carry bank documents
+
+and fewer coins and jewels.
 
 That's when highway robbery
 
@@ -990,111 +1108,119 @@ began to decline significantly.
 
 Safer travel between cities
 
-increased economic prosperity.
+increased the flow of products
 
-And it increased the flow of ideas,
+and innovative ideas
 
-including artistic influence.
+throughout Europe.
 
-These developments helped lead to
+The innovations included
+
+better sanitation,
+
+improved technology,
+
+and better healthcare.
+
+Those innovations
+
+improved living conditions
+
+and reduced economic suffering
+
+throughout Europe.
+
+Those developments
+
+plus artistic developments
+
+are what we refer to as
 
 the Italian Renaissance.
 
-This math history helps children
+Learning this math history
 
-appreciate that decimal numbers
+helps children understand
 
-are worth learning because they are
+the importance of learning
 
-the foundation of improved communication
+decimal numbers.
 
-and much better living conditions.
+Adults can use math history
 
-Another useful history perspecitve
+to steer us to a wiser future.
 
-is that algebra's
+Currently artificial intelligence
 
-"order of operations" notation
+is getting lots of attention.
 
-developed back when mathematicians
+Yet an even more important math
 
-wrote equations using primitive
+innovation is the growing adoption
 
-technologies such as a quill pen
+of well-designed election systems
 
-and, before that,
+that significantly reduce the excessive
 
-a table sprinkled with sawdust or sand.
+influence of money on election results.
 
-Now you understand why learning
+Specifically,
 
-the order of operations
+better election systems will
 
-is not needed for "doing math."
+defeat the divide-and-conquer tactic
 
-Use as many parentheses as you want.
+that multi-millionaires use to
 
-Or draw rectangles to show grouping.
+control elections in the United States
 
-Since this video has thirteen
+and all other democracies
 
-biggest math secrets, it's worth
+around the world.
 
-mentioning why hotels don't have
+This topic is explained in the video
 
-a thirteenth floor.
+titled "Ranked Choice Voting Plus
 
-Dividing the number thirteen by
-
-any other number was frustrating.
-
-back before decimal numbers arrived.
-
-The centuries-old reputation of
-
-thirteen as an unlucky number
-
-would make the thirteenth floor
-
-of a hotel a tempting target for
-
-mischevious young troublemakers.
-
-Which helps perpetuate the belief
-
-that thirteen is a number worth avoiding.
+Defeats the Blocking Tactic."
 
 Math history, if taught well,
 
-is not only facinating and insightful,
+is not just fascinating and insightful.
 
-it's very inspiring.
+It will inspire students to work harder
 
-So let's use math-history stories
+to better understand math concepts.
 
-to inspire joy and appreciation
+And it will inspire adults to embrace
 
-for what math teachers can teach us.
+well-designed math innovations that
 
-Biggest Math Secret Number Eight
+can deliver a much brighter future.
+
+[section title] The secret of Calculus
 
 Calculus is breathtakingly beautiful.
 
-Using it led to being able to calculate
+Calculus allows us to calculate
 
-the exact position of a planet
+the exact positions of planets,
+
+and now spacecraft,
 
 at any moment in time.
 
-Integrals allow us to exactly calculate
+Specifically, derivatives
 
-the area under a polynomial curve.
-
-Derivatives allow us to exactly calculate
+allow us to exactly calculate
 
 the speed of a falling object
 
 at every moment during its fall.
+
+Integrals allow us to exactly calculate
+
+the area under a polynomial curve.
 
 Yet for many people climbing the
 
@@ -1108,7 +1234,7 @@ and money considering that
 
 very very few professions
 
-require using calculus for any calculations.
+use calculus for any calculations.
 
 In a similar way, advanced algebra
 
@@ -1116,7 +1242,9 @@ is filled with beautiful concepts
 
 that involve vectors, matrices,
 
-advanced trigonometry, and imaginary numbers.
+advanced trigonometry,
+
+and imaginary numbers.
 
 Yet these topics also aren't used
 
@@ -1246,7 +1374,7 @@ and help create solutions to
 
 the many problems civilization now faces.
 
-Biggest Math Secret Number Nine
+[section title] The secret of Math Terminology
 
 When scientists and engineers design
 
@@ -1262,11 +1390,13 @@ squares of the two shorter sides
 
 equals the square of the longer side.
 
-Yet math tests assume a student who
+Yet terminology dominates math tests
 
-doesn't remember this name does not
+as if a student who doesn't remember
 
-understand the concept.
+this name does not fully understand
+
+the underlying concept.
 
 Let's keep things in perspective.
 
@@ -1274,7 +1404,7 @@ Multiple civilizations discovered
 
 this concept and used it for many
 
-centuries before Pythagorus was born.
+centuries before Pythagoras was born.
 
 Why do math textbooks and
 
@@ -1352,11 +1482,13 @@ When advanced terminology is important,
 
 definitions are readily available
 
-by searching Wikipedia
+on Wikipedia.
 
-and asking for assistance from
+Significantly, artificial intelligence
 
-artificial intelligence services.
+uses Wikipedia pages as a cheat sheet,
+
+which is why AI aces math tests.
 
 This means math education
 
@@ -1364,21 +1496,17 @@ should reduce the number of math terms
 
 being taught in school.
 
-When video and audio learning resources
+Not because they aren't important.
 
-are created, they should
+But because testing whether
 
-avoid making the same mistake.
+students have memorized terminology
 
-Let's remember that insightful
+distracts from deeply learning
 
-math concepts are much more important
+the underlying insightful concepts.
 
-than seldom-used terminology
-
-and precise definitions.
-
-Biggest Math Secret Number Ten
+[section title] The secret of Math Testing
 
 Multiple choice tests are obsolete.
 
@@ -1422,6 +1550,16 @@ that kids from wealthy families
 
 get from privately hired math tutors.
 
+In addition to teaching and testing,
+
+the best software will be fun
+
+computer games in which
+
+the joy of mathematics
+
+will increase motivation to learn.
+
 Math teachers have a favorite mantra
 
 to "show your work."
@@ -1430,55 +1568,43 @@ Well-designed software will accomplish
 
 this goal by following a student
 
-through each step the student takes.
+through each step the student takes,
 
-For this reason the software will
+including tracking each press of a key
 
-include an on-screen calculator
+when using an on-screen calculator.
 
-so the software can pay attention
-
-to how it's used.
-
-Whenever the student struggles
-
-to understand a new concept,
+When the student struggles,
 
 the software will not just recognize
 
 the lack of understanding.
 
-It will immediately give the student
+The teaching software will immediately
 
-yet another way to understand the concept.
+give the student yet another way
 
-This development will force universities
+to understand the concept.
 
-to change how they choose who to admit.
+This development will merge testing
 
-Probably universities will switch to
+with teaching.
 
-similar software to test the
+And it will enable math teaching
 
-mental skills of potential students.
+to focus more attention on concepts,
 
-This improved testing will shift away
+and focus less attention on
 
-from asking students to recall
+asking students to memorize and recall
 
 carefully worded definitions
 
-of advanced terminology.
+of advanced terminology,
 
-Instead the focus will shift to
+which is what computers
 
-assessing how deeply the student
-
-understands fundamental math concepts.
-
-And how quickly the student
-
-can learn new concepts.
+are especially good at.
 
 The math-testing industry will
 
@@ -1488,21 +1614,29 @@ Yet ultimately the fight will be won
 
 by cultures and nations
 
-that prioritize teaching over testing.
+that prioritize efficient teaching
 
-Those are the cultures and nations
+as more important than
 
-that will more efficiently invent
+testing.
 
-economically valuable technology
+We need to prioritize
+
+transforming students
+
+into adults who can invent
+
+valuable new technology
 
 and useful innovations.
 
-After all, that is the most important
+This pursuit of valuable innovations
 
-reason for spending money on public education.
+is why governments spend so much money
 
-Biggest Math Secret Number Eleven
+on public education.
+
+[section title] The secret of Math Notation
 
 You've probably seen the math
 
@@ -1560,7 +1694,9 @@ The secret here is that math teachers
 
 need to admit that written math notation
 
-is becoming obsolete for non-math professions.
+does not match the needs of
+
+modern non-math professions.
 
 Without this secret being revealed,
 
@@ -1568,39 +1704,31 @@ students assume they are to blame
 
 for struggling to learn math notation.
 
-Scientists, mathematicians, and engineers
+Let's allow students going into
 
-can continue to use traditional
+professions other than science,
 
-written math notation.
+mathematics, and engineering,
 
-That doesn't need to change.
+to learn math concepts without also
 
-However, students going into other
+learning a notation system that is
 
-professions should be allowed
-
-to learn math concepts without
-
-also learning a notation system
-
-that is failing to keep up with
+failing to keep up with
 
 recent technical developments.
 
-Computer programming shares
+A similar challenge is happening
 
-a similar challenge.
+in computer programming languages.
 
-Most computer programming languages
+It's not easy to speak symbols
 
-cannot be spoken into a microphone
+and punctuation marks
 
-because they use lots of symbols
+into a microphone.
 
-and punctuation marks.
-
-An important challenge shared by
+Another important challenge in both
 
 math and programming languages
 
@@ -1628,7 +1756,7 @@ This allows the words
 
 to be used to indicate groupings.
 
-The Dashrep programming lanugage,
+The Dashrep programming language,
 
 which is speakable, uses the words
 
@@ -1648,13 +1776,13 @@ must somehow make the transition
 
 from written language to spoken language.
 
-Especially now that
+Especially because
 
-artificial intelligence has been
+artificial intelligence can now
 
-trained to understand spoken language.
+understand spoken language.
 
-Biggest Math Secret Number Twelve
+[section title] The secret of Statistics
 
 Suppose you don't know how to swim.
 
@@ -1676,11 +1804,11 @@ standard deviation help you decide?
 
 Statistics courses spend lots of time
 
-teaching how to characterize lots
+teaching you how to characterize
 
-of data by reducing it to
+lots of data by reducing it
 
-just a few numbers.
+to just a few numbers.
 
 Sometimes that's very useful.
 
@@ -1690,15 +1818,17 @@ To answer the question about
 
 wading across a river,
 
-what you really need is a map.
+what you really need is a chart
 
-Ideally it would be a topographic
+that shows the depth profile
 
-map that shows river depth at all locations.
+at the crossing point.
 
-Then you will know
+Better yet, a map showing other
 
-where it's safe to wade across.
+river depths at other crossing points
+
+would be very helpful.
 
 Notice the numbers for average, median,
 
@@ -1712,39 +1842,93 @@ serve to characterize what's called
 
 a normal distribution.
 
-Yet real life seldom involves
+If you're trying to solve a
 
-normal distributions.
+challenging real-life problem,
 
-In fact, when you're trying to solve
+probably the situation does not involve
 
-a real-life problem, probably
+a normal distribution.
 
-a normal distribution doesn't apply.
+Suppose a business has six employees,
 
-That's why unsolved problems
+and they earn these six wage amounts.
 
-typically are challenging.
+Here's a useful way to characterize
 
-Being able to calculate a number
+this non-normal distribution.
 
-is just a beginning.
+First we split the employees at the median
 
-We constantly need to recognize
+so the two groups have the same
 
-what the number really means.
+number of employees.
 
-For example, if you have a financial
+Then we average the wages in
 
-investment that increases by fifteen percent,
+each of the two groups.
 
-and then decreases by fifteen percent,
+Next we use subtraction to calculate
 
-have you gained money,
+a wage gap.
 
-lost money, or are you back
+Then we divide this wage gap
 
-to your original dollar amount?
+by the minimum wage.
+
+The result is a dimensionless index
+
+called the wage gap index.
+
+This wage gap index allows consumers,
+
+employees, governments, and economists
+
+to compare the wage gap in this business
+
+with the wage gap in other businesses,
+
+even in other countries that pay
+
+using different currency.
+
+These comparisons become useful
+
+for making decisions about
+
+where to shop, where to get hired,
+
+and identifying where money flows into
+
+or out of the local economy.
+
+These examples reveal the secret
+
+of statistics, which is that
+
+understanding what each number
+
+really means is more important
+
+than memorizing math equations
+
+and carefully defined terminology.
+
+With this secret in mind,
+
+suppose you have a financial investment
+
+that increases by fifteen percent,
+
+and then decreases by fifteen percent.
+
+Have you gained money
+
+or lost money?
+
+Or are you back to your
+
+original dollar amount?
 
 Even after studying statistics,
 
@@ -1762,7 +1946,7 @@ the percent numbers can be added
 
 and subtracted, as if an increase
 
-of fifteeen percent followed by
+of fifteen percent followed by
 
 a decrease of fifteen percent
 
@@ -1770,7 +1954,9 @@ yields no change.
 
 Instead, deeper thinking reveals
 
-the result is a smaller number.
+the result is a smaller number,
+
+which means there is a loss of money.
 
 Numbers are great. They give us information.
 
@@ -1784,7 +1970,7 @@ So we always need to dig deep
 
 to reach a clear understanding.
 
-Biggest Math Secret Number Thirteen
+[section title] The secret of Geometry
 
 Geometry is filled with beautiful images
 
@@ -1810,15 +1996,21 @@ That's a noble goal.
 
 Unfortunately math teachers
 
-and geometry textbooks excessively focus
+and geometry textbooks
 
-on aspects of Euclid's proofs that can be
+excessively focus on aspects
 
-tested using multiple-choice tests.
+of Euclid's proofs that can be tested
 
-This is the big secret of geometry.
+using multiple-choice tests.
 
-The beauty and joyous potential of geometry
+With this perspective in mind,
+
+the big secret of geometry
+
+is that the beauty and
+
+joyous potential of geometry
 
 has been hijacked
 
@@ -1852,25 +2044,71 @@ including ones that show
 
 highlights of Euclid's proofs.
 
-Here is an animation that shows
+To demonstrate that videos
+
+are a better match for geometry,
+
+here is an animation that shows
 
 how to remember how to calculate
 
 a triangle's area.
 
-The area is half the area of
+Notice that graphics and videos
 
-the surrounding rectangle.
+more efficiently teach geometry
 
-Graphics, including animated graphic videos,
+compared to textbooks filled with words.
 
-can help students learn rigorous thinking
+The goal of teaching rigorous thinking
 
-skills within the field of geometry.
+using Euclid's geometry proofs
 
-Then, after graduation, that rigorous thinking
+brings us to perhaps the biggest secret.
 
-can help them solve problems in the real world.
+All of math is used as an arena
+
+in which to practice
+
+clear thinking,
+
+careful thinking,
+
+and rigorous thinking.
+
+These thinking skills
+
+are assumed to help students reach
+
+the higher goal of
+
+learning how to create solutions
+
+to challenging real-life problems.
+
+That's what employers look for
+
+in their best-paid employees.
+
+In other words,
+
+for lots of professions,
+
+all of math is a huge test
+
+designed to identify
+
+which potential employees
+
+are capable of mastering
+
+the highest-paid skills
+
+across a variety of professions.
+
+Even professions that don't require
+
+much proficiency in mathematics.
 
 What do these thirteen secrets
 
@@ -1886,55 +2124,117 @@ Students know that math education
 
 is fundamentally flawed.
 
-One of their clues that something is wrong
+That's because many students
 
-is that lots of parents can't help
+don't get satisfactory answers
 
-their children with math homework.
+when they ask a parent
 
-So they ask "If it's so important
+to help with their math homework.
+
+When they ask "If it's so important
 
 to learn, why didn't you learn it?"
 
-It's time to start teaching what students
+parents struggle to give a meaningful answer.
 
-really need for solving real-life
+If you're a young student,
 
-math problems as an adult.
+you can focus your attention
 
-If you're a teacher you can begin
+on learning important math concepts,
 
-to teach your favorite of these math secrets.
+and delaying the memorization
 
-If you're an adult, notice you are now
+of advanced math notation
 
-less afraid of math. So take your time
+and advanced terminology.
 
-the next time you encounter
+If you're a teenage student
+
+who won't need calculus or geometry
+
+in your future profession,
+
+you can play the game of learning
+
+math terminology and math notation
+
+just long enough to get good scores
+
+on college-entrance exams.
+
+If you will be using
+
+only a limited amount of math
+
+in your future profession,
+
+you can focus on the parts of math
+
+you will really need.
+
+Then in high school you can
+
+learn shortcuts to get good scores
+
+on multiple-choice math tests.
+
+If you're a parent you now can explain
+
+the real goals of math,
+
+which include the ability to create
+
+solutions to real-life, non-math, problems,
+
+and the ability to think clearly and rigorously.
+
+If you're an adult who hasn't liked math,
+
+notice you are now less afraid of math.
+
+That's because you've learned
+
+some math insights that don't
+
+require memorization.
+
+Your reduced fear makes it easier
+
+to concentrate and take your time
+
+when you next encounter
 
 the need to "do math."
 
-If you're a student you can focus
+Remember to feel free
 
-your attention on the important
+to use any notation you want.
 
-fundametals and underlying concepts of math.
+Draw diagrams on paper
 
-Especially remember to experience
+when images arise in your mind.
 
-the joy of mathematics. Yet also
+And approach the math challenge
 
-consider you now have permission
+as if it's a mystery in which
 
-to learn shortcuts to get you through
+you need to discover the identity
 
-the parts you know you won't need
+of a number called "X."
 
-after you enter college.
+If you're a teacher,
 
-To help others, please share
+you can teach your favorite
 
-these math secrets with
+of these thirteen math secrets.
+
+Regardless of your situation,
+
+if you want to help others,
+
+please share these math secrets with
 
 children, students, and interested adults.
 
@@ -1944,13 +2244,25 @@ the joy of math
 
 now that you know
 
-where that joy is hidden.
+where math's joy is hidden.
 
 Narration by ....
 
+Ai-generated images created at
+
+Craiyon dot com.
+
 Video created by Richard Fobes,
 
-the author of this how-to book
+who experienced the joys of math
+
+while getting a degree in physics.
+
+Richard is the author of
+
+The Creative Problem Solver's Toolbox,
+
+which is a how-to book
 
 on creative problem solving
 
